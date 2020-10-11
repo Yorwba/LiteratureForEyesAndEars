@@ -40,3 +40,7 @@ books/librivox.org/%/files/: books/librivox.org/%/librivox.json
 	wget --no-clobber $(shell code/librivox_archive_zip.py "$<") \
 		--directory-prefix=$(dir $<)
 	unzip $(dir $<)*.zip -d "$@"
+
+books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
+	wget --no-clobber 'https://web.archive.org/'$(shell code/librivox_plain_text.py "$<") \
+		-O "$@"
