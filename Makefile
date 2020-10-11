@@ -26,3 +26,12 @@ assets/background_tiny.png: assets/background_full_hd.png
 		-t "$(shell ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$*".mp3)" \
 		-pix_fmt yuvj420p \
 		"$@"
+
+books/librivox.org/%/librivox.json:
+	mkdir -p "$(dir $@)"
+	curl 'https://librivox.org/api/feed/audiobooks/?id='$(shell \
+		curl 'https://librivox.org/'"$*"'/' |\
+			grep -o -e '"https://librivox.org/rss/[0-9]*"' |\
+			grep -o -e'[0-9]*' \
+		)'&format=json&extended=1' \
+		> "$@"
