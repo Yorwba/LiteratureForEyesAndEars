@@ -1,15 +1,15 @@
 
 
-assets/background.png: assets/CC0_button.png assets/logo.png
+assets/background_full_hd.png: assets/CC0_button.png assets/logo.png
 	convert -size 1920x1080 xc:black \
 		-gravity Northeast -draw "image over 0,0 0,0 'assets/CC0_button.png'" \
 		-gravity Southwest -draw "image over 0,0 0,0 'assets/logo.png'" \
 		"$@"
 
-assets/background_tiny.png: assets/background.png
+assets/background_tiny.png: assets/background_full_hd.png
 	convert "$<" -resize 10% "$@"
 
-%.mkv: assets/background.png %.mp3 %.ass
+%_full_hd.mkv: assets/background_full_hd.png %.mp3 %.ass
 	ffmpeg -y \
 		-loop 1 -i "$<" \
 		-i "$*".mp3 \
