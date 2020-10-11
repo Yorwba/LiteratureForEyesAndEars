@@ -13,8 +13,8 @@ assets/background_tiny.png: assets/background_full_hd.png
 	ffmpeg -y \
 		-loop 1 -i "$<" \
 		-i "$*".mp3 \
-		-i "$*".ass \
-		-t "$(shell ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$*".mp3)" \
+		-vf subtitles=f="$*".ass \
+		-shortest \
 		"$@"
 
 %_tiny.mkv: assets/background_tiny.png %.mp3 %.ass
