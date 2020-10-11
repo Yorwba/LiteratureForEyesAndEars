@@ -35,3 +35,8 @@ books/librivox.org/%/librivox.json:
 			grep -o -e'[0-9]*' \
 		)'&format=json&extended=1' \
 		> "$@"
+
+books/librivox.org/%/files/: books/librivox.org/%/librivox.json
+	wget --no-clobber $(shell code/librivox_archive_zip.py "$<") \
+		--directory-prefix=$(dir $<)
+	unzip $(dir $<)*.zip -d "$@"
