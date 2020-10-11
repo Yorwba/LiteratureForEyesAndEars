@@ -15,6 +15,7 @@ assets/background_tiny.png: assets/background_full_hd.png
 		-i "$*".mp3 \
 		-vf subtitles=f="$*".ass \
 		-shortest \
+		-pix_fmt yuvj420p \
 		"$@"
 
 %_tiny.mkv: assets/background_tiny.png %.mp3 %.ass
@@ -23,4 +24,5 @@ assets/background_tiny.png: assets/background_full_hd.png
 		-i "$*".mp3 \
 		-i "$*".ass \
 		-t "$(shell ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$*".mp3)" \
+		-pix_fmt yuvj420p \
 		"$@"
