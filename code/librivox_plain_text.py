@@ -9,6 +9,10 @@ def gutenberg_plain_text(url):
     if url.startswith(prefix):
         number = url[len(prefix):]
         return 'https://www.gutenberg.org/files/'+number+'/'+number+'.txt'
+    prefix = 'http://www.gutenberg.org/etext/'
+    if url.startswith(prefix):
+        number = url[len(prefix):]
+        return 'https://www.gutenberg.org/files/'+number+'/'+number+'.txt'
     raise Exception("Can't handle URL: "+url)
 
 if __name__ == '__main__':
