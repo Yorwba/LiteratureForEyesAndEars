@@ -1,4 +1,4 @@
-
+.SECONDARY:
 
 assets/background_full_hd.png: assets/CC0_button.png assets/logo.png
 	convert -size 1920x1080 xc:black \
