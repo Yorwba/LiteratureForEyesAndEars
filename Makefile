@@ -19,30 +19,33 @@ assets/background_tiny.png: assets/background_full_hd.png
 		"$@"
 
 %_tiny.mkv: assets/background_tiny.png %.mp3 %.ass
+	RUNTIME=$$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$*".mp3) && \
 	ffmpeg -y \
 		-loop 1 -i "$<" \
 		-i "$*".mp3 \
 		-i "$*".ass \
-		-t "$(shell ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$*".mp3)" \
+		-t "$$RUNTIME" \
 		-pix_fmt yuvj420p \
 		"$@"
 
 books/librivox.org/%/librivox.json:
 	mkdir -p "$(dir $@)"
-	curl 'https://librivox.org/api/feed/audiobooks/?id='$(shell \
-		curl 'https://librivox.org/'"$*"'/' |\
-			grep -o -e '"https://librivox.org/rss/[0-9]*"' |\
-			grep -o -e'[0-9]*' \
-		)'&format=json&extended=1' \
+	ID=$$(curl 'https://librivox.org/'"$*"'/' |\
+		grep -o -e '"https://librivox.org/rss/[0-9]*"' |\
+		grep -o -e'[0-9]*' \
+	) && \
+	curl 'https://librivox.org/api/feed/audiobooks/?id='$$ID'&format=json&extended=1' \
 		> "$@"
 
 books/librivox.org/%/files/: books/librivox.org/%/librivox.json
-	wget --no-clobber $(shell code/librivox_archive_zip.py "$<") \
+	ARCHIVE_ZIP=$$(code/librivox_archive_zip.py "$<") && \
+	wget --no-clobber $$ARCHIVE_ZIP \
 		--directory-prefix=$(dir $<)
 	unzip $(dir $<)*.zip -d "$@"
 
 books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
-	wget --no-clobber 'https://web.archive.org/'$(shell code/librivox_plain_text.py "$<") \
+	PLAIN_TEXT=$$(code/librivox_plain_text.py "$<") && \
+	wget --no-clobber 'https://web.archive.org/'$$PLAIN_TEXT \
 		-O "$@"
 
 books/librivox.org/%.align.json: books/librivox.org/%.mp3 books/librivox.org/%.txt
