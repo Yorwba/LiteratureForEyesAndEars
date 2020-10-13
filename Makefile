@@ -56,4 +56,4 @@ books/librivox.org/%.ass: books/librivox.org/%.mp3 books/librivox.org/%.align.js
 	ascanius $^ 'task_language=eng|is_text_type=json|os_task_file_format=ass' "$@"
 
 books/librivox.org/%.split_paragraphs: books/librivox.org/%.align.json
-	code/find_splits.py 60 14 "$<" > books/librivox.org/"$*".txt
+	code/find_splits.py 60 14 "$<" books/librivox.org/"$*".txt

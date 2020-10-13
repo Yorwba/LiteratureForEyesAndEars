@@ -49,10 +49,19 @@ if __name__ == '__main__':
     lines_per_paragraph = int(sys.argv[2])
     with open(sys.argv[3]) as f: alignments = json.load(f)
 
+    output_lines = []
     first_paragraph = True
+    split_happened = False
     for paragraph in alignments:
-        for split in split_paragraph(paragraph, characters_per_line, lines_per_paragraph):
+        splits = split_paragraph(paragraph, characters_per_line, lines_per_paragraph)
+        if len(splits) > 1:
+            split_happened = True
+        for split in splits:
             if not first_paragraph:
-                print()
+                output_lines.append('\n')
             first_paragraph = False
-            print(split['span'].rstrip())
+            output_lines.append(split['span'].rstrip()+'\n')
+
+    if split_happened:
+        with open(sys.argv[4], 'w') as f:
+            f.writelines(output_lines)
