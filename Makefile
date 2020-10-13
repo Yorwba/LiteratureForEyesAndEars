@@ -17,7 +17,8 @@ assets/background_tiny.png: assets/background_full_hd.png
 		-vf subtitles=f="$*".ass \
 		-shortest \
 		-pix_fmt yuvj420p \
-		"$@"
+		"$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 %_tiny.mkv: assets/background_tiny.png %.mp3 %.ass
 	RUNTIME=$$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$*".mp3) && \
@@ -27,7 +28,8 @@ assets/background_tiny.png: assets/background_full_hd.png
 		-i "$*".ass \
 		-t "$$RUNTIME" \
 		-pix_fmt yuvj420p \
-		"$@"
+		"$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%/librivox.json:
 	mkdir -p "$(dir $@)"
