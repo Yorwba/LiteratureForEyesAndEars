@@ -54,6 +54,13 @@ books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
 books/librivox.org/%/joined.txt: books/librivox.org/%/files/*.txt
 	cat $(sort $^) > "$@"
 
+null  :=
+space := $(null) # The variable reference prevents the space from stripping
+pipe  := |
+
+books/librivox.org/%/joined.mp3: books/librivox.org/%/files/*.mp3
+	ffmpeg -i concat:"$(subst $(space),$(pipe),$(sort $^))" "$@"
+
 books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
 	ffmpeg -i "$<" -af dynaudnorm=g=5 "$@"
 
