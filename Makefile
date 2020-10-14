@@ -51,10 +51,13 @@ books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
 	wget --no-clobber 'https://web.archive.org/'$$PLAIN_TEXT \
 		-O "$@"
 
-books/librivox.org/%.align.json: books/librivox.org/%.mp3 books/librivox.org/%.txt
+books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
+	ffmpeg -i "$<" -af dynaudnorm=g=5 "$@"
+
+books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.txt
 	ascanius $^ 'task_language=eng|is_text_type=plain|vad_extend_speech_before=1|vad_extend_speech_after=1|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
 
-books/librivox.org/%.ass: books/librivox.org/%.mp3 books/librivox.org/%.align.json
+books/librivox.org/%.ass: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.align.json
 	ascanius $^ 'task_language=eng|is_text_type=json|os_task_file_format=ass' "$@"
 
 books/librivox.org/%.split_paragraphs: books/librivox.org/%.align.json
