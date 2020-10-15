@@ -59,10 +59,10 @@ space := $(null) # The variable reference prevents the space from stripping
 pipe  := |
 
 books/librivox.org/%/joined.mp3: books/librivox.org/%/files/*.mp3
-	ffmpeg -i concat:"$(subst $(space),$(pipe),$(sort $(filter-out %.dynaudnorm.mp3, $^)))" "$@"
+	ffmpeg -y -i concat:"$(subst $(space),$(pipe),$(sort $(filter-out %.dynaudnorm.mp3, $^)))" "$@"
 
 books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
-	ffmpeg -i "$<" -af dynaudnorm=g=5 "$@"
+	ffmpeg -y -i "$<" -af dynaudnorm=g=5 "$@"
 
 books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.txt
 	ascanius $^ 'task_language=eng|is_text_type=plain|vad_extend_speech_before=1|vad_extend_speech_after=1|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
