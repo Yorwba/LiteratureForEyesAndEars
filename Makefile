@@ -59,7 +59,7 @@ space := $(null) # The variable reference prevents the space from stripping
 pipe  := |
 
 books/librivox.org/%/joined.mp3: books/librivox.org/%/files/*.mp3
-	ffmpeg -i concat:"$(subst $(space),$(pipe),$(sort $^))" "$@"
+	ffmpeg -i concat:"$(subst $(space),$(pipe),$(sort $(filter-out %.dynaudnorm.mp3, $^)))" "$@"
 
 books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
 	ffmpeg -i "$<" -af dynaudnorm=g=5 "$@"
