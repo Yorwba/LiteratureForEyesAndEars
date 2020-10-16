@@ -70,5 +70,8 @@ books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/libri
 books/librivox.org/%.ass: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.align.json
 	ascanius $^ 'task_language=eng|is_text_type=json|os_task_file_format=ass' "$@"
 
+books/librivox.org/%.srt: books/librivox.org/%.align.json
+	code/srt.py "$<" > "$@"
+
 books/librivox.org/%.split_paragraphs: books/librivox.org/%.align.json
 	code/find_splits.py 60 14 "$<" books/librivox.org/"$*".txt
