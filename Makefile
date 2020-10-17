@@ -51,6 +51,9 @@ books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
 	wget --no-clobber 'https://web.archive.org/'$$PLAIN_TEXT \
 		-O "$@"
 
+books/librivox.org/%/youtube-description.txt: books/librivox.org/%/librivox.json
+	code/youtube-description.py "$<" > "$@"
+
 books/librivox.org/%/joined.txt: books/librivox.org/%/files/*.txt
 	cat $(sort $^) > "$@"
 
