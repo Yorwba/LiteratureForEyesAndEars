@@ -35,5 +35,5 @@ if __name__ == '__main__':
             sub_index += 1
             print(sub_index)
             print('{} --> {}'.format(format_srt_time(split['start_time']), format_srt_time(split['end_time'])))
-            print(split['span'])
+            print(split['span'].strip())
             print()
