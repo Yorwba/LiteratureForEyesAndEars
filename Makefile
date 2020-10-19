@@ -32,7 +32,7 @@ assets/background_tiny.png: assets/background_full_hd.png
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/1000_books_starting_from_%.json:
-	curl 'https://librivox.org/api/feed/audiobooks/?limit=1000&offset='$*'&format=json&fields=\{id,language,url_librivox,totaltimesecs\}' \
+	curl 'https://librivox.org/api/feed/audiobooks/?limit=1000&offset='$*'&format=json&fields=\{id,language,url_librivox,url_text_source,totaltimesecs\}' \
 		> "$@"
 
 books/librivox.org/all.json: $(foreach i,$(shell seq 0 15),books/librivox.org/1000_books_starting_from_$(i)000.json)
@@ -54,9 +54,7 @@ books/librivox.org/%/files/: books/librivox.org/%/librivox.json
 	unzip $(dir $<)*.zip -d "$@"
 
 books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
-	PLAIN_TEXT=$$(code/librivox_plain_text.py "$<") && \
-	wget --no-clobber 'https://web.archive.org/'$$PLAIN_TEXT \
-		-O "$@"
+	code/librivox_plain_text.py "$<" > "$@" || rm "$@"
 
 books/librivox.org/%/youtube-description.txt: books/librivox.org/%/librivox.json
 	code/youtube-description.py "$<" > "$@"
