@@ -31,6 +31,13 @@ assets/background_tiny.png: assets/background_full_hd.png
 		"$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
+books/librivox.org/1000_books_starting_from_%.json:
+	curl 'https://librivox.org/api/feed/audiobooks/?limit=1000&offset='$*'&format=json&fields=\{id,language,url_librivox,totaltimesecs\}' \
+		> "$@"
+
+books/librivox.org/all.json: $(foreach i,$(shell seq 0 15),books/librivox.org/1000_books_starting_from_$(i)000.json)
+	code/librivox_concat_book_lists.py $^ > "$@"
+
 books/librivox.org/%/librivox.json:
 	mkdir -p "$(dir $@)"
 	ID=$$(curl 'https://librivox.org/'"$*"'/' |\
