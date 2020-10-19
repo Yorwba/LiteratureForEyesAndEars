@@ -55,7 +55,7 @@ if __name__ == '__main__':
         for split in splits:
             paragraphs.append(split['span'].rstrip()+'\n\n')
 
-    new_text = ''.join(paragraphs)
+    new_text = ''.join(paragraphs).rstrip()+'\n\n'
 
     with open(sys.argv[4], 'r') as f: old_text = f.read()
 
