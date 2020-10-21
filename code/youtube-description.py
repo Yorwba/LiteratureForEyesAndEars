@@ -65,7 +65,7 @@ WORD = re.compile(r'\w+')
 def hashtags(book):
     language = book['language']
     words = ['Learn'+language] + [
-        w for g in book['genres'] for w in WORD.findall(g['name'])
+        ''.join(WORD.findall(g['name'])) for g in book['genres']
     ]
     tags = []
     seen = set()
