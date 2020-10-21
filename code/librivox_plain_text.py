@@ -6,19 +6,23 @@ import sys
 import urllib.request
 
 
-ARCHIVE_SRC = re.compile('<iframe id="playback" src="([^"]*)"')
+ARCHIVE_SRC = re.compile(b'<iframe id="playback" src="([^"]*)"')
+ENCODING = re.compile(b'\nCharacter set encoding: (.*)\n')
 def try_get(url):
     print('Trying', url, file=sys.stderr)
     with urllib.request.urlopen(url, timeout=5.) as response:
         if 'block.pglaf.org' in response.url:
             return try_get('https://web.archive.org/'+url)
         if response.status == 200:
-            text = response.read().decode('utf-8')
+            text = response.read()
             src = ARCHIVE_SRC.search(text)
             if src:
-                return try_get(src.group(1))
+                return try_get(src.group(1).decode('ascii'))
             else:
-                return text
+                encoding = ENCODING.search(text)
+                if encoding:
+                    encoding = encoding.group(1).decode('ascii')
+                return text.decode(encoding)
         raise Exception("Couldn't get data at url: "+url)
 
 
@@ -38,6 +42,7 @@ def gutenberg_plain_text(url):
     number = gutenberg_id(url)
     urls = [
         'http://www.gutenberg.org/files/'+number+'/'+number+'-0.txt',
+        'http://www.gutenberg.org/files/'+number+'/'+number+'-8.txt',
         'http://www.gutenberg.org/files/'+number+'/'+number+'.txt',
     ]
 
@@ -46,7 +51,7 @@ def gutenberg_plain_text(url):
             text = try_get(url)
             return text
             break
-        except e:
+        except Exception as e:
             print(e, file=sys.stderr)
             pass
 
