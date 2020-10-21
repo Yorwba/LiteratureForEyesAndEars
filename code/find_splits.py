@@ -21,12 +21,11 @@ def split_paragraph(paragraph, characters_per_line, lines_per_paragraph):
         lines_so_far = num_lines(text_so_far, characters_per_line)
         if lines_so_far > lines_per_paragraph:
             break
-        if lines_so_far > lines_per_paragraph/3:
-            next_sub = paragraph['subalignments'][i+1]
-            delta = next_sub['start_time'] - sub['end_time']
-            if delta > best_delta:
-                best_delta = delta
-                best_break = i
+        next_sub = paragraph['subalignments'][i+1]
+        delta = next_sub['start_time'] - sub['end_time']
+        if delta > best_delta:
+            best_delta = delta
+            best_break = i
     if best_break is None:
         raise Exception("Paragraph is impossible to break:\n"+str(paragraph))
     paragraph_before_break = {
