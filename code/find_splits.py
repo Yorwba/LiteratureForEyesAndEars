@@ -16,18 +16,28 @@ def split_paragraph(paragraph, characters_per_line, lines_per_paragraph):
     best_break = None
     best_delta = -1
     text_so_far = ''
+    previous_end = None
     for i, sub in enumerate(paragraph['subalignments']):
         text_so_far += sub['span']
         lines_so_far = num_lines(text_so_far, characters_per_line)
         if lines_so_far > lines_per_paragraph:
             break
+        if any(c.isalnum() for c in sub['span']) or not previous_end:
+            previous_end = sub['end_time']
         next_sub = paragraph['subalignments'][i+1]
-        delta = next_sub['start_time'] - sub['end_time']
-        if delta > best_delta:
+        delta = next_sub['start_time'] - previous_end
+        if delta >= best_delta:
             best_delta = delta
             best_break = i
     if best_break is None:
-        raise Exception("Paragraph is impossible to break:\n"+str(paragraph))
+        split_first = split_paragraph(paragraph['subalignments'][0], characters_per_line, lines_per_paragraph)
+        new_paragraph = {
+            'start_time': paragraph['start_time'],
+            'end_time': paragraph['end_time'],
+            'span': paragraph['span'],
+            'subalignments': split_first + paragraph['subalignments'][1:],
+        }
+        return split_paragraph(new_paragraph, characters_per_line, lines_per_paragraph)
     paragraph_before_break = {
         'start_time': paragraph['start_time'],
         'end_time': paragraph['subalignments'][best_break]['end_time'],
