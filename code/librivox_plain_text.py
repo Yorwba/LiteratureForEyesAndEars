@@ -22,7 +22,7 @@ def try_get(url):
                 encoding = ENCODING.search(text)
                 if encoding:
                     encoding = encoding.group(1).decode('ascii')
-                return text.decode(encoding)
+                return '\n'.join(text.decode(encoding).splitlines())
         raise Exception("Couldn't get data at url: "+url)
 
 
