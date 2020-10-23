@@ -9,6 +9,7 @@ language_codes = {
     'English': 'eng',
     'German': 'deu',
     'Spanish': 'spa',
+    'French': 'fra',
 }
 
 
