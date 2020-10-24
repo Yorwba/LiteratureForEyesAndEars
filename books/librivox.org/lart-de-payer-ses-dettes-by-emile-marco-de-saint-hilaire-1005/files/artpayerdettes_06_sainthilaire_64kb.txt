@@ -21,13 +21,11 @@ On appelle créancier l'individu auquel il est dû quelque chose par un autre, c
 
 On devient créancier en vertu d'un contrat, d'un billet, d'une reconnaissance, d'un jugement, d'un délit, etc., etc. : Creditorum appellatione (dit la loi 11, ff. DE VERS. OBLIG.) non hi tantum accipientur qui pecuniam crediderunt, sedamus quibus ex quâlibet causâ debetur.
 
-Tous créanciers sont chirographaires, et les uns ou les autres sont ordinaires ou privilégiés.
-
- .
+Tous créanciers sont chirographaires (Note: C'est-à-dire, hypothécaires.), et les uns ou les autres sont ordinaires ou privilégiés.
 
 Un créancier peut avoir plusieurs actions pour la même créance, savoir : une action personnelle contre l'obligé ou ses héritiers ; une action réelle, s'il s'agit d'une créance foncière ; une action hypothécaire contre les tiers détenteurs d'héritage hypothéqué, à la dette.
 
-Il est permis au créancier, pour se procurer son paiement, de cumuler toutes les poursuites qu'il a droit d'exercer, comme de faire des saisies-oppositions, etc., etc, pourvu qu'il s'agisse au moins d'une somme de plus de 100 fr., et d'user aussi de la contrainte par corps si le titre de sa créance l'y autorise.
+Il est permis au créancier, pour se procurer son paiement, de cumuler toutes les poursuites qu'il a droit d'exercer, comme de faire des saisies-oppositions, etc., etc, pourvu qu'il s'agisse au moins d'une somme de plus de 100 fr., et d'user aussi de la contrainte par corps si le titre de sa créance l'y autorise. (Note : Voyez ma Leçon, qui traite exclusivement de la contrainte par corps.)
 
 Mais il n'est point permis au créancier de se mettre de sa propre autorité en possession des biens, meubles ou immeubles, de son débiteur ; il faut qu'il les fasse saisir d'abord, puis vendre après, le tout par autorité de justice. La raison en est que le créancier n'a aucun droit dans la chose qui appartient à son débiteur ; il n'a pas sur cette chose, ce que les jurisconsultes appellent jus in re, il n'a droit qu'à la chose jus ad rem ; c'est-à-dire qu'il n'a que la puissance de poursuivre son débiteur ou ses successeurs à le payer ou à lui restituer la dite chose.
 
@@ -41,9 +39,7 @@ Il faut encore remarquer ici quelques usages singuliers qui se pratiquaient autr
 
 A Bourges un créancier pouvait se saisir des effets de sa caution et les retenir pour gages sans la permission du prévôt ou du voyer.
 
-[Note 11 : Le prévôt était autrefois un juge royal qui connaissait des causes entre les habitans privilégiés, et ceux qui ne l'étaient pas, et jugeait s'il fallait qu'elles fussent appelées au parlement, ou non.
-
-Les voyers étaient des officiers préposés à la police des chemises à la campagne et à la ville ; cette charge existe toujours sous la même qualification ; mais ils ont chacun des attributions spéciales.]
+(Note : Le prévôt était autrefois un juge royal qui connaissait des causes entre les habitans privilégiés, et ceux qui ne l'étaient pas, et jugeait s'il fallait qu'elles fussent appelées au parlement, ou non. Les voyers étaient des officiers préposés à la police des chemises à la campagne et à la ville ; cette charge existe toujours sous la même qualification ; mais ils ont chacun des attributions spéciales.)
 
 Tous les bourgeois de Chartres jouissaient des mêmes priviléges.
 
