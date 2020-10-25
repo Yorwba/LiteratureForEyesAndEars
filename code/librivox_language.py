@@ -10,6 +10,7 @@ language_codes = {
     'German': 'deu',
     'Spanish': 'spa',
     'French': 'fra',
+    'Dutch': 'nld',
 }
 
 
