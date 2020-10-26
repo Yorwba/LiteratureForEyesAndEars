@@ -11,6 +11,7 @@ language_codes = {
     'Spanish': 'spa',
     'French': 'fra',
     'Dutch': 'nld',
+    'Portuguese': 'por-br',
 }
 
 
