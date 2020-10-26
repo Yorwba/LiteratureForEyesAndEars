@@ -12,6 +12,7 @@ language_codes = {
     'French': 'fra',
     'Dutch': 'nld',
     'Portuguese': 'por-br',
+    'Italian': 'ita',
 }
 
 
