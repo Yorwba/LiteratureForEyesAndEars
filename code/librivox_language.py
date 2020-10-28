@@ -13,6 +13,7 @@ language_codes = {
     'Dutch': 'nld',
     'Portuguese': 'por-br',
     'Italian': 'ita',
+    'Russian': 'rus',
 }
 
 
