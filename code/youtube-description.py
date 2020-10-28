@@ -20,7 +20,7 @@ def deparen(text):
 
 
 def people_names(people):
-    people = [p['first_name']+' '+p['last_name'] for p in people]
+    people = [(p['first_name']+' '+p['last_name']).strip() for p in people]
     people = people[:-2] + [' and '.join(people[-2:])]
     return ', '.join(people)
 
