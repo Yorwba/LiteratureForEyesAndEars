@@ -6,7 +6,11 @@ import sys
 
 def good_source(url):
     # Being a bit picky here
-    return url and 'gutenberg.org' in url and 'projekt-gutenberg.org' not in url
+    good_sources = ['gutenberg.org', 'wikisource.org', 'az.lib.ru', 'rvb.ru']
+    bad_sources = ['projekt-gutenberg.org']
+    return url \
+        and any(source in url for source in good_sources)\
+        and not any(source in url for source in bad_sources)
 
 
 def time_to_seconds(time):

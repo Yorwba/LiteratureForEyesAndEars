@@ -1,21 +1,9 @@
 #!/usr/bin/env python3
 
-import html.parser
+from html_to_plain import html_to_plain_text
 import json
 import re
 import sys
-
-
-class HtmlToPlain(html.parser.HTMLParser):
-    def __init__(self):
-        super(HtmlToPlain, self).__init__()
-        self.chunks = []
-
-    def handle_data(self, data):
-        self.chunks.append(data)
-
-    def text(self):
-        return ''.join(self.chunks)
 
 
 PAREN = re.compile(r'(.*)\([^)]*\)')
@@ -55,10 +43,7 @@ def intro(book):
 
 
 def description(book):
-    html_to_plain = HtmlToPlain()
-    html_to_plain.feed(book['description'])
-    html_to_plain.close()
-    return html_to_plain.text()
+    return html_to_plain_text(book['description'])
 
 
 WORD = re.compile(r'\w+')
