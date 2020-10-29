@@ -15,6 +15,7 @@ language_codes = {
     'Portuguese': 'por-br',
     'Italian': 'ita',
     'Russian': 'rus',
+    'Ancient Greek': 'grc',
 }
 
 
