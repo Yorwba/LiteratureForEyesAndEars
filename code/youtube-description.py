@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from html_to_plain import html_to_plain_text
-import json
+from librivox_json import get_books
 import re
 import sys
 
@@ -120,9 +120,7 @@ def donations(book):
 
 
 if __name__ == '__main__':
-    with open(sys.argv[1]) as f: info = json.load(f)
-
-    for book in info['books'].values():
+    for book in get_books(sys.argv[1]):
         print(title(book))
         print()
         print()

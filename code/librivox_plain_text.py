@@ -3,6 +3,7 @@
 import chardet
 from html_to_plain import html_to_plain_text
 import json
+from librivox_json import get_books
 import re
 import sys
 import urllib.parse
@@ -97,9 +98,7 @@ def wikisource_plain_text(url):
 
 
 if __name__ == '__main__':
-    with open(sys.argv[1]) as f: info = json.load(f)
-
-    for book in info['books'].values():
+    for book in get_books(sys.argv[1]):
         source = book['url_text_source']
         handled = False
         for handler in (gutenberg_plain_text, azlibru_plain_text, wikisource_plain_text):
