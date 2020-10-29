@@ -2,6 +2,7 @@
 
 import json
 import sys
+import urllib.parse
 
 
 def good_source(url):
@@ -49,8 +50,23 @@ if __name__ == '__main__':
         for book in books
         if language in book['language']
         and mintime < book['totaltimesecs'] < maxtime
-        and good_source(book['url_text_source'])
     ]
 
-    for book in sorted(matches, key=lambda b: b['totaltimesecs']):
-        print(seconds_to_time(book['totaltimesecs']), book['url_librivox'])
+    matches_from_good_source = [
+        book
+        for book in matches
+        if good_source(book['url_text_source'])
+    ]
+
+    if not matches:
+        print("No books in: "+language)
+    elif not matches_from_good_source:
+        print("No matches from good source in: "+language)
+        print("Most common sources:")
+        from collections import Counter
+        sources = [urllib.parse.urlsplit(book['url_text_source']).netloc for book in matches]
+        for source, count in Counter(sources).most_common():
+            print(source+': '+str(count))
+    else:
+        for book in sorted(matches_from_good_source, key=lambda b: b['totaltimesecs']):
+            print(seconds_to_time(book['totaltimesecs']), book['url_librivox'])
