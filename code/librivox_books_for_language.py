@@ -7,7 +7,13 @@ import urllib.parse
 
 def good_source(url):
     # Being a bit picky here
-    good_sources = ['gutenberg.org', 'wikisource.org', 'az.lib.ru', 'rvb.ru']
+    good_sources = [
+        'archive.org',
+        'gutenberg.org',
+        'wikisource.org',
+        'az.lib.ru',
+        'rvb.ru',
+    ]
     bad_sources = ['projekt-gutenberg.org']
     return url \
         and any(source in url for source in good_sources)\
