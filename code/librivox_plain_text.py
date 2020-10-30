@@ -2,12 +2,14 @@
 
 import chardet
 from html_to_plain import html_to_plain_text
+from io import BytesIO
 import json
 from librivox_json import get_books
 import re
 import sys
 import urllib.parse
 import urllib.request
+import zipfile
 
 
 ARCHIVE_SRC = re.compile(b'<iframe id="playback" src="([^"]*)"')
@@ -36,6 +38,17 @@ def try_get(url):
                     det = chardet.UniversalDetector()
                     det.feed(text)
                     encoding = det.close()['encoding']
+                if not encoding:
+                    as_file = BytesIO(text)
+                    if zipfile.is_zipfile(as_file):
+                        with zipfile.ZipFile(as_file) as z:
+                            text_files = [n for n in z.namelist() if n.endswith('.txt')]
+                            if len(text_files) != 1:
+                                raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
+                            text = z.read(text_files[0])
+                            encoding = 'shift-jis'
+                    else:
+                        raise Exception("Unknown file type!")
                 return '\n'.join(text.decode(encoding).splitlines())
         raise Exception("Couldn't get data at url: "+url)
 
@@ -97,11 +110,79 @@ def wikisource_plain_text(url):
     return try_get(txt_url)
 
 
+def JIS_X_0213_encode(men, ku, ten):
+    """
+    JIS X 0213 has two planes (men) and each plane consists of a 94x94 grid.
+    This function turns a character identified by its position in the grid into
+    Unicode, via Shift JIS 2004 as an intermediate encoding.
+    """
+    # https://en.wikipedia.org/wiki/Shift_JIS#Shift_JISx0213_and_Shift_JIS-2004
+    if men == 1:
+        if 1 <= ku <= 62:
+            s1 = (ku+257)//2
+        elif 63 <= ku <= 94:
+            s1 = (ku+385)//2
+    elif men == 2:
+        if ku in (1, 3, 4, 5, 8, 12, 13, 14, 15):
+            s1 = (ku+479)//2 - (ku//8) * 3
+        elif 78 <= ku <= 94:
+            s1 = (ku+411)//2
+    if ku & 1 == 1:
+        if 1 <= ten <= 63:
+            s2 = ten + 63
+        elif 64 <= ten <= 94:
+            s2 = ten + 64
+    else:
+        s2 = ten + 158
+    return bytes((s1, s2)).decode('sjis_2004')
+
+
+NUMBER = re.compile(r'\d+')
+ZIP_NAME = re.compile(r'files/([^"]+\.zip)"')
+JIS_X_ANNOTATION = re.compile(r'※［＃[^］]*([12])-([0-9]{1,2})-([0-9]{1,2})］')
+UNICODE_ANNOTATION = re.compile(r'※［＃[^］]*U\+([0-9a-fA-F]+)([^］0-9a-fA-F][^］]*)?］')
+FURIGANA = re.compile(
+    '｜?(['
+        '⺀-⺙⺛-⻳㇀-㇣㐀-䶵一-鿕豈-舘並-龎🈐-🈒🈔-🈻🉀-🉈𠀀-𪛖𪜀-𫜴𫝀-𫠝𫠠-𬺡丽-𪘀' # CJK
+        '0-9A-Za-z０-９Ａ-Ｚａ-ｚ々〆※×' # not CJK, but can have furigana
+    ']+)《([^》]+)》'
+)
+def aozora_plain_text(url):
+    split_url = urllib.parse.urlsplit(url)
+    if not split_url.netloc.endswith('aozora.gr.jp'):
+        raise Exception("Not an Aozora Bunko URL: "+url)
+    ids = NUMBER.findall(split_url.path)[:2]
+    library_card = 'https://www.aozora.gr.jp/cards/{}/card{}.html'.format(*ids)
+    library_card = try_get(library_card)
+    zip_name = ZIP_NAME.search(library_card).group(1)
+    zip_file = 'https://www.aozora.gr.jp/cards/{}/files/{}'.format(ids[0], zip_name)
+    text = try_get(zip_file)
+    text = JIS_X_ANNOTATION.sub(
+        lambda m: JIS_X_0213_encode(*map(int,m.groups())),
+        text
+    )
+    text = UNICODE_ANNOTATION.sub(
+        lambda m: chr(int(m.group(1), 16)),
+        text
+    )
+    if 'ruby' in zip_name:
+        text = FURIGANA.sub(
+            r'[\1|\2]',
+            text
+        )
+    return text
+
+
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
         source = book['url_text_source']
         handled = False
-        for handler in (gutenberg_plain_text, azlibru_plain_text, wikisource_plain_text):
+        for handler in (
+                gutenberg_plain_text,
+                azlibru_plain_text,
+                wikisource_plain_text,
+                aozora_plain_text,
+        ):
             try:
                 print(handler(source), end='')
                 handled = True
