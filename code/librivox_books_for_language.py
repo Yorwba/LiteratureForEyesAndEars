@@ -8,6 +8,7 @@ import urllib.parse
 def good_source(url):
     # Being a bit picky here
     good_sources = [
+        'aozora.gr.jp',
         'archive.org',
         'gutenberg.org',
         'wikisource.org',
