@@ -74,7 +74,7 @@ books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
 
 books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.txt
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=plain|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
+	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=ruby|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
 
 books/librivox.org/%.ass: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
