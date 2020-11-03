@@ -74,11 +74,11 @@ books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
 
 books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.txt
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=plain|vad_extend_speech_before=1|vad_extend_speech_after=1|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
+	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=plain|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
 
 books/librivox.org/%.ass: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=json|os_task_file_format=ass' "$@"
+	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=json|vad_extend_speech_before=1|vad_extend_speech_after=1|os_task_file_format=ass' "$@"
 
 books/librivox.org/%.srt: books/librivox.org/%.align.json
 	code/srt.py "$<" > "$@"
