@@ -49,8 +49,9 @@ def description(book):
 WORD = re.compile(r'\w+')
 def hashtags(book):
     language = book['language']
-    words = ['Learn'+language] + [
-        ''.join(WORD.findall(g['name'])) for g in book['genres']
+    words = [
+        ''.join(WORD.findall(tag))
+        for tag in ['Learn '+language] + [g['name'] for g in book['genres']]
     ]
     tags = []
     seen = set()
