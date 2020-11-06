@@ -206,7 +206,7 @@ But the incredulous Stuart was not convinced, and when the hand was finished, sa
 
 "That is true, gentlemen," added John Sullivan.  "Only eighty days, now that the section between Rothal and Allahabad, on the Great Indian Peninsula Railway, has been opened.  Here is the estimate made by the Daily Telegraph:
 
-From London to Suez via Mont Cenis and Brindisi, by rail and steamboats .................  7 days From Suez to Bombay, by steamer .................... 13  " From Bombay to Calcutta, by rail ...................  3  " From Calcutta to Hong Kong, by steamer ............. 13  " From Hong Kong to Yokohama (Japan), by steamer .....  6  " From Yokohama to San Francisco, by steamer ......... 22  " From San Francisco to New York, by rail ............. 7  " From New York to London, by steamer and rail ........ 9  " ------ Total ............................................ 80 days."
+From London to Suez via Mont Cenis and Brindisi, by rail and steamboats: 7 days. From Suez to Bombay, by steamer: 13 days. From Bombay to Calcutta, by rail: 3 days. From Calcutta to Hong Kong, by steamer: 13 days. From Hong Kong to Yokohama (Japan), by steamer: 6 days. From Yokohama to San Francisco, by steamer: 22 days. From San Francisco to New York, by rail: 7 days. From New York to London, by steamer and rail: 9  days. ⸻ Total: 80 days."
 
 "Yes, in eighty days!" exclaimed Stuart, who in his excitement made a false deal.  "But that doesn't take into account bad weather, contrary winds, shipwrecks, railway accidents, and so on."
 
@@ -2442,7 +2442,7 @@ He went upon the stage, and took his place beside the rest who were to compose t
 
 It was Passepartout's fault.  Abandoning his position, clearing the footlights without the aid of his wings, and, clambering up to the right-hand gallery, he fell at the feet of one of the spectators, crying, "Ah, my master! my master!"
 
-"You here?"
+"You are here?"
 
 "Myself."
 
@@ -2916,7 +2916,7 @@ Passepartout, not daring to apprise his master of what he heard, listened with s
 
 "Yes, but it's on the other side of the river."
 
-"And can't we cross that in a boat?" asked the colonel.
+"And we can't cross that in a boat?" asked the colonel.
 
 "That's impossible.  The creek is swelled by the rains.  It is a rapid, and we shall have to make a circuit of ten miles to the north to find a ford."
 
