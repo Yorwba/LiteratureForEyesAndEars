@@ -6,7 +6,7 @@ le Baron de l'Empesé
 
 Cet enregistrement LibriVox fait partie du domaine public.
 
-APHORISMES, 
+APHORISMES
 Axiomes et Pensées neuves
 
 Dont on ne saurait trop se pénétrer avant que d'étudier les diverses théories enseignées par mon Oncle.
@@ -37,9 +37,9 @@ Dans le meilleur des gouvernemens possible, une nation, quelque grande qu'elle s
 
 SAVOIR :
 
-1º Parti : Individus lésans. C'est le plus fort.
+[[1º||première]] Parti : Individus lésans. C'est le plus fort.
 
-2º Parti : Individus lésés. C'est le plus nombreux.
+[[2º||deuxième]] Parti : Individus lésés. C'est le plus nombreux.
 
 Je laisse au lecteur le choix d'embrasser celui qui lui paraîtra préférable, ne pouvant opter pour un parti neutre ou mixte (comme en politique), parce que, dans notre acception, il ne peut en exister.
 
@@ -65,7 +65,7 @@ Il est évident que le monde ne se compose que de gens qui ont trop et de gens q
 
 11.
 
-Il vaut mieux devoir 100,000 fr. à-la-fois à une seule et même personne que 1,000 fr. à mille personnes à-la-fois.
+Il vaut mieux devoir 100000 [[fr.||francs]] à-la-fois à une seule et même personne que 1000 [[fr.||francs]] à mille personnes à-la-fois.
 
 12.
 

@@ -15,9 +15,9 @@ Un consommateur sans argent, qui a des dettes et des sentimens, et, par-dessus t
 
 Avant que de rien entreprendre, il devra se soumettre à un examen sévère de toute sa personne. Cet examen devra rouler sur deux points principaux qui sont :
 
-1º La connaissance parfaite de ses qualités physiques.
+[[1º||premièrement]] La connaissance parfaite de ses qualités physiques.
 
-2º Idem de ses qualités morales.
+[[2º||deuxièmement]] Idem de ses qualités morales.
 
 Cet examen de la plus grande importance exigera, de sa part, la plus sévère impartialité, car, s'il n'y prend garde, la moindre indulgence pourrait le conduire à de funestes conséquences, ou, qui pis serait, lui faire prendre la route de Sainte-Pélagie, où il irait tout à son aise repasser ses premiers examens. Ainsi donc, qu'il ne se délivre pas trop légèrement un diplôme.
 
@@ -65,7 +65,7 @@ SAVOIR :
 
 J'ai dit tout-à-l'heure que la santé était une des qualités physiques les plus nécessaires : c'est la vérité ; car, si vous pouvez atteindre l'âge de soixante-dix ou quatre-vingts, ou ce qui est le nec plus ultra de quatre-vingt dix ans, il y a quarante-cinq (qui est le terme moyen) à parier contre un, que vous enterrerez les quarante-quatre quarante-cinquièmes de vos créanciers. Or, j'ai dit et prouvé que la mort d'un créancier était un des moyens d'amortissement naturels indiqués par mon oncle, et certes, votre créance ainsi acquittée, le créancier ne peut vous en vouloir ; car de même que Dieu ne veut pas la mort du pécheur, un débiteur ne peut désirer celle de son créancier, attendu que d'après le principe «moins on a de créanciers, moins on a de ressources.»
 
-Ce sont là, j'espère, de bonnes et solides qualités, des qualités tout-à-fait privilégiées, et je dis privilégiées parce que, pouvant les acquérir facilement par l'exercice et un régime y relatif, on peut s'en défaire de même. Je défie M. le ministre des finances de vous assujettir à un droit d'enregistrement. En un mot ces avantages qui sont de véritables propriétés sont de nature insaisissable par les créanciers, la nature seule pourrait mettre opposition à leur revenu.
+Ce sont là, j'espère, de bonnes et solides qualités, des qualités tout-à-fait privilégiées, et je dis privilégiées parce que, pouvant les acquérir facilement par l'exercice et un régime y relatif, on peut s'en défaire de même. Je défie [[M.||Monsieur]] le ministre des finances de vous assujettir à un droit d'enregistrement. En un mot ces avantages qui sont de véritables propriétés sont de nature insaisissable par les créanciers, la nature seule pourrait mettre opposition à leur revenu.
 
 Quant aux qualités morales, elles peuvent se ranger à peu de chose près dans la même catégorie. J'en reconnais huit indispensables et qui doivent se classer ainsi ;
 
