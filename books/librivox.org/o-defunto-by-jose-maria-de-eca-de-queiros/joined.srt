@@ -1,2240 +1,1804 @@
 1
-00:00:00,000 --> 00:00:02,050
+00:00:00,000 --> 00:00:01,830
 Seção 1
 de
 O Defunto
 
 2
-00:00:02,060 --> 00:00:03,460
+00:00:01,830 --> 00:00:03,570
 Esta é uma gravação Librivox.
 
 3
-00:00:03,680 --> 00:00:06,020
+00:00:03,570 --> 00:00:06,020
 Todas as gravações LibriVox estão em domínio público.
 
 4
-00:00:06,020 --> 00:00:11,300
+00:00:06,020 --> 00:00:11,730
 Para mais informações ou para ser um voluntário, por favor visite: LibriVox.org.
 
 5
-00:00:11,740 --> 00:00:14,559
+00:00:11,730 --> 00:00:14,560
 O Defunto
 de
 Eça de Queirós
 
 6
-00:00:14,559 --> 00:00:15,750
+00:00:14,560 --> 00:00:15,140
 1
 
 7
-00:00:16,340 --> 00:00:39,180
-No ano de 1474, que foi por toda a Cristandade tam abundante em mercês divinas, reinando em Castela el-rei Henrique IV, veio habitar na cidade de Segóvia, onde herdara moradias e uma horta, um cavaleiro moço, de muito limpa linhagem e gentil parecer, que se chamava D.
+00:00:15,140 --> 00:00:40,670
+No ano de 1474, que foi por toda a Cristandade tam abundante em mercês divinas, reinando em Castela el-rei Henrique IV, veio habitar na cidade de Segóvia, onde herdara moradias e uma horta, um cavaleiro moço, de muito limpa linhagem e gentil parecer, que se chamava D. Rui de Cardenas.
 
 8
-00:00:39,180 --> 00:00:40,220
-Rui de Cardenas.
+00:00:40,670 --> 00:01:48,880
+Essa casa, que lhe legara seu tio, arcediago e mestre em cânones, ficava ao lado e na sombra silenciosa da igreja de Nossa Senhora do Pilar; e, em frente, para alêm do adro, onde cantavam as três bicas de um chafariz antigo, era o escuro e gradeado palácio de D. Alonso de Lara, fidalgo de grande riqueza e maneiras sombrias, que já na madureza da sua idade, todo grisalho, desposara uma menina falada em Castela pela sua alvura, cabelos côr de sol claro, e colo de garça rial. D. Rui tivera justamente por madrinha, ao nascer, Nossa Senhora do Pilar, de quem sempre se conservou devoto e fiel servidor; ainda que, sendo de sangue bravo e alegre, amava as armas, a caça, os saraus bem galanteados, e mesmo por vezes uma noite ruidosa de taverna com dados e picheis de vinho.
 
 9
-00:00:41,120 --> 00:01:01,840
-Essa casa, que lhe legara seu tio, arcediago e mestre em cânones, ficava ao lado e na sombra silenciosa da igreja de Nossa Senhora do Pilar; e, em frente, para alêm do adro, onde cantavam as três bicas de um chafariz antigo, era o escuro e gradeado palácio de D.
-
-10
-00:01:01,920 --> 00:01:22,800
-Alonso de Lara, fidalgo de grande riqueza e maneiras sombrias, que já na madureza da sua idade, todo grisalho, desposara uma menina falada em Castela pela sua alvura, cabelos côr de sol claro, e colo de garça rial. D.
-
-11
-00:01:22,800 --> 00:01:48,220
-Rui tivera justamente por madrinha, ao nascer, Nossa Senhora do Pilar, de quem sempre se conservou devoto e fiel servidor; ainda que, sendo de sangue bravo e alegre, amava as armas, a caça, os saraus bem galanteados, e mesmo por vezes uma noite ruidosa de taverna com dados e picheis de vinho.
-
-12
-00:01:49,540 --> 00:02:08,639
+00:01:48,880 --> 00:02:09,220
 Por amor, e pelas facilidades desta santa vizinhança, tomara êle o piedoso costume, desde a sua chegada a Segóvia, de visitar todas as manhãs, à hora de Prima, a sua divina madrinha e de lhe pedir, em três Ave-Marias, a bênção e a graça.
 
-13
-00:02:09,800 --> 00:02:23,620
+10
+00:02:09,220 --> 00:02:24,360
 Ao escurecer, mesmo depois de alguma rija correria por campo e monte com lebreus ou falcão, ainda voltava para, à saudação de Vésperas, murmurar docemente uma Salve-Raínha.
 
-14
-00:02:25,100 --> 00:02:40,420
+11
+00:02:24,360 --> 00:02:41,190
 E todos os domingos comprava no adro, a uma ramalheteira mourisca, algum ramo de junquilhos, ou cravos, ou rosas singelas, que espalhava, com ternura e cuidado galante, em frente ao altar da Senhora.
 
+12
+00:02:41,190 --> 00:03:27,880
+A esta venerada igreja do Pilar vinha tambêm cada domingo D. Leonor, a tam falada e formosa mulher do senhor de Lara, acompanhada por uma aia carrancuda, de olhos mais abertos e duros que os de uma coruja, e por dois possantes lacaios que a ladeavam e guardavam como tôrres. Tam ciumento era o senhor D. Alonso que, só por lho haver severamente ordenado o seu confessor, e com medo de ofender a Senhora, sua vizinha, permitia esta visita fugitiva, a que êle ficava espreitando sôfregamente, de entre as rexas de uma gelosia, os passos e a demora.
+
+13
+00:03:27,880 --> 00:04:00,290
+Todos os lentos dias da lenta semana os passava a senhora D. Leonor no encêrro do gradeado solar de granito negro, não tendo, para se recrear e respirar, mesmo nas calmas do estio, mais que um fundo de jardim verde-negro, cercado de tam altos muros, que apenas se avistava, emergindo dêles, aqui, alêm, alguma ponta de triste cipreste.
+
+14
+00:04:00,290 --> 00:04:54,040
+Mas essa curta visita a Nossa Senhora do Pilar bastou para que D. Rui se namorasse dela tresloucadamente, na manhã de maio em que a viu de joelhos ante o altar, numa réstea de sol, aureolada pelos seus cabelos de oiro, com as compridas pestanas pendidas sôbre o livro de Horas, o rosário caíndo de entre os dedos finos, fina toda ela e macia, e branca, de uma brancura de lírio aberto na sombra, mais branca entre as rendas negras e os negros setins que à volta do seu corpo cheio de graça se quebravam, em pregas duras, sôbre as lages da capela, vélhas lages de sepulturas.
+
 15
-00:02:41,960 --> 00:02:46,120
-A esta venerada igreja do Pilar vinha tambêm cada domingo D.
-
-16
-00:02:46,140 --> 00:03:07,880
-Leonor, a tam falada e formosa mulher do senhor de Lara, acompanhada por uma aia carrancuda, de olhos mais abertos e duros que os de uma coruja, e por dois possantes lacaios que a ladeavam e guardavam como tôrres. Tam ciumento era o senhor D.
-
-17
-00:03:08,260 --> 00:03:27,140
-Alonso que, só por lho haver severamente ordenado o seu confessor, e com medo de ofender a Senhora, sua vizinha, permitia esta visita fugitiva, a que êle ficava espreitando sôfregamente, de entre as rexas de uma gelosia, os passos e a demora.
-
-18
-00:03:28,620 --> 00:03:35,320
-Todos os lentos dias da lenta semana os passava a senhora D.
-
-19
-00:03:35,600 --> 00:03:59,540
-Leonor no encêrro do gradeado solar de granito negro, não tendo, para se recrear e respirar, mesmo nas calmas do estio, mais que um fundo de jardim verde-negro, cercado de tam altos muros, que apenas se avistava, emergindo dêles, aqui, alêm, alguma ponta de triste cipreste.
-
-20
-00:04:01,040 --> 00:04:06,220
-Mas essa curta visita a Nossa Senhora do Pilar bastou para que D.
-
-21
-00:04:06,540 --> 00:04:53,480
-Rui se namorasse dela tresloucadamente, na manhã de maio em que a viu de joelhos ante o altar, numa réstea de sol, aureolada pelos seus cabelos de oiro, com as compridas pestanas pendidas sôbre o livro de Horas, o rosário caíndo de entre os dedos finos, fina toda ela e macia, e branca, de uma brancura de lírio aberto na sombra, mais branca entre as rendas negras e os negros setins que à volta do seu corpo cheio de graça se quebravam, em pregas duras, sôbre as lages da capela, vélhas lages de sepulturas.
-
-22
-00:04:54,600 --> 00:05:17,640
+00:04:54,040 --> 00:05:18,640
 Quando depois dum momento de enleio e de delicioso pasmo se ajoelhou, foi menos para a Virgem do Pilar, sua divina Madrinha, do que para aquela aparição mortal, de quem não sabia o nome nem a vida, e só que por ela daria vida e nome, se ela se rendesse por tam incerto preço.
 
-23
-00:05:20,420 --> 00:05:44,240
-Balbuciando, com uma prece ingrata, as três Ave-Marias com que cada manhã saùdava Maria, apanhou o seu sombreiro, desceu levemente a nave sonora e no portal se quedou, esperando por ela entre os mendigos lazarentos que se catavam ao sol. Mas quando ao cabo de um tempo, em que D.
+16
+00:05:20,420 --> 00:06:04,659
+Balbuciando, com uma prece ingrata, as três Ave-Marias com que cada manhã saùdava Maria, apanhou o seu sombreiro, desceu levemente a nave sonora e no portal se quedou, esperando por ela entre os mendigos lazarentos que se catavam ao sol. Mas quando ao cabo de um tempo, em que D. Rui sentiu no coração um desusado bater de ansiedade e medo, a senhora D. Leonor passou e se deteve, molhando os dedos na pia de mármore de água benta, os seus olhos sob o véu descido, não se ergueram para êle, ou tímidos ou desatentos.
 
-24
-00:05:44,240 --> 00:05:51,100
-Rui sentiu no coração um desusado bater de ansiedade e medo, a senhora D.
-
-25
-00:05:51,160 --> 00:06:04,080
-Leonor passou e se deteve, molhando os dedos na pia de mármore de água benta, os seus olhos sob o véu descido, não se ergueram para êle, ou tímidos ou desatentos.
-
-26
-00:06:05,240 --> 00:06:26,200
+17
+00:06:04,659 --> 00:06:26,850
 Com a aia de olhos muito abertos colada aos vestidos, entre os dois lacaios, como entre duas tôrres, atravessou vagarosamente o adro, pedra por pedra, gozando de-certo, como encarcerada, o desafogado ar e o livre sol que o inundavam.
 
-27
-00:06:27,500 --> 00:06:29,180
-E foi um espanto para D.
+18
+00:06:26,850 --> 00:06:43,679
+E foi um espanto para D. Rui quando ela penetrou na sombria arcada, de grossos pilares, sôbre que assentava o palácio, e desapareceu por uma esguia porta recoberta de ferragens.
 
-28
-00:06:29,240 --> 00:06:44,240
-Rui quando ela penetrou na sombria arcada, de grossos pilares, sôbre que assentava o palácio, e desapareceu por uma esguia porta recoberta de ferragens.
+19
+00:06:43,679 --> 00:06:51,440
+Era, pois, essa a tam falada D. Leonor, a linda e nobre senhora de Lara...
 
-29
-00:06:44,280 --> 00:06:48,040
-Era, pois, essa a tam falada D.
-
-30
-00:06:48,620 --> 00:06:51,100
-Leonor, a linda e nobre senhora de Lara...
-
-31
-00:06:51,780 --> 00:07:11,980
+20
+00:06:51,440 --> 00:07:12,700
 Então começaram sete arrastados dias, que êle gastou sentado a um poial da sua janela, considerando aquela negra porta recoberta de ferragens como se fôsse a do Paraíso, e por ela devesse saír um anjo para lhe anunciar a Bemaventurança.
 
-32
-00:07:13,420 --> 00:07:26,820
-Até que chegou o vagaroso domingo: e passando êle no adro, à hora de Prima, ao repicar dos sinos, com um mólho de cravos amarelos para a sua divina Madrinha, cruzou D.
+21
+00:07:12,700 --> 00:07:37,770
+Até que chegou o vagaroso domingo: e passando êle no adro, à hora de Prima, ao repicar dos sinos, com um mólho de cravos amarelos para a sua divina Madrinha, cruzou D. Leonor, que saía de entre os pilares da escura arcada, branca, doce e pensativa, como uma lua de entre nuvens.
 
-33
-00:07:27,380 --> 00:07:37,140
-Leonor, que saía de entre os pilares da escura arcada, branca, doce e pensativa, como uma lua de entre nuvens.
-
-34
-00:07:38,400 --> 00:07:52,720
+22
+00:07:37,770 --> 00:07:52,100
 Os cravos quási lhe caíram naquele gostoso alvoroço em que o peito lhe arfou mais que um mar, e a alma toda lhe fugiu em tumulto através do olhar com que a devorava.
 
-35
-00:07:52,740 --> 00:07:54,920
-E ela ergueu tambêm os olhos para D.
+23
+00:07:52,100 --> 00:08:11,350
+E ela ergueu tambêm os olhos para D. Rui, mas uns olhos repousados, uns olhos serenos, em que não luzia curiosidade, nem mesmo consciência de se estarem trocando com outros, tam acesos e ennegrecidos pelo desejo.
 
-36
-00:07:55,000 --> 00:08:10,780
-Rui, mas uns olhos repousados, uns olhos serenos, em que não luzia curiosidade, nem mesmo consciência de se estarem trocando com outros, tam acesos e ennegrecidos pelo desejo.
-
-37
-00:08:11,920 --> 00:08:28,760
+24
+00:08:11,350 --> 00:08:29,669
 O môço cavalheiro não entrou na igreja, com piedoso receio de não prestar à sua Madrinha divina a atenção, que de-certo lhe roubaria toda aquela que era só humana, mas dona já do seu coração, e nele divinizada.
 
-38
-00:08:30,580 --> 00:08:42,460
+25
+00:08:29,669 --> 00:08:43,210
 Esperou sôfregamente à porta, entre os mendigos, secando os cravos com o ardor das mãos trémulas, pensando quanto era demorado o rosário que ela rezava.
 
-39
-00:08:43,960 --> 00:08:45,120
-Ainda D.
+26
+00:08:43,210 --> 00:08:53,829
+Ainda D. Leonor descia a nave, já êle sentia dentro da alma o doce rugir das sedas fortes que ela arrastava nas lages.
 
-40
-00:08:45,160 --> 00:08:53,360
-Leonor descia a nave, já êle sentia dentro da alma o doce rugir das sedas fortes que ela arrastava nas lages.
-
-41
-00:08:54,300 --> 00:09:18,080
+27
+00:08:53,829 --> 00:09:18,940
 A branca senhora passou—e o mesmo distraido olhar, desatento e calmo, que espalhou pelos mendigos e pelo adro, o deixou escorregar sôbre êle, ou porque não compreendesse aquele moço que de repente se tornara tam pálido, ou porque não o diferenciava ainda das cousas e das formas indiferentes.
 
-42
-00:09:19,800 --> 00:09:20,000
-D.
+28
+00:09:18,940 --> 00:09:33,640
+D. Rui abalou, com um fundo suspiro; e, no seu quarto, pôs devotamente ante a imagem da Virgem as flores que não oferecera, na igreja, ao seu altar.
 
-43
-00:09:20,000 --> 00:09:32,900
-Rui abalou, com um fundo suspiro; e, no seu quarto, pôs devotamente ante a imagem da Virgem as flores que não oferecera, na igreja, ao seu altar.
-
-44
-00:09:34,420 --> 00:09:49,660
+29
+00:09:33,640 --> 00:09:50,310
 Toda a sua vida se tornou então um longo queixume por sentir tam fria e desumana aquela mulher, única entre as mulheres, que prendera e tornara sério o seu coração ligeiro e errante.
 
-45
-00:09:50,960 --> 00:10:11,140
+30
+00:09:50,310 --> 00:10:11,750
 Numa esperança, a que antevia bem o desengano, começou a rondar os muros altos do jardim—ou embuçado numa capa, com o ombro contra uma esquina, lentas horas se quedava contemplando as grades das gelosias, negras e grossas como as dum cárcere.
 
-46
-00:10:12,360 --> 00:10:18,900
+31
+00:10:11,750 --> 00:10:19,510
 Os muros não se fendiam, das grades não saía sequer um rasto de luz prometedora.
 
-47
-00:10:20,120 --> 00:10:31,900
+32
+00:10:19,510 --> 00:10:32,560
 Todo o solar era como um jazigo onde jazia uma insensível, e por trás das frias pedras havia ainda um frio peito.
 
-48
-00:10:33,220 --> 00:10:43,820
+33
+00:10:32,560 --> 00:10:44,520
 Para se desafogar compôs, com piedoso cuidado, em noites veladas sôbre o pergaminho, trovas gementes que o não desafogavam.
 
-49
-00:10:45,220 --> 00:11:08,020
+34
+00:10:44,520 --> 00:11:08,030
 Diante do altar da Senhora do Pilar, sôbre as mesmas lages onde a vira ajoelhada, pousava êle os joelhos, e ficava, sem palavras de oração, num scismar amargo e doce, esperando que o seu coração serenasse e se consolasse, sob a influência de Aquela que tudo consola e serena.
 
-50
-00:11:09,280 --> 00:11:20,720
+35
+00:11:08,030 --> 00:11:20,270
 Mas sempre se erguia mais desditoso e tendo apenas a sensação de quanto eram frias e rígidas as pedras sôbre que ajoelhara.
 
-51
-00:11:20,740 --> 00:11:26,020
+36
+00:11:20,270 --> 00:11:26,380
 O mundo todo só lhe parecia conter rigidez e frieza.
 
-52
-00:11:26,740 --> 00:11:29,800
-Outras claras manhãs de domingo encontrou D.
+37
+00:11:26,380 --> 00:11:53,300
+Outras claras manhãs de domingo encontrou D. Leonor: e sempre os olhos dela permaneciam descuidados e como esquecidos, ou quando se cruzavam com os seus era tam singelamente, tam limpos de toda a emoção, que D. Rui os preferiria ofendidos e faiscando de ira, ou soberbamente desviados com soberbo desdêm.
 
-53
-00:11:29,820 --> 00:11:45,220
-Leonor: e sempre os olhos dela permaneciam descuidados e como esquecidos, ou quando se cruzavam com os seus era tam singelamente, tam limpos de toda a emoção, que D.
+38
+00:11:53,300 --> 00:12:08,990
+De-certo D. Leonor já o conhecia:—mas, assim, conhecia tambêm a ramalheteira mourisca agachada diante do seu cêsto à beira da fonte; ou os pobres que se catavam ao sol diante do portal da Senhora.
 
-54
-00:11:45,320 --> 00:11:52,660
-Rui os preferiria ofendidos e faiscando de ira, ou soberbamente desviados com soberbo desdêm.
+39
+00:12:08,990 --> 00:12:13,460
+Nem D. Rui já podia pensar que ela fôsse desumana e fria.
 
-55
-00:11:53,940 --> 00:11:54,660
-De-certo D.
-
-56
-00:11:54,680 --> 00:12:08,440
-Leonor já o conhecia:—mas, assim, conhecia tambêm a ramalheteira mourisca agachada diante do seu cêsto à beira da fonte; ou os pobres que se catavam ao sol diante do portal da Senhora.
-
-57
-00:12:09,520 --> 00:12:10,040
-Nem D.
-
-58
-00:12:10,040 --> 00:12:13,020
-Rui já podia pensar que ela fôsse desumana e fria.
-
-59
-00:12:13,900 --> 00:12:34,660
+40
+00:12:13,460 --> 00:12:35,260
 Era apenas soberanamente remota, como uma estrêla que nas alturas gira e refulge, sem saber que, em baixo, num mundo que ela não distingue, olhos que ela não suspeita a contemplam, a adoram e lhe entregam o govêrno da sua ventura e sorte.
 
-60
-00:12:35,860 --> 00:12:37,020
-Então D.
+41
+00:12:35,260 --> 00:12:38,130
+Então D. Rui pensou:
 
-61
-00:12:37,020 --> 00:12:37,720
-Rui pensou:
-
-62
-00:12:38,540 --> 00:12:46,760
+42
+00:12:38,130 --> 00:12:47,520
 —Ela não quer, eu não posso: foi um sonho que findou, e Nossa Senhora a ambos nos tenha na sua graça!
 
-63
-00:12:48,280 --> 00:13:16,780
+43
+00:12:47,520 --> 00:13:17,589
 E como era cavaleiro muito discreto, desde que a reconheceu assim inabalável na sua indiferença, não a procurou, nem sequer ergueu mais os olhos para as grades das suas janelas, e até nem penetrava na igreja de Nossa Senhora quando casualmente, do portal, a avistava ajoelhada, com a sua cabeça tam cheia de graça e de oiro, pendida sôbre o Livro de Horas.
 
-64
-00:13:17,600 --> 00:13:20,299
+44
+00:13:17,589 --> 00:13:20,299
 Fim da Seção 1
 
-65
-00:13:25,340 --> 00:13:28,550
+45
+00:13:25,340 --> 00:13:28,369
 Seção 2
 de
 O Defunto
 de
 Eça de Queirós
 
-66
-00:13:28,560 --> 00:13:30,620
+46
+00:13:28,369 --> 00:13:31,310
 Esta gravação Librivox está em domínio público.
 
-67
-00:13:31,320 --> 00:13:33,170
+47
+00:13:31,310 --> 00:13:33,169
 2
 
-68
-00:13:33,840 --> 00:13:57,960
-A vélha aia, de olhos mais abertos e duros que os de uma coruja, não tardara em contar ao senhor de Lara que um môço audaz, de gentil parecer, novo morador nas vélhas casas do arcediago, constantemente se atravessava no adro, se postava diante da igreja para atirar o coração pelos olhos à senhora D.
+48
+00:13:33,169 --> 00:13:59,280
+A vélha aia, de olhos mais abertos e duros que os de uma coruja, não tardara em contar ao senhor de Lara que um môço audaz, de gentil parecer, novo morador nas vélhas casas do arcediago, constantemente se atravessava no adro, se postava diante da igreja para atirar o coração pelos olhos à senhora D. Leonor.
 
-69
-00:13:58,019 --> 00:13:58,620
-Leonor.
-
-70
-00:13:59,920 --> 00:14:22,140
+49
+00:13:59,280 --> 00:14:22,750
 Bem amargamente o sabia já o ciumento fidalgo, porque quando da sua janela espreitava, como um falcão, a airosa senhora a caminho da igreja, observara os giros, as esperas, os olhares dardejados daquele môço galante—e puxara as barbas de furor.
 
-71
-00:14:23,360 --> 00:14:28,960
-Desde então, na verdade, a sua mais intensa ocupação era odiar D.
+50
+00:14:22,750 --> 00:14:38,229
+Desde então, na verdade, a sua mais intensa ocupação era odiar D. Rui, o impudente sobrinho do cónego, que ousava erguer o seu baixo desejo até à alta senhora de Lara.
 
-72
-00:14:29,059 --> 00:14:37,720
-Rui, o impudente sobrinho do cónego, que ousava erguer o seu baixo desejo até à alta senhora de Lara.
-
-73
-00:14:38,739 --> 00:14:57,180
+51
+00:14:38,229 --> 00:14:57,750
 Constantemente agora o trazia vigiado por um serviçal—e conhecia todos os seus passos e pousos, e os amigos com quem caçava ou folgava, e até quem lhe talhava os gibões, e até quem lhe polia a espada, e cada hora do seu viver.
 
-74
-00:14:58,320 --> 00:15:02,080
-E mais ansiosamente ainda vigiava D.
+52
+00:14:57,750 --> 00:15:19,859
+E mais ansiosamente ainda vigiava D. Leonor—cada um dos seus movimentos, os mais fugitivos modos, os silêncios e o conversar com as aias, as distracções sôbre o bordado, o geito de scismar sob as árvores do jardim, e o ar e a côr com que recolhia da igreja...
 
-75
-00:15:02,620 --> 00:15:19,379
-Leonor—cada um dos seus movimentos, os mais fugitivos modos, os silêncios e o conversar com as aias, as distracções sôbre o bordado, o geito de scismar sob as árvores do jardim, e o ar e a côr com que recolhia da igreja...
+53
+00:15:19,859 --> 00:15:33,990
+Mas tam inalteradamente serena no seu sossêgo de coração se mostrava a senhora D. Leonor que nem o ciume mais imaginador de culpas poderia achar manchas naquela pura neve.
 
-76
-00:15:20,339 --> 00:15:26,520
-Mas tam inalteradamente serena no seu sossêgo de coração se mostrava a senhora D.
+54
+00:15:33,990 --> 00:15:54,950
+Redobradamente áspero então se voltava o rancor de D. Alonso contra o sobrinho do cónego por ter apetecido aquela pureza, e aqueles cabelos côr de sol claro, e aquele colo de garça rial, que eram só seus, para esplêndido gôsto da sua vida.
 
-77
-00:15:27,299 --> 00:15:33,420
-Leonor que nem o ciume mais imaginador de culpas poderia achar manchas naquela pura neve.
-
-78
-00:15:34,560 --> 00:15:38,920
-Redobradamente áspero então se voltava o rancor de D.
-
-79
-00:15:38,940 --> 00:15:55,520
-Alonso contra o sobrinho do cónego por ter apetecido aquela pureza, e aqueles cabelos côr de sol claro, e aquele colo de garça rial, que eram só seus, para esplêndido gôsto da sua vida.
-
-80
-00:15:55,540 --> 00:16:17,760
+55
+00:15:54,950 --> 00:16:18,390
 E quando passeava na sombria galeria do solar, sonora e toda de abóbada, embrulhado na sua samarra orlada de peles, com o bico da barba grisalha espetado para diante, a grenha crespa erriçada para trás e os punhos cerrados, era sempre remoendo o mesmo fel:
 
-81
-00:16:19,020 --> 00:16:22,980
+56
+00:16:18,390 --> 00:16:23,190
 —Tentou contra a virtude dela, tentou contra a minha honra...
 
-82
-00:16:23,400 --> 00:16:27,500
+57
+00:16:23,190 --> 00:16:27,880
 É culpado por duas culpas e merece duas mortes!
 
-83
-00:16:28,259 --> 00:16:33,420
-Mas ao seu furor quási se misturou um terror, quando soube que D.
+58
+00:16:27,880 --> 00:17:06,300
+Mas ao seu furor quási se misturou um terror, quando soube que D. Rui já não esperava no adro a senhora D. Leonor, nem rondava amorosamente os muros do palacete, nem penetrava na igreja quando ela lá rezava, aos domingos; e que tam inteiramente se alheava dela que uma manhã, estando rente da arcada, e sentindo bem ranger e abrir a porta por onde a senhora ia aparecer, permanecera de costas voltadas, sem se mover, rindo com um cavaleiro gordo que lhe lia um pergaminho.
 
-84
-00:16:33,900 --> 00:16:36,480
-Rui já não esperava no adro a senhora D.
+59
+00:17:06,300 --> 00:17:15,790
+Tam bem afectada indiferença só servia de-certo (pensou D. Alonso) a esconder alguma bem danada tenção!
 
-85
-00:16:36,980 --> 00:17:05,660
-Leonor, nem rondava amorosamente os muros do palacete, nem penetrava na igreja quando ela lá rezava, aos domingos; e que tam inteiramente se alheava dela que uma manhã, estando rente da arcada, e sentindo bem ranger e abrir a porta por onde a senhora ia aparecer, permanecera de costas voltadas, sem se mover, rindo com um cavaleiro gordo que lhe lia um pergaminho.
-
-86
-00:17:06,940 --> 00:17:11,660
-Tam bem afectada indiferença só servia de-certo (pensou D.
-
-87
-00:17:11,680 --> 00:17:15,200
-Alonso) a esconder alguma bem danada tenção!
-
-88
-00:17:16,380 --> 00:17:18,800
+60
+00:17:15,790 --> 00:17:19,319
 ¿Que tramava êle, o destro enganador?
 
-89
-00:17:19,839 --> 00:17:29,260
+61
+00:17:19,319 --> 00:17:29,820
 Tudo no desabrido fidalgo se exacerbou—ciume, rancor, vigilância, pesar da sua idade grisalha e feia.
 
-90
-00:17:30,380 --> 00:17:31,400
-No sossêgo de D.
+62
+00:17:29,820 --> 00:17:40,139
+No sossêgo de D. Leonor suspeitou manha e fingimento;—e imediatamente lhe vedou as visitas à Senhora do Pilar.
 
-91
-00:17:31,420 --> 00:17:39,720
-Leonor suspeitou manha e fingimento;—e imediatamente lhe vedou as visitas à Senhora do Pilar.
+63
+00:17:40,139 --> 00:17:55,060
+Nas manhãs costumadas corria êle à igreja para rezar o rosário, a levar as desculpas de D. Leonor—«que no puede venir (murmurava curvado diante do altar) por lo que sabeis, virgem purissima!»
 
-92
-00:17:40,560 --> 00:17:46,700
-Nas manhãs costumadas corria êle à igreja para rezar o rosário, a levar as desculpas de D.
-
-93
-00:17:46,720 --> 00:17:54,419
-Leonor—«que no puede venir (murmurava curvado diante do altar) por lo que sabeis, virgem purissima!»
-
-94
-00:17:55,680 --> 00:18:02,720
+64
+00:17:55,060 --> 00:18:04,110
 Cuidadosamente visitou e reforçou todos os negros ferrolhos das portas do seu solar.
 
-95
-00:18:03,720 --> 00:18:08,360
+65
+00:18:04,110 --> 00:18:09,030
 De noite soltava dois mastins nas sombras do jardim murado.
 
-96
-00:18:09,700 --> 00:18:23,040
+66
+00:18:09,030 --> 00:18:23,540
 À cabeceira do vasto leito, junto da mesa onde ficava a lâmpada, um relicário e o copo de vinho quente com canela e cravo para lhe retemperar as fôrças—luzia sempre uma grande espada nua.
 
-97
-00:18:24,040 --> 00:18:36,440
-Mas, com tantas seguranças, mal dormia—e a cada instante se solevava em sobressalto de entre as fundas almofadas, agarrando a senhora D.
+67
+00:18:23,540 --> 00:18:46,380
+Mas, com tantas seguranças, mal dormia—e a cada instante se solevava em sobressalto de entre as fundas almofadas, agarrando a senhora D. Leonor com mão bruta e sôfrega, que lhe pisava o colo, para rugir muito baixo, numa ânsia: «Dize que me queres só a mim!...»
 
-98
-00:18:36,460 --> 00:18:44,860
-Leonor com mão bruta e sôfrega, que lhe pisava o colo, para rugir muito baixo, numa ânsia: «Dize que me queres só a mim!...»
+68
+00:18:46,380 --> 00:18:53,969
+Depois, com a alvorada, lá se empoleirava, a espreitar, como um falcão, as janelas de D. Rui.
 
-99
-00:18:46,300 --> 00:18:53,280
-Depois, com a alvorada, lá se empoleirava, a espreitar, como um falcão, as janelas de D.
-
-100
-00:18:53,420 --> 00:18:53,539
-Rui.
-
-101
-00:18:54,400 --> 00:19:02,820
+69
+00:18:53,969 --> 00:19:03,299
 Nunca o avistava, agora, nem à porta da igreja às horas de missa, nem recolhendo do campo, a cavalo, ao toque de Ave-Marias.
 
-102
-00:19:03,779 --> 00:19:11,960
-E por o sentir assim sumido dos sítios e giros costumados—é que mais o suspeitava dentro do coração de D.
+70
+00:19:03,299 --> 00:19:13,290
+E por o sentir assim sumido dos sítios e giros costumados—é que mais o suspeitava dentro do coração de D. Leonor.
 
-103
-00:19:12,040 --> 00:19:12,620
-Leonor.
-
-104
-00:19:13,860 --> 00:19:28,380
+71
+00:19:13,290 --> 00:19:28,719
 Emfim, uma noite, depois de muito trilhar o lagedo da galeria, remoendo surdamente desconfianças e ódios, gritou pelo intendente e ordenou que se preparassem trouxas e cavalgaduras.
 
-105
-00:19:29,059 --> 00:19:33,340
-Cedo, de madrugada, partiria, com a senhora D.
+72
+00:19:28,719 --> 00:19:37,559
+Cedo, de madrugada, partiria, com a senhora D. Leonor, para a sua herdade de Cabril, a duas léguas de Segóvia!
 
-106
-00:19:33,779 --> 00:19:37,059
-Leonor, para a sua herdade de Cabril, a duas léguas de Segóvia!
-
-107
-00:19:38,060 --> 00:20:11,820
+73
+00:19:37,559 --> 00:20:12,610
 A partida não foi de madrugada, como uma fuga de avarento que vai esconder longe o seu tesoiro:—mas, realizada com aparato e demora, ficando a liteira diante da arcada, a esperar longas horas, de cortinas abertas, emquanto um cavalariço passeava pelo adro a mula branca do fidalgo, enxairelada à mourisca, e do lado do jardim a récua de machos, carregados de baús, presos às argolas, sob o sol e a mosca, aturdiam a viela com o tilintar dos guizos.
 
-108
-00:20:13,400 --> 00:20:13,840
-Assim D.
+74
+00:20:12,610 --> 00:20:19,669
+Assim D. Rui soube a jornada do senhor de Lara:—e assim a soube toda a cidade.
 
-109
-00:20:14,120 --> 00:20:19,059
-Rui soube a jornada do senhor de Lara:—e assim a soube toda a cidade.
+75
+00:20:19,669 --> 00:20:47,580
+Fôra um grande contentamento para D. Leonor, que gostava de Cabril, dos seus viçosos pomares, dos jardins, para onde abriam, rasgadamente e sem grades, as janelas dos seus aposentos claros: aí ao menos tinha largo ar, pleno sol, e alegretes a regar, um viveiro de pássaros, e tam compridas ruas de loureiro ou teixo, que eram quási a liberdade.
 
-110
-00:20:20,280 --> 00:20:22,000
-Fôra um grande contentamento para D.
-
-111
-00:20:22,019 --> 00:20:48,179
-Leonor, que gostava de Cabril, dos seus viçosos pomares, dos jardins, para onde abriam, rasgadamente e sem grades, as janelas dos seus aposentos claros: aí ao menos tinha largo ar, pleno sol, e alegretes a regar, um viveiro de pássaros, e tam compridas ruas de loureiro ou teixo, que eram quási a liberdade.
-
-112
-00:20:48,200 --> 00:20:59,539
+76
+00:20:47,580 --> 00:20:59,549
 E depois esperava que no campo se aligeirassem aqueles cuidados que traziam, nos derradeiros tempos, tam enrugado e taciturno seu marido e senhor.
 
-113
-00:20:59,560 --> 00:21:07,620
-Mas não logrou esta esperança, porque ao cabo de uma semana ainda se não desanuviara a face de D.
+77
+00:20:59,549 --> 00:21:20,000
+Mas não logrou esta esperança, porque ao cabo de uma semana ainda se não desanuviara a face de D. Alonso—nem de-certo havia frescura de arvoredos, sussurros de águas correntes, ou aromas esparsos nos rosais em flor, que calmassem agitação tam amarga e funda.
 
-114
-00:21:07,640 --> 00:21:19,460
-Alonso—nem de-certo havia frescura de arvoredos, sussurros de águas correntes, ou aromas esparsos nos rosais em flor, que calmassem agitação tam amarga e funda.
-
-115
-00:21:20,520 --> 00:21:44,440
+78
+00:21:20,000 --> 00:21:45,070
 Como em Segóvia, na galeria sonora de grande abobada, sem descanso passeava, enterrado na sua samarra, com o bico da barba espetado para diante, a grenha basta erriçada para trás, um geito de arreganhar silenciosamente o beiço, como se meditasse maldades a que gozava de antemão o sabor acre.
 
-116
-00:21:45,700 --> 00:22:06,760
+79
+00:21:45,070 --> 00:22:07,240
 E todo o interêsse da sua vida se concentrara num serviçal, que constantemente galopava entre Segóvia e Cabril, e que êle por vezes esperava no comêço da aldeia, junto ao Cruzeiro, ficando a escutar o homem que desmontava, ofegante, e logo lhe dava novas apressadas.
 
-117
-00:22:07,720 --> 00:22:08,580
-Uma noite em que D.
+80
+00:22:07,240 --> 00:22:24,529
+Uma noite em que D. Leonor, no seu quarto, rezava o terço com as aias, à luz duma tocha de cera, o senhor de Lara entrou muito vagarosamente, trazendo na mão uma fôlha de pergaminho e uma pena mergulhada no seu tinteiro de osso.
 
-118
-00:22:08,600 --> 00:22:24,000
-Leonor, no seu quarto, rezava o terço com as aias, à luz duma tocha de cera, o senhor de Lara entrou muito vagarosamente, trazendo na mão uma fôlha de pergaminho e uma pena mergulhada no seu tinteiro de osso.
-
-119
-00:22:25,059 --> 00:22:30,300
+81
+00:22:24,529 --> 00:22:29,309
 Com um rude acêno despediu as aias, que o temiam como a um lôbo.
 
-120
-00:22:30,320 --> 00:22:34,720
-E, empurrando um escabelo para junto da mesa, volvendo para D.
+82
+00:22:29,309 --> 00:22:43,110
+E, empurrando um escabelo para junto da mesa, volvendo para D. Leonor a face a que impusera tranqùilidade e agrado, como se apenas viesse por cousas naturais e fáceis:
 
-121
-00:22:34,740 --> 00:22:42,780
-Leonor a face a que impusera tranqùilidade e agrado, como se apenas viesse por cousas naturais e fáceis:
-
-122
-00:22:43,440 --> 00:22:49,320
+83
+00:22:43,110 --> 00:22:49,749
 —Senhora—disse—quero que me escrevais aqui uma carta que muito convêm escrever...
 
-123
-00:22:50,200 --> 00:23:15,980
+84
+00:22:49,749 --> 00:23:16,480
 Tam costumada era nela a submissão, que, sem outro reparo ou curiosidade, indo apenas pendurar na barra do leito o rosário em que rezara, se acomodou sôbre o escabelo, e os seus dedos finos, com muita aplicação, para que a letra fôsse esmerada e clara, traçaram a primeira linha curta que o Senhor de Lara ditara e era: Meu cavaleiro...»
 
-124
-00:23:16,980 --> 00:23:21,580
-Mas quando êle ditou a outra, mais longa, e dum modo amargo, D.
+85
+00:23:16,480 --> 00:23:28,629
+Mas quando êle ditou a outra, mais longa, e dum modo amargo, D. Leonor arrojou a pena como se a pena a escaldasse, e, recuando da mesa, gritou, numa aflição:
 
-125
-00:23:22,179 --> 00:23:28,360
-Leonor arrojou a pena como se a pena a escaldasse, e, recuando da mesa, gritou, numa aflição:
-
-126
-00:23:28,899 --> 00:23:33,280
+86
+00:23:28,629 --> 00:23:33,920
 —¿Senhor, para que convêm que eu escreva tais cousas e tam falsas?...
 
-127
-00:23:34,560 --> 00:23:43,880
+87
+00:23:33,920 --> 00:23:44,360
 Num brusco furor, o senhor de Lara arrancou do cinto um punhal, que lhe agitou junto à face, rugindo surdamente:
 
-128
-00:23:44,840 --> 00:23:51,400
+88
+00:23:44,360 --> 00:23:52,170
 —Ou escreveis o que vos mando e que a mim me convêm, ou por Deus, que vos varo o coração!...
 
-129
-00:23:52,940 --> 00:24:03,800
-Mais branca que a cera da tocha que os alumiava, com a carne arrepiada ante aquele ferro que luzia, num terror supremo e que tudo aceitava, D.
+89
+00:23:52,170 --> 00:24:05,320
+Mais branca que a cera da tocha que os alumiava, com a carne arrepiada ante aquele ferro que luzia, num terror supremo e que tudo aceitava, D. Leonor murmurou:
 
-130
-00:24:03,820 --> 00:24:04,940
-Leonor murmurou:
-
-131
-00:24:05,700 --> 00:24:08,580
+90
+00:24:05,320 --> 00:24:08,960
 —Pela Virgem Maria, não me façais mal!...
 
-132
-00:24:09,340 --> 00:24:13,160
+91
+00:24:08,960 --> 00:24:13,570
 Nem vos agasteis, senhor, que eu vivo para vos obedecer e servir...
 
-133
-00:24:13,980 --> 00:24:15,740
+92
+00:24:13,570 --> 00:24:16,340
 Agora, mandai, que eu escreverei.
 
-134
-00:24:16,940 --> 00:24:52,940
+93
+00:24:16,340 --> 00:24:53,340
 Então, com os punhos cerrados nas bordas da mesa, onde pousara o punhal, esmagando a frágil e desditosa mulher sob o olhar duro que fuzilava, o senhor de Lara ditou, atirou roucamente, aos pedaços, aos repelões, uma carta que dizia, quando finda e traçada em letra bem incerta e trémula:—«Meu cavaleiro: Muito mal haveis compreendido, ou muito mal pagais o amor que vos tenho, e que não vos pude nunca, em Segóvia, mostrar claramente...
 
-135
-00:24:53,740 --> 00:25:09,040
+94
+00:24:53,340 --> 00:25:09,380
 Agora aqui estou em Cabril, ardendo por vos ver; e se o vosso desejo corresponde ao meu, bem fàcilmente o podeis realizar, pois que meu marido se acha ausente noutra herdade, e esta de Cabril é toda fácil e aberta.
 
-136
-00:25:09,700 --> 00:25:17,299
+95
+00:25:09,380 --> 00:25:17,709
 Vinde esta noite, entrai pela porta do jardim, do lado da azinhaga, passando o tanque, até ao terraço.
 
-137
-00:25:18,120 --> 00:25:29,200
+96
+00:25:17,709 --> 00:25:29,830
 Aí avistareis uma escada encostada a uma janela da casa, que é a janela do meu quarto, onde sereis bem docemente agasalhado por quem ansiosamente vos espera...»
 
-138
-00:25:30,460 --> 00:25:35,399
+97
+00:25:29,830 --> 00:25:36,359
 —Agora, senhora, assinai por baixo o vosso nome, que isso sobretudo convêm!
 
-139
-00:25:37,320 --> 00:25:37,320
-D.
+98
+00:25:36,359 --> 00:25:45,120
+D. Leonor traçou vagarosamente o seu nome, tam vermelha como se a despissem diante de uma multidão.
 
-140
-00:25:37,340 --> 00:25:44,400
-Leonor traçou vagarosamente o seu nome, tam vermelha como se a despissem diante de uma multidão.
+99
+00:25:45,120 --> 00:25:55,449
+—E agora—ordenou o marido mais surdamente, através dos dentes cerrados—endereçai a D. Rui de Cardenas!
 
-141
-00:25:45,840 --> 00:25:53,520
-—E agora—ordenou o marido mais surdamente, através dos dentes cerrados—endereçai a D.
-
-142
-00:25:53,520 --> 00:25:54,820
-Rui de Cardenas!
-
-143
-00:25:56,080 --> 00:26:00,019
+100
+00:25:55,449 --> 00:26:00,360
 Ela ousou erguer os olhos, na surprêsa daquele nome desconhecido.
 
-144
-00:26:00,700 --> 00:26:01,100
+101
+00:26:00,360 --> 00:26:01,360
 —Andai!...
 
-145
-00:26:01,620 --> 00:26:01,900
-A D.
+102
+00:26:01,360 --> 00:26:04,659
+A D. Rui de Cardenas!—gritou o homem sombrio.
 
-146
-00:26:01,900 --> 00:26:04,060
-Rui de Cardenas!—gritou o homem sombrio.
+103
+00:26:04,659 --> 00:26:10,000
+E ela endereçou a sua desonesta carta a D. Rui de Cardenas.
 
-147
-00:26:05,280 --> 00:26:08,659
-E ela endereçou a sua desonesta carta a D.
+104
+00:26:10,000 --> 00:26:22,870
+D. Alonso meteu o pergaminho no cinto, junto ao punhal que embainhara, e saíu em silêncio com a barba espetada, abafando o rumor dos passos nas lages do corredor.
 
-148
-00:26:08,659 --> 00:26:09,479
-Rui de Cardenas.
-
-149
-00:26:10,010 --> 00:26:22,920
-D. Alonso meteu o pergaminho no cinto, junto ao punhal que embainhara, e saíu em silêncio com a barba espetada, abafando o rumor dos passos nas lages do corredor
-
-150
-00:26:23,320 --> 00:26:33,280
+105
+00:26:22,870 --> 00:26:33,860
 Ela ficara sôbre o escabelo, as mãos cansadas e caídas no regaço, num infinito espanto, o olhar perdido na escuridão da noite silente.
 
-151
-00:26:34,440 --> 00:26:41,020
+106
+00:26:33,860 --> 00:26:41,519
 Menos escura lhe parecia a morte que essa escura aventura em que se sentia envolvida e levada!
 
-152
-00:26:42,019 --> 00:26:43,559
-¿Quem era êsse D.
+107
+00:26:41,519 --> 00:26:53,319
+¿Quem era êsse D. Rui de Cardenas, de quem nunca ouvira falar, que nunca atravessara a sua vida, tam quieta, tam pouco povoada de memórias e de homens?
 
-153
-00:26:43,640 --> 00:26:52,840
-Rui de Cardenas, de quem nunca ouvira falar, que nunca atravessara a sua vida, tam quieta, tam pouco povoada de memórias e de homens?
-
-154
-00:26:53,799 --> 00:27:05,479
+108
+00:26:53,319 --> 00:27:06,019
 E êle de-certo a conhecia, a encontrara, a seguira, ao menos com os olhos, pois que era cousa natural e bem ligada receber dela carta de tanta paixão e promessa...
 
-155
-00:27:06,560 --> 00:27:17,080
+109
+00:27:06,019 --> 00:27:17,780
 ¿Assim, um homem, e môço de-certo bem nascido, talvez gentil, penetrava no seu destino bruscamente, trazido pela mão de seu marido?
 
-156
-00:27:18,480 --> 00:27:35,080
+110
+00:27:17,780 --> 00:27:35,760
 Tam íntimamente mesmo se entranhara êsse homem na sua vida, sem que ela se apercebesse, que já para êle se abria de noite a porta do seu jardim, e contra a sua janela, para êle subir, se arrumava de noite uma escada!...
 
-157
-00:27:36,440 --> 00:27:44,480
+111
+00:27:35,760 --> 00:27:44,930
 E era seu marido que muito secretamente escancarava a porta, e muito secretamente levantava a escada...
 
-158
-00:27:45,380 --> 00:27:46,019
+112
+00:27:44,930 --> 00:27:46,579
 Para que?
 
-159
-00:27:47,140 --> 00:27:48,880
-Então, num relance, D.
+113
+00:27:46,579 --> 00:27:57,760
+Então, num relance, D. Leonor compreendeu a verdade, a vergonhosa verdade, que lhe arrancou um grito ansiado e mal sufocado.
 
-160
-00:27:49,560 --> 00:27:57,220
-Leonor compreendeu a verdade, a vergonhosa verdade, que lhe arrancou um grito ansiado e mal sufocado.
-
-161
-00:27:58,279 --> 00:27:59,340
+114
+00:27:57,760 --> 00:27:59,750
 Era uma cilada!
 
-162
-00:28:00,160 --> 00:28:02,540
-O senhor de Lara atraía a Cabril êsse D.
+115
+00:27:59,750 --> 00:28:12,000
+O senhor de Lara atraía a Cabril êsse D. Rui com uma promessa magnífica, para dêle se apoderar, e de-certo o matar, indefeso e solitário!
 
-163
-00:28:02,640 --> 00:28:11,539
-Rui com uma promessa magnífica, para dêle se apoderar, e de-certo o matar, indefeso e solitário!
-
-164
-00:28:12,460 --> 00:28:22,780
+116
+00:28:12,000 --> 00:28:23,409
 E ela, o seu amor, o seu corpo, eram as promessas que se faziam rebrilhar ante os olhos seduzidos do môço desventuroso.
 
-165
-00:28:24,039 --> 00:28:32,780
+117
+00:28:23,409 --> 00:28:32,800
 Assim seu marido usava a sua beleza, o seu leito, como a rêde de oiro em que devia caír aquela prêsa estouvada!
 
-166
-00:28:32,820 --> 00:28:35,640
+118
+00:28:32,800 --> 00:28:36,090
 ¿Onde haveria maior ofensa?
 
-167
-00:28:36,540 --> 00:28:38,659
+119
+00:28:36,090 --> 00:28:39,039
 E tambêm quanta imprudência!
 
-168
-00:28:39,420 --> 00:28:40,480
-Bem poderia esse D.
+120
+00:28:39,039 --> 00:28:59,149
+Bem poderia esse D. Rui de Cardenas desconfiar, não aceder a convite tam abertamente amoroso, e depois mostrar por toda a Segóvia, rindo e triunfando, aquela carta em que lhe fazia oferta do seu leito e do seu corpo a mulher de Alonso de Lara!
 
-169
-00:28:40,480 --> 00:28:58,400
-Rui de Cardenas desconfiar, não aceder a convite tam abertamente amoroso, e depois mostrar por toda a Segóvia, rindo e triunfando, aquela carta em que lhe fazia oferta do seu leito e do seu corpo a mulher de Alonso de Lara!
-
-170
-00:28:59,879 --> 00:29:00,620
+121
+00:28:59,149 --> 00:29:00,949
 Mas não!
 
-171
-00:29:01,280 --> 00:29:13,920
+122
+00:29:00,949 --> 00:29:14,000
 o desventurado correria a Cabril—e para morrer, miserávelmente morrer no negro silêncio da noite, sem padre, nem sacramentos, com a alma encharcada em pecado de amor!
 
-172
-00:29:14,080 --> 00:29:22,880
+123
+00:29:14,000 --> 00:29:23,390
 Para morrer, de-certo—porque nunca o senhor de Lara permitiria que vivesse o homem que recebera tal carta.
 
-173
-00:29:23,900 --> 00:29:33,260
+124
+00:29:23,390 --> 00:29:33,639
 Assim, aquele môço morria por amor dela, e por um amor que, sem lhe valer nunca um gôsto, lhe valia logo a morte!
 
-174
-00:29:34,019 --> 00:29:49,779
+125
+00:29:33,639 --> 00:29:50,339
 De-certo por amor dela—pois que tal ódio do senhor de Lara, ódio que com tanta deslealdade e vilania se cevava, só podia nascer de ciumes, que lhe escureciam todo o dever de cavaleiro e de cristão.
 
-175
-00:29:50,899 --> 00:29:56,760
-Sem dúvida êle surpreendera olhares, passos, tenções dêste senhor D.
+126
+00:29:50,339 --> 00:30:00,250
+Sem dúvida êle surpreendera olhares, passos, tenções dêste senhor D. Rui, mal acautelado por bem namorado.
 
-176
-00:29:57,260 --> 00:29:59,700
-Rui, mal acautelado por bem namorado.
-
-177
-00:30:00,800 --> 00:30:01,740
+127
+00:30:00,250 --> 00:30:02,139
 Mas como?
 
-178
-00:30:02,540 --> 00:30:02,980
+128
+00:30:02,139 --> 00:30:03,000
 quando?
 
-179
-00:30:03,020 --> 00:30:13,639
+129
+00:30:03,000 --> 00:30:14,119
 Confusamente se lembrava ela de um moço que um domingo a cruzara no adro, a esperara ao portal da igreja, com um molho de cravos na mão...
 
-180
-00:30:14,599 --> 00:30:15,580
+130
+00:30:14,119 --> 00:30:16,330
 Seria êsse?
 
-181
-00:30:17,080 --> 00:30:22,000
+131
+00:30:16,330 --> 00:30:22,299
 Era de nobre parecer, muito pálido, com grandes olhos negros e quentes.
 
-182
-00:30:22,599 --> 00:30:24,940
+132
+00:30:22,299 --> 00:30:25,680
 Ela passara—indiferente...
 
-183
-00:30:26,419 --> 00:30:30,140
+133
+00:30:25,680 --> 00:30:30,410
 Os cravos que segurava na mão eram vermelhos e amarelos...
 
-184
-00:30:30,680 --> 00:30:31,660
+134
+00:30:30,410 --> 00:30:32,430
 A quem os levava?...
 
-185
-00:30:32,260 --> 00:30:32,640
+135
+00:30:32,430 --> 00:30:32,930
 Ah!
 
-186
-00:30:33,220 --> 00:30:35,840
+136
+00:30:32,930 --> 00:30:36,530
 se o pudesse avisar, bem cedo, de madrugada!
 
-187
-00:30:37,220 --> 00:30:41,400
+137
+00:30:36,530 --> 00:30:41,900
 ¿Como, se não havia em Cabril serviçal ou aia de quem se fiasse?
 
-188
-00:30:42,400 --> 00:30:53,980
+138
+00:30:41,900 --> 00:30:54,500
 Mas deixar que uma bruta espada varasse traiçoeiramente aquele coração, que vinha cheio dela, palpitando por ela, todo na esperança dela!...
 
-189
-00:30:55,020 --> 00:30:55,340
+139
+00:30:54,500 --> 00:30:55,740
 Oh!
 
-190
-00:30:56,140 --> 00:30:58,700
-a desabrida e ardente correria de D.
+140
+00:30:55,740 --> 00:31:09,620
+a desabrida e ardente correria de D. Rui, desde Segóvia a Cabril, com a promessa do encantador jardim aberto, da escada posta contra a janela, sob a nudez e protecção da noite!
 
-191
-00:30:58,720 --> 00:31:09,180
-Rui, desde Segóvia a Cabril, com a promessa do encantador jardim aberto, da escada posta contra a janela, sob a nudez e protecção da noite!
-
-192
-00:31:10,060 --> 00:31:13,660
+141
+00:31:09,620 --> 00:31:14,039
 ¿Mandaria realmente o senhor de Lara encostar uma escada à janela?
 
-193
-00:31:14,419 --> 00:31:30,860
+142
+00:31:14,039 --> 00:31:31,350
 De-certo, para com mais facilidade o poderem matar, ao pobre, e doce, e inocente môço, quando êle subisse, mal seguro sôbre um frágil degrau, as mãos embaraçadas, a espada a dormir na bainha...
 
-194
-00:31:31,840 --> 00:31:42,620
+143
+00:31:31,350 --> 00:31:43,110
 E assim, na outra noite, em face ao seu leito, a sua janela estaria aberta, e uma escada estaria erguida contra a sua janela à espera de um homem!
 
-195
-00:31:43,600 --> 00:31:48,980
+144
+00:31:43,110 --> 00:31:49,920
 Emboscado na sombra do quarto, seu marido seguramente mataria êsse homem...
 
-196
-00:31:50,860 --> 00:31:58,279
-¿Mas se o senhor de Lara esperasse fóra dos muros da quinta, assaltasse brutalmente, nalguma azinhaga, aquele D.
+145
+00:31:49,920 --> 00:32:09,130
+¿Mas se o senhor de Lara esperasse fóra dos muros da quinta, assaltasse brutalmente, nalguma azinhaga, aquele D. Rui de Cardenas, e ou por menos destro, ou por menos forte, num terçar de armas, caísse êle traspassado, sem que o outro conhecesse a quem matara?
 
-197
-00:31:58,279 --> 00:32:09,660
-Rui de Cardenas, e ou por menos destro, ou por menos forte, num terçar de armas, caísse êle traspassado, sem que o outro conhecesse a quem matara?
-
-198
-00:32:09,680 --> 00:32:23,239
+146
+00:32:09,130 --> 00:32:23,519
 E ela, ali, no seu quarto, sem saber, e todas as portas abertas, e a escada erguida, e aquele homem assomando à janela na sombra macia da noite tépida, e o marido que a devia defender morto no fundo duma azinhaga...
 
-199
-00:32:23,800 --> 00:32:25,260
+147
+00:32:23,519 --> 00:32:25,700
 ¿Que faria ela, Virgem Mãe?
 
-200
-00:32:26,140 --> 00:32:26,340
+148
+00:32:25,700 --> 00:32:26,350
 Oh!
 
-201
-00:32:26,360 --> 00:32:30,080
+149
+00:32:26,350 --> 00:32:30,550
 de-certo repeliria, soberbarmente, o môço temerário.
 
-202
-00:32:31,020 --> 00:32:34,599
+150
+00:32:30,550 --> 00:32:34,599
 Mas o espanto dêle e a cólera do seu desejo enganado!
 
-203
-00:32:34,599 --> 00:32:37,740
+151
+00:32:34,599 --> 00:32:38,110
 «Por Vós é que eu vim chamado, senhora!
 
-204
-00:32:38,480 --> 00:32:45,240
+152
+00:32:38,110 --> 00:32:45,850
 E ali trazia, sôbre o coração, a carta dela, com seu nome, que a sua mão traçara.
 
-205
-00:32:46,440 --> 00:32:48,820
+153
+00:32:45,850 --> 00:32:49,240
 ¿Como lhe poderia contar a emboscada e o dolo?
 
-206
-00:32:49,660 --> 00:32:59,820
+154
+00:32:49,240 --> 00:33:00,430
 Era tam longo de contar, naquele silêncio e solidão da noite, emquanto os olhos dêle, húmidos e negros, a estivessem suplicando e traspassando...
 
-207
-00:33:01,040 --> 00:33:09,520
+155
+00:33:00,430 --> 00:33:09,479
 Desgraçada dela se o senhor de Lara morresse, a deixasse solitária, sem defesa, naquela vasta casa aberta!
 
-208
-00:33:09,539 --> 00:33:32,280
+156
+00:33:09,479 --> 00:33:32,940
 Mas quanto desgraçada tambêm se aquele môço, chamado por ela, e que a amava, e que por êsse amor vinha correndo deslumbrante, encontrasse a morte no sítio da sua esperança, que era o sítio do seu pecado, e, morto em pleno pecado, rolasse para a eterna desesperança...
 
-209
-00:33:33,600 --> 00:33:46,599
+157
+00:33:32,940 --> 00:33:47,169
 Vinte e cinco anos, êle—se era o mesmo de quem se lembrava, pálido, e tam airoso, com um gibão de veludo roxo e um ramo de cravos na mão, à porta da igreja, em Segóvia...
 
-210
-00:33:47,740 --> 00:33:51,239
-Duas lágrimas saltaram dos cansados olhos de D.
+158
+00:33:47,169 --> 00:33:52,320
+Duas lágrimas saltaram dos cansados olhos de D. Leonor.
 
-211
-00:33:51,260 --> 00:33:51,879
-Leonor.
-
-212
-00:33:52,820 --> 00:34:02,340
+159
+00:33:52,320 --> 00:34:02,880
 E dobrando os joelhos, levantando a alma toda para o céu, onde a lua se começava a levantar, murmurou, numa infinita mágoa e fé:
 
-213
-00:34:03,399 --> 00:34:03,700
+160
+00:34:02,880 --> 00:34:03,690
 —Oh!
 
-214
-00:34:03,700 --> 00:34:11,100
+161
+00:34:03,690 --> 00:34:12,010
 Santa Virgem do Pilar, Senhora minha, vela por nós ambos, vela por todos nós!...
 
-215
-00:34:12,020 --> 00:34:15,040
+162
+00:34:12,010 --> 00:34:15,040
 Fim da Seção 2
 
-216
-00:34:19,520 --> 00:34:22,410
+163
+00:34:19,520 --> 00:34:22,409
 Seção 3
 de
 O Defunto
 de
 Eça de Queirós
 
-217
-00:34:22,500 --> 00:34:24,280
+164
+00:34:22,409 --> 00:34:25,029
 Esta gravação Librivox está em domínio público.
 
-218
-00:34:24,319 --> 00:34:25,089
+165
+00:34:25,029 --> 00:34:26,700
 3
 
-219
-00:34:25,600 --> 00:34:26,300
-D.
+166
+00:34:26,700 --> 00:34:41,009
+D. Rui entrava, pela hora da calma, no fresco pátio da sua casa, quando de um banco de pedra, na sombra, se ergueu um môço do campo, que tirou de dentro do surrão uma carta, lha entregou, murmurando:
 
-220
-00:34:27,260 --> 00:34:40,639
-Rui entrava, pela hora da calma, no fresco pátio da sua casa, quando de um banco de pedra, na sombra, se ergueu um môço do campo, que tirou de dentro do surrão uma carta, lha entregou, murmurando:
-
-221
-00:34:41,440 --> 00:34:44,579
+167
+00:34:41,009 --> 00:34:45,269
 —Senhor, dai-vos pressa em ler, que tenho de voltar a Cabril, a quem me mandou...
 
-222
-00:34:45,960 --> 00:34:45,960
-D.
+168
+00:34:45,269 --> 00:34:54,239
+D. Rui abriu o pergaminho; e, no deslumbramento que o tomou, bateu com êle contra o peito, como para o enterrar no coração...
 
-223
-00:34:45,960 --> 00:34:53,520
-Rui abriu o pergaminho; e, no deslumbramento que o tomou, bateu com êle contra o peito, como para o enterrar no coração...
-
-224
-00:34:54,960 --> 00:34:57,040
+169
+00:34:54,239 --> 00:34:57,210
 O moço do campo insistia, inquieto:
 
-225
-00:34:57,380 --> 00:34:58,579
+170
+00:34:57,210 --> 00:34:58,789
 —Aviai, senhor, aviai!
 
-226
-00:34:59,000 --> 00:35:00,160
+171
+00:34:58,789 --> 00:35:00,410
 Nem precisais responder.
 
-227
-00:35:00,660 --> 00:35:02,920
+172
+00:35:00,410 --> 00:35:03,650
 Basta que me deis um sinal de vos ter vindo o recado...
 
-228
-00:35:04,400 --> 00:35:05,340
-Muito pálido, D.
+173
+00:35:03,650 --> 00:35:10,779
+Muito pálido, D. Rui arrancou uma das luvas bordadas a retroz, que o môço enrolou e sumiu no surrão.
 
-229
-00:35:05,619 --> 00:35:10,360
-Rui arrancou uma das luvas bordadas a retroz, que o môço enrolou e sumiu no surrão.
+174
+00:35:10,779 --> 00:35:16,870
+E já abalava na ponta das alpercatas leves, quando, com um acêno, D. Rui ainda o deteve:
 
-230
-00:35:11,200 --> 00:35:15,640
-E já abalava na ponta das alpercatas leves, quando, com um acêno, D.
-
-231
-00:35:16,000 --> 00:35:17,040
-Rui ainda o deteve:
-
-232
-00:35:17,760 --> 00:35:18,220
+175
+00:35:16,870 --> 00:35:18,430
 —Escuta.
 
-233
-00:35:18,640 --> 00:35:20,080
+176
+00:35:18,430 --> 00:35:20,420
 ¿Que caminho tomas tu para Cabril?
 
-234
-00:35:20,760 --> 00:35:24,380
+177
+00:35:20,420 --> 00:35:24,650
 —O mais certo e sòzinho para gente afoita, que é pelo Cêrro dos Enforcados.
 
-235
-00:35:24,900 --> 00:35:25,100
+178
+00:35:24,650 --> 00:35:25,810
 —Bem.
 
-236
-00:35:26,520 --> 00:35:26,740
-D.
+179
+00:35:25,810 --> 00:35:42,200
+D. Rui galgou as escadas de pedra, e no seu aposento, sem mesmo tirar o sombreiro, de novo leu junto da gelosia aquele pergaminho divino, em que D. Leonor o chamava de noite ao seu quarto, à posse inteira do seu ser.
 
-237
-00:35:26,740 --> 00:35:36,960
-Rui galgou as escadas de pedra, e no seu aposento, sem mesmo tirar o sombreiro, de novo leu junto da gelosia aquele pergaminho divino, em que D.
-
-238
-00:35:37,020 --> 00:35:41,580
-Leonor o chamava de noite ao seu quarto, à posse inteira do seu ser.
-
-239
-00:35:42,820 --> 00:35:49,300
+180
+00:35:42,200 --> 00:35:49,709
 E não o maravilhava esta oferta—depois de uma tam constante, imperturbada indiferença.
 
-240
-00:35:50,119 --> 00:36:08,339
+181
+00:35:49,709 --> 00:36:08,899
 Antes nela logo percebeu um amor muito astuto, por ser muito forte, que com grande paciência se esconde ante os estorvos e os perigos, e mudamente prepara a sua hora de contentamento, melhor e mais deliciosa por tam preparada.
 
-241
-00:36:09,460 --> 00:36:16,700
+182
+00:36:08,899 --> 00:36:17,279
 Sempre ela o amara, pois, desde a manhã bemdita em que os seus olhos se tinham cruzado no portal de Nossa Senhora.
 
-242
-00:36:17,859 --> 00:36:42,480
+183
+00:36:17,279 --> 00:36:43,019
 E emquanto êle rondava aqueles muros do jardim, maldizendo uma frieza que lhe parecia mais fria que a dos frios muros, já ela lhe dera a sua alma, e cheia de constância, com amorosa sagacidade, recalcando o menor suspiro, adormecendo desconfianças, preparava a noite radiante em que lhe daria tambêm o seu corpo.
 
-243
-00:36:43,559 --> 00:36:51,280
+184
+00:36:43,019 --> 00:36:51,880
 Tanta firmeza, tam fino engenho nas coisas do amor ainda lha tornavam mais bela e mais apetecida!
 
-244
-00:36:52,480 --> 00:36:59,260
+185
+00:36:51,880 --> 00:36:59,600
 Com que impaciência olhava então o sol, tam desapressado nessa tarde em descer para os montes!
 
-245
-00:36:59,940 --> 00:37:19,540
+186
+00:36:59,600 --> 00:37:20,400
 Sem repouso, no seu quarto, com as gelosias cerradas para melhor concentrar a sua felicidade, tudo aprontava amorosamente para a triunfal jornada: as finas roupas, as finas rendas, um gibão de veludo negro e as essências perfumadas.
 
-246
-00:37:21,260 --> 00:37:28,060
+187
+00:37:20,400 --> 00:37:28,510
 Duas vezes desceu à cavalariça a verificar se o seu cavalo estava bem ferrado e bem pensado.
 
-247
-00:37:28,960 --> 00:37:35,940
+188
+00:37:28,510 --> 00:37:36,500
 Sôbre o soalho, vergou e revergou, para a experimentar, a folha da espada que levaria à cinta...
 
-248
-00:37:37,060 --> 00:37:53,560
+189
+00:37:36,500 --> 00:37:54,120
 Mas o seu maior cuidado era o caminho para Cabril, a-pesar de bem o conhecer, e a aldeia apinhada em tôrno ao mosteiro franciscano, e a vélha ponte romana com o seu Calvário, e a azinhaga funda que levava à herdade do senhor de Lara.
 
-249
-00:37:54,680 --> 00:38:05,319
+190
+00:37:54,120 --> 00:38:05,709
 Ainda nesse inverno por lá passara, indo montear com dois amigos de Astorga, e avistara a torre dos de Lara, e pensara:—«Eis a torre da minha ingrata!»
 
-250
-00:38:06,099 --> 00:38:07,140
+191
+00:38:05,709 --> 00:38:07,590
 Como se enganava!
 
-251
-00:38:08,020 --> 00:38:14,060
+192
+00:38:07,590 --> 00:38:14,000
 As noites agora eram de lua, e êle saíria de Segóvia caladamente, pela porta de S.
 
-252
-00:38:14,080 --> 00:38:14,780
+193
+00:38:14,000 --> 00:38:15,130
 Mauros.
 
-253
-00:38:15,480 --> 00:38:18,380
+194
+00:38:15,130 --> 00:38:18,670
 Um galope curto o punha no Cêrro dos Enforcados...
 
-254
-00:38:18,960 --> 00:38:42,300
+195
+00:38:18,670 --> 00:38:42,730
 Bem o conhecia tambêm, êsse sítio de tristeza e pavor, com os seus quatro pilares de pedra, onde se enforcavam os criminosos, e onde os seus corpos ficavam, balouçados da ventania, ressequidos do sol, até que as cordas apodrecessem e as ossadas caíssem, brancas e limpas da carne pelo bico dos corvos.
 
-255
-00:38:43,160 --> 00:38:45,880
+196
+00:38:42,730 --> 00:38:46,240
 Por trás do Cêrro era a lagôa das Donas.
 
-256
-00:38:46,599 --> 00:38:50,620
+197
+00:38:46,240 --> 00:38:50,430
 A derradeira vez que por lá andara, fôra em dia do apóstolo S.
 
-257
-00:38:50,620 --> 00:39:02,880
+198
+00:38:50,430 --> 00:39:03,249
 Matias, quando o corregedor e as confrarias de caridade e paz, em procissão, iam dar sepultura sagrada às ossadas caídas no chão negro, esbrugadas pelas aves.
 
-258
-00:39:03,619 --> 00:39:07,660
+199
+00:39:03,249 --> 00:39:08,310
 Daí o caminho, depois, corria liso e direito a Cabril.
 
-259
-00:39:08,960 --> 00:39:09,940
-Assim D.
+200
+00:39:08,310 --> 00:39:13,750
+Assim D. Rui meditava a sua jornada venturosa, emquanto a tarde ia caíndo.
 
-260
-00:39:10,000 --> 00:39:13,720
-Rui meditava a sua jornada venturosa, emquanto a tarde ia caíndo.
-
-261
-00:39:13,780 --> 00:39:56,700
+201
+00:39:13,750 --> 00:39:57,120
 Mas, quando escureceu, e em tôrno às tôrres da igreja começaram a girar os morcegos, e nas esquinas do adro se acenderam os nichos das Almas, o valente môço sentiu um medo estranho, o medo daquela felicidade que se acercava e que lhe parecia sobrenatural. ¿Era, pois, certo que essa mulher de divina formosura, famosa em Castela, e mais inacessível que um astro, seria sua, toda sua, no silêncio e segurança duma alcova, dentro em breves instantes, quando ainda se não tivessem apagado diante dos retábulos das Almas aqueles lumes devotos?
 
-262
-00:39:57,540 --> 00:39:59,820
+202
+00:39:57,120 --> 00:40:00,360
 ¿E o que fizera êle para lograr tam grande bem?
 
-263
-00:40:00,900 --> 00:40:12,020
+203
+00:40:00,360 --> 00:40:12,470
 Pisara as lages de um adro, esperara no portal de uma igreja, procurando com os olhos outros dois olhos, que não se erguiam, indiferentes ou desatentos.
 
-264
-00:40:12,920 --> 00:40:16,380
+204
+00:40:12,470 --> 00:40:16,780
 Então, sem dor, abandonara a sua esperança...
 
-265
-00:40:17,180 --> 00:40:29,319
+205
+00:40:16,780 --> 00:40:29,500
 E eis que de repente aqueles olhos distraídos o procuram, e aqueles braços fechados se lhe abrem, largos e nus, e com o corpo e com a alma aquela mulher lhe grita:—«Oh!
 
-266
-00:40:29,340 --> 00:40:31,600
+206
+00:40:29,500 --> 00:40:31,660
 mal avisado, que não me entendeste!
 
-267
-00:40:31,720 --> 00:40:32,200
+207
+00:40:31,660 --> 00:40:32,500
 Vem!
 
-268
-00:40:32,800 --> 00:40:35,720
+208
+00:40:32,500 --> 00:40:35,240
 Quem te desanimou já te pertence!»
 
-269
-00:40:35,760 --> 00:40:37,859
+209
+00:40:35,240 --> 00:40:38,270
 ¿Houvera jàmais igual ventura?
 
-270
-00:40:38,680 --> 00:40:46,760
+210
+00:40:38,270 --> 00:40:47,180
 Tam alta, tam rara era, que de-certo atrás dela, se não erra a lei humana, já devia caminhar a desventura!
 
-271
-00:40:47,600 --> 00:41:09,920
+211
+00:40:47,180 --> 00:41:10,490
 Já na verdade caminhava;—pois quanta desventura em saber que depois de tal ventura, quando de madrugada, saíndo dos divinos braços, êle recolhesse a Segóvia, a sua Leonor, o bem sublime da sua vida, tam inesperadamente adquirido por um instante, recaíria logo sob o poder de outro amo!
 
-272
-00:41:11,060 --> 00:41:12,000
+212
+00:41:10,490 --> 00:41:12,390
 Que importava!
 
-273
-00:41:12,780 --> 00:41:14,560
+213
+00:41:12,390 --> 00:41:14,840
 Viessem depois dores e zelos!
 
-274
-00:41:15,120 --> 00:41:28,260
+214
+00:41:14,840 --> 00:41:28,810
 Aquela noite era esplêndidamente sua, o mundo todo uma aparência vã e a única realidade êsse quarto de Cabril, mal alumiado, onde ela o esperaria, com os cabelos soltos!
 
-275
-00:41:29,360 --> 00:41:34,000
+215
+00:41:28,810 --> 00:41:34,450
 Foi com sofreguidão que desceu a escada, se arremessou sôbre o seu cavalo.
 
-276
-00:41:34,900 --> 00:41:46,760
+216
+00:41:34,450 --> 00:41:47,250
 Depois, por prudência, atravessou o adro muito lentamente, com o sombreiro bem levantado da face, como num passeio natural, a procurar fóra dos muros a frescura da noite.
 
-277
-00:41:47,740 --> 00:41:50,740
+217
+00:41:47,250 --> 00:41:50,700
 Nenhum encontro o inquietou até à porta de S.
 
-278
-00:41:50,760 --> 00:41:51,440
+218
+00:41:50,700 --> 00:41:51,750
 Mauros.
 
-279
-00:41:52,060 --> 00:42:09,220
+219
+00:41:51,750 --> 00:42:08,410
 Aí, um mendigo, agachado na escuridão dum arco, e que tocava monótonamente a sua sanfona, pediu, em lamúria, à Virgem e a todos os santos, que levassem aquele gentil cavaleiro na sua doce e santa guarda.
 
-280
-00:42:09,240 --> 00:42:09,380
-D.
+220
+00:42:08,410 --> 00:42:18,990
+D. Rui parara para lhe atirar uma esmola, quando se lembrou que nessa tarde não fôra à igreja, à hora de vésperas, rezar e pedir a bênção à sua divina madrinha.
 
-281
-00:42:09,440 --> 00:42:18,540
-Rui parara para lhe atirar uma esmola, quando se lembrou que nessa tarde não fôra à igreja, à hora de vésperas, rezar e pedir a bênção à sua divina madrinha.
-
-282
-00:42:19,440 --> 00:42:28,780
+221
+00:42:18,990 --> 00:42:29,250
 Com um salto, desceu logo do cavalo, porque, justamente, rente ao vélho arco, tremeluzia uma lâmpada alumiando um retábulo.
 
-283
-00:42:29,720 --> 00:42:34,260
+222
+00:42:29,250 --> 00:42:34,710
 Era uma imagem da Virgem com o peito traspassado por sete espadas.
 
-284
-00:42:35,160 --> 00:42:35,380
-D.
+223
+00:42:34,710 --> 00:42:43,819
+D. Rui ajoelhou, pousou o sombreiro nas lages, e com as mãos erguidas, muito zelosamente, rezou uma Salve-Rainha.
 
-285
-00:42:35,420 --> 00:42:43,220
-Rui ajoelhou, pousou o sombreiro nas lages, e com as mãos erguidas, muito zelosamente, rezou uma Salve-Rainha.
-
-286
-00:42:44,420 --> 00:42:56,620
+224
+00:42:43,819 --> 00:42:57,080
 O clarão amarelo da luz envolvia o rosto da Senhora, que, sem sentir as dores dos sete ferros, ou como se êles só déssem inefáveis gozos, sorria com os lábios muito vermelhos.
 
-287
-00:42:57,540 --> 00:43:04,380
+225
+00:42:57,080 --> 00:43:04,910
 Emquanto êle rezava, no convento de São Domingos, ao lado, a sineta começou a tocar a agonia.
 
-288
-00:43:05,440 --> 00:43:12,760
+226
+00:43:04,910 --> 00:43:13,600
 De entre a sombra negra do arco, cessando a sanfona, o mendigo murmurou:—«Lá está um frade a morrer!»
 
-289
-00:43:12,760 --> 00:43:14,440
-D.
+227
+00:43:13,600 --> 00:43:18,040
+D. Rui disse uma Ave-Maria pelo frade que morria.
 
-290
-00:43:14,440 --> 00:43:17,260
-Rui disse uma Ave-Maria pelo frade que morria.
-
-291
-00:43:18,820 --> 00:43:25,480
+228
+00:43:18,040 --> 00:43:25,930
 A Virgem das sete espadas sorria docemente—o toque de agonia não era, pois, de mau preságio!
 
-292
-00:43:26,360 --> 00:43:26,599
-D.
+229
+00:43:25,930 --> 00:43:29,499
+D. Rui cavalgou alegremente e partiu.
 
-293
-00:43:26,640 --> 00:43:28,900
-Rui cavalgou alegremente e partiu.
-
-294
-00:43:30,099 --> 00:43:31,160
+230
+00:43:29,499 --> 00:43:31,069
 Para alêm da porta de S.
 
-295
-00:43:31,180 --> 00:43:38,080
+231
+00:43:31,069 --> 00:43:38,480
 Mauros, depois de alguns casebres de oleiros, o caminho seguia, esguio e negro, entre altas piteiras.
 
-296
-00:43:38,880 --> 00:43:48,200
+232
+00:43:38,480 --> 00:43:48,770
 Por trás das colinas, ao fundo da planície escura, subia o primeiro clarão, amarelo e lânguido, da lua cheia, ainda escondida.
 
-297
-00:43:49,340 --> 00:43:49,680
-E D.
+233
+00:43:48,770 --> 00:43:59,209
+E D. Rui marchava a passo, receando chegar a Cabril muito cedo, antes que as aias e os moços findassem o serão e o rosário.
 
-298
-00:43:49,680 --> 00:43:58,599
-Rui marchava a passo, receando chegar a Cabril muito cedo, antes que as aias e os moços findassem o serão e o rosário.
+234
+00:43:59,209 --> 00:44:04,890
+¿Porque não lhe marcara D. Leonor a hora, naquela carta tam clara e tam pensada?
 
-299
-00:43:59,820 --> 00:44:01,000
-¿Porque não lhe marcara D.
-
-300
-00:44:01,000 --> 00:44:04,380
-Leonor a hora, naquela carta tam clara e tam pensada?
-
-301
-00:44:05,400 --> 00:44:21,480
+235
+00:44:04,890 --> 00:44:21,480
 Então a sua imaginação corria adiante, rompia pelo jardim de Cabril, galgava aladamente a escada prometida—e êle largava tambêm atrás, numa carreira sôfrega, que arrancava as pedras do caminho mal junto.
 
-302
-00:44:21,480 --> 00:44:23,660
+236
+00:44:21,480 --> 00:44:23,840
 Depois sofreava o cavalo ofegante.
 
-303
-00:44:24,020 --> 00:44:25,619
+237
+00:44:23,840 --> 00:44:25,979
 Era cedo, era cedo!
 
-304
-00:44:26,339 --> 00:44:33,720
+238
+00:44:25,979 --> 00:44:34,340
 E retomava o passo penoso, sentindo o coração contra o peito, como ave presa que bate às grades.
 
-305
-00:44:34,960 --> 00:44:48,020
-Assim chegou ao Cruzeiro, onde a estrada se fendia em duas, mais juntas que as pontas de uma forquilha, ambas cortando através de pinheiral. Descoberto diante da imagem crucificada, D.
+239
+00:44:34,340 --> 00:44:55,970
+Assim chegou ao Cruzeiro, onde a estrada se fendia em duas, mais juntas que as pontas de uma forquilha, ambas cortando através de pinheiral. Descoberto diante da imagem crucificada, D. Rui teve um instante de angústia, pois não se recordava qual delas levava ao Cêrro dos Enforcados.
 
-306
-00:44:48,039 --> 00:44:56,460
-Rui teve um instante de angústia, pois não se recordava qual delas levava ao Cêrro dos Enforcados.
-
-307
-00:44:56,480 --> 00:45:04,920
+240
+00:44:55,970 --> 00:45:04,380
 Já se embrenhara na mais cerrada, quando, de entre os pinheiros calados, uma luz surgiu, dansando no escuro.
 
-308
-00:45:04,940 --> 00:45:12,440
+241
+00:45:04,380 --> 00:45:13,230
 Era uma vélha em farrapos, com as longas melenas soltas, vergada sôbre um bordão e levando uma candeia.
 
-309
-00:45:14,020 --> 00:45:15,940
+242
+00:45:13,230 --> 00:45:16,480
 —¿Para onde vai este caminho?—gritou Rui.
 
-310
-00:45:17,020 --> 00:45:19,900
+243
+00:45:16,480 --> 00:45:20,260
 A vélha balançou mais ao alto a candeia, para mirar o cavaleiro.
 
-311
-00:45:20,620 --> 00:45:21,240
+244
+00:45:20,260 --> 00:45:21,740
 —Para Xarama.
 
-312
-00:45:22,240 --> 00:45:32,600
+245
+00:45:21,740 --> 00:45:33,109
 E luz e vélha imediatamente se sumiram, fundidas na sombra, como se ali tivessem surgindo sómente para avisar o cavaleiro do seu caminho errado...
 
-313
-00:45:33,619 --> 00:45:47,320
+246
+00:45:33,109 --> 00:45:47,760
 Já êle virara arrebatadamente; e, rodeando o Calvário, galopou pela outra estrada mais larga, até avistar sôbre a claridade do céu os pilares negros, os madeiros negros do Cêrro dos Enforcados.
 
-314
-00:45:48,200 --> 00:45:51,120
+247
+00:45:47,760 --> 00:45:51,649
 Então estacou, direito nos estribos.
 
-315
-00:45:52,180 --> 00:46:12,640
+248
+00:45:51,649 --> 00:46:13,279
 Num cômoro alto, sêco, sem erva ou urze, ligados por um muro baixo, todo esbrechado, lá se erguiam, negros, enormes, sôbre a amarelidão do luar, os quatro pilares de granito semelhantes aos quatro cunhais duma casa desfeita.
 
-316
-00:46:13,920 --> 00:46:18,380
+249
+00:46:13,279 --> 00:46:18,790
 Sôbre os pilares pousavam quatro grossas traves.
 
-317
-00:46:19,200 --> 00:46:26,400
+250
+00:46:18,790 --> 00:46:27,120
 Das traves pendiam quatro enforcados negros e rígidos, no ar parado e mudo.
 
-318
-00:46:27,840 --> 00:46:31,160
+251
+00:46:27,120 --> 00:46:31,800
 Tudo em tôrno parecia morto como êles.
 
-319
-00:46:32,440 --> 00:46:37,480
+252
+00:46:31,800 --> 00:46:37,990
 Gordas aves de rapina dormiam empoleiradas sôbre os madeiros.
 
-320
-00:46:38,500 --> 00:46:44,600
+253
+00:46:37,990 --> 00:46:44,980
 Para alêm, rebrilhava lívidamente a água morta da lagôa das Donas.
 
-321
-00:46:45,340 --> 00:46:48,020
+254
+00:46:44,980 --> 00:46:48,649
 E, no céu, a lua ia grande e cheia.
 
-322
-00:46:48,140 --> 00:46:48,800
-D.
+255
+00:46:48,649 --> 00:46:57,640
+D. Rui murmurou o Padre Nosso devido por todo o cristão àquelas almas culpadas.
 
-323
-00:46:50,900 --> 00:46:57,120
-Rui murmurou o Padre Nosso devido por todo o cristão àquelas almas culpadas.
-
-324
-00:46:58,160 --> 00:47:13,859
+256
+00:46:57,640 --> 00:47:13,680
 Depois impeliu o cavalo, e passava—quando, no imenso silêncio e na imensa solidão, se ergueu, ressoou uma voz, uma voz que o chamava, suplicante e lenta:
 
-325
-00:47:14,880 --> 00:47:18,720
+257
+00:47:13,680 --> 00:47:19,369
 —Cavaleiro, detende-vos, vinde cá!...
 
-326
-00:47:20,020 --> 00:47:20,380
-D.
+258
+00:47:19,369 --> 00:47:29,700
+D. Rui colheu bruscamente as rédeas e erguido sôbre os estribos, atirou os olhos espantados por todo o sinistro ermo.
 
-327
-00:47:20,380 --> 00:47:29,120
-Rui colheu bruscamente as rédeas e erguido sôbre os estribos, atirou os olhos espantados por todo o sinistro ermo.
-
-328
-00:47:30,280 --> 00:47:38,160
+259
+00:47:29,700 --> 00:47:38,720
 Só avistou o cêrro áspero, a água rebrilhante e muda, os madeiros, os mortos.
 
-329
-00:47:39,280 --> 00:47:44,300
+260
+00:47:38,720 --> 00:47:44,280
 Pensou que fôra ilusão da noite ou ousadia de algum demónio errante.
 
-330
-00:47:45,140 --> 00:47:52,220
+261
+00:47:44,280 --> 00:47:52,189
 E, serenamente, picou o cavalo, sem sobressalto ou pressa, como numa rua de Segóvia.
 
-331
-00:47:53,240 --> 00:48:00,820
+262
+00:47:52,189 --> 00:48:01,250
 Mas, por trás, a voz tornou, mais urgentemente o chamou, ansiosa, quási aflita:
 
-332
-00:48:01,680 --> 00:48:07,060
+263
+00:48:01,250 --> 00:48:07,699
 —Cavaleiro, esperai, não vos vades, voltai, chegai aqui!...
 
-333
-00:48:08,339 --> 00:48:09,280
-De novo D.
+264
+00:48:07,699 --> 00:48:17,689
+De novo D. Rui estacou e, virado sôbre a sela, encarou afoitamente os quatro corpos pendurados das traves.
 
-334
-00:48:09,280 --> 00:48:17,220
-Rui estacou e, virado sôbre a sela, encarou afoitamente os quatro corpos pendurados das traves.
-
-335
-00:48:18,160 --> 00:48:26,260
+265
+00:48:17,689 --> 00:48:25,660
 Do lado dêles soava a voz, que, sendo humana, só podia saír de forma humana!
 
-336
-00:48:26,280 --> 00:48:31,360
+266
+00:48:25,660 --> 00:48:32,000
 Um dêsses enforcados, pois, o chamara, com tanta pressa e ânsia.
 
-337
-00:48:32,640 --> 00:48:37,480
+267
+00:48:32,000 --> 00:48:38,050
 ¿Restaria nalguns, por maravilhosa mercê de Deus, alento e vida?
 
-338
-00:48:38,620 --> 00:48:48,020
+268
+00:48:38,050 --> 00:48:48,590
 ¿Ou seria que, por maior maravilha, uma dessas carcassas meio apodrecidas o detinha para lhe transmitir avisos de Alêm-da-Campa?...
 
-339
-00:48:49,160 --> 00:48:59,559
+269
+00:48:48,590 --> 00:49:00,140
 Mas, que a voz rompesse dum peito vivo ou dum peito morto, grande covardia era abalar, espavoridamente, sem a atender e a ouvir.
 
-340
-00:49:00,760 --> 00:49:13,799
+270
+00:49:00,140 --> 00:49:14,339
 Atirou logo para dentro do cêrro o cavalo, que tremia; e, parando, direito e calmo, com a mão na ilharga, depois de fitar, um por um, os quatro corpos suspensos, gritou:
 
-341
-00:49:14,880 --> 00:49:18,460
-—¿Qual de vós, homens enforcados, ousou chamar por D.
+271
+00:49:14,339 --> 00:49:19,950
+—¿Qual de vós, homens enforcados, ousou chamar por D. Rui de Cardenas?
 
-342
-00:49:18,460 --> 00:49:19,460
-Rui de Cardenas?
-
-343
-00:49:20,440 --> 00:49:32,000
+272
+00:49:19,950 --> 00:49:32,440
 Então aquele que voltava as costas à lua cheia respondeu, do alto da corda, muito quieta e naturalmente, como um homem que conversa da sua janela para a rua:
 
-344
-00:49:32,880 --> 00:49:34,000
+273
+00:49:32,440 --> 00:49:34,920
 —Senhor, fui eu.
 
-345
-00:49:35,840 --> 00:49:35,840
-D.
+274
+00:49:34,920 --> 00:49:38,550
+D. Rui fez avançar para diante dêle o cavalo.
 
-346
-00:49:35,840 --> 00:49:38,220
-Rui fez avançar para diante dêle o cavalo.
-
-347
-00:49:38,860 --> 00:49:45,900
+275
+00:49:38,550 --> 00:49:46,300
 Não lhe distinguia a face, enterrada no peito, escondida pelas longas e negras melenas pendentes.
 
-348
-00:49:46,700 --> 00:49:55,720
+276
+00:49:46,300 --> 00:49:56,240
 Só percebeu que tinha as mãos soltas e desamarradas, e tambêm soltos os pés nus, já ressequidos e da côr do betume.
 
-349
-00:49:56,740 --> 00:49:57,540
+277
+00:49:56,240 --> 00:49:58,050
 —Que me queres?
 
-350
-00:49:58,560 --> 00:50:00,920
+278
+00:49:58,050 --> 00:50:01,470
 O enforcado, suspirando, murmurou:
 
-351
-00:50:02,020 --> 00:50:07,320
+279
+00:50:01,470 --> 00:50:07,820
 —Senhor, fazei-me a grande mercê de me cortar esta corda em que estou pendurado.
 
-352
-00:50:07,360 --> 00:50:07,619
-D.
+280
+00:50:07,820 --> 00:50:13,710
+D. Rui arrancou a espada e de um golpe certo cortou a corda meio apodrecida.
 
-353
-00:50:08,220 --> 00:50:13,160
-Rui arrancou a espada e de um golpe certo cortou a corda meio apodrecida.
-
-354
-00:50:14,260 --> 00:50:22,520
+281
+00:50:13,710 --> 00:50:22,960
 Com um sinistro som de ossos entrechocados o corpo caíu no chão, onde jazeu um momento, estirado.
 
-355
-00:50:23,400 --> 00:50:31,020
-Mas, imediatamente, se endireitou sôbre os pés mal seguros e ainda dormentes—e ergueu para D.
+282
+00:50:22,960 --> 00:50:40,490
+Mas, imediatamente, se endireitou sôbre os pés mal seguros e ainda dormentes—e ergueu para D. Rui uma face morta, que era uma caveira com a pele muito colada, e mais amarela que a lua que nela batia.
 
-356
-00:50:31,500 --> 00:50:39,940
-Rui uma face morta, que era uma caveira com a pele muito colada, e mais amarela que a lua que nela batia.
-
-357
-00:50:41,040 --> 00:50:43,620
+283
+00:50:40,490 --> 00:50:44,000
 Os olhos não tinham movimento nem brilho.
 
-358
-00:50:44,380 --> 00:50:48,680
+284
+00:50:44,000 --> 00:50:49,230
 Ambos os beiços se lhe arreganhavam num sorriso empedernido.
 
-359
-00:50:49,780 --> 00:50:55,439
+285
+00:50:49,230 --> 00:50:56,850
 De entre os dentes, muito brancos, surdia uma ponta de língua muito negra.
 
-360
-00:50:55,480 --> 00:50:57,900
-D.
+286
+00:50:56,850 --> 00:51:00,439
+D. Rui não mostrou terror, nem asco.
 
-361
-00:50:57,900 --> 00:51:00,039
-Rui não mostrou terror, nem asco.
-
-362
-00:51:00,839 --> 00:51:03,119
+287
+00:51:00,439 --> 00:51:03,549
 E embainhando serenamente a espada:
 
-363
-00:51:03,980 --> 00:51:06,220
+288
+00:51:03,549 --> 00:51:06,909
 —¿Tu estás morto ou vivo?—perguntou.
 
-364
-00:51:07,599 --> 00:51:09,600
+289
+00:51:06,909 --> 00:51:10,000
 O homem encolheu os ombros com lentidão:
 
-365
-00:51:10,400 --> 00:51:11,880
+290
+00:51:10,000 --> 00:51:12,230
 —Senhor, não sei...
 
-366
-00:51:12,580 --> 00:51:13,740
+291
+00:51:12,230 --> 00:51:14,069
 ¿Quem sabe o que é a vida?
 
-367
-00:51:14,400 --> 00:51:15,760
+292
+00:51:14,069 --> 00:51:16,210
 ¿Quem sabe o que é a morte?...
 
-368
-00:51:16,660 --> 00:51:17,499
+293
+00:51:16,210 --> 00:51:18,039
 —¿Mas que queres de mim?
 
-369
-00:51:18,579 --> 00:51:29,339
+294
+00:51:18,039 --> 00:51:29,719
 O enforcado, com os longos dedos descarnados, alargou o nó da corda que ainda lhe laçava o pescoço e declarou muito serena e firmemente:
 
-370
-00:51:30,099 --> 00:51:34,660
+295
+00:51:29,719 --> 00:51:35,320
 —Senhor, eu tenho de ir convosco a Cabril, onde vós ides.
 
-371
-00:51:35,980 --> 00:51:45,560
+296
+00:51:35,320 --> 00:51:45,560
 O cavaleiro estremeceu num tam forte assombro, repuxando as rédeas, que o seu bom cavalo se empinou como assombrado tambêm.
 
-372
-00:51:45,580 --> 00:51:46,660
+297
+00:51:45,560 --> 00:51:47,250
 —Comigo a Cabril?!...
 
-373
-00:51:47,840 --> 00:51:58,260
+298
+00:51:47,250 --> 00:51:58,750
 O homem curvou o espinhaço, a que se viam os ossos todos, mais agudos que os dentes de uma serra, através de um longo rasgão da camisa de estamenha:
 
-374
-00:51:59,240 --> 00:52:02,340
+299
+00:51:58,750 --> 00:52:02,630
 —Senhor—suplicou—não mo negueis.
 
-375
-00:52:02,920 --> 00:52:07,259
+300
+00:52:02,630 --> 00:52:08,109
 Que eu tenho a receber grande salário se vos fizer grande serviço!
 
-376
-00:52:09,180 --> 00:52:09,780
-Então D.
+301
+00:52:08,109 --> 00:52:15,189
+Então D. Rui pensou de repente que bem podia ser aquela uma traça formidável do Demónio.
 
-377
-00:52:09,799 --> 00:52:15,300
-Rui pensou de repente que bem podia ser aquela uma traça formidável do Demónio.
-
-378
-00:52:16,660 --> 00:52:28,160
+302
+00:52:15,189 --> 00:52:28,739
 E, cravando os olhos muito brilhantes na face morta que para êle se erguia, ansiosa, à espera do seu consentimento—fez um lento e largo Sinal da Cruz.
 
-379
-00:52:29,319 --> 00:52:32,719
+303
+00:52:28,739 --> 00:52:33,129
 O enforcado vergou os joelhos com assustada reverência:
 
-380
-00:52:33,540 --> 00:52:37,080
+304
+00:52:33,129 --> 00:52:37,430
 —¿Senhor, para que me experimentais com êsse sinal?
 
-381
-00:52:37,780 --> 00:52:44,559
+305
+00:52:37,430 --> 00:52:43,559
 Só por êle alcançamos remissão, e eu só dêle espero misericórdia.
 
-382
-00:52:44,660 --> 00:52:45,120
-Então D.
+306
+00:52:43,559 --> 00:52:51,340
+Então D. Rui pensou que, se êsse homem não era mandado pelo Demónio, bem podia ser mandado por Deus!
 
-383
-00:52:45,120 --> 00:52:50,880
-Rui pensou que, se êsse homem não era mandado pelo Demónio, bem podia ser mandado por Deus!
-
-384
-00:52:51,800 --> 00:53:00,839
+307
+00:52:51,340 --> 00:53:01,960
 E logo devotamente, com um gesto submisso em que tudo entregava ao céu, consentiu, aceitou o pavoroso companheiro:
 
-385
-00:53:01,880 --> 00:53:04,380
+308
+00:53:01,960 --> 00:53:04,760
 —Vem comigo, pois, a Cabril, se Deus te manda!
 
-386
-00:53:05,140 --> 00:53:08,100
+309
+00:53:04,760 --> 00:53:08,760
 Mas eu nada te pergunto e tu nada me perguntes.
 
-387
-00:53:09,420 --> 00:53:12,820
+310
+00:53:08,760 --> 00:53:13,270
 Desceu logo o cavalo à estrada, toda alumiada da lua.
 
-388
-00:53:13,720 --> 00:53:19,360
-O enforcado seguia ao seu lado, com passos tam ligeiros, que mesmo quando D.
+311
+00:53:13,270 --> 00:53:24,800
+O enforcado seguia ao seu lado, com passos tam ligeiros, que mesmo quando D. Rui galopava êle se conservava rente ao estribo, como levado por um vento mudo.
 
-389
-00:53:19,460 --> 00:53:24,220
-Rui galopava êle se conservava rente ao estribo, como levado por um vento mudo.
-
-390
-00:53:25,380 --> 00:53:31,760
+312
+00:53:24,800 --> 00:53:32,800
 Por vezes, para respirar mais livremente, repuxava o nó da corda que lhe enroscava o pescoço.
 
-391
-00:53:32,740 --> 00:53:41,339
+313
+00:53:32,800 --> 00:53:41,709
 E, quando passavam entre sebes onde errasse o aroma de flores silvestres, o homem murmurava com infinito alívio e delícia:
 
-392
-00:53:42,080 --> 00:53:42,820
+314
+00:53:41,709 --> 00:53:43,600
 —Como é bom correr!
 
-393
-00:53:42,840 --> 00:53:43,140
-D.
+315
+00:53:43,600 --> 00:53:47,620
+D. Rui ia num assombro, num tormentoso cuidado.
 
-394
-00:53:44,020 --> 00:53:47,160
-Rui ia num assombro, num tormentoso cuidado.
-
-395
-00:53:48,080 --> 00:53:55,820
+316
+00:53:47,620 --> 00:53:56,380
 Bem compreendia agora que era aquele um cadáver reanimado por Deus, para um estranho e encoberto serviço.
 
-396
-00:53:56,940 --> 00:53:59,600
+317
+00:53:56,380 --> 00:53:59,839
 ¿Mas para que lhe dava Deus tam medonho companheiro?
 
-397
-00:54:00,079 --> 00:54:00,980
+318
+00:53:59,839 --> 00:54:01,380
 ¿Para o proteger?
 
-398
-00:54:01,780 --> 00:54:02,619
-¿Para impedir que D.
+319
+00:54:01,380 --> 00:54:07,779
+¿Para impedir que D. Leonor, amada do céu pela sua piedade, caísse em culpa mortal?
 
-399
-00:54:02,640 --> 00:54:07,259
-Leonor, amada do céu pela sua piedade, caísse em culpa mortal?
-
-400
-00:54:08,300 --> 00:54:16,900
+320
+00:54:07,779 --> 00:54:16,490
 ¿E, para tam divina incumbência de tam alta mercê, já não tinha o Senhor anjos no céu, que necessitasse empregar um supliciado?...
 
-401
-00:54:16,920 --> 00:54:17,180
+321
+00:54:16,490 --> 00:54:17,560
 Ah!
 
-402
-00:54:17,940 --> 00:54:30,160
+322
+00:54:17,560 --> 00:54:30,980
 como êle voltaria alegremente a rédea para Segóvia, se não fôra a galante lealdade de cavaleiro, o orgulho de nunca recuar, e a submissão às ordens de Deus, que sentia sôbre si pesarem...
 
-403
-00:54:31,800 --> 00:54:41,160
+323
+00:54:30,980 --> 00:54:41,540
 Dum alto da estrada, de repente avistaram Cabril, as torres do convento franciscano alvejando ao luar, os casais adormecidos entre as hortas.
 
-404
-00:54:41,920 --> 00:54:51,180
+324
+00:54:41,540 --> 00:54:51,830
 Muito silenciosamente, sem que um cão ladrasse detrás das cancelas ou de cima dos muros, desceram a vélha ponte romana.
 
-405
-00:54:52,480 --> 00:55:05,060
+325
+00:54:51,830 --> 00:55:04,579
 Diante do Calvário, o enforcado caíu de joelhos nas lages, ergueu os lívidos ossos das mãos, ficou longamente rezando, entre longos suspiros.
 
-406
-00:55:05,080 --> 00:55:15,180
+326
+00:55:04,579 --> 00:55:15,740
 Depois ao entrar na azinhaga, bebeu muito tempo, e consoladamente, de uma fonte que corria e cantava sob as frondes de um salgueiro.
 
-407
-00:55:16,300 --> 00:55:27,600
+327
+00:55:15,740 --> 00:55:28,569
 Como a azinhaga era muito estreita, êle caminhava adiante do cavaleiro, todo curvado, os braços cruzados fortemente sôbre o peito, sem um rumor.
 
-408
-00:55:29,540 --> 00:55:30,860
+328
+00:55:28,569 --> 00:55:31,290
 A lua ia alta no céu.
 
-409
-00:55:31,720 --> 00:55:31,980
-D.
+329
+00:55:31,290 --> 00:55:42,999
+D. Rui considerava com amargura aquele disco, cheio e lustroso, que espargia tanta claridade, e tam indiscreta, sôbre o seu segredo.
 
-410
-00:55:32,020 --> 00:55:42,640
-Rui considerava com amargura aquele disco, cheio e lustroso, que espargia tanta claridade, e tam indiscreta, sôbre o seu segredo.
-
-411
-00:55:43,380 --> 00:55:43,680
+330
+00:55:42,999 --> 00:55:43,980
 Ah!
 
-412
-00:55:44,280 --> 00:55:47,020
+331
+00:55:43,980 --> 00:55:46,890
 como se estragava a noite que devia ser divina!
 
-413
-00:55:48,000 --> 00:55:52,220
+332
+00:55:46,890 --> 00:55:52,619
 Uma enorme lua surdia de entre os montes para tudo alumiar.
 
-414
-00:55:53,019 --> 00:55:56,239
+333
+00:55:52,619 --> 00:55:56,709
 Um enforcado descia da forca para o seguir e tudo saber.
 
-415
-00:55:57,180 --> 00:55:58,599
+334
+00:55:56,709 --> 00:55:59,109
 Deus assim o ordenara.
 
-416
-00:55:59,620 --> 00:56:09,840
+335
+00:55:59,109 --> 00:56:10,390
 Mas que tristeza chegar à doce porta docemente prometida, com tal intruso ao seu lado, sob aquele céu todo claro!
 
-417
-00:56:10,940 --> 00:56:16,940
+336
+00:56:10,390 --> 00:56:17,290
 Bruscamente, o enforcado estacou, erguendo o braço, de onde a manga pendia em farrapos.
 
-418
-00:56:17,640 --> 00:56:33,700
+337
+00:56:17,290 --> 00:56:34,250
 Era o fim da azinhaga que desembocava em caminho mais largo e mais batido:—e diante dêles alvejava o comprido muro da quinta do senhor de Lara, tendo aí um mirante, com varandins de pedra, e todo revestido de hera.
 
-419
-00:56:34,800 --> 00:56:39,640
-—Senhor—murmurou o enforcado, segurando com respeito o estribo de D.
+338
+00:56:34,250 --> 00:56:47,000
+—Senhor—murmurou o enforcado, segurando com respeito o estribo de D. Rui—logo a poucos passos dêste mirante é a porta por onde deveis penetrar no jardim.
 
-420
-00:56:39,660 --> 00:56:47,000
-Rui—logo a poucos passos dêste mirante é a porta por onde deveis penetrar no jardim.
-
-421
-00:56:47,000 --> 00:56:57,260
+339
+00:56:47,000 --> 00:56:58,060
 Convêm que aqui deixeis o cavalo, amarrado a uma árvore, se o tendes por seguro e fiel. Que na emprêsa em que vamos, já é de mais o rumor dos nossos pés!...
 
-422
-00:56:58,860 --> 00:57:00,000
-Silenciosamente D.
+340
+00:56:58,060 --> 00:57:05,829
+Silenciosamente D. Rui apeou, prendeu o cavalo, que sabia fiel e seguro, ao tronco dum álamo sêco.
 
-423
-00:57:00,000 --> 00:57:05,080
-Rui apeou, prendeu o cavalo, que sabia fiel e seguro, ao tronco dum álamo sêco.
-
-424
-00:57:06,579 --> 00:57:15,800
+341
+00:57:05,829 --> 00:57:16,490
 E tam submisso se tornara àquele companheiro imposto por Deus, que sem outro reparo o foi seguindo rente do muro que o luar batia.
 
-425
-00:57:17,180 --> 00:57:31,480
-Com vagarosa cautela, e na ponta dos pés nus, avançava agora o enforcado, vigiando o alto do muro, sondando a negrura da sebe, parando a escutar rumores que só para êle eram percebíveis—porque nunca D.
+342
+00:57:16,490 --> 00:57:36,089
+Com vagarosa cautela, e na ponta dos pés nus, avançava agora o enforcado, vigiando o alto do muro, sondando a negrura da sebe, parando a escutar rumores que só para êle eram percebíveis—porque nunca D. Rui conhecera noite mais fundamente adormecida e muda.
 
-426
-00:57:31,480 --> 00:57:35,340
-Rui conhecera noite mais fundamente adormecida e muda.
-
-427
-00:57:36,839 --> 00:57:57,799
+343
+00:57:36,089 --> 00:57:58,489
 E tal susto, em quem devia ser indiferente a perigos humanos, foi lentamente enchendo tambêm o valoroso cavaleiro de tam viva desconfiança, que tirava o punhal da baínha, enrodilhava a capa no braço, e marchava em defesa, com o olhar faiscando, como num caminho de emboscada e briga.
 
-428
-00:57:59,180 --> 00:58:05,960
+344
+00:57:58,489 --> 00:58:06,440
 Assim chegaram a uma porta baixa, que o enforcado empurrou, e que se abriu sem gemer nos gonzos.
 
-429
-00:58:06,920 --> 00:58:21,940
+345
+00:58:06,440 --> 00:58:21,950
 Penetraram numa rua ladeada de espessos teixos até a um tanque cheio de água, onde boiavam fôlhas de nenúfares, e que toscos bancos de pedra circundavam, cobertos pela rama de arbustos em flor.
 
-430
-00:58:21,960 --> 00:58:27,160
+346
+00:58:21,950 --> 00:58:27,840
 —Por ali—murmurou o enforcado, estendendo o braço mirrado.
 
-431
-00:58:28,520 --> 00:58:34,599
+347
+00:58:27,840 --> 00:58:35,199
 Era alêm do tanque, uma avenida que densas e vélhas árvores abobadavam e escureciam.
 
-432
-00:58:35,800 --> 00:58:41,700
-Por ela se meteram, como sombras na sombra, o enforcado adiante, D.
+348
+00:58:35,199 --> 00:58:48,080
+Por ela se meteram, como sombras na sombra, o enforcado adiante, D. Rui seguindo muito subtilmente, sem roçar um ramo, mal pisando a areia.
 
-433
-00:58:41,700 --> 00:58:47,420
-Rui seguindo muito subtilmente, sem roçar um ramo, mal pisando a areia.
-
-434
-00:58:48,740 --> 00:58:52,120
+349
+00:58:48,080 --> 00:58:52,580
 Um leve fio de água sussurrava entre relvas.
 
-435
-00:58:53,040 --> 00:58:57,680
+350
+00:58:52,580 --> 00:58:58,500
 Pelos troncos subiam rosas trepadeiras, que cheiravam docemente.
 
-436
-00:58:59,320 --> 00:59:00,160
-O coração de D.
+351
+00:58:58,500 --> 00:59:03,560
+O coração de D. Rui recomeçou a bater numa esperança de amor.
 
-437
-00:59:00,160 --> 00:59:03,180
-Rui recomeçou a bater numa esperança de amor.
-
-438
-00:59:03,940 --> 00:59:05,480
+352
+00:59:03,560 --> 00:59:06,020
 —Chut!—fez o enforcado.
 
-439
-00:59:06,560 --> 00:59:06,880
-E D.
+353
+00:59:06,020 --> 00:59:14,130
+E D. Rui quási tropeçou no sinistro homem que estacava, com os braços abertos como as traves de uma cancela.
 
-440
-00:59:06,880 --> 00:59:13,540
-Rui quási tropeçou no sinistro homem que estacava, com os braços abertos como as traves de uma cancela.
-
-441
-00:59:14,720 --> 00:59:22,099
+354
+00:59:14,130 --> 00:59:22,500
 Diante dêles quatro degraus de pedra subiam a um terraço, onde a claridade era larga e livre.
 
-442
-00:59:22,920 --> 00:59:37,940
+355
+00:59:22,500 --> 00:59:38,550
 Agachados, treparam os degraus—e ao fundo dum jardim sem árvores, todo em canteiros de flores bem recortados, orlados de buxo curto, avistaram um lado da casa batido pela lua cheia.
 
-443
-00:59:39,160 --> 00:59:49,600
+356
+00:59:38,550 --> 00:59:50,310
 Ao meio, entre as janelas de peitoril fechadas, um balcão de pedra, com manjericões aos cantos, conservava as vidraças abertas largamente.
 
-444
-00:59:51,020 --> 00:59:58,479
+357
+00:59:50,310 --> 00:59:59,029
 O quarto, dentro, apagado, era como um buraco de treva na claridade da fachada que o luar banhava.
 
-445
-00:59:59,579 --> 01:00:04,200
+358
+00:59:59,029 --> 01:00:07,239
 E arrimada contra o balcão, estava uma escada com degraus de corda.
 
-446
-01:00:06,920 --> 01:00:09,580
-Então o enforcado empurrou D.
+359
+01:00:07,239 --> 01:00:13,230
+Então o enforcado empurrou D. Rui vivamente dos degraus para a escuridão da avenida.
 
-447
-01:00:09,580 --> 01:00:13,619
-Rui vivamente dos degraus para a escuridão da avenida.
-
-448
-01:00:13,640 --> 01:00:17,499
+360
+01:00:13,230 --> 01:00:17,799
 E aí, com um modo urgente, dominando o cavaleiro, exclamou:
 
-449
-01:00:18,099 --> 01:00:18,579
+361
+01:00:17,799 --> 01:00:18,909
 —Senhor!
 
-450
-01:00:19,240 --> 01:00:22,380
+362
+01:00:18,909 --> 01:00:22,130
 Convêm agora que me deis o vosso sombreiro e a capa!
 
-451
-01:00:22,400 --> 01:00:28,900
+363
+01:00:22,130 --> 01:00:29,290
 Vós quedais aqui na escuridão destas árvores. Eu vou trepar àquela escada e espreitar para aquele quarto...
 
-452
-01:00:29,680 --> 01:00:34,420
+364
+01:00:29,290 --> 01:00:34,960
 E se fôr como desejais, aqui voltarei, e com Deus sêde feliz...
 
-453
-01:00:35,500 --> 01:00:35,820
-D.
+365
+01:00:34,960 --> 01:00:40,439
+D. Rui recuou no horror de que tal criatura subisse a tal janela!
 
-454
-01:00:35,820 --> 01:00:40,020
-Rui recuou no horror de que tal criatura subisse a tal janela!
-
-455
-01:00:40,839 --> 01:00:42,840
+366
+01:00:40,439 --> 01:00:43,000
 E bateu o pé, gritou surdamente:
 
-456
-01:00:43,160 --> 01:00:44,140
+367
+01:00:43,000 --> 01:00:44,570
 —Não, por Deus!
 
-457
-01:00:45,000 --> 01:00:53,560
+368
+01:00:44,570 --> 01:00:53,839
 Mas a mão do enforcado, lívida na escuridão, bruscamente lhe arrancou o sombreiro da cabeça, lhe puxou a capa do braço.
 
-458
-01:00:54,119 --> 01:00:59,060
+369
+01:00:53,839 --> 01:00:59,410
 E já se cobria, já se embuçava, murmurando agora, numa súplica ansiosa:
 
-459
-01:00:59,760 --> 01:01:04,859
+370
+01:00:59,410 --> 01:01:05,419
 —Não mo negueis, senhor, que se vos fizer grande serviço, ganharei grande mercê!
 
-460
-01:01:05,999 --> 01:01:10,299
+371
+01:01:05,419 --> 01:01:11,299
 E galgou os degraus:—estava no alumiado e largo terraço.
 
-461
-01:01:12,440 --> 01:01:12,940
-D.
+372
+01:01:12,460 --> 01:01:16,040
+D. Rui subiu, atontado, e espreitou.
 
-462
-01:01:13,100 --> 01:01:15,420
-Rui subiu, atontado, e espreitou.
+373
+01:01:16,040 --> 01:01:37,910
+E—oh maravilha!—era êle, D. Rui, todo êle, na figura e no modo, aquele homem que, por entre os canteiros e o buxo curto, avançava, airoso e leve, com a mão na cintura, a face erguida risonhamente para a janela, a longa pluma escarlate do chapéu balançando em triunfo.
 
-463
-01:01:16,680 --> 01:01:18,960
-E—oh maravilha!—era êle, D.
-
-464
-01:01:18,960 --> 01:01:37,339
-Rui, todo êle, na figura e no modo, aquele homem que, por entre os canteiros e o buxo curto, avançava, airoso e leve, com a mão na cintura, a face erguida risonhamente para a janela, a longa pluma escarlate do chapéu balançando em triunfo.
-
-465
-01:01:38,500 --> 01:01:40,900
+374
+01:01:37,910 --> 01:01:40,910
 O homem avançava no luar esplêndido.
 
-466
-01:01:40,920 --> 01:01:45,220
+375
+01:01:40,910 --> 01:01:45,740
 O quarto amoroso lá estava esperando, aberto e negro.
 
-467
-01:01:46,260 --> 01:01:46,540
-E D.
+376
+01:01:45,740 --> 01:01:52,370
+E D. Rui olhava, com olhos que faiscavam, tremendo de pasmo e cólera.
 
-468
-01:01:46,540 --> 01:01:52,839
-Rui olhava, com olhos que faiscavam, tremendo de pasmo e cólera.
-
-469
-01:01:52,900 --> 01:02:00,700
+377
+01:01:52,370 --> 01:02:00,719
 O homem chegara à escada: destraçou a capa, assentou o pé no degrau de corda!—«Oh!
 
-470
-01:02:00,719 --> 01:02:03,240
-lá sobe, o maldito!»—rugiu D.
+378
+01:02:00,719 --> 01:02:03,869
+lá sobe, o maldito!»—rugiu D. Rui.
 
-471
-01:02:03,259 --> 01:02:03,380
-Rui.
-
-472
-01:02:04,359 --> 01:02:05,499
+379
+01:02:03,869 --> 01:02:05,989
 O enforcado subia.
 
-473
-01:02:06,479 --> 01:02:09,280
-Já a alta figura, que era dêle, D.
+380
+01:02:05,989 --> 01:02:14,449
+Já a alta figura, que era dêle, D. Rui, estava a meio da escada, toda negra contra a parede branca.
 
-474
-01:02:09,300 --> 01:02:14,119
-Rui, estava a meio da escada, toda negra contra a parede branca.
-
-475
-01:02:14,779 --> 01:02:15,140
+381
+01:02:14,449 --> 01:02:15,330
 Parou!...
 
-476
-01:02:15,520 --> 01:02:15,800
+382
+01:02:15,330 --> 01:02:15,990
 Não!
 
-477
-01:02:16,180 --> 01:02:24,839
+383
+01:02:15,990 --> 01:02:25,369
 não parara: subia, chegava,—já sôbre o rebordo da varanda pousara o joelho cauteloso.
 
-478
-01:02:25,900 --> 01:02:26,160
-D.
+384
+01:02:25,369 --> 01:02:33,850
+D. Rui olhava, desesperadamente, com os olhos, com a alma, com todo o seu ser...
 
-479
-01:02:26,160 --> 01:02:34,420
-Rui olhava, desesperadamente, com os olhos, com a alma, com todo o seu ser...
-
-480
-01:02:34,440 --> 01:02:56,520
+385
+01:02:33,850 --> 01:02:57,020
 E eis que, de repente, do quarto negro surge um negro vulto, uma furiosa voz brada:—«vilão, vilão!»—e uma lâmina de adaga faisca, e cai, e outra vez se ergue, e rebrilha, e se abate, e ainda refulge, e ainda se embebe!...
 
-481
-01:02:57,520 --> 01:03:05,640
+386
+01:02:57,020 --> 01:03:06,279
 Como um fardo, do alto da escada, pesadamente, o enforcado cai sôbre a terra mole.
 
-482
-01:03:06,940 --> 01:03:11,559
+387
+01:03:06,279 --> 01:03:12,199
 Vidraças, portadas do balcão logo se fecham com fragor.
 
-483
-01:03:12,839 --> 01:03:23,000
+388
+01:03:12,199 --> 01:03:23,730
 E não houve mais senão o silêncio, a serenidade macia, a lua muito alta e redonda no céu de verão.
 
-484
-01:03:24,460 --> 01:03:26,160
-Num relance D.
+389
+01:03:23,730 --> 01:03:34,660
+Num relance D. Rui compreendera a traição, arrancara a espada, recuando para a escuridão da avenida—quando, oh milagre!
 
-485
-01:03:26,180 --> 01:03:34,400
-Rui compreendera a traição, arrancara a espada, recuando para a escuridão da avenida—quando, oh milagre!
-
-486
-01:03:34,920 --> 01:03:40,339
+390
+01:03:34,660 --> 01:03:40,579
 correndo através do terraço, aparece o enforcado, que lhe agarra a manga e lhe grita:
 
-487
-01:03:40,820 --> 01:03:45,900
+391
+01:03:40,579 --> 01:03:46,760
 —A cavalo, senhor, e abalar, que o encontro não era de amor, mas de morte!
 
-488
-01:03:47,620 --> 01:04:10,460
+392
+01:03:46,760 --> 01:04:11,159
 Ambos descem arrebatadamente a avenida, costeiam o tanque sob o refúgio dos arbustos em flor, metem pela rua estreita orlada de teixos, varam a porta—e um momento param, ofegantes, na estrada, onde a lua, mais refulgente, mais cheia, fazia como um puro dia.
 
-489
-01:04:11,859 --> 01:04:14,520
-E então, só então, D.
+393
+01:04:11,159 --> 01:04:26,660
+E então, só então, D. Rui descobriu que o enforcado conservava cravada no peito, até aos copos, a adaga, cuja ponta lhe saía pelas costas, luzidia e limpa!...
 
-490
-01:04:14,560 --> 01:04:26,200
-Rui descobriu que o enforcado conservava cravada no peito, até aos copos, a adaga, cuja ponta lhe saía pelas costas, luzidia e limpa!...
-
-491
-01:04:27,120 --> 01:04:30,779
+394
+01:04:26,660 --> 01:04:31,120
 Mas já o pavoroso homem o empurrava, o apressava:
 
-492
-01:04:31,460 --> 01:04:35,700
+395
+01:04:31,120 --> 01:04:36,399
 —A cavalo, senhor, e abalar, que ainda está sôbre nós a traição!
 
-493
-01:04:37,100 --> 01:04:42,980
-Arrepiado, numa ânsia de findar aventura tam cheia de milagre e de horror, D.
+396
+01:04:36,399 --> 01:04:46,520
+Arrepiado, numa ânsia de findar aventura tam cheia de milagre e de horror, D. Rui colheu as rédeas, cavalgou sôfregamente.
 
-494
-01:04:42,980 --> 01:04:45,960
-Rui colheu as rédeas, cavalgou sôfregamente.
-
-495
-01:04:47,060 --> 01:05:04,400
+397
+01:04:46,520 --> 01:05:04,700
 E logo, em grande pressa, o enforcado saltou tambêm para a garupa do cavalo fiel. Todo se arrepiou o bom cavaleiro, ao sentir nas suas costas o roçar daquele corpo morto, dependurado de uma forca, atravessado por uma adaga.
 
-496
-01:05:05,000 --> 01:05:08,359
+398
+01:05:04,700 --> 01:05:08,829
 Com que desespêro galopou então pela estrada infindável!
 
-497
-01:05:09,300 --> 01:05:18,500
-Em carreira tam violenta o enforcado nem oscilava, rígido sôbre a garupa, como um bronze num pedestal. E D.
+399
+01:05:08,829 --> 01:05:28,040
+Em carreira tam violenta o enforcado nem oscilava, rígido sôbre a garupa, como um bronze num pedestal. E D. Rui a cada momento sentia um frio mais regelado que lhe regelava os ombros, como se levasse sôbre êles um saco cheio de gêlo.
 
-498
-01:05:18,520 --> 01:05:27,520
-Rui a cada momento sentia um frio mais regelado que lhe regelava os ombros, como se levasse sôbre êles um saco cheio de gêlo.
-
-499
-01:05:28,560 --> 01:05:48,780
+400
+01:05:28,040 --> 01:05:49,400
 Ao passar no cruzeiro murmurou:—«Senhor, valei-me!»—Para alêm do cruzeiro, de repente estremeceu com o quimérico medo de que tam fúnebre companheiro para sempre o ficasse acompanhando, e se tornasse seu destino galopar através do mundo, numa noite eterna, levando um morto à garupa...
 
-500
-01:05:50,020 --> 01:05:54,579
+401
+01:05:49,400 --> 01:05:55,069
 E não se conteve, gritou para trás, no vento da carreira que os vergastava:
 
-501
-01:05:55,559 --> 01:05:56,859
+402
+01:05:55,069 --> 01:05:57,589
 —¿Para onde quereis que vos leve?
 
-502
-01:05:58,320 --> 01:06:00,580
-O enforcado, encostando tanto o corpo a D.
+403
+01:05:57,589 --> 01:06:03,720
+O enforcado, encostando tanto o corpo a D. Rui que o magoou com os copos da adaga, segredou:
 
-503
-01:06:00,640 --> 01:06:03,360
-Rui que o magoou com os copos da adaga, segredou:
-
-504
-01:06:04,080 --> 01:06:06,520
+404
+01:06:03,720 --> 01:06:07,220
 —Senhor, convêm que me deixeis no Cêrro!
 
-505
-01:06:07,920 --> 01:06:17,880
+405
+01:06:07,220 --> 01:06:18,479
 Doce e infinito alívio para o bom cavaleiro—pois o Cêrro estava perto, e já lhe avistava, na claridade desmaiada, os pilares e as traves negras...
 
-506
-01:06:19,079 --> 01:06:23,400
+406
+01:06:18,479 --> 01:06:24,029
 Em breve estacou o cavalo que tremia, branqueado de espuma.
 
-507
-01:06:24,660 --> 01:06:32,200
-Logo o enforcado, sem rumor, escorregou da garupa, segurou, como bom serviçal, o estribo de D.
+407
+01:06:24,029 --> 01:06:33,059
+Logo o enforcado, sem rumor, escorregou da garupa, segurou, como bom serviçal, o estribo de D. Rui.
 
-508
-01:06:32,280 --> 01:06:32,480
-Rui.
-
-509
-01:06:33,619 --> 01:06:40,859
+408
+01:06:33,059 --> 01:06:41,389
 E com a caveira erguida, a língua negra mais saída de entre os dentes brancos, murmurou em respeitosa súplica:
 
-510
-01:06:41,940 --> 01:06:47,079
+409
+01:06:41,389 --> 01:06:47,790
 —Senhor, fazei-me agora a grande mercê de me pendurar outra vez da minha trave.
 
-511
-01:06:47,099 --> 01:06:47,220
-D.
+410
+01:06:47,790 --> 01:06:50,440
+D. Rui estremeceu de horror:
 
-512
-01:06:48,400 --> 01:06:49,760
-Rui estremeceu de horror:
-
-513
-01:06:50,400 --> 01:06:50,660
+411
+01:06:50,440 --> 01:06:51,269
 —Por Deus!
 
-514
-01:06:50,800 --> 01:06:52,700
+412
+01:06:51,269 --> 01:06:53,209
 Que vos enforque, eu?...
 
-515
-01:06:53,819 --> 01:06:56,260
+413
+01:06:53,209 --> 01:06:56,560
 O homem suspirou, abrindo os braços compridos:
 
-516
-01:06:56,859 --> 01:07:02,520
+414
+01:06:56,560 --> 01:07:03,390
 —Senhor, por vontade de Deus é, e por vontade de Aquela que é mais cara a Deus!
 
-517
-01:07:04,260 --> 01:07:08,000
-Então, resignado, submisso aos mandados do Alto, D.
+415
+01:07:03,390 --> 01:07:20,130
+Então, resignado, submisso aos mandados do Alto, D. Rui apeou—e começou a seguir o homem, que subia para o Cêrro pensativamente, vergando o dorso, de onde saía, espetada e luzidia, a ponta da adaga.
 
-518
-01:07:08,120 --> 01:07:19,500
-Rui apeou—e começou a seguir o homem, que subia para o Cêrro pensativamente, vergando o dorso, de onde saía, espetada e luzidia, a ponta da adaga.
-
-519
-01:07:20,760 --> 01:07:22,760
+416
+01:07:20,130 --> 01:07:23,220
 Pararam ambos sob a trave vazia.
 
-520
-01:07:23,680 --> 01:07:27,700
+417
+01:07:23,220 --> 01:07:28,130
 Em tôrno das outras traves pendiam as outras carcassas.
 
-521
-01:07:28,560 --> 01:07:32,859
+418
+01:07:28,130 --> 01:07:33,599
 O silêncio era mais triste e fundo que os outros silêncios da terra.
 
-522
-01:07:34,340 --> 01:07:36,359
+419
+01:07:33,599 --> 01:07:36,839
 A água da lagôa ennegrecera.
 
-523
-01:07:37,319 --> 01:07:39,540
+420
+01:07:36,839 --> 01:07:40,210
 A lua descia e desfalecia.
 
-524
-01:07:40,859 --> 01:07:41,100
-D.
+421
+01:07:40,210 --> 01:07:48,750
+D. Rui considerou a trave onde restava, curto no ar, o pedaço de corda que êle cortara com a espada.
 
-525
-01:07:41,120 --> 01:07:48,140
-Rui considerou a trave onde restava, curto no ar, o pedaço de corda que êle cortara com a espada.
-
-526
-01:07:49,360 --> 01:07:56,539
+422
+01:07:48,750 --> 01:07:57,399
 —¿Como quereis que vos pendure?—exclamou.—Àquele pedaço de corda não posso chegar com a mão; nem eu só basto para lá vos içar.
 
-527
-01:07:58,260 --> 01:08:02,920
+423
+01:07:57,399 --> 01:08:03,739
 —Senhor—respondeu o homem—aí a um canto deve haver um longo rôlo de corda.
 
-528
-01:08:03,739 --> 01:08:14,960
+424
+01:08:03,739 --> 01:08:15,420
 Uma ponta dela ma atareis a este nó que trago no pescoço: a outra ponta a arremessareis por cima da trave, e puxando depois, forte como sois, bem me podereis reenforcar.
 
-529
-01:08:15,940 --> 01:08:19,760
+425
+01:08:15,420 --> 01:08:20,270
 Ambos curvados, com passos lentos, procuraram o rôlo de corda.
 
-530
-01:08:20,780 --> 01:08:23,739
+426
+01:08:20,270 --> 01:08:24,260
 E foi o enforcado que o encontrou, o desenrolou...
 
-531
-01:08:24,780 --> 01:08:25,679
-Então D.
+427
+01:08:24,260 --> 01:08:27,589
+Então D. Rui descalçou as luvas.
 
-532
-01:08:25,679 --> 01:08:27,219
-Rui descalçou as luvas.
-
-533
-01:08:27,960 --> 01:08:42,619
+428
+01:08:27,589 --> 01:08:43,619
 E ensinado por êle (que tam bem o aprendera do carrasco) atou uma ponta da corda ao laço que o homem conservava no pescoço, e arremessou fortemente a outra ponta, que ondeou no ar, passou sôbre a trave, ficou pendurada rente ao chão.
 
-534
-01:08:45,640 --> 01:09:01,700
+429
+01:08:45,640 --> 01:09:02,440
 E o rijo cavaleiro, fincando os pés, retezando os braços, puxou, içou o homem, até êle se quedar, suspenso, negro no ar, como um enforcado natural entre os outros enforcados.
 
-535
-01:09:03,180 --> 01:09:03,960
+430
+01:09:02,440 --> 01:09:04,490
 —Estais bem assim?
 
-536
-01:09:05,040 --> 01:09:07,160
+431
+01:09:04,490 --> 01:09:07,799
 Lenta e sumida, veio a voz do morto:
 
-537
-01:09:08,439 --> 01:09:10,580
+432
+01:09:07,799 --> 01:09:12,950
 —Senhor, estou como devo.
 
-538
-01:09:10,720 --> 01:09:13,439
-Então D.
+433
+01:09:12,950 --> 01:09:18,630
+Então D. Rui, para o fixar, enrolou a corda em voltas grossas ao pilar de pedra.
 
-539
-01:09:13,439 --> 01:09:18,120
-Rui, para o fixar, enrolou a corda em voltas grossas ao pilar de pedra.
-
-540
-01:09:19,140 --> 01:09:28,199
+434
+01:09:18,630 --> 01:09:28,869
 E tirando o sombreiro, limpando com as costas da mão o suor que o alagava, contemplou o seu sinistro e miraculoso companheiro.
 
-541
-01:09:29,540 --> 01:09:41,179
+435
+01:09:28,869 --> 01:09:41,679
 Estava já rígido como antes, com a face pendida sob as melenas caídas, os pés inteiriçados, todo poído e carcomido como uma vélha carcassa.
 
-542
-01:09:42,180 --> 01:09:45,479
+436
+01:09:41,679 --> 01:09:45,939
 No peito conservava a adaga cravada.
 
-543
-01:09:46,399 --> 01:09:49,700
+437
+01:09:45,939 --> 01:09:50,299
 Por cima, dois corvos dormiam quietos.
 
-544
-01:09:50,880 --> 01:09:54,060
-—¿E agora que mais quereis?—perguntou D.
+438
+01:09:50,299 --> 01:09:55,950
+—¿E agora que mais quereis?—perguntou D. Rui, começando a calçar as luvas.
 
-545
-01:09:54,060 --> 01:09:55,480
-Rui, começando a calçar as luvas.
-
-546
-01:09:56,420 --> 01:09:59,340
+439
+01:09:55,950 --> 01:10:00,080
 Sumidamente, do alto, o enforcado murmurou:
 
-547
-01:10:00,820 --> 01:10:21,360
+440
+01:10:00,080 --> 01:10:22,360
 —Senhor, muito vos rogo agora que, ao chegar a Segóvia, tudo conteis fielmente a Nossa Senhora do Pilar, vossa madrinha, que dela espero grande mercê para a minha alma, por êste serviço que, a seu mandado, vos fez o meu corpo!
 
-548
-01:10:23,900 --> 01:10:25,000
-Então, D.
+441
+01:10:23,900 --> 01:10:37,180
+Então, D. Rui de Cardenas tudo compreendeu—e, ajoelhando devotamente sôbre o chão de dor e morte, rezou uma longa oração por aquele bom enforcado.
 
-549
-01:10:25,000 --> 01:10:36,620
-Rui de Cardenas tudo compreendeu—e, ajoelhando devotamente sôbre o chão de dor e morte, rezou uma longa oração por aquele bom enforcado.
-
-550
-01:10:37,760 --> 01:10:40,120
+442
+01:10:37,180 --> 01:10:40,690
 Depois galopou para Segóvia.
 
-551
-01:10:41,260 --> 01:10:44,280
+443
+01:10:40,690 --> 01:10:44,229
 A manhã clareava quando êle transpôs a porta de S.
 
-552
-01:10:44,300 --> 01:10:44,900
+444
+01:10:44,229 --> 01:10:45,299
 Mauros.
 
-553
-01:10:45,700 --> 01:10:49,720
+445
+01:10:45,299 --> 01:10:50,140
 No ar fino os sinos claros tocavam a matinas.
 
-554
-01:10:50,560 --> 01:10:57,620
-E entrando na igreja de Nossa Senhora do Pilar, ainda no desalinho da sua terrível jornada, D.
+446
+01:10:50,140 --> 01:11:22,100
+E entrando na igreja de Nossa Senhora do Pilar, ainda no desalinho da sua terrível jornada, D. Rui, de rôjo ante o altar, narrou à sua Divina Madrinha a ruim tenção que o levara a Cabril, o socorro que do céu recebera, e, com quentes lágrimas de arrependimento e gratidão, lhe jurou que nunca mais poria desejo onde houvesse pecado, nem no seu coração daria entrada a pensamento que viesse do Mundo e do Mal.
 
-555
-01:10:57,620 --> 01:11:21,500
-Rui, de rôjo ante o altar, narrou à sua Divina Madrinha a ruim tenção que o levara a Cabril, o socorro que do céu recebera, e, com quentes lágrimas de arrependimento e gratidão, lhe jurou que nunca mais poria desejo onde houvesse pecado, nem no seu coração daria entrada a pensamento que viesse do Mundo e do Mal.
-
-556
-01:11:22,110 --> 01:11:24,840
+447
+01:11:22,100 --> 01:11:24,840
 Fim da Seção 3
 
-557
+448
 01:11:29,420 --> 01:11:32,750
 Seção 4
 de
@@ -2242,379 +1806,279 @@ O Defunto
 de
 Eça de Queirós
 
-558
-01:11:32,920 --> 01:11:34,920
+449
+01:11:32,750 --> 01:11:35,550
 Esta gravação Librivox está em domínio público.
 
-559
-01:11:35,560 --> 01:11:37,179
+450
+01:11:35,550 --> 01:11:37,180
 4
 
-560
-01:11:37,900 --> 01:11:39,760
-A essa hora, em Cabril, D.
+451
+01:11:37,180 --> 01:11:48,340
+A essa hora, em Cabril, D. Alonso de Lara, com os olhos esbugalhados de pasmo e terror, esquadrinhava todas as ruas e recantos e sombras do seu jardim.
 
-561
-01:11:39,780 --> 01:11:47,800
-Alonso de Lara, com os olhos esbugalhados de pasmo e terror, esquadrinhava todas as ruas e recantos e sombras do seu jardim.
+452
+01:11:48,340 --> 01:12:20,600
+Quando ao alvorecer, depois de escutar à porta da câmara onde nessa noite encerrara D. Leonor, êle descera subtilmente ao jardim e não encontrara, debaixo do balcão, rente à escada, como deliciosamente esperava, o corpo de D. Rui de Cardenas, teve por certo que o homem odioso, ao tombar, ainda com um resto débil de vida, se arrastara sangrando e arquejando, na tentativa de alcançar o cavalo e abalar de Cabril...
 
-562
-01:11:48,880 --> 01:11:55,599
-Quando ao alvorecer, depois de escutar à porta da câmara onde nessa noite encerrara D.
-
-563
-01:11:56,460 --> 01:12:07,260
-Leonor, êle descera subtilmente ao jardim e não encontrara, debaixo do balcão, rente à escada, como deliciosamente esperava, o corpo de D.
-
-564
-01:12:07,260 --> 01:12:20,100
-Rui de Cardenas, teve por certo que o homem odioso, ao tombar, ainda com um resto débil de vida, se arrastara sangrando e arquejando, na tentativa de alcançar o cavalo e abalar de Cabril...
-
-565
-01:12:21,100 --> 01:12:35,960
+453
+01:12:20,600 --> 01:12:36,469
 Mas, com aquela rija adaga que êle três vezes lhe enterrara no peito, e que no peito lhe deixara, não se arrastaria o vilão por muitas jardas, e nalgum canto devia jazer frio e inteiriçado.
 
-566
-01:12:36,980 --> 01:12:42,020
+454
+01:12:36,469 --> 01:12:42,329
 Rebuscou então cada rua, cada sombra, cada maciço de arbustos.
 
-567
-01:12:42,639 --> 01:12:52,960
+455
+01:12:42,329 --> 01:12:53,440
 E—maravilhoso caso!—não descobria o corpo, nem pègadas, nem terra que houvesse sido remexida, nem sequer rasto de sangue sôbre a terra!
 
-568
-01:12:53,920 --> 01:13:02,820
+456
+01:12:53,440 --> 01:13:03,429
 E todavia, com mão certeira e faminta de vingança, três vezes êle lhe embebera a adaga no peito, e no peito lha deixara!
 
-569
-01:13:04,079 --> 01:13:24,400
+457
+01:13:03,429 --> 01:13:24,840
 E era Rui de Cardenas o homem que êle matara—que muito bem o conhecera logo, do fundo apagado do quarto de onde espreitava, quando êle, à claridade da lua, veio através do terraço, confiado, ligeiro, com a mão na cintura, a face risonhamente erguida e a pluma do sombreiro meneando em triunfo!
 
-570
-01:13:25,280 --> 01:13:34,880
+458
+01:13:24,840 --> 01:13:35,350
 ¿Como podia ser cousa tam rara—um corpo mortal sobrevivendo a um ferro, que três vezes lhe vara o coração e no coração lhe fica cravado?
 
-571
-01:13:35,820 --> 01:13:52,580
+459
+01:13:35,350 --> 01:13:53,059
 E a maior raridade era que nem no chão, debaixo da varanda, onde corria ao longo do muro uma tira de goivos e cecêns, deixara um vestígio aquele corpo forte, caíndo de tam alto pesadamente, inertemente, como um fardo!
 
-572
-01:13:53,540 --> 01:14:00,040
+460
+01:13:53,059 --> 01:14:00,580
 Nem uma flor machucada—todas direitas, viçosas, como novas, com gotas leves de orvalho!
 
-573
-01:14:01,120 --> 01:14:04,199
-Imóvel de espanto, quási de terror, D.
+461
+01:14:00,580 --> 01:14:18,950
+Imóvel de espanto, quási de terror, D. Alonso de Lara ali parava, considerando o balcão, medindo a altura da escada, olhando esgazeadamente os goivos direitos, frescos, sem uma haste ou fôlha vergada.
 
-574
-01:14:04,900 --> 01:14:18,400
-Alonso de Lara ali parava, considerando o balcão, medindo a altura da escada, olhando esgazeadamente os goivos direitos, frescos, sem uma haste ou fôlha vergada.
-
-575
-01:14:19,500 --> 01:14:31,560
+462
+01:14:18,950 --> 01:14:31,910
 Depois recomeçava a correr loucamente o terraço, a avenida, a rua de teixos, na esperança ainda duma pègada, dum galho partido, de uma nódoa de sangue na areia fina.
 
-576
-01:14:32,260 --> 01:14:32,860
+463
+01:14:31,910 --> 01:14:33,280
 Nada!
 
-577
-01:14:33,700 --> 01:14:44,440
+464
+01:14:33,280 --> 01:14:45,020
 Todo o jardim oferecia um desusado arranjo e limpeza nova, como se sôbre êle nunca houvesse passado nem o vento que desfolha, nem o sol que murcha.
 
-578
-01:14:45,600 --> 01:14:55,580
+465
+01:14:45,020 --> 01:14:56,129
 Então, ao entardecer, devorado pela incerteza e mistério, tomou um cavalo e, sem escudeiro ou cavalariço, partiu para Segóvia.
 
-579
-01:14:56,679 --> 01:15:12,780
-Curvada e escondidamente, como um foragido, penetrou no seu palácio pela porta do pomar: e o seu primeiro cuidado foi correr à galeria de abóbada, destrancar as portadas da janela e espreitar ávidamente a casa de D.
+466
+01:14:56,129 --> 01:15:14,440
+Curvada e escondidamente, como um foragido, penetrou no seu palácio pela porta do pomar: e o seu primeiro cuidado foi correr à galeria de abóbada, destrancar as portadas da janela e espreitar ávidamente a casa de D. Rui de Cardenas.
 
-580
-01:15:12,780 --> 01:15:13,880
-Rui de Cardenas.
-
-581
-01:15:15,000 --> 01:15:31,580
+467
+01:15:14,440 --> 01:15:32,500
 Todas as gelosias da vélha morada do arcediago estavam escuras, abertas, respirando a fresquidão da noite:—e à porta, sentado num banco de pedra, um môço de cavalariça afinava preguiçosamente a bandurra.
 
-582
-01:15:31,599 --> 01:15:33,080
-D.
+468
+01:15:32,500 --> 01:15:44,189
+D. Alonso de Lara desceu à sua câmara, lívido, pensando que não houvera certamente desgraça em casa onde todas as janelas se abrem para refrescar, e no portão da rua os moços folgam.
 
-583
-01:15:33,100 --> 01:15:44,160
-Alonso de Lara desceu à sua câmara, lívido, pensando que não houvera certamente desgraça em casa onde todas as janelas se abrem para refrescar, e no portão da rua os moços folgam.
-
-584
-01:15:44,219 --> 01:15:49,840
+469
+01:15:44,189 --> 01:15:49,260
 Então bateu as palmas, pediu furiosamente a ceia.
 
-585
-01:15:49,860 --> 01:16:02,760
+470
+01:15:49,260 --> 01:16:02,690
 E, apenas sentado, ao tôpo da mesa, na sua alta séde de couro lavrado, mandou chamar o intendente, a quem ofereceu logo com estranha familiaridade um copo de vinho vélho.
 
-586
-01:16:04,020 --> 01:16:08,219
-Emquanto o homem, de pé, bebia respeitosamente, D.
+471
+01:16:02,690 --> 01:16:17,809
+Emquanto o homem, de pé, bebia respeitosamente, D. Alonso, metendo os dedos pelas barbas e forçando a sua sombria face a sorrir, perguntava pelas novas e rumores de Segóvia.
 
-587
-01:16:08,240 --> 01:16:17,220
-Alonso, metendo os dedos pelas barbas e forçando a sua sombria face a sorrir, perguntava pelas novas e rumores de Segóvia.
-
-588
-01:16:18,400 --> 01:16:24,920
+472
+01:16:17,809 --> 01:16:24,200
 ¿Nesses dias da sua estada em Cabril, nenhum caso criara pela cidade espanto e murmuração?...
 
-589
-01:16:24,940 --> 01:16:32,900
-O intendente limpou os beiços, para afirmar que nada ocorrera em Segóvia de que andasse murmuração, a não ser que a filha do senhor D.
+473
+01:16:24,200 --> 01:16:39,150
+O intendente limpou os beiços, para afirmar que nada ocorrera em Segóvia de que andasse murmuração, a não ser que a filha do senhor D. Gutierres, tam môça e tam rica herdeira, tomara o véu no convento das Carmelitas Descalças.
 
-590
-01:16:32,900 --> 01:16:38,640
-Gutierres, tam môça e tam rica herdeira, tomara o véu no convento das Carmelitas Descalças.
+474
+01:16:39,150 --> 01:16:44,460
+D. Alonso insistia, fitando vorazmente o intendente.
 
-591
-01:16:39,660 --> 01:16:39,660
-D.
-
-592
-01:16:39,680 --> 01:16:44,000
-Alonso insistia, fitando vorazmente o intendente.
-
-593
-01:16:44,920 --> 01:16:51,960
+475
+01:16:44,460 --> 01:16:52,460
 ¿E não se travara uma grande briga?... ¿não se encontrara ferido, na estrada de Cabril, um cavaleiro môço, muito falado?...
 
-594
-01:16:52,960 --> 01:16:58,340
+476
+01:16:52,460 --> 01:16:58,740
 O intendente encolhia os ombros: nada ouvira, pela cidade, de brigas ou de cavaleiros feridos.
 
-595
-01:16:59,140 --> 01:17:00,800
-Com um acêno desabrido D.
+477
+01:16:58,740 --> 01:17:03,020
+Com um acêno desabrido D. Alonso despediu o intendente.
 
-596
-01:17:00,820 --> 01:17:02,540
-Alonso despediu o intendente.
+478
+01:17:03,020 --> 01:17:09,950
+Apenas ceara, parcamente, logo voltou à galeria a espreitar as janelas de D. Rui.
 
-597
-01:17:03,500 --> 01:17:09,159
-Apenas ceara, parcamente, logo voltou à galeria a espreitar as janelas de D.
-
-598
-01:17:09,340 --> 01:17:09,380
-Rui.
-
-599
-01:17:10,520 --> 01:17:15,680
+479
+01:17:09,950 --> 01:17:16,240
 Estavam agora cerradas; na última, da esquina, tremeluzia uma claridade.
 
-600
-01:17:16,800 --> 01:17:17,920
-Toda a noite D.
+480
+01:17:16,240 --> 01:17:23,190
+Toda a noite D. Alonso velou, remoendo incansavelmente o mesmo espanto.
 
-601
-01:17:17,940 --> 01:17:22,700
-Alonso velou, remoendo incansavelmente o mesmo espanto.
-
-602
-01:17:23,680 --> 01:17:28,300
+481
+01:17:23,190 --> 01:17:28,660
 ¿Como pudera escapar aquele homem, com uma adaga atravessada no coração?
 
-603
-01:17:29,020 --> 01:17:30,000
+482
+01:17:28,660 --> 01:17:30,650
 Como pudera?...
 
-604
-01:17:31,300 --> 01:17:41,659
-Ao luzir da manhã, tomou uma capa, um largo sombreiro, desceu ao adro, todo embuçado e encoberto, e ficou rondando por diante da casa de D.
+483
+01:17:30,650 --> 01:17:42,430
+Ao luzir da manhã, tomou uma capa, um largo sombreiro, desceu ao adro, todo embuçado e encoberto, e ficou rondando por diante da casa de D. Rui.
 
-605
-01:17:41,700 --> 01:17:41,840
-Rui.
-
-606
-01:17:43,020 --> 01:17:45,179
+484
+01:17:42,430 --> 01:17:45,559
 Os sinos tocaram a matinas.
 
-607
-01:17:45,940 --> 01:17:53,200
+485
+01:17:45,559 --> 01:17:53,520
 Os mercadores, com os gibões mal abotoados, saíam a erguer as portadas das lojas, a pendurar as taboletas.
 
-608
-01:17:53,840 --> 01:18:06,520
+486
+01:17:53,520 --> 01:18:07,140
 Já os hortelões, picando os burros carregados de ceiras, atiravam os pregões de hortaliça fresca, e frades descalços, com o alforge aos ombros, pediam esmola, benziam as moças.
 
-609
-01:18:07,760 --> 01:18:13,800
+487
+01:18:07,140 --> 01:18:14,160
 Beatas embiocadas, com grossos rosários negros, enfiavam gulosamente para a igreja.
 
-610
-01:18:14,520 --> 01:18:22,800
+488
+01:18:14,160 --> 01:18:23,530
 Depois o pregoeiro da cidade, parando a um canto do adro, tocou uma buzina, e numa voz tremenda começou a ler um edital.
 
-611
-01:18:24,260 --> 01:18:30,900
+489
+01:18:23,530 --> 01:18:31,410
 O senhor de Lara, parara junto do chafariz, pasmado, como embebido no cantar das três bicas de água.
 
-612
-01:18:31,920 --> 01:18:37,800
-De repente pensou que aquele edital, lido pelo pregoeiro da cidade, se referia talvez a D.
+490
+01:18:31,410 --> 01:18:39,570
+De repente pensou que aquele edital, lido pelo pregoeiro da cidade, se referia talvez a D. Rui, ao seu desaparecimento...
 
-613
-01:18:38,040 --> 01:18:39,180
-Rui, ao seu desaparecimento...
-
-614
-01:18:39,960 --> 01:18:47,900
+491
+01:18:39,570 --> 01:18:48,030
 Correu à esquina do adro—mas já o homem enrolara o papel, se afastava majestosamente, batendo nas lages com a sua vara branca.
 
-615
-01:18:47,980 --> 01:18:55,780
-E, quando se voltava para espiar de novo a casa, eis que os seus olhos atónitos encontram D.
+492
+01:18:48,030 --> 01:19:19,919
+E, quando se voltava para espiar de novo a casa, eis que os seus olhos atónitos encontram D. Rui, D. Rui que êle matara—e que vinha caminhando para a igreja de Nossa Senhora, ligeiro, airoso, a face risonha e erguida no fresco ar da manhã, de gibão claro, de plumas claras, com uma das mãos pousando na cinta, a outra meneando distraídamente um bastão com borlas de torçal de oiro!
 
-616
-01:18:55,780 --> 01:18:57,020
-Rui, D.
+493
+01:19:19,919 --> 01:19:26,110
+D. Alonso recolheu então a casa com passos arrastados e envelhecidos.
 
-617
-01:18:57,020 --> 01:19:19,160
-Rui que êle matara—e que vinha caminhando para a igreja de Nossa Senhora, ligeiro, airoso, a face risonha e erguida no fresco ar da manhã, de gibão claro, de plumas claras, com uma das mãos pousando na cinta, a outra meneando distraídamente um bastão com borlas de torçal de oiro!
+494
+01:19:26,110 --> 01:19:45,030
+No alto da escadaria de pedra, achou o seu vélho capelão, que o viera saùdar, e que, penetrando com êle na ante-câmara, depois de pedir, com reverência, novas da senhora D. Leonor, lhe contou logo dum prodigioso caso que causava pela cidade grave murmuração e espanto.
 
-618
-01:19:19,180 --> 01:19:20,620
-D.
-
-619
-01:19:20,640 --> 01:19:25,580
-Alonso recolheu então a casa com passos arrastados e envelhecidos.
-
-620
-01:19:26,640 --> 01:19:38,180
-No alto da escadaria de pedra, achou o seu vélho capelão, que o viera saùdar, e que, penetrando com êle na ante-câmara, depois de pedir, com reverência, novas da senhora D.
-
-621
-01:19:38,200 --> 01:19:44,460
-Leonor, lhe contou logo dum prodigioso caso que causava pela cidade grave murmuração e espanto.
-
-622
-01:19:45,600 --> 01:20:01,840
+495
+01:19:45,030 --> 01:20:02,310
 Na véspera, de tarde, indo o corregedor visitar o cêrro das forcas, pois se acercava a festa dos Santos Apóstolos, descobrira, com muito pasmo e muito escândalo, que um dos enforcados tinha uma adaga cravada no peito!
 
-623
-01:20:02,780 --> 01:20:04,980
+496
+01:20:02,310 --> 01:20:05,330
 ¿Fôra gracejo de um pícaro sinistro?
 
-624
-01:20:05,659 --> 01:20:07,820
+497
+01:20:05,330 --> 01:20:08,290
 ¿Vingança que nem a morte saciara?...
 
-625
-01:20:08,760 --> 01:20:23,540
+498
+01:20:08,290 --> 01:20:24,109
 E para maior prodígio ainda, o corpo fôra despendurado da forca, arrastado em horta ou jardim (pois que prêsas aos vélhos farrapos se encontraram fôlhas tenras) e depois novamente enforcado e com corda nova!...
 
-626
-01:20:24,679 --> 01:20:29,199
+499
+01:20:24,109 --> 01:20:30,070
 E assim ia a turbulência dos tempos, que nem os mortos se furtavam a ultrajes!
 
-627
-01:20:29,240 --> 01:20:29,700
-D.
+500
+01:20:30,070 --> 01:20:36,380
+D. Alonso escutava com as mãos a tremer, os pêlos arrepiados.
 
-628
-01:20:30,700 --> 01:20:35,980
-Alonso escutava com as mãos a tremer, os pêlos arrepiados.
-
-629
-01:20:36,780 --> 01:20:47,480
+501
+01:20:36,380 --> 01:20:48,079
 E imediatamente, numa ansiosa agitação, bradando, tropeçando contra as portas, quis partir, e por seus olhos verificar a fúnebre profanação.
 
-630
-01:20:48,679 --> 01:20:58,660
+502
+01:20:48,079 --> 01:20:58,130
 Em duas mulas ajaezadas à pressa, ambos abalaram para o Cêrro dos Enforcados, êle e o capelão arrastado e aturdido.
 
-631
-01:20:58,680 --> 01:21:06,680
+503
+01:20:58,130 --> 01:21:07,059
 Numeroso povo de Segóvia se ajuntara já no Cêrro, pasmando para o maravilhoso horror—o morto que fôra morto!...
 
-632
-01:21:07,580 --> 01:21:19,180
+504
+01:21:07,059 --> 01:21:19,629
 Todos se arredaram ante o nobre senhor de Lara, que arremessando-se pelo cabeço acima, estacara a olhar, esgazeado e lívido, para o enforcado e para a adaga que lhe varava o peito.
 
-633
-01:21:20,079 --> 01:21:23,500
+505
+01:21:19,629 --> 01:21:24,099
 Era a sua adaga:—fôra êle que matara o morto!
 
-634
-01:21:24,699 --> 01:21:37,720
-Galopou espavoridamente para Cabril. E aí se encerrou com o seu segredo, começando logo a amarelecer, a definhar, sempre arredado da senhora D.
+506
+01:21:24,099 --> 01:21:46,260
+Galopou espavoridamente para Cabril. E aí se encerrou com o seu segredo, começando logo a amarelecer, a definhar, sempre arredado da senhora D. Leonor, escondido pelas ruas sombrias do jardim, murmurando palavras ao vento, até que na madrugada de S.
 
-635
-01:21:37,720 --> 01:21:46,240
-Leonor, escondido pelas ruas sombrias do jardim, murmurando palavras ao vento, até que na madrugada de S.
-
-636
-01:21:46,240 --> 01:22:04,900
+507
+01:21:46,260 --> 01:22:05,720
 João uma serva, que voltava da fonte com a sua bilha, o encontrou morto, por baixo do balcão de pedra, todo estirado no chão, com os dedos encravados no canteiro de goivos, onde parecia ter longamente esgravatado a terra, a procurar...
 
-637
-01:22:05,780 --> 01:22:08,060
+508
+01:22:05,720 --> 01:22:08,060
 5
 
-638
-01:22:09,120 --> 01:22:13,000
-Para fugir a tam lamentáveis memórias, a senhora D.
+509
+01:22:09,120 --> 01:22:19,020
+Para fugir a tam lamentáveis memórias, a senhora D. Leonor, herdeira de todos os bens da casa de Lara, recolheu ao seu palácio de Segóvia.
 
-639
-01:22:13,360 --> 01:22:18,360
-Leonor, herdeira de todos os bens da casa de Lara, recolheu ao seu palácio de Segóvia.
+510
+01:22:19,020 --> 01:22:48,420
+Mas como agora sabia que o senhor D. Rui de Cardenas escapara miraculosamente à emboscada de Cabril, e como cada manhã, espreitando de entre as gelosias, meio cerradas, o seguia, com olhos que se não fartavam e se humedeciam, quando êle cruzava o adro para entrar na igreja, não quis ela, com receio das pressas e impaciências do seu coração, visitar a Senhora do Pilar emquanto durasse o seu luto.
 
-640
-01:22:19,680 --> 01:22:21,680
-Mas como agora sabia que o senhor D.
-
-641
-01:22:21,680 --> 01:22:47,800
-Rui de Cardenas escapara miraculosamente à emboscada de Cabril, e como cada manhã, espreitando de entre as gelosias, meio cerradas, o seguia, com olhos que se não fartavam e se humedeciam, quando êle cruzava o adro para entrar na igreja, não quis ela, com receio das pressas e impaciências do seu coração, visitar a Senhora do Pilar emquanto durasse o seu luto.
-
-642
-01:22:49,040 --> 01:23:06,020
+511
+01:22:48,420 --> 01:23:06,950
 Depois, uma manhã de domingo, quando, em vez de crepes negros, se poude cobrir de sêdas roxas, desceu a escadaria do seu palácio, pálida de uma emoção nova e divina, pisou as lages do adro, transpôs as portas da igreja.
 
-643
-01:23:06,020 --> 01:23:06,500
-D.
+512
+01:23:06,950 --> 01:23:16,040
+D. Rui de Cardenas estava ajoelhado diante do altar, onde depusera o seu ramo votivo de cravos amarelos e brancos.
 
-644
-01:23:07,500 --> 01:23:15,460
-Rui de Cardenas estava ajoelhado diante do altar, onde depusera o seu ramo votivo de cravos amarelos e brancos.
-
-645
-01:23:16,620 --> 01:23:27,160
+513
+01:23:16,040 --> 01:23:27,939
 Ao rumor das sêdas finas, ergueu os olhos com uma esperança muito pura e toda feita de graça celeste, como se um anjo o chamasse.
 
-646
-01:23:28,719 --> 01:23:28,719
-D.
+514
+01:23:27,939 --> 01:23:44,999
+D. Leonor ajoelhou, com o peito a arfar, tam pálida e tam feliz que a cera das tochas não era mais pálida, nem mais felizes as andorinhas que batiam as asas livres pelas ogivas da vélha igreja.
 
-647
-01:23:28,760 --> 01:23:44,320
-Leonor ajoelhou, com o peito a arfar, tam pálida e tam feliz que a cera das tochas não era mais pálida, nem mais felizes as andorinhas que batiam as asas livres pelas ogivas da vélha igreja.
+515
+01:23:44,999 --> 01:24:09,630
+Ante êsse altar, e de joelhos nessas lages, foram eles casados pelo bispo de Segóvia, D. Martinho, no outono do ano da Graça de 1475, sendo já reis de Castela Isabel e Fernando, muito fortes e muito católicos, por quem Deus operou grandes feitos sôbre a terra e sôbre o mar.
 
-648
-01:23:45,679 --> 01:23:52,840
-Ante êsse altar, e de joelhos nessas lages, foram eles casados pelo bispo de Segóvia, D.
-
-649
-01:23:52,880 --> 01:24:08,679
-Martinho, no outono do ano da Graça de 1475, sendo já reis de Castela Isabel e Fernando, muito fortes e muito católicos, por quem Deus operou grandes feitos sôbre a terra e sôbre o mar.
-
-650
-01:24:09,650 --> 01:24:12,080
+516
+01:24:09,630 --> 01:24:12,080
 Fim da Seção 4
 
-651
+517
 01:24:12,080 --> 01:24:15,760
 Fim
 de
@@ -2622,7 +2086,7 @@ O Defunto
 de
 Eça de Queirós
 
-652
+518
 01:24:20,360 --> 01:24:21,360
 
 
