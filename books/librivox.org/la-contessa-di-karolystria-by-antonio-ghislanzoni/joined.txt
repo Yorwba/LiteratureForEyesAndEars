@@ -308,11 +308,9 @@ Livido dallo stupore, il conte leggeva battendo i denti.
 
 Sulle due noticine involte nella lettera stava scritto:
 
-» Abito di moerro confezionato, con guarnizione di raso e bott. di corallo     L. 600 50
-
-» Per rinfresco a due cavalli e vino al doganiere               »   3 50
-
-» Candele steariche e servizio  »  10 75
+» Abito di moerro confezionato, con guarnizione di raso e bott. di corallo: [[L.||lire]] 600,50
+» Per rinfresco a due cavalli e vino al doganiere: [[L.||lire]] 3,50
+» Candele steariche e servizio: [[L.||lire]] 10,75
 
 —Commissario, urlò il conte Bradamano, sbarrando gli occhi come un ossesso; per quante porte credete voi che una donna a cavallo possa uscire da Borgoflores?
 
