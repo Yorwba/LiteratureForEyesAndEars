@@ -167,7 +167,7 @@ def aozora_plain_text(url):
     )
     if 'ruby' in zip_name:
         text = FURIGANA.sub(
-            r'[\1|\2]',
+            r'[[\1||\2]]',
             text
         )
     return text
