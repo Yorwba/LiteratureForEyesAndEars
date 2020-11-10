@@ -16,6 +16,7 @@ language_codes = {
     'Italian': 'ita',
     'Russian': 'rus',
     'Ancient Greek': 'grc',
+    'Japanese': 'jpn',
 }
 
 
