@@ -13,7 +13,7 @@ def split_paragraph(paragraph):
 
 
 def format_srt_time(time):
-    millis = int(time * 1000)
+    millis = round(time * 1000)
     seconds = millis // 1000
     minutes = seconds // 60
     hours = minutes // 60

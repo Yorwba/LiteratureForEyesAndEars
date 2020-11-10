@@ -11,7 +11,7 @@ def badness(alignment):
     return alignment['average_over_min'] + subbadness
 
 def format_time(t):
-    millis = int(t * 1000)
+    millis = round(t * 1000.)
     seconds = millis // 1000
     minutes = seconds // 60
     hours = minutes // 60
