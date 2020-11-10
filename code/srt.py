@@ -5,10 +5,6 @@ import math
 import sys
 
 
-def isalphanumeric(c):
-    return c.isalpha() or c.isnumeric()
-
-
 def span_text(alignment):
     text = alignment['span']
     if isinstance(text, str):
@@ -19,7 +15,7 @@ def span_text(alignment):
 
 def split_paragraph(paragraph):
     if all(
-            isalphanumeric(line[-1])
+            line[-1].isalnum()
             for line in span_text(paragraph).splitlines()
     ):
         return [paragraph]
