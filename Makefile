@@ -98,10 +98,12 @@ books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/libri
 	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=ruby|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
 
 books/librivox.org/%.ass: books/librivox.org/%.align.json
-	code/ass.py "$<" > "$@"
+	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
+	code/ass.py --language="$$LANGUAGE" "$<" > "$@"
 
 books/librivox.org/%_furi.ass: books/librivox.org/%.align.json
-	code/ass.py --furigana "$<" > "$@"
+	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
+	code/ass.py --language="$$LANGUAGE" --furigana "$<" > "$@"
 	@echo "Press 'Automation' > 'Apply karaoke template'"
 	aegisub "$@"
 

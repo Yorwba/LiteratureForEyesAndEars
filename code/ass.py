@@ -2,12 +2,23 @@
 
 import align_json
 import argparse
+from collections import defaultdict
 import json
 import math
 import sys
 
 
-def ass_header(furigana=False):
+def ass_header(language=None, furigana=False):
+    styles = defaultdict(
+        lambda: {
+            "Default": "DejaVu Serif,60",
+            "Standout": "Anaktoria,120",
+        },
+        jpn={
+            "Default": "Noto Serif CJK JP,90",
+            "Standout": "Noto Serif CJK JP,180",
+        },
+    )[language]
     karaoke_template = (
         'Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template syl furi,{\pos($x,$y)\k!syl.start_time/10!\!syl.tag!$kdur}',
         'Comment: 0,0:00:00.00,0:00:00.00,Standout,,0,0,0,template syl furi,{\pos($x,$y)\k!syl.start_time/10!\!syl.tag!$kdur}',
@@ -22,8 +33,8 @@ def ass_header(furigana=False):
         '',
         '[V4+ Styles]',
         'Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding',
-        'Style: Default,DejaVu Serif,60,&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,2,0,4,90,90,90,0',
-        'Style: Standout,Anaktoria,120,&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,3,0,5,90,90,90,0',
+        f'Style: Default,{styles["Default"]},&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,2,0,4,90,90,90,0',
+        f'Style: Standout,{styles["Standout"]},&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,3,0,5,90,90,90,0',
         '',
         '[Events]',
         'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text',
@@ -84,13 +95,14 @@ def main(argv):
     parser = argparse.ArgumentParser(
         description='ASS file generator')
     parser.add_argument('alignment')
+    parser.add_argument('--language', type=str)
     parser.add_argument('--furigana', dest='furigana', action='store_true')
     parser.add_argument('--no-furigana', dest='furigana', action='store_false')
     parser.set_defaults(furigana=False)
     args = parser.parse_args(argv[1:])
     with open(args.alignment) as f: alignments = json.load(f)
 
-    print(ass_header(furigana=args.furigana))
+    print(ass_header(language=args.language, furigana=args.furigana))
     for alignment in align_json.vad_pad(alignments):
         style = 'Standout' if align_json.is_standout(alignment) else 'Default'
         print('Dialogue: 0,{},{},{},,0,0,0,,{}'.format(
