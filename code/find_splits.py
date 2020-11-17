@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+import align_json
+import argparse
+from collections import defaultdict
 import json
 import math
 import sys
@@ -10,19 +13,23 @@ def num_lines(text, characters_per_line):
         for line in text.rstrip().split('\n')
     )
 
-def split_paragraph(paragraph, characters_per_line, lines_per_paragraph):
-    if num_lines(paragraph['span'], characters_per_line) <= lines_per_paragraph:
+def split_paragraph(paragraph, language=None):
+    characters_per_line, lines_per_paragraph = defaultdict(
+        lambda: (60, 14),
+        jpn=(25, 7),
+    )[language]
+    if num_lines(align_json.span_text(paragraph), characters_per_line) <= lines_per_paragraph:
         return [paragraph]
     best_break = None
     best_delta = -1
     text_so_far = ''
     previous_end = None
     for i, sub in enumerate(paragraph['subalignments']):
-        text_so_far += sub['span']
+        text_so_far += align_json.span_text(sub)
         lines_so_far = num_lines(text_so_far, characters_per_line)
         if lines_so_far > lines_per_paragraph:
             break
-        if any(c.isalnum() for c in sub['span']) or not previous_end:
+        if any(c.isalnum() for c in align_json.span_text(sub)) or not previous_end:
             previous_end = sub['end_time']
         next_sub = paragraph['subalignments'][i+1]
         delta = next_sub['start_time'] - previous_end

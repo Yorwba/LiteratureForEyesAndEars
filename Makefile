@@ -111,4 +111,5 @@ books/librivox.org/%.srt: books/librivox.org/%.align.json
 	code/srt.py "$<" > "$@"
 
 books/librivox.org/%.split_paragraphs: books/librivox.org/%.align.json
-	code/find_splits.py 60 14 "$<" books/librivox.org/"$*".txt
+	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
+	code/find_splits.py --language="$$LANGUAGE" "$<" books/librivox.org/"$*".txt

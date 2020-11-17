@@ -19,6 +19,35 @@ def span_speech(alignment):
         return text['speech']
 
 
+def span_ruby(alignment):
+    if alignment['subalignments']:
+        return ''.join(map(span_ruby, alignment['subalignments']))
+    text = alignment['span']
+    if isinstance(text, str):
+        return text
+    else:
+        text, speech = text['text'], text['speech']
+        if text == speech:
+            return text
+        prefix_len = max(i for i in range(1+min(len(text), len(speech))) if text[:i] == speech[:i])
+        prefix = text[:prefix_len]
+        text = text[prefix_len:]
+        speech = speech[prefix_len:]
+        suffix_len = max(i for i in range(1+min(len(text), len(speech))) if text[len(text)-i:] == speech[len(speech)-i:])
+        suffix = text[len(text)-suffix_len:]
+        text = text[:len(text)-suffix_len]
+        speech = speech[:len(speech)-suffix_len]
+        sep = ''
+        while True:
+            left = '['+sep+'['
+            middle = '|'+sep+'|'
+            right = ']'+sep+']'
+            if any(x in y for x in (left, middle, right) for y in (text, speech)):
+                sep += '='
+                continue
+            return ''.join((prefix, left, text, middle, speech, right, suffix))
+
+
 def is_standout(paragraph):
     return all(
         line[-1].isalnum()
