@@ -31,6 +31,27 @@ assets/background_tiny.png: assets/background_full_hd.png
 		"$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
+%_full_hd_furi.mkv: assets/background_full_hd.png %.mp3 %_furi.ass
+	ffmpeg -y \
+		-loop 1 -i "$<" \
+		-i "$*".mp3 \
+		-vf subtitles=f="$*"_furi.ass \
+		-shortest \
+		-pix_fmt yuvj420p \
+		"$@" \
+	|| (rm "$@" && false) # delete in case of failure
+
+%_tiny_furi.mkv: assets/background_tiny.png %.mp3 %_furi.ass
+	RUNTIME=$$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$*".mp3) && \
+	ffmpeg -y \
+		-loop 1 -i "$<" \
+		-i "$*".mp3 \
+		-i "$*"_furi.ass \
+		-t "$$RUNTIME" \
+		-pix_fmt yuvj420p \
+		"$@" \
+	|| (rm "$@" && false) # delete in case of failure
+
 books/librivox.org/1000_books_starting_from_%.json:
 	curl 'https://librivox.org/api/feed/audiobooks/?limit=1000&offset='$*'&format=json&fields=\{id,language,url_librivox,url_text_source,totaltimesecs\}' \
 		> "$@"
@@ -78,6 +99,11 @@ books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/libri
 
 books/librivox.org/%.ass: books/librivox.org/%.align.json
 	code/ass.py "$<" > "$@"
+
+books/librivox.org/%_furi.ass: books/librivox.org/%.align.json
+	code/ass.py --furigana "$<" > "$@"
+	@echo "Press 'Automation' > 'Apply karaoke template'"
+	aegisub "$@"
 
 books/librivox.org/%.srt: books/librivox.org/%.align.json
 	code/srt.py "$<" > "$@"

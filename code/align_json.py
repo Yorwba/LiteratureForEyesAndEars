@@ -11,6 +11,14 @@ def span_text(alignment):
         return text['text']
 
 
+def span_speech(alignment):
+    text = alignment['span']
+    if isinstance(text, str):
+        return text
+    else:
+        return text['speech']
+
+
 def is_standout(paragraph):
     return all(
         line[-1].isalnum()
