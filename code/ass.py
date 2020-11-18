@@ -75,12 +75,30 @@ def format_ass_text(text):
 def ass_text(alignment, furigana=False):
     text = ''
     if not alignment['subalignments']:
-        text += ass_karaoke(alignment['start_time'], alignment['end_time'], True)
         span_text = align_json.span_text(alignment)
         span_speech = align_json.span_speech(alignment)
-        text += format_ass_text(span_text)
         if furigana and span_text != span_speech:
-            text += '|<'+span_speech
+            prefix, span_text, span_speech, suffix = align_json.text_speech_factors(span_text, span_speech)
+            total_duration = alignment['end_time']-alignment['start_time']
+            total_len = len(prefix+span_speech+suffix)
+            start_time = alignment['start_time']
+            if prefix:
+                end_time = start_time + total_duration * len(prefix) / total_len
+                text += ass_karaoke(start_time, end_time, True)
+                text += format_ass_text(prefix)
+                start_time = end_time
+            if span_text or span_speech:
+                end_time = start_time + total_duration * len(span_speech) / total_len
+                text += ass_karaoke(start_time, end_time, True)
+                text += format_ass_text(span_text) + '|<' + span_speech
+                start_time = end_time
+            if suffix:
+                end_time = start_time + total_duration * len(suffix) / total_len
+                text += ass_karaoke(start_time, end_time, True)
+                text += format_ass_text(suffix)
+        else:
+            text += ass_karaoke(alignment['start_time'], alignment['end_time'], True)
+            text += format_ass_text(span_text)
     else:
         previous_end = alignment['start_time']
         for subalignment in alignment['subalignments']:
