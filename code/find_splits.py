@@ -37,44 +37,50 @@ def split_paragraph(paragraph, language=None):
             best_delta = delta
             best_break = i
     if best_break is None:
-        split_first = split_paragraph(paragraph['subalignments'][0], characters_per_line, lines_per_paragraph)
+        split_first = split_paragraph(paragraph['subalignments'][0], language=language)
         new_paragraph = {
             'start_time': paragraph['start_time'],
             'end_time': paragraph['end_time'],
             'span': paragraph['span'],
             'subalignments': split_first + paragraph['subalignments'][1:],
         }
-        return split_paragraph(new_paragraph, characters_per_line, lines_per_paragraph)
+        return split_paragraph(new_paragraph, language=language)
     paragraph_before_break = {
         'start_time': paragraph['start_time'],
         'end_time': paragraph['subalignments'][best_break]['end_time'],
-        'span': ''.join(sub['span'] for sub in paragraph['subalignments'][:best_break+1]),
+        'span': ''.join(align_json.span_text(sub) for sub in paragraph['subalignments'][:best_break+1]),
         'subalignments': paragraph['subalignments'][:best_break+1],
     }
     paragraph_after_break = {
         'start_time': paragraph['subalignments'][best_break+1]['start_time'],
         'end_time': paragraph['end_time'],
-        'span': ''.join(sub['span'] for sub in paragraph['subalignments'][best_break+1:]),
+        'span': ''.join(align_json.span_text(sub) for sub in paragraph['subalignments'][best_break+1:]),
         'subalignments': paragraph['subalignments'][best_break+1:],
     }
-    return [paragraph_before_break] + split_paragraph(paragraph_after_break, characters_per_line, lines_per_paragraph)
+    return [paragraph_before_break] + split_paragraph(paragraph_after_break, language=language)
 
-
-if __name__ == '__main__':
-    characters_per_line = int(sys.argv[1])
-    lines_per_paragraph = int(sys.argv[2])
-    with open(sys.argv[3]) as f: alignments = json.load(f)
+def main(argv):
+    parser = argparse.ArgumentParser(
+        description='Find points to split overly long paragraphs')
+    parser.add_argument('alignment')
+    parser.add_argument('output')
+    parser.add_argument('--language', type=str)
+    args = parser.parse_args(argv[1:])
+    with open(args.alignment) as f: alignments = json.load(f)
 
     paragraphs = []
     for paragraph in alignments:
-        splits = split_paragraph(paragraph, characters_per_line, lines_per_paragraph)
+        splits = split_paragraph(paragraph, language=args.language)
         for split in splits:
-            paragraphs.append(split['span'].rstrip()+'\n\n')
+            paragraphs.append(align_json.span_ruby(split).rstrip()+'\n\n')
 
     new_text = ''.join(paragraphs).rstrip()+'\n\n'
 
-    with open(sys.argv[4], 'r') as f: old_text = f.read()
+    with open(args.output, 'r') as f: old_text = f.read()
 
     if new_text != old_text:
-        with open(sys.argv[4], 'w') as f:
+        with open(args.output, 'w') as f:
             f.write(new_text)
+
+if __name__ == '__main__':
+    main(sys.argv)

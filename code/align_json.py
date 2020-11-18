@@ -19,6 +19,18 @@ def span_speech(alignment):
         return text['speech']
 
 
+def text_speech_factors(text, speech):
+    prefix_len = max(i for i in range(1+min(len(text), len(speech))) if text[:i] == speech[:i])
+    prefix = text[:prefix_len]
+    text = text[prefix_len:]
+    speech = speech[prefix_len:]
+    suffix_len = max(i for i in range(1+min(len(text), len(speech))) if text[len(text)-i:] == speech[len(speech)-i:])
+    suffix = text[len(text)-suffix_len:]
+    text = text[:len(text)-suffix_len]
+    speech = speech[:len(speech)-suffix_len]
+    return (prefix, text, speech, suffix)
+
+
 def span_ruby(alignment):
     if alignment['subalignments']:
         return ''.join(map(span_ruby, alignment['subalignments']))
@@ -29,14 +41,7 @@ def span_ruby(alignment):
         text, speech = text['text'], text['speech']
         if text == speech:
             return text
-        prefix_len = max(i for i in range(1+min(len(text), len(speech))) if text[:i] == speech[:i])
-        prefix = text[:prefix_len]
-        text = text[prefix_len:]
-        speech = speech[prefix_len:]
-        suffix_len = max(i for i in range(1+min(len(text), len(speech))) if text[len(text)-i:] == speech[len(speech)-i:])
-        suffix = text[len(text)-suffix_len:]
-        text = text[:len(text)-suffix_len]
-        speech = speech[:len(speech)-suffix_len]
+        prefix, text, speech, suffix = text_speech_factors(text, speech)
         sep = ''
         while True:
             left = '['+sep+'['
