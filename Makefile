@@ -54,10 +54,12 @@ assets/background_tiny.png: assets/background_full_hd.png
 
 books/librivox.org/1000_books_starting_from_%.json:
 	curl 'https://librivox.org/api/feed/audiobooks/?limit=1000&offset='$*'&format=json&fields=\{id,language,url_librivox,url_text_source,totaltimesecs\}' \
-		> "$@"
+		> "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/all.json: $(foreach i,$(shell seq 0 15),books/librivox.org/1000_books_starting_from_$(i)000.json)
-	code/librivox_concat_book_lists.py $^ > "$@"
+	code/librivox_concat_book_lists.py $^ > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%/librivox.json:
 	mkdir -p "$(dir $@)"
@@ -66,7 +68,8 @@ books/librivox.org/%/librivox.json:
 		grep -o -e'[0-9]*' \
 	) && \
 	curl 'https://librivox.org/api/feed/audiobooks/?id='$$ID'&format=json&extended=1' \
-		> "$@"
+		> "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%/files/: books/librivox.org/%/librivox.json
 	ARCHIVE_ZIP=$$(code/librivox_archive_zip.py "$<") && \
@@ -75,40 +78,50 @@ books/librivox.org/%/files/: books/librivox.org/%/librivox.json
 	unzip $(dir $<)*.zip -d "$@"
 
 books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
-	code/librivox_plain_text.py "$<" > "$@" || rm "$@"
+	code/librivox_plain_text.py "$<" > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%/youtube-description.txt: books/librivox.org/%/librivox.json
-	code/youtube-description.py "$<" > "$@"
+	code/youtube-description.py "$<" > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%/joined.txt: books/librivox.org/%/files/*.txt
-	cat $(sort $^) > "$@"
+	cat $(sort $^) > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 null  :=
 space := $(null) # The variable reference prevents the space from stripping
 pipe  := |
 
 books/librivox.org/%/joined.mp3: books/librivox.org/%/files/*.mp3
-	ffmpeg -y -i concat:"$(subst $(space),$(pipe),$(sort $(filter-out %.dynaudnorm.mp3, $^)))" "$@"
+	ffmpeg -y -i concat:"$(subst $(space),$(pipe),$(sort $(filter-out %.dynaudnorm.mp3, $^)))" "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
-	ffmpeg -y -i "$<" -af dynaudnorm=g=5 "$@"
+	ffmpeg -y -i "$<" -af dynaudnorm=g=5 "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.txt
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=ruby|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@"
+	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=ruby|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.ass: books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	code/ass.py --language="$$LANGUAGE" "$<" > "$@"
+	code/ass.py --language="$$LANGUAGE" "$<" > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%_furi.ass: books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	code/ass.py --language="$$LANGUAGE" --furigana "$<" > "$@"
+	code/ass.py --language="$$LANGUAGE" --furigana "$<" > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 	@echo "Press 'Automation' > 'Apply karaoke template'"
-	aegisub "$@"
+	aegisub "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.srt: books/librivox.org/%.align.json
-	code/srt.py "$<" > "$@"
+	code/srt.py "$<" > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.split_paragraphs: books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
