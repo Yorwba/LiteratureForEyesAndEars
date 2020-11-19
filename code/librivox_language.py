@@ -25,4 +25,11 @@ if __name__ == '__main__':
         lang = book['language']
         if lang in language_codes:
             lang = language_codes[lang]
-        print(lang)
+        if lang == 'Multilingual' and 'sections' in book:
+            for section in book['sections']:
+                lang = section['language']
+                if lang in language_codes:
+                    lang = language_codes[lang]
+                print(lang)
+        else:
+            print(lang)

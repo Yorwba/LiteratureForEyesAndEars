@@ -61,6 +61,19 @@ books/librivox.org/all.json: $(foreach i,$(shell seq 0 15),books/librivox.org/10
 	code/librivox_concat_book_lists.py $^ > "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
+books/librivox.org/multilingual_ids.txt: books/librivox.org/all.json
+	code/librivox_multilingual_ids.py "$<" > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
+
+books/librivox.org/all_with_multilingual_sections.json: books/librivox.org/all.json books/librivox.org/multilingual_ids.txt
+	cat books/librivox.org/multilingual_ids.txt | while read ID; do \
+		curl 'https://librivox.org/api/feed/audiobooks/?id='$$ID'&format=json&extended=1' \
+			> books/librivox.org/multilingual_"$$ID".json; \
+	done; \
+	code/librivox_concat_book_lists.py books/librivox.org/all.json books/librivox.org/multilingual_*.json > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
+	rm books/librivox.org/multilingual_*.json
+
 books/librivox.org/%/librivox.json:
 	mkdir -p "$(dir $@)"
 	ID=$$(curl 'https://librivox.org/'"$*"'/' |\
