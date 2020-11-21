@@ -87,6 +87,15 @@ def gutenberg_plain_text(url):
     ]+urls))
 
 
+def gutenberg_au_plain_text(url):
+    prefix = 'http://gutenberg.net.au/'
+    if not url.startswith(prefix):
+        raise Exception("Not a gutenberg.net.au URL: "+url)
+    if url.endswith('h.html'):
+        url = url.replace('h.html', '.txt')
+    return try_get(url)
+
+
 def azlibru_plain_text(url):
     prefix = 'http://az.lib.ru/'
     if not url.startswith(prefix):
@@ -179,6 +188,7 @@ if __name__ == '__main__':
         handled = False
         for handler in (
                 gutenberg_plain_text,
+                gutenberg_au_plain_text,
                 azlibru_plain_text,
                 wikisource_plain_text,
                 aozora_plain_text,

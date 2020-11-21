@@ -10,6 +10,7 @@ def good_source(url):
     good_sources = [
         'aozora.gr.jp',
         'archive.org',
+        'gutenberg.net.au',
         'gutenberg.org',
         'wikisource.org',
         'az.lib.ru',
