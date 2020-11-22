@@ -18,8 +18,6 @@ W Nowym-Yorku
 
  Ponieważ była chora, więc głód nie dokuczał jej bardzo, ale z męki i osłabienia sen ją ogarniał, powieki zamykały się na oczach, a wybladła twarz chyliła się na piersi. Chwilami budziła się i otwierała oczy, potem przymykała je znowu. Śniło się jej, że błądząc po jakichś rozpadlinach i przepaściach, wpadła, jak owa Kasia z chłopskiej piosenki, w „Dunajec głęboki“ i zaraz usłyszała wyraźnie jakby dalsze śpiewanie:
 
-
-
 Zobaczył to Jaśko na wysokiej górze,
 
 Spuścił się do Maryś po jedwabnym sznurze;
@@ -27,10 +25,6 @@ Spuścił się do Maryś po jedwabnym sznurze;
 Ale sznur był krótki, z łokieć go nie staje:
 
 Marysia nieboga warkocza dodaje.
-
-
-
-
 
  Tu nagle zbudziła się, bo zdało się jej, że warkocza już niema i że leci w przepaść. Sen pierzchnął. Nie Jaśko siedział przy niej, ale Wawrzon i nie „Dunajec“ było widać, ale port nowo-yorski, warfy, rusztowania, maszty i kominy. Znowu jakieś okręty wypływały na pełnię i z nich-to właśnie dochodziło śpiewanie. Cichy, ciepły, pogodny wieczór wiosenny zaczynał czerwienić się na wodzie i na niebie. Toń stała się zwierciadlaną, każdy okręt, każdy pal tak odbijał, jakby drugi był pod spodem, i ślicznie było naokoło. Jakaś szczęśliwość i ukojenie wielkie rozlane były w powietrzu; zdawało się, że cały świat się raduje, tylko ich dwoje było nieszczęsnych i zapomnianych; robotnicy zaczęli wracać do domów, tylko ich dwoje nie miało domu.
 
@@ -140,7 +134,9 @@ Marysia nieboga warkocza dodaje.
 
  Bóg!
 
- Zmówili pacierz, zjedli, choć niewiele tego było, i poszli nad wodą aż do głównych doków. Wstąpiły w nich nowe siły. Doszedłszy do budynku celniczego, skręcili pod górę na Water-street, ku Broadway. Z odpoczynkami zeszło im na tem parę godzin, bo droga była daleka. Chwilami siadali na deskach, lub na próżnych pakach okrętowych. Szli, sami nie wiedząc dlaczego, ale coś się tak Marysi widziało, żeby koniecznie iść do miasta. Po drodze spotykali mnóstwo ładownych wozów, ciągnących do portu. Na Water-street ruch już panował niemały. Z otwierających się bram wychodzili ludzie i szli pośpiesznie do codziennych zatrudnień. W jednej takiej bramie ukazał się wysoki, siwy i wąsaty jegomość z młodym chłopakiem. Wyszedłszy, spojrzał na nich i na ich ubrania, ruszył wąsami; zdziwienie odbiło się na jego twarzy, poczem zaczął się przypatrywać jeszcze bystrzej i uśmiechać się.
+ Zmówili pacierz, zjedli, choć niewiele tego było, i poszli nad wodą aż do głównych doków. Wstąpiły w nich nowe siły. Doszedłszy do budynku celniczego, skręcili pod górę na Water-street, ku Broadway. Z odpoczynkami zeszło im na tem parę godzin, bo droga była daleka. Chwilami siadali na deskach, lub na próżnych pakach okrętowych. Szli, sami nie wiedząc dlaczego, ale coś się tak Marysi widziało, żeby koniecznie iść do miasta.
+
+Po drodze spotykali mnóstwo ładownych wozów, ciągnących do portu. Na Water-street ruch już panował niemały. Z otwierających się bram wychodzili ludzie i szli pośpiesznie do codziennych zatrudnień. W jednej takiej bramie ukazał się wysoki, siwy i wąsaty jegomość z młodym chłopakiem. Wyszedłszy, spojrzał na nich i na ich ubrania, ruszył wąsami; zdziwienie odbiło się na jego twarzy, poczem zaczął się przypatrywać jeszcze bystrzej i uśmiechać się.
 
  Twarz ludzka uśmiechająca się do nich przyjaźnie w Nowym-Yorku, to był dziw, czary jakieś, na widok których zdumieli się oboje.
 
@@ -274,13 +270,17 @@ Marysia nieboga warkocza dodaje.
 
  — Słuchaj, dziecko — rzekł do Marysi — oto tu masz moją kartkę: schowaj ją święcie. Jak cię kiedy bieda przyciśnie, jak zostaniesz samotna na świecie i bez opieki, to mnie poszukaj. Tyś biedne dziecko i dobre. Gdybym umarł, Wiliam się tobą zajmie. Kartki nie zgub! Chodźcie teraz do mnie.
 
- Po drodze kupił im bielizny i ubrania, a wreszcie zaprowadził do siebie i ugościł. Był to cały dom dobrych ludzi, bo i Wiliam i jego siostra Jenny zajęli się obojgiem jakby krewnymi. Pan Wiliam obchodził się nawet z Marysią, jakby z „lady“ jaką, czego wstydziła się okrutnie. Wieczorem do panny Jenny przyszło kilka młodych panienek z grzywkami na czołach, ubranych ślicznie i dobrych. Te wzięły między siebie Marysię, dziwiły się, że taka blada, że taka ładna, że ma takie jasne włosy, że im się do nóg ciągle schyla i po rękach je całuje, z czego się śmiały bardzo. Stary pan chodził między młodymi, potrząsał białą głową, mruczał, czasem się gniewał; mówił to po angielsku, to po polsku, rozmawiał z Marysią i z Wawrzonem o dalekich stronach rodzinnych; przypominał sobie, rozpamiętywał i od czasu do czasu widocznie dym z cygara gryzł go w oczy, bo je sobie często ukradkiem ocierał.
+ Po drodze kupił im bielizny i ubrania, a wreszcie zaprowadził do siebie i ugościł. Był to cały dom dobrych ludzi, bo i Wiliam i jego siostra Jenny zajęli się obojgiem jakby krewnymi. Pan Wiliam obchodził się nawet z Marysią, jakby z „lady“ jaką, czego wstydziła się okrutnie. Wieczorem do panny Jenny przyszło kilka młodych panienek z grzywkami na czołach, ubranych ślicznie i dobrych. Te wzięły między siebie Marysię, dziwiły się, że taka blada, że taka ładna, że ma takie jasne włosy, że im się do nóg ciągle schyla i po rękach je całuje, z czego się śmiały bardzo.
+
+Stary pan chodził między młodymi, potrząsał białą głową, mruczał, czasem się gniewał; mówił to po angielsku, to po polsku, rozmawiał z Marysią i z Wawrzonem o dalekich stronach rodzinnych; przypominał sobie, rozpamiętywał i od czasu do czasu widocznie dym z cygara gryzł go w oczy, bo je sobie często ukradkiem ocierał.
 
  Gdy się wszyscy rozeszli spać, Marysia nie mogła wstrzymać łez, widząc, że panna Jenny własnemi rękoma przygotowuje jej pościel! Ach! jacyż to dobrzy ludzie byli, ale cóż to dziwnego! Przecie stary pan był także rodem z pod Poznania.
 
  Trzeciego dnia Wawrzon i dziewczyna jechali już do Little-Rock. Chłop czuł sto dolarów w kieszeni i o biedzie zupełnie zapomniał, a Marysia czuła nad sobą widomą rękę Bożą i wierzyła, że ta ręka nie da jej zginąć; że, jak ją z niedoli wyprowadziła, tak i Jaśka do Ameryki sprowadzi i nad obojgiem czuwać będzie i do Lipiniec wrócić im pozwoli.
 
- Tymczasem miasta i farmy wiejskie migały im przez okna wagonu. Było to zupełnie inaczej, aniżeli w Nowym-Yorku. Były pola i bór na dalekości i domki, przy których rosły drzewa; ruń zbóż wszelakich zieleniła się wielkiemi szmatami, zupełnie jak w Polsce. Na ten widok Wawrzonowi rozpierało tak coś piersi, że miał ochotę krzyczeć: „Hej! wy bory i pola zielone!“ Na łąkach pasły się trzody krów i owiec; po rubieżach leśnych widać było ludzi z siekierami. Pociąg leciał dalej i dalej. Powoli okolica stawała się coraz mniej ludna. Farmy znikły, a kraj roztworzył się w szeroki, pusty step. Wiatr na nim wiał falą traw i migotał kwiatami. Miejscami wiły się, nakształt złocistych wstęg, drogi pokryte żółtym kwieciem, po których niegdyś przeszły wozy. Wysokie burzany, dziewanny i szyszkowate osty kiwały głowami, jakby witając wędrowców. Orły kołysały się na szerokich skrzydłach nad stepem, wpatrując się pilnie w trawę. Pociąg rwał naprzód, jakby chciał dolecieć tam, gdzie te stepowe przestrzenie giną oczom i zlewają się z niebem. Z okien wagonów widać było całe stadka zajęcy i piesków ziemnych. Czasem rogata głowa jelenia mignęła nad trawami. Nigdzie ani wieżyczki kościelnej, ani miasta, ani wsi, ani domu, stacye tylko; ale między stacyami i w bok ani żywego ducha. Wawrzon spoglądał na to wszystko, kręcił głową i nie mógł zrozumieć, że tyle „dobroci,“ jak nazywał grunta, pustką stoi.
+ Tymczasem miasta i farmy wiejskie migały im przez okna wagonu. Było to zupełnie inaczej, aniżeli w Nowym-Yorku. Były pola i bór na dalekości i domki, przy których rosły drzewa; ruń zbóż wszelakich zieleniła się wielkiemi szmatami, zupełnie jak w Polsce. Na ten widok Wawrzonowi rozpierało tak coś piersi, że miał ochotę krzyczeć: „Hej! wy bory i pola zielone!“ Na łąkach pasły się trzody krów i owiec; po rubieżach leśnych widać było ludzi z siekierami. Pociąg leciał dalej i dalej. Powoli okolica stawała się coraz mniej ludna. Farmy znikły, a kraj roztworzył się w szeroki, pusty step. Wiatr na nim wiał falą traw i migotał kwiatami. Miejscami wiły się, nakształt złocistych wstęg, drogi pokryte żółtym kwieciem, po których niegdyś przeszły wozy. Wysokie burzany, dziewanny i szyszkowate osty kiwały głowami, jakby witając wędrowców.
+
+Orły kołysały się na szerokich skrzydłach nad stepem, wpatrując się pilnie w trawę. Pociąg rwał naprzód, jakby chciał dolecieć tam, gdzie te stepowe przestrzenie giną oczom i zlewają się z niebem. Z okien wagonów widać było całe stadka zajęcy i piesków ziemnych. Czasem rogata głowa jelenia mignęła nad trawami. Nigdzie ani wieżyczki kościelnej, ani miasta, ani wsi, ani domu, stacye tylko; ale między stacyami i w bok ani żywego ducha. Wawrzon spoglądał na to wszystko, kręcił głową i nie mógł zrozumieć, że tyle „dobroci,“ jak nazywał grunta, pustką stoi.
 
  Upłynął dzień i noc. Rankiem wjechali w bory, w których drzewa były pookręcane pnącemi się roślinami, grubemi jak ramię ludzkie, co robiło bór tak gęstym, że chyba w niego siekierą jak w ścianę bić. Nieznane ptactwo świergotało w tych zielonych gąszczach. Raz zdało się Wawrzonowi i Marysi, że wśród skrętów i bisiorów ujrzeli jakichś jeźdźców z piórami na głowach i o twarzach tak czerwonych, jak miedź polerowana. Widząc te lasy, te puste stepy i puste bory, te wszystkie nieznane cuda i ludzi innych, Wawrzon nie mógł wytrzymać i rzekł:
 
