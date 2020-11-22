@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import json
+from librivox_json import get_books
 import sys
 from time_format import time_to_seconds, seconds_to_time
 import urllib.parse
@@ -24,8 +24,16 @@ def good_source(url):
 
 
 if __name__ == '__main__':
-    with open('books/librivox.org/all.json') as f: info = json.load(f)
-    books = list(info['books'].values())
+    books = []
+    for book in get_books('books/librivox.org/all_with_multilingual_sections.json'):
+        if book['language'] == 'Multilingual' and 'sections' in book:
+            for section in book['sections']:
+                section['totaltimesecs'] = int(section['playtime'])
+                section.setdefault('url_text_source', book['url_text_source'])
+                section.setdefault('url_librivox', book['url_librivox'])
+                books.append(section)
+        else:
+            books.append(book)
 
     argvdict = dict(enumerate(sys.argv))
 
