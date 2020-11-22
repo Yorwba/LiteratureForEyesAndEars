@@ -7,16 +7,17 @@ import sys
 
 
 language_codes = {
-    'English': 'eng',
-    'German': 'deu',
-    'Spanish': 'spa',
-    'French': 'fra',
-    'Dutch': 'nld',
-    'Portuguese': 'por-br',
-    'Italian': 'ita',
-    'Russian': 'rus',
     'Ancient Greek': 'grc',
+    'Dutch': 'nld',
+    'English': 'eng',
+    'French': 'fra',
+    'German': 'deu',
+    'Italian': 'ita',
     'Japanese': 'jpn',
+    'Polish': 'pol',
+    'Portuguese': 'por-br',
+    'Russian': 'rus',
+    'Spanish': 'spa',
 }
 
 
