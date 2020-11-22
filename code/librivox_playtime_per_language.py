@@ -5,18 +5,7 @@ import json
 from librivox_json import get_books
 import os.path
 import sys
-
-
-def seconds_to_time(seconds):
-    factors = [60, 60, 24]
-    parts = []
-    left = seconds
-    for factor in factors:
-        parts.append('{:02}'.format(left % factor))
-        left //= factor
-    if left:
-        parts.append(str(left))
-    return ':'.join(parts[::-1])
+from time_format import seconds_to_time
 
 
 if __name__ == '__main__':
