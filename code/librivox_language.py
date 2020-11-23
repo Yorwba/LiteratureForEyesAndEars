@@ -14,6 +14,7 @@ language_codes = {
     'German': 'deu',
     'Italian': 'ita',
     'Japanese': 'jpn',
+    'Latin': 'lat',
     'Polish': 'pol',
     'Portuguese': 'por-br',
     'Russian': 'rus',
