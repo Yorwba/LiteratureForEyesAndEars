@@ -19,25 +19,29 @@ def deparen(text):
         old_text = new_text
 
 
-def people_names(people):
+def by_people(people):
     people = [(p['first_name']+' '+p['last_name']).strip() for p in people]
+    people = [p for p in people if p and not p.lower() == 'anonymous']
     people = people[:-2] + [' and '.join(people[-2:])]
-    return ', '.join(people)
+    people = ', '.join(people)
+    if people:
+        return ' by '+people
+    return people
 
 
 def title(book):
     title = deparen(book['title'])
-    authors = people_names(book['authors'])
+    by_authors = by_people(book['authors'])
     language = book['language']
-    return f'{title} by {authors} | {language} audiobook | Literature for Eyes and Ears'
+    return f'{title}{by_authors} | {language} audiobook | Literature for Eyes and Ears'
 
 
 def intro(book):
     title = deparen(book['title'])
-    authors = people_names(book['authors'])
+    by_authors = by_people(book['authors'])
     language = book['language']
     return f'Practice and perfect your {language} spelling and pronunciation with this ' \
-        f'audiobook of {title} by {authors}. Read and listen at the same time. ' \
+        f'audiobook of {title}{by_authors}. Read and listen at the same time. ' \
         f'Use the translated captions if you need help with difficult vocabulary. ' \
         f"But don't rely on them too much."
 
