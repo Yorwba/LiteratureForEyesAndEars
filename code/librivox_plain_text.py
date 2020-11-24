@@ -14,13 +14,16 @@ import zipfile
 
 ARCHIVE_SRC = re.compile(b'<iframe id="playback" src="([^"]*)"')
 ENCODING = re.compile(b'\nCharacter set encoding: (.*)\n')
-def try_get(url):
+def try_get(url, data=None):
     print('Trying', url, file=sys.stderr)
+    if data and isinstance(data, dict):
+        data = urllib.parse.urlencode(data).encode()
     request = urllib.request.Request(
         url,
         headers={
             'User-Agent': 'Mozilla/5.0 (not really)',
         },
+        data=data,
     )
     with urllib.request.urlopen(request, timeout=5.) as response:
         if 'block.pglaf.org' in response.url:
@@ -182,6 +185,27 @@ def aozora_plain_text(url):
     return text
 
 
+BENYEHUDA_DOWNLOAD_FORM = re.compile(
+    r'<form id="download_form" action="/([^"]*)" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="([^"]*)" />'
+)
+def benyehuda_plain_text(url):
+    http_prefix = 'http://benyehuda.org/'
+    https_prefix = 'https://benyehuda.org/'
+    if not any(url.startswith(p) for p in (http_prefix, https_prefix)):
+        raise Exception("Not a benyehuda.org URL: "+url)
+    html = try_get(url)
+    download_form = BENYEHUDA_DOWNLOAD_FORM.search(html)
+    action = download_form.group(1)
+    authenticity_token = download_form.group(2)
+    return try_get(https_prefix+action, data={
+        "utf8": "✓",
+        "authenticity_token": authenticity_token,
+        "format": "txt",
+        "os": "UNIX",
+        "commit": "הורדה",
+    })
+
+
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
         source = book['url_text_source']
@@ -192,6 +216,7 @@ if __name__ == '__main__':
                 azlibru_plain_text,
                 wikisource_plain_text,
                 aozora_plain_text,
+                benyehuda_plain_text,
         ):
             try:
                 print(handler(source), end='')
