@@ -56,7 +56,8 @@ Kun herastuomarin oritta sitten talutettiin järveen, meni se mielellään, näh
 
 Rannalla seisoi herastuomari ja Salmelan isäntä sekä muutamia muita miehiä katselemassa. Kun vene oli kauimpana rannasta, puhelivat Samu ja Taneli jotakin salaperäistä hiljaisesti ja vilkkaasti keskenänsä, mutta kun vene lähestyi rantaa, alkoivat he äänekkäämmin puhua, tietysti aivan toisia asioita. He molemmat näyttivät jokseenkin vakavilta, vaikka iloinen soitto ja raikas rallatus kuului pihasta:
 
-Käki kukkuu kuusikassa, pienet linnut laulan, Minä lennän leuhottelen kullalleni kaulaan.
+Käki kukkuu kuusikassa, pienet linnut laulan,
+Minä lennän leuhottelen kullalleni kaulaan.
 
 Kotoiset hevoset lennätti Aaro jälleen hakaan, tallikas ja herastuomarin ori talutettiin talliin eri seimelle kumpikin.
 
@@ -94,9 +95,23 @@ Hetvi opetteli tytöille vielä erästä panttileikkiä, jota oli nähnyt siltav
 
 KARJALA.
 
-Kuss' aallot Laatokan vuoriin lyö, Kuss' Imatran innot raukes, Kuss' uurtaa vaaroja Pielisvyö: Siell' ensin silmäni aukes. Siell' leikin lasna ma rantamalla. Siell' lepää heimoni nurmen alla, Ja siellä neitonen Karjalan Sai lempeni leimuamaan.
+Kuss' aallot Laatokan vuoriin lyö,
+Kuss' Imatran innot raukes,
+Kuss' uurtaa vaaroja Pielisvyö:
+Siell' ensin silmäni aukes.
+Siell' leikin lasna ma rantamalla.
+Siell' lepää heimoni nurmen alla,
+Ja siellä neitonen Karjalan
+Sai lempeni leimuamaan.
 
-Siell' elää kansa niin sitkeä Kuin vaahteran latva nuori: Se kyllin saanut on itkeä, Mut vankkana on kuin vuori Se orjana ollut on ounaan herran, Se vaivaa nähnyt on toisen verran Kuin Suomi muu, mut murtumaton Ja hilpeä vielä se on.
+Siell' elää kansa niin sitkeä
+Kuin vaahteran latva nuori:
+Se kyllin saanut on itkeä,
+Mut vankkana on kuin vuori
+Se orjana ollut on ounaan herran,
+Se vaivaa nähnyt on toisen verran
+Kuin Suomi muu, mut murtumaton
+Ja hilpeä vielä se on.
 
 — Mistä sinä olet saanut nuo mukavat värssyt? kysyi isä.
 

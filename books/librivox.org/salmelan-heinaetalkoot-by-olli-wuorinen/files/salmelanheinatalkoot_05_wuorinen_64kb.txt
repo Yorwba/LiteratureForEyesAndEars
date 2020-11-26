@@ -48,7 +48,8 @@ Kaikki vaikenivat. Jokohan Pekka soittaisi Hollolan polskaa.
 
 Pekka asetti viulun perän leukansa alle, avasi suunsa ja lauloi vakaisesti samalla säestäen viululla:
 
-Jo joutui armas aika Ja suvi suloinen!
+Jo joutui armas aika
+Ja suvi suloinen!
 
 Ensimäisen värssyn sai Pekka laulaa yksinään, sillä niin vastakohdalta tuntui tämä sävel sille soitolle mitä Pekalta oli pyydetty, ettei kukaan alussa uskaltanut siihen yhtyä. Mutta jo toista värssyä laulamaan yhtyi muitakin ja vihdoin koko talkooväki veisasi tuota suloista suvivirttä.
 
@@ -58,9 +59,12 @@ Herastuomari ei laulanut. Hän sill'aikaa kirjoitti kuulutusta, joka oli kirkkoo
 
 Kulutus.
 
-Minä Allen Kirioittanu Annan Suren korven Suon valta Ojan Ura-kalla Kaivettavaks Iosta Haluliset Urakka Miehet saap tulla Sopimaa Minun kansani Niin Syriää
+Minä Allen Kirioittanu Annan Suren korven Suon valta Ojan
+Ura-kalla Kaivettavaks Iosta Haluliset Urakka Miehet saap
+tulla Sopimaa Minun kansani Niin Syriää
 
-Risto Tohone Herras Tuomar
+Risto Tohone
+Herras Tuomar
 
 Iosta Tämän kautta ilmoitetaa.
 

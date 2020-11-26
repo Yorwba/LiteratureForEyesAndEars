@@ -26,7 +26,10 @@ Samu ilmoitti talkooväelle työsuunnitelman. Lehtojen vieristä ja pensaiden si
 
 Tytöt olivat jo alkaneet haravoida, mutta kuulivat kuitenkin Tanelin uhmailemisen. Kun Taneli ja Timo reippaasti harppailivat Onkamojoen varrelle päin, alkoivat tytöt yhdestä suusta laulaa tunnettua kansanlaulua tarpeen mukaan muunnettuna:
 
-Älä, Taneli, liejuun mene, Älä Herran tähden! Sinua me rakastamme jokahisen nähden!
+Älä, Taneli, liejuun mene,
+Älä Herran tähden!
+Sinua me rakastamme
+jokahisen nähden!
 
 Älä Taneli...
 
