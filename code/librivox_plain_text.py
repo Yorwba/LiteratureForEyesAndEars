@@ -57,14 +57,16 @@ def try_get(url, data=None):
 
 
 def gutenberg_id(url):
-    prefix = 'http://www.gutenberg.org/ebooks/'
-    if url.startswith(prefix):
-        number = url[len(prefix):]
-        return number
-    prefix = 'http://www.gutenberg.org/etext/'
-    if url.startswith(prefix):
-        number = url[len(prefix):]
-        return number
+    prefixes = [
+        'http://www.gutenberg.org/ebooks/',
+        'https://www.gutenberg.org/ebooks/',
+        'http://www.gutenberg.org/etext/',
+        'https://www.gutenberg.org/etext/',
+    ]
+    for prefix in prefixes:
+        if url.startswith(prefix):
+            number = url[len(prefix):]
+            return number
     raise Exception("Not a Gutenberg.org URL: "+url)
 
 
