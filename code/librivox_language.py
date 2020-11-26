@@ -10,6 +10,7 @@ language_codes = {
     'Ancient Greek': 'grc',
     'Dutch': 'nld',
     'English': 'eng',
+    'Finnish': 'fin',
     'French': 'fra',
     'German': 'deu',
     'Hebrew': 'heb',
