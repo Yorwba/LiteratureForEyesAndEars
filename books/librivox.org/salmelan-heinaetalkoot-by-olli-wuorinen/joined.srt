@@ -1,0 +1,6990 @@
+1
+00:00:00,000 --> 00:00:02,830
+Salmelan heinätalkoot
+
+2
+00:00:02,830 --> 00:00:04,700
+Ensimmäinen luku
+
+3
+00:00:04,700 --> 00:00:08,000
+Kirjoittanut
+Olli Wuorinen
+
+4
+00:00:08,000 --> 00:00:11,050
+Tämä on LibriVox - äänite.
+
+5
+00:00:11,050 --> 00:00:15,380
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+6
+00:00:15,380 --> 00:00:24,990
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+7
+00:00:24,990 --> 00:00:29,440
+Lukijana Harri Tapani Ylilammi
+
+8
+00:00:29,440 --> 00:00:34,340
+Salmelan heinätalkoot
+Ensimmäinen luku
+
+9
+00:00:35,600 --> 00:00:40,340
+Talkoiden pitäminen on jokseenkin tavallista kaikkialla maassamme.
+
+10
+00:00:40,340 --> 00:00:49,930
+Varsin usein pidetään näitä työjuhlia Itä-Suomessa, sillä ne ovat Karjalan kansan hilpeän ja auttavaisen luonteen mukaisia.
+
+11
+00:00:49,930 --> 00:00:56,950
+Jos ken tahtoo jonkun työn pikaisesti tehdyksi, niin on parasta pitää talkoot.
+
+12
+00:00:56,950 --> 00:01:05,570
+Naapurit ja kyläläiset kutsutaan työhön, ruokaa ja juomaa annetaan yllin kyllin, mutta ei mitään palkkaa.
+
+13
+00:01:05,570 --> 00:01:13,300
+Talkoilla sopii teettää melkein mitä työtä hyvänsä, mutta tavallisimmat kaikista ovat viljan leikkuutalkoot.
+
+14
+00:01:13,300 --> 00:01:27,620
+Hyväonniset uskaltavat toki pitää heinätalkoitakin, kun sitävastoin kovaonniset älkööt yrittäkökään, heidän luokonsa sade turmelee, ja niin tulee "langon heiniä" enemmän kuin tarpeeksi.
+
+15
+00:01:29,380 --> 00:01:37,860
+Salmelan varakas talo on sen ihanan salmen rannalla, mikä yhdistää Kukkaropohjan lahden Suurselän järveen.
+
+16
+00:01:37,860 --> 00:01:47,300
+Ikivanhoista ajoista on Salmisen suku siinä asunut, ja onpa siitä suvusta muutamia herraspoluillekin joutunut nimellä Sallmén.
+
+17
+00:01:48,880 --> 00:01:54,970
+Salmelan talon nykyinen isäntä, Antti Salminen, tahtoi koetella heinänteko-onneansa.
+
+18
+00:01:54,970 --> 00:01:59,120
+Urakkamiehillä oli hän niitättänyt Takamaan suuren niityn.
+
+19
+00:01:59,120 --> 00:02:02,760
+Satoja kuormia oli heinää hajallaan luokona.
+
+20
+00:02:02,760 --> 00:02:09,480
+Haravoimaan ja heiniä korjuusen panemaan oli lauantai päiväksi kutsuttu talkooväki.
+
+21
+00:02:11,360 --> 00:02:18,630
+Etenkin emännällä, Salmelan Annilla, oli talkoiden valmistamisessa ollut kaiken viikkoa suuret hommat.
+
+22
+00:02:18,630 --> 00:02:26,900
+Mutta senhän tiesikin edeltäkäsin kaikki, ettei Salmelassa talkooväeltä ruoka ja juoma kesken lopu.
+
+23
+00:02:28,040 --> 00:02:34,840
+Pieni oli Salmelan perhe, jonka tähden talon työt olivatkin parhaastaan vieraalla väellä teetettävät.
+
+24
+00:02:34,840 --> 00:02:43,080
+Paitsi isäntää ja emäntää oli kolmantena jäsenenä perheessä heidän ainoa elossa oleva poikansa Samu.
+
+25
+00:02:43,080 --> 00:02:50,550
+Tämä oli yksikolmatta vuotta täyttänyt, Kurkijoen maanviljelys-opiston läpikäynyt nuorukainen.
+
+26
+00:02:50,550 --> 00:03:01,330
+Renki Mikko ja piika Liisa sekä paimen Aaro olivat palvelijoita, joten tavallisissa oloissa pöytään istuutui vain kuusi henkeä.
+
+27
+00:03:01,330 --> 00:03:06,380
+Kesäiseen aikaan pidettiin lisäksi päiväpalkkalaisia.
+
+28
+00:03:08,280 --> 00:03:13,950
+Samu oli edellisinä päivinä käynyt ympäri kyliä talkooväkeä kutsumassa.
+
+29
+00:03:13,950 --> 00:03:29,800
+Antti isäntä itse oli vartavasten käynyt kunniavieraiksi kutsumassa Toholan herastuomaria tyttärineen Niinisyrjän kylästä, vaikka sinne oli Salmelasta kuusitoista kilometriä, eikä siitä kylästä ketään muita kutsuttu.
+
+30
+00:03:30,820 --> 00:03:38,640
+Heinäkuun heleä aurinko oli jo ennättänyt kohota parin kolmen korennon korkeudelle, kun talkooväki alkoi kokoontua.
+
+31
+00:03:38,640 --> 00:03:42,600
+Jokaisella oli viikate ja harava olalla.
+
+32
+00:03:42,600 --> 00:03:47,150
+Ne, jotka salmen takaa tulivat, noudettiin venheellä.
+
+33
+00:03:47,150 --> 00:03:50,950
+Puolen tunnin kuluessa oli väki saapunut kokoon.
+
+34
+00:03:50,950 --> 00:03:58,300
+Melkein kaikki oli nuorta kansaa, ainoastaan joitakuita vanhanpuoleisia näkyi joukossa.
+
+35
+00:03:58,300 --> 00:04:12,470
+Kutsutuista oli jäänyt tulematta Jyrkän Tuomas, Kärhän Heikki ja Lirikon Maija-Liisa, arvattavasti siitä syystä, kun tiesivät ettei mitään väkevää Salmelassa suuhun tarjota.
+
+36
+00:04:12,470 --> 00:04:16,240
+Mutta eipä heitä täällä kovin kaivattukaan.
+
+37
+00:04:18,080 --> 00:04:32,400
+Sitten kun tulokahvit oli juotu ja voileipää haukkattu, lähdettiin lähellä olevaa Kotanurmea niittämään, koska aamukaste vielä välkkyi lehdillä ja luoko varmaan oli läpi kostea siellä Takamaan niityllä.
+
+38
+00:04:33,400 --> 00:04:50,560
+On näky semmoinen, jota sopii ihaellen katsella, kun seitsemän tahi kahdeksankymmentä reipasta nuorta tyttöä ja poikaa vallan paitahihasillaan kesäkullan armaana aamuna välkkyvine viikatteineen remahtaa aukealle niitylle.
+
+39
+00:04:51,560 --> 00:05:01,590
+Isäntäväen puolesta oli työtä johtamassa Saimi, joka samassa itsekin joukon etupäässä terävällä viikatteellaan suhautteli poikki niityn hempeätä heinää.
+
+40
+00:05:01,590 --> 00:05:11,410
+— Huh, huh, huh, huh, huokasi niitty joka kerran, kun niittäjän viikate armottomasti sivalsi poikki sen kauniita kasvatteja.
+
+41
+00:05:11,410 --> 00:05:21,060
+Mutta mehiläiset, jotka suristen olivat kukissa pyörineet, lensivät hakemaan toisia rauhallisempia kukkais kenttiä ja ahoja.
+
+42
+00:05:22,380 --> 00:05:33,890
+Kun lakeet eli niitto-etuukset oli liitetty raja-aitaan saakka, otettiin tupesta tahi vyönauhan alta kovasimet ja teroitettiin viikatteita.
+
+43
+00:05:33,890 --> 00:05:47,610
+Kohteliaasti kyllä tarjoutuivat pojat "kovaistamaan" tyttöjenkin viikatteita, ja silloin heillä oli tilaisuus puhua joku suloinen sana tahi luoda joku hellä silmäys toinen toisiinsa.
+
+44
+00:05:47,610 --> 00:05:57,380
+— Huh, huh, huh, huh, huokaili taas niitty, ja niin se huhkaen äänteli, kunnes oli kaikki ääriä myöten niitetty.
+
+45
+00:05:59,060 --> 00:06:11,300
+Itse isäntä Antti oli jäänyt kotiin odottamaan Toholan herastuomaria, Risto Tohosta, jonka tyttärestä — sehän oli julkinen salaisuus — toivottiin Salmelaan miniätä.
+
+46
+00:06:13,120 --> 00:06:18,380
+Risto Tohonen herastuomari oli mahtava mies, oikein paikkakunnan pohatta.
+
+47
+00:06:18,380 --> 00:06:24,670
+Pahat kielet kuiskuttelivat ettei kaikki tuo rikkaus ollut oikein rehellisesti ansaittua.
+
+48
+00:06:24,670 --> 00:06:33,390
+Kun Tohonen lainasi köyhemmille rahojaan, oli muka velkakirjaan pantu isompi summa kuin se minkä hän todella antoi.
+
+49
+00:06:33,390 --> 00:06:42,990
+Vaimo oli häneltä kuollut joku vuosi sitten, ja ainoan tyttärensä, kuudenkolmatta vuotiaan Hetvin kanssa piti hän nyt taloutta kunnossa.
+
+50
+00:06:42,990 --> 00:06:54,300
+Hetvi oli aikoinaan käynyt pari vuotta kansakoulua, ollut yhden lukuvuoden Wiipurin tyttökoulussa ja yhden lukukauden Helsingin suomalaisessa tyttökoulussa.
+
+51
+00:06:54,300 --> 00:06:59,200
+Herastuomari tahtoi näet kouluttaa tyttöänsä herrastavalla.
+
+52
+00:06:59,200 --> 00:07:09,730
+Sittemmin oli Hetvi ollut neljä vuotta kihloissa nimismiehen Niilo Löngrénin kanssa, ja siihen aikaan oli Toholassa ollut iso ilo.
+
+53
+00:07:09,730 --> 00:07:24,030
+Herastuomarin suurin ylpeys oli ollut "sinutella" vallesmannia; oli niin mainion mukavata sanoa muiden lautamiesten kuullen: kuule Niilo, tule meille Niilo, joko sinä joudut Niilo?
+
+54
+00:07:24,030 --> 00:07:39,030
+Sillä ajalla oli Niilo Löngrén osannut tulevalta apeltaan keinotella muutamia tuhansia markkoja omaan taskuunsa, hän kun muka tahtoi päästä kaikin mokomin veloistansa ennen oman perheen perustamista.
+
+55
+00:07:39,030 --> 00:07:50,740
+Tokko nimismies selvittyi kaikista veloistansa, on epätietoista, se on vaan tiettyä, että hän viime kesänä toi itselleen rouvan Wiipurista.
+
+56
+00:07:52,640 --> 00:08:00,390
+Hetvistä kun ei vallesmannin rouvaa tullutkaan, alkoi herastuomari Tohonen usein käydä vieraissa Salmelassa.
+
+57
+00:08:00,390 --> 00:08:06,490
+Olipa silloin välistä tullut puheiksi vanhempain kesken heidän lastensa tulevaisuus.
+
+58
+00:08:06,490 --> 00:08:14,720
+Tästäpä selkenee, minkä vuoksi Risto Tohonen tyttärineen talkoihin kutsuttiin Niinisyrjästä saakka.
+
+59
+00:08:14,720 --> 00:08:21,140
+Samu ja Hetvi oli saatettava näissä talkoissa toisiinsa tutustumaan.
+
+60
+00:08:23,640 --> 00:08:26,730
+Ennen aamiaista ennätettiin niittää Kotanurmi.
+
+61
+00:08:26,730 --> 00:08:31,850
+Juovikkaana luokona makasi nyt päivänpaisteessa äsken niitetty heinikko.
+
+62
+00:08:31,850 --> 00:08:44,000
+Ja kun talkooväki pitkien pöytien ääressä hyvällä ruokahalulla ryhtyi ruoka-aineiden kimppuun, niin kävi sekin ainakin yhtä sujuvasti ja yhtä rotevasti kuin äskeinen niittäminen.
+
+63
+00:08:46,120 --> 00:08:51,610
+Musti, talon valpas vartija, rupesi pihalla haukkua vonksuttamaan.
+
+64
+00:08:51,610 --> 00:08:54,680
+Kaikkien silmät kääntyivät ikkunoihin.
+
+65
+00:08:54,680 --> 00:08:56,120
+Aivan oikein!
+
+66
+00:08:56,120 --> 00:09:05,010
+Siellähän herastuomari Risto Tohonen kujatiellä ajoi komealla mustalla oriillaan hetkuvissa kiesseissä tyttärensä Hetvin keralla.
+
+67
+00:09:05,010 --> 00:09:09,520
+Muutaman minuutin perästä saapuivat he loistavasti pihaan.
+
+68
+00:09:10,640 --> 00:09:26,420
+Salmelan isäntä riensi hatutta päin vieraita vastaan ottamaan, ja emäntäkin, kun oli ennättänyt kuumat, voiheraan kastetut piirakat käsistään pöydälle väen eteen lähättää, kiiruhti hänkin arvoisia tulijoita vastaan.
+
+69
+00:09:27,420 --> 00:09:31,620
+Samu osui olemaan talkooväen keskellä pöydän takana syömässä.
+
+70
+00:09:31,620 --> 00:09:37,200
+Hän ei yritellyt mihinkään, eikä sieltä olisi helposti päässytkään pois.
+
+71
+00:09:38,320 --> 00:09:41,310
+Vilkas surina syntyi tyttöjen kesken.
+
+72
+00:09:41,310 --> 00:09:43,570
+— Hetvikin tuli talkoihin.
+
+73
+00:09:43,570 --> 00:09:52,460
+Olisipa tullut muiden kanssa yht'aikaa, niin olisimme nähneet, miten hänen viikatteensa olisi kukkaa kaatanut, virkkoi Tikkalan Mari.
+
+74
+00:09:52,460 --> 00:10:00,100
+— Vielähän tuon Hetvin niittotaidon saamme nähdä, kunhan joutuu tään talon miniäksi, lisäsi Alatuvan Anni.
+
+75
+00:10:00,100 --> 00:10:05,250
+— No, joko siellä teidänkin kylän päässä siitä tiedetään — — äh, äh!
+
+76
+00:10:05,250 --> 00:10:08,220
+Piiraan ryyni yritti menemään henkitorveeni.
+
+77
+00:10:08,220 --> 00:10:10,810
+Vai jo siellä — — äh, äh!
+
+78
+00:10:10,810 --> 00:10:14,220
+— Tiedetään kyllä, vastasi Anni.
+
+79
+00:10:14,220 --> 00:10:21,160
+— Siihen aikaan kuin Hetvi oli vallesmannin rouvaksi tulemaisillaan, ei hän tehnyt mitään talonpoikaista työtä.
+
+80
+00:10:21,160 --> 00:10:28,190
+Rouvaa hänestä ei tullut, ja tuskinpa hän enään kelpaa työntekijäksikään, supatti Suosaaren Suso.
+
+81
+00:10:28,190 --> 00:10:30,320
+— Lihomaankin on kovin ruvennut.
+
+82
+00:10:30,320 --> 00:10:31,570
+Näyttää kuin...
+
+83
+00:10:31,570 --> 00:10:33,700
+— Ei pidä panetella Hetviä!
+
+84
+00:10:33,700 --> 00:10:38,740
+Mistä te hyvät ihmiset tiedätte, mitä Hetvi osaa tehdä mitä ei?
+
+85
+00:10:38,740 --> 00:10:46,040
+Minä olin toissapäivänä viimeksi Toholassa ja näin hänen kyllä toimekkaasti puuhailevan talouden askareissa.
+
+86
+00:10:46,040 --> 00:10:56,210
+Pikaisesti hän kiersi kirnua, voi syntyi neljännestunnissa, mutta sitten olikin tyttö punainen kuin mansikka, sanoi Hietalan Hilma.
+
+87
+00:10:56,210 --> 00:10:57,530
+— Ahaa!
+
+88
+00:10:57,530 --> 00:10:59,840
+Vieras kuulee, mistä tuulee!
+
+89
+00:10:59,840 --> 00:11:02,820
+Hilma nähtävästi puhuu pussiinsa päin.
+
+90
+00:11:02,820 --> 00:11:15,660
+Hetvi on varmaan antanut hyvästi kirnujaisia, ehkäpä paitakankaan tahi kaulahuivin, jotta tämä sitte muille kehuisi häntä, höpisi Mörskyn Marketta, eräs vanha piika.
+
+91
+00:11:15,660 --> 00:11:18,520
+Vedet kihahti Hilman silmiin.
+
+92
+00:11:18,520 --> 00:11:23,400
+Kaikki tytöt huomasivat, että Marketta tahallaan tahtoi loukata.
+
+93
+00:11:23,400 --> 00:11:28,240
+Naisväen puolella syntyi hetkiseksi äänettömyys.
+
+94
+00:11:29,420 --> 00:11:33,610
+Miesten ja poikien kesken kulki puhelu varsin toista tolaa.
+
+95
+00:11:33,610 --> 00:11:42,440
+Puheltiin Sortavalan markkinoista, hevosten hinnoista, rautatien hommasta, viljan kasvusta ynnä muusta.
+
+96
+00:11:42,440 --> 00:11:52,350
+Näitä keskusteluja höysti milloin enemmän milloin vähemmän onnistuneilla sukkeluuksilla ja kokkasanoilla Törsövän Taneli.
+
+97
+00:11:52,350 --> 00:11:57,840
+Kun Taneli oikeaan oksaan osasi, nauroi hohotti koko miesväki.
+
+98
+00:11:57,840 --> 00:12:03,460
+— Osaa se vanha kaartilainen lasketella, sanottiin.
+
+99
+00:12:04,500 --> 00:12:15,340
+Taneli Tapanainen oli hänen oikea nimensä, mutta sanottiin aina kylän kesken Törsövän Taneliksi, kun kotinsa pieni ruunun talo oli Törsövän lammen rannalla.
+
+100
+00:12:15,340 --> 00:12:20,170
+Kaunis, mustatukkainen ja mustaviiksinen, kolmenkymmenen vanha mies.
+
+101
+00:12:20,170 --> 00:12:31,940
+Oli muutamia vuosia palvellut vapaaehtoisena kaartissa, mutta eronnut siitä, hänen oli muka sääli ja synti syödä ruunun ruokaa, kun ei ollut sotimista eikä tappelemista.
+
+102
+00:12:31,940 --> 00:12:38,510
+Yhdeksänsataa markkaa olisi ruununvouti markkinoilla antanut herastuomarille tuosta oriista.
+
+103
+00:12:38,510 --> 00:12:44,340
+Ei myynyt rikas mies, umpinaista tuhatta pyysi, tiesi Pirhosen Kalle.
+
+104
+00:12:44,340 --> 00:12:55,590
+— Lappeenrannan rakuunarykmentille kuuluu ruununvouti oritta ostelleen, lisäsi Timo Terhakka, iloinen, pystynenäinen poika.
+
+105
+00:12:55,590 --> 00:13:06,830
+— Ei se herastuomari orittansa myy, vaan lahjoittaa sen tulevalle vävypojalleen, virkkoi Törsövän Taneli, luoden silmänsä Samuun päin.
+
+106
+00:13:06,830 --> 00:13:10,730
+Samu ei ollut kuulevinaan Tanelin pakinaa.
+
+107
+00:13:10,730 --> 00:13:15,450
+Hänen korvaansa oli sattunut Hietalan Hilman ja Mörskyn Marketan sanat.
+
+108
+00:13:15,450 --> 00:13:20,840
+Vilkaistuaan sinnepäin huomasi hän Hilman punastuneena vesissä silmin.
+
+109
+00:13:20,840 --> 00:13:25,220
+Hilma Hietanen oli Salmelan torpparin tytär.
+
+110
+00:13:25,220 --> 00:13:28,560
+Hän oli vast'ikään seitsemäntoista vuotta täyttänyt.
+
+111
+00:13:28,560 --> 00:13:37,840
+Iho oli hänellä hieno, melkein läpikuultava; tukka tuuhea, vaaleankeltainen; silmät suuret, taivaansiniset.
+
+112
+00:13:37,840 --> 00:13:46,440
+Hän oli ylhäisemmän kansakoulun läpikäynyt ja ollut viime talvena kiertävässä käsityö – ja kutomakoulussa.
+
+113
+00:13:46,440 --> 00:13:54,660
+Monta monituista kertaa oli Samu häntä pienenä lennätellyt talvella kelkassaan, kesällä pikkuisissa käsikärryissään.
+
+114
+00:13:54,660 --> 00:14:03,240
+Sievänä tyttönä oli Samu häntä aina pitänyt, mutta sievemmälle kuin koskaan ennen näytti hänestä Hilma nyt.
+
+115
+00:14:04,900 --> 00:14:09,020
+Sillävälin oli herastuomari tyttärineen saatettu kamariin.
+
+116
+00:14:09,020 --> 00:14:17,330
+Emäntä tarjosi paikalla tulijaiskahvia, mutta Hetvi vastusteli, sanoen olevan itsellään helteen muutoinkin.
+
+117
+00:14:17,330 --> 00:14:24,860
+Puolen kuppia hän toki kohteliaisuuden vuoksi joi, kaasi toisen puolen kahvia isänsä kuppiin.
+
+118
+00:14:24,860 --> 00:14:30,120
+Herastuomari nauroi vaan ja sanoi: kyllä tänne sopii.
+
+119
+00:14:31,340 --> 00:14:36,510
+Ruokaa pantiin pöydälle kamariin, koska tuvassa oli vieläkin lämpimämpi ilma.
+
+120
+00:14:36,510 --> 00:14:42,440
+Kunnia-vieraita kehoitettiin tyytymään talon yksinkertaisiin laitoksiin.
+
+121
+00:14:44,540 --> 00:14:49,690
+Ruualta päästyä pistäysi Samu kamarissa vieraita tervehtimässä.
+
+122
+00:14:49,690 --> 00:14:58,230
+Kun talkooväki ruualta noustua tuli pihalle, kaatoi emäntä paraikaa isosta tuohikontista kaloja saaviin.
+
+123
+00:14:58,230 --> 00:15:00,400
+— Kuka kaloja on tuonut?
+
+124
+00:15:00,400 --> 00:15:02,540
+kysyi Törsövän Taneli.
+
+125
+00:15:02,540 --> 00:15:06,650
+— Kukas muu kuin herastuomari, vastasi emäntä.
+
+126
+00:15:06,650 --> 00:15:12,430
+Samassa ilmestyi siihen herastuomari itsekin, alkoi nauraen pakista:
+
+127
+00:15:12,430 --> 00:15:20,150
+— Näettekös naapurit, eihän kaikki yhtä tee: toinen niittää, toinen kalastaa, yhteen hyvä tulee.
+
+128
+00:15:20,150 --> 00:15:21,590
+Eikös niin?
+
+129
+00:15:21,590 --> 00:15:23,510
+— Oivallisia ahvenia.
+
+130
+00:15:23,510 --> 00:15:25,640
+Millä pyydyksellä te niitä saitte?
+
+131
+00:15:25,640 --> 00:15:27,420
+kysyi joku.
+
+132
+00:15:27,420 --> 00:15:29,660
+— Milläkö pyydyksellä?
+
+133
+00:15:29,660 --> 00:15:33,200
+Tietysti hopeaongella, hopeaongella.
+
+134
+00:15:33,200 --> 00:15:44,870
+Minun onkin näetten tapana kalastaa vaan hopeaongella tahi kultaongella, hohotteli Risto Tohonen, jotta sieraimet pörhistyivät ja kulmakarvat hypähtelivät.
+
+135
+00:15:44,870 --> 00:15:47,280
+— Öh — öh, öhhöm!
+
+136
+00:15:47,280 --> 00:15:51,290
+yski Törsövän Taneli ja iski silmää muille.
+
+137
+00:15:51,290 --> 00:16:03,110
+Valitettavasti ei herastuomari ymmärtänyt Törsövän Tanelin yskää, vaan kehui kehumistaan hopea – ja kultaonkiaan, se on: hopea – ja kultarahojaan.
+
+138
+00:16:03,110 --> 00:16:11,660
+Taneli oli sytyttänyt piippunsa ja pullautteli huolettomasti aimo savupilviä suustaan, mutta sitten hän sanoi:
+
+139
+00:16:11,660 --> 00:16:17,240
+— Kyllähän hopeaonki on oiva kapine, kultaonki vielä parempi, tietysti.
+
+140
+00:16:17,240 --> 00:16:23,080
+Paremmin ne antaa kaloja kuin muut pyydykset, mutta ei niillä sittenkään kaikkia kaloja saa.
+
+141
+00:16:23,080 --> 00:16:28,150
+On kalavekamoita semmoisia, mitkä eivät kultakoukkuunkaan tartu.
+
+142
+00:16:28,150 --> 00:16:38,560
+Eräskin mies onki kerran hopea – ja kultakoukuilla oikein liukasta ruunun matikkaa, mutta se ryökäle vei koukut ja kompeet, eikä antautunutkaan saaliiksi.
+
+143
+00:16:38,560 --> 00:16:42,090
+Syötinkin kakasi pois suustansa, peijakas.
+
+144
+00:16:42,090 --> 00:16:45,190
+Vai onkimaretkillä sitä ollaan!
+
+145
+00:16:45,190 --> 00:16:50,320
+Tuntui niinkuin sähkövirta olisi värähtänyt jokaisen sydämen läpi.
+
+146
+00:16:50,320 --> 00:16:58,360
+Levottomina, kauhistuneina odotettiin suurta räjähdystä herastuomarin puolelta, mutta sitä ei tullutkaan.
+
+147
+00:16:58,360 --> 00:17:03,020
+Risto Tohonen kalveni ja punastui, punastui ja kalveni.
+
+148
+00:17:03,020 --> 00:17:09,900
+Pyörähti sitten kamariin, jossa Hetvi vielä söi mansikkamaitoa, ja sanoi itsekseen päättävästi:
+
+149
+00:17:09,900 --> 00:17:11,930
+— Kyllä se on totta.
+
+150
+00:17:11,930 --> 00:17:14,000
+— Isä, mikä on totta?
+
+151
+00:17:14,000 --> 00:17:15,480
+kysyi Hetvi.
+
+152
+00:17:15,480 --> 00:17:23,370
+— Se on totta lapseni, mitä Törsövän Taneli, tuo entinen kaartilainen, pihalla sanoi, oli vastaus.
+
+153
+00:17:23,370 --> 00:17:30,410
+Isänsä äänessä huomasi Hetvi jotain erinäistä, eikä hän sentähden tahtonut pitemmältä kysellä.
+
+154
+00:17:30,410 --> 00:17:37,770
+Antti Salminen aikoi ensin mennä herastuomarin jälestä kamariin, mutta pysähtyi kuitenkin pihalle.
+
+155
+00:17:37,770 --> 00:17:41,130
+Sanoi sitten hämmästyksestä toinnuttuaan:
+
+156
+00:17:41,130 --> 00:17:44,140
+— Sattuu sitä maailmassa kaikellaista.
+
+157
+00:17:44,140 --> 00:17:47,910
+Näinköhän herastuomari lähtee nyt paikalla pois?
+
+158
+00:17:47,910 --> 00:17:51,690
+Herastuomari pysähtyi kuitenkin kamariin.
+
+159
+00:17:51,690 --> 00:18:03,190
+Isäntä kehoitti nyt vanhempia ihmisiä jäämään Kotanurmelle heiniä pöyhöttelemään ja, jos ilma myöntää, iltapäivällä ru'oille panemaan.
+
+160
+00:18:03,190 --> 00:18:12,640
+Hän nimitteli kahdeksan henkeä, jotka olivat iältään vanhempia ja joita ei tahdottu rasittaa kävelemisellä Takamaan niitylle saakka.
+
+161
+00:18:12,640 --> 00:18:16,580
+Olihan sinne matkaa kolme tai neljä kilometriä.
+
+162
+00:18:16,580 --> 00:18:19,500
+— Saanko minäkin jäädä Kotanurmelle?
+
+163
+00:18:19,500 --> 00:18:23,510
+kysyi Pekka Juntunen, nuorimies, kalpeakasvoinen.
+
+164
+00:18:23,510 --> 00:18:34,510
+— Saat, tietysti, jos haluat, ja pidä sinä Pekka sitten huolta, että on vieraan hevosella ja meidän omalla "tallikkaalla" hyvää heinää edessä, vastasi isäntä.
+
+165
+00:18:34,510 --> 00:18:37,380
+Pekka Juntunen oli "heränneitä."
+
+166
+00:18:37,380 --> 00:18:45,890
+Hänen arka omatuntonsa huomasi synniksi semmoisiakin seikkoja, jotka tavallisesta ihmisestä näyttivät varsin viattomilta.
+
+167
+00:18:45,890 --> 00:18:51,050
+Nuorten iloista seuraa ja etenkin tanssia hän kammoksui.
+
+168
+00:18:51,050 --> 00:18:57,140
+Tallikas oli siihen ikään päässyt orivarsa, minkä laki estää laitumelta.
+
+169
+00:18:57,140 --> 00:19:04,840
+Hetvikin yritti lähtemään Takamaan niitylle, mutta emäntä otti ystävällisesti kädestä kiinni ja sanoi:
+
+170
+00:19:04,840 --> 00:19:13,740
+— Jää, lapsikulta, kotiin minun avukseni, kyllähän arvaan, että nuorten parissa olisi hupaisempi, mutta minä tarvitsisin apuasi.
+
+171
+00:19:13,740 --> 00:19:22,950
+Ensin laadimme päivällis-eväät, jotka renki Mikko kärryillä ja hevosilla saattaa niitylle, sitten valmistamme illallista talkooväelle.
+
+172
+00:19:22,950 --> 00:19:28,600
+Niin, jos ei vaan ole kovin mielesi paha, niin jää kotiin minun avukseni.
+
+173
+00:19:28,600 --> 00:19:35,420
+— Minähän olen tullut talkoihin ja teen sitä työtä, mitä annetaan, vastasi Hetvi.
+
+174
+00:19:35,420 --> 00:19:53,020
+Oikeastaan esteli emäntä Hetviä sentähden, ettei tämä olisi sattunut joltakin tyttöhupakolta kuulemaan tuota Törsövän Tanelin kamalaa kalajuttua, ja vielä senkin vuoksi, että sitten oli aikaa ja tilaisuutta osoitella Hetville talon rikkauksia.
+
+175
+00:19:53,020 --> 00:19:56,500
+Talkooväki olikin jo pihasta poistunut.
+
+176
+00:19:56,500 --> 00:20:04,190
+Pääjoukko riensi haravat ja hangot olalla kapeaa ja mutkikasta metsäpolkua Takamaan niittyä kohti.
+
+177
+00:20:04,190 --> 00:20:10,850
+Toista pitempää ja parempaa tietä olivat eväät ja häkkireet sinne kuljetettavat.
+
+178
+00:20:10,850 --> 00:20:16,980
+Matkalla huomasi Samu, että pojilla oli jotain keskusteltavaa hänestä salaa.
+
+179
+00:20:16,980 --> 00:20:22,430
+Hän antoi heille siihen tilaisuutta, jättäytyen vähän jälemmäksi astumaan.
+
+180
+00:20:22,430 --> 00:20:27,000
+Törsövän Tanelin käytös tuli nyt arvostelun alaiseksi.
+
+181
+00:20:27,000 --> 00:20:30,270
+Yksi sanoi yhtä toinen toista.
+
+182
+00:20:30,270 --> 00:20:41,220
+Yleinen mielipide oli kuitenkin se, että Taneli menetteli kovin sopimattomasti loukatessaan talonväen ystävää ja tulevaa lankoa, herastuomaria.
+
+183
+00:20:41,220 --> 00:20:52,050
+Kyllähän se sattui tavattoman hyvästi, sattui aivan kuin vasara naulan päähän — arveltiin —, mutta isku oli kova, helkkunan kova.
+
+184
+00:20:52,050 --> 00:20:54,500
+Puolikin siitä olisi jo riittänyt.
+
+185
+00:20:54,500 --> 00:21:01,200
+Lohduttavinta kuitenkin oli heistä se, ettei Samu näyttänyt olevan asiasta milliinsäkään.
+
+186
+00:21:02,700 --> 00:21:07,970
+Taneli kuunteli erinomaisen maltillisesti kumppaneinsa arvosteluja ja nuhteita.
+
+187
+00:21:07,970 --> 00:21:11,010
+Hän näytti alakuloiselta ja masentuneelta.
+
+188
+00:21:11,010 --> 00:21:12,950
+Vihdoin hän virkkoi:
+
+189
+00:21:12,950 --> 00:21:19,040
+— Todellakin, kun tarkemmin asiaa ajattelen niin huomaan, että te kaikki olette oikeassa.
+
+190
+00:21:19,040 --> 00:21:23,120
+Tuhmasti minä tein, siitä ei pääse puuhun ei papuun.
+
+191
+00:21:23,120 --> 00:21:25,220
+Kuulkaa, ystävät ja veljet!
+
+192
+00:21:25,220 --> 00:21:36,200
+Minä romahdan koko tämän talkooväen läsnäollessa herastuomarin eteen polvilleni, ja pyydän anteeksi rikoksestani toista puolta, sitä liikaa osaa nimittäin.
+
+193
+00:21:36,200 --> 00:21:38,050
+Niin minä teen!
+
+194
+00:21:38,050 --> 00:21:40,430
+— Älä hulluttele, Taneli!
+
+195
+00:21:40,430 --> 00:21:45,400
+Siten pilautuisi asia kahta kauheammaksi, sanottiin.
+
+196
+00:21:46,680 --> 00:21:53,820
+Tytöt. kuultuansa mistä poikien kesken oli pakinoitu, rupesivat hekin Tanelin käytöstä arvostelemaan julkisemmin.
+
+197
+00:21:53,820 --> 00:21:57,490
+Salavihkaa olivat he tähän asti supatelleet ja tyrskineet.
+
+198
+00:21:57,490 --> 00:22:00,390
+He olivat varsin toista mieltä kuin pojat.
+
+199
+00:22:00,390 --> 00:22:04,960
+Ylpeälle herastuomarille oli muka kerrankin totuus sanottu vasten silmiä.
+
+200
+00:22:04,960 --> 00:22:06,480
+Sen se sietikin.
+
+201
+00:22:06,480 --> 00:22:12,060
+Sellaista poikaa kuin Taneli eivät luulleet toista löytyvän koko pitäjässä.
+
+202
+00:22:12,060 --> 00:22:24,040
+Mörskyn Marketan ilo olisi sitten vasta ollut oikein täydellinen, jos Hetvikin, tuo "ruunun matikan syötti," olisi ollut kuulemassa mitä Törsövän Taneli sanoi.
+
+203
+00:22:25,120 --> 00:22:31,230
+Kun tytöt huomasivat, että Samu jättäytyi jälemmäksi, luulivat he hänen Hetviä vartoilevan.
+
+204
+00:22:31,230 --> 00:22:38,430
+Mutta kun Samu saapui poikajoukkoon, eikä Hetviä näkynyt, syntyi tyttöjen kesken tälläistä supinata:
+
+205
+00:22:38,430 --> 00:22:44,590
+— Jokohan Hetvi pitänee itseään Salmelan talon emäntänä, kun ei näy tulevankaan niitylle.
+
+206
+00:22:44,590 --> 00:22:50,750
+— Olenhan minä aina sanonut ja sanon vieläkin, ettei se Toholan tytär järkityöhön pysty.
+
+207
+00:22:50,750 --> 00:22:56,590
+— Eikä miekkosen tarvitse tälläisiin töihin pystyäkään, elää kuin Herran enkeli.
+
+208
+00:22:56,590 --> 00:23:03,640
+— Vai lienee hänkin jäänyt Kotanurmelle vanhojen pariin, tahi Pekka Juntusen ratoksi, haha ha!
+
+209
+00:23:03,640 --> 00:23:06,760
+— Vanhaltahan tuo Hetvi jo näyttääkin.
+
+210
+00:23:06,760 --> 00:23:12,840
+Ainakin hän näyttää kymmentä vuotta vanhemmalta kuin Samu, huomautti Mörskyn Marketta.
+
+211
+00:23:12,840 --> 00:23:22,400
+— Onhan tyttöjä, jotka näyttävät viittäkymmentäkin vuotta vanhemmalta Samua, lisäsi ikäänkuin itsekseen Hietalan Hilma.
+
+212
+00:23:22,400 --> 00:23:24,820
+Voi tuli ja leimaus!
+
+213
+00:23:24,820 --> 00:23:30,430
+Marketta suuttui silmittömästi, hän rätisi kuin palava katajapensas.
+
+214
+00:23:30,430 --> 00:23:33,570
+— Kaikki lapsirievut tässä kielenpieksäjänä!
+
+215
+00:23:33,570 --> 00:23:38,520
+Ei enään kunnon ihmiset saa sanaa sanotuksi, kaikki tässä silmille hyppii!
+
+216
+00:23:38,520 --> 00:23:41,750
+Eiköhän tuo ylpeys käyne lankeemuksen edellä!
+
+217
+00:23:41,750 --> 00:23:44,280
+Niin luulen, niin toivon!
+
+218
+00:23:44,280 --> 00:23:47,640
+Sellaista tuli oikeen pitkältä ja paksulta.
+
+219
+00:23:47,640 --> 00:23:50,400
+Mutta Hilma ei ollut millänsäkään.
+
+220
+00:23:50,400 --> 00:23:55,100
+Hän oli saanut panettelut häädetyksi ja sitäpä oli tarkoittanutkin.
+
+221
+00:23:55,100 --> 00:24:08,580
+Sekä kotona että kansakoulussa oli Hilmaa opetettu hyvää puhumaan ja ajattelemaan lähimäisestänsä, ja kun kielilakkarit panettelevat, silloin on hänen kunniaansa puolustettava.
+
+222
+00:24:08,580 --> 00:24:14,150
+Niin oli Hilmaa opetettu, ja sellaisen opetuksen oli hän sydämeensä kätkenyt.
+
+223
+00:24:14,150 --> 00:24:21,260
+Pojatkin kuulivat Marketan rätisemisen, mutta eivät viitsineet ottaa selkoa suuttumisen aiheesta.
+
+224
+00:24:21,260 --> 00:24:25,370
+Tunnettiinhan Marketta, vähästähän se suuttui.
+
+225
+00:24:25,370 --> 00:24:28,880
+Ensimmäisen luvun loppu
+
+226
+00:24:35,460 --> 00:24:37,510
+Salmelan heinätalkoot
+
+227
+00:24:37,510 --> 00:24:39,030
+Toinen luku
+
+228
+00:24:39,030 --> 00:24:42,430
+Kirjoittanut
+Olli Wuorinen
+
+229
+00:24:42,430 --> 00:24:45,490
+Tämä on LibriVox - äänite.
+
+230
+00:24:45,490 --> 00:24:49,820
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+231
+00:24:49,820 --> 00:24:59,430
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+232
+00:24:59,430 --> 00:25:03,900
+Lukijana Harri Tapani Ylilammi
+
+233
+00:25:03,900 --> 00:25:08,400
+Salmelan heinätalkoot
+Toinen luku
+
+234
+00:25:10,560 --> 00:25:13,610
+Talkooväki oli jo Takamaan niityllä.
+
+235
+00:25:13,610 --> 00:25:17,440
+Kolme tyhjää latoa siellä odotti täyttämistänsä.
+
+236
+00:25:17,440 --> 00:25:29,870
+Laajaa niittyä rajoitti toiselta puolen Lehtovaaran korkea harju, toiselta puolen mutkikas, liejurantainen Onkamojoki, joka laski vetensä Kukkaropohjan lahteen.
+
+237
+00:25:29,870 --> 00:25:33,060
+Ilma oli tyyni ja kirkas.
+
+238
+00:25:33,060 --> 00:25:44,650
+Jos katsoi Lehtovaaran rinnettä kohti, niin näytti ilma vienosti vipattavan, arvattavasti maasta kohoavain vesihöyryjen vaikutuksesta.
+
+239
+00:25:44,650 --> 00:25:51,300
+Aurinko oli melkein korkeimmillaan ja lähetti lämpöiset säteensä kuivaamaan paksua luokoa.
+
+240
+00:25:51,300 --> 00:25:59,230
+Keveät kesäröijyt ja takit ripustettiin oksiin lähelle sitä paikkaa, mikä vanhastaan oli ruokasijana pidetty.
+
+241
+00:25:59,230 --> 00:26:06,600
+Siihen paikkaanpa Mikkokin tiesi eväät tuoda, kunhan joutui sitä pitempää tietä niitylle.
+
+242
+00:26:08,080 --> 00:26:11,200
+Samu ilmoitti talkooväelle työsuunnitelman.
+
+243
+00:26:11,200 --> 00:26:19,800
+Lehtojen vieristä ja pensaiden siimeksistä oli ensin haravoitava ja kannettava heinät lakealle kuivamaan.
+
+244
+00:26:19,800 --> 00:26:26,820
+Pari poikaa laitettiin Onkamojoen varrelta veteliköstä haravoimaan ja kantamaan pois heinät kuivalle nurmelle.
+
+245
+00:26:26,820 --> 00:26:40,530
+Kolme miestä määrättiin hankkimaan pieleksen sankapuita ja tukia, sillä senhän näki, etteivät kaikki Takamaan niityn heinät tänä vuonna latoihin mahtuisi, vaan oli pieleskin tehtävä.
+
+246
+00:26:40,530 --> 00:26:50,890
+— Lähtekäämme me, Taneli, vetelemään heinät pois Onkamojoen hetteistä, sanoi Timo Terhakka nyreissään olevalle Törsövän Tanelille.
+
+247
+00:26:50,890 --> 00:26:52,930
+— Lähtekäämme vaan!
+
+248
+00:26:52,930 --> 00:26:54,300
+virkkoi Taneli.
+
+249
+00:26:54,300 --> 00:27:00,440
+Tytöt älkööt tulkokaan sille puolelle maailmaa, sillä meidän täytyy riisua koipiverhot pois.
+
+250
+00:27:00,440 --> 00:27:04,710
+Ja sittenkun heinät on saatu kauniisti kuivalle, sitten minä...
+
+251
+00:27:04,710 --> 00:27:06,440
+— Mitä sinä?
+
+252
+00:27:06,440 --> 00:27:09,670
+— Sitten minä syöksyn suin päin liejuun.
+
+253
+00:27:09,670 --> 00:27:11,540
+Syöksyn kun syöksynkin!
+
+254
+00:27:11,540 --> 00:27:22,860
+Sittenpä ei näiden potrain poikain aika kulu hakiessa myllynkiveä kaulaan ripustettavaksi, eikä heidän tarvitse vaivata itseään hukuttaessaan minua pahennusteni tähden.
+
+255
+00:27:22,860 --> 00:27:29,590
+Lähtekäämme vaan, Timo, korjatkaamme heinät kuivalle, ja sitten minä syöksyn liejuun.
+
+256
+00:27:29,590 --> 00:27:33,110
+Kyllä minä tunnen Onkamojoen hetteet.
+
+257
+00:27:33,110 --> 00:27:40,060
+Siellä on paikkoja, lietteen silmiä, joihin voipi lykätä pitkän riu'un kuulumattomiin.
+
+258
+00:27:40,060 --> 00:27:42,110
+Sellaiseen minä syöksyn.
+
+259
+00:27:42,110 --> 00:27:46,110
+Sorot ja kuplat ne vaan pulpahtelevat pojan jälestä.
+
+260
+00:27:46,110 --> 00:27:51,940
+Tytöt olivat jo alkaneet haravoida, mutta kuulivat kuitenkin Tanelin uhmailemisen.
+
+261
+00:27:51,940 --> 00:28:04,400
+Kun Taneli ja Timo reippaasti harppailivat Onkamojoen varrelle päin, alkoivat tytöt yhdestä suusta laulaa tunnettua kansanlaulua tarpeen mukaan muunnettuna:
+
+262
+00:28:04,400 --> 00:28:07,110
+Älä, Taneli, liejuun mene,
+
+263
+00:28:07,110 --> 00:28:08,580
+Älä Herran tähden!
+
+264
+00:28:08,580 --> 00:28:10,180
+Sinua me rakastamme
+
+265
+00:28:10,180 --> 00:28:11,910
+jokahisen nähden!
+
+266
+00:28:11,910 --> 00:28:13,390
+Älä Taneli...
+
+267
+00:28:13,390 --> 00:28:15,250
+— Helei, heleijaa!
+
+268
+00:28:15,250 --> 00:28:18,230
+huusi Törsövän Taneli riemuissaan.
+
+269
+00:28:18,230 --> 00:28:27,080
+"Hukuttakoon piru tänäpäivänä itsensä liejuun, vaan ei tämä poika hukuta itseään niin kauvan kuin tuollaisia tyttöjä on maailmassa!
+
+270
+00:28:27,080 --> 00:28:35,670
+En, koira vieköön, syöksykään liejuun, täytyyhän vielä tänä iltana tanssia tepastella noiden armaiden tyttölasten kanssa!
+
+271
+00:28:35,670 --> 00:28:36,910
+Hih, hei!
+
+272
+00:28:36,910 --> 00:28:39,420
+Elämä tuntuu vielä elämälle!"
+
+273
+00:28:39,420 --> 00:28:45,380
+Taneli oikein hypähteli, ponnahteli ja pyörähteli nurmen sängellä.
+
+274
+00:28:45,380 --> 00:28:53,550
+Tanelin riemastukselle nauroivat nyt sekä tytöt että pojat, nauroivat niin, että Lehtovaaran rinne raikui.
+
+275
+00:28:53,550 --> 00:28:58,870
+— Kyllä se vanha kaartilainen asioistansa selviää, sanottiin.
+
+276
+00:28:58,870 --> 00:29:01,360
+Vilkaasti liikkuivat haravat.
+
+277
+00:29:01,360 --> 00:29:03,650
+Nopeasti joutui työ.
+
+278
+00:29:03,650 --> 00:29:06,250
+Iloisa oli elämä.
+
+279
+00:29:06,250 --> 00:29:21,510
+Kun Timo Terhakka ja Törsövän Taneli olivat Onkamojoen veteliköistä heinät haravoineet ja kuivalle nurmelle levitelleet, tulivat hekin muiden luo työhön ja toivat terveisiä — Tuonelan joelta ja toisen maailman ääreltä.
+
+280
+00:29:21,510 --> 00:29:29,250
+Silloin tällöin löytyi haravoidessa mehiläispesä ja onnellista löytäjää ympäröitsi silloin lähelläolijat.
+
+281
+00:29:29,250 --> 00:29:36,460
+— Kissahan yksin saaliinsa syö, annapas tuota herkkua toisenkin hyvään suuhun, sanottiin.
+
+282
+00:29:36,460 --> 00:29:42,170
+Tällaiset pikku kohtaukset olivat omansa pitämään mieliä parhaimmalla tuulella.
+
+283
+00:29:42,170 --> 00:29:46,340
+Samu osoitti olevansa toimellinen työnjohtaja.
+
+284
+00:29:46,340 --> 00:29:53,990
+Tyynesti ja levollisesti sanoi hän sanottavansa, ja sen vuoksi väki tekikin mieluisasti tehtävänsä.
+
+285
+00:29:53,990 --> 00:30:04,080
+Kun hän huomasi jonkun haravoidessaan jättävän heiniä jälelle, sieppasi hän itse nuo jälelle jätetyt heinät haravallaan pois ja toi karheesen.
+
+286
+00:30:04,080 --> 00:30:15,380
+Silloin ei Samu virkkanut sanaakaan, mutta asian-omaiset huomasivat, että heidän työnsä oli hatarasti tehty, koska Samun täytyi jälkiä parsia.
+
+287
+00:30:15,380 --> 00:30:17,720
+Parannus tehtiin.
+
+288
+00:30:17,720 --> 00:30:23,550
+Ennen päivällistä oli koko suuri Takamaan niitty täynnä pitkiä heinäkarheita.
+
+289
+00:30:23,550 --> 00:30:31,290
+Ne jätettiin vielä ruoka-ajaksi kuivumaan, koska ilma oli sen laatuinen, ettei sadetta luultu tulevan.
+
+290
+00:30:31,290 --> 00:30:34,640
+— Talkooväki hoi, ruokakello soi!
+
+291
+00:30:34,640 --> 00:30:42,750
+huusi Samu, sillä hän muisti kuinka suloiselta maanviljelys-koulun ruokakellon soiminen tuntui kuumana työpäivänä.
+
+292
+00:30:42,750 --> 00:30:47,580
+Helteisinä ja punaposkisina kokoontuivat kaikki ruokasijaan.
+
+293
+00:30:47,580 --> 00:30:50,330
+Haravat lyötiin pystyyn seisomaan.
+
+294
+00:30:50,330 --> 00:30:57,800
+Huolellisesti ravistelivat tytöt paidanhihoihin ja hameenhelmoihin tarttuneet heinän helpeet ja rikat.
+
+295
+00:30:57,800 --> 00:31:06,350
+Pojat tuollaisista siivouksista vähän välittivät: eiväthän ne muutamat heihin tarttuneet heinänkorret paljoa painaneet.
+
+296
+00:31:06,350 --> 00:31:14,180
+Pielespuiden hakkaajat tulivat myöskin: viimeisenä astui Vieremän Jussi, eräs vanha poika.
+
+297
+00:31:14,180 --> 00:31:23,880
+He olivat pieleksen aita-puutkin valmiiksi hankkineet ja nakkasivat nyt kirveensä kärryjen alle, siitähän ne helposti löytyvät.
+
+298
+00:31:25,120 --> 00:31:28,350
+Tuohikontit ja pärekorit avattiin.
+
+299
+00:31:28,350 --> 00:31:38,440
+Tasaiselle nurmen sängelle asetettiin leivät, piirakat, paistetut kalat, voirasiat, maitokupit ja kaljahaarikat.
+
+300
+00:31:38,440 --> 00:31:44,760
+Somiin ryhmiin asettui väkijoukko tuuheain koivujen siimekseen istumaan.
+
+301
+00:31:46,080 --> 00:31:48,540
+Törsövän Taneli vielä seisoi.
+
+302
+00:31:48,540 --> 00:31:57,690
+Hän nojasi selkänsä isoa koivua vasten, tuijotti ajattelevaisen näköisesti eteensä, käsivarret ristissä rinnalla.
+
+303
+00:31:57,690 --> 00:32:05,620
+— Noo, Taneli veikkonen, niinhän sinä seisot kuin "vakava tinasotamies", se erään sadun urho.
+
+304
+00:32:05,620 --> 00:32:12,640
+Niin, tuumailet kuin kaivonkaivaja, joka tutkii maan syvyydessä kulkevien vesisuonien suunnat ja haarat.
+
+305
+00:32:12,640 --> 00:32:14,420
+Tulepas tänne näin!
+
+306
+00:32:14,420 --> 00:32:25,830
+Kun Samu tätä saneli, nosti Taneli arvokkaasti oikean kätensä ja piti sen etusormea otsaansa kohti, mutta yhtäkkiä hän levitti molemmat kätensä ja huudahti:
+
+307
+00:32:25,830 --> 00:32:27,490
+— Nyt se tipahti!
+
+308
+00:32:27,490 --> 00:32:30,250
+Kaikki purskahtivat nauramaan.
+
+309
+00:32:30,250 --> 00:32:38,330
+— Niin, naurakaa vaan, mutta minua ei naurata, kun koko keksintöni tipahti kuin tina tuhkaan, valitti Taneli.
+
+310
+00:32:38,330 --> 00:32:40,180
+— Oliko se minun syyni?
+
+311
+00:32:40,180 --> 00:32:43,050
+kysyi Samu surkutellen suotta.
+
+312
+00:32:43,050 --> 00:32:45,070
+— Vielä hän kysyy!
+
+313
+00:32:45,070 --> 00:32:46,730
+vastasi Taneli.
+
+314
+00:32:46,730 --> 00:32:56,950
+Mitä olisivat olleet telegrafit, telefonit ja muut tuon laatuiset laitokset minun keksintöni rinnalla: —lasten leluja, hämähäkin seittejä vaan!
+
+315
+00:32:56,950 --> 00:33:04,310
+— Sano edes, velikulta, minkä koneen synnyn minä häiritsemiselläni tuhosin, tiedusti Samu.
+
+316
+00:33:04,310 --> 00:33:08,900
+— Eihän sillä vielä nimeä ollut — mitä kesken-eräisen nimestä!
+
+317
+00:33:08,900 --> 00:33:27,860
+Se olisi vaan ollut ihan uuden uutukainen kone, sellainen laitos, millä talven paukkuvat pakkaset ja kesän paahtavat helteet olisi sotkettu ja vatkattu yhteen, niin sekaisin hierottu, että koko vuoden ajaksi olisi saatu samallainen sää, yhtä tasainen leuto ilma.
+
+318
+00:33:27,860 --> 00:33:31,150
+Silloin olisi maamiehenkin elää kelvannut!
+
+319
+00:33:31,150 --> 00:33:49,190
+Tämä tällainen laitos, palkeineen ja puohtimineen, petkelineen ja pahmaineen, tappineen ja mutterineen, kaikki oli ihan valmistumaisillaan, viimeistä vipuvärkkiä aioin kiinni kiertää, kun sinun häiritsemisesi pudotti minulta ruuvin!
+
+320
+00:33:49,190 --> 00:33:50,520
+Hoh, hoi!
+
+321
+00:33:50,520 --> 00:33:53,280
+huokasi Taneli lopuksi.
+
+322
+00:33:53,280 --> 00:33:57,010
+— Eivätkö ruuvit päässäsi ole enään paikoillaan?
+
+323
+00:33:57,010 --> 00:33:58,510
+kysyttiin.
+
+324
+00:33:58,510 --> 00:34:05,300
+— Ovat kyllä, mutta sen uuden koneen nimi on ainaiseksi kadonnut, oli vastaus.
+
+325
+00:34:05,300 --> 00:34:11,290
+— No sitten ei ole hätää, kunhan ruuvit päässäsi ovat paikoillaan, arveltiin.
+
+326
+00:34:11,290 --> 00:34:17,720
+— Kyllähän viileämpi ilma paraikaa hyvältä tuntuisi, virkkoi joku tytöistä.
+
+327
+00:34:17,720 --> 00:34:26,950
+— Kun kaiken vuotta olisi yhtä jolakka ilma, eiväthän mansikatkaan kypsyisi milloinkaan, huomautti Hietalan Hilma.
+
+328
+00:34:26,950 --> 00:34:30,290
+— Sinä itse olet parahiksi kypsynyt mansikka.
+
+329
+00:34:30,290 --> 00:34:34,240
+Mitä sinä ymmärrät, ja miksi sekaudut näin korkeihin asioihin?
+
+330
+00:34:34,240 --> 00:34:38,350
+vastasi Taneli ja oli yhä olevinaan totisena.
+
+331
+00:34:38,350 --> 00:34:47,280
+— Eikä se uutinenkaan sellaisella kylmänviileällä ilmalla valmistuisi oikealla ajalla, älysi Vieremän Jussi.
+
+332
+00:34:47,280 --> 00:34:53,080
+— Mitä suret uutisesta, kun on ruokaa, Jumalan viljaa, runsaasti paraikaa edessäsi!
+
+333
+00:34:53,080 --> 00:34:54,710
+vastasi Taneli.
+
+334
+00:34:54,710 --> 00:35:02,250
+— Entä minun oivalliset luistimeni, mitä niillä olisin tehnyt, kun eivät järvet olisi jäätyneet?
+
+335
+00:35:02,250 --> 00:35:07,480
+mainitsi Timo Terhakka, joka oli kuuluisa luistelemisestaan.
+
+336
+00:35:07,480 --> 00:35:13,360
+— Luistimesi olisit ta'ottanut hevosenkengiksi, kuului vastaus.
+
+337
+00:35:13,360 --> 00:35:16,110
+— Kuulepas, Taneli Tapanainen!
+
+338
+00:35:16,110 --> 00:35:19,590
+Anna huolia hevosen, murehtia mustan ruunan!
+
+339
+00:35:19,590 --> 00:35:28,730
+Tule tänne minun luokseni tämän viheriäisen pöydän ääreen, minulla olisi hupainen seikka kerrottavana, virkkoi Vieremän Jussi.
+
+340
+00:35:28,730 --> 00:35:38,700
+— Tulenhan minä, mutta kerro nyt, Johannes Vieremä, jotakin hyvin hauskaa vahinkoni korvaukseksi, pyysi Törsövän Taneli.
+
+341
+00:35:38,700 --> 00:35:46,250
+— Eikö se ole hauskaa, kun minä näin tuolla pielespuita hakatessani yhdessä leppäpensaassa sata jänistä!
+
+342
+00:35:46,250 --> 00:35:50,040
+Ei enempää eikä vähempää, sata ummelleen!
+
+343
+00:35:50,040 --> 00:35:53,460
+— Olisipa siinä ollut kosolta sinun kaimojasi!
+
+344
+00:35:53,460 --> 00:35:54,910
+En usko!
+
+345
+00:35:54,910 --> 00:35:57,650
+— Ainakin niitä oli puolisataa.
+
+346
+00:35:57,650 --> 00:36:00,150
+— Näillä mailla puolisataa jänistä!
+
+347
+00:36:00,150 --> 00:36:01,620
+Mitä vielä!
+
+348
+00:36:01,620 --> 00:36:05,220
+— Viisikolmatta oli vissisti, näinhän minä.
+
+349
+00:36:05,220 --> 00:36:10,010
+— Ja kun otat puolen siitä, niin saat kaksitoista ja puoli jänistä!
+
+350
+00:36:10,010 --> 00:36:15,730
+— Älä nyt sekoita minun ajatusjuoksuani, oli niitä pupuja toki kymmenen.
+
+351
+00:36:15,730 --> 00:36:18,000
+— Turhaa juttua sekin!
+
+352
+00:36:18,000 --> 00:36:20,350
+— Viisi niitä oli vissisti!
+
+353
+00:36:20,350 --> 00:36:22,890
+— Älä narraa naapuriasi!
+
+354
+00:36:22,890 --> 00:36:27,630
+— No kaksi jänistä siinä leppäpensaassa hyppi, näinhän minä.
+
+355
+00:36:27,630 --> 00:36:30,950
+— Eihän näillä mailla olekaan jäniksiä.
+
+356
+00:36:30,950 --> 00:36:35,770
+— Vai ei ole, olipas siinä yksi jänis, sievä pupu olikin!
+
+357
+00:36:35,770 --> 00:36:38,910
+— Eikä ollut yhtään, ei mitään pupua!
+
+358
+00:36:38,910 --> 00:36:46,340
+— No rapisihan siinä leppäpensaassa joku, kuulithan sinäkin, Kalle Pirhonen, rapisihan siinä leppäpensaassa!
+
+359
+00:36:46,340 --> 00:36:53,960
+— Kyllä siinä leppäpensaassa rapisivat kuivat lehdet, kuulin minäkin, todisti Kalle Pirhonen.
+
+360
+00:36:53,960 --> 00:36:55,290
+— Siinä sen nyt kuulit!
+
+361
+00:36:55,290 --> 00:37:02,420
+Tottahan minä olen puhunut kaiken aikaa, vaikka sinä et uskonut ennenkuin minun täytyi vierasmiehillä asia todistaa.
+
+362
+00:37:02,420 --> 00:37:10,790
+Uskoinpas minä paikalla ettei sinun uudesta koneestasi kuuna päivänä tule mitään, koska se tärkeä ruuvi siitä tipahti tiehensä.
+
+363
+00:37:10,790 --> 00:37:17,050
+— Sinulla ja muutamilla muilla tässä joukossa näyttää olevan taipumusta uskovaisuuteen.
+
+364
+00:37:17,050 --> 00:37:28,660
+Ei tarvitse muuta kuin joku sanoa pöläyttää: minä hötkähdän polvilleni ... minä syöksyn liejuun ... niin uskotaan pois lapsellisesti! — Enhän minä sitä uskonut.
+
+365
+00:37:28,660 --> 00:37:33,290
+— Eihän sitä kukaan uskonut, kuului vakuutuksia.
+
+366
+00:37:33,290 --> 00:37:38,740
+Naurettiin aika lailla Törsövän Tanelin ja Vieremän Jussin keksinnöille.
+
+367
+00:37:38,740 --> 00:37:41,520
+Kaikkien mieli oli hilpeä ja iloinen.
+
+368
+00:37:41,520 --> 00:37:46,520
+Yksin Mörskyn Markettakin näytti unhottaneen kärttyisyytensä.
+
+369
+00:37:46,520 --> 00:38:02,010
+Melkein kaikki, niin mies – kuin naispuoletkin, olivat ruualla paljaspäin, ainoastaan ne, jotka eivät osuneet saamaan itselleen puiden siimestä, pitivät hatun tahi huivin päässänsä.
+
+370
+00:38:02,010 --> 00:38:08,700
+— Miksi sinä, Vieremän Jussi, syöt hattu päässä, vaikka istut parhaassa siimeksessä?
+
+371
+00:38:08,700 --> 00:38:10,490
+kysäsi joku.
+
+372
+00:38:10,490 --> 00:38:17,330
+— Siksi, vastasi Jussi, etteivät nuo tytöt huomaisi paljasta kohtaa päälaessani.
+
+373
+00:38:17,330 --> 00:38:22,400
+Ne luulisivat minua vanhaksi ja jättäisivät kukaties naimatta.
+
+374
+00:38:22,400 --> 00:38:30,360
+— Saatathan ilmoittaa tytöille, etteivät hiukset vielä ole ennättäneet päälakeesi kasvaa, neuvoi muudan.
+
+375
+00:38:30,360 --> 00:38:38,770
+— Sano vaan tytöille, että nuoruuden vallattomuudessa olet kuperkeikkaa heittäessäsi kuluttanut, ohjasi eräs.
+
+376
+00:38:38,770 --> 00:38:41,020
+— Kiitoksia neuvoistanne!
+
+377
+00:38:41,020 --> 00:38:43,860
+murahti Jussi pala suussa.
+
+378
+00:38:43,860 --> 00:38:48,540
+— Katsokaa kuinka pieni mittari mittaelee Jussin hatun lieriä!
+
+379
+00:38:48,540 --> 00:38:50,920
+virkkoi joku tytöistä.
+
+380
+00:38:50,920 --> 00:38:54,650
+Jussi ei ollut kuulevinaan sitä huomautusta.
+
+381
+00:38:54,650 --> 00:38:59,630
+Hän antoi pienen hyönteistoukan mittaella mielensä mukaan hatun äärtä.
+
+382
+00:38:59,630 --> 00:39:05,640
+Jussi tahtoi näyttää, oliko kenelläkään syytä sanoa häntä herkkäuskoiseksi.
+
+383
+00:39:05,640 --> 00:39:14,120
+Piika Liisa puuhaeli kahvia ruoka-ajalla valmiiksi, jotta ei väen tarvitsisi uudestaan kokoontua sitä juomaan.
+
+384
+00:39:14,120 --> 00:39:18,460
+Kahvikupit asetteli hän taitavasti nurmen sängelle.
+
+385
+00:39:18,460 --> 00:39:26,050
+Ruoka-ajalla saapuivat niitylle molemmat isäntämiehetkin: Salmelan Antti ja Toholan herastuomari.
+
+386
+00:39:26,050 --> 00:39:29,630
+Hitaasti olivat he päivän kuumuudessa kulkeneet.
+
+387
+00:39:29,630 --> 00:39:39,850
+Matkalla oli puhuttu yhtä toista talojen varallisuuksista, hevosista, lehmistä, mutta pisimpänä keskustelu-aineena oli ollut "nuorten tulevaisuus".
+
+388
+00:39:39,850 --> 00:39:44,650
+Siinä asiassa mitä toinen sanoi, niin toinen oli valmis myöntämään.
+
+389
+00:39:44,650 --> 00:39:55,880
+Mutta kun herastuomari arveli, että vanhempien pitäisi nuoria pakoittaa, jolleivät ne huomaisi omaa etuansa, niin Antti Salminen ei virkkanut siihen mitään.
+
+390
+00:39:55,880 --> 00:40:04,390
+Kun isännät kotvasen olivat koivun siimeksessä istuneet, rupesivat hekin popsimaan päivällistä muiden muassa.
+
+391
+00:40:04,390 --> 00:40:08,840
+Selvästi näkyi kuitenkin, ettei herastuomari ollut aivan entisellään.
+
+392
+00:40:08,840 --> 00:40:15,320
+Hän puhui harvemmin ja varovammin, ja näytti ikäänkuin välttelevän nuorten läsnäoloa.
+
+393
+00:40:15,320 --> 00:40:21,080
+Mutta eipä Törsövän Tanelinkaan suusta nyt liikoja sanoja suikahdellut.
+
+394
+00:40:22,700 --> 00:40:25,020
+Toisen luvun loppu
+
+395
+00:40:30,040 --> 00:40:32,060
+Salmelan heinätalkoot
+
+396
+00:40:32,060 --> 00:40:33,510
+Kolmas luku
+
+397
+00:40:33,510 --> 00:40:36,790
+Kirjoittanut
+Olli Wuorinen
+
+398
+00:40:36,790 --> 00:40:39,850
+Tämä on LibriVox - äänite.
+
+399
+00:40:39,850 --> 00:40:44,170
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+400
+00:40:44,170 --> 00:40:53,760
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+401
+00:40:53,760 --> 00:40:58,240
+Lukijana Harri Tapani Ylilammi
+
+402
+00:40:58,240 --> 00:41:02,740
+Salmelan heinätalkoot
+Kolmas luku
+
+403
+00:41:04,960 --> 00:41:10,100
+Ruoka-aikana alkoi muutamia pilven mukuroita ilmestyä taivaalle.
+
+404
+00:41:10,100 --> 00:41:14,200
+Ennestään lämmin ilma tuli nyt paahtavan kuumaksi.
+
+405
+00:41:14,200 --> 00:41:18,840
+Kummallisesti nuo pilven mukurat kasvoivat ja lisääntyivät.
+
+406
+00:41:18,840 --> 00:41:22,860
+Pienen pikkaraisista haivenista ne alkoivat suureta.
+
+407
+00:41:22,860 --> 00:41:30,930
+Kun ne suurenivat, mustenivat ne samassa; ainoastaan auringon puoleinen laita oli niissä valkoinen ja möyheä.
+
+408
+00:41:30,930 --> 00:41:41,820
+Ne näyttivät vuorilta, joiden auringon puoleisille reunoille oli paksulta levitetty kuohusammalta, lumenvitiä tahi pehmoista puumulia.
+
+409
+00:41:42,880 --> 00:41:47,700
+Eräs heinäru'on kokoinen tumma pilvi kasvoi auringon kohdalle.
+
+410
+00:41:47,700 --> 00:41:52,050
+Silloin näytti itse pilvi säteilevän ylt'ympärinsä.
+
+411
+00:41:52,050 --> 00:41:58,070
+Sen valkea reunus säteili siihen tapaan kuin pyhimysten pään kuvien ympärillä nähdään.
+
+412
+00:41:58,070 --> 00:42:06,400
+— Kas kuinka pilvet kukkivat, huomautti Salmelan isäntä, joka oli tottunut ottamaan vaaria taivaan merkeistä.
+
+413
+00:42:06,400 --> 00:42:11,260
+— Se merkitsee lähenevää ukkosta, vastasi herastuomari.
+
+414
+00:42:11,260 --> 00:42:21,400
+— Kyllä minäkin olen nuo pilvet huomannut, sanoi Samu, mutta niiden merkitystä en ole arvannut miksikään, koska ilma pysyy näin tyynenä.
+
+415
+00:42:21,400 --> 00:42:24,330
+Talkooväki nousi ruualta.
+
+416
+00:42:24,330 --> 00:42:26,920
+— Tulkaa nyt juomaan kahvia!
+
+417
+00:42:26,920 --> 00:42:28,740
+kutsui Liisa.
+
+418
+00:42:28,740 --> 00:42:35,990
+Tuskin oli ensimäinen vieras kahvimaitoa kuppiinsa kaatanut kun Liisa löi kätensä yhteen ja huusi:
+
+419
+00:42:35,990 --> 00:42:37,530
+— Voi, voo-i!
+
+420
+00:42:37,530 --> 00:42:40,240
+Minä typerä tyttö unohdin koko asian!
+
+421
+00:42:40,240 --> 00:42:46,590
+Emäntä neuvoi minua panemaan kahvimaitopullon tuonne Härkälähteesen, ettei se myrtyisi.
+
+422
+00:42:46,590 --> 00:42:53,090
+Kävin minäkin lähteestä taannoin pari kertaa juomassa, mutta pullo unehtui jäähtymään panematta.
+
+423
+00:42:53,090 --> 00:42:57,410
+Älkää hyvät vieraat panko pahaksenne, minulla on niin huono muisti.
+
+424
+00:42:57,410 --> 00:43:01,800
+Voi, voi, miten tuo myrtynyt maito menee nyt kokkareihin!
+
+425
+00:43:01,800 --> 00:43:04,870
+— Mitä sakeampaa, sitä makeampaa!
+
+426
+00:43:04,870 --> 00:43:08,440
+sanoivat muutamat lohduttaaksensa Liisaa.
+
+427
+00:43:08,440 --> 00:43:12,980
+Muutamiin haraviin pantiin uusia piitä pudonneiden sijaan.
+
+428
+00:43:12,980 --> 00:43:16,540
+Ja sitten sitä oltiin taas valmiina työhön.
+
+429
+00:43:17,740 --> 00:43:24,750
+Kaksi talon omaa hevosta ja Hietalan torpan hevonen kolmas valjastettiin häkkirekien eteen.
+
+430
+00:43:24,750 --> 00:43:28,780
+Kolmea latoa ruvettiin yhtaikaa täyttämään.
+
+431
+00:43:28,780 --> 00:43:35,940
+Sitä paitsi ryhtyivät Törsövän Taneli, Timo Terhakka ja Pirhosen Kalle pieleksen tekoon.
+
+432
+00:43:35,940 --> 00:43:45,400
+Kaksi ensin mainittua loi hangoilla heinää pielekseen, jonka päälle Kalle harava kädessä tasoitteli heinät ja polki ne lujaan.
+
+433
+00:43:45,400 --> 00:43:54,920
+Etäisemmistä karheista vedätettiin heinät hevosilla latoihin, mutta lähempänä olevista heinistä laadittiin suuria heinärukoja.
+
+434
+00:43:54,920 --> 00:44:07,540
+Sellaisen ru'on alle pistettiin kaksi vahvaa, sileää seivästä ja näillä sapilailla lennätti kaksi henkeä ru'on joko latoon tahi pieleksen tekijöille.
+
+435
+00:44:08,960 --> 00:44:12,300
+Vireä, kiihkeän vireä liike oli niityllä.
+
+436
+00:44:12,300 --> 00:44:15,860
+Virtana vuosi hiki jokaisen kasvoja myöten.
+
+437
+00:44:15,860 --> 00:44:22,780
+Likomärät hienot paidat tarttuivat käsivarsiin ja hartioihin ja näyttivät ruskeaan vivahtavilta.
+
+438
+00:44:22,780 --> 00:44:28,350
+Hevosten ympärillä kihisi äärettömät määrät paarmoja ja kiiliäisiä.
+
+439
+00:44:28,350 --> 00:44:41,120
+Ihmekö siis, että hevosraukat tuskissaan polkivat maata, tömistelivät kavioitaan, heiluttelivat päätänsä, eivätkä tahtoneet paikoillaan pysyä sitä aikaa, kun heiniä häkkeihin heitettiin.
+
+440
+00:44:41,120 --> 00:44:46,480
+Kuorma kuorman, ruko ru'on perästä lennätettiin latoihin.
+
+441
+00:44:46,480 --> 00:44:59,120
+Ne täyttyivät täyttymistään, ja niiden sisällä olevissa kuivissa heinissä kuppeloitsi painelijoina muiden muassa molemmat isännät, Risto Tohonen ja Antti Salminen.
+
+442
+00:45:00,880 --> 00:45:03,830
+Jo liittyvät tuolla pilvet vastatusten.
+
+443
+00:45:03,830 --> 00:45:07,060
+Jo kuuluu silloin tällöin kaukaisia jymähdyksiä.
+
+444
+00:45:07,060 --> 00:45:10,560
+Liike niityllä näyttää vimmatulta riehumiselta.
+
+445
+00:45:10,560 --> 00:45:15,740
+Toiset mättävät heiniä häkkeihin, toiset haravoivat rippeitä jäleltä.
+
+446
+00:45:15,740 --> 00:45:19,410
+Ei kenkään vitkastele, ei kenkään haastele.
+
+447
+00:45:19,410 --> 00:45:26,650
+Tytöt ja pojat juoksevat hehkuposkisina sinne, minne vaahtoiset hevoset lennättävät tyhjiä häkkejä.
+
+448
+00:45:26,650 --> 00:45:31,160
+Muutamassa minuutissa on häkki täynnä, kukkurapäisenä.
+
+449
+00:45:31,160 --> 00:45:40,640
+Keskellä tälläistä hyörinää kun Samu kerran sieppaa aimo sylyksen heiniä nakataksensa häkkiin, tuntee hän äkkiä kipeän piston otsaansa.
+
+450
+00:45:40,640 --> 00:45:45,620
+Samassa volahtaa heinistä harmaa käärme nurmen sängelle juoksemaan.
+
+451
+00:45:45,620 --> 00:45:47,690
+— Voi, tuo häijy pisti!
+
+452
+00:45:47,690 --> 00:45:49,140
+huudahti Samu.
+
+453
+00:45:49,140 --> 00:45:50,980
+— Katsos pentelettä!
+
+454
+00:45:50,980 --> 00:45:55,410
+kirosi Vieremän Jussi ja hotasi käärmettä haravansa varrella.
+
+455
+00:45:55,410 --> 00:46:01,390
+Harava särähti poikki, mutta samassa loppui käärmeeltäkin pakenemisen halu.
+
+456
+00:46:01,390 --> 00:46:06,380
+Kahdesta pienestä haavasta Samun otsassa tipahti vähän vertä.
+
+457
+00:46:06,380 --> 00:46:11,020
+Mörskyn Marketta sylkäsi kolmeen ilmansuuntaan ja alkoi loihtia:
+
+458
+00:46:11,020 --> 00:46:13,240
+Mato musta maanalainen,
+
+459
+00:46:13,240 --> 00:46:15,290
+Taakka tuomen karvallinen!
+
+460
+00:46:15,290 --> 00:46:17,030
+Tieän mä sinun...
+
+461
+00:46:17,030 --> 00:46:20,480
+— Opettaja sanoi ... pitää imeä!
+
+462
+00:46:20,480 --> 00:46:30,530
+virkkoi Hietalan Hilma hypätessään siihen ja painoi samassa suloiset huulensa Samun otsaan, imi myrkytettyä vertä suuhunsa ja sylki sen pois.
+
+463
+00:46:30,530 --> 00:46:34,600
+Tämä kaikki tapahtui muutamissa sekunneissa.
+
+464
+00:46:34,600 --> 00:46:42,570
+— Marketta rupeaa höpisemään puita heiniä, sanoo matoa mustaksi, vaikka mato on harmaa, näetkös tuota!
+
+465
+00:46:42,570 --> 00:46:47,880
+sanoi käärmeen tappaja kohottaen otusta haravansa tyngällä.
+
+466
+00:46:47,880 --> 00:46:52,950
+— Onhan siinä mustaakin, sanoi Marketta suuttuneena.
+
+467
+00:46:52,950 --> 00:46:58,900
+— On mutkikas musta juova pitkin selkää, ei muuta, väitti Jussi.
+
+468
+00:47:00,160 --> 00:47:04,720
+Kohtaus oli kaiken vakavuutensa ohessa kadehdittavan viehättävä.
+
+469
+00:47:04,720 --> 00:47:14,650
+Ihana seitsentoista vuotias tyttö hehkuvan punaposkisena suutelee yhden-kolmatta vuotiaan rotevan nuorukaisen otsaa, hämmästynyt väkijoukko ympärillä.
+
+470
+00:47:14,650 --> 00:47:22,780
+Maalarille tahi kuvanveistäjälle olisi tässä ollut erittäin kiitollinen aihe taideteosta varten.
+
+471
+00:47:22,780 --> 00:47:34,060
+Kun ensimäisestä hämmästyksestä oli toinnuttu, vilkastui työnteko taas entiselleen, sillä ankarat jyrähdykset synkistä pilvistä pakoittivat ponnistuksiin.
+
+472
+00:47:34,060 --> 00:47:38,800
+Lähes neljänneksen tuntia imi Hilma Samun otsaa.
+
+473
+00:47:38,800 --> 00:47:44,320
+Sill'aikaa ennättivät tyttöjen kielet päästä pälpättämään seuraavaan tapaan:
+
+474
+00:47:44,320 --> 00:47:48,320
+— Kaikellaisia hullutuksia niissä kansakouluissa opetetaan!
+
+475
+00:47:48,320 --> 00:47:50,840
+Voi, voi, imeä käärmeen myrkkyä!
+
+476
+00:47:50,840 --> 00:47:54,300
+Saisihan tuon kuolemansa ihminen muullakin tavalla!
+
+477
+00:47:54,300 --> 00:48:00,930
+— Saadaanpa nähdä, kumpi noista kahdesta kovemmin pöhöttyy, imijä vai imettävä!
+
+478
+00:48:00,930 --> 00:48:09,540
+— Jos Hilma henkiin jääpi, tulee hänestä varmaan kyläkunnan puoskari ja kunnon kuppari, koska hän on niin kärkäs vertä imemään.
+
+479
+00:48:09,540 --> 00:48:14,090
+— Minä en olisi julennut mennä imemään, vaikka olisin tohtinutkin.
+
+480
+00:48:14,090 --> 00:48:15,780
+— Enkä minä.
+
+481
+00:48:15,780 --> 00:48:21,660
+— Kyllä hän on hävytön tyttö, menee noin vaan nuorta poikaa jupojulkisesti imeksimään!
+
+482
+00:48:21,660 --> 00:48:23,360
+Voi aikoja, voi tapoja!
+
+483
+00:48:23,360 --> 00:48:26,380
+Surkutella täytyy tätä syntistä maailmaa!
+
+484
+00:48:26,380 --> 00:48:31,140
+Viimeksi kerrottu haikeus kirposi Mörskyn Marketan suusta.
+
+485
+00:48:31,140 --> 00:48:34,850
+Pojatkin kuiskailivat jotain tämmöistä:
+
+486
+00:48:34,850 --> 00:48:40,630
+— Sanokaa mitä hyvänsä, mutta suloinen ja sievä tyttö Hietalan Hilma sittenkin on.
+
+487
+00:48:40,630 --> 00:48:42,960
+Voi totta tosiaankin!
+
+488
+00:48:42,960 --> 00:48:46,170
+— Sievä ja uskalias tyttö!
+
+489
+00:48:46,170 --> 00:48:50,150
+— Sellaista tyttöä ei ole toista meidän pitäjässä!
+
+490
+00:48:50,150 --> 00:48:54,940
+— Sellaisia tyttöjä ei ole tuhkatiheässä missään muullakaan.
+
+491
+00:48:54,940 --> 00:48:58,160
+— Kun ei vaan tuo tyttöparka sairastuisi.
+
+492
+00:48:58,160 --> 00:49:00,210
+— Kun ei vaan kuolisi.
+
+493
+00:49:00,210 --> 00:49:02,470
+Se olisi hirmuista!
+
+494
+00:49:02,470 --> 00:49:05,770
+— Katsokaa, kuinka se suutelee Samun otsaa!
+
+495
+00:49:05,770 --> 00:49:07,520
+Voi tuhatturkanen!
+
+496
+00:49:07,520 --> 00:49:14,420
+Antaisin kyykäärmeen paikalla iskeä otsaani, jos vaan tuollainen tyttö rientäisi myrkkyä pois imemään!
+
+497
+00:49:14,420 --> 00:49:16,630
+— Niin minäkin!
+
+498
+00:49:16,630 --> 00:49:21,610
+— Sellaiset onnettomuudet sattuvat ainoastaan onnen poikasille.
+
+499
+00:49:21,610 --> 00:49:28,310
+Työala oli siirtynyt loitommaksi, niin etteivät asianomaiset kuulleet mitä sanottiin.
+
+500
+00:49:28,310 --> 00:49:32,840
+Samun isä ja herastuomari olivat saapuneet paikalle.
+
+501
+00:49:32,840 --> 00:49:38,700
+Miettiväisinä ja miltei säälitellen katselivat nämä molemmat isännät Hilman avuntekoa.
+
+502
+00:49:38,700 --> 00:49:44,340
+Kun Hilma lakkasi imemästä, oli Samun otsa ainoastaan hiukan turvoksissa.
+
+503
+00:49:44,340 --> 00:49:49,860
+Pää tuntui vähän raskaanlaiselta, mutta ei mitään kipua Samu tuntenut.
+
+504
+00:49:49,860 --> 00:49:52,640
+Hilma joutui vasta nyt hämille.
+
+505
+00:49:52,640 --> 00:49:54,610
+Mitä hän oli uskaltanut tehdä?
+
+506
+00:49:54,610 --> 00:49:59,070
+Tuntui melkein kuin hän olisi purrut palan kielletyn puun hedelmästä.
+
+507
+00:49:59,070 --> 00:50:14,290
+Parhaan taitonsa mukaan koetti hän noille isännille selittää, mitenkä kansakoulunopettaja luonnontiedettä opettaessaan oli sanonut, ettei käärmeen myrkyn imeminen vahingoita vähääkään, kuin ei vaan imijällä ole suussa haavoja.
+
+508
+00:50:14,290 --> 00:50:21,450
+Sentähden oli hän uskaltanut koettaa, eikä nyt tuntunutkaan pahoinvointia myrkyn imemisestä.
+
+509
+00:50:21,450 --> 00:50:24,460
+Samu puristi Hilman kättä ja sanoi:
+
+510
+00:50:24,460 --> 00:50:26,730
+— Kiitoksia paljon, Hilma!
+
+511
+00:50:26,730 --> 00:50:32,150
+Kun tyttö oli menemäisillään muiden luoksi työhön, sanoi Salmelan isäntä:
+
+512
+00:50:32,150 --> 00:50:39,130
+— Hilma, sano isällesi kotiin mentyäsi, että tämän vuotiset veropäivät ovat suoritetut.
+
+513
+00:50:39,130 --> 00:50:48,990
+— Voi voi, isäntä, enhän minä maksua huoli, voi voi, johan minua syystä pilkattaisiin ... älkää puhuko toki sellaista, isäntä!
+
+514
+00:50:48,990 --> 00:50:50,880
+tuskaili Hilma.
+
+515
+00:50:50,880 --> 00:50:56,640
+— No no, lapseni, en puhu enään mitään siitä, virkkoi isäntä.
+
+516
+00:50:56,640 --> 00:51:04,760
+Pieleksen tekijät astuivat silloin työnsä valmiiksi saatua, hangot ja haravat olalla toisten luoksi.
+
+517
+00:51:04,760 --> 00:51:08,260
+— Kuule ja malta vähäisen, Hilma hoi!
+
+518
+00:51:08,260 --> 00:51:10,520
+huusi Törsövän Taneli.
+
+519
+00:51:10,520 --> 00:51:11,990
+— No!
+
+520
+00:51:11,990 --> 00:51:28,980
+— Minä olen, tiedätkös, sydämen pohjasta armelias ja laupias ihminen, minä surkuttelen sinua, tyttöhupakkoa, kun pilasit tapotahallasi suloisen suusi ja saastutit herttaiset huulesi ... annas minä imen pois myrkyn huuliltasi!
+
+521
+00:51:28,980 --> 00:51:38,040
+Hilma ei ollut häntä kuulevinaan, astui vaan levollisesti haravaansa pyöritellen ja lauloi heleällä äänellään:
+
+522
+00:51:38,040 --> 00:51:40,740
+Älä vietä köyhän lasta,
+
+523
+00:51:40,740 --> 00:51:42,890
+Köyhän mieli on paha:
+
+524
+00:51:42,890 --> 00:51:45,230
+Kunnia köyhälle parempi
+
+525
+00:51:45,230 --> 00:51:47,720
+Kuin rikkahalle raha.
+
+526
+00:51:47,720 --> 00:51:55,100
+Ja niityn takaa Lehtovaaran rinteeltä heläytteli kaiku toistamiseen säkeiden viimeiset sanat:
+
+527
+00:51:55,100 --> 00:51:57,250
+— paha — — — — raha.
+
+528
+00:51:57,250 --> 00:52:01,790
+— Onpas tytöllä kaunis ääni, virkkoi herastuomari.
+
+529
+00:52:01,790 --> 00:52:12,770
+— Kaunis ja sydämellinen, lisäsi Salmelan isäntä, ja muutoinkin minä pidän paljon Hietalan torpan perheestä, se on rehellistä väkeä, peräti rehellistä.
+
+530
+00:52:12,770 --> 00:52:18,010
+— Vai niin rehellistä, murahti herastuomari huolettomasti.
+
+531
+00:52:18,010 --> 00:52:24,760
+Pilvet, jotka olivat uhanneet luokoa ja karheita kastella, painuivatkin hitaasti toiselle suunnalle.
+
+532
+00:52:24,760 --> 00:52:30,580
+Vastapäätä aurinkoa loisti pilvessä heleänvärinen vesikaari.
+
+533
+00:52:30,580 --> 00:52:35,320
+Työnteko verkastui, kuten ainakin ylenmääräisten ponnistusten jälkeen.
+
+534
+00:52:35,320 --> 00:52:38,210
+Eihän nyt enään mitään kiirettä ollut.
+
+535
+00:52:38,210 --> 00:52:40,850
+Jouduttiinpa kuitenkin hyvästi.
+
+536
+00:52:40,850 --> 00:52:48,350
+Aurinko paistoi vielä pitkien puiden latvain yläpuolella, kun Takamaan niityllä olivat jo heinät korjuussa.
+
+537
+00:52:48,350 --> 00:52:56,060
+— Mitäs nyt, herastuomari, langonheiniä ei saatukaan, virkkoi Salmelan isäntä leikillisesti.
+
+538
+00:52:56,060 --> 00:53:00,150
+— Ei saatu, ei saatu, myönsi herastuomari.
+
+539
+00:53:00,150 --> 00:53:04,570
+Langolla pitänee kaiketi olla omat heinät, mitäs auttaa!
+
+540
+00:53:04,570 --> 00:53:08,470
+— Tämän päivän osaksi aiottu työ on tehty.
+
+541
+00:53:08,470 --> 00:53:10,930
+Paljon onkin aikaan saatu.
+
+542
+00:53:10,930 --> 00:53:14,230
+Jumalalle kiitos, ja teille kiitos ystävät ja naapurit!
+
+543
+00:53:14,230 --> 00:53:19,800
+Nyt saatte aikaanne viettää, miten parhaiten haluatte, ilmoitti isäntä.
+
+544
+00:53:19,800 --> 00:53:22,340
+Riemu remahti silloin ilmoille.
+
+545
+00:53:22,340 --> 00:53:25,130
+Piirihyppy pantiin paikalla toimeen.
+
+546
+00:53:25,130 --> 00:53:31,110
+Siinä nurmen sängellä pyörittiin ja laulettiin asianmukaisia lauluja, niinkuin:
+
+547
+00:53:31,110 --> 00:53:33,350
+Minä olen poika (tyttö) nuori
+
+548
+00:53:33,350 --> 00:53:35,050
+Kuin kesällä heinä,
+
+549
+00:53:35,050 --> 00:53:37,090
+Otan, otan oman kullan
+
+550
+00:53:37,090 --> 00:53:39,110
+Vaikka läpi seinän.
+
+551
+00:53:39,110 --> 00:53:43,190
+Samukin pyöri muiden muassa kun laulettiin:
+
+552
+00:53:43,190 --> 00:53:45,540
+Koska Samu häitä pitää.
+
+553
+00:53:45,540 --> 00:53:47,510
+Ken on hänellä morsian?
+
+554
+00:53:47,510 --> 00:53:54,310
+tempasi tämä voimakkaasti Hilman käsistä kiinni, pyöritti häntä piirin keskellä ja lauloi reippaasti:
+
+555
+00:53:54,310 --> 00:53:57,170
+Ole sinä vaan minun armahan',
+
+556
+00:53:57,170 --> 00:54:00,190
+Sinua minä rakastan!
+
+557
+00:54:00,190 --> 00:54:08,220
+Antti Salminen ja Risto Tohonen istahtivat mättäälle, sytyttivät sikarinsa ja katselivat nuorten leikkejä.
+
+558
+00:54:08,220 --> 00:54:17,010
+Mutta huomaamattansa olivat he häirinneet mättään asukasten, pienten vaaleankeltaisten muuraisten, kotorauhaa.
+
+559
+00:54:17,010 --> 00:54:29,820
+Nämä rohkeat eläimet, joilla muutoin on rumanpuoleinen erikoisnimi, syöksivät mättäästä säälimättä isäntien kimppuun ja pienillä keinoillansa kohta antoivat tietää: kuka käski!
+
+560
+00:54:29,820 --> 00:54:38,420
+Kiireen kaupalla täytyi isäntien nousta seisoalle ja ryhtyä karkoittamaan luotansa noita vihaisia pikku sankareja.
+
+561
+00:54:38,420 --> 00:54:44,980
+Sitten ottivat he yhdestä reestä toisen häkkilaidan pois ja kävivät reen kaustalle istumaan.
+
+562
+00:54:44,980 --> 00:54:51,190
+Puheltiin siinä ensin yleensä taivaan merkeistä, mutta sitten erittäin vesikaaresta.
+
+563
+00:54:51,190 --> 00:55:01,890
+— Katsopas, Risto veikkonen, tuota vesikaarta, taannoin oli sen toinen pää kirkas, nyt on toinen, huomautti Salmelan isäntä.
+
+564
+00:55:01,890 --> 00:55:08,330
+— Se taannoin joi, lappoi vettä pilviin toisella, mutta nyt toisella päällään.
+
+565
+00:55:08,330 --> 00:55:15,150
+Huomenna sataa, jos ei täällä niin muualla, paljon on noussut vettä pilviin, vastasi puhuteltu.
+
+566
+00:55:15,150 --> 00:55:18,080
+— Uskotko sinä tuota juttua?
+
+567
+00:55:18,080 --> 00:55:21,390
+— Milloinkas se juttu on valheeksi todistettu?
+
+568
+00:55:21,390 --> 00:55:28,360
+Toisekseen minä en usko mitään juttua, jota ei ole oikeaksi todistettu, en mitään.
+
+569
+00:55:28,360 --> 00:55:33,050
+— Niin, tuo komea taivaan merkki on vedenpaisumuksen ajoilta.
+
+570
+00:55:33,050 --> 00:55:39,350
+Silloin Jumala asetti vesikaaren sen lupauksen merkiksi, ettei hän enään maata vedellä hukuta.
+
+571
+00:55:39,350 --> 00:55:43,460
+Tiedätkö, miksi sen keskus nyt on ylempänä kuin taannoin?
+
+572
+00:55:43,460 --> 00:55:45,910
+— Lieneeköhän se nyt ylempänä?
+
+573
+00:55:45,910 --> 00:55:48,710
+— On kyllä. etkös muista?
+
+574
+00:55:48,710 --> 00:55:55,660
+— Taisi se taannoin olla vähän alempana, mutta syytä sen ylenemiseen ei tiedä muu kuin Jumala.
+
+575
+00:55:55,660 --> 00:56:00,170
+— Hän on kaikkitietävä, mutta tämän asian tietävät muutkin.
+
+576
+00:56:00,170 --> 00:56:11,960
+Vesikaaren korkeus riippuu auringon olopaikoista: kuta ylempänä aurinko, sitä alempana vesikaari, kuta alempana aurinko, sitä ylempänä vesikaari.
+
+577
+00:56:11,960 --> 00:56:17,250
+— Minä myönnän, että sinulla vesikaariopissa on perinpohjaiset tiedot.
+
+578
+00:56:17,250 --> 00:56:21,290
+Sinä olet perehtynyt noihin taivaallisiin kaarihin.
+
+579
+00:56:21,290 --> 00:56:39,480
+Minun päässäni taas on toisellaisia kaaria kymmenkunta: lakikaari, naimiskaari, perintökaari, maakaari, rakennuskaari, kauppakaari, rikoskaari, rangaistuskaari, ulosottokaari, oikeudenkäymiskaari.
+
+580
+00:56:39,480 --> 00:56:43,220
+Ja näissä kaarissa on monta pykälää ja nikamaa.
+
+581
+00:56:43,220 --> 00:56:45,520
+Mutta kuitenkin minä myönnän...
+
+582
+00:56:45,520 --> 00:56:47,980
+Katsopas velikulta niskaani!
+
+583
+00:56:47,980 --> 00:56:52,620
+Muudan riivattu siellä nivertää, niin polttaa kuin tulella!
+
+584
+00:56:52,620 --> 00:57:04,280
+Kaaria luetellessaan luki herastuomari kaikki sormensa, mutta viimeisiä sanoja puhuessaan kumarsi hän äkkiä päänsä Salmelan isännän polvelle.
+
+585
+00:57:04,280 --> 00:57:08,280
+Antti Salminen tapasikin kiinni pienen pahantekijän.
+
+586
+00:57:08,280 --> 00:57:12,910
+Isäntämiesten toimet ja liikunnot herättivät jo talkooväen huomiota.
+
+587
+00:57:12,910 --> 00:57:14,550
+Piirihyppy taukosi.
+
+588
+00:57:14,550 --> 00:57:17,200
+Naurun hykähdyksiä kuului.
+
+589
+00:57:17,200 --> 00:57:23,060
+Saadaksensa vesikaari-jutun onnellisempaan loppuun, sanoi Salmelan isäntä:
+
+590
+00:57:23,060 --> 00:57:27,480
+— Muistatko sinä, Samu, vielä ulkoa sen runon vesikaaresta?
+
+591
+00:57:27,480 --> 00:57:32,030
+Minä tarkoitan sitä, mikä oli aikoinaan pappilan lasten sanomalehdessä.
+
+592
+00:57:32,030 --> 00:57:35,630
+Sinä ja Hilma luitte sitä usein ulkoa.
+
+593
+00:57:35,630 --> 00:57:42,560
+— Olihan sellainen runo Pääskysessä, mutta enpä taida sitä enään muistaa ulkoa, vastasi Samu.
+
+594
+00:57:42,560 --> 00:57:44,890
+— Hilma sen varmaan muistaa!
+
+595
+00:57:44,890 --> 00:57:45,920
+Muistatko?
+
+596
+00:57:45,920 --> 00:57:47,620
+kysyi isäntä.
+
+597
+00:57:47,620 --> 00:57:51,730
+— Kukaties sen vielä muistan, vastasi Hilma.
+
+598
+00:57:51,730 --> 00:57:53,760
+— Luepas Hilma se runo!
+
+599
+00:57:53,760 --> 00:57:58,590
+Me olemme herastuomarin kanssa tässä pakinoineet vesikaaresta.
+
+600
+00:57:58,590 --> 00:58:03,840
+Hilma Hietanen ujosteli ensin vähäisen, mutta sitten sanoi:
+
+601
+00:58:03,840 --> 00:58:07,360
+— Näinhän se runo muistaakseni oli:
+
+602
+00:58:07,360 --> 00:58:10,300
+VESIKAARESTA.
+
+603
+00:58:10,300 --> 00:58:12,740
+Ken ei teistä tuntisi
+
+604
+00:58:12,740 --> 00:58:14,590
+Vanhaa Ruoti-Liisaa?
+
+605
+00:58:14,590 --> 00:58:16,220
+Hällä Lasten huviksi
+
+606
+00:58:16,220 --> 00:58:17,900
+Tarinoita piisaa.
+
+607
+00:58:17,900 --> 00:58:20,180
+Hän se kerran kertoi näin.
+
+608
+00:58:20,180 --> 00:58:22,860
+Tahi joinkuin sinnepäin:
+
+609
+00:58:22,860 --> 00:58:25,310
+Niittämässä niityllään
+
+610
+00:58:25,310 --> 00:58:27,090
+Kun ol' ukko-vaari,
+
+611
+00:58:27,090 --> 00:58:28,880
+Siinä hänen edessään
+
+612
+00:58:28,880 --> 00:58:30,890
+Loisti vesikaari;
+
+613
+00:58:30,890 --> 00:58:32,300
+Viikatteella siepaten
+
+614
+00:58:32,300 --> 00:58:34,700
+Katkas ukko poikki sen.
+
+615
+00:58:34,700 --> 00:58:36,980
+Kenpä voisi kertoa
+
+616
+00:58:36,980 --> 00:58:38,380
+Ukon kummastusta,
+
+617
+00:58:38,380 --> 00:58:39,840
+Kun nyt vesikaaresta
+
+618
+00:58:39,840 --> 00:58:41,370
+Kirpos lehmä musta!
+
+619
+00:58:41,370 --> 00:58:43,120
+Vielä rainta kultainen,
+
+620
+00:58:43,120 --> 00:58:45,370
+Sekä leipä rukiinen!
+
+621
+00:58:45,370 --> 00:58:47,910
+Lapsijoukko jutun tään
+
+622
+00:58:47,910 --> 00:58:49,470
+Mieliksensä kuuli,
+
+623
+00:58:49,470 --> 00:58:51,360
+Mölli-Mikko yksinään
+
+624
+00:58:51,360 --> 00:58:52,870
+Todeksi sen luuli, —
+
+625
+00:58:52,870 --> 00:58:55,560
+Päätti: kerran teen mä työn,
+
+626
+00:58:55,560 --> 00:58:57,860
+Vesikaaren poikki lyön!
+
+627
+00:58:57,860 --> 00:58:59,930
+Tuli sade; päivä kun
+
+628
+00:58:59,930 --> 00:59:01,310
+Painoi pisaroihin,
+
+629
+00:59:01,310 --> 00:59:02,890
+Mikko kaaren kaivatun
+
+630
+00:59:02,890 --> 00:59:04,170
+Ilmestyvän noihin
+
+631
+00:59:04,170 --> 00:59:06,850
+Äkkäs, — tempas viikatteen
+
+632
+00:59:06,850 --> 00:59:08,990
+Ilomielin olalleen!
+
+633
+00:59:08,990 --> 00:59:11,320
+Ahon halki kaaren luo
+
+634
+00:59:11,320 --> 00:59:13,220
+Juoksemaan hän läksi.
+
+635
+00:59:13,220 --> 00:59:15,500
+Mutta kaari, kumma tuo,
+
+636
+00:59:15,500 --> 00:59:17,530
+Siirtyi etemmäksi!
+
+637
+00:59:17,530 --> 00:59:19,460
+Rankkasade taivaasta
+
+638
+00:59:19,460 --> 00:59:21,720
+Kastoi poika poloista,
+
+639
+00:59:21,720 --> 00:59:23,830
+Kivien ja kantojen
+
+640
+00:59:23,830 --> 00:59:25,260
+Yli Mikko koikki,
+
+641
+00:59:25,260 --> 00:59:26,890
+Nevojen ja rämeiden,
+
+642
+00:59:26,890 --> 00:59:28,580
+Purojenki poikki.
+
+643
+00:59:28,580 --> 00:59:30,690
+Kädet, jalat veristyi,
+
+644
+00:59:30,690 --> 00:59:33,180
+Itkuun raukka heristyi.
+
+645
+00:59:33,180 --> 00:59:35,790
+Tiesi kuink' ois käynytki
+
+646
+00:59:35,790 --> 00:59:37,880
+Viimein moisen ilveen. —
+
+647
+00:59:37,880 --> 00:59:39,540
+Aurinko tok' armahti,
+
+648
+00:59:39,540 --> 00:59:41,100
+Pistäysi pilveen.
+
+649
+00:59:41,100 --> 00:59:43,070
+Samass' oli kaari pois!
+
+650
+00:59:43,070 --> 00:59:45,600
+Mistä tavata sen vois?
+
+651
+00:59:45,600 --> 00:59:48,410
+Viimein pääsi kotiaan
+
+652
+00:59:48,410 --> 00:59:49,790
+Mikko läpimärkä.
+
+653
+00:59:49,790 --> 00:59:51,770
+Toiset lapset pilkkanaan:
+
+654
+00:59:51,770 --> 00:59:53,540
+Lehmäkö vai härkä
+
+655
+00:59:53,540 --> 00:59:54,610
+Kaaress' oli?
+
+656
+00:59:54,610 --> 00:59:55,470
+Mitä sait?
+
+657
+00:59:55,470 --> 00:59:57,900
+Mikko noljotti nyt vait.
+
+658
+00:59:59,000 --> 01:00:04,020
+Hilman teeskentelemätön ja yksinkertainen lausuminen hauskutti kaikkia.
+
+659
+01:00:04,020 --> 01:00:13,710
+Taiteellista sievistelyä ei siinä ollut, mutta sitä korvasi nuoruuden lämpö, lapsellinen sulous ja raitis luonnollisuus.
+
+660
+01:00:13,710 --> 01:00:17,760
+Renki Mikko paukahutti kämmenensä yhteen sanoen:
+
+661
+01:00:17,760 --> 01:00:19,910
+— Sellainen kaima mulla oli!
+
+662
+01:00:19,910 --> 01:00:21,200
+— — mulla oli!
+
+663
+01:00:21,200 --> 01:00:24,430
+tokasi kaiku Lehtovaaran rinteeltä.
+
+664
+01:00:24,430 --> 01:00:29,660
+Silloin alkoi koko joukko taputtaa käsiään ja äänekkäästi nauraa.
+
+665
+01:00:29,660 --> 01:00:34,960
+Ja Lehtovaaran rinteeltä kuului käsien taputus ja äänekäs nauru.
+
+666
+01:00:34,960 --> 01:00:48,470
+Tuntuipa siltä, ikäänkuin Tapio ja Mielikki poikineen ja tyttärineen siellä koivujen ja leppien siimeksissä olisivat yhtyneet talkooväen ilonilmaukseen, tyynenä iltapäivänä.
+
+667
+01:00:48,470 --> 01:00:57,050
+— Ja nyt kun täältä kotia pääsemme, sanoi isäntä, niin älköön kukaan hiiskuko mitään käärmeenpistoksesta.
+
+668
+01:00:57,050 --> 01:01:01,530
+Kertokoon herastuomari sen tapauksen juurtajaksain.
+
+669
+01:01:01,530 --> 01:01:04,170
+— Niin, kieli lukkoon tytöt!
+
+670
+01:01:04,170 --> 01:01:11,480
+Kuka sitä ennen sen asian virkkaa, sille piukkua paukkua niskaan, lisäsi Timo Terhakka.
+
+671
+01:01:11,480 --> 01:01:17,540
+Otettiin sitten takit käsivarrelle ja työaseet olalle ja lähdettiin kotiin.
+
+672
+01:01:17,540 --> 01:01:28,230
+Ruokaeväitä oli jäänyt enemmän kuin puolet tähteeksi, mutta kaljatynnyrit ja maitoleilit oli janoinen väki helteisenä päivänä tarkoin tyhjentänyt.
+
+673
+01:01:28,230 --> 01:01:34,570
+Sitä paitsi oli Härkälähteestä raikasta vettä monta tuohilipillistä janoisiin suihin suikahtanut.
+
+674
+01:01:34,570 --> 01:01:39,800
+Pitempää tietä kuljetti Mikko eväiden tähteet kärryillä kotiin.
+
+675
+01:01:41,600 --> 01:01:44,040
+Kolmannen luvun loppu
+
+676
+01:01:49,460 --> 01:01:51,640
+Salmelan heinätalkoot
+
+677
+01:01:51,640 --> 01:01:53,130
+Neljäs luku
+
+678
+01:01:53,130 --> 01:01:56,450
+Kirjoittanut
+Olli Wuorinen
+
+679
+01:01:56,450 --> 01:01:59,510
+Tämä on LibriVox - äänite.
+
+680
+01:01:59,510 --> 01:02:03,830
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+681
+01:02:03,830 --> 01:02:13,440
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+682
+01:02:13,440 --> 01:02:17,900
+Lukijana Harri Tapani Ylilammi
+
+683
+01:02:17,900 --> 01:02:22,560
+Salmelan heinätalkoot
+Neljäs luku
+
+684
+01:02:24,500 --> 01:02:27,460
+Kotoiset työt olivat myöskin hyvin onnistuneet.
+
+685
+01:02:27,460 --> 01:02:30,240
+Kotanurmen heinät olivat ru'oilla.
+
+686
+01:02:30,240 --> 01:02:34,550
+Yht'aikaa saapui väki molemmilta niityiltä pihaan.
+
+687
+01:02:34,550 --> 01:02:39,470
+Kovasti oli Salmelassakin ukkonen jyrissyt, mutta ei ollut satanut.
+
+688
+01:02:39,470 --> 01:02:50,770
+Salaman välähtäessä oli Pekka Juntunen pannut kätensä ristiin haravansa vartta vasten ja rukoillut itsekseen, eikä tietysti kukaan hartaan miehen rukousta häirinnyt.
+
+689
+01:02:50,770 --> 01:02:54,890
+Sauna oli lämmitetty — kuinkas muuten!
+
+690
+01:02:54,890 --> 01:02:57,700
+Saunahan on Karjalassa kaikki kaikissa.
+
+691
+01:02:57,700 --> 01:03:10,900
+Miespuoliset menivät ensinnä saunan löylyssä hikeään huuhtomaan, toiset uiskentelivat salmessa, muutamat juoksivat saunan ankarasta kuumuudesta oikopäätä salmeen pulskaroimaan.
+
+692
+01:03:10,900 --> 01:03:17,980
+Vieremän Jussi kehui kylpevänsä niin ankarassa löylyssä, että kyllä siinä silakka saunan seinällä paistuisi.
+
+693
+01:03:17,980 --> 01:03:22,620
+Naispuoliset kylpivät jälestäpäin, kuten tavallista on.
+
+694
+01:03:23,800 --> 01:03:27,440
+Emäntä oli Hetvin kanssa valmistanut vankan illallisen.
+
+695
+01:03:27,440 --> 01:03:30,590
+Kylpy-aikana pantiin ruoka pöydille.
+
+696
+01:03:30,590 --> 01:03:36,950
+Kun väki oli saanut itsensä pestyksi ja kuivatuksi istui se pöytien ääreen.
+
+697
+01:03:36,950 --> 01:03:49,010
+Herastuomarille oli emäntä aikonut panna kamariin illallisen, koska tupa oli niin kovin lämmin, mutta Hetvi oli arvellut, ettei lämmin luita riko, siinä mies kestää missä toinenkin.
+
+698
+01:03:49,010 --> 01:03:54,090
+Niinpä nyt asetettiin herastuomari kunniasijalle peräpöydän päähän.
+
+699
+01:03:54,090 --> 01:04:04,910
+— No, isäntä on toki vieraan väärti, sanotaan sananlaskussa, tule pois, Antti isäntä, viereeni, kutsui herastuomari.
+
+700
+01:04:04,910 --> 01:04:14,150
+— Niin, yhdessähän me mylväsimme ladossakin heiniä painelemassa, syömmekin nyt rinnakkain, vastasi Salmelan isäntä.
+
+701
+01:04:14,150 --> 01:04:21,190
+Hetvi ei ruvennut ruualle, hän autteli emäntää ruokien lisäilemisessä ja järjestämisessä.
+
+702
+01:04:21,190 --> 01:04:27,310
+Kuultuaan isänsä olleen Salmelan isännän kanssa heiniä painelemassa, kysyi hän:
+
+703
+01:04:27,310 --> 01:04:30,660
+— Oliko siellä ladossa hauskaa ja hupaista?
+
+704
+01:04:30,660 --> 01:04:38,280
+— Oikein hauskaa, oikein hupaista, vastasi Antti Salminen ja nykäsi kyynärpäillänsä herastuomaria.
+
+705
+01:04:38,280 --> 01:04:44,800
+— Hauskaahan siellä oli, mutta kovin äkisti se hauskuus katkesi, virkkoi herastuomari.
+
+706
+01:04:44,800 --> 01:04:48,550
+— Kuinka niin, sanokaa, tiedusti Hetvi.
+
+707
+01:04:48,550 --> 01:04:53,820
+Herastuomari kertoi nyt käärmeenpistoseikan Takamaan niityllä.
+
+708
+01:04:53,820 --> 01:05:00,810
+He kun heiniä sulloivat ja survoivat latoon, kuulivat huudettavan: mato pisti Samua!
+
+709
+01:05:00,810 --> 01:05:06,250
+Tultuaan ulos näkivät he jo Hietalan Hilman imemässä myrkkyä haavoista.
+
+710
+01:05:06,250 --> 01:05:11,900
+Yksityiskohdissa teki herastuomarin kertomukseen lisäyksiä yksi ja toinen.
+
+711
+01:05:11,900 --> 01:05:17,780
+Jännitetyllä huomiolla kuuntelivat Kotanurmella ja kotona olleet ihmiset kertomusta.
+
+712
+01:05:17,780 --> 01:05:27,710
+Emäntä tarkasteli poikansa otsaa, jossa myrkkyhampaiden jälet hyvästi näkyivät, eikä tahtonut lakata ihmettelemästä ja siunailemasta.
+
+713
+01:05:27,710 --> 01:05:39,630
+Kun Pekka Juntunen kuuli, että Mörskyn Marketta oli yritellyt niin jumalattomaan toimeen kuin loihtimiseen, pani hän tyynesti kätensä ristiin ja hänen huulensa vähän liikahtelivat.
+
+714
+01:05:39,630 --> 01:05:43,930
+Kaikki vaikenivat, antaen kunnioitusta hartaudelle.
+
+715
+01:05:43,930 --> 01:05:53,940
+Vieremän Jussi oli juuri aikonut Marketalle muistuttaa mustaa maton, mutta nyt hänkin jätti sen sanomatta ja Marketta jäi suuttumatta.
+
+716
+01:05:55,040 --> 01:05:56,940
+— Hyv' iltaa taloon!
+
+717
+01:05:56,940 --> 01:05:59,080
+— Jumal' antakoon!
+
+718
+01:05:59,080 --> 01:06:01,350
+— Mitä Matille kuuluu?
+
+719
+01:06:01,350 --> 01:06:05,050
+— Leukain lusketta ja suun napsetta.
+
+720
+01:06:05,050 --> 01:06:08,070
+Väkeä täällä kuin helluntai-epist ...
+
+721
+01:06:08,070 --> 01:06:20,440
+(Emäntä nykäsi vierasta viitaten Pekka Juntuseen, jonka kädet taas silmänräpäyksessä sävähtivät ristiin) ... niin, väkeä täällä nuorta kuin heinää ja kaikki ääneti kuin etanat.
+
+722
+01:06:20,440 --> 01:06:26,850
+— Pane pois Matti viulusi ja toimita suusi yhteiseen puuhaan, virkkoi isäntä.
+
+723
+01:06:26,850 --> 01:06:30,990
+— Tuossa Samun vieressä on tilaa, huomautti emäntä.
+
+724
+01:06:30,990 --> 01:06:39,340
+Matti ripusti viulunsa ovenpielessä olevaan naulaan ja silloin huomasi Törsövän Tanelin istuvan siellä pöydän alapäässä.
+
+725
+01:06:39,340 --> 01:06:43,560
+— Tanelikin täällä ja sittenkin hiljaista kuin hautajaisissa!
+
+726
+01:06:43,560 --> 01:06:45,710
+Mihinkäs nyt merkki piirretään?
+
+727
+01:06:45,710 --> 01:06:48,320
+Minä käyn syömään Tanelin viereen.
+
+728
+01:06:48,320 --> 01:06:53,440
+Me sovimme yhteen yhtä hyvästi kuin kaksi täysikasvuista kukkopoikaa.
+
+729
+01:06:53,440 --> 01:06:56,470
+— Taneli on tänään tainnut puhua enemmän...
+
+730
+01:06:56,470 --> 01:06:58,410
+— Tyst-stoj-vait!
+
+731
+01:06:58,410 --> 01:07:00,800
+keskeytti Törsövän Taneli.
+
+732
+01:07:00,800 --> 01:07:05,720
+— Kas se poika osaa ruotsit, venäjät ja kaikki kielet, kehui vieras.
+
+733
+01:07:05,720 --> 01:07:10,690
+Minä en osaa muuta kuin suomea ja tätä kieltä, toimeen täytyy tulla.
+
+734
+01:07:10,690 --> 01:07:15,010
+Vasta tullut iloinen vieras oli Toholan torpan poika.
+
+735
+01:07:15,010 --> 01:07:19,860
+Matti Mäntynen, paikkakunnalla hyvin tunnettu "Viulu-Matti".
+
+736
+01:07:19,860 --> 01:07:24,870
+Hänelle oli Samu lähettänyt sanan, ettei unohtaisi talkoita.
+
+737
+01:07:24,870 --> 01:07:27,240
+Eikä Matti niitä unohtanut.
+
+738
+01:07:27,240 --> 01:07:30,260
+— Satoiko siellä Niinisyrjän puolella?
+
+739
+01:07:30,260 --> 01:07:31,860
+kysyi herastuomari.
+
+740
+01:07:31,860 --> 01:07:38,010
+— Niinkuin saavista olisi kaatanut, ja meidän viiritangon löi ukkonen pieniksi pirstoiksi.
+
+741
+01:07:38,010 --> 01:07:40,320
+— Eikö rakeita tullut?
+
+742
+01:07:40,320 --> 01:07:42,070
+— Ei meidän paikoilla.
+
+743
+01:07:42,070 --> 01:07:47,250
+Kukkaropohjan kohdalla oli tiellä ja aholla rakeita, jotta maa näytti valkealta.
+
+744
+01:07:47,250 --> 01:07:53,770
+— Ei ollut sade meistä kaukana, yhden kilometrin päässä, virkkoi Salmelan isäntä.
+
+745
+01:07:53,770 --> 01:07:56,370
+— Eikös Takamaan niityllä satanut?
+
+746
+01:07:56,370 --> 01:07:57,940
+kysyi Matti.
+
+747
+01:07:57,940 --> 01:08:00,150
+— Ei tippaakaan!
+
+748
+01:08:00,150 --> 01:08:06,940
+— Mutta kiire meillä siellä sittenkin oli, sanoi Samu, ja katsos otsassani oli vielä kiireen merkit.
+
+749
+01:08:06,940 --> 01:08:09,210
+— Ampiaisen pistämät?
+
+750
+01:08:09,210 --> 01:08:20,910
+— Niin, ampiaisen pistämät, puuttui puheesen Vieremän Jussi, semmoisen jalattoman, harmaan ampiaisen, jota Mörskyn Marketta sanoi mustaksi madoksi.
+
+751
+01:08:20,910 --> 01:08:25,880
+— Lakkaa jo tuosta, kiusan kappale, karnuttamasta!
+
+752
+01:08:25,880 --> 01:08:28,210
+räsähti Marketta.
+
+753
+01:08:28,210 --> 01:08:32,920
+— Saattaahan ihminen erehtyä, virkkoi isäntä lepytellen.
+
+754
+01:08:32,920 --> 01:08:36,000
+Marketta vaan hiukan erehtyi värissä.
+
+755
+01:08:36,000 --> 01:08:44,750
+— Eihän se Marketta enään tarkasti näe vanhoilla hampaillaan, murahti Jussi hiljaan, mutta sitä ei Marketta kuullut.
+
+756
+01:08:44,750 --> 01:08:47,910
+— Eikä se enään ole tarkkakuuloinenkaan!
+
+757
+01:08:47,910 --> 01:08:58,490
+Takamaan niityltä tullessa lyödä nalkkasi varpaansa terävään kiveen, eikä tiennyt asiasta mitään ennenkuin toiset tytöt huomauttivat: Marketan varpaasta vuotaa vertä!
+
+758
+01:08:58,490 --> 01:09:10,620
+Vasta sitten rupesi tyttö parka siihen räsyä hankkimaan, mumisi Törsövän Taneli sangen totisena, mutta niillä, jotka sen kuulivat, oli työ tuska naurua hillitessä.
+
+759
+01:09:10,620 --> 01:09:14,980
+Viulu-Matille kerrottiin tapahtuma Takamaan niityllä.
+
+760
+01:09:14,980 --> 01:09:18,830
+Hänkin ihmetteli suuresti Hilman rohkeutta.
+
+761
+01:09:18,830 --> 01:09:22,720
+Hetviin ei näyttänyt kertomus erittäin vaikuttavan.
+
+762
+01:09:22,720 --> 01:09:24,560
+Herastuomari kysyi:
+
+763
+01:09:24,560 --> 01:09:29,410
+— Olisitko sinä Hetvi uskaltanut tehdä Hietalan Hilman tavalla?
+
+764
+01:09:29,410 --> 01:09:30,620
+— Hyi!
+
+765
+01:09:30,620 --> 01:09:32,210
+huudahti Hetvi.
+
+766
+01:09:32,210 --> 01:09:36,220
+Samu katsahti Hilmaan ja Hilma Samuun päin.
+
+767
+01:09:36,220 --> 01:09:40,210
+Tuo pieni huudahdus saattoi Hilman mielen levottomaksi.
+
+768
+01:09:40,210 --> 01:09:42,930
+Oliko hän menetellyt sopimattomasti?
+
+769
+01:09:42,930 --> 01:09:48,310
+Hetvi, korkeampia kouluja käynyt, ei olisi niin tehnyt kuin hän teki.
+
+770
+01:09:48,310 --> 01:09:54,410
+Olisiko Hetvillä ollut sydäntä nähdä Samun pöhöttyvän, kangistuvan, mustenevan ja kuolevan?
+
+771
+01:09:54,410 --> 01:10:04,430
+Ruualta päästyä sopotti Hilma jotakin emännän korvaan, pistäysi salavihkaa ulos ja riensi kotiinsa kertomaan vanhemmillensa mitä oli tapahtunut.
+
+772
+01:10:04,430 --> 01:10:09,330
+Mörskyn Marketta oli ensimäinen, joka huomasi Hilman lähteneeksi.
+
+773
+01:10:09,330 --> 01:10:10,650
+Hän sanoi:
+
+774
+01:10:10,650 --> 01:10:17,290
+— Minä pelkään pahoin, että se tyttöriepu kuolee kotiin mennessään, kovin oli kipeän näköinen.
+
+775
+01:10:17,290 --> 01:10:21,450
+Nyt vasta muutkin tytöt huomasivat, että Hilma oli poissa.
+
+776
+01:10:21,450 --> 01:10:26,300
+— Eihän se meistä sairaalta näyttänyt, vastasivat toiset tytöt.
+
+777
+01:10:26,300 --> 01:10:27,310
+— Vai ei!
+
+778
+01:10:27,310 --> 01:10:30,630
+Kovin hehkuivat kasvot, ei se ollut oikeaa punaa!
+
+779
+01:10:30,630 --> 01:10:34,150
+Käärmeen myrkky saattaa myöhemminkin pöhöttää ja tappaa.
+
+780
+01:10:34,150 --> 01:10:37,520
+Kyllä minä tiedän, höpisi Marketta.
+
+781
+01:10:37,520 --> 01:10:41,240
+Emäntä kuuli Marketan höpinän ja sanoi:
+
+782
+01:10:41,240 --> 01:10:43,660
+— Älä pidä turhaa huolta Hilmasta!
+
+783
+01:10:43,660 --> 01:10:50,780
+Terveenä se tyttö täältä lähti vanhempainsa luo yöksi ja terveenä se huomis-aamulla palajaa tänne.
+
+784
+01:10:51,820 --> 01:10:57,070
+Hilman isä ja äiti olivat illallista syömässä, kun hän saapui kotiinsa.
+
+785
+01:10:57,070 --> 01:11:01,600
+He huomasivat heti, että jotain tärkeää oli tytöllä sanottavana.
+
+786
+01:11:01,600 --> 01:11:05,680
+Eivät he kuitenkaan mitään kysyneet, odottivat ääneti.
+
+787
+01:11:05,680 --> 01:11:08,470
+Hilma kertoi tapahtuman.
+
+788
+01:11:08,470 --> 01:11:14,090
+Sekä isä että äiti kiittivät tyttärensä toimeliaisuutta ja rohkeutta.
+
+789
+01:11:14,090 --> 01:11:16,870
+Se lievensi Hilman sydän-alaa.
+
+790
+01:11:16,870 --> 01:11:23,400
+— Entä jos toverit rupeavat minua pilkkaamaan, sanoi Hilma hetken vaiti oltuaan.
+
+791
+01:11:23,400 --> 01:11:29,290
+— Ei kukaan kunnon ihminen sellaista tekoa pilkkaa, vakuuttivat vanhemmat.
+
+792
+01:11:29,290 --> 01:11:33,380
+Hilma rauhottui ja jäi kotiinsa yöksi.
+
+793
+01:11:33,380 --> 01:11:36,480
+Tanssimaan ei hänen mielensä nyt tehnyt.
+
+794
+01:11:36,480 --> 01:11:43,490
+Hetviähän se Samu tämän iltaa tanssittelee, ajatteli hän, ja taas tuntui niin kummalliselta.
+
+795
+01:11:43,490 --> 01:11:50,590
+Hän halusi nähdä, pyörittääkö Samu Hetviä yhtä innokkaasti kuin oli häntä Takanaan nurmella pyörittänyt.
+
+796
+01:11:50,590 --> 01:11:55,020
+Ajatukset risteilivät, kunnes uni taivutti hänet.
+
+797
+01:11:55,020 --> 01:11:57,900
+Palaamme Salmelaan.
+
+798
+01:11:57,900 --> 01:12:02,490
+Illallisen jälkeen tarjottiin talkooväelle teevettä.
+
+799
+01:12:02,490 --> 01:12:05,720
+Isäntä oli kovin mielissään työn onnistumisesta.
+
+800
+01:12:05,720 --> 01:12:11,640
+Hän ilmoitti, ettei kenkään kiiruhtelisi kotiinsa ennenkuin huomis-iltana.
+
+801
+01:12:11,640 --> 01:12:17,600
+Suolaa, leipää on talossa ja vettä salmessa palanpainoksi, sanoi hän.
+
+802
+01:12:17,600 --> 01:12:23,500
+— No, kun teillä on hyvä pito, niin meillä on parempi olo, kuului vastaus joukosta.
+
+803
+01:12:23,500 --> 01:12:25,090
+Ja sitten:
+
+804
+01:12:25,090 --> 01:12:25,880
+Viu —!
+
+805
+01:12:25,880 --> 01:12:26,830
+pani viulu.
+
+806
+01:12:26,830 --> 01:12:28,300
+Ja nyt joka henki,
+
+807
+01:12:28,300 --> 01:12:30,240
+Niin piika kuin renki
+
+808
+01:12:30,240 --> 01:12:31,880
+Jo tanssia voi!
+
+809
+01:12:31,880 --> 01:12:32,680
+Hiu —!
+
+810
+01:12:32,680 --> 01:12:33,880
+huusi Hiski,
+
+811
+01:12:33,880 --> 01:12:35,400
+Kun Jussikin, juuri
+
+812
+01:12:35,400 --> 01:12:36,950
+Se tanssija suuri
+
+813
+01:12:36,950 --> 01:12:39,170
+Jo tyttöä toi!
+
+814
+01:12:39,170 --> 01:12:43,930
+Nuoret tytöt ja nuoret pojat tanssivat sangen ketterästi.
+
+815
+01:12:43,930 --> 01:12:48,520
+Päivän ankara työ ei ensinkään näyttänyt heitä uuvuttavan.
+
+816
+01:12:48,520 --> 01:12:54,150
+Kovalla pihantanterella kiepsahtelivat he monenlaatuisissa kansallistansseissa.
+
+817
+01:12:54,150 --> 01:13:01,390
+Siinä pistettiin "nelinurkkaista", "kieputusta", "pilkistystä" ja "ristitanssia".
+
+818
+01:13:01,390 --> 01:13:03,870
+Hetvikin heilui parvessa.
+
+819
+01:13:03,870 --> 01:13:06,160
+Samu ei päten tanssinut.
+
+820
+01:13:06,160 --> 01:13:09,700
+Törsövän Taneli liehkasi kovasti.
+
+821
+01:13:10,740 --> 01:13:13,400
+Maatapanon-aika lähestyi.
+
+822
+01:13:15,500 --> 01:13:26,340
+Salmelan asuinrakennus oli ollut vanhastaan tälläinen: kaksi paksuista hongista salvettua tupaa vastatusten ja niiden välissä tilava porstua, ovet molemmin puolin.
+
+823
+01:13:26,340 --> 01:13:39,760
+Nykyinen isäntä oli jakanut toisen tuvan väliseinällä kahdeksi kamariksi, ja porstuvan toiseen päähän tehnyt oven sijaan ikkunan sekä lohkaissut väliseinällä osan porstuasta ruokakammioksi.
+
+824
+01:13:41,020 --> 01:13:43,900
+Vanhemmat ihmiset olivat jo laskeutuneet levolle.
+
+825
+01:13:43,900 --> 01:13:50,530
+Molemmat isännät makasivat toisessa kamarissa, toiseen oli vuode tehty emännälle ja Hetville.
+
+826
+01:13:50,530 --> 01:13:54,620
+Muut makasivat tuvan ja liiterin puhtailla oljilla.
+
+827
+01:13:54,620 --> 01:14:00,890
+Koukussa kuni kysymysmerkki makasi Pekka Juntunen lyhyessä kirkko-reessä liiterissä.
+
+828
+01:14:00,890 --> 01:14:04,930
+Emännän tarkka silmä seurasi nuorten leikkejä.
+
+829
+01:14:04,930 --> 01:14:13,880
+Kun leikkien lopettamisen aika oli tullut, meni emäntä vaate-aittaan, jonka lattialle oli niinikään olkia paksulta levitetty.
+
+830
+01:14:13,880 --> 01:14:19,860
+— Tytöt varmaan tahtovat jo käydä levolle, sanoi hän; täällä on tilaa teille.
+
+831
+01:14:19,860 --> 01:14:21,470
+— Kiitoksia vaan!
+
+832
+01:14:21,470 --> 01:14:23,490
+hymähti vastaus.
+
+833
+01:14:23,490 --> 01:14:27,280
+Toinen toisensa perästä pistäytyivät tytöt aittaan.
+
+834
+01:14:27,280 --> 01:14:30,710
+Hetvin kanssa lähti sitten emäntä kamariin.
+
+835
+01:14:30,710 --> 01:14:35,400
+Samu kehoitti poikia tulemaan kanssansa liiteriin makaamaan.
+
+836
+01:14:35,400 --> 01:14:41,530
+Useimmat tottelivat kehoitusta, mutta muutamat jäivät pihalle seisomaan ja tupakoimaan.
+
+837
+01:14:41,530 --> 01:14:47,650
+Kotvasen siinä seisottuaan astuivat pojat muutaman askelen avonaista aitan ovea kohti.
+
+838
+01:14:47,650 --> 01:14:51,780
+Silloin kuului seuraava, hiljainen vuorolaulu:
+
+839
+01:14:51,780 --> 01:14:53,420
+Pojat:
+
+840
+01:14:53,420 --> 01:14:57,220
+Tyttökullat, vehnäpullat, kuinkas nyt on laita?
+
+841
+01:14:57,220 --> 01:15:01,270
+Poikain täytyy kuljeksia pitkin pihamaita!
+
+842
+01:15:01,270 --> 01:15:03,290
+Tytöt:
+
+843
+01:15:03,290 --> 01:15:07,320
+Ettehän te, kunnon pojat, mielinekään tänne.
+
+844
+01:15:07,320 --> 01:15:10,510
+Moinen tuuma oisi teidän oma häpeänne.
+
+845
+01:15:10,510 --> 01:15:11,810
+Pojat:
+
+846
+01:15:11,810 --> 01:15:15,080
+Eihän poika karhu ole, eikä jalopeura.
+
+847
+01:15:15,080 --> 01:15:18,890
+Miksi teitä peloittaapi poikasien seura?
+
+848
+01:15:18,890 --> 01:15:20,880
+Tytöt:
+
+849
+01:15:20,880 --> 01:15:24,790
+Kunnon tyttö Karjalassa hän oi ole halpa,
+
+850
+01:15:24,790 --> 01:15:28,870
+Häll' on lukko aitassansa taikka takasalpa.
+
+851
+01:15:28,870 --> 01:15:31,960
+Pojat:
+
+852
+01:15:31,960 --> 01:15:35,060
+Kyllä pojat senkin seikan tarkallehen tietää,
+
+853
+01:15:35,060 --> 01:15:39,060
+Siit' ei ketään moitita ja kiitosta se sietää.
+
+854
+01:15:39,060 --> 01:15:40,530
+Tytöt:
+
+855
+01:15:40,530 --> 01:15:44,440
+Menkää, pojat, matkoihinne, menkää, mitäs auttaa.
+
+856
+01:15:44,440 --> 01:15:48,670
+Tyttöin aittaan polku käypi papintalon kautta!
+
+857
+01:15:48,670 --> 01:15:55,420
+Kaivolan Kaisa ilmestyi laulaen, takasalpa kädessä, aitan ovelle.
+
+858
+01:15:55,420 --> 01:16:02,480
+— Kuulepas Kaisa, sinä laululintu siellä aitassa, onko se naimahommissa oleminen hauskaa?
+
+859
+01:16:02,480 --> 01:16:10,000
+Sinuahan on jo kaksi kertaa oikein kirkossa kuulutettu Suosaaren Hannon kanssa, huomenna heilautetaan kolmas kerta.
+
+860
+01:16:10,000 --> 01:16:13,790
+Sinä tunnet pappilan polut ja portaat, onkos se hauskaa?
+
+861
+01:16:13,790 --> 01:16:16,270
+kysyi Vieremän Jussi.
+
+862
+01:16:16,270 --> 01:16:18,230
+— Vielä hän kysyy!
+
+863
+01:16:18,230 --> 01:16:20,010
+vastasi Kaisa.
+
+864
+01:16:20,010 --> 01:16:21,730
+— Sitähän minäkin!
+
+865
+01:16:21,730 --> 01:16:28,660
+Olen tässä minäkin aikonut antaa itseäni vähän kuuluttaa, mutta pitäisi oikeastaan sitä varten hankkia morsian.
+
+866
+01:16:28,660 --> 01:16:30,900
+En muistanut päivällä...
+
+867
+01:16:30,900 --> 01:16:36,990
+— Päivällä et muista, yöllä et näe valita, keskeyttivät tytöt nauraen.
+
+868
+01:16:36,990 --> 01:16:44,300
+— Jos minä jään vanhaksi pojaksi, niin se tapahtuu tyttöjen sydämen kovuuden vuoksi ... teidän sydämenne...
+
+869
+01:16:44,300 --> 01:16:51,320
+— Emäntä katsoo tänne porstuvan ovelta, kuiskasi Kaisa ja sulki kiiruusti aitan oven.
+
+870
+01:16:51,320 --> 01:16:58,820
+Pojat eivät ottaneet selkoa katseliko emäntä todellakin, vai oliko se vaan Kaisan keksimä juoni.
+
+871
+01:16:58,820 --> 01:17:01,180
+Taisi olla puoliyön aika.
+
+872
+01:17:01,180 --> 01:17:09,630
+Laulurastaan liverrykset ja ruisrääkän narskutukset olivat vast'ikään pihaan kuuluneet, mutta nyt olivat nekin vaienneet.
+
+873
+01:17:09,630 --> 01:17:15,320
+Karjapihassa märehtivien lehmien kellot ainoastaan joskus heikosti helähtelivät.
+
+874
+01:17:15,320 --> 01:17:21,390
+Muutama himmeä tähti koetti tirkistellä korkeudesta alas valoisana kesäyönä.
+
+875
+01:17:21,390 --> 01:17:25,140
+Hetkisen tuumaeltua lähtivät pojat Kotanurmelle.
+
+876
+01:17:25,140 --> 01:17:31,960
+He paiskasivat latoon muutamia heinärukoja, levittelivät heinät hajalle ja kupertuivat sitten itse niihin.
+
+877
+01:17:31,960 --> 01:17:39,800
+Päivän ponnistusten perästä ja iltahyppyjen raukaisemana nukkuivat he heti sikeimpään uneen.
+
+878
+01:17:41,320 --> 01:17:43,680
+Neljännen luvun loppu
+
+879
+01:17:49,400 --> 01:17:51,660
+Salmelan heinätalkoot
+
+880
+01:17:51,660 --> 01:17:53,170
+Viides luku
+
+881
+01:17:53,170 --> 01:17:56,510
+Kirjoittanut
+Olli Wuorinen
+
+882
+01:17:56,510 --> 01:17:59,570
+Tämä on LibriVox - äänite.
+
+883
+01:17:59,570 --> 01:18:03,890
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+884
+01:18:03,890 --> 01:18:13,500
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+885
+01:18:13,500 --> 01:18:17,960
+Lukijana Harri Tapani Ylilammi
+
+886
+01:18:17,960 --> 01:18:22,660
+Salmelan heinätalkoot
+Viides luku
+
+887
+01:18:24,600 --> 01:18:28,910
+Sunnuntai-aamu oli sanomattoman ihana ja herttainen.
+
+888
+01:18:28,910 --> 01:18:34,030
+Lukemattomat linnut laulelivat Kotanurmen viereisessä lehdossa.
+
+889
+01:18:34,030 --> 01:18:40,880
+Kuivettuneen koivun latvassa käki kukkui helkytteli kenties viimeisiä kertoja sinä kesänä.
+
+890
+01:18:40,880 --> 01:18:44,600
+Leivosia liritteli joukottain ilmassa.
+
+891
+01:18:44,600 --> 01:18:50,020
+Salmen tyynessä vedessä souteli emäsorsa poikaparvensa etupäässä.
+
+892
+01:18:50,020 --> 01:18:59,920
+Vastapuoleinen ranta näytti olevan kahtena: toinen ylöspäin kohoavana, toinen alaspäin käännettynä veteen — puineen, pensaineen.
+
+893
+01:19:02,340 --> 01:19:05,090
+Varhain oli emäntä noussut liikkeelle.
+
+894
+01:19:05,090 --> 01:19:08,780
+Piika Liisan oli hän herättänyt lehmiä lypsämään.
+
+895
+01:19:08,780 --> 01:19:12,620
+Pari muuta tyttöä oli noussut auttamaan Liisaa.
+
+896
+01:19:12,620 --> 01:19:19,290
+Kun muu väki nousi makaamasta, oli emännällä kahvi keitetty ja kahvikupit pöydällä.
+
+897
+01:19:19,290 --> 01:19:25,850
+Tytöt laittautuivat nyt pyhäpukuihin, joita olivat nyyteissä mukanansa tuoneet.
+
+898
+01:19:25,850 --> 01:19:32,830
+Hietalan Hilmakin ilmaantui muiden tyttöjen joukkoon, omatekoinen sievä puku yllä.
+
+899
+01:19:32,830 --> 01:19:36,950
+Osa poikia oli poissa, muut joivat kahvia.
+
+900
+01:19:36,950 --> 01:19:39,320
+Kadonneita kaivattiin.
+
+901
+01:19:39,320 --> 01:19:48,170
+— Kah, tuoltahan ne kaivatut "illan virkut, aamun torkut" pojat tulevat Kotanurmen ladosta, sanoi Kaivolan Kaisa.
+
+902
+01:19:48,170 --> 01:19:50,370
+— Mutta mitähän ne noin nauravat?
+
+903
+01:19:50,370 --> 01:19:52,740
+Niillä on jotakin hauskaa kerrottavana.
+
+904
+01:19:52,740 --> 01:19:59,430
+Pojat tulivat, siistivät itsensä, mutta salaperäinen nauru väikkyi niiden huulilla.
+
+905
+01:19:59,430 --> 01:20:03,440
+Tyttöjen uteliaisuus kasvoi kasvamistaan.
+
+906
+01:20:03,440 --> 01:20:09,340
+Etenkin Mörskyn Marketta tunsi olevansa onneton, jollei saisi tietää mitä oli tapahtunut.
+
+907
+01:20:09,340 --> 01:20:12,140
+Mutta asiaa ei vaan virkettu.
+
+908
+01:20:12,140 --> 01:20:15,160
+Törsövän Taneli vihdoin ilmaisi:
+
+909
+01:20:15,160 --> 01:20:20,910
+— Vieremän Jussilla on valta joko julkaista tahi olla julkaisematta tuo kätketty salaisuus.
+
+910
+01:20:20,910 --> 01:20:26,170
+— Ei ole mitään tapahtunut, meitä vaan kiusoittelette, arvelivat tytöt.
+
+911
+01:20:26,170 --> 01:20:31,630
+— Ei ole mitään tapahtunut, teitä vaan kiusoittelemme, myönsi Jussi.
+
+912
+01:20:31,630 --> 01:20:36,610
+Mutta kuitenkin kaikitenkin, mikä poikia nauratti?
+
+913
+01:20:36,610 --> 01:20:42,030
+Pekka Juntunen otti Matin viulun käteensä, tarkasteli sitä.
+
+914
+01:20:42,030 --> 01:20:44,330
+— Tunnetko, Pekka, sitä kapinetta?
+
+915
+01:20:44,330 --> 01:20:49,740
+Se on juuri sinun entinen viulusi, sanoi Matti, sen minä vaihdoin Kinnusen Eskolta.
+
+916
+01:20:49,740 --> 01:20:53,250
+Annoin vanhan viuluni ja puolitoista markkaa väliä.
+
+917
+01:20:53,250 --> 01:21:03,300
+— Soitapas nyt, Pekka, joku iloinen liritys, vaikkapa Hollolan polska, soitithan sinä ennenkin, kehoitti Timo Terhakka.
+
+918
+01:21:03,300 --> 01:21:14,190
+Pekka viritti viulun, kosketti sormin kieliin ja vihdoin veti voimakkaasti käyrällä. jotta oitis tuntui viulu olevan tottuneissa käsissä.
+
+919
+01:21:14,190 --> 01:21:16,000
+Kaikki vaikenivat.
+
+920
+01:21:16,000 --> 01:21:19,700
+Jokohan Pekka soittaisi Hollolan polskaa.
+
+921
+01:21:19,700 --> 01:21:26,960
+Pekka asetti viulun perän leukansa alle, avasi suunsa ja lauloi vakaisesti samalla säestäen viululla:
+
+922
+01:21:26,960 --> 01:21:30,930
+Jo joutui armas aika
+
+923
+01:21:30,930 --> 01:21:34,020
+Ja suvi suloinen!
+
+924
+01:21:34,020 --> 01:21:46,670
+Ensimäisen värssyn sai Pekka laulaa yksinään, sillä niin vastakohdalta tuntui tämä sävel sille soitolle mitä Pekalta oli pyydetty, ettei kukaan alussa uskaltanut siihen yhtyä.
+
+925
+01:21:46,670 --> 01:21:54,840
+Mutta jo toista värssyä laulamaan yhtyi muitakin ja vihdoin koko talkooväki veisasi tuota suloista suvivirttä.
+
+926
+01:21:54,840 --> 01:22:04,180
+Kun virsi loppui, pyyhkäsi moni nainen silmästään kyynelen; laulu oli liikuttanut sydämen kieliä herttaisena pyhäaamuna.
+
+927
+01:22:04,180 --> 01:22:06,790
+Herastuomari ei laulanut.
+
+928
+01:22:06,790 --> 01:22:13,370
+Hän sill'aikaa kirjoitti kuulutusta, joka oli kirkkoon vietävä ja se kuului näin:
+
+929
+01:22:13,370 --> 01:22:15,460
+Kulutus.
+
+930
+01:22:15,460 --> 01:22:20,150
+Minä Allen Kirioittanu Annan Suren korven Suon valta Ojan
+
+931
+01:22:20,150 --> 01:22:24,370
+Ura-kalla Kaivettavaks Iosta Haluliset Urakka Miehet saap
+
+932
+01:22:24,370 --> 01:22:27,880
+tulla Sopimaa Minun kansani Niin Syriää
+
+933
+01:22:27,880 --> 01:22:29,560
+Risto Tohone
+
+934
+01:22:29,560 --> 01:22:31,460
+Herras Tuomar
+
+935
+01:22:31,460 --> 01:22:34,780
+Iosta Tämän kautta ilmoitetaa.
+
+936
+01:22:35,820 --> 01:22:43,020
+Aikaiseen joudutti emäntä aamiaisen pöytään, jotta kirkkoon ennättäisivät ne, jotka sinne aikoivat lähteä.
+
+937
+01:22:43,020 --> 01:22:47,660
+Salmen yli saatettiin veneellä, koska siten lyheni maamatka.
+
+938
+01:22:47,660 --> 01:22:56,240
+Herastuomarikin aikoi tyttärineen lähteä kirkolle: kuulutus oli vietävä ja vielä eräs toinenkin tärkeä asia niin vaati.
+
+939
+01:22:56,240 --> 01:22:58,870
+Ori seisoi jo valjaissa.
+
+940
+01:22:58,870 --> 01:23:03,930
+Mutta tuossa tuokiossa kääntyivätkin herastuomarin tuumat.
+
+941
+01:23:03,930 --> 01:23:14,090
+— Jos Samu tahtoisi mennä kirkolle Hetvin kanssa, niin me vanhemmat miehet olisimme toinen toisemme rattona kotona, virkkoi hän.
+
+942
+01:23:14,090 --> 01:23:17,850
+Tämmöistä käännettä oli Samu melkein aavistanut.
+
+943
+01:23:17,850 --> 01:23:23,530
+Hän arveli kuitenkin, että eilinen kelpo sätkäys oli ongensiimat katkaissut.
+
+944
+01:23:23,530 --> 01:23:25,520
+Mut eipäs!
+
+945
+01:23:25,520 --> 01:23:28,640
+Tytöt vilkasivat toistensa silmiin.
+
+946
+01:23:28,640 --> 01:23:31,550
+Törsövän Taneli yskäsi tuskin kuuluvasti.
+
+947
+01:23:31,550 --> 01:23:33,560
+Samu epäröitsi hieman.
+
+948
+01:23:33,560 --> 01:23:36,150
+Hetvi punastui korvia myöten.
+
+949
+01:23:36,150 --> 01:23:42,080
+Hän olisi itkuun tillahtanut, jollei hän ennestään olisi ollut tottunut kovia kokemaan.
+
+950
+01:23:42,080 --> 01:23:46,180
+Hän näki isänsä kulmakarvain välissä pykälän syventyvän.
+
+951
+01:23:46,180 --> 01:23:48,610
+Se ei leikkiä merkinnyt.
+
+952
+01:23:48,610 --> 01:23:52,380
+Salmelan isäntä ei ollut kuulevinaan koko asiaa.
+
+953
+01:23:52,380 --> 01:23:54,530
+Emäntä ennätti sanomaan:
+
+954
+01:23:54,530 --> 01:23:56,980
+— Niin, sehän käy hyvin laatuun!
+
+955
+01:23:56,980 --> 01:23:59,610
+Meneehän Samu, meneehän Samu!
+
+956
+01:23:59,610 --> 01:24:06,070
+— Käy hyvin laatuun, ja pitäähän nuoria totuttaa toimimaan tärkeitäkin asioita.
+
+957
+01:24:06,070 --> 01:24:08,510
+Mitä ihmisiä näistä muutoin tulisi?
+
+958
+01:24:08,510 --> 01:24:12,150
+Tässä on kuulutus Samu, vie se sakastiin.
+
+959
+01:24:12,150 --> 01:24:14,530
+— Entä se tärkeä asia?
+
+960
+01:24:14,530 --> 01:24:15,820
+kysyi Samu.
+
+961
+01:24:15,820 --> 01:24:19,170
+— Noh, jopa minä sen olin vähällä unhottaa.
+
+962
+01:24:19,170 --> 01:24:25,460
+Kysy nimismieheltä: onko tuomarilta tullut se Pekkolan jutun rotokolla eli pöytäkirja?
+
+963
+01:24:25,460 --> 01:24:30,020
+Jos on tullut, niin lunasta se, tässä rahaa!
+
+964
+01:24:30,020 --> 01:24:34,690
+— Ehkäpä tuon paperin jaksan lunastaa, saanhan sitten rahat.
+
+965
+01:24:34,690 --> 01:24:36,710
+Lähtö tapahtui.
+
+966
+01:24:36,710 --> 01:24:41,640
+Hietalan Hilma katsoi kujasille, kun hepo juoksi tie helisi.
+
+967
+01:24:41,640 --> 01:24:47,400
+Sitten pyörähti hän aittaan ja pyyhkäisi esiliinansa kulmalla silmiänsä.
+
+968
+01:24:47,400 --> 01:24:51,410
+Mutta Törsövän Taneli ilvehti rantaan mennessään:
+
+969
+01:24:51,410 --> 01:24:54,630
+— Samu suotta kyselee, mikä se tärkeä asia oli.
+
+970
+01:24:54,630 --> 01:24:58,850
+Ei hän niin tuhma poika ole, kyllä hän sen tietää kysymättäkin.
+
+971
+01:24:58,850 --> 01:25:00,370
+— Hehehehe!
+
+972
+01:25:00,370 --> 01:25:02,020
+Älä virka mitään!
+
+973
+01:25:02,020 --> 01:25:03,950
+sanoivat toverit.
+
+974
+01:25:03,950 --> 01:25:09,150
+Harvat olivat ne sanat, joita Samu ja Hetvi kirkkotiellä haastoivat.
+
+975
+01:25:09,150 --> 01:25:10,780
+Arvaahan sen.
+
+976
+01:25:10,780 --> 01:25:13,770
+Sitä enemmän puhuivat syrjäiset.
+
+977
+01:25:13,770 --> 01:25:16,510
+— Siin' on rikas ja pohatta rinnakkain.
+
+978
+01:25:16,510 --> 01:25:19,930
+Nehän sopivat yhteen kuin voi ja vehnänen.
+
+979
+01:25:19,930 --> 01:25:23,780
+— Jokohan noita miekkosia tänään kuulutetaan?
+
+980
+01:25:23,780 --> 01:25:25,090
+— Ei.
+
+981
+01:25:25,090 --> 01:25:29,360
+Hetvi kuuluu olevan isänsä kanssa Salmelassa heinätalkoissa.
+
+982
+01:25:29,360 --> 01:25:32,670
+— Ja samalla kehrävarren sijaa katsomassa.
+
+983
+01:25:32,670 --> 01:25:35,550
+Yks tie, kaks asiaa.
+
+984
+01:25:35,550 --> 01:25:39,430
+— Eikö tuo Hetvi pysyne kehrävarsineen Toholassa.
+
+985
+01:25:39,430 --> 01:25:42,570
+Samu saattaa muuttaa sinne kotivävyksi.
+
+986
+01:25:42,570 --> 01:25:45,570
+Semmoista ne keskustelivat.
+
+987
+01:25:45,570 --> 01:25:49,140
+Samu vei kuulutukset sakastiin.
+
+988
+01:25:49,140 --> 01:25:56,040
+Siellä tapasi hän nimismies Löngrénin, jolta heti kysyi Pekkolan jutun pöytäkirjaa.
+
+989
+01:25:56,040 --> 01:25:58,030
+— Pekkolan jutun!
+
+990
+01:25:58,030 --> 01:25:59,010
+Jassoo!
+
+991
+01:25:59,010 --> 01:26:02,980
+Joko se Toholan pajari sinua komentaa asioitansa toimittamaan?
+
+992
+01:26:02,980 --> 01:26:04,450
+Ei ole tullut.
+
+993
+01:26:04,450 --> 01:26:07,100
+Lykkyä tykö, lykkyä tykö!
+
+994
+01:26:07,100 --> 01:26:09,520
+Samu pyörähti tiehensä.
+
+995
+01:26:09,520 --> 01:26:13,540
+Nimismiehen iva raateli hirveästi hänen sydäntänsä.
+
+996
+01:26:13,540 --> 01:26:22,260
+Hyvä ett'ei toki ketään muita sattunut olemaan sakastissa, sillä papit olivat vielä tulematta ja suntio puuhaili jotain kirkossa.
+
+997
+01:26:22,260 --> 01:26:27,850
+Herran temppelissäkin vallitsi kuumuus, raukaiseva kuumuus.
+
+998
+01:26:27,850 --> 01:26:40,370
+Eipä ihme jos monenkin sinne saapuneen silmä pyrki torkahtamaan, vaikka pappi pani parastansa pitääksensä rakkaita sanankuulijoitansa sekä hengellisesti että ruumiillisesti hereillä.
+
+999
+01:26:40,370 --> 01:26:42,200
+Sekalainen seurakunta.
+
+1000
+01:26:42,200 --> 01:26:47,760
+Toiset valvoivat, pysyivät hartaina, vuodattivatpa sanan sattuessa kyyneleitäkin.
+
+1001
+01:26:47,760 --> 01:26:55,170
+Kun Samu ja Hetvi olivat kirkolta lähtemäisillään, juoksi suntio siihen ja sanoi:
+
+1002
+01:26:55,170 --> 01:26:58,370
+— Tohtori Hallstén tuli vastikään Jokelasta tänne.
+
+1003
+01:26:58,370 --> 01:27:02,470
+Hän tahtoisi tavata Samua, kun sai kuulla käärmeenpistoksesta.
+
+1004
+01:27:02,470 --> 01:27:04,440
+Hän odottaa sakastissa.
+
+1005
+01:27:04,440 --> 01:27:07,720
+— Eihän tämä hevonen tässä pysy ... ptruu!
+
+1006
+01:27:07,720 --> 01:27:12,170
+kun näkee toisten menevän ... ptruu, soo! ... kah tuossahan on Taneli!
+
+1007
+01:27:12,170 --> 01:27:15,900
+kuule, veikkonen, aja sinä Hetvin kanssa kotiin, soo, soo!
+
+1008
+01:27:15,900 --> 01:27:19,910
+Minä menen tohtorin puheelle ja tulen sittenkuin joudun.
+
+1009
+01:27:19,910 --> 01:27:28,110
+Vaikk'ei Törsövän Taneli suinkaan ollut arkalasta kotoisin, pampahteli kuitenkin nyt hänen sydämensä niin omituisesti.
+
+1010
+01:27:28,110 --> 01:27:31,810
+Ääneti hän hyppäsi Hetvin viereen kiesseihin.
+
+1011
+01:27:31,810 --> 01:27:34,290
+Samu meni sakastiin.
+
+1012
+01:27:34,290 --> 01:27:44,290
+Kun Törsövän Taneli Toholan Hetvin vieressä herastuomarin uljaalla oriilla ajoi kirkolta Salmelaan päin, oli se kaikille arvaamaton arvoitus.
+
+1013
+01:27:44,290 --> 01:27:51,330
+Moni sitä kummasteli, vaikk'ei se mikään kumma ollut, satunnainen seikka vaan.
+
+1014
+01:27:51,330 --> 01:27:55,680
+Taneli puhui matkalla vähän, mutta arvokkaasti.
+
+1015
+01:27:55,680 --> 01:27:59,340
+Hetviin päin hän tuskin katsahtikaan.
+
+1016
+01:27:59,340 --> 01:28:04,080
+Tylyltä ei hän suinkaan tuntunut, mutta niin varovaiselta.
+
+1017
+01:28:04,080 --> 01:28:12,000
+Tämä Hetviä kummastutti, sillä hän oli tottunut pitämään Tanelia leikinlaskijana, vähän niinkuin hulivilinä.
+
+1018
+01:28:12,000 --> 01:28:21,620
+Palatkoot he Kukkaropohjan ympäri, palatkoot toiset oikotietä, me palaamme jälleen aikaan, jolloin Salmelasta kirkkoon lähdettiin.
+
+1019
+01:28:23,160 --> 01:28:25,640
+Viidennen luvun loppu
+
+1020
+01:28:31,300 --> 01:28:33,370
+Salmelan heinätalkoot
+
+1021
+01:28:33,370 --> 01:28:34,810
+Kuudes luku
+
+1022
+01:28:34,810 --> 01:28:38,030
+Kirjoittanut
+Olli Wuorinen
+
+1023
+01:28:38,030 --> 01:28:41,110
+Tämä on LibriVox - äänite.
+
+1024
+01:28:41,110 --> 01:28:45,430
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+1025
+01:28:45,430 --> 01:28:55,030
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+1026
+01:28:55,030 --> 01:28:59,490
+Lukijana Harri Tapani Ylilammi
+
+1027
+01:28:59,490 --> 01:29:04,000
+Salmelan heinätalkoot
+Kuudes luku
+
+1028
+01:29:05,380 --> 01:29:11,610
+— Kuinka paljon lyhempi matka täältä on kirkolle oikotietä myöten kuin Kukkaropohjan ympäri?
+
+1029
+01:29:11,610 --> 01:29:15,230
+kysyi herastuomari kirkkomiesten mentyä.
+
+1030
+01:29:15,230 --> 01:29:24,670
+— Oikotie tästä salmen poikki lyhentää matkaa viidettä kilometriä eli neljä vanhaa virstaa, vastasi Antti Salminen.
+
+1031
+01:29:24,670 --> 01:29:29,210
+— Vai lyhentää niin paljon, viidettä kiloa.
+
+1032
+01:29:29,210 --> 01:29:31,650
+— Sanoinko minä kiloa?
+
+1033
+01:29:31,650 --> 01:29:32,740
+— Et.
+
+1034
+01:29:32,740 --> 01:29:40,940
+Sinä sanoit kilometriä, mutta minun on tapana puhua lyhyemmin, sanon aina kilometriä joko kiloksi tahi virstaksi.
+
+1035
+01:29:40,940 --> 01:29:43,380
+— Mutta, eihän se ole oikein.
+
+1036
+01:29:43,380 --> 01:29:45,140
+— Miks'ei?
+
+1037
+01:29:45,140 --> 01:29:48,570
+— Kilo tarkoittaa aivan toista mittaa.
+
+1038
+01:29:48,570 --> 01:29:54,250
+Herastuomari huomasi erehtyneensä, mutta hänen oli vaikea sitä tunnustaa.
+
+1039
+01:29:54,250 --> 01:30:03,070
+Johan sitten hänen lakikaariansa ja pykäliänsäkin ruvettaisiin epäilemään, kun hän näin yksinkertaisessa asiassa erehtyisi.
+
+1040
+01:30:03,070 --> 01:30:10,390
+Hän pyörähti kamariin, tempasi laatikosta sikarin, sytytti sen, tuli jälleen portaiden penkille.
+
+1041
+01:30:10,390 --> 01:30:13,320
+Hän oli keksinyt mutkan.
+
+1042
+01:30:13,320 --> 01:30:17,200
+— Kilo tarkoittaa toista, sanoit...
+
+1043
+01:30:17,200 --> 01:30:22,440
+Pah, pah, pah ... eipä se syttynytkään ... olkoon syttymättä!
+
+1044
+01:30:22,440 --> 01:30:25,930
+Mitä se tekee, vaikka toistakin tarkoittaa?
+
+1045
+01:30:25,930 --> 01:30:29,620
+— Tekee sekoitusta, kun se on painomitta.
+
+1046
+01:30:29,620 --> 01:30:34,460
+Etkö luule näistä uusista mitoista muutoinkin selkkausta syntyvän?
+
+1047
+01:30:34,460 --> 01:30:37,880
+— Tyhmille syntyy selkkausta vaikka mistä.
+
+1048
+01:30:37,880 --> 01:30:42,670
+Kuules, kun minä sanon: Toholasta on Salmelaan kuusitoista kiloa.
+
+1049
+01:30:42,670 --> 01:30:49,730
+Ajatteletko minun puhuvan voista tahi lihasta, etkö huomaa, että on puhe matkan pituudesta?
+
+1050
+01:30:49,730 --> 01:30:52,660
+— Suotta nyt viisastelet, veliseni.
+
+1051
+01:30:52,660 --> 01:30:54,630
+Sekoitusta se tekisi.
+
+1052
+01:30:54,630 --> 01:30:57,120
+— Sekoitusta, sekoitusta!
+
+1053
+01:30:57,120 --> 01:31:01,380
+Ketä on sekoittanut vanha naula, tuo meille niin tuttu naula.
+
+1054
+01:31:01,380 --> 01:31:08,940
+Jokainen tietää, ettei voinauloilla hevosenkenkää kavioon kiinnitetä, vaan rautanauloilla...
+
+1055
+01:31:08,940 --> 01:31:16,170
+— Eikä kenenkään mieleen ole juolahtanut tupansa harjalautoja kiinnittää esimerkiksi kalanauloilla.
+
+1056
+01:31:16,170 --> 01:31:19,130
+Sinä olet oikeassa, hahaha!
+
+1057
+01:31:19,130 --> 01:31:21,160
+— Ha-ai!
+
+1058
+01:31:21,160 --> 01:31:23,310
+Haukottamaan rupeaa.
+
+1059
+01:31:23,310 --> 01:31:29,950
+— Käy nyt vähän lepäämään, velikulta, sinä nousit tänäaanuma aikaiseen kirjoittamaan.
+
+1060
+01:31:29,950 --> 01:31:32,470
+— Lepopäivähän nyt on.
+
+1061
+01:31:32,470 --> 01:31:35,210
+Kamariin minä lähden lepäämään.
+
+1062
+01:31:35,210 --> 01:31:40,460
+Antti Salminen kävi katsomassa tallikasta, kohenteli sille heiniä eteen.
+
+1063
+01:31:40,460 --> 01:31:49,300
+Hän tuli sitten kamariin, jossa herastuomari jo kuorsasi, otti hyllyltä raamatun ja viihtyi sen ääressä hyvän aikaa.
+
+1064
+01:31:49,300 --> 01:31:57,720
+Useat kotiin jääneistä tytöistä kävivät ennen kirkkoaikaa Ahokummun rinteeltä mansikoita poimimassa.
+
+1065
+01:31:57,720 --> 01:32:00,650
+Niiden joukossa oli Mörskyn Markettakin.
+
+1066
+01:32:00,650 --> 01:32:07,070
+Kun tytöt palasivat marjatuohiset kädessä, tulivat pojat par'aikaa salmesta uimasta.
+
+1067
+01:32:07,070 --> 01:32:16,390
+Pojat alkoivat tytöiltä pyytää marjoja ja lupasivat maksaa rahoilla, marjoilla tahi suurilla kiitoksilla, mutta kauppoja ei syntynyt.
+
+1068
+01:32:16,390 --> 01:32:19,500
+Tytöt tahtoivat nyt kiusoitella poikia.
+
+1069
+01:32:19,500 --> 01:32:28,420
+Vieremän Jussi, joka ei ollut marjoista millänsäkään, loikoili tupakkaa polttaen aitan luona kasvavan pihlajan siimeksessä.
+
+1070
+01:32:28,420 --> 01:32:31,140
+Parin askelen päässä oli matala paasi.
+
+1071
+01:32:31,140 --> 01:32:38,980
+Paadelle istahti Mörskyn Marketta ja alkoi nuppuneulan kärjellä pistellä mansikoita tuohisesta suuhunsa.
+
+1072
+01:32:38,980 --> 01:32:41,830
+— Eikö Juhana huolisi mansikoita?
+
+1073
+01:32:41,830 --> 01:32:43,450
+kysyi Marketta.
+
+1074
+01:32:43,450 --> 01:32:48,120
+— Kukapa niitä sitten meikäläiselle miehelle antaisi, vaikka huolisinkin.
+
+1075
+01:32:48,120 --> 01:32:52,380
+— Mutta miksi te pojat teette yhtenään kiusaa tytöille?
+
+1076
+01:32:52,380 --> 01:32:54,200
+— Mitä kiusaa?
+
+1077
+01:32:54,200 --> 01:32:57,850
+Mansikkakauppaahan nuo tuolla hieroivat.
+
+1078
+01:32:57,850 --> 01:33:05,630
+— Eikös sekin ollut kiusantekoa, kun tänä-aamuna nauroitte, yhtenään nauroitte ettekä sanoneet tytöille mille nauroitte?
+
+1079
+01:33:05,630 --> 01:33:10,590
+— Eihän semmoista asiaa viitsi kertoa, ei ainakaan tytöille.
+
+1080
+01:33:10,590 --> 01:33:14,800
+— No viitsi nyt vaan, niin annan tämän mansikkatuokkosen.
+
+1081
+01:33:14,800 --> 01:33:17,430
+— Jollet juttelisi muille.
+
+1082
+01:33:17,430 --> 01:33:22,720
+— Jos se on salassa pidettävä, niin kyllä minun kieleni alla pysyy.
+
+1083
+01:33:22,720 --> 01:33:25,200
+— No anna tänne marjasi!
+
+1084
+01:33:25,200 --> 01:33:26,580
+— Tässä on!
+
+1085
+01:33:26,580 --> 01:33:29,820
+Syödessään mansikoita kertoi Jussi:
+
+1086
+01:33:29,820 --> 01:33:34,600
+— Tuolla Kotanurmen ladossa me makasimme ja hyvältä uni maistuikin.
+
+1087
+01:33:34,600 --> 01:33:39,410
+Minä olin osunut katonrajassa olevan pääskysen pesän kohdalle.
+
+1088
+01:33:39,410 --> 01:33:44,470
+Nuo sievät linnut olivat heränneet aikaisemmin kuin me väsyneet ihmiset.
+
+1089
+01:33:44,470 --> 01:33:49,250
+Aamusiivouksia tehdessään pudotti pääsky-emo jotakin korvaani.
+
+1090
+01:33:49,250 --> 01:33:54,220
+Minä luulen kuitenkin, ettei hän sitä ilkeydestä eikä tahallansa tehnyt.
+
+1091
+01:33:54,220 --> 01:33:56,340
+Vahingossa lie tipahtanut.
+
+1092
+01:33:56,340 --> 01:34:02,020
+Unen tuppurassa kun olin, luulin jonkun sylkeneen korvaani ja kiljasin: kuka se!
+
+1093
+01:34:02,020 --> 01:34:04,040
+Kiljahdus herätti toverini.
+
+1094
+01:34:04,040 --> 01:34:05,510
+He alkoivat nauraa.
+
+1095
+01:34:05,510 --> 01:34:10,110
+Nauroivatpa veitikat vielä tupaan tullessakin, vaikka minä kielsin.
+
+1096
+01:34:10,110 --> 01:34:12,880
+Pidä nyt sanasi, äläkä kerro kellekään.
+
+1097
+01:34:12,880 --> 01:34:17,000
+— Ja tuommoisella asialla viitsitte sitten miehissä nauraa!
+
+1098
+01:34:17,000 --> 01:34:18,940
+kummasteli Marketta.
+
+1099
+01:34:18,940 --> 01:34:25,190
+— Sanoinhan sinulle, ettei semmoista asiaa viitsisi oikeastaan kertoakaan, ei ainakaan tytöille.
+
+1100
+01:34:25,190 --> 01:34:28,320
+— Viettelit mokoma ilkiö minulta marjat!
+
+1101
+01:34:28,320 --> 01:34:31,580
+Sanon kun sanonkin kaikille koko salaisuuden!
+
+1102
+01:34:31,580 --> 01:34:34,980
+— Älä tuota kummaa tee, Marketta!
+
+1103
+01:34:34,980 --> 01:34:38,000
+Mutta Marketta teki sen kumman.
+
+1104
+01:34:38,000 --> 01:34:40,100
+Marketta julisti salaisuuden.
+
+1105
+01:34:40,100 --> 01:34:41,780
+Kaikki nauroivat.
+
+1106
+01:34:41,780 --> 01:34:44,560
+Vieremän Jussikin nauroi makeasti.
+
+1107
+01:34:44,560 --> 01:34:50,750
+Hän kaasi tuokkosesta kouransa täyteen mansikoita ja tuppasi ne nauravaan suuhunsa.
+
+1108
+01:34:50,750 --> 01:34:55,490
+Hietalan Hilma ei joutanut kirkkoon eikä marjaankaan.
+
+1109
+01:34:55,490 --> 01:35:03,430
+Emäntä oli pyytänyt häntä jäämään kotiin ja olemaan apuna talouden askareissa, kahvin ja ruuan valmistuksissa.
+
+1110
+01:35:03,430 --> 01:35:10,570
+Notkeana ja suloisena hän puuhailikin, paljaspäin, kaksi paksua ja pitkää hiuspalmikkoa hartioilla.
+
+1111
+01:35:10,570 --> 01:35:17,800
+Hän tunsi talon aitat ja muut säilytyspaikat, joten hän liikkui ja toimiskeli melkein kuin kotonaan.
+
+1112
+01:35:17,800 --> 01:35:21,490
+Emäntä olikin häneen hyvin tyytyväinen.
+
+1113
+01:35:21,490 --> 01:35:30,740
+Herastuomari nukkui jonkun aikaa, mutta makasi päälliseksi niin sanottua "suden-unta", ollen ummessa silmin hereillä.
+
+1114
+01:35:30,740 --> 01:35:37,100
+Kilot häntä kiusasivat, naulat häntä pistelivät, hän kiroili erehdystänsä.
+
+1115
+01:35:37,100 --> 01:35:41,550
+Hän longotti silmiänsä ja näki isännän raamattua lukemassa.
+
+1116
+01:35:41,550 --> 01:35:44,010
+Hän jatkoi suden-untansa.
+
+1117
+01:35:44,010 --> 01:35:47,920
+Emäntä avasi kamarin ovea ja kuiskasi:
+
+1118
+01:35:47,920 --> 01:35:51,380
+— Herastuomari nukkuu; kahvi olisi valmis.
+
+1119
+01:35:51,380 --> 01:35:56,240
+— En minä tässä enään nuku, virkkoi herastuomari ja nousi istumaan.
+
+1120
+01:35:56,240 --> 01:35:59,130
+Ohhoh, kauanpa makasinkin!
+
+1121
+01:35:59,130 --> 01:36:01,920
+lisäsi hän kelloonsa katsahtaen.
+
+1122
+01:36:01,920 --> 01:36:07,700
+— Mennäänpäs juomaan kahvia, sanoi isäntä pannen raamatun hyllylle.
+
+1123
+01:36:07,700 --> 01:36:12,750
+— Niin, tuleepas se hiiri makaavankin kissan suuhun toisinaan.
+
+1124
+01:36:12,750 --> 01:36:16,630
+Juotiin sitten kahvia ja odotettiin kirkko-miehiä.
+
+1125
+01:36:16,630 --> 01:36:18,140
+— Hei vaan!
+
+1126
+01:36:18,140 --> 01:36:20,120
+huudahti paimen Aaro.
+
+1127
+01:36:20,120 --> 01:36:25,590
+Jopas Samu ajaa tuolla kujansuussa vieraan oriilla sen vieraan tytön kanssa kotiin.
+
+1128
+01:36:25,590 --> 01:36:32,350
+— Älysipäs Aaro väleen, sieltä ne jo tulevat, sanoi emäntä ja lähti pihalle vastaan.
+
+1129
+01:36:32,350 --> 01:36:35,280
+Kaikki muutkin lähtivät pihalle.
+
+1130
+01:36:35,280 --> 01:36:38,740
+— Törsövän Tanelihan tuo ajaja taitaa olla?
+
+1131
+01:36:38,740 --> 01:36:40,470
+Harmaa hattu...
+
+1132
+01:36:40,470 --> 01:36:44,200
+— Samu ja Taneli lienevät vaihtaneet hattuja.
+
+1133
+01:36:44,200 --> 01:36:47,500
+— Kyllä se on Taneli, ihan Taneli!
+
+1134
+01:36:47,500 --> 01:36:50,170
+Ja Tanelihan se oli.
+
+1135
+01:36:50,170 --> 01:36:52,610
+— Terveisiä kirkosta!
+
+1136
+01:36:52,610 --> 01:36:55,640
+sanoi Hetvi heti kun oli pihaan päästy.
+
+1137
+01:36:55,640 --> 01:36:57,570
+— Kiitoksia terveisistä!
+
+1138
+01:36:57,570 --> 01:36:58,820
+vastasi emäntä.
+
+1139
+01:36:58,820 --> 01:37:00,450
+Mihin Samu jäi?
+
+1140
+01:37:00,450 --> 01:37:06,130
+— Tohtori Hallstén kutsui hänet puheilleen sakastiin, selitti Taneli.
+
+1141
+01:37:06,130 --> 01:37:12,720
+Ori tuli levottomaksi eikä pysynyt paikoillaan, kun näki toisten hevosten kirkon luota lähtevän.
+
+1142
+01:37:12,720 --> 01:37:16,980
+Sentähden Samu käski minut ajamaan Hetvin kanssa kotiin.
+
+1143
+01:37:16,980 --> 01:37:26,710
+Vaikka selitys oli niin luonnollinen, rypisti herastuomari kuitenkin kulmiansa ja hänen kätensä vapisi kun hän silitteli oriin selkää ja sanoi:
+
+1144
+01:37:26,710 --> 01:37:29,150
+— Soo, poika, soo!
+
+1145
+01:37:29,150 --> 01:37:35,970
+Hetvi huomasi isänsä suuttuneeksi, pyörähti kamariin ja itki katkerasti.
+
+1146
+01:37:35,970 --> 01:37:40,910
+Kaikki miespuoliset ihastuksella katselivat kaunista eläintä.
+
+1147
+01:37:40,910 --> 01:37:44,190
+Sen pikimusta karva kiilsi kuin öljyttynä.
+
+1148
+01:37:44,190 --> 01:37:49,480
+Siellä täällä mäkivöiden ja suitsien hiertimissä näkyi valkeaa vaahtoa.
+
+1149
+01:37:49,480 --> 01:37:54,160
+Pitkin lautasia oli muodostunut kaunis, kupera syvennys.
+
+1150
+01:37:54,160 --> 01:37:58,320
+— Kulkeeko ori nöyrästi, vai onko kovasuinen tahi niskuri?
+
+1151
+01:37:58,320 --> 01:38:00,060
+kysyi joku.
+
+1152
+01:38:00,060 --> 01:38:03,860
+— Nöyrästi kulkee, niin kulkee kuin miehen ajatus.
+
+1153
+01:38:03,860 --> 01:38:09,320
+Hetvi kehoitti ajamaan vähän kovemmin, jotta ennättäisimme ennen venemiehiä.
+
+1154
+01:38:09,320 --> 01:38:12,450
+Hyvästi kulkee, ei muuta sanomista.
+
+1155
+01:38:12,450 --> 01:38:14,860
+— Soo, poika, soo!
+
+1156
+01:38:14,860 --> 01:38:19,070
+sanoi herastuomari ja hänen otsaryppynsä vähitellen tasaantuivat.
+
+1157
+01:38:19,070 --> 01:38:26,850
+Kun hevonen oli riisuttu ja talliin viety, alkoivat toisetkin kirkkomiehet kotiin saapua.
+
+1158
+01:38:26,850 --> 01:38:31,570
+Viimeiseksi noudettiin salmen takaa Pekka Juntunen ja Samu.
+
+1159
+01:38:31,570 --> 01:38:35,920
+Hiukan punaisina olivat Hetvin silmät kun hän kamarista tuli.
+
+1160
+01:38:35,920 --> 01:38:40,770
+Emännän avuksi ei hän nyt yhtään yritellyt, vaan pysyi muiden tyttöjen joukossa.
+
+1161
+01:38:40,770 --> 01:38:44,400
+Siellä hän välistä nauroikin ja näytti iloiselta.
+
+1162
+01:38:44,400 --> 01:38:49,440
+Hilma se nyt edelleen puuhaili emännän käsikassarana.
+
+1163
+01:38:49,440 --> 01:38:52,340
+Kirkosta tulleille tarjottiin kahvia.
+
+1164
+01:38:52,340 --> 01:38:56,380
+Heiltä tiedusteltiin oliko kirkossa ollut tärkeitä kuulutuksia.
+
+1165
+01:38:56,380 --> 01:38:58,340
+Olihan niitä ollut muutamia.
+
+1166
+01:38:58,340 --> 01:39:07,950
+Rovasti oli kuuluttanut viidestä eri kylästä päivätyölle Sammallahden niitylle heinäntekoon huomeneksi, maanantaiksi, jos on pouta.
+
+1167
+01:39:07,950 --> 01:39:11,690
+Samoin oli kappalainen kuuluttanut päivätyölle.
+
+1168
+01:39:11,690 --> 01:39:21,600
+Nimismies oli kuuluttanut tientekovelvolliset huomenna korjaamaan Honkamäen rinteellä maantietä, jonka eilinen rankka-sade oli pahoin syövyttänyt.
+
+1169
+01:39:21,600 --> 01:39:27,320
+Rästinä olevat kunnan maksut ovat suoritettavat ensi lauantaina.
+
+1170
+01:39:27,320 --> 01:39:32,830
+Papin voisaatavia ottaa tänäkin vuonna kauppias Purho: maksupäivä on ylihuomenna.
+
+1171
+01:39:32,830 --> 01:39:41,520
+Miesten keskustellessa tälläisistä velvollisuuksia koskevista seikoista, syntyi naisväen kesken vilkas supatus ja sähinä.
+
+1172
+01:39:41,520 --> 01:39:45,900
+Siitä ei syrjästäkuulija juuri mitään selkoa saanut.
+
+1173
+01:39:45,900 --> 01:39:57,220
+Viinat, Kärhän Heikit, heinähangot, kortit, tohtorit, murhat, Lirikon Maija-Liisat, kaikki pyörivät naisten suussa suloisessa sekamelskassa.
+
+1174
+01:39:57,220 --> 01:40:01,220
+— Mitä kummaa te tytöt siellä hälpätätte ja pälpätätte?
+
+1175
+01:40:01,220 --> 01:40:02,590
+kysyi isäntä.
+
+1176
+01:40:02,590 --> 01:40:06,300
+Puhukaa niin, että me kaikki kuulemme ja ymmärrämme.
+
+1177
+01:40:06,300 --> 01:40:08,250
+— Silmun kylässä on...
+
+1178
+01:40:08,250 --> 01:40:09,840
+— Jokelassa on...
+
+1179
+01:40:09,840 --> 01:40:11,310
+— Hirmuista on...
+
+1180
+01:40:11,310 --> 01:40:16,460
+— Eihän siitä selkoa tule sillä lailla, jos te kaikki yht'aikaa rupeatte puhumaan.
+
+1181
+01:40:16,460 --> 01:40:20,720
+Kertokoon yksi asian, niin siitä tulee jotain tolkkua.
+
+1182
+01:40:20,720 --> 01:40:24,130
+— Se on kumma tosiaankin tuo naisten tapa.
+
+1183
+01:40:24,130 --> 01:40:30,590
+Oikeuden edessäkin, jos heitä sattuu olemaan vaikka kymmenen, niin kaikki yht'aikaa puhumaan.
+
+1184
+01:40:30,590 --> 01:40:35,810
+Se on minulle tuttua, hyvin tuttua, lisäsi herastuomari.
+
+1185
+01:40:35,810 --> 01:40:39,040
+Kerrassaan tukkeutuivat nyt tyttöjen suut.
+
+1186
+01:40:39,040 --> 01:40:41,190
+He ottivat vähän itseensä.
+
+1187
+01:40:41,190 --> 01:40:46,050
+— Enhän minä yleensä naisista puhunut enkä mitään pahaa tarkoittanut.
+
+1188
+01:40:46,050 --> 01:40:50,460
+Miehetkin välistä kunnan – ja kirkonkokouksissa yht'aikaa pulpattavat.
+
+1189
+01:40:50,460 --> 01:40:59,390
+Minä tahdoin vain huomauttaa, että asia tulee selvemmäksi, jos yksi kertoo, toiset kuuntelevat, virkkoi isäntä.
+
+1190
+01:40:59,390 --> 01:41:01,390
+— Kerro sinä, Suso!
+
+1191
+01:41:01,390 --> 01:41:04,070
+— En minä ... kerro sinä, Anni!
+
+1192
+01:41:04,070 --> 01:41:07,110
+— Enkä kerro, koska naisten puheita...
+
+1193
+01:41:07,110 --> 01:41:10,070
+— No kuka nyt leikistä suuttuisi?
+
+1194
+01:41:10,070 --> 01:41:12,650
+sanoi Kaivolan Kaisa nauraen.
+
+1195
+01:41:12,650 --> 01:41:16,890
+— Kuulitkos sinä, Kaisa, miten siellä Jokelassa on käynyt?
+
+1196
+01:41:16,890 --> 01:41:18,880
+kysyi isäntä.
+
+1197
+01:41:18,880 --> 01:41:20,600
+— Kuulinpa kyllä.
+
+1198
+01:41:20,600 --> 01:41:23,350
+Hanno kertoi kirkolla minulle koko asian.
+
+1199
+01:41:23,350 --> 01:41:24,170
+Hehe!
+
+1200
+01:41:24,170 --> 01:41:28,710
+Hanno taisi vähän erehtyä, kun luuli minun menevän Jokelaan talkoihin.
+
+1201
+01:41:28,710 --> 01:41:31,430
+Hän meni sinne, minä tulin tänne.
+
+1202
+01:41:31,430 --> 01:41:32,930
+Vähät siitä!
+
+1203
+01:41:32,930 --> 01:41:38,830
+Hanno kertoi juurtajaksain kuinka onnettomasti oli eilen käynyt Jokelassa Silmun kylässä.
+
+1204
+01:41:38,830 --> 01:41:41,460
+Heinätalkoita oli sielläkin pidetty.
+
+1205
+01:41:41,460 --> 01:41:43,910
+Rankkasade oli kastellut kaikki heinät.
+
+1206
+01:41:43,910 --> 01:41:45,300
+Kerrassaan kaikki.
+
+1207
+01:41:45,300 --> 01:41:53,310
+Silloin oli Jokelan isäntä väelle huutanut: syökää ja juokaa nyt tänään ja tulkaa työhön ensimäisenä poutapäivänä.
+
+1208
+01:41:53,310 --> 01:41:55,490
+Viinaa oli ollut viljalta.
+
+1209
+01:41:55,490 --> 01:41:59,100
+Korttia oli lyöty, riidelty ja rehkitty.
+
+1210
+01:41:59,100 --> 01:42:08,770
+Täydessä humalantohjakassa oli Jyrkän Tuomas siellä riehaellut, kun naapurinsa Kärhän Heikki niinikään humalassa oli ilmaissut Tuomaan tekemän salaisen rikoksen.
+
+1211
+01:42:08,770 --> 01:42:10,600
+Keltä sinä sait sen tietää?
+
+1212
+01:42:10,600 --> 01:42:12,410
+oli Tuomas tuiskaissut.
+
+1213
+01:42:12,410 --> 01:42:15,970
+Lirikon Maija-Liisalta, oli Heikki vastannut.
+
+1214
+01:42:15,970 --> 01:42:24,300
+Tapan teidät molemmat oli Tuomas kiljaissut, viskaissut kortit nurmelle ja lähtenyt heinähanko kädessä Heikkiä takaa ajamaan.
+
+1215
+01:42:24,300 --> 01:42:32,210
+Kun ei saavuttanut Heikkiä, syöksi hän hangon viskaamalla ja sen haara oli syvälle paiskahtanut Heikin hartioihin.
+
+1216
+01:42:32,210 --> 01:42:36,190
+Heikkiä varten oli tohtori Hallstén haettu kaupungista.
+
+1217
+01:42:36,190 --> 01:42:41,430
+Kuuluu olevan mies mänevillä mättäillä, ihan kuoleman kielissä.
+
+1218
+01:42:41,430 --> 01:42:51,410
+— Jos Heikki nyt kuolee, tulee ruumis leikattavaksi ja lääkärintodistuksesta tulee paljon riippumaan millaisen rangaistuksen murhamies saapi.
+
+1219
+01:42:51,410 --> 01:42:57,660
+Saattaa sitten vielä ilmaantua joko lieventäviä tahi raskauttavia asianhaaroja.
+
+1220
+01:42:57,660 --> 01:43:08,620
+Jos me otamme asian siltä kannalta, että murha on aikomuksessa tehty, koska Tuomas edeltäpäin uhkasi, niin on rangaistus kova, ankaran kova.
+
+1221
+01:43:08,620 --> 01:43:20,040
+Mutta jos nuo sanat "tapan teidät" pidetään vaan puheenpartena, ilman varsinaista tarkoitusta, niin saatamme päästää Tuomaan jokseenkin helpolla.
+
+1222
+01:43:20,040 --> 01:43:37,620
+Kerrankos sitä tulee sanotuksi, kun esimerkiksi sika pääsee potaattimaata tonkimaan tahi kanat tunkeutuvat liina-maata raaputtelemaan: "tapan tuon sian", "tapan nuo kanat", vaikkei olekaan varsinainen aikomus niitä tappaa sillä kertaa.
+
+1223
+01:43:37,620 --> 01:43:43,930
+Sehän se meillä oikeudenpalvelijoilla on raskain tehtävä se oikean kannan löytäminen.
+
+1224
+01:43:43,930 --> 01:43:48,820
+Siinä on temppu ja siinä saa monta kertaa ajatella päänsä ympäri.
+
+1225
+01:43:48,820 --> 01:43:55,230
+Ja sitten vasta rangaistuskaaren sen ja sen pykälän mukaan julistetaan syylliselle rangaistus.
+
+1226
+01:43:55,230 --> 01:44:04,060
+Kaikessa tapauksessa rangaistus tästä tulee Jyrkän Tuomaalle, emmehän me toki esivallan miekkaa hukkaan kanna, emme toki.
+
+1227
+01:44:04,060 --> 01:44:08,260
+Herastuomari puhui nämä sanat erinomaisella arvontunnolla.
+
+1228
+01:44:08,260 --> 01:44:14,260
+Hänen kulmakarvansa hypähtelivät ja hänen sieraimensa pörhistyivät vähän väliä.
+
+1229
+01:44:14,260 --> 01:44:19,650
+— Olikohan Lirikon Maija-Liisakin siellä Jokelassa, kysyi emäntä.
+
+1230
+01:44:19,650 --> 01:44:22,840
+— Missäs harakka, ellei siantappajaisilla!
+
+1231
+01:44:22,840 --> 01:44:24,580
+vastasi Kaisa.
+
+1232
+01:44:24,580 --> 01:44:32,270
+— Juuri ne kolme henkeä jäi meille tulematta, arvattavasti viinahalunsa tähden, huomautti isäntä.
+
+1233
+01:44:32,270 --> 01:44:36,750
+— Heikki parka kuuluu kovin hourailevan, tiesi Kaisa sanoa.
+
+1234
+01:44:36,750 --> 01:44:41,460
+Hirmuinen peto on muka pistänyt häntä kaksihaaraisella kielellään.
+
+1235
+01:44:41,460 --> 01:44:46,830
+— Ei ole Kaisan oma kieli puurossa palanut, hymähtelivät pojat itsekseen.
+
+1236
+01:44:46,830 --> 01:44:53,080
+Osaa se puhtaasti ulkoa Suosaaren Hannon ripittää, jos siksi tulee matkan varrella.
+
+1237
+01:44:53,080 --> 01:45:01,310
+Pekka Juntunenkin availi suutansa, mutta ei päässyt ääneen, hän kun ei tahtonut keskeyttää toisten pakinaa.
+
+1238
+01:45:01,310 --> 01:45:05,020
+Kun Salmelan isäntä sen huomasi, sanoi hän:
+
+1239
+01:45:05,020 --> 01:45:08,450
+— Pekka aikoo puhua, kuulkaa!
+
+1240
+01:45:08,450 --> 01:45:12,230
+— Eihän minusta ole puhujaksi, virkkoi Pekka.
+
+1241
+01:45:12,230 --> 01:45:18,210
+Minulle vaan juohtui mieleeni eräs Jumalan sanan kohta, jossa viinaa verrataan kyykäärmeesen.
+
+1242
+01:45:18,210 --> 01:45:25,600
+Sellainen kyykäärme on Heikkiä pistänyt, ja sen kaksihaaraisena kielenä on nähtävästi ollut Lirikon Maija-Liisa parka.
+
+1243
+01:45:25,600 --> 01:45:29,750
+Voi voi, miksei tahdota tappaa tuota kauheaa kyykäärmettä?
+
+1244
+01:45:29,750 --> 01:45:34,590
+Miks'ei tehdä samaten kuin Vieremän Jussi Takamaan niityllä kyykäärmeelle teki?
+
+1245
+01:45:34,590 --> 01:45:41,920
+Miksi säälitään viinakäärmettä, joka niin monelle sielulle on tuottanut kuoleman, ajallisen ja ijankaikkisen kuoleman?
+
+1246
+01:45:41,920 --> 01:45:47,900
+Jumala armahtakoon Lirikon Maija-Liisaa, Kärhän Heikkiä ja Jyrkän Tuomasta!
+
+1247
+01:45:47,900 --> 01:45:52,020
+He ovat lähimäisemme, syylliset veljemme ja sisaremme.
+
+1248
+01:45:52,020 --> 01:45:56,950
+Mutta saatammeko me tässäkään asiassa sanoa itseämme syyttömiksi?
+
+1249
+01:45:56,950 --> 01:46:03,730
+Voimmeko rehellisesti tunnustaa itseämme viattomiksi niin kauan kuin toimetonna katselemme kauheaa petoa?
+
+1250
+01:46:03,730 --> 01:46:08,710
+Voi voi, eikö jo olisi aika musertaa tuon viinaperkeleen päätä?
+
+1251
+01:46:08,710 --> 01:46:12,560
+Kauhistuksen tuli leimusi Pekka Juntusen silmissä.
+
+1252
+01:46:12,560 --> 01:46:18,980
+Kiroussanaa ei kukaan ollut koskaan kuullut lähtevän Pekan suusta sen koommin kuin hän heränneeksi tuli.
+
+1253
+01:46:18,980 --> 01:46:24,200
+Selvästi huomattiin, ettei se nytkään lähtenyt kevytmielisyydestä.
+
+1254
+01:46:24,200 --> 01:46:27,670
+Pekan suu puhui sydämen kyllyydestä.
+
+1255
+01:46:27,670 --> 01:46:43,590
+— Tuollainen mies on tavallaan maan suola, etenkin tähän aikaan, jolloin nautinnonhimo, omanvoitonpyyntö ja irstaisuus on yltymässä, sanoi Salmelan isäntä hiljaan, ettei Pekka Juntunen sitä kuullut.
+
+1256
+01:46:43,590 --> 01:46:56,030
+— On ... niin tuota ... on se suola, murahteli epäselvästi herastuomari, joka muisti nyt ainoastaan suolan kirpeyttä, eikä sen mädännystä estävää vaikutusta.
+
+1257
+01:46:56,030 --> 01:47:03,920
+Ylipäätään herastuomari vihasi "heränneitä", "kerettiläisiä", "hihhuleita" ja muita "uskovaisia".
+
+1258
+01:47:03,920 --> 01:47:25,760
+— Niin, te vanhemmat miehet ymmärrätte asiat paremmin, minä aioin vaan sanoa, että minusta on Pekka Juntunen kirpeämpi kuin tavallinen suola, hän on kuin salpietarikokkare, — hiiltä ja rikkiä sekaan, niin on ruuti valmis, virkkoi hiljaan Törsövän Taneli parantaaksensa suhdettansa herastuomariin.
+
+1259
+01:47:25,760 --> 01:47:33,800
+Antti Salminen katsahti toisaalle, mutta Risto Tohonen loi Taneliin ystävällisen silmäyksen ja naurahti.
+
+1260
+01:47:35,140 --> 01:47:43,690
+Samu oli sill'aikaa istunut pihlajan siimeksessä ja selaillut sanomalehtiä, joita oli kirkonkylässä olevasta postikonttorista tuonut.
+
+1261
+01:47:43,690 --> 01:47:50,690
+Niitä olikin monta numeroa, kun ei viime viikolla ensinkään joudettu noutamaan lehtiä.
+
+1262
+01:47:50,690 --> 01:47:53,800
+— Onko mitä tärkeätä lehdissä nyt?
+
+1263
+01:47:53,800 --> 01:47:56,210
+kysyi herastuomari.
+
+1264
+01:47:56,210 --> 01:47:58,140
+— Ei erinäistä.
+
+1265
+01:47:58,140 --> 01:47:59,970
+— Rauha maassa?
+
+1266
+01:47:59,970 --> 01:48:01,510
+— Rauha.
+
+1267
+01:48:01,510 --> 01:48:04,530
+— Eikö hallaakaan ole näkynyt?
+
+1268
+01:48:04,530 --> 01:48:08,670
+— Pohjan puolella on halla rapsinut potaatin varsia.
+
+1269
+01:48:08,670 --> 01:48:11,090
+— Nimismiehen tapasit?
+
+1270
+01:48:11,090 --> 01:48:12,200
+— Tapasin.
+
+1271
+01:48:12,200 --> 01:48:14,140
+Ei ole tullut, sanoi.
+
+1272
+01:48:14,140 --> 01:48:17,440
+— Miten nyt on Venäjän rahan kurssi?
+
+1273
+01:48:17,440 --> 01:48:22,780
+— 304 ja 299 näkyy olevan merkittynä.
+
+1274
+01:48:22,780 --> 01:48:24,080
+— Kas niin!
+
+1275
+01:48:24,080 --> 01:48:27,330
+Kurssi pysytteleikse kolmen markan vaiheella.
+
+1276
+01:48:27,330 --> 01:48:31,400
+Enemmän olisi pitänyt olla uskallusta tuonnoin takavuosina.
+
+1277
+01:48:31,400 --> 01:48:38,670
+Minä nykäsin silloin ainoastaan kaksituhatta ruplaa neljällätuhannella markalla, noin vaan koetteeksi.
+
+1278
+01:48:38,670 --> 01:48:46,080
+Annoin ruplat lainaksi ja nyt on silloinen pääoma neljä-tuhatta markkaa noussut kuudentuhannen markan arvoiseksi.
+
+1279
+01:48:46,080 --> 01:48:48,650
+Ja entäs korot, entäs korot!
+
+1280
+01:48:48,650 --> 01:48:50,870
+Nythän on koron vapaus!
+
+1281
+01:48:50,870 --> 01:48:56,880
+hohotteli Risto Tohonen ja hänen sieraimensa liikahtivat tunnetulla tavalla.
+
+1282
+01:48:56,880 --> 01:48:58,560
+— Öhhöm!
+
+1283
+01:48:58,560 --> 01:49:04,500
+kuului loitompaa poikajoukosta, mutta ei se ollut Törsövän Tanelin yskintä.
+
+1284
+01:49:05,560 --> 01:49:08,980
+Herastuomarin korva oli eilisestä tarkistunut.
+
+1285
+01:49:08,980 --> 01:49:11,060
+Yskä tuli ymmärretyksi.
+
+1286
+01:49:11,060 --> 01:49:21,030
+Herastuomari muljautti kummallisesti silmiänsä ja pyörähti samassa kamariin, mutta Salmelan isäntä puri huultansa naurua hillitäksensä.
+
+1287
+01:49:21,030 --> 01:49:25,290
+— No mitä se tohtori sinulta tiedusteli sakastissa?
+
+1288
+01:49:25,290 --> 01:49:27,860
+kysyi isä pojaltaan.
+
+1289
+01:49:27,860 --> 01:49:30,040
+Samu vastasi:
+
+1290
+01:49:30,040 --> 01:49:36,600
+— Tohtori oli saanut kuulla käärmeenpistoksesta ja tahtoi omin silmin tutkia myrkkyhammasten jälkiä.
+
+1291
+01:49:36,600 --> 01:49:49,830
+Erittäin huolellisesti tarkasteli hän niitä ja sanoi, että ellei niin heti ja niin voimakkaasti olisi myrkytettyä vertä pois imetty, olisi ihan varmaan seurannut aivon myrkytys ja siitä kuolema.
+
+1292
+01:49:49,830 --> 01:49:55,560
+Toinen hammas oli näet haavoittanut erästä pientä aivoon johtuvaa suonta.
+
+1293
+01:49:55,560 --> 01:50:06,020
+Tarkoin tohtori tiedusteli tapauksen aikaa ja paikkaa ja kun ne oli muistikirjaansa pannut, kirjoitti hän meidän, Hilman ja minun, nimemme kirjaansa.
+
+1294
+01:50:06,020 --> 01:50:13,070
+Koko tapauksen sanoi tohtori julkaisevansa eräässä paljon levinneessä Suomen terveydenhoito-lehdessä.
+
+1295
+01:50:13,070 --> 01:50:15,770
+— Vai niin, sanoi tohtori!
+
+1296
+01:50:15,770 --> 01:50:18,240
+Vai niin täperällä oli pojan henki!
+
+1297
+01:50:18,240 --> 01:50:21,060
+Oliko rovastikin sakastissa?
+
+1298
+01:50:21,060 --> 01:50:27,560
+— Siinä oli rovasti, ja paljon miehiä ja naisia, jotka olivat tulleet lapsia ristittämään.
+
+1299
+01:50:27,560 --> 01:50:29,650
+Kaikki kuuntelivat ihmetellen.
+
+1300
+01:50:29,650 --> 01:50:41,350
+Rovastikin oli oikein mielissään asian onnistumisesta ja kehoitti muitakin sellaisissa tapauksissa samalla tavalla menettelemään, eikä suinkaan loihtuihin ja taikoihin turvautumaan.
+
+1301
+01:50:41,350 --> 01:50:50,640
+Kun Salmelan emäntä kuuli, mitä tohtori oli sanonut, rupesi hänen leukansa omituisella tavalla vipattamaan, ja hän puhkesi ääneen:
+
+1302
+01:50:50,640 --> 01:50:57,260
+— Viidestä lapsesta on meillä ainoastaan yksi elossa ja sekin ainoa oli jo eilen menemäisillään.
+
+1303
+01:50:57,260 --> 01:51:03,700
+Kolme niistä korjasi Herra luoksensa pienoisina, mutta neljäs, Samun nuorempi veli...
+
+1304
+01:51:03,700 --> 01:51:23,770
+Emännälle tuli jonkullainen tukko kulkkuun, hän ei voinut puhettansa jatkaa, eikä sitä tarvinnutkaan, sillä kaikki tiesivät, että Antti, Samun nuorempi veli, yhtä reipas ja kaunis poika kuin Samukin, oli mennä vuonna saanut tapaturmaisen kuoleman — hukkunut Suurselän järveen.
+
+1305
+01:51:23,770 --> 01:51:31,050
+Pekka Juntunen kertoi raamatusta muutamia lohduttavaisia sanoja emännän mielen rauhoittamiseksi.
+
+1306
+01:51:31,050 --> 01:51:40,610
+Kun Hilma voilautaset käsissä kulki emännän ohitse tupaan, taputti tämä häntä hellästi poskelle, mutta ei virkkanut mitään.
+
+1307
+01:51:40,610 --> 01:51:53,060
+Hilma muisteli nyt, ettei emäntä ollut hänen poskeansa taputtanut sen jälkeen, kun hän kerran puolikasvuisena tyttönä oli löytänyt kanan pesän, jota emäntä oli turhaan kauan etsinyt.
+
+1308
+01:51:53,060 --> 01:51:59,660
+Hyvä oli emäntä hänelle aina ollut, mutta hänen poskeansa ei hän ollut pitkään aikaan taputtanut.
+
+1309
+01:51:59,660 --> 01:52:04,140
+Senpä tähden tuntuikin se nyt niin erinomaisen suloiselta.
+
+1310
+01:52:05,160 --> 01:52:07,460
+Kuudennen luvun loppu
+
+1311
+01:52:13,560 --> 01:52:16,080
+Salmelan heinätalkoot
+
+1312
+01:52:16,080 --> 01:52:17,400
+Seitsemäs luku
+
+1313
+01:52:17,400 --> 01:52:20,760
+Kirjoittanut
+Olli Wuorinen
+
+1314
+01:52:20,760 --> 01:52:23,450
+Tämä on LibriVox - äänite.
+
+1315
+01:52:23,450 --> 01:52:28,150
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+1316
+01:52:28,150 --> 01:52:37,770
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+1317
+01:52:37,770 --> 01:52:42,220
+Lukijana Harri Tapani Ylilammi
+
+1318
+01:52:42,220 --> 01:52:46,940
+Salmelan heinätalkoot
+Seitsemäs luku
+
+1319
+01:52:48,320 --> 01:53:02,010
+Jos kaikki muut ateriat näissä heinätalkoissa olivat niin runsaasti ruuilla varustetut, ettei suinkaan niiden äärestä huolinut nousta nälkäisillä vatsoilla, niin oli kuitenkin tämä päivällinen muita yltäkylläisempi.
+
+1320
+01:53:02,010 --> 01:53:04,860
+Siinä oli kaikkea, mitä olla piti.
+
+1321
+01:53:04,860 --> 01:53:14,920
+Viimeisenä ruokalajina oli tuo paikkakunnan talonpoikaisissa pidoissa tavalliseksi tullut "rusina-rokka" vehnästen kanssa.
+
+1322
+01:53:14,920 --> 01:53:17,730
+Melkein ääneti syötiin.
+
+1323
+01:53:17,730 --> 01:53:25,320
+Isäntämiesten kesken ei puhe sujunut, heidän välinsä oli eilisestä saakka paljon kylmentynyt.
+
+1324
+01:53:25,320 --> 01:53:27,450
+Samu näytti alakuloiselta.
+
+1325
+01:53:27,450 --> 01:53:29,920
+Törsövän Taneli mietiskeli.
+
+1326
+01:53:29,920 --> 01:53:35,910
+Hetvi istui muiden tyttöjen keskellä, mutta äänettömyys oli kaikkialla.
+
+1327
+01:53:35,910 --> 01:53:43,470
+— Kah, en ole muistanut kysyä sinulta, Jussi: joko sinä sait sen Karjalan rautatien valmiiksi, koska sieltä pois tulit?
+
+1328
+01:53:43,470 --> 01:53:46,070
+kysyi vihdoin Viulu-Matti.
+
+1329
+01:53:46,070 --> 01:53:51,110
+— Kesken on vielä sekin työ, veikkonen, vastasi Vieremän Jussi.
+
+1330
+01:53:51,110 --> 01:53:54,840
+Kolme viikkoa tein jo sitä, kesken on vielä.
+
+1331
+01:53:54,840 --> 01:53:56,720
+— Vai kesken on!
+
+1332
+01:53:56,720 --> 01:54:05,440
+Taidat olla vähän ikäänkuin velttomies; kolme viikkoa kesäisiä päiviä olit rautatietä tekemässä, etkä sitä vieläkään valmiiksi saanut.
+
+1333
+01:54:05,440 --> 01:54:08,160
+Ethän vain kesken työtäsi jättäne?
+
+1334
+01:54:08,160 --> 01:54:11,300
+— En minä työtäni keskoiseksi jätä.
+
+1335
+01:54:11,300 --> 01:54:17,830
+Onhan minulla päiviä, ja jos eivät omat päivät riitä, niin haenpa Ylätuvan Yrjöltä lisää.
+
+1336
+01:54:17,830 --> 01:54:19,960
+— Oikein, Jussi, oikein!
+
+1337
+01:54:19,960 --> 01:54:25,540
+Älä jätä alotettua työtäsi kesken, tee rapaise Karjalan rata valmiiksi asti.
+
+1338
+01:54:25,540 --> 01:54:34,970
+— Ja sittenkun olen saanut tuon tiepätkän Wiipurista Joensuuhun valmiiksi, niin kutsun teidät kaikki katsastamaan ja tarkastamaan työtäni.
+
+1339
+01:54:34,970 --> 01:54:41,200
+Sanokaa sitten, mutta vasta sitten, onko Jussi turhan tähden päiviänsä menettänyt.
+
+1340
+01:54:41,200 --> 01:54:44,900
+Tämä leikinlasku saattoi väen paremmalle tuulelle.
+
+1341
+01:54:44,900 --> 01:54:47,000
+Keskustelu vilkastui.
+
+1342
+01:54:47,000 --> 01:54:50,090
+Ruualta päästyä sanoi isäntä:
+
+1343
+01:54:50,090 --> 01:54:54,020
+— Sietäisivät ne hevosetkin uittamista paahteella.
+
+1344
+01:54:54,020 --> 01:54:57,430
+— Saanko lähteä niitä hakemaan, saanko, isäntä?
+
+1345
+01:54:57,430 --> 01:55:00,860
+kysyi paimen Aaro riemastuneena.
+
+1346
+01:55:00,860 --> 01:55:06,430
+— No kun mielesi tehnee, niin hae vaan hevoset kotiin uitettaviksi.
+
+1347
+01:55:06,430 --> 01:55:19,150
+Tuskin olivat miehet ennättäneet tupakkapiippunsa polttaa, kun jo Aaro ratsasti täyttä ravia pulskalla ruunalla pihaan, toiset kaksi hevosta juoksivat valloillaan perästä.
+
+1348
+01:55:19,150 --> 01:55:22,690
+— Eikö herastuomarin oritta saisi myöskin uittaa?
+
+1349
+01:55:22,690 --> 01:55:25,290
+kysyi Törsövän Taneli.
+
+1350
+01:55:25,290 --> 01:55:30,820
+— Miks'ei, jos se vaan osaa sen konstin, vastasi herastuomari.
+
+1351
+01:55:30,820 --> 01:55:33,300
+Sitä ei ole koskaan uitettu.
+
+1352
+01:55:33,300 --> 01:55:37,820
+— Eihän teillä ole järveäkään lähellä, huomautti joku.
+
+1353
+01:55:37,820 --> 01:55:42,910
+Hevoset talutettiin rantaan, tallikaskin päästettiin kylpyyn.
+
+1354
+01:55:42,910 --> 01:55:48,770
+Törsövän Taneli kävi soututeljolle ja Samu istui veneen perään.
+
+1355
+01:55:48,770 --> 01:55:53,740
+Aaronkin mieli teki veneesen, mutta Samu kielsi nyt tulemasta.
+
+1356
+01:55:53,740 --> 01:56:01,450
+Yritettiin ensin uittaa vierasta oritta, mutta se pelkäsi lähteä järveen, kun ei ollut totutettu.
+
+1357
+01:56:01,450 --> 01:56:06,860
+Vähän se astui veteen, sitten kuorsahti ja peräytyi pois.
+
+1358
+01:56:06,860 --> 01:56:09,810
+Uitettiin sitten Salmelan hevoset.
+
+1359
+01:56:09,810 --> 01:56:13,290
+Tallikas meni taluttamatta emähevosten jälestä uimaan.
+
+1360
+01:56:13,290 --> 01:56:23,130
+Kun herastuomarin oritta sitten talutettiin järveen, meni se mielellään, nähtyänsä etteivät toisetkaan hevoset sinne hukkuneet.
+
+1361
+01:56:23,130 --> 01:56:30,100
+Rannalla seisoi herastuomari ja Salmelan isäntä sekä muutamia muita miehiä katselemassa.
+
+1362
+01:56:30,100 --> 01:56:45,560
+Kun vene oli kauimpana rannasta, puhelivat Samu ja Taneli jotakin salaperäistä hiljaisesti ja vilkkaasti keskenänsä, mutta kun vene lähestyi rantaa, alkoivat he äänekkäämmin puhua, tietysti aivan toisia asioita.
+
+1363
+01:56:45,560 --> 01:56:52,520
+He molemmat näyttivät jokseenkin vakavilta, vaikka iloinen soitto ja raikas rallatus kuului pihasta:
+
+1364
+01:56:52,520 --> 01:56:56,570
+Käki kukkuu kuusikassa, pienet linnut laulan,
+
+1365
+01:56:56,570 --> 01:57:00,190
+Minä lennän leuhottelen kullalleni kaulaan.
+
+1366
+01:57:00,190 --> 01:57:09,180
+Kotoiset hevoset lennätti Aaro jälleen hakaan, tallikas ja herastuomarin ori talutettiin talliin eri seimelle kumpikin.
+
+1367
+01:57:09,180 --> 01:57:12,760
+Samu kävi sanomalehtiä lukemaan.
+
+1368
+01:57:12,760 --> 01:57:23,310
+Pihalla oli aitan seinän vieressä suuri, paksun leivän muotoinen sileä kivi, jonka Samu oli vuosia sitten rannalta löytänyt ja kotiin tuonut.
+
+1369
+01:57:23,310 --> 01:57:29,760
+Sitä "ukonkakkua" ryhtyivät nyt pojat viskaamaan, kuka etemmäksi saisi.
+
+1370
+01:57:29,760 --> 01:57:35,010
+Tytötkin katselivat utelijaina tuota voimaa ja notkeutta kysyvää leikkiä.
+
+1371
+01:57:35,010 --> 01:57:39,290
+Tarkka merkki pantiin siihen mihin kunkin heitolla kivi putosi.
+
+1372
+01:57:39,290 --> 01:57:42,210
+Törsövän Taneli nakkasi kauimmaksi.
+
+1373
+01:57:42,210 --> 01:57:48,640
+Tytöt ihastelivat Tanelin voimaa ja pojat tunsivat jonkullaista kateutta mielessään.
+
+1374
+01:57:48,640 --> 01:57:55,240
+— Jätä lemmolle, Samu, tuo alituinen sanomalehden lukeminen ja tule sinäkin heittämään ukonkakkua!
+
+1375
+01:57:55,240 --> 01:57:57,950
+Törsövän Taneli on voittanut meidät kaikki!
+
+1376
+01:57:57,950 --> 01:58:01,270
+huusi Timo Terhakka iloisella tavallaan.
+
+1377
+01:58:01,270 --> 01:58:05,320
+— Enpä ole harjoitellut tänäkesänä kiven nakkaamista.
+
+1378
+01:58:05,320 --> 01:58:08,750
+Veljeni eläessä heitimme sitä usein.
+
+1379
+01:58:08,750 --> 01:58:13,390
+No, sama se, voinhan tuota minäkin koettaa ja tulla voitetuksi.
+
+1380
+01:58:13,390 --> 01:58:15,380
+Samu heitti kiven.
+
+1381
+01:58:15,380 --> 01:58:20,870
+— Se putosi aivan samalle kohdalle kuin Tanelinkin heitolla, huusivat merkitsijät.
+
+1382
+01:58:20,870 --> 01:58:23,730
+Uudestaan heittäkäät molemmat!
+
+1383
+01:58:23,730 --> 01:58:25,030
+Taneli heitti.
+
+1384
+01:58:25,030 --> 01:58:27,570
+Kivi putosi entiselle kohdalle.
+
+1385
+01:58:27,570 --> 01:58:28,770
+Samu heitti.
+
+1386
+01:58:28,770 --> 01:58:31,990
+Kivi putosi kämmenen leveyttä kauemmaksi.
+
+1387
+01:58:31,990 --> 01:58:38,110
+Pojat tempasivat Samun käsivarsillensa ja lennättivät riemuhuudolla pihan ympäri.
+
+1388
+01:58:38,110 --> 01:58:43,190
+— Samallainen kunnioitus on annettava myöskin Törsövän Tanelille, sanoi Samu.
+
+1389
+01:58:43,190 --> 01:58:51,720
+Olihan näet meidän molempain ensimäinen heitto yhtä voimakas, eikä toisessakaan heitossa ollut muuta kuin vähäinen eroitus.
+
+1390
+01:58:51,720 --> 01:58:59,040
+— Toinen palkinto Törsövän Tanelille, huusivat pojat, ja silloin Tanelia lennätettiin ilmassa pihan ympäri.
+
+1391
+01:58:59,040 --> 01:59:02,910
+Taneli itse heilutti hattuansa ja huusi koht'kulkkua:
+
+1392
+01:59:02,910 --> 01:59:04,770
+— Eläköön Salmelan Samu!
+
+1393
+01:59:04,770 --> 01:59:06,370
+Eläköön Törsövän Taneli!
+
+1394
+01:59:06,370 --> 01:59:08,210
+Eläkööt kaikki reippaat pojat!
+
+1395
+01:59:08,210 --> 01:59:10,440
+Eläkööt ennen kaikkia iloiset tytöt!
+
+1396
+01:59:10,440 --> 01:59:12,560
+Tuhannen vuotta eläkööt!
+
+1397
+01:59:12,560 --> 01:59:16,080
+— Tuhannen vuotta eläkööt, mutta — nuorina!
+
+1398
+01:59:16,080 --> 01:59:18,570
+lisäsi Vieremän Jussi.
+
+1399
+01:59:18,570 --> 01:59:24,700
+Molemmat voitonsankarit olivat nyt tyttöjen ihastuksen ja ihmettelemisen esineenä.
+
+1400
+01:59:24,700 --> 01:59:33,290
+Erittäin kehuivat tytöt Samua, joka niin näppärästi osasi antaa kunnioituksen sille, jonka hän oli ensin kivenheitossa voittanut.
+
+1401
+01:59:33,290 --> 01:59:39,940
+Hiljaisesti he keskenänsä supattelivat ja loivat salavihkaa silmäyksiä poikien puoleen.
+
+1402
+01:59:39,940 --> 01:59:46,100
+Oltiin sitten "leskisillä", se on samaa kuin juosta "viimeistä paria."
+
+1403
+01:59:46,100 --> 01:59:52,000
+Sukkelimmat ja sievimmät juoksijat olivat pojista Timo Terhakka ja tytöistä Hietalan Hilma.
+
+1404
+01:59:52,000 --> 02:00:02,040
+Kas he kun tekivät kiemuroita ja koukeroita, sutkauksia ja mutkauksia, niin että turhaan tavottajan käsi heitä hapuili, vaikka olikin likellä.
+
+1405
+02:00:02,040 --> 02:00:09,350
+Vieremän Jussi jäi hänkin leskeksi, eikä näyttänyt pojalla olevan kykyä pääsemään pois siitä säädystä.
+
+1406
+02:00:09,350 --> 02:00:11,280
+Mutta annapas olla!
+
+1407
+02:00:11,280 --> 02:00:15,950
+Mörskyn Marketta juosta hahattaa viimeisen parin toisena puoliskona.
+
+1408
+02:00:15,950 --> 02:00:19,020
+Silloinpa Jussi vasta tapaa kesäkäpälänsä.
+
+1409
+02:00:19,020 --> 02:00:26,490
+Hän ponnahtaa yht'äkkiä juoksuun, saavuttaa Marketan, ja uljaasti käsikädessä astuvat he jonoon.
+
+1410
+02:00:26,490 --> 02:00:27,750
+Marketta nauraa.
+
+1411
+02:00:27,750 --> 02:00:30,660
+Jussi nauraa, kaikki nauravat.
+
+1412
+02:00:30,660 --> 02:00:43,110
+Koska vissien syiden takia välistä pannaan huomiota siihen, muutoin aivan satunnaiseen seikkaan, kuka kenen kanssa leikkiä lopetettaessa on parina, niin olkoon tässä mainittu muutamia.
+
+1413
+02:00:43,110 --> 02:00:52,900
+Salmelan Samun paripuoliskona oli Hietalan Hilma, Törsövän Tanelilla Toholan Hetvi, Vieremän Jussilla Mörskyn Marketta.
+
+1414
+02:00:54,100 --> 02:01:01,520
+Hetvi opetteli tytöille vielä erästä panttileikkiä, jota oli nähnyt siltavoudin häissä nuorten herrain ja neitien leikkivän.
+
+1415
+02:01:01,520 --> 02:01:07,830
+Pojatkin lähestyivät kuulemaan opetusta, ja tuota pikaa pantiin panttileikki toimeen.
+
+1416
+02:01:07,830 --> 02:01:18,490
+Tietysti joutui pantiksi koko joukko pieniä kappaleita: piippuja, tupakkakukkaroita, nenäliinoja, sormuksia, rintaneuloja y.m.
+
+1417
+02:01:18,490 --> 02:01:24,480
+Panttien lunastamiseksi määrättiin pikku tehtäviä, yhdelle yhtä, toiselle toista.
+
+1418
+02:01:24,480 --> 02:01:34,140
+Piti näyttää miten kokko lentää, tahi hypätä harakkaa, tahi juosta yli pihan, tahi kumartaa pihlajaa, tahi laulaa joku kansanlaulu.
+
+1419
+02:01:34,140 --> 02:01:37,550
+Tulipa Samun vuoro panttia lunastaa.
+
+1420
+02:01:37,550 --> 02:01:40,370
+Se olikin viimeinen pantti.
+
+1421
+02:01:40,370 --> 02:01:44,420
+Hänen tehtäväkseen määrättiin lukea ulkoa joku värssy.
+
+1422
+02:01:44,420 --> 02:01:51,590
+Samu nousee silloin rappujen kolmannelle astimelle, ottaa hatun päästänsä ja lausuu:
+
+1423
+02:01:51,590 --> 02:01:52,970
+KARJALA.
+
+1424
+02:01:52,970 --> 02:01:55,610
+Kuss' aallot Laatokan vuoriin lyö,
+
+1425
+02:01:55,610 --> 02:01:57,930
+Kuss' Imatran innot raukes,
+
+1426
+02:01:57,930 --> 02:02:00,570
+Kuss' uurtaa vaaroja Pielisvyö:
+
+1427
+02:02:00,570 --> 02:02:02,940
+Siell' ensin silmäni aukes.
+
+1428
+02:02:02,940 --> 02:02:05,700
+Siell' leikin lasna ma rantamalla.
+
+1429
+02:02:05,700 --> 02:02:08,060
+Siell' lepää heimoni nurmen alla,
+
+1430
+02:02:08,060 --> 02:02:09,950
+Ja siellä neitonen Karjalan
+
+1431
+02:02:09,950 --> 02:02:12,580
+Sai lempeni leimuamaan.
+
+1432
+02:02:12,580 --> 02:02:14,960
+Siell' elää kansa niin sitkeä
+
+1433
+02:02:14,960 --> 02:02:17,170
+Kuin vaahteran latva nuori:
+
+1434
+02:02:17,170 --> 02:02:19,240
+Se kyllin saanut on itkeä,
+
+1435
+02:02:19,240 --> 02:02:21,450
+Mut vankkana on kuin vuori
+
+1436
+02:02:21,450 --> 02:02:23,800
+Se orjana ollut on ounaan herran,
+
+1437
+02:02:23,800 --> 02:02:26,220
+Se vaivaa nähnyt on toisen verran
+
+1438
+02:02:26,220 --> 02:02:28,880
+Kuin Suomi muu, mut murtumaton
+
+1439
+02:02:28,880 --> 02:02:31,030
+Ja hilpeä vielä se on.
+
+1440
+02:02:31,030 --> 02:02:34,500
+— Mistä sinä olet saanut nuo mukavat värssyt?
+
+1441
+02:02:34,500 --> 02:02:36,020
+kysyi isä.
+
+1442
+02:02:36,020 --> 02:02:41,120
+— Arvi Jänneksen tekemästä kirjasta, jonka kirjastosta lainasin tuonnoin.
+
+1443
+02:02:41,120 --> 02:02:48,480
+On siinä runossa useampia värssyjä, vaan en vielä muista kaikkia ulkoa, selitti Samu.
+
+1444
+02:02:49,820 --> 02:02:53,060
+Mutta täytyyhän hyvienkin pitojen kerran loppua.
+
+1445
+02:02:53,060 --> 02:02:55,930
+Päivä kallistuikin jo illan korvalle.
+
+1446
+02:02:55,930 --> 02:03:01,080
+Jo alkoi yksi, jo alkoi toinen katsella työaseitansa lähdön merkiksi.
+
+1447
+02:03:01,080 --> 02:03:03,950
+Se Törsövän Tanelin kipuja kiinnitti.
+
+1448
+02:03:03,950 --> 02:03:07,260
+Hän tunsi, ettei Hetvi ollut hänelle vastenmielinen.
+
+1449
+02:03:07,260 --> 02:03:08,440
+Päin vastoin.
+
+1450
+02:03:08,440 --> 02:03:11,850
+Jospa nyt kuka olisi voinut lukea Tanelin ajatukset!
+
+1451
+02:03:11,850 --> 02:03:15,600
+Hän soimasi itseänsä typeräksi pässinpääksi.
+
+1452
+02:03:15,600 --> 02:03:17,940
+Miksi en kysynyt Samulta ennen?
+
+1453
+02:03:17,940 --> 02:03:21,420
+Hänellä on omansa, niin ilmoitti hän tuolla veneessä.
+
+1454
+02:03:21,420 --> 02:03:23,360
+Minä poloinen poika!
+
+1455
+02:03:23,360 --> 02:03:32,490
+Kyllä silloin kieli lörpöttää, kun olisi parasta olla vaiti, mutta pysyy silloin suu tupessa, kun olisi tärkeä asia selvitettävänä!
+
+1456
+02:03:32,490 --> 02:03:35,510
+Ja tilaisuus semmoinen kirkosta tullessa!
+
+1457
+02:03:35,510 --> 02:03:38,720
+Pölkkynä istuu mies pulskan tytön vieressä!
+
+1458
+02:03:38,720 --> 02:03:40,050
+Ajanko kovemmin?
+
+1459
+02:03:40,050 --> 02:03:44,610
+taisin kysyä, ikäänkuin minulla olisi ollut tulinen tuska pois hänen vierestään.
+
+1460
+02:03:44,610 --> 02:03:48,120
+Kyllä nyt saan ikäni olla poissa Hetvin vierestä!
+
+1461
+02:03:48,120 --> 02:03:52,320
+Siten tuskitteli nyt Taneli kenenkään tietämättä.
+
+1462
+02:03:52,320 --> 02:03:58,940
+— Tulkaa juomaan kahvia, vieraat tulkaa, kutsui emännän ystävällinen ääni.
+
+1463
+02:03:58,940 --> 02:04:05,210
+— Tulkaa juomaan ja menkää sitten matkoihinne, sanokaa niin emäntä, virkkoi joku.
+
+1464
+02:04:05,210 --> 02:04:10,930
+— Enpä sanokaan, vaikka niin ajattelisinkin, vastasi emäntä nauraen.
+
+1465
+02:04:10,930 --> 02:04:15,950
+Erokahvia juotaessa olivat niin pojat kuin tytötkin sangen vakavina.
+
+1466
+02:04:15,950 --> 02:04:19,320
+Sen vaikutti eronhetken lähestyminen.
+
+1467
+02:04:19,320 --> 02:04:25,380
+Jäähyväisiä tehdessään lausuivat useat: "älkää muistelko tuhmuuksiani!"
+
+1468
+02:04:25,380 --> 02:04:30,280
+Toiset taas sanoivat lyhyesti: "mikä liikaa, se leikiksi!"
+
+1469
+02:04:30,280 --> 02:04:35,210
+Herastuomarikin tyttärineen teki lähtöä yht'aikaa muiden kanssa.
+
+1470
+02:04:35,210 --> 02:04:40,720
+Eikä heitä nyt pidätelty jäämään maanantaihin, vaikka niin oli ensin aiottu.
+
+1471
+02:04:40,720 --> 02:04:42,970
+Renki Mikko valjasti oritta.
+
+1472
+02:04:42,970 --> 02:04:50,530
+Siellä käpelehti luona Törsövän Tanelikin, surullisesti katsellen kiessejä, joissa oli Hetvin vieressä istunut.
+
+1473
+02:04:50,530 --> 02:04:54,310
+Hän huomasi kiessien pohjalla jotakin kiiltävää.
+
+1474
+02:04:54,310 --> 02:04:58,320
+Se oli Hetvin rintaneulasta pudonnut kultainen koristus.
+
+1475
+02:04:58,320 --> 02:05:02,110
+Taneli sieppasi koristuksen ja lennätti sen Hetville.
+
+1476
+02:05:02,110 --> 02:05:05,650
+Hetvi osui olemaan kamarissa yksin.
+
+1477
+02:05:05,650 --> 02:05:11,250
+— Löysin löytökäisen, sanoi Taneli ojentaen kultakoristusta.
+
+1478
+02:05:11,250 --> 02:05:13,920
+— Ai, se on minun neulastani pudonnut.
+
+1479
+02:05:13,920 --> 02:05:16,220
+En ole huomannutkaan sitä kaivata.
+
+1480
+02:05:16,220 --> 02:05:19,270
+Kiitoksia paljon, Taneli, kelpo poika!
+
+1481
+02:05:19,270 --> 02:05:24,200
+— Kelpo pöllö, joka viisastellessaan päästää suurimpia tyhmyyksiä!
+
+1482
+02:05:24,200 --> 02:05:26,260
+— Miksi, Taneli, noin puhut?
+
+1483
+02:05:26,260 --> 02:05:28,510
+Oikeinhan äänesi vapisee!
+
+1484
+02:05:28,510 --> 02:05:31,020
+— Tässä ei ole aikaa selvittää.
+
+1485
+02:05:31,020 --> 02:05:33,620
+Saanko luvan tulla Toholassa käymään?
+
+1486
+02:05:33,620 --> 02:05:34,800
+— Tietysti!
+
+1487
+02:05:34,800 --> 02:05:36,500
+Milloin hyvänsä...
+
+1488
+02:05:36,500 --> 02:05:38,080
+— Kiitoksia!
+
+1489
+02:05:38,080 --> 02:05:39,870
+Minä tulen kohta.
+
+1490
+02:05:39,870 --> 02:05:45,750
+Taneli puristi Hetvin kättä niin voimakkaasti, jotta tämä oli vähällä kiljahtaa.
+
+1491
+02:05:45,750 --> 02:05:53,440
+Jälekkäin tulivat he molemmat porstuaan, jossa herastuomari jo jäähyväisiään heitti Salmelan isännälle ja emännälle.
+
+1492
+02:05:53,440 --> 02:06:02,240
+— Hyvä oli, kun löysit neulani koristuksen, sanoi Hetvi ikäänkuin selittäen läsnäolijoille, minkä vuoksi Taneli oli kamariin tullut.
+
+1493
+02:06:02,240 --> 02:06:07,810
+Hetvi sanoi nyt järjestään isännälle, emännälle ja Samulle jäähyväiset.
+
+1494
+02:06:07,810 --> 02:06:15,950
+Kiitoksia sateli tosin molemmin puolin, mutta herastuomarin kulmakarvain välissä näkyi syvennys.
+
+1495
+02:06:15,950 --> 02:06:20,230
+Komea ori seisoi jo valjaissa portaiden luona.
+
+1496
+02:06:20,230 --> 02:06:26,280
+Se hypsähteli ja säpsähteli, kun näki viikatteita ja haravia liikuteltavan.
+
+1497
+02:06:26,280 --> 02:06:33,060
+Herastuomari nousi itse edeltäpäin kiesseihin ja piteli ohjaksia, sanoen: soo, poika, soo!
+
+1498
+02:06:33,060 --> 02:06:39,460
+Mutta ori nytkäytteli kiessejä milloin eteen milloin taaksepäin, ettei Hetvi uskaltanut nousta.
+
+1499
+02:06:39,460 --> 02:06:41,740
+— Auta, Samu, Hetviä!
+
+1500
+02:06:41,740 --> 02:06:43,580
+kehoitti emäntä.
+
+1501
+02:06:43,580 --> 02:06:48,370
+Mutta Samu oli loitompana, hän avasi piha-maan porttia.
+
+1502
+02:06:48,370 --> 02:06:55,410
+Silloin sieppasi Törsövän Taneli Hetvin syliinsä, huiskautti hänet keveästi kiesseihin isänsä viereen.
+
+1503
+02:06:55,410 --> 02:06:58,290
+Pääsipä jo häneltä pieni sukkeluuskin:
+
+1504
+02:06:58,290 --> 02:07:01,900
+— Eihän tuo herran leiviskä paina humalanaulaakaan!
+
+1505
+02:07:01,900 --> 02:07:04,890
+— Hyvästi, hyvästi, kiitoksia paljon!
+
+1506
+02:07:04,890 --> 02:07:08,270
+— Jumalan haltuun, kiitoksia itsellenne!
+
+1507
+02:07:08,270 --> 02:07:11,700
+Salmen taa meneviä saattoi Liisa veneellä.
+
+1508
+02:07:11,700 --> 02:07:14,130
+Useimmat kulkivat kujatietä myöten.
+
+1509
+02:07:14,130 --> 02:07:19,590
+Edellepäin joutuneet väistyivät tiepuoleen, kunnes herastuomari ajoi ohitse.
+
+1510
+02:07:19,590 --> 02:07:24,530
+Vielä vilkahtelivat haravien varret pellon takaa matalan viidakon päällitse.
+
+1511
+02:07:24,530 --> 02:07:27,740
+Sitten katosivat nekin näkyvistä.
+
+1512
+02:07:29,040 --> 02:07:31,520
+Seitsemännen luvun loppu
+
+1513
+02:07:36,640 --> 02:07:38,440
+Salmelan heinätalkoot
+
+1514
+02:07:38,440 --> 02:07:40,120
+Kahdeksas luku
+
+1515
+02:07:40,120 --> 02:07:43,540
+Kirjoittanut
+Olli Wuorinen
+
+1516
+02:07:43,540 --> 02:07:46,610
+Tämä on LibriVox - äänite.
+
+1517
+02:07:46,610 --> 02:07:50,930
+Kaikki LibriVox - äänitteet ovat julkista omaisuutta.
+
+1518
+02:07:50,930 --> 02:08:00,540
+Lisätietoja saadaksesi, tai ilmoittautuaksei vapaaehtoiseksi, mene osoitteeseen LibriVox.org.
+
+1519
+02:08:00,540 --> 02:08:05,060
+Lukijana Harri Tapani Ylilammi
+
+1520
+02:08:05,060 --> 02:08:09,880
+Salmelan heinätalkoot
+Kahdeksas luku
+
+1521
+02:08:11,740 --> 02:08:19,500
+Vierasten mentyä, kun isäntä ja emäntä jäivät tupaan kahden kesken, keskustelivat he näin-ikään:
+
+1522
+02:08:19,500 --> 02:08:24,890
+— Kyllä se herastuomari nyt on meille vihoissaan, alkoi isäntä.
+
+1523
+02:08:24,890 --> 02:08:26,070
+— On se!
+
+1524
+02:08:26,070 --> 02:08:28,500
+Vaan itsepä hän on syypää koko asiaan.
+
+1525
+02:08:28,500 --> 02:08:30,680
+Hänestä se alku lähti.
+
+1526
+02:08:30,680 --> 02:08:35,370
+— Etkö sinäkään ennen huomannut mitään Samun ja Hilman välistä?
+
+1527
+02:08:35,370 --> 02:08:39,280
+Onhan teillä naisilla niin tarkka silmä sellaisiin asioihin.
+
+1528
+02:08:39,280 --> 02:08:42,380
+— En kuolemakseni ole ennen huomannut mitään.
+
+1529
+02:08:42,380 --> 02:08:48,260
+Minusta näyttivät Samu ja Hilma sikäli vieraantuvan toisistansa mikäli kasvoivat isommiksi.
+
+1530
+02:08:48,260 --> 02:08:50,770
+— Mitäs nyt asiasta arvelet?
+
+1531
+02:08:50,770 --> 02:08:55,890
+— Samu ja Hilma ovat toisiinsa mielistyneet, hyvin ovat mielistyneet.
+
+1532
+02:08:55,890 --> 02:09:00,840
+— Miksi sinä sitten työnsit Samun Hetvin kanssa kirkolle tänäaamuna?
+
+1533
+02:09:00,840 --> 02:09:05,480
+Olisi se raha-Risto saattanut itse toimittaa tärkeät asiansa.
+
+1534
+02:09:05,480 --> 02:09:07,650
+— Minun kävi Hetviä sääliksi.
+
+1535
+02:09:07,650 --> 02:09:10,950
+Sievimmästihän siitä sillä lailla päästiin.
+
+1536
+02:09:10,950 --> 02:09:14,640
+— Hetvi näyttää olevan tavallinen ihminen.
+
+1537
+02:09:14,640 --> 02:09:18,910
+— Hetvi on äitiinsä; ei hän ylpeile rikkaudellaan.
+
+1538
+02:09:18,910 --> 02:09:21,910
+— Sen konstin osaa hänen isänsä.
+
+1539
+02:09:21,910 --> 02:09:28,410
+Onhan rahalla arvonsa, tärkeä arvo onkin, mutta tuollainen kerskuminen ilettää.
+
+1540
+02:09:28,410 --> 02:09:33,000
+— On arvo, mutta eihän toki rahoista riipu ihmisen elämä ja autuus.
+
+1541
+02:09:33,000 --> 02:09:35,290
+— Ei riipu, ei riipu...
+
+1542
+02:09:35,290 --> 02:09:37,410
+Samu tuli tupaan.
+
+1543
+02:09:37,410 --> 02:09:41,080
+Hän seisahtui ikkunan eteen ja katseli ulos.
+
+1544
+02:09:41,080 --> 02:09:43,610
+— No, mitä nyt mietit, Samu?
+
+1545
+02:09:43,610 --> 02:09:45,770
+Miksi näytät noin surulliselta?
+
+1546
+02:09:45,770 --> 02:09:47,530
+kysyi isä.
+
+1547
+02:09:47,530 --> 02:09:49,980
+Samu ei vastannut.
+
+1548
+02:09:49,980 --> 02:09:53,240
+— Niin, sano vaan Samu, mikä sinua vaivaa?
+
+1549
+02:09:53,240 --> 02:09:55,120
+lisäsi äiti.
+
+1550
+02:09:55,120 --> 02:09:58,190
+— Tämä päivä on ollut minulle raskas päivä.
+
+1551
+02:09:58,190 --> 02:10:01,600
+Minua on ivattu ja ivataan pitkin pitäjätä.
+
+1552
+02:10:01,600 --> 02:10:03,010
+— Ivattu!
+
+1553
+02:10:03,010 --> 02:10:04,030
+Ivataan!
+
+1554
+02:10:04,030 --> 02:10:05,230
+Mistä?
+
+1555
+02:10:05,230 --> 02:10:08,010
+— Nimismieskin ivasi niinkuin riivattu.
+
+1556
+02:10:08,010 --> 02:10:11,000
+Kirkon sakastissa hän kaiversi minua.
+
+1557
+02:10:11,000 --> 02:10:12,810
+Äänettömyys.
+
+1558
+02:10:12,810 --> 02:10:16,960
+Isä ja äiti katsahtivat toistensa silmiin.
+
+1559
+02:10:16,960 --> 02:10:19,840
+— Vai ivasi nimismies!
+
+1560
+02:10:19,840 --> 02:10:30,780
+— Pekka Juntunenkin, joka ei turhia utele, kysyi minulta kirkolta tullessa: onko siinä perää, kun ihmiset sanovat sinun olevan kihloissa Toholan Hetvin kanssa?
+
+1561
+02:10:30,780 --> 02:10:32,960
+— Mitä vastasit?
+
+1562
+02:10:32,960 --> 02:10:38,610
+— Ei siinä ole perää, eikä tule koskaan olemaan perää, vastasin minä.
+
+1563
+02:10:38,610 --> 02:10:40,820
+— Vai niin vastasit.
+
+1564
+02:10:40,820 --> 02:10:43,160
+Se oli selvään sanottu, se.
+
+1565
+02:10:43,160 --> 02:10:48,410
+Samu käänsi katseensa pois ikkunasta, rohkaisi mielensä ja sanoi:
+
+1566
+02:10:48,410 --> 02:10:54,350
+— Ja teille, isä ja äiti, ilmoitan nyt, että olen aikonut kosia Hilmaa.
+
+1567
+02:10:54,350 --> 02:10:59,970
+— No, oma asiasihan se on, poikani, virkkoi isä.
+
+1568
+02:10:59,970 --> 02:11:03,030
+Minä en kiellä, en kehoita.
+
+1569
+02:11:03,030 --> 02:11:06,700
+— Minä pidän paljon Hilmasta, sanoi äiti.
+
+1570
+02:11:06,700 --> 02:11:09,140
+Suokoon vaan Jumala onnea!
+
+1571
+02:11:09,140 --> 02:11:13,920
+Paimen Aaro juoksi keppikädessä tupaan, katsahti kelloon ja sanoi:
+
+1572
+02:11:13,920 --> 02:11:17,320
+— Aika onkin lähteä ajamaan lehmät kotiin.
+
+1573
+02:11:20,180 --> 02:11:23,470
+Ääneti ajoi herastuomari tyttärineen kotiinsa.
+
+1574
+02:11:23,470 --> 02:11:26,460
+Hetvi aavisti myrskyn nousevan.
+
+1575
+02:11:26,460 --> 02:11:30,260
+Ja kun kotia oli päästy, silloin se ryske kävi.
+
+1576
+02:11:30,260 --> 02:11:35,350
+Vähäpätöisimmistä seikoista haukkui herastuomari nyt palvelusväkeänsä.
+
+1577
+02:11:35,350 --> 02:11:43,780
+Samallaisen läksytyksen saivat torpparit ja mökkiläiset, jotka illansuussa olivat tulleet Toholaan isäntäväkeä kotiin odottamaan.
+
+1578
+02:11:43,780 --> 02:11:47,990
+Onneton se, joka silloin yritteli itseänsä puolustamaan.
+
+1579
+02:11:47,990 --> 02:11:53,100
+Silloin ne vanhatkin rikokset ja virheet uudestaan paljastettiin.
+
+1580
+02:11:53,100 --> 02:12:00,610
+Mutta kun herastuomari oli sisunsa tyhjentänyt, meni hän kamariinsa, eikä tullut koko iltana väen näkyviin.
+
+1581
+02:12:00,610 --> 02:12:10,010
+— Ainoastaan kerran tätä ennen olen hänet näin haltioissaan nähnyt, virkkoi vanha Saara, joka oli kolmattakymmentä vuotta talossa palvellut.
+
+1582
+02:12:10,010 --> 02:12:11,920
+— Milloin se tapahtui?
+
+1583
+02:12:11,920 --> 02:12:14,180
+tiedustivat toiset piiat.
+
+1584
+02:12:14,180 --> 02:12:16,650
+Hyvin hiljaan sopotti Saara:
+
+1585
+02:12:16,650 --> 02:12:22,080
+— Silloin kun saatiin tietää, että vallesmannilla oli morsian Wiipurissa.
+
+1586
+02:12:22,080 --> 02:12:24,930
+Voi voi, sitäkin temmellystä!
+
+1587
+02:12:24,930 --> 02:12:30,130
+Hetvi tuli, puheli ystävällisesti palvelijoiden ja alusväen kanssa.
+
+1588
+02:12:30,130 --> 02:12:32,050
+— Älkää olko millännekään!
+
+1589
+02:12:32,050 --> 02:12:33,330
+sanoi hän.
+
+1590
+02:12:33,330 --> 02:12:34,890
+Tunnettehan te isäni.
+
+1591
+02:12:34,890 --> 02:12:36,180
+Rajuilma on ohitse.
+
+1592
+02:12:36,180 --> 02:12:38,890
+Tehkää vaan tehtävänne niinkuin ennenkin.
+
+1593
+02:12:38,890 --> 02:12:43,410
+Ja entiseen tapaansa kulkivat työt ja toimet Toholassa.
+
+1594
+02:12:43,410 --> 02:12:46,630
+Mutta Hetvin mieliala ei ollut entisellään.
+
+1595
+02:12:46,630 --> 02:12:51,180
+Koko seuraavan päivän pyörivät hänen mielessänsä Salmelan heinätalkoot.
+
+1596
+02:12:51,180 --> 02:12:56,920
+Monta iloista muistoa ei hänellä niistä ollut, mutta koko joukko katkeria tapahtumia.
+
+1597
+02:12:56,920 --> 02:13:02,050
+Samu ei hänestä lukuapitänyt, olipa kirkkotiellä melkein ynseäkin.
+
+1598
+02:13:02,050 --> 02:13:07,300
+Enimmän syytti hän isäänsä, joka nähtävästi oli koko hankkeen alkuunpannut.
+
+1599
+02:13:07,300 --> 02:13:10,200
+Kelpaa nyt ihmisten nauraa ja pilkata!
+
+1600
+02:13:10,200 --> 02:13:12,500
+Hän muisteli Törsövän Tanelia.
+
+1601
+02:13:12,500 --> 02:13:15,270
+Reippain, iloisin poika koko joukossa.
+
+1602
+02:13:15,270 --> 02:13:24,910
+Kivenheitossakin melkein Samun vertainen, vaikk'ei Taneli ollut sitä leikkiä ennen harjoitellut ja Samu oli usein veljensä kanssa kilpaa heitellyt.
+
+1603
+02:13:24,910 --> 02:13:27,960
+Hän muisteli Tanelin äänen värähdystä.
+
+1604
+02:13:27,960 --> 02:13:30,500
+Hän muisteli rotevaa kädenpuristusta.
+
+1605
+02:13:30,500 --> 02:13:33,110
+Mitähän sen pojan päässä pyörähteli?
+
+1606
+02:13:33,110 --> 02:13:35,030
+Entäs kiesseihin nosto!
+
+1607
+02:13:35,030 --> 02:13:39,390
+Sanalla sanoen Hetvi piti paljon Törsövän Tanelista.
+
+1608
+02:13:39,390 --> 02:13:41,500
+Niin kului maanantai.
+
+1609
+02:13:41,500 --> 02:13:43,120
+Tanelia ei näkynyt.
+
+1610
+02:13:43,120 --> 02:13:45,100
+Olisiko hänkin vaan pilkannut?
+
+1611
+02:13:45,100 --> 02:13:48,910
+Mitäpä hänellä olisikaan sanomista?
+
+1612
+02:13:48,910 --> 02:13:57,780
+Mutta tiistaiaamuna, kun väki oli työhön mennyt ja Hetvi oli aitassa taikinaan jauhoja noutamassa, ilmestyi Taneli aitan ovelle.
+
+1613
+02:13:57,780 --> 02:14:00,210
+— Hyvää huomenta, Hetvi!
+
+1614
+02:14:00,210 --> 02:14:02,110
+— Huomenta, huomenta, Taneli!
+
+1615
+02:14:02,110 --> 02:14:04,940
+Oikein säpsähdin, kun äänesi kuulin.
+
+1616
+02:14:04,940 --> 02:14:07,220
+— Onko isäsi kotona?
+
+1617
+02:14:07,220 --> 02:14:10,180
+— Hän on työväen kanssa niityllä tässä lähellä.
+
+1618
+02:14:10,180 --> 02:14:12,620
+Etkö häntä tullessani nähnyt?
+
+1619
+02:14:12,620 --> 02:14:16,150
+— Työväen minä kyllä näin, mutta isääsi en nähnyt.
+
+1620
+02:14:16,150 --> 02:14:19,330
+Eikä minulla olekaan isällesi asiaa tällä kertaa.
+
+1621
+02:14:19,330 --> 02:14:22,950
+Sinulle sanoisin jotakin, jos uskaltaisin.
+
+1622
+02:14:22,950 --> 02:14:25,150
+— Jos uskaltaisit?
+
+1623
+02:14:25,150 --> 02:14:26,220
+— Niin.
+
+1624
+02:14:26,220 --> 02:14:29,160
+Eilisen päivää epäröitsin sitä.
+
+1625
+02:14:29,160 --> 02:14:32,070
+— Taneli, minä en ymmärrä sinua!
+
+1626
+02:14:32,070 --> 02:14:35,440
+— Eikö isäsi ole sinulle mitään puhunut minusta?
+
+1627
+02:14:35,440 --> 02:14:37,160
+— Ei mitään.
+
+1628
+02:14:37,160 --> 02:14:39,750
+— Entäs Salmelan talkoissa?
+
+1629
+02:14:39,750 --> 02:14:48,590
+— Ei sielläkään ... niin siellä hän muistaakseni lauantaina aamiaisen jälkeen sanoi jotenkin oudolla tavalla, että sinä olit puhunut totta.
+
+1630
+02:14:48,590 --> 02:14:50,240
+— Muuta ei?
+
+1631
+02:14:50,240 --> 02:14:51,380
+— Ei.
+
+1632
+02:14:51,380 --> 02:14:59,320
+— Sitten minun täytyy itseni sinulle ilmoittaa, mitä silloin sanoin, jotta saat tuomita ansion mukaan.
+
+1633
+02:14:59,320 --> 02:15:03,950
+Törsövän Taneli kertoi tarkallehen hopeaonkijutun.
+
+1634
+02:15:03,950 --> 02:15:05,410
+Ei se helppoa ollut.
+
+1635
+02:15:05,410 --> 02:15:11,710
+Hänen äänensä värähteli niin omituisesti, sanat tahtoivat kulkkuun takertua.
+
+1636
+02:15:11,710 --> 02:15:14,670
+Katkeraan itkuun purskahti Hetvi.
+
+1637
+02:15:14,670 --> 02:15:20,360
+Hän laski jauhovakan käsistään aitan lattialle ja tempasi esiliinan silmilleen.
+
+1638
+02:15:20,360 --> 02:15:31,740
+Hän ei sentähden huomannut isäänsä, joka nähtyään pihaan tulevan Tanelin oli piiloutunut, ja nyt hiipi keppi kädessä Tanelin taakse aikoen säikyttää heitä molempia.
+
+1639
+02:15:31,740 --> 02:15:41,910
+Mutta huomattuaan millaisen vaikutuksen Tanelin tunnustus Hetviin teki, hiipi herastuomari jälleen aitan nurkan taa, kuullaksensa mitä nyt seuraisi.
+
+1640
+02:15:41,910 --> 02:15:45,490
+Taneli seisoi aitan ovella neuvotonna.
+
+1641
+02:15:45,490 --> 02:15:46,970
+— Voi voi!...
+
+1642
+02:15:46,970 --> 02:15:47,730
+Ta-ne-li!...
+
+1643
+02:15:47,730 --> 02:15:52,190
+Sel-lai-sen häv-äistyk-sen on oma isä-ni mi-minulle saattanut...
+
+1644
+02:15:52,190 --> 02:16:02,280
+Minä en koskaan ... en koskaan olisi ... joutunut kihloihin nimismiehen kanssa, jos ei isäni ... olisi niin toimittanut...
+
+1645
+02:16:02,280 --> 02:16:05,680
+Äitini ... vainaaja, oli alussa vasten.
+
+1646
+02:16:05,680 --> 02:16:08,600
+Enkä minäkään mielinyt nimismiehelle.
+
+1647
+02:16:08,600 --> 02:16:10,860
+En ensinkään pitänyt koko herrasta.
+
+1648
+02:16:10,860 --> 02:16:14,350
+Isä sanoi, ettemme me naiset ymmärrä omaa etuamme.
+
+1649
+02:16:14,350 --> 02:16:17,220
+Minun parastani sanoo isä aina katsovansa.
+
+1650
+02:16:17,220 --> 02:16:20,700
+Voi voi, kun tulin lähteneeksi Salmelaan talkoihin.
+
+1651
+02:16:20,700 --> 02:16:23,840
+Kyllä siellä on arvattavasti moni muu minua pilkannut.
+
+1652
+02:16:23,840 --> 02:16:26,070
+Kiitän sinua rehellisyydestäsi!
+
+1653
+02:16:26,070 --> 02:16:28,780
+Mene nyt, Taneli, isä saattaa tulla.
+
+1654
+02:16:28,780 --> 02:16:31,730
+Älä toki vasta noin halveksi minua!
+
+1655
+02:16:31,730 --> 02:16:36,110
+Puhuessaan oli jo Hetvi laskenut esiliinan silmiltänsä.
+
+1656
+02:16:36,110 --> 02:16:41,139
+Oikea poski oli hieman jauhossa, eikä se häntä ensinkään rumentanut.
+
+1657
+02:16:41,139 --> 02:16:43,790
+— Minäkö sinua halveksisin!
+
+1658
+02:16:43,790 --> 02:16:46,970
+Voi Hetvi, tohdinko sanoa jotakin vielä?
+
+1659
+02:16:46,970 --> 02:16:51,660
+Karvaat ovat nuo pihlajanmarjat, sanoi kettu, kun ei niitä ylettynyt saamaan.
+
+1660
+02:16:51,660 --> 02:16:54,650
+Jotain sellaista taisi silloin mielessäni häilyä.
+
+1661
+02:16:54,650 --> 02:16:56,900
+Sinä ylhäällä, minä alhaalla.
+
+1662
+02:16:56,900 --> 02:16:57,960
+Siinä syy.
+
+1663
+02:16:57,960 --> 02:17:00,190
+Tohdinko kysyä sinulta?
+
+1664
+02:17:00,190 --> 02:17:01,500
+— Mitä?
+
+1665
+02:17:01,500 --> 02:17:04,941
+— Tahdotko tulla vähävaraisen miehen vaimoksi?
+
+1666
+02:17:04,941 --> 02:17:06,100
+— Kuinka?
+
+1667
+02:17:06,100 --> 02:17:07,580
+Luuletko isäni...
+
+1668
+02:17:07,580 --> 02:17:09,240
+— Mitä isästäsi!
+
+1669
+02:17:09,240 --> 02:17:12,110
+Tahdotko tulla vaimokseni?
+
+1670
+02:17:12,110 --> 02:17:14,990
+— Voi, Taneli, sinä et tunne isääni.
+
+1671
+02:17:14,990 --> 02:17:17,111
+Hän saattaa tulla hirmuiseksi.
+
+1672
+02:17:17,111 --> 02:17:20,400
+— Kyllä me hänestä selviämme, usko pois.
+
+1673
+02:17:20,400 --> 02:17:23,760
+— Minun täytyy totella isääni, minun täytyy.
+
+1674
+02:17:23,760 --> 02:17:29,850
+Minä tiedän, että hän tahtoo parastani, vaikka hän onkin niin suurta onnettomuutta minulle tuottanut.
+
+1675
+02:17:29,850 --> 02:17:32,360
+— Kyllä minäkin sitä uskon.
+
+1676
+02:17:32,360 --> 02:17:35,891
+Mutta minäkin tarkoitan parastasi ja omaa parastani ...
+
+1677
+02:17:35,891 --> 02:17:37,320
+Hetvi!
+
+1678
+02:17:37,320 --> 02:17:40,150
+— Minun on kovin vaikea elää.
+
+1679
+02:17:40,150 --> 02:17:43,450
+Et usko, Taneli, kuinka mielelläni minä kuolisin!
+
+1680
+02:17:43,450 --> 02:17:45,640
+— Mitä joutavia, Hetvi!
+
+1681
+02:17:45,640 --> 02:17:48,590
+Elää me tahdomme, iloisesti elää.
+
+1682
+02:17:48,590 --> 02:17:53,210
+— Mutta kuule nyt, Taneli, jättäkäämme tämä asia toistaiseksi...
+
+1683
+02:17:53,210 --> 02:17:54,870
+Jos vaan isäni...
+
+1684
+02:17:54,870 --> 02:18:00,590
+— Eipäs jätetä toistaiseksi, karjasi herastuomari Tanelin takana.
+
+1685
+02:18:00,590 --> 02:18:07,750
+Vai toistaiseksi, vai toistaiseksi tällaista kuherrusta, tällaista kujerrusta!
+
+1686
+02:18:07,750 --> 02:18:10,430
+Tämä asia ratkaistaan nyt heti paikalla.
+
+1687
+02:18:10,430 --> 02:18:13,450
+Minä olen sinun parastasi tarkoittanut, Hetvi!
+
+1688
+02:18:13,450 --> 02:18:14,890
+Sinä tiedät sen.
+
+1689
+02:18:14,890 --> 02:18:17,800
+Minä olen onnettomuutta tuottanut sinulle, Hetvi!
+
+1690
+02:18:17,800 --> 02:18:18,690
+Niin sanot.
+
+1691
+02:18:18,690 --> 02:18:23,040
+Tee nyt oman mielesi mukaan, mutta älä sitten jälkeenpäin syytä minua.
+
+1692
+02:18:23,040 --> 02:18:32,510
+Jos tahdot jättää tämän kotisi, jos tahdot mennä tämän Taneli Tapanaisen kanssa Törsövänlammen rannalle asumaan, niin jätä kotosi ja mene sinne.
+
+1693
+02:18:32,510 --> 02:18:37,900
+Toholasta minä laitan vaivaistalon ... vaivaistalon köyhiä turvattomia varten.
+
+1694
+02:18:37,900 --> 02:18:42,680
+Nyt olet omassa vallassasi, Hetvi, tee nyt mielesi mukaan!
+
+1695
+02:18:42,680 --> 02:18:49,800
+— Laittakaa Toholasta vaivaistalo tahi kuninkaanlinna, omannehan se on, virkkoi Taneli närkästyen.
+
+1696
+02:18:49,800 --> 02:18:54,851
+Hetvi, ennenkuin lähden niin kysyn vielä: tahdotko tulla vaimokseni?
+
+1697
+02:18:54,851 --> 02:18:56,970
+— Tahdon!
+
+1698
+02:18:56,970 --> 02:19:02,010
+Sanaakaan sanomatta lähti herastuomari työväkensä luoksi niitylle.
+
+1699
+02:19:02,010 --> 02:19:06,570
+— Nyt taisi isäsi suuttua meihin molempiin ikipäiviksi.
+
+1700
+02:19:06,570 --> 02:19:08,260
+— Sitä en luule.
+
+1701
+02:19:08,260 --> 02:19:11,310
+Ei hänen kiivastumisensa tuntunut kovin vihaiselta.
+
+1702
+02:19:11,310 --> 02:19:13,650
+Hänen silmänsä olivat vesikierteellä.
+
+1703
+02:19:13,650 --> 02:19:17,960
+Puheestansa huomasin, että hän oli kuullut meidän keskustelumme.
+
+1704
+02:19:17,960 --> 02:19:20,710
+— Sen minäkin huomasin.
+
+1705
+02:19:20,710 --> 02:19:32,320
+— Kuulepas, Taneli, minä en joutaisi isäni jälestä ... jauhot ovat taikinaan sekoitettavat ... pistäypäs sinä tuonne niityn veräjälle ja kuuntele mitä isä työväelle sanoo.
+
+1706
+02:19:32,320 --> 02:19:34,000
+Tule sitten heti tänne.
+
+1707
+02:19:34,000 --> 02:19:36,120
+Älä näyttäydy siellä.
+
+1708
+02:19:36,120 --> 02:19:39,790
+Taneli ymmärsi asian ja meni.
+
+1709
+02:19:39,790 --> 02:19:43,360
+Hetkisen kuluttua palasi hän ja kertoi:
+
+1710
+02:19:43,360 --> 02:19:45,250
+— Katselin veräjältä.
+
+1711
+02:19:45,250 --> 02:19:52,150
+Isäsi kulki niittäjäin ohitse, kohotteli kepillänsä luokoa ja sanoi: kaunis heinäilma tänään.
+
+1712
+02:19:52,150 --> 02:20:02,330
+Hän astui sitten ladon luo, jonka katolta par'aikaa laskeutui Tahvo Mäntynen, Viulu-Matin isä, ja kysyi siltä: joko katto on korjattu?
+
+1713
+02:20:02,330 --> 02:20:04,400
+Jo, vastasi Tahvo.
+
+1714
+02:20:04,400 --> 02:20:06,620
+Ei siinä nyt heinät kastu.
+
+1715
+02:20:06,620 --> 02:20:14,350
+Kun Tahvo sitten rupesi tupakkaa piippuunsa panemaan, ojensi isäsi kukkaronsa ja sanoi: pane tuosta!
+
+1716
+02:20:14,350 --> 02:20:15,970
+— Jumalan kiitos!
+
+1717
+02:20:15,970 --> 02:20:16,950
+huudahti Hetvi.
+
+1718
+02:20:16,950 --> 02:20:19,160
+Isä ei ole ensinkään vihoissaan!
+
+1719
+02:20:19,160 --> 02:20:24,260
+Minä tuon voita ja leipää suuruspalaksi; kahvi joutuu tuossa paikassa.
+
+1720
+02:20:24,260 --> 02:20:31,570
+— Jos tietäisin olevani isällesi kovin vastenmielinen mies, niin en kuluttaisi taloanne kahvikupillakaan.
+
+1721
+02:20:31,570 --> 02:20:34,480
+— No, Taneli, ei isäni sentään...
+
+1722
+02:20:34,480 --> 02:20:36,900
+— Niin, arvaanhan minäkin...
+
+1723
+02:20:36,900 --> 02:20:42,690
+He katsoivat toinen toistansa silmästä silmään ja lauseet jäivät kesken.
+
+1724
+02:20:42,690 --> 02:20:54,370
+Myötäsukaisesti kävivät sitten sekä Salmelan Samun että Törsövän Tanelin naimahommat, huolimatta kontinkantajien ja kielilakkarien laverruksista.
+
+1725
+02:20:54,370 --> 02:20:58,519
+Samaan aikaan vietettiin häitä Toholassa ja Salmelassa.
+
+1726
+02:20:58,519 --> 02:21:08,600
+Herastuomari oli jo aikaa sitten mieltynyt tulevaan vävyynsä, mutta vasta hääpidoissa lukuisan vierasjoukon läsnäollessa hän sanoi juhlallisesti:
+
+1727
+02:21:08,600 --> 02:21:14,940
+— Taneli Tapanainen, sinä olet tästä lähin minun vävyni, minun poikani ja minun perilliseni.
+
+1728
+02:21:14,940 --> 02:21:20,110
+Jää nyt Toholaan asumaan, sillä kaikki mitä minun on, se on sinunkin.
+
+1729
+02:21:20,110 --> 02:21:26,500
+Salmelassa häävierasten joukossa näkyi useita niitä, jotka olivat heinätalkoissa olleet.
+
+1730
+02:21:26,500 --> 02:21:29,030
+Kaivolan Kaisa oli Hannonsa kanssa.
+
+1731
+02:21:29,030 --> 02:21:34,450
+Siellä oli Timo Terhakka, siellä Tikkalan Mari, siellä Kalle Pirhonen.
+
+1732
+02:21:34,450 --> 02:21:36,650
+Pekka Juntunenkin oli siellä.
+
+1733
+02:21:36,650 --> 02:21:41,641
+Hän lauloi maan tavan mukaan jokaisen aterian jälkeen ruokavärssyn.
+
+1734
+02:21:41,641 --> 02:21:51,790
+Antti Salminen kirjoitti silloin muistoon poikansa ja miniänsä hääpäivän vanhan raamatun kanteen, jossa oli jo ennestään monta perheellistä muistoonpanoa.
+
+1735
+02:21:51,790 --> 02:21:54,840
+Kirjoittipa siihen vielä lauselman:
+
+1736
+02:21:54,840 --> 02:21:56,620
+Ihminen päättää,
+
+1737
+02:21:56,620 --> 02:21:58,641
+Jumala säätää.
+
+1738
+02:22:00,300 --> 02:22:02,170
+Kahdeksannen luvun loppu
+
+1739
+02:22:02,170 --> 02:22:03,840
+Kirjan loppu
+
+1740
+02:22:03,840 --> 02:22:06,000
+Salmelan heinätalkoot
+
+1741
+02:22:06,000 --> 02:22:08,260
+Kirjoittanut
+Olli Wuorinen
+
+1742
+02:22:08,260 --> 02:22:16,580
+Lukijana Harri Tapani Ylilammi
+harri.ylilammi.fi
+
+1743
+02:22:20,940 --> 02:22:21,940
+
+
