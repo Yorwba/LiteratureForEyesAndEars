@@ -15,6 +15,10 @@ def ass_header(language=None, use_template=False):
             "Default": "DejaVu Serif,60",
             "Standout": "Anaktoria,120",
         },
+        cmn={
+            "Default": "Noto Serif CJK TC,120",
+            "Standout": "Noto Serif CJK TC,180",
+        },
         jpn={
             "Default": "Noto Serif CJK JP,90",
             "Standout": "Noto Serif CJK JP,180",

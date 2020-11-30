@@ -16,6 +16,7 @@ def num_lines(text, characters_per_line):
 def split_paragraph(paragraph, language=None):
     characters_per_line, lines_per_paragraph = defaultdict(
         lambda: (60, 14),
+        cmn=(20, 7),
         jpn=(25, 7),
     )[language]
     if num_lines(align_json.span_text(paragraph), characters_per_line) <= lines_per_paragraph:
