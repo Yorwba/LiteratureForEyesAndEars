@@ -143,7 +143,7 @@ def main(argv):
             )
     if use_template:
         print("Press 'Automation' > 'Apply karaoke template'")
-        subprocess.run(['aegisub', args.output])
+        subprocess.run(['aegisub', args.output], check=True)
 
 if __name__ == '__main__':
     main(sys.argv)
