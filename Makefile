@@ -121,15 +121,12 @@ books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/libri
 
 books/librivox.org/%.ass: books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	code/ass.py --language="$$LANGUAGE" "$<" > "$@" \
+	code/ass.py --language="$$LANGUAGE" "$<" "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%_furi.ass: books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
-	code/ass.py --language="$$LANGUAGE" --furigana "$<" > "$@" \
-	|| (rm "$@" && false) # delete in case of failure
-	@echo "Press 'Automation' > 'Apply karaoke template'"
-	aegisub "$@" \
+	code/ass.py --language="$$LANGUAGE" --furigana "$<" "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.srt: books/librivox.org/%.align.json
