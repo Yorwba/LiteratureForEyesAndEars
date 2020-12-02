@@ -102,6 +102,10 @@ books/librivox.org/%/joined.txt: books/librivox.org/%/files/*.txt
 	cat $(sort $^) > "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
+books/librivox.org/%_cmn-Hans.txt: books/librivox.org/%.txt data/cc-cedict.txt
+	code/transliterate.py cmn-Hans "$<" "$@" \
+	|| (rm "$@" && false) # delete in case of failure
+
 null  :=
 space := $(null) # The variable reference prevents the space from stripping
 pipe  := |
