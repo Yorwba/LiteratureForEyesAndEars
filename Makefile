@@ -136,3 +136,10 @@ books/librivox.org/%.srt: books/librivox.org/%.align.json
 books/librivox.org/%.split_paragraphs: books/librivox.org/%.align.json
 	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
 	code/find_splits.py --language="$$LANGUAGE" "$<" books/librivox.org/"$*".txt
+
+data/:
+	mkdir -p "$@"
+
+data/cc-cedict.txt: data/
+	curl 'https://cc-cedict.org/editor/editor_export_cedict.php' > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
