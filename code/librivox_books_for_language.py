@@ -17,6 +17,7 @@ def good_source(url):
         'gutenberg.org',
         'wikisource.org',
         'az.lib.ru',
+        'runeberg.org',
         'rvb.ru',
     ]
     bad_sources = ['projekt-gutenberg.org']

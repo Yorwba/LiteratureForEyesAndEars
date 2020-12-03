@@ -45,11 +45,19 @@ def try_get(url, data=None):
                     as_file = BytesIO(text)
                     if zipfile.is_zipfile(as_file):
                         with zipfile.ZipFile(as_file) as z:
-                            text_files = [n for n in z.namelist() if n.endswith('.txt')]
-                            if len(text_files) != 1:
-                                raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
-                            text = z.read(text_files[0])
-                            encoding = 'shift-jis'
+                            if 'aozora.gr.jp' in url:
+                                text_files = [n for n in z.namelist() if n.endswith('.txt')]
+                                if len(text_files) != 1:
+                                    raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
+                                text = z.read(text_files[0])
+                                encoding = 'shift-jis'
+                            elif 'runeberg.org' in url:
+                                html_files = [n for n in z.namelist() if n.endswith('.html')]
+                                text = '\n'.join(html_to_plain_text(z.read(n)) for n in html_files)
+                                encoding = 'utf-8'
+                                text = text.encode(encoding)
+                            else:
+                                raise Exception("Didn't expect to get a ZIP file from URL "+url)
                     else:
                         raise Exception("Unknown file type!")
                 return '\n'.join(text.decode(encoding).splitlines())
@@ -208,6 +216,16 @@ def benyehuda_plain_text(url):
     })
 
 
+def runeberg_plain_text(url):
+    split_url = urllib.parse.urlsplit(url)
+    if not split_url.netloc.endswith('runeberg.org'):
+        raise Exception("Not a Runeberg.org URL: "+url)
+    work = split_url.path.split('/')[1]
+    zip_file = 'http://runeberg.org/download.pl?mode=html&work='+work
+    text = try_get(zip_file)
+    return text
+
+
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
         source = book['url_text_source']
@@ -219,6 +237,7 @@ if __name__ == '__main__':
                 wikisource_plain_text,
                 aozora_plain_text,
                 benyehuda_plain_text,
+                runeberg_plain_text,
         ):
             try:
                 print(handler(source), end='')
