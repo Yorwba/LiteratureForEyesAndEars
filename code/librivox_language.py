@@ -22,6 +22,7 @@ language_codes = {
     'Portuguese': 'por-br',
     'Russian': 'rus',
     'Spanish': 'spa',
+    'Swedish': 'swe',
 }
 
 
