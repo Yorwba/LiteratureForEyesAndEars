@@ -106,6 +106,9 @@ books/librivox.org/%_cmn-Hans.txt: books/librivox.org/%.txt data/cc-cedict.txt
 	code/transliterate.py cmn-Hans "$<" "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
+books/librivox.org/%/joined_cmn-Hans.mp3: books/librivox.org/%/joined.mp3
+	cp "$<" "$@"
+
 null  :=
 space := $(null) # The variable reference prevents the space from stripping
 pipe  := |
