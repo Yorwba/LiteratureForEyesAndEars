@@ -19,6 +19,10 @@ def ass_header(language=None, use_template=False):
             "Default": "Noto Serif CJK TC,120",
             "Standout": "Noto Serif CJK TC,180",
         },
+        cmn_Hans={
+            "Default": "Noto Serif CJK SC,120",
+            "Standout": "Noto Serif CJK SC,180",
+        },
         jpn={
             "Default": "Noto Serif CJK JP,90",
             "Standout": "Noto Serif CJK JP,180",
@@ -127,6 +131,9 @@ def main(argv):
     with open(args.alignment) as f: alignments = json.load(f)
 
     use_template = args.furigana or args.language in {'cmn', 'jpn'}
+
+    if args.language == 'cmn' and 'cmn-Hans' in args.output:
+        args.language = 'cmn_Hans'
 
     with open(args.output, 'w') as out:
         print(ass_header(language=args.language, use_template=use_template), file=out)
