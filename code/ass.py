@@ -12,8 +12,8 @@ import sys
 def ass_header(language=None, use_template=False):
     styles = defaultdict(
         lambda: {
-            "Default": "DejaVu Serif,60",
-            "Standout": "Anaktoria,120",
+            "Default": "DejaVu Serif,100",
+            "Standout": "Anaktoria,150",
         },
         cmn={
             "Default": "Noto Serif CJK TC,120",
