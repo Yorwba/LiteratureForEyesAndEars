@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import chardet
 import html.parser
 
 
@@ -16,6 +17,11 @@ class HtmlToPlain(html.parser.HTMLParser):
 
 
 def html_to_plain_text(html):
+    if isinstance(html, bytes):
+        det = chardet.UniversalDetector()
+        det.feed(html)
+        encoding = det.close()['encoding']
+        html = html.decode(encoding)
     html_to_plain = HtmlToPlain()
     html_to_plain.feed(html)
     html_to_plain.close()
