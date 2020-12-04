@@ -75,7 +75,7 @@ Och den förtorkade slog åter klubban i bordet med ett:
 
 Den geniale föredragaren drog ånyo i halsduken, hostade ett par gånger och återtog föredragets röda tråd:
 
-»Man anlägger,» sade han, »endast ett mycket stort schakt rätt ned genom jordens skorpa. Värmen kommer att öka med 1° för hvarje 33:dje meter som schaktet tränger nedåt.
+»Man anlägger,» sade han, »endast ett mycket stort schakt rätt ned genom jordens skorpa. Värmen kommer att öka med 1[[°|| grad]] för hvarje 33:dje meter som schaktet tränger nedåt.
 
 På tillräckligt stort djup få vi ånga, längre ned blir värmen ännu större, och på riktigt stort djup hafva vi nått den hetglödande massan.
 
@@ -119,7 +119,7 @@ Föredragaren bugade för auditoriet och ordföranden förklarade diskussionen �
 
 Då reste sig grufingeniören, begärde ordet och sade:
 
-»Har mr Montgomery beräknat huru mycket is det kommer att gå åt, för att arbetarne skola kunna arbeta när schaktet blir till exempel 3.000 meter djupt och således omkring 100° varmt?»
+»Har mr Montgomery beräknat huru mycket is det kommer att gå åt, för att arbetarne skola kunna arbeta när schaktet blir till exempel 3.000 meter djupt och således omkring 100[[°|| grad]] varmt?»
 
 Men ingeniören märkte snart på alla ovilliga blickar, som mötte honom, att här lönade sig nog ej att framkomma med en sakkunnig kritik.
 
