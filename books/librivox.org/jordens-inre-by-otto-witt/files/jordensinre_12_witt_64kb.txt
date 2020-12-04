@@ -14,7 +14,9 @@ Så en dag var det möte i Kejserliga Bergskollegiet, en institution som tämlig
 
 Presidenten hade anmodat Novaja-Golfa om att meddela sina åsikter om den mest rationella brytningsmetoden för de nordryska malmförekomsterna och fursten hade strax förklarat sig villig härtill.
 
-»Jag har tänkt mig,» sade Novaja-Golfa bland annat, »att förekomsterna bäst utnyttjas på samma sätt som mina schakter; det vill säga där hvarest vattentillgången tillåter sådant. Jag har också försökt det på ett ställe. Malmen strömmar då tillsammans med gråberget, upp ur grufvan i form af fint fördeladt slam. Därifrån föres den, genom rännor af ett eller annat hårdt material till kusten, hvarest råmassan förarbetas på kändt bergsmannamässigt sätt. Detta gifver oss malmen nästan gratis.
+»Jag har tänkt mig,» sade Novaja-Golfa bland annat, »att förekomsterna bäst utnyttjas på samma sätt som mina schakter; det vill säga där hvarest vattentillgången tillåter sådant. Jag har också försökt det på ett ställe.
+
+Malmen strömmar då tillsammans med gråberget, upp ur grufvan i form af fint fördeladt slam. Därifrån föres den, genom rännor af ett eller annat hårdt material till kusten, hvarest råmassan förarbetas på kändt bergsmannamässigt sätt. Detta gifver oss malmen nästan gratis.
 
 Vid en stor grufva kan man naturligtvis inte använda sig af endast ett rör utan måste hafva ett helt rörsystem till sin disposition, hufvudsaken är att hålla vattnet i en ständig, jämn cirkulation så att de hårda stenarne slungas mot sidorna och bottnen.
 
@@ -30,9 +32,15 @@ Man behöfver endast erinra sig det pneumatiska elddonet för att förstå tryck
 
 Denna lilla skiss klargör förhållandet — — — — — —
 
-— — — — Alltefter som schaktet a—b—c drifves nedåt komma större och större konformiga bergspartier att utöfva sitt tryck på den botten, som för ögonblicket existerar. Först a—a—e så b1—b—e och slutligen c1-c-e. Till och med den allra minsta förskjutning af dessa massor — och att en sådan måste uppstå är ju klart — medför att rörelsen omsättes i värme. Innan schaktet drefs ned var allt i jämnvikt — således kallt. Men denna bergmassornas rörelse kan — åtminstone i hårda och medelhårda bergarter — ej mätas med något vetenskapligt instrument. Den är allt för liten.
+— — — — Alltefter som schaktet a—b—c drifves nedåt komma större och större konformiga bergspartier att utöfva sitt tryck på den botten, som för ögonblicket existerar.
 
-Jag resonnerade nu som så: Kunde man åter igenfylla ett färdigt schakt med ett material, som ej läte sig sammanpressas — med kompakt stål eller liknande, så skulle värmen upphöra så snart allt åter hade kommit i jämnvikt, om min tryckteori var riktig. Är däremot jordens inre glödande så betydde naturligtvis icke denna utfyllning af schaktet något. Bottnen skulle gifvetvis bibehålla sin värme.
+Först a—a—e så b1—b—e och slutligen c1-c-e. Till och med den allra minsta förskjutning af dessa massor — och att en sådan måste uppstå är ju klart — medför att rörelsen omsättes i värme.
+
+Innan schaktet drefs ned var allt i jämnvikt — således kallt. Men denna bergmassornas rörelse kan — åtminstone i hårda och medelhårda bergarter — ej mätas med något vetenskapligt instrument. Den är allt för liten.
+
+Jag resonnerade nu som så: Kunde man åter igenfylla ett färdigt schakt med ett material, som ej läte sig sammanpressas — med kompakt stål eller liknande, så skulle värmen upphöra så snart allt åter hade kommit i jämnvikt, om min tryckteori var riktig.
+
+Är däremot jordens inre glödande så betydde naturligtvis icke denna utfyllning af schaktet något. Bottnen skulle gifvetvis bibehålla sin värme.
 
 Mina herrar!
 
@@ -44,7 +52,11 @@ Men — det var nog icke med ens jag nådde fram till ett verkligt resultat, det
 
 Till att börja med begagnade jag ett af mina schakt till experimentet.
 
-Detta hade ett djup af 2.000 meter. Värmen hade tilltagit synnerligen jämnt och i medeltal med 10° per 30 meter. Schaktbottnen hade därför en temperatur af 60° C. Efter att jag låtit tömma schaktet för vatten lät jag inmura en oerhördt solid kula af stål försedd med en helt liten ihålighet i centrum. I denna kavitet anbringades temperaturmätningsapparater och dessa förbundos medelst elektriska trådar med jordytan. Schaktet fylldes helt upp — tum för tum med järnbetong alldeles orubbligt tätt.
+Detta hade ett djup af 2.000 meter. Värmen hade tilltagit synnerligen jämnt och i medeltal med 10° per 30 meter.
+
+Schaktbottnen hade därför en temperatur af 60° C. Efter att jag låtit tömma schaktet för vatten lät jag inmura en oerhördt solid kula af stål försedd med en helt liten ihålighet i centrum.
+
+I denna kavitet anbringades temperaturmätningsapparater och dessa förbundos medelst elektriska trådar med jordytan. Schaktet fylldes helt upp — tum för tum med järnbetong alldeles orubbligt tätt.
 
 Temperaturen sjönk emellertid endast en obetydlighet — betongen var tydligen icke fast nog.
 
@@ -52,7 +64,9 @@ Men detta var mig icke nog, ty jag kunde ej inbilla mig, att en jordkula som i m
 
 Då fick jag en idé.
 
-Vatten är ju det minst sammantryckbara ämne vi äga. Jag offrade ett nytt schakt, placerade en temperaturmätare på bottnen, lät fylla den med vatten och tillmurade mynningen orubbligt fast efter att den försetts med en kran. Så väntade jag i fyra månader och öppnade då kranen. En väldig vattenstråle sköt i vädret.
+Vatten är ju det minst sammantryckbara ämne vi äga.
+
+Jag offrade ett nytt schakt, placerade en temperaturmätare på bottnen, lät fylla den med vatten och tillmurade mynningen orubbligt fast efter att den försetts med en kran. Så väntade jag i fyra månader och öppnade då kranen. En väldig vattenstråle sköt i vädret.
 
 Och därmed var ju trycket bevisadt, ty det innestängda vattnet hade från början intet öfvertryck som nu.
 
@@ -62,7 +76,9 @@ Och mycket riktigt — den sjönk sakta och obönhörligt. Från 60 till 50, til
 
 Således, mina herrar!
 
-Ett osammantryckbart utfylldt schakt är ju alldeles detsamma som en del af jordskorpan, i hvilken det ej finnes något schakt alls. Och i detta fyllda schakt märkes ingen temperaturförökning mot djupet; ergo: i den fasta, orubbade jordskorpan finnes det ingen temperaturförhöjning mot djupet.
+Ett osammantryckbart utfylldt schakt är ju alldeles detsamma som en del af jordskorpan, i hvilken det ej finnes något schakt alls.
+
+Och i detta fyllda schakt märkes ingen temperaturförökning mot djupet; ergo: i den fasta, orubbade jordskorpan finnes det ingen temperaturförhöjning mot djupet.
 
 Men ännu är jordskorpan stor och hel; ännu finns det plats för schakter i oändlighet; och jag spår, att man kommer att upplefva den dag, då jordskorpans ’feber’ tillgodogöres öfverallt.»
 
