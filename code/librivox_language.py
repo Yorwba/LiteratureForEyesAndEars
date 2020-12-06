@@ -8,6 +8,7 @@ import sys
 
 language_codes = {
     'Ancient Greek': 'grc',
+    'Cantonese Chinese': 'yue',
     'Chinese': 'cmn', # assume Mandarin
     'Dutch': 'nld',
     'English': 'eng',
