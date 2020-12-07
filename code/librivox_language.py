@@ -10,6 +10,7 @@ language_codes = {
     'Ancient Greek': 'grc',
     'Cantonese Chinese': 'yue',
     'Chinese': 'cmn', # assume Mandarin
+    'Danish': 'dan',
     'Dutch': 'nld',
     'English': 'eng',
     'Finnish': 'fin',
