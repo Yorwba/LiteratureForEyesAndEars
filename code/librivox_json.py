@@ -12,12 +12,16 @@ def get_books(path):
     if not path.endswith('.json'):
         filename = path.split('/')[-1].split('.')[0]
         if filename:
-            sections = [
-                s
-                for b in books
-                for s in b.get('sections', [])
-                if filename in (s['file_name'] or '')
-            ]
+            sections = []
+            for b in books:
+                for s in b.get('sections', []):
+                    if filename in (s['file_name'] or ''):
+                        s = s.copy()
+                        s['sections'] = [s]
+                        for k, v in b.items():
+                            if k not in s:
+                                s[k] = v
+                        sections.append(s)
             if sections:
                 return sections
     return books

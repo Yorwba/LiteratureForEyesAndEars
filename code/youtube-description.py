@@ -75,6 +75,8 @@ def timestamp(seconds):
 
 def sections(book):
     sections = sorted(book['sections'], key=lambda s: int(s['section_number']))
+    if len(sections) < 2:
+        return ''
     playtime = 0
     lines = ['Sections:']
     for s in sections:
