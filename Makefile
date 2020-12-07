@@ -122,17 +122,17 @@ books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.txt
-	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
+	LANGUAGE=$$(code/librivox_language.py "$<") && \
 	ascanius $^ 'task_language='$$LANGUAGE'|is_text_type=ruby|dtw_margin=30|mfcc_window_shift=0.02|os_task_file_format=json' "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.ass: books/librivox.org/%.align.json
-	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
+	LANGUAGE=$$(code/librivox_language.py "$@") && \
 	code/ass.py --language="$$LANGUAGE" "$<" "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%_furi.ass: books/librivox.org/%.align.json
-	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
+	LANGUAGE=$$(code/librivox_language.py "$@") && \
 	code/ass.py --language="$$LANGUAGE" --furigana "$<" "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
@@ -141,7 +141,7 @@ books/librivox.org/%.srt: books/librivox.org/%.align.json
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.split_paragraphs: books/librivox.org/%.align.json
-	LANGUAGE=$$(code/librivox_language.py $(dir $@)) && \
+	LANGUAGE=$$(code/librivox_language.py "$@") && \
 	code/find_splits.py --language="$$LANGUAGE" "$<" books/librivox.org/"$*".txt
 
 data/cc-cedict.txt:

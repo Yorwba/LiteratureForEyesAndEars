@@ -24,13 +24,6 @@ def get_books(path):
 
 
 def get_info(path):
-    if os.path.isfile(path):
-        if path.endswith('.json'):
-            with open(path) as f:
-                return json.load(f)
-        else:
-            up = os.path.dirname(path)
-            return get_info(up)
     if os.path.isdir(path):
         subpath = os.path.join(path, 'librivox.json')
         if os.path.isfile(subpath):
@@ -39,3 +32,12 @@ def get_info(path):
             up = os.path.dirname(path)
             if up != path:
                 return get_info(up)
+            else:
+                return None
+    else:
+        if path.endswith('.json'):
+            with open(path) as f:
+                return json.load(f)
+        else:
+            up = os.path.dirname(path)
+            return get_info(up)
