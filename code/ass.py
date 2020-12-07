@@ -27,6 +27,10 @@ def ass_header(language=None, use_template=False):
             "Default": "Noto Serif CJK JP,90",
             "Standout": "Noto Serif CJK JP,180",
         },
+        yue={
+            "Default": "Noto Serif CJK TC,120", # should be HK, but that's only Sans
+            "Standout": "Noto Serif CJK TC,180",
+        },
     )[language]
     karaoke_template = (
         'Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template syl furi,{\pos($x,$y)\k!syl.start_time/10!\!syl.tag!$kdur}',
@@ -130,7 +134,7 @@ def main(argv):
     args = parser.parse_args(argv[1:])
     with open(args.alignment) as f: alignments = json.load(f)
 
-    use_template = args.furigana or args.language in {'cmn', 'jpn'}
+    use_template = args.furigana or args.language in {'cmn', 'jpn', 'yue'}
 
     if args.language == 'cmn' and 'cmn-Hans' in args.output:
         args.language = 'cmn_Hans'

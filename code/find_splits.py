@@ -18,6 +18,7 @@ def split_paragraph(paragraph, language=None):
         lambda: (35, 8),
         cmn=(20, 7),
         jpn=(25, 7),
+        yue=(20, 7),
     )[language]
     if num_lines(align_json.span_text(paragraph), characters_per_line) <= lines_per_paragraph:
         return [paragraph]
