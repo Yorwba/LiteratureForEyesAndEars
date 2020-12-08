@@ -45,3 +45,16 @@ def get_info(path):
         else:
             up = os.path.dirname(path)
             return get_info(up)
+
+
+def main(argv):
+    for name in argv[1:]:
+        with open(name) as f: text = f.read()
+        pretty = json.dumps(json.loads(text), sort_keys=True, indent=2)
+        if pretty != text:
+            with open(name, 'w') as f: f.write(pretty)
+
+
+if __name__ == '__main__':
+    import sys
+    main(sys.argv)

@@ -81,7 +81,8 @@ books/librivox.org/%/librivox.json:
 		grep -o -e'[0-9]*' \
 	) && \
 	curl 'https://librivox.org/api/feed/audiobooks/?id='$$ID'&format=json&extended=1' \
-		> "$@" \
+		> "$@" && \
+	code/librivox_json.py "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%/files/: books/librivox.org/%/librivox.json
