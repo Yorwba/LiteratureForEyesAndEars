@@ -225,7 +225,17 @@
           "title": "Quase ela deu o sim, mas..."
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1878",
+              "dod": "1937",
+              "first_name": "Horacio",
+              "id": "668",
+              "last_name": "Quiroga"
+            }
+          ],
+          "description": "",
+          "file_name": "spanish_aladeriva_quiroga_mm_64kb.mp3",
           "id": "171409",
           "language": "Spanish",
           "listen_url": "",
@@ -237,7 +247,8 @@
             }
           ],
           "section_number": "13",
-          "title": "A La Deriva"
+          "title": "A La Deriva",
+          "url_text_source": "http://es.wikisource.org/wiki/A_la_Deriva"
         },
         {
           "file_name": null,
