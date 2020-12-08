@@ -95,6 +95,10 @@ books/librivox.org/%/text.txt: books/librivox.org/%/librivox.json
 	code/librivox_plain_text.py "$<" > "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
+books/librivox.org/%.text.txt:
+	code/librivox_plain_text.py "$@" > "$@" \
+	|| (rm "$@" && false) # delete in case of failure
+
 books/librivox.org/%/youtube-description.txt: books/librivox.org/%/librivox.json
 	code/youtube-description.py "$@" > "$@" \
 	|| (rm "$@" && false) # delete in case of failure
