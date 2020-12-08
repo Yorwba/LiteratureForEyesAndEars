@@ -44,7 +44,10 @@ def get_info(path):
                 return json.load(f)
         else:
             up = os.path.dirname(path)
-            return get_info(up)
+            if up != path:
+                return get_info(up)
+            else:
+                return None
 
 
 def main(argv):
