@@ -106,7 +106,17 @@
           "title": "Lill's Travels in Santa Claus Land"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1858",
+              "dod": "1922",
+              "first_name": "Adolf",
+              "id": "224",
+              "last_name": "Schwayer"
+            }
+          ],
+          "description": "",
+          "file_name": "06_german_weihnachtszauber_schwayer_elli_64kb.mp3",
           "id": "16131",
           "language": "German",
           "listen_url": "",
@@ -118,7 +128,8 @@
             }
           ],
           "section_number": "6",
-          "title": "Weihnachtszauber"
+          "title": "Weihnachtszauber",
+          "url_text_source": "http://www.gutenberg.org/ebooks/21527"
         },
         {
           "file_name": null,
