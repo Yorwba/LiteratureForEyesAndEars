@@ -1,0 +1,469 @@
+{
+  "books": {
+    "25": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "<br />The worldwide LibriVox community brings you 26 Dutch, English, French, German and Japanese recordings of short stories, poems, non-fiction articles and even a short play - all with a Christmas theme.<br /><br />\nCast of <i>What Makes Christmas Christmas</i>:<br />\nNarrator: <a href=\"http://librivox.org/reader/6788\">Pamela Krantz</a><br />\nChristmas Gifts: <a href=\"http://librivox.org/reader/7315\">Charlotte Duckett</a><br />\nMoney: <a href=\"http://librivox.org/reader/2607\">Ruth Golding</a><br />\nChristmas Tree: <a href=\"http://librivox.org/reader/6544\">Amanda Friday</a><br />\nChristmas Stocking: <a href=\"http://librivox.org/reader/6733\">Snapdragon</a><br />\nPlum Pudding: <a href=\"http://librivox.org/reader/6924\">Rapunzelina</a><br />\nAn Old Man: <a href=\"http://librivox.org/reader/6065\">David Olson</a><br />\nA Child: <a href=\"http://librivox.org/reader/10175\">Evie Marie</a><br />\nThe King's Son: <a href=\"http://librivox.org/reader/2911\">David Lawrence</a><br />\nA Spirit: <a href=\"http://librivox.org/reader/7246\">Lyn Silva</a><br />\nAudio edited by David Lawrence<br />\nPlay co-ordinated by Annise<br /><br />\n",
+      "genres": [
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "7140",
+      "language": "Multilingual",
+      "num_sections": "26",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "108260",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "45",
+          "readers": [
+            {
+              "display_name": "Elli",
+              "reader_id": "3885"
+            }
+          ],
+          "section_number": "1",
+          "title": "Advent"
+        },
+        {
+          "file_name": null,
+          "id": "108261",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "183",
+          "readers": [
+            {
+              "display_name": "Herman Roskams",
+              "reader_id": "5764"
+            }
+          ],
+          "section_number": "2",
+          "title": "Berliner Weihnacht 1918"
+        },
+        {
+          "file_name": null,
+          "id": "108262",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "59",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "3",
+          "title": "Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "108263",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "918",
+          "readers": [
+            {
+              "display_name": "TriciaG",
+              "reader_id": "3157"
+            }
+          ],
+          "section_number": "4",
+          "title": "The Christmas Bride"
+        },
+        {
+          "file_name": null,
+          "id": "108264",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1588",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "5",
+          "title": "A Christmas Pudding"
+        },
+        {
+          "file_name": null,
+          "id": "108265",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "157",
+          "readers": [
+            {
+              "display_name": "NoelBadrian",
+              "reader_id": "6965"
+            }
+          ],
+          "section_number": "6",
+          "title": "Eddi's Service"
+        },
+        {
+          "file_name": null,
+          "id": "108266",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "3149",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "7",
+          "title": "Getting up a Pantomime"
+        },
+        {
+          "file_name": null,
+          "id": "108267",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "901",
+          "readers": [
+            {
+              "display_name": "Daniel Vimont",
+              "reader_id": "7732"
+            }
+          ],
+          "section_number": "8",
+          "title": "The Gift of the Magi"
+        },
+        {
+          "file_name": null,
+          "id": "108268",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "457",
+          "readers": [
+            {
+              "display_name": "TriciaG",
+              "reader_id": "3157"
+            }
+          ],
+          "section_number": "9",
+          "title": "How to Celebrate Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "108269",
+          "language": "Dutch",
+          "listen_url": "",
+          "playtime": "218",
+          "readers": [
+            {
+              "display_name": "Bart de Leeuw",
+              "reader_id": "3619"
+            }
+          ],
+          "section_number": "10",
+          "title": "De Kerstboom"
+        },
+        {
+          "file_name": null,
+          "id": "108270",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "177",
+          "readers": [
+            {
+              "display_name": "Elli",
+              "reader_id": "3885"
+            }
+          ],
+          "section_number": "11",
+          "title": "Knecht Ruprecht"
+        },
+        {
+          "file_name": null,
+          "id": "108271",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "413",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "12",
+          "title": "Kurisumasu no Okurimono"
+        },
+        {
+          "file_name": null,
+          "id": "108272",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "53",
+          "readers": [
+            {
+              "display_name": "Charlotte Duckett",
+              "reader_id": "7315"
+            }
+          ],
+          "section_number": "13",
+          "title": "The Little Snowflake"
+        },
+        {
+          "file_name": null,
+          "id": "108273",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "1081",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "14",
+          "title": "Merry Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "108274",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "152",
+          "readers": [
+            {
+              "display_name": "TriciaG",
+              "reader_id": "3157"
+            }
+          ],
+          "section_number": "15",
+          "title": "The Night After Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "108275",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "190",
+          "readers": [
+            {
+              "display_name": "Verity Kendall",
+              "reader_id": "7130"
+            }
+          ],
+          "section_number": "16",
+          "title": "The Night Before Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "108276",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "654",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "17",
+          "title": "Ruth's Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "108277",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "87",
+          "readers": [
+            {
+              "display_name": "David Lawrence",
+              "reader_id": "2911"
+            }
+          ],
+          "section_number": "18",
+          "title": "Saint Joseph"
+        },
+        {
+          "file_name": null,
+          "id": "108278",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "138",
+          "readers": [
+            {
+              "display_name": "Herman Roskams",
+              "reader_id": "5764"
+            }
+          ],
+          "section_number": "19",
+          "title": "Salut de No\u00ebl"
+        },
+        {
+          "file_name": null,
+          "id": "108279",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "353",
+          "readers": [
+            {
+              "display_name": "Chessie Joy",
+              "reader_id": "7868"
+            }
+          ],
+          "section_number": "20",
+          "title": "Selections from Christmas Carollin'"
+        },
+        {
+          "file_name": null,
+          "id": "108280",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "65",
+          "readers": [
+            {
+              "display_name": "Winston Tharp",
+              "reader_id": "5694"
+            }
+          ],
+          "section_number": "21",
+          "title": "Some say that ever 'gainst that season comes"
+        },
+        {
+          "file_name": null,
+          "id": "108281",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "1624",
+          "readers": [
+            {
+              "display_name": "Fannie",
+              "reader_id": "7762"
+            }
+          ],
+          "section_number": "22",
+          "title": "Tomb\u00e9 du Ciel"
+        },
+        {
+          "file_name": null,
+          "id": "108282",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1729",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            },
+            {
+              "display_name": "David Lawrence",
+              "reader_id": "2911"
+            },
+            {
+              "display_name": "David Olson",
+              "reader_id": "6065"
+            },
+            {
+              "display_name": "Beth Thomas (1974-2020)",
+              "reader_id": "6281"
+            },
+            {
+              "display_name": "Amanda Friday",
+              "reader_id": "6544"
+            },
+            {
+              "display_name": "Snapdragon",
+              "reader_id": "6733"
+            },
+            {
+              "display_name": "Pamela Krantz",
+              "reader_id": "6788"
+            },
+            {
+              "display_name": "Rapunzelina",
+              "reader_id": "6924"
+            },
+            {
+              "display_name": "Lyn Silva",
+              "reader_id": "7246"
+            },
+            {
+              "display_name": "Charlotte Duckett",
+              "reader_id": "7315"
+            },
+            {
+              "display_name": "Evie Maria",
+              "reader_id": "10175"
+            }
+          ],
+          "section_number": "23",
+          "title": "What Makes Christmas Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "108283",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "203",
+          "readers": [
+            {
+              "display_name": "Herman Roskams",
+              "reader_id": "5764"
+            }
+          ],
+          "section_number": "24",
+          "title": "Wiegengesanglein"
+        },
+        {
+          "file_name": null,
+          "id": "108284",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "135",
+          "readers": [
+            {
+              "display_name": "rookieblue",
+              "reader_id": "7608"
+            }
+          ],
+          "section_number": "25",
+          "title": "Within and Without"
+        },
+        {
+          "file_name": null,
+          "id": "108285",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1073",
+          "readers": [
+            {
+              "display_name": "NoelBadrian",
+              "reader_id": "6965"
+            }
+          ],
+          "section_number": "26",
+          "title": "The Worker In Sandalwood"
+        }
+      ],
+      "title": "Christmas Short Works Collection 2012",
+      "totaltime": "4:23:22",
+      "totaltimesecs": 15802,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/christmas_short_works_2012_librivox",
+      "url_librivox": "https://librivox.org/christmas-short-works-2012/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/7140",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download/christmas_short_works_2012_librivox/christmas_short_works_2012_librivox_64kb_mp3.zip"
+    }
+  }
+}
