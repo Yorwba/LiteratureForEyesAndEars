@@ -218,7 +218,17 @@
           "title": "The Little Snowflake"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1909",
+              "dod": "1948",
+              "first_name": "Osamu",
+              "id": "3035",
+              "last_name": "Dazai"
+            }
+          ],
+          "description": "",
+          "file_name": "merrychristmas_dazai_um_64kb.mp3",
           "id": "108273",
           "language": "Japanese",
           "listen_url": "",
@@ -230,7 +240,8 @@
             }
           ],
           "section_number": "14",
-          "title": "Merry Christmas"
+          "title": "メリークリスマス",
+          "url_text_source": "http://www.aozora.gr.jp/cards/000035/files/295_20170.html"
         },
         {
           "file_name": null,
