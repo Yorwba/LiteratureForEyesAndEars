@@ -1,5 +1,5 @@
 Weihnachtszauber
-[[by||bei]]
+b[[y||ei]]
 Adolf Schweyer
 
 Read in German
@@ -10,7 +10,13 @@ Weihnachtszauber
 
 Ungewöhnlich lange dauerte es diesmal. Das ganze schmucke neue Haus duftete schon von Tannengrün und Wachskerzen und noch immer klang die Glocke nicht, das liebe silberhelle Glöcklein, das nur einmal des Jahres erklingt, nur einmal ruft und jubelt: am Christabend.
 
-Wieder und wieder glaubten sie's zu hören. Dann sprangen sie auf, lauschten und liefen vor die Tür. Enttäuscht kehrten sie zurück in das trauliche Halbdunkel ihres Zimmers und überließen sich wieder der drangvoll süßen Ungeduld und froherregenden Erwartungsfreude. Und immer wieder ging die kindliche Phantasie, durchwärmt von heller Herzenslust und durchschauert von ehrfürchtigen Empfindungen, ihre krausen Wege. Tastend jetzt und zaghaft an dunklen verschlossenen Türen vorbei — jetzt jäh auffliegend ins Sonnenland des Märchenhaften, einer aufgescheuchten Schar bunter Vöglein gleich, die im Sonnenglanz verschwinden, als hätt' sich ihnen überschnell eine unsichtbare Pforte aufgetan und rasch wieder geschlossen hinter den scheu Entflohenen.
+Wieder und wieder glaubten sie's zu hören. Dann sprangen sie auf, lauschten und liefen vor die Tür. Enttäuscht kehrten sie zurück in das trauliche Halbdunkel ihres Zimmers und überließen sich wieder der drangvoll süßen Ungeduld und froherregenden Erwartungsfreude.
+
+Und immer wieder ging die kindliche Phantasie, durchwärmt von heller Herzenslust und durchschauert von ehrfürchtigen Empfindungen, ihre krausen Wege.
+
+Tastend jetzt und zaghaft an dunklen verschlossenen Türen vorbei —
+
+jetzt jäh auffliegend ins Sonnenland des Märchenhaften, einer aufgescheuchten Schar bunter Vöglein gleich, die im Sonnenglanz verschwinden, als hätt' sich ihnen überschnell eine unsichtbare Pforte aufgetan und rasch wieder geschlossen hinter den scheu Entflohenen.
 
 Jetzt schlug die Uhr vom nahen Kirchturm die Stunde. Sie lauschten und zählten.
 
@@ -22,21 +28,97 @@ Jetzt schlug die Uhr vom nahen Kirchturm die Stunde. Sie lauschten und zählten.
 
 Und Norbert, der jüngste, ließ sein Spielzeug fallen, starrte die beiden Größeren schier angstvoll an und sagte traurig: »Noch später.«
 
-Alle drei sehnten sich in dieser Stunde zurück in die enge, aber trauliche Wohnung drinnen in dem großen Stadthause, hoch droben im letzten Stockwerk. Erst als Otto daran erinnerte, dass der Vater nie so heiter war wie jetzt, wo sie hier wohnten in den schönen Räumen des kleinen eigenen Hauses — erst dann versöhnten sich die kleinen Zürnenden wieder mit dem neuen Heim, wo noch alles, neu und vornehm, sie anrief. »Rühr mich nicht an! Streif nicht an mich an! Stoß mich nicht ab!« Und scheu wichen sie all dem unvertrauten Neuen und Fremden aus und gingen im Kreise um die Ecken. — Wie war's doch drinnen in der Stadt anders inmitten der lieben alten Möbel, die sie alle kannten und die ihnen allerlei zu erzählen wussten aus der geheimnisvollen Morgendämmerung ihres Daseins. Freilich, der Vater kam dort oft mit trüben Mienen heim und ging stumm in sein Kämmerlein. Dann wanderte die Mutter still von der Küche ins Zimmer und ruhelos wieder zurück. Sie sah, was die Kleinen nicht sahen, aber in ihren reinen Herzen dunkel ahnten: dass an ihres Mannes Seite eine graue Gestalt herangeschlichen war und ihre dürre Hand, ach! so vertraut auf seine Schultern legte — die dürre kleine Hand, die so schwer wiegen und so unerbittlich Lebensglanz und Freudenschimmer verwischen kann wie ein feuchter Schwamm die Schriftzüge auf einer Tafel: die Hand der Frau Sorge. Und sie wusste auch, was die Kinder nicht ahnten und ahnen sollten: dass oft an ihrer bescheidenen Heimstatt Tür der Frau Sorge ungestümere Schwester pochte: die Not.
+Alle drei sehnten sich in dieser Stunde zurück in die enge, aber trauliche Wohnung drinnen in dem großen Stadthause, hoch droben im letzten Stockwerk.
 
-Ein Glücksfall brachte mit einem Male Sonnenglanz in das nebelumflorte Sorgenleben des kleinen kindergesegneten Beamten. Schier betäubt war er von der Größe und Plötzlichkeit dieses Glücks. All die drückenden Schulden konnte er bezahlen, seiner stillen Frau kaufen, was sie sich heimlich oft gewünscht, und seine Kinder kleiden, schmuck und fein und sauber, wie er es längst ersehnte. Und allen seinen eigenen Wünschen Erfüllung bieten. Dabei ging er aber oft über das gebotene Maß vornehmen Schönheitssinnes hinaus und verletzte dadurch das zarte Feinheitsgefühl seines Weibes. Anfangs mit stillem Lächeln, bald aber mit Befremden und endlich mit heimlichem Kummer merkte Frau Herma, wie ihr sonst so bescheidener Mann immer mehr die unleidlichen Manieren eines Emporkömmlings annahm und ein Wesens machte, das der Wirklichkeit gar nicht entsprach. Dass sie fortan sorgenlos leben, dass sie sich dieses Häuschen bauen und sich frohgemut der Stunde hingeben konnten — das war alles. Und das war viel, unendlich viel für Hermas seelenheitre Art; aber es war wenig in den Augen der Welt, die nur aufs Äußerliche sieht und nicht ahnen kann, wie unsagbar reich ein armes Menschenherz sein kann, tief drinnen in der Brust. Und Herma war reich gewesen von jeher und hielt auch Konrad, ihren bisher so schweigsamen Mann, für innerlich reich und seelentief. Und nun musste sie sehen, wie er protzte, wie er groß tat vor allen Leuten. Das tat ihr weh. Und sogar der Zweifel bekam allgemach Gewalt über sie. Sie fragte sich, ob ihres Mannes Gemüt wirklich so schlicht sei und so tief bescheiden, als es ihr bisher schien und sie es liebte. Sollte es nur die Sorge, die Not kümmerlich ins Blühen gebracht haben? War das schwere Schweigen nur eine Hülle, die nichts verhüllte?
+Erst als Otto daran erinnerte, dass der Vater nie so heiter war wie jetzt, wo sie hier wohnten in den schönen Räumen des kleinen eigenen Hauses — erst dann versöhnten sich die kleinen Zürnenden wieder mit dem neuen Heim, wo noch alles, neu und vornehm, sie anrief.
 
-Heimlich wünschte sie oft, es wäre geblieben wie früher. Lieber ertragen und dulden, lieber sich beugen in Sorgen und Kümmernissen — aber innerlich froh sein können, vertrauensstolz froh und stark in der Überzeugung, in sich einen Schatz zu tragen, den uns niemand rauben kann, in sich ein Feuer brennen zu wissen, das durch nichts auf dieser Welt ganz erlöschen und ganz erkalten kann: die Liebe zueinander und das große tiefe herzbeglückende Vertrauen, das solcher Liebe entspringt. Und jetzt, wo alles Gute in ihnen sprießen, alles Edle blühen konnte, wo sie aus dem Sumpfe kleinlicher gemeiner Alltagssorgen auf festes sicheres Land gerettet waren — jetzt sollte sie erkennen müssen, dass ihres Mannes Gemüt seicht, seine Gesinnung oberflächlich sei? Auf wiederholte Bemerkungen, die an sein Feingefühl gerichtet waren, hatte er nur ein Lachen, das in seiner selbstsicheren Unbefangenheit Herma weher tat als etwa eine schroffe Abweisung. War er wirklich nur und noch immer glückberauscht oder stand ihr die herbste Enttäuschung ihres Lebens bevor? Sie wollte abwarten, eh sie zum offenen Kampfe überging oder — still verzichtete.
+»Rühr mich nicht an! Streif nicht an mich an! Stoß mich nicht ab!«
 
-Er aber lebte froh in den Tag hinein und ahnte wohl kaum, was seine Frau heimlich so tief bedrückte. Erst am Weihnachtsabend, als Herma in voller tiefer Stimmung in ihr Zimmer ging und erwartungsfroh jene Lade aufzog, wo sie den lange treu bewahrten Christbaumschmuck verbarg und er, rasch dazwischentretend, ihr verwehrte, den »alten Tand« nochmals auf den Baum zu hängen, trübten ihm die ersten herben Tränen den Glanz seines jungen Glücks. Herma, sein feinfühliges Weib, weinte sie — jäh und unbezwingbar. Er sah sie an wie vom Donner gerührt. Sie aber wischte sich die salzige Flut rasch von den Wangen, schob die Lade zu und ging von ihm weg — still, wortlos, ohne ihn anzusehen. Ging hinüber, den großen hohen Tannenbaum zu schmücken mit den neuen gleißenden Sachen, die er heimgebracht hatte. Still verrichtete sie diese Arbeit an seiner Seite, unfroh, mit unlustschweren Händen. Und wenn sich ihre Blicke begegneten, senkten sie sich rasch oder glitten aneinander vorbei wie an etwas Unliebem. Auch ihm ging nichts recht aus den Händen und in seine Seele kam eine seltsame Unruhe, ein beklemmendes Mahnen und beängstigendes Drängen — die Vorboten der Reue.
+Und scheu wichen sie all dem unvertrauten Neuen und Fremden aus und gingen im Kreise um die Ecken. —
 
-Über all dem verging viel Zeit. Und darum währte es heute so ungewöhnlich lange. Und mit den nun verpönten lieben alten Dingen beschäftigte sich unterdessen die heißerregte Phantasie der Kinder. Seit Jahren kehrten sie geheimnisvoll immer wieder, glänzten und strahlten, glitzerten und funkelten aus dem Tannengrün und verschwanden nach dem Heiligendreikönigtage ebenso geheimnisvoll wieder.
+Wie war's doch drinnen in der Stadt anders inmitten der lieben alten Möbel, die sie alle kannten und die ihnen allerlei zu erzählen wussten aus der geheimnisvollen Morgendämmerung ihres Daseins.
+
+Freilich, der Vater kam dort oft mit trüben Mienen heim und ging stumm in sein Kämmerlein.
+
+Dann wanderte die Mutter still von der Küche ins Zimmer und ruhelos wieder zurück.
+
+Sie sah, was die Kleinen nicht sahen, aber in ihren reinen Herzen dunkel ahnten: dass an ihres Mannes Seite eine graue Gestalt herangeschlichen war und ihre dürre Hand, ach!
+
+so vertraut auf seine Schultern legte — die dürre kleine Hand, die so schwer wiegen und so unerbittlich Lebensglanz und Freudenschimmer verwischen kann wie ein feuchter Schwamm die Schriftzüge auf einer Tafel: die Hand der Frau Sorge.
+
+Und sie wusste auch, was die Kinder nicht ahnten und ahnen sollten: dass oft an ihrer bescheidenen Heimstatt Tür der Frau Sorge ungestümere Schwester pochte: die Not.
+
+Ein Glücksfall brachte mit einem Male Sonnenglanz in das nebelumflorte Sorgenleben des kleinen kindergesegneten Beamten.
+
+Schier betäubt war er von der Größe und Plötzlichkeit dieses Glücks. All die drückenden Schulden konnte er bezahlen, seiner stillen Frau kaufen, was sie sich heimlich oft gewünscht, und seine Kinder kleiden, schmuck und fein und sauber, wie er es längst ersehnte.
+
+Und allen seinen eigenen Wünschen Erfüllung bieten. Dabei ging er aber oft über das gebotene Maß vornehmen Schönheitssinnes hinaus und verletzte dadurch das zarte Feinheitsgefühl seines Weibes.
+
+Anfangs mit stillem Lächeln, bald aber mit Befremden und endlich mit heimlichem Kummer merkte Frau Herma, wie ihr sonst so bescheidener Mann immer mehr die unleidlichen Manieren eines Emporkömmlings annahm und ein Wesens machte, das der Wirklichkeit gar nicht entsprach.
+
+Dass sie fortan sorgenlos leben, dass sie sich dieses Häuschen bauen und sich frohgemut der Stunde hingeben konnten — das war alles.
+
+Und das war viel, unendlich viel für Hermas seelenheitre Art; aber es war wenig in den Augen der Welt, die nur aufs Äußerliche sieht und nicht ahnen kann, wie unsagbar reich ein armes Menschenherz sein kann, tief drinnen in der Brust.
+
+Und Herma war reich gewesen von jeher und hielt auch Konrad, ihren bisher so schweigsamen Mann, für innerlich reich und seelentief.
+
+Und nun musste sie sehen, wie er protzte, wie er groß tat vor allen Leuten. Das tat ihr weh. Und sogar der Zweifel bekam allgemach Gewalt über sie. Sie fragte sich, ob ihres Mannes Gemüt wirklich so schlicht sei und so tief bescheiden, als es ihr bisher schien und sie es liebte.
+
+Sollte es nur die Sorge, die Not kümmerlich ins Blühen gebracht haben? War das schwere Schweigen nur eine Hülle, die nichts verhüllte?
+
+Heimlich wünschte sie oft, es wäre geblieben wie früher.
+
+Lieber ertragen und dulden, lieber sich beugen in Sorgen und Kümmernissen — aber innerlich froh sein können,
+
+vertrauensstolz froh und stark in der Überzeugung, in sich einen Schatz zu tragen, den uns niemand rauben kann, in sich ein Feuer brennen zu wissen, das durch nichts auf dieser Welt ganz erlöschen und ganz erkalten kann:
+
+die Liebe zueinander und das große tiefe herzbeglückende Vertrauen, das solcher Liebe entspringt.
+
+Und jetzt, wo alles Gute in ihnen sprießen, alles Edle blühen konnte, wo sie aus dem Sumpfe kleinlicher gemeiner Alltagssorgen auf festes sicheres Land gerettet waren — jetzt sollte sie erkennen müssen, dass ihres Mannes Gemüt seicht, seine Gesinnung oberflächlich sei?
+
+Auf wiederholte Bemerkungen, die an sein Feingefühl gerichtet waren, hatte er nur ein Lachen, das in seiner selbstsicheren Unbefangenheit Herma weher tat als etwa eine schroffe Abweisung.
+
+War er wirklich nur und noch immer glückberauscht oder stand ihr die herbste Enttäuschung ihres Lebens bevor? Sie wollte abwarten, eh sie zum offenen Kampfe überging oder — still verzichtete.
+
+Er aber lebte froh in den Tag hinein und ahnte wohl kaum, was seine Frau heimlich so tief bedrückte.
+
+Erst am Weihnachtsabend, als Herma in voller tiefer Stimmung in ihr Zimmer ging und erwartungsfroh jene Lade aufzog, wo sie den lange treu bewahrten Christbaumschmuck verbarg,
+
+und er, rasch dazwischentretend, ihr verwehrte, den »alten Tand« nochmals auf den Baum zu hängen, trübten ihm die ersten herben Tränen den Glanz seines jungen Glücks.
+
+Herma, sein feinfühliges Weib, weinte sie — jäh und unbezwingbar. Er sah sie an wie vom Donner gerührt. Sie aber wischte sich die salzige Flut rasch von den Wangen, schob die Lade zu und ging von ihm weg — still, wortlos, ohne ihn anzusehen.
+
+Ging hinüber, den großen hohen Tannenbaum zu schmücken mit den neuen gleißenden Sachen, die er heimgebracht hatte. Still verrichtete sie diese Arbeit an seiner Seite, unfroh, mit unlustschweren Händen.
+
+Und wenn sich ihre Blicke begegneten, senkten sie sich rasch oder glitten aneinander vorbei wie an etwas Unliebem. Auch ihm ging nichts recht aus den Händen und in seine Seele kam eine seltsame Unruhe, ein beklemmendes Mahnen und beängstigendes Drängen — die Vorboten der Reue.
+
+Über all dem verging viel Zeit.
+
+Und darum währte es heute so ungewöhnlich lange.
+
+Und mit den nun verpönten lieben alten Dingen beschäftigte sich unterdessen die heißerregte Phantasie der Kinder.
+
+Seit Jahren kehrten sie geheimnisvoll immer wieder, glänzten und strahlten, glitzerten und funkelten aus dem Tannengrün und verschwanden nach dem Heiligendreikönigtage ebenso geheimnisvoll wieder.
 
 Wohin? Das Christkind habe sie wieder geholt, sagte die Mutter. Dem Christkind gehören sie ganz allein und dieses bringe sie immer in dasselbe Haus und verwechsle sie nie. Und je öfter es dieselben Sachen den gleichen Kindern bringe, desto lieber habe es diese.
 
-Und desto lieber gewannen sie auch die Kleinen. Mit heiliger Scheu sahen sie jedesmal zu dem funkelnden Stern empor, der immer hoch oben am Gipfel des Baumes prangte und sich oft seltsam leise bewegte, als wehe überirdischer Hauch um ihn her oder aus ihm heraus. Und darunter das Christkindlein mit dem Goldscheine um das blondgelockte Haupt. Es lächelte und nickte grüßend herab; auf seinen lieblichen Wangen lag ein rosiger Schimmer, aus seinen großen Blauaugen kam ein Leuchten — unfassbar geheimnisvoll. Diese zwei Heiligtümer hatten die Kinder nie in der Nähe geschaut, nie in den Händen gehabt. Und keines hätte es je gewagt, auch nur den Wunsch zu äußern, sie herunterzuholen. In ein viel vertraulicheres Verhältnis kamen sie allgemach zu den tiefer in den Zweigen hängenden Schaustücken. Sie betasteten sie mit scheuer Neugierde, streichelten sie, nahmen sie wohl öfter behutsam herab und hingen sie aus eigenem Antriebe, oder bedeutsam von der Mutter gemahnt, wieder an ihren Platz — dorthin, wo sie mit zarten Fingern das Christkindlein selbst gehangen hatte. Und jedes der Kinder nahm geistig Besitz von einem bestimmten Gegenstande, der ihm besonders lieb war. Des Sommers oft, wenn trübe Regentage sie in die Stube bannten, sprachen sie unvermutet von all den geheimnisvollen Sachen. Elli am liebsten von einer winzig kleinen Puppe, die, in einem zierlichen Körbchen weich gebettet liegend, sie alljährlich so vertraulich anlächelte, als freute sie sich des Wiedersehens so sehr wie Elli selbst.
+Und desto lieber gewannen sie auch die Kleinen. Mit heiliger Scheu sahen sie jedesmal zu dem funkelnden Stern empor, der immer hoch oben am Gipfel des Baumes prangte und sich oft seltsam leise bewegte, als wehe überirdischer Hauch um ihn her oder aus ihm heraus.
 
-Mit heißen Wangen und leuchtenden Augen phantasierte sie eben wieder von ihrem kleinen Liebling und behauptete plötzlich, das liebe Püppchen sei zweifellos ein Spielzeug, mit dem im Himmel droben Lilli, das verstorbene Schwesterlein spielen dürfe inmitten einer Schar fröhlicher Englein. Darum leuchte sie auch immer so himmlisch schön, die Puppe, meinte sie ernsthaft.
+Und darunter das Christkindlein mit dem Goldscheine um das blondgelockte Haupt. Es lächelte und nickte grüßend herab; auf seinen lieblichen Wangen lag ein rosiger Schimmer, aus seinen großen Blauaugen kam ein Leuchten — unfassbar geheimnisvoll.
+
+Diese zwei Heiligtümer hatten die Kinder nie in der Nähe geschaut, nie in den Händen gehabt. Und keines hätte es je gewagt, auch nur den Wunsch zu äußern, sie herunterzuholen.
+
+In ein viel vertraulicheres Verhältnis kamen sie allgemach zu den tiefer in den Zweigen hängenden Schaustücken.
+
+Sie betasteten sie mit scheuer Neugierde, streichelten sie, nahmen sie wohl öfter behutsam herab und hingen sie aus eigenem Antriebe, oder bedeutsam von der Mutter gemahnt, wieder an ihren Platz — dorthin, wo sie mit zarten Fingern das Christkindlein selbst gehangen hatte.
+
+Und jedes der Kinder nahm geistig Besitz von einem bestimmten Gegenstande, der ihm besonders lieb war. Des Sommers oft, wenn trübe Regentage sie in die Stube bannten, sprachen sie unvermutet von all den geheimnisvollen Sachen.
+
+Elli am liebsten von einer winzig kleinen Puppe, die, in einem zierlichen Körbchen weich gebettet liegend, sie alljährlich so vertraulich anlächelte, als freute sie sich des Wiedersehens so sehr wie Elli selbst.
+
+Mit heißen Wangen und leuchtenden Augen phantasierte sie eben wieder von ihrem kleinen Liebling,
+
+und behauptete plötzlich, das liebe Püppchen sei zweifellos ein Spielzeug, mit dem im Himmel droben Lilli, das verstorbene Schwesterlein spielen dürfe inmitten einer Schar fröhlicher Englein. Darum leuchte sie auch immer so himmlisch schön, die Puppe, meinte sie ernsthaft.
 
 Eine Pause trat ein. Alle drei sahen schaurigstill vor sich hin, als sähen sie das von überirdischem Schimmer umflossene Schwesterlein vor sich sitzen und mit den Englein spielen. Plötzlich brach Otto das klingende singende Schweigen.
 
@@ -72,7 +154,17 @@ Und Norbert, der mit glänzenden Blicken nach Otto geschaut, rief jetzt, angereg
 
 »Ja,« meinte nun Otto. »Wer weiß, wo der herumgerauft hat und mit wem?«
 
-Und immer eifriger umspannen die drei erregten Kinder ihre Lieblinge mit dem goldigen Gewebe naiver Legende. Auf dem klugen weißen Elefanten ritten sie durch ferne Wunderländer, jagten auf der langbeinigen Giraffe durch die schaurige Öde der Wüste und durchschwammen mit dem schwarzen Walfisch, auf des Ungeheuers Rücken in einem zierlichen Häuschen geborgen, das unendliche Meer. Immer heißer wurden ihre Wangen, immer größer ihr Verlangen, wieder das zu sehen, was das Christkindlein nur für sie bestimmt hatte und immer wieder nur ihnen brachte. Und sie nahmen sich vor, mit den kleinen Dingelchen, die sie für verzauberte Lebewesen hielten, recht lieb umzugehn und fragten sich, wo wohl dies und das heuer hängen werde, erinnerten sich, wo es im vorigen Jahr hing und früher. Immer wieder kamen sie auf ihre Lieblingsstücklein zurück und erschraken bis in die Tiefe ihrer kleinen Seelen hinein, als sie nach einem Ausruf Ottos sich vorstellten, was sie wohl täten, wenn die kleine süße Puppe, wenn der prächtige Paradiesvogel oder der stolze kampfmutige Hahn plötzlich in ihren Händen lebendig würden?
+Und immer eifriger umspannen die drei erregten Kinder ihre Lieblinge mit dem goldigen Gewebe naiver Legende.
+
+Auf dem klugen weißen Elefanten ritten sie durch ferne Wunderländer, jagten auf der langbeinigen Giraffe durch die schaurige Öde der Wüste und durchschwammen mit dem schwarzen Walfisch, auf des Ungeheuers Rücken in einem zierlichen Häuschen geborgen, das unendliche Meer.
+
+Immer heißer wurden ihre Wangen, immer größer ihr Verlangen, wieder das zu sehen, was das Christkindlein nur für sie bestimmt hatte und immer wieder nur ihnen brachte.
+
+Und sie nahmen sich vor, mit den kleinen Dingelchen, die sie für verzauberte Lebewesen hielten, recht lieb umzugehn und fragten sich, wo wohl dies und das heuer hängen werde, erinnerten sich, wo es im vorigen Jahr hing und früher.
+
+Immer wieder kamen sie auf ihre Lieblingsstücklein zurück und erschraken bis in die Tiefe ihrer kleinen Seelen hinein, als sie nach einem Ausruf Ottos sich vorstellten, was sie wohl täten,
+
+wenn die kleine süße Puppe, wenn der prächtige Paradiesvogel oder der stolze kampfmutige Hahn plötzlich in ihren Händen lebendig würden?
 
 Stockenden Atems sahen sie einander an. Da schnarrte plötzlich die elektrische Klingel, die über der Tür angebracht war und sie mit der Bonne, die sie neuestens hatten, zu den Mahlzeiten rief.
 
@@ -80,36 +172,76 @@ Stockenden Atems sahen sie einander an. Da schnarrte plötzlich die elektrische 
 
 »Ja, Kinder! Hört ihr denn nicht? Das Christkind läutet!«
 
-Jetzt klang und sang und rief und jubelte aus dem großen schönen Zimmer auch wirklich das silberhelle Glöcklein. Die Mutter konnt es sich nicht versagen, es wenigstens in diesem Punkte zu guter Letzt zu halten wie immer bisher. Das stimmte die Kinder wieder warm und erwartungsvoll feierlich.
+Jetzt klang und sang und rief und jubelte aus dem großen schönen Zimmer auch wirklich das silberhelle Glöcklein.
 
-Sie stürmten in das Zimmer, traten ein — und standen mäuschenstill vor dem großen Baume, der schön und glänzend war wie keiner vorher. Aber von des Baumes Wipfel herab schimmerte ein anderer Stern, schöner zwar, als sie je einen sahen — aber nicht der gewohnte, der liebe und verheißungsvolle Stern. Und er hing steif und still und rührte sich nicht, wie sie auch hinaufschauten. Und ein anderes Christkindlein blickte nieder, lieblich wohl und überaus schön; aber es lächelte nicht so vertraut, wie das, das immer von da droben niedergrüßte. Und in dem Gezweige des Baumes fanden ihre scheu und ängstlich suchenden Blicke die vielen lieben Dingelchen nicht: Elli nicht ihre Himmelspuppe, Otto seinen vielfarbigen Vogel nicht und Norbert nicht seinen stolzen Hahn mit dem abgebrochenen Schnabel.
+Die Mutter konnt es sich nicht versagen, es wenigstens in diesem Punkte zu guter Letzt zu halten wie immer bisher. Das stimmte die Kinder wieder warm und erwartungsvoll feierlich.
 
-Staunend, missmutig fast, sah der Vater den Kindern zu, die hilflos befangen vor der schönen Wirklichkeit dastanden und sich ihrer nicht selbstvergessen freuen konnten, weil sie nicht umglänzt und umsponnen war von der Poesie, in der ihre Seelen unbewusst schwelgten. Mit einem scheuen Blick auf den Vater tat zwar Otto so, als ob's ihn über alle Maßen freute; es kam ihm aber nicht recht vom Herzen.
+Sie stürmten in das Zimmer, traten ein — und standen mäuschenstill vor dem großen Baume, der schön und glänzend war wie keiner vorher. Aber von des Baumes Wipfel herab schimmerte ein anderer Stern, schöner zwar, als sie je einen sahen —
 
-Norbert war der erste, der laut jubelte, als ihm der Vater, ärgerlich halb und halb verschämt, sagte, das große schöne Hutschpferd gehöre ihm. Elli aber stand schier erschrocken vor einer Puppe, die fast größer war als sie selbst und so hochmütig auf die Verschüchterte niederschaute wie eine große vornehme Dame. Auch sie freute sich ihrer übrigen prächtigen Geschenke wohl — aber es war nicht die jubelnde Freude wie sonst, es wollte nicht der beseligende Rausch der Selbstvergessenheit über sie und ihre mitenttäuschten Brüderchen kommen.
+aber nicht der gewohnte, der liebe und verheißungsvolle Stern. Und er hing steif und still und rührte sich nicht, wie sie auch hinaufschauten.
+
+Und ein anderes Christkindlein blickte nieder, lieblich wohl und überaus schön; aber es lächelte nicht so vertraut, wie das, das immer von da droben niedergrüßte.
+
+Und in dem Gezweige des Baumes fanden ihre scheu und ängstlich suchenden Blicke die vielen lieben Dingelchen nicht: Elli nicht ihre Himmelspuppe, Otto seinen vielfarbigen Vogel nicht und Norbert nicht seinen stolzen Hahn mit dem abgebrochenen Schnabel.
+
+Staunend, missmutig fast, sah der Vater den Kindern zu, die hilflos befangen vor der schönen Wirklichkeit dastanden und sich ihrer nicht selbstvergessen freuen konnten, weil sie nicht umglänzt und umsponnen war von der Poesie, in der ihre Seelen unbewusst schwelgten.
+
+Mit einem scheuen Blick auf den Vater tat zwar Otto so, als ob's ihn über alle Maßen freute; es kam ihm aber nicht recht vom Herzen.
+
+Norbert war der erste, der laut jubelte, als ihm der Vater, ärgerlich halb und halb verschämt, sagte, das große schöne Hutschpferd gehöre ihm.
+
+Elli aber stand schier erschrocken vor einer Puppe, die fast größer war als sie selbst und so hochmütig auf die Verschüchterte niederschaute wie eine große vornehme Dame.
+
+Auch sie freute sich ihrer übrigen prächtigen Geschenke wohl — aber es war nicht die jubelnde Freude wie sonst, es wollte nicht der beseligende Rausch der Selbstvergessenheit über sie und ihre mitenttäuschten Brüderchen kommen.
 
 Endlich fragte sie, ruhelos bedrängt, die Mutter heimlich und leise, so dass es der Vater nicht hören sollte, aber doch wohl hörte: »Mutter, hat uns denn das Christkind nimmer lieb?«
 
-Die Mutter verstand, schloss das aufgeregte Töchterlein warm an ihre Brust und flüsterte ihr zu, das Christkind wollte ganz gewiss nur sehen, ob es den Kindern auch wirklich leid tue, wenn sie nicht mehr fänden, was ihnen allein gehöre. Das sagte Elli schnell und insgeheim den Brüdern. Die brachen in lautes Freudengeschrei aus und Otto wurde zum Propheten: über eine Nacht, und das Christkind könne wiederbringen, was sie so liebten — heute noch vielleicht! Der Mutter Augen begannen zu leuchten und froh und hell wurde wieder ihre Stimme. Lächelnd rief sie den staunenden Gatten und die hoffnungsbelebten Kinder zum Abendmahle.
+Die Mutter verstand, schloss das aufgeregte Töchterlein warm an ihre Brust und flüsterte ihr zu, das Christkind wollte ganz gewiss nur sehen, ob es den Kindern auch wirklich leid tue, wenn sie nicht mehr fänden, was ihnen allein gehöre.
 
-Als nachher die drei kleinen Ruhelosen wieder in das Zimmer traten, wo der Baum stand, brach ein Jubel los sondergleichen: droben am Baumgipfel glänzte der alte liebe Stern und wehte und bewegte sich seltsam geheimnisvoll wie immer. Und unter ihm grüßte das liebe altgewohnte Christkindlein nieder, fröhlich wie noch nie. Und Elli fand ihre Puppe, Otto seinen flugkühnen Sonnenvogel und Norbert den stolzen Hahn mit dem abgebrochenen Schnabel. Der Elefant war da, die langhalsige Giraffe, der dräuende Wal und alles andere auch, wie immer zuvor. Und nun sank echte tiefe heilige Weihnachtsstimmung in die Seelen der Kinder und der Eltern.
+Das sagte Elli schnell und insgeheim den Brüdern. Die brachen in lautes Freudengeschrei aus und Otto wurde zum Propheten: über eine Nacht, und das Christkind könne wiederbringen, was sie so liebten — heute noch vielleicht!
 
-Frau Herma aber ging leisen Schrittes und befreiten Herzens auf Konrad, ihren Gatten zu, der, von den Rauchwolken seiner Zigarre schier traumhaft umhüllt, in einer halbdunklen Zimmerecke sinnend saß. Wie hatte er sich, gebefroh, auf diesen Weihnachtsabend gefreut — den ersten ohne Gegenwartssorgen und ohne Bangen für die Zukunft! Und jetzt? Jetzt war ein Missklang in den Festjubel gekommen, hatte ein kühler Hauch den Glanz des Abends getrübt. Ein Missklang? fragte er sich selbst und in seinem Herzen regte es sich warm und weich; abwehrend aber stellten sich trotzige Gedanken davor.
+Der Mutter Augen begannen zu leuchten und froh und hell wurde wieder ihre Stimme. Lächelnd rief sie den staunenden Gatten und die hoffnungsbelebten Kinder zum Abendmahle.
 
-Da kam Frau Herma und lächelte ihn an. Wie leichtes Gewölk im Sonnenbrande verschwanden nun jene glückfeindlichen Gedanken und sein Herz tat sich auf — weit und froh und tief. Aber er verhielt sich still, sah nur das sonnige Lächeln, das er so sehr kannte. Hatte es ihm doch früher so oft die Kraft gegeben, alles von sich abzuschütteln und rüstig weiterzuschreiten — trotzmutig der ungewissen Zukunft entgegen.
+Als nachher die drei kleinen Ruhelosen wieder in das Zimmer traten, wo der Baum stand, brach ein Jubel los sondergleichen: droben am Baumgipfel glänzte der alte liebe Stern und wehte und bewegte sich seltsam geheimnisvoll wie immer.
+
+Und unter ihm grüßte das liebe altgewohnte Christkindlein nieder, fröhlich wie noch nie.
+
+Und Elli fand ihre Puppe, Otto seinen flugkühnen Sonnenvogel und Norbert den stolzen Hahn mit dem abgebrochenen Schnabel.
+
+Der Elefant war da, die langhalsige Giraffe, der dräuende Wal und alles andere auch, wie immer zuvor. Und nun sank echte tiefe heilige Weihnachtsstimmung in die Seelen der Kinder und der Eltern.
+
+Frau Herma aber ging leisen Schrittes und befreiten Herzens auf Konrad, ihren Gatten zu, der, von den Rauchwolken seiner Zigarre schier traumhaft umhüllt, in einer halbdunklen Zimmerecke sinnend saß.
+
+Wie hatte er sich, gebefroh, auf diesen Weihnachtsabend gefreut — den ersten ohne Gegenwartssorgen und ohne Bangen für die Zukunft! Und jetzt?
+
+Jetzt war ein Missklang in den Festjubel gekommen, hatte ein kühler Hauch den Glanz des Abends getrübt. Ein Missklang? fragte er sich selbst und in seinem Herzen regte es sich warm und weich; abwehrend aber stellten sich trotzige Gedanken davor.
+
+Da kam Frau Herma und lächelte ihn an. Wie leichtes Gewölk im Sonnenbrande verschwanden nun jene glückfeindlichen Gedanken und sein Herz tat sich auf — weit und froh und tief.
+
+Aber er verhielt sich still, sah nur das sonnige Lächeln, das er so sehr kannte. Hatte es ihm doch früher so oft die Kraft gegeben, alles von sich abzuschütteln und rüstig weiterzuschreiten — trotzmutig der ungewissen Zukunft entgegen.
 
 Sie erfasste seine Hand und drückte sie warm. Dabei flüsterte sie: »So soll es immer bleiben — nicht wahr?«
 
-»Ja!« antwortete er schnell und setzte hastig hinzu: »Ich schäme mich. Früher war unser Empfinden bedroht von Sorg' und Kummer, die auf das Gemüt wirken wie Frost und Reif auf die Blumen und Saaten — und jetzt, jetzt hätt' ich bald den Mehltau des platten Philistertums darüber geschüttet. Verzeih mir! Es waren das die Bocksprünge des Glückberauschten, der Übermut des Befreiten. Du und die Kinder — ihr habt mich wieder auf den rechten Weg gebracht. Im Weihnachtszauber hab ich mich wieder selbst gefunden.«
+»Ja!« antwortete er schnell und setzte hastig hinzu: »Ich schäme mich.
 
-Frau Herma erwiderte nichts. Sie lehnte nur ihr Haupt an seine Brust und drückte wieder seine Hand. Ihr Auge war feucht geworden und ihr Herz erglühte in dem frohen Bewusstsein, ihr ungetrübtes Glück in ihrer und ihres Mannes Brust vertrauensstark gefestigt zu wissen gegen alle Stürme des Lebens.
+Früher war unser Empfinden bedroht von Sorg' und Kummer, die auf das Gemüt wirken wie Frost und Reif auf die Blumen und Saaten — und jetzt, jetzt hätt' ich bald den Mehltau des platten Philistertums darüber geschüttet. Verzeih mir!
 
-Dieses großen stolzen Gefühles voll, gingen sie schweigend zu den Kindern. Die saßen unter dem Baume und sprachen eifrig und selbstvergessen von dem Märchenleben ihrer Lieblinge, die nun alle Jahre getreulich wiederkamen. Und als die Kinder, herangewachsen, endlich wussten, wer sie eigentlich immer wieder brachte und geheimnisvoll verbarg, da hatten sie sie lieber als je zuvor.
+Es waren das die Bocksprünge des Glückberauschten, der Übermut des Befreiten. Du und die Kinder — ihr habt mich wieder auf den rechten Weg gebracht. Im Weihnachtszauber hab ich mich wieder selbst gefunden.«
+
+Frau Herma erwiderte nichts. Sie lehnte nur ihr Haupt an seine Brust und drückte wieder seine Hand.
+
+Ihr Auge war feucht geworden und ihr Herz erglühte in dem frohen Bewusstsein, ihr ungetrübtes Glück in ihrer und ihres Mannes Brust vertrauensstark gefestigt zu wissen gegen alle Stürme des Lebens.
+
+Dieses großen stolzen Gefühles voll, gingen sie schweigend zu den Kindern.
+
+Die saßen unter dem Baume und sprachen eifrig und selbstvergessen von dem Märchenleben ihrer Lieblinge, die nun alle Jahre getreulich wiederkamen.
+
+Und als die Kinder, herangewachsen, endlich wussten, wer sie eigentlich immer wieder brachte und geheimnisvoll verbarg, da hatten sie sie lieber als je zuvor.
 
 End of
 Weihnachtszauber
-[[by||bei]]
+b[[y||ei]]
 Adolf Schweyer
 
-Read [[by||bei]] Elli
+Read b[[y||ei]] Elli
 
