@@ -1,0 +1,377 @@
+{
+  "books": {
+    "21": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "<br />Librivox volunteers from around the world bring you Christmas stories, carols and poems in English, German, Hungarian, Latin, Portuguese, Russian and Spanish.<BR /><BR />A merry Christmas to you all!<br /><br />",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        },
+        {
+          "id": "31",
+          "name": "Short Stories"
+        },
+        {
+          "id": "130",
+          "name": "Christianity - Other"
+        }
+      ],
+      "id": "3613",
+      "language": "Multilingual",
+      "num_sections": "22",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "16126",
+          "language": "Portuguese",
+          "listen_url": "",
+          "playtime": "70",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "1",
+          "title": "Natal"
+        },
+        {
+          "file_name": null,
+          "id": "16127",
+          "language": "Portuguese",
+          "listen_url": "",
+          "playtime": "1301",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "2",
+          "title": "O Suave Milagre"
+        },
+        {
+          "file_name": null,
+          "id": "16128",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1436",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "3",
+          "title": "The Sweet Miracle"
+        },
+        {
+          "file_name": null,
+          "id": "16129",
+          "language": "Latin",
+          "listen_url": "",
+          "playtime": "134",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "4",
+          "title": "Quem Pastores Laudavere"
+        },
+        {
+          "file_name": null,
+          "id": "16130",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1128",
+          "readers": [
+            {
+              "display_name": "Jan MacGillivray",
+              "reader_id": "1752"
+            }
+          ],
+          "section_number": "5",
+          "title": "Lill's Travels in Santa Claus Land"
+        },
+        {
+          "file_name": null,
+          "id": "16131",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "1057",
+          "readers": [
+            {
+              "display_name": "Elli",
+              "reader_id": "3885"
+            }
+          ],
+          "section_number": "6",
+          "title": "Weihnachtszauber"
+        },
+        {
+          "file_name": null,
+          "id": "16132",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1824",
+          "readers": [
+            {
+              "display_name": "Mark F. Smith",
+              "reader_id": "204"
+            }
+          ],
+          "section_number": "7",
+          "title": "The Thin Santa Claus"
+        },
+        {
+          "file_name": null,
+          "id": "16133",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "781",
+          "readers": [
+            {
+              "display_name": "Bellona Times",
+              "reader_id": "3657"
+            }
+          ],
+          "section_number": "8",
+          "title": "What Christmas Is As We Grow Older"
+        },
+        {
+          "file_name": null,
+          "id": "16134",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2327",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "9",
+          "title": "A Christmas Mystery: the Story of Three Wise Men"
+        },
+        {
+          "file_name": null,
+          "id": "16135",
+          "language": "Hungarian",
+          "listen_url": "",
+          "playtime": "155",
+          "readers": [
+            {
+              "display_name": "Diana Majlinger",
+              "reader_id": "4009"
+            }
+          ],
+          "section_number": "10",
+          "title": "Kar\u00e1csonkor"
+        },
+        {
+          "file_name": null,
+          "id": "16136",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "382",
+          "readers": [
+            {
+              "display_name": "Ivywatcher",
+              "reader_id": "4394"
+            }
+          ],
+          "section_number": "11",
+          "title": "The Gospel of Luke 1:26-56 and 2:1-20"
+        },
+        {
+          "file_name": null,
+          "id": "16137",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "380",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "12",
+          "title": "Old Christmas Returned"
+        },
+        {
+          "file_name": null,
+          "id": "16138",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "117",
+          "readers": [
+            {
+              "display_name": "Kalynda",
+              "reader_id": "1649"
+            }
+          ],
+          "section_number": "13",
+          "title": "Der Weihnachtsbaum"
+        },
+        {
+          "file_name": null,
+          "id": "16139",
+          "language": "Spanish",
+          "listen_url": "",
+          "playtime": "131",
+          "readers": [
+            {
+              "display_name": "Marian Martin",
+              "reader_id": "3290"
+            }
+          ],
+          "section_number": "14",
+          "title": "La Ni\u00f1a a quien dijo el Angel"
+        },
+        {
+          "file_name": null,
+          "id": "16140",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "132",
+          "readers": [
+            {
+              "display_name": "Bronwyn",
+              "reader_id": "4439"
+            }
+          ],
+          "section_number": "15",
+          "title": "The Legend of the Christmas Tree"
+        },
+        {
+          "file_name": null,
+          "id": "16141",
+          "language": "Russian",
+          "listen_url": "",
+          "playtime": "2477",
+          "readers": [
+            {
+              "display_name": "Create",
+              "reader_id": "4471"
+            }
+          ],
+          "section_number": "16",
+          "title": "\u0410\u043d\u0433\u0435\u043b\u043e\u0447\u0435\u043a (Angelochek)"
+        },
+        {
+          "file_name": null,
+          "id": "16142",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "77",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "17",
+          "title": "Christmas Greetings"
+        },
+        {
+          "file_name": null,
+          "id": "16143",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "372",
+          "readers": [
+            {
+              "display_name": "David Lawrence",
+              "reader_id": "2911"
+            }
+          ],
+          "section_number": "18",
+          "title": "The Stiller of the Storm"
+        },
+        {
+          "file_name": null,
+          "id": "16144",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "77",
+          "readers": [
+            {
+              "display_name": "ravenotation",
+              "reader_id": "3465"
+            }
+          ],
+          "section_number": "19",
+          "title": "Christmas Day"
+        },
+        {
+          "file_name": null,
+          "id": "16145",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "188",
+          "readers": [
+            {
+              "display_name": "Carol Stripling",
+              "reader_id": "3314"
+            }
+          ],
+          "section_number": "20",
+          "title": "What Child is This?"
+        },
+        {
+          "file_name": null,
+          "id": "16146",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "405",
+          "readers": [
+            {
+              "display_name": "Linda Ferguson",
+              "reader_id": "3675"
+            }
+          ],
+          "section_number": "21",
+          "title": "The Goblins' Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "16147",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2855",
+          "readers": [
+            {
+              "display_name": "Annise",
+              "reader_id": "2544"
+            }
+          ],
+          "section_number": "22",
+          "title": "Christmas with the Baron"
+        }
+      ],
+      "title": "Christmas Short Works Collection 2009",
+      "totaltime": "4:56:46",
+      "totaltimesecs": 17806,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/multilingual_christmas_0912_librivox",
+      "url_librivox": "https://librivox.org/christmas-short-works-collection-2009-by-various/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/3613",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download/multilingual_christmas_0912_librivox/multilingual_christmas_0912_librivox_64kb_mp3.zip"
+    }
+  }
+}
