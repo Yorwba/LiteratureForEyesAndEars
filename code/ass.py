@@ -24,7 +24,7 @@ def ass_header(language=None, use_template=False):
             "Standout": "Noto Serif CJK SC,180",
         },
         jpn={
-            "Default": "Noto Serif CJK JP,90",
+            "Default": "Noto Serif CJK JP,120",
             "Standout": "Noto Serif CJK JP,180",
         },
         yue={
