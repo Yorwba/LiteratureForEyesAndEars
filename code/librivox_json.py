@@ -53,7 +53,12 @@ def get_info(path):
 def main(argv):
     for name in argv[1:]:
         with open(name) as f: text = f.read()
-        pretty = json.dumps(json.loads(text), sort_keys=True, indent=2)
+        pretty = json.dumps(
+            json.loads(text),
+            ensure_ascii=False,
+            indent=2,
+            sort_keys=True,
+        )
         if pretty != text:
             with open(name, 'w') as f: f.write(pretty)
 
