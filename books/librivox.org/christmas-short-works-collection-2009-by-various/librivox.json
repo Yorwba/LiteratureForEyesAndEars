@@ -117,6 +117,16 @@
           ],
           "description": "",
           "file_name": "06_german_weihnachtszauber_schwayer_elli_64kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            },
+            {
+              "id": "130",
+              "name": "Christianity"
+            }
+          ],
           "id": "16131",
           "language": "German",
           "listen_url": "",
