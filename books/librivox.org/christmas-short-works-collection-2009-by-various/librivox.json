@@ -277,7 +277,27 @@
           "title": "The Legend of the Christmas Tree"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "",
+              "dod": "",
+              "first_name": "",
+              "id": "18",
+              "last_name": "Various"
+            }
+          ],
+          "description": "",
+          "file_name": "16_russian_angelochek_andreev_64kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            },
+            {
+              "id": "130",
+              "name": "Christianity"
+            }
+          ],
           "id": "16141",
           "language": "Russian",
           "listen_url": "",
@@ -289,7 +309,8 @@
             }
           ],
           "section_number": "16",
-          "title": "Ангелочек (Angelochek)"
+          "title": "Ангелочек (Angelochek)",
+          "url_text_source": "http://az.lib.ru/a/andreew_l_n/text_0040.shtml"
         },
         {
           "file_name": null,
