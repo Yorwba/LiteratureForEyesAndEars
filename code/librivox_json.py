@@ -58,7 +58,7 @@ def main(argv):
             ensure_ascii=False,
             indent=2,
             sort_keys=True,
-        )
+        )+'\n'
         if pretty != text:
             with open(name, 'w') as f: f.write(pretty)
 
