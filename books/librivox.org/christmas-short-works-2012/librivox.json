@@ -349,7 +349,16 @@
           "title": "Some say that ever 'gainst that season comes"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1855",
+              "dod": "1935",
+              "first_name": "G.",
+              "id": "3521",
+              "last_name": "Lenotre"
+            }
+          ],
+          "file_name": "tombeduciel_lenotre_f_64kb.mp3",
           "id": "108281",
           "language": "French",
           "listen_url": "",
@@ -361,7 +370,8 @@
             }
           ],
           "section_number": "22",
-          "title": "Tombé du Ciel"
+          "title": "Tombé du Ciel",
+          "url_plain_text": "https://archive.org/details/lgendesdunol00lenouoft"
         },
         {
           "file_name": null,
