@@ -1,0 +1,490 @@
+{
+  "books": {
+    "28": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "Della",
+          "id": "18",
+          "last_name": "Dimmitt"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "<br />This year's Christmas feast of short stories, essays and poetry is mostly English cuisine, with a little dash of French and Middle English seasoning. Here you will find many old favourites, and some festive treats which may be new to you.<br /><br />",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        },
+        {
+          "id": "31",
+          "name": "Short Stories"
+        },
+        {
+          "id": "130",
+          "name": "Christianity - Other"
+        }
+      ],
+      "id": "5952",
+      "language": "Multilingual",
+      "num_sections": "29",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "78105",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "704",
+          "readers": [
+            {
+              "display_name": "Bob Neufeld",
+              "reader_id": "3912"
+            }
+          ],
+          "section_number": "1",
+          "title": "A Child's Story"
+        },
+        {
+          "file_name": null,
+          "id": "78106",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1980",
+          "readers": [
+            {
+              "display_name": "Herman Roskams",
+              "reader_id": "5764"
+            }
+          ],
+          "section_number": "2",
+          "title": "A Christmas Dinner"
+        },
+        {
+          "file_name": null,
+          "id": "78107",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "875",
+          "readers": [
+            {
+              "display_name": "David Wales",
+              "reader_id": "6454"
+            }
+          ],
+          "section_number": "3",
+          "title": "A Christmas Eve in the Far South Seas"
+        },
+        {
+          "file_name": null,
+          "id": "78108",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "424",
+          "readers": [
+            {
+              "display_name": "Snapdragon",
+              "reader_id": "6733"
+            }
+          ],
+          "section_number": "4",
+          "title": "A Christmas Fairy"
+        },
+        {
+          "file_name": null,
+          "id": "78109",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "858",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "5",
+          "title": "Christmas in a Dugout"
+        },
+        {
+          "file_name": null,
+          "id": "78110",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "196",
+          "readers": [
+            {
+              "display_name": "Bellona Times",
+              "reader_id": "3657"
+            }
+          ],
+          "section_number": "6",
+          "title": "Christmas in India"
+        },
+        {
+          "file_name": null,
+          "id": "78111",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "155",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "7",
+          "title": "Christmas in the Olden Time"
+        },
+        {
+          "file_name": null,
+          "id": "78112",
+          "language": "Middle English",
+          "listen_url": "",
+          "playtime": "465",
+          "readers": [
+            {
+              "display_name": "Martin Geeson",
+              "reader_id": "3595"
+            }
+          ],
+          "section_number": "8",
+          "title": "Christmas Scene at Camelot"
+        },
+        {
+          "file_name": null,
+          "id": "78113",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "363",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "9",
+          "title": "Christmas Time"
+        },
+        {
+          "file_name": null,
+          "id": "78114",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "918",
+          "readers": [
+            {
+              "display_name": "Herman Roskams",
+              "reader_id": "5764"
+            }
+          ],
+          "section_number": "10",
+          "title": "Un Conte de Noël"
+        },
+        {
+          "file_name": null,
+          "id": "78115",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "318",
+          "readers": [
+            {
+              "display_name": "Winston Tharp",
+              "reader_id": "5694"
+            }
+          ],
+          "section_number": "11",
+          "title": "The Cowboys’ Christmas Ball"
+        },
+        {
+          "file_name": null,
+          "id": "78116",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "366",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "12",
+          "title": "The Golden Cobwebs"
+        },
+        {
+          "file_name": null,
+          "id": "78117",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "109",
+          "readers": [
+            {
+              "display_name": "Laurie Anne Walden",
+              "reader_id": "1066"
+            },
+            {
+              "display_name": "David Lawrence",
+              "reader_id": "2911"
+            },
+            {
+              "display_name": "AaronW",
+              "reader_id": "2987"
+            }
+          ],
+          "section_number": "13",
+          "title": "Good King Wenceslas"
+        },
+        {
+          "file_name": null,
+          "id": "78118",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "259",
+          "readers": [
+            {
+              "display_name": "Carol Box",
+              "reader_id": "6173"
+            }
+          ],
+          "section_number": "14",
+          "title": "Is there a Santa Claus?"
+        },
+        {
+          "file_name": null,
+          "id": "78119",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2757",
+          "readers": [
+            {
+              "display_name": "TriciaG",
+              "reader_id": "3157"
+            }
+          ],
+          "section_number": "15",
+          "title": "Joy Born at Bethlehem"
+        },
+        {
+          "file_name": null,
+          "id": "78120",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1861",
+          "readers": [
+            {
+              "display_name": "David Wales",
+              "reader_id": "6454"
+            }
+          ],
+          "section_number": "16",
+          "title": "Julius Adolphus Jenkins's Christmas Alligator"
+        },
+        {
+          "file_name": null,
+          "id": "78121",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "97",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "17",
+          "title": "The Mistletoe"
+        },
+        {
+          "file_name": null,
+          "id": "78122",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2372",
+          "readers": [
+            {
+              "display_name": "Lars Rolander (1942-2016)",
+              "reader_id": "2234"
+            }
+          ],
+          "section_number": "18",
+          "title": "An Old-Fashioned Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "78123",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "646",
+          "readers": [
+            {
+              "display_name": "David Lawrence",
+              "reader_id": "2911"
+            }
+          ],
+          "section_number": "19",
+          "title": "A Picture of the Nativity by Fra Filippo Lippi"
+        },
+        {
+          "file_name": null,
+          "id": "78124",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "302",
+          "readers": [
+            {
+              "display_name": "Bob Gonzalez",
+              "reader_id": "6446"
+            }
+          ],
+          "section_number": "20",
+          "title": "Reginald on Christmas Presents"
+        },
+        {
+          "file_name": null,
+          "id": "78125",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "445",
+          "readers": [
+            {
+              "display_name": "Bob Gonzalez",
+              "reader_id": "6446"
+            }
+          ],
+          "section_number": "21",
+          "title": "Reginald's Christmas Revel"
+        },
+        {
+          "file_name": null,
+          "id": "78126",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "141",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "22",
+          "title": "Santa Claus"
+        },
+        {
+          "file_name": null,
+          "id": "78127",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1215",
+          "readers": [
+            {
+              "display_name": "Don W. Jenkins",
+              "reader_id": "5304"
+            }
+          ],
+          "section_number": "23",
+          "title": "Santa Claus at Simpson's Bar"
+        },
+        {
+          "file_name": null,
+          "id": "78128",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "245",
+          "readers": [
+            {
+              "display_name": "Sean Lynott",
+              "reader_id": "6825"
+            }
+          ],
+          "section_number": "24",
+          "title": "Twas the Night before Christmas"
+        },
+        {
+          "file_name": null,
+          "id": "78129",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "3642",
+          "readers": [
+            {
+              "display_name": "Kalynda",
+              "reader_id": "1649"
+            }
+          ],
+          "section_number": "25",
+          "title": "Uncle Noah's Christmas Inspiration"
+        },
+        {
+          "file_name": null,
+          "id": "78130",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "919",
+          "readers": [
+            {
+              "display_name": "Bellona Times",
+              "reader_id": "3657"
+            }
+          ],
+          "section_number": "26",
+          "title": "The Voyage of the Wee Red Cap"
+        },
+        {
+          "file_name": null,
+          "id": "78131",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "791",
+          "readers": [
+            {
+              "display_name": "Bob Neufeld",
+              "reader_id": "3912"
+            }
+          ],
+          "section_number": "27",
+          "title": "What Christmas Is As We Grow Older"
+        },
+        {
+          "file_name": null,
+          "id": "78132",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1542",
+          "readers": [
+            {
+              "display_name": "TriciaG",
+              "reader_id": "3157"
+            }
+          ],
+          "section_number": "28",
+          "title": "What Think Ye of Christ?"
+        },
+        {
+          "file_name": null,
+          "id": "78133",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "473",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "29",
+          "title": "Why the Sea is Salt"
+        }
+      ],
+      "title": "Christmas Short Works Collection 2011",
+      "totaltime": "7:03:58",
+      "totaltimesecs": 25438,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/christmasshortworks2011_1112_librivox",
+      "url_librivox": "https://librivox.org/christmas-short-works-2011-by-various/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/5952",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download/christmasshortworks2011_1112_librivox/christmasshortworks2011_1112_librivox_64kb_mp3.zip"
+    }
+  }
+}
