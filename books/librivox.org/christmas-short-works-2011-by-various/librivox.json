@@ -166,7 +166,16 @@
           "title": "Christmas Time"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1850",
+              "dod": "1893",
+              "first_name": "",
+              "id": "436",
+              "last_name": "Guy de Maupassant"
+            }
+          ],
+          "file_name": "contedenoel_maupassant_hr_64kb.mp3",
           "id": "78114",
           "language": "French",
           "listen_url": "",
@@ -178,7 +187,8 @@
             }
           ],
           "section_number": "10",
-          "title": "Un Conte de Noël"
+          "title": "Un Conte de Noël",
+          "url_text_source": "http://www.gutenberg.org/ebooks/11199"
         },
         {
           "file_name": null,
