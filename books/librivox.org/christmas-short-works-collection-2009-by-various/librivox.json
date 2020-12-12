@@ -279,11 +279,11 @@
         {
           "authors": [
             {
-              "dob": "",
-              "dod": "",
-              "first_name": "",
+              "dob": "1871",
+              "dod": "1919",
+              "first_name": "Леонид",
               "id": "18",
-              "last_name": "Various"
+              "last_name": "Андреев"
             }
           ],
           "description": "",
@@ -295,7 +295,7 @@
             },
             {
               "id": "130",
-              "name": "Christianity"
+              "name": "Christmas"
             }
           ],
           "id": "16141",
