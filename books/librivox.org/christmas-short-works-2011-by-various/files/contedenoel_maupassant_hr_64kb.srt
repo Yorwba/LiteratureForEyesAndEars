@@ -1,0 +1,549 @@
+1
+00:00:00,000 --> 00:00:04,940
+CONTE DE NOËL
+by
+Guy de Maupassant
+
+2
+00:00:04,940 --> 00:00:06,990
+Read in French
+
+3
+00:00:06,990 --> 00:00:09,650
+This is a LibriVox recording.
+
+4
+00:00:09,650 --> 00:00:12,920
+All LibriVox recordings are in the public domain.
+
+5
+00:00:12,920 --> 00:00:19,010
+For more information, or to volunteer, please visit LibriVox.org.
+
+6
+00:00:19,010 --> 00:00:23,230
+Read by Herman Roskams
+
+7
+00:00:23,230 --> 00:00:31,910
+Le docteur Bonenfant cherchait dans sa mémoire, répétant à mi-voix : « Un souvenir de Noël ?...
+
+8
+00:00:31,910 --> 00:00:33,620
+Un souvenir de Noël ?...
+
+9
+00:00:33,620 --> 00:00:33,830
+»
+
+10
+00:00:33,830 --> 00:00:35,880
+Et tout à coup, il s'écria :
+
+11
+00:00:35,880 --> 00:00:43,250
+—Mais si, j'en ai un, et un bien étrange encore ; c'est une histoire fantastique.
+
+12
+00:00:43,250 --> 00:00:44,610
+J'ai vu un miracle !
+
+13
+00:00:44,610 --> 00:00:49,560
+Oui, Mesdames, un miracle, la nuit de Noël.
+
+14
+00:00:50,660 --> 00:00:55,450
+Cela vous étonne de m'entendre parler ainsi, moi qui ne crois guère à rien.
+
+15
+00:00:55,450 --> 00:00:59,140
+Et pourtant, j'ai vu un miracle !
+
+16
+00:00:59,140 --> 00:01:07,470
+Je l'ai vu, dis-je, vu, de mes propres yeux vu, ce qui s'appelle vu.
+
+17
+00:01:07,470 --> 00:01:09,640
+En ai-je été fort surpris ?
+
+18
+00:01:09,640 --> 00:01:19,430
+non pas ; car si je ne crois point à vos croyances, je crois à la foi, et je sais qu'elle transporte les montagnes.
+
+19
+00:01:19,430 --> 00:01:26,780
+Je pourrais citer bien des exemples ; mais je vous indignerais et je m'exposerais aussi à amoindrir l'effet de mon histoire.
+
+20
+00:01:26,780 --> 00:01:42,640
+Je vous avouerai d'abord que si je n'ai pas été convaincu et converti par ce que j'ai vu, j'ai été du moins fort ému, et je vais tâcher de vous dire la chose naïvement, comme si j'avais une crédulité d'Auvergnat.
+
+21
+00:01:44,160 --> 00:01:49,820
+J'étais alors médecin de campagne, habitant le bourg de Rolleville, en pleine Normandie.
+
+22
+00:01:49,820 --> 00:01:54,960
+L'hiver, cette année-là, fut terrible.
+
+23
+00:01:54,960 --> 00:02:00,850
+Dès la fin de novembre, les neiges arrivèrent après une semaine de gelées.
+
+24
+00:02:00,850 --> 00:02:07,530
+On voyait de loin les gros nuages venir du nord ; et la blanche descente des flocons commença.
+
+25
+00:02:07,530 --> 00:02:12,840
+En une nuit, toute la pleine fut ensevelie.
+
+26
+00:02:12,840 --> 00:02:27,270
+Les fermes, isolées dans leurs cours carrées, derrière leurs rideaux de grands arbres poudrés de frimas, semblaient s'endormir sous l'accumulation de cette mousse épaisse et légère.
+
+27
+00:02:27,270 --> 00:02:31,210
+Aucun bruit ne traversait plus la campagne immobile.
+
+28
+00:02:31,210 --> 00:02:45,700
+Seuls les corbeaux, par bandes, décrivaient de longs festons dans le ciel, cherchant leur vie inutilement, s'abattant tous ensemble sur les champs livides et piquant la neige de leurs grands becs.
+
+29
+00:02:46,980 --> 00:02:53,680
+On n'entendait rien que le glissement vague et continu de cette poussière gelée tombant toujours.
+
+30
+00:02:53,680 --> 00:03:00,560
+Cela dura huit jours pleins, puis l'avalanche s'arrêta.
+
+31
+00:03:00,560 --> 00:03:06,340
+La terre avait sur le dos un manteau épais de cinq pieds.
+
+32
+00:03:07,640 --> 00:03:24,840
+Et, pendant trois semaines ensuite, un ciel, clair comme un cristal bleu le jour, et, la nuit, tout semé d'étoiles qu'on aurait crues de givre, tant le vaste espace était rigoureux, s'étendit sur la nappe unie, dure et luisante des neiges.
+
+33
+00:03:25,980 --> 00:03:33,230
+La plaine, les haies, les ormes des clôtures, tout semblait mort, tué par le froid.
+
+34
+00:03:33,230 --> 00:03:46,500
+Ni hommes ni bêtes ne sortaient plus ; seules les cheminées des chaumières en chemise blanche révélaient la vie cachée, par les minces filets de fumée qui montaient droit dans l'air glacial.
+
+35
+00:03:46,500 --> 00:04:04,360
+De temps en temps on entendait craquer les arbres, comme si leurs membres de bois se fussent brisés sous l'écorce ; et, parfois, une grosse branche se détachait et tombait, l'invincible gelée pétrifiant la sève et cassant les fibres.
+
+36
+00:04:04,360 --> 00:04:11,710
+Les habitations semées ça et là par les champs semblaient éloignées de cent lieues les unes des autres.
+
+37
+00:04:11,710 --> 00:04:14,220
+On vivait comme on pouvait.
+
+38
+00:04:14,220 --> 00:04:23,550
+Seul, j'essayais d'aller voir mes clients les plus proches, m'exposant sans cesse à rester enseveli dans quelque creux.
+
+39
+00:04:23,550 --> 00:04:29,620
+Je m'aperçus bientôt qu'une terreur mystérieuse planait sur le pays.
+
+40
+00:04:29,620 --> 00:04:34,150
+Un tel fléau, pensait-on, n'était point naturel.
+
+41
+00:04:34,150 --> 00:04:42,680
+On prétendit qu'on entendait des voix la nuit, des sifflements aigus, des cris qui passaient.
+
+42
+00:04:43,980 --> 00:04:52,370
+Ces cris et ces sifflements venaient sans aucun doute des oiseaux émigrants qui voyagent au crépuscule, et qui fuyaient en masse vers le sud.
+
+43
+00:04:52,370 --> 00:04:55,940
+Mais allez donc faire entendre raison à des gens affolés.
+
+44
+00:04:55,940 --> 00:05:03,100
+Une épouvante envahissait les esprits et on s'attendait à un événement extraordinaire.
+
+45
+00:05:05,700 --> 00:05:15,520
+La forge du père Vatinel était située au bout du hameau d'Épivent, sur la grande route, maintenant invisible et déserte.
+
+46
+00:05:15,520 --> 00:05:21,720
+Or, comme les gens manquaient de pain, le forgeron résolut d'aller jusqu'au village.
+
+47
+00:05:21,720 --> 00:05:35,610
+Il resta quelques heures à causer dans les six maisons qui forment le centre du pays, prit son pain et des nouvelles, et un peu de cette peur épandue sur la campagne.
+
+48
+00:05:35,610 --> 00:05:39,000
+Et il se remit en route avant la nuit.
+
+49
+00:05:40,240 --> 00:05:51,940
+Tout à coup, en longeant une haie, il crut voir un oeuf sur la neige ; oui, un oeuf, déposé là, tout blanc comme le reste du monde.
+
+50
+00:05:51,940 --> 00:05:56,630
+Il se pencha, c'était un oeuf en effet.
+
+51
+00:05:56,630 --> 00:05:58,140
+D'où venait-il ?
+
+52
+00:05:58,140 --> 00:06:04,190
+Quelle poule avait pu sortir du poulailler et venir pondre en cet endroit ?
+
+53
+00:06:04,190 --> 00:06:12,050
+Le forgeron s'étonna, ne comprit pas ; mais il ramassa l'oeuf et le porta à sa femme.
+
+54
+00:06:12,050 --> 00:06:16,410
+—Tiens, la maîtresse, v'là un oeuf que j'ai trouvé sur la route !
+
+55
+00:06:16,410 --> 00:06:19,900
+La femme hocha la tête : —Un oeuf sur la route ?
+
+56
+00:06:19,900 --> 00:06:22,920
+Par ce temps-ci, t'es soûl, bien sûr ?
+
+57
+00:06:22,920 --> 00:06:31,230
+—Mais non, la maîtresse, même qu'il était au pied d'une haie, et encore chaud, pas gelé.
+
+58
+00:06:31,230 --> 00:06:36,880
+Le v'là, j'me l'ai mis sur l'estomac pour qui n'refroidisse pas.
+
+59
+00:06:36,880 --> 00:06:40,080
+Tu le mangeras pour ton dîner.
+
+60
+00:06:41,180 --> 00:06:49,520
+L'oeuf fut glissé dans la marmite où mijotait la soupe, et le forgeron se mit à raconter ce qu'on disait par la contrée.
+
+61
+00:06:49,520 --> 00:06:53,920
+La femme écoutait, toute pâle.
+
+62
+00:06:53,920 --> 00:07:00,480
+—Pour sûr, que j'en ai entendu, des sifflets, l'autre nuit, même qu'ils semblaient v'nir de la cheminée.
+
+63
+00:07:00,480 --> 00:07:13,810
+On se mit à table, on mangea la soupe d'abord, puis, pendant que le mari étendait du beurre sur son pain, la femme prit l'oeuf et l'examina d'un oeil méfiant.
+
+64
+00:07:13,810 --> 00:07:18,140
+—Si y avait qué que chose dans c't'oeuf ?
+
+65
+00:07:18,140 --> 00:07:20,660
+—Que que tu veux qu'y ait ?
+
+66
+00:07:20,660 --> 00:07:23,230
+—J'sais ti, mé ?
+
+67
+00:07:23,230 --> 00:07:27,520
+—Allons, mange-le, et fais pas la bête.
+
+68
+00:07:28,680 --> 00:07:29,990
+Elle ouvrit l'oeuf.
+
+69
+00:07:29,990 --> 00:07:33,910
+Il était comme tous les oeufs, et bien frais.
+
+70
+00:07:33,910 --> 00:07:41,770
+Elle se mit à le manger en hésitant, le goûtant, le laissant, le reprenant.
+
+71
+00:07:41,770 --> 00:07:43,390
+Le mari disait :
+
+72
+00:07:43,390 --> 00:07:44,560
+—Eh bien !
+
+73
+00:07:44,560 --> 00:07:46,940
+qué goût qu'il a, c't'oeuf ?
+
+74
+00:07:48,040 --> 00:08:04,760
+Elle ne répondait pas, et elle acheva de l'avaler ; puis, soudain elle planta sur son homme des yeux fixes, hagards, affolés ; leva les bras, les tordit et, convulsée de la tête aux pieds, roula par terre en poussant des cris horribles.
+
+75
+00:08:04,760 --> 00:08:13,010
+Toute la nuit elle se débattit en des spasmes épouvantables, secouée de tremblements effrayants, déformée par de hideuses convulsions.
+
+76
+00:08:13,010 --> 00:08:18,630
+Le forgeron, impuissant à la tenir, fut obligé de la lier.
+
+77
+00:08:18,630 --> 00:08:21,620
+Et elle hurlait sans repos, d'une voix infatigable :
+
+78
+00:08:21,620 --> 00:08:24,150
+—J'l'ai dans l'corps !
+
+79
+00:08:24,150 --> 00:08:26,610
+J'l'ai dans l'corps !
+
+80
+00:08:26,610 --> 00:08:29,160
+Je fus appelé le lendemain.
+
+81
+00:08:29,160 --> 00:08:32,990
+J'ordonnai tous les calmants connus sans obtenir le moindre résultat.
+
+82
+00:08:32,990 --> 00:08:34,860
+Elle était folle.
+
+83
+00:08:34,860 --> 00:08:47,780
+Alors, avec une incroyable rapidité, malgré l'obstacle des hautes neiges, la nouvelle, une nouvelle étrange, courut de ferme en ferme : « La femme au forgeron qu'est possédée !
+
+84
+00:08:47,780 --> 00:08:48,450
+»
+
+85
+00:08:48,450 --> 00:08:59,440
+Et on venait de partout, sans oser pénétrer dans la maison ; on écoutait de loin ses cris affreux poussés d'une voix si forte qu'on ne les aurait pas crus d'une créature humaine.
+
+86
+00:08:59,440 --> 00:09:02,660
+Le curé du village fut prévenu.
+
+87
+00:09:02,660 --> 00:09:05,170
+C'était un vieux prêtre naïf.
+
+88
+00:09:05,170 --> 00:09:20,290
+Il accourut en surplis comme pour administrer un mourant et il prononça, en étendant les mains, les formules d'exorcisme, pendant que quatre hommes maintenaient sur un lit la femme écumante et tordue.
+
+89
+00:09:20,290 --> 00:09:23,390
+Mais l'esprit ne fut point chassé.
+
+90
+00:09:23,390 --> 00:09:27,880
+Et la Noël arriva sans que le temps eût changé.
+
+91
+00:09:29,200 --> 00:09:33,130
+La veille au matin, le prêtre vint me trouver :
+
+92
+00:09:33,130 --> 00:09:41,480
+—J'ai envie, dit-il, de faire assister à l'office de cette nuit cette malheureuse.
+
+93
+00:09:41,480 --> 00:09:48,770
+Peut-être Dieu fera-t-il un miracle en sa faveur, à l'heure même où il naquit d'une femme.
+
+94
+00:09:48,770 --> 00:09:51,840
+Je répondis au curé :
+
+95
+00:09:51,840 --> 00:09:55,050
+—Je vous approuve absolument, Monsieur l'abbé.
+
+96
+00:09:55,050 --> 00:10:04,960
+Si elle a l'esprit frappé par la cérémonie sacrée (et rien n'est plus propice à l'émouvoir), elle peut être sauvée sans autre remède.
+
+97
+00:10:04,960 --> 00:10:07,970
+Le vieux prêtre murmura :
+
+98
+00:10:07,970 --> 00:10:14,100
+—Vous n'êtes pas croyant, docteur, mais aidez-moi, n'est-ce pas ?
+
+99
+00:10:14,100 --> 00:10:16,370
+Vous vous chargez de l'amener ?
+
+100
+00:10:16,370 --> 00:10:19,400
+Et je lui promis mon aide.
+
+101
+00:10:19,400 --> 00:10:32,970
+Le soir vint, puis la nuit ; et la cloche de l'église se mit à sonner, jetant sa voix plaintive à travers l'espace morne, sur l'étendue blanche et glacée des neiges.
+
+102
+00:10:32,970 --> 00:10:39,760
+Des êtres noirs s'en venaient lentement, par groupes, dociles au cri d'airain du clocher.
+
+103
+00:10:39,760 --> 00:10:49,240
+La pleine lune éclairait d'une lueur vive et blafarde tout l'horizon, rendait plus visible la pâle désolation des champs.
+
+104
+00:10:49,240 --> 00:10:54,450
+J'avais pris quatre hommes robustes et je me rendis à la forge.
+
+105
+00:10:54,450 --> 00:10:59,070
+La Possédée hurlait toujours, attachée à sa couche.
+
+106
+00:10:59,070 --> 00:11:05,440
+On la vêtit proprement malgré sa résistance éperdue, et on l'emporta.
+
+107
+00:11:08,080 --> 00:11:22,660
+L'église était maintenant pleine de monde, illuminée et froide ; les chantres poussaient leurs notes monotones ; le serpent ronflait ; la petite sonnette de l'enfant de choeur tintait, réglant les mouvements des fidèles.
+
+108
+00:11:22,660 --> 00:11:31,000
+J'enfermai la femme et ses gardiens dans la cuisine du presbytère, et j'attendis le moment que je croyais favorable.
+
+109
+00:11:31,000 --> 00:11:36,210
+Je choisis l'instant qui suit la communion.
+
+110
+00:11:36,210 --> 00:11:42,110
+Tous les paysans, hommes et femmes, avaient reçu leur Dieu pour fléchir sa rigueur.
+
+111
+00:11:42,110 --> 00:11:47,720
+Un grand silence planait pendant que le prêtre achevait le mystère divin.
+
+112
+00:11:47,720 --> 00:11:55,330
+Sur mon ordre, la porte fut ouverte et mes quatre aides apportèrent la folle.
+
+113
+00:11:55,330 --> 00:12:10,280
+Dès qu'elle aperçut les lumières, la foule à genoux, le choeur en feu et le tabernacle doré, elle se débattit d'une telle vigueur qu'elle faillit nous échapper, et elle poussa des clameurs si aiguës qu'un frisson d'épouvante passa dans l'église ;
+
+114
+00:12:10,280 --> 00:12:14,800
+toutes les têtes se relevèrent ; des gens s'enfuirent.
+
+115
+00:12:16,200 --> 00:12:24,300
+Elle n'avait plus la forme d'une femme, crispée et tordue en nos mains, le visage contourné, les yeux fous.
+
+116
+00:12:24,300 --> 00:12:31,860
+On la traîna jusqu'aux marches du choeur et puis on la tint fortement accroupie à terre.
+
+117
+00:12:33,180 --> 00:12:36,080
+Le prêtre s'était levé ; il attendait.
+
+118
+00:12:36,080 --> 00:12:55,040
+Dès qu'il la vit arrêtée, il prit en ses mains l'ostensoir ceint de rayons d'or, avec l'hostie blanche au milieu, et, s'avançant de quelques pas, il l'éleva de ses deux bras tendus au-dessus de sa tête, le présentant aux regards égarés de la Démoniaque.
+
+119
+00:12:55,040 --> 00:13:00,380
+Elle hurlait toujours, l'oeil fixé, tendu sur cet objet rayonnant.
+
+120
+00:13:00,380 --> 00:13:06,860
+Et le prêtre demeurait tellement immobile qu'on l'aurait pris pour une statue.
+
+121
+00:13:06,860 --> 00:13:13,160
+Et cela dura longtemps, longtemps.
+
+122
+00:13:14,800 --> 00:13:31,260
+La femme semblait saisie de peur, fascinée ; elle contemplait fixement l'ostensoir, secouée encore de tremblements terribles, mais passagers, et criant toujours, mais d'une voix moins déchirante.
+
+123
+00:13:32,480 --> 00:13:35,280
+Et cela dura encore longtemps.
+
+124
+00:13:36,880 --> 00:13:49,070
+On eût dit qu'elle ne pouvait plus baisser les yeux, qu'ils étaient rivés sur l'hostie ; et elle ne faisait plus que gémir ; et son corps roidi s'amollissait, s'affaissait.
+
+125
+00:13:49,070 --> 00:13:54,130
+Toute la foule était prosternée le front par terre.
+
+126
+00:13:54,130 --> 00:14:03,760
+La Possédée maintenant baissait rapidement les paupières, puis les relevait aussitôt, comme impuissante à supporter la vue de son Dieu.
+
+127
+00:14:03,760 --> 00:14:05,960
+Elle s'était tue.
+
+128
+00:14:05,960 --> 00:14:11,910
+Et puis soudain, je m'aperçus que ses yeux demeuraient clos.
+
+129
+00:14:11,910 --> 00:14:26,920
+Elle dormait du sommeil des somnambules, hypnotisée, pardon, vaincue par la contemplation persistante de l'ostensoir aux rayons d'or, terrassée par le Christ victorieux.
+
+130
+00:14:29,420 --> 00:14:34,430
+On l'emporta, inerte, pendant que le prêtre remontait vers l'autel.
+
+131
+00:14:34,430 --> 00:14:41,920
+L'assistance bouleversée entonna un Te Deum d'actions de grâces.
+
+132
+00:14:42,980 --> 00:14:54,100
+Et la femme du forgeron dormit quarante heures de suite, puis se réveilla sans aucun souvenir de la possession ni de la délivrance.
+
+133
+00:14:55,280 --> 00:14:58,620
+Voilà, Mesdames, le miracle que j'ai vu.
+
+134
+00:14:58,620 --> 00:15:07,780
+Le docteur Bonenfant se tut, puis ajouta d'une voix contrariée : —Je n'ai pu refuser de l'attester par écrit.
+
+135
+00:15:07,780 --> 00:15:14,420
+End of
+CONTE DE NOËL
+by
+Guy de Maupassant
+
+136
+00:15:18,700 --> 00:15:19,700
+
+
