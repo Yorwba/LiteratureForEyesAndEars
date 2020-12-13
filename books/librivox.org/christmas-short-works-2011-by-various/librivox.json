@@ -23,7 +23,7 @@
         },
         {
           "id": "130",
-          "name": "Christianity - Other"
+          "name": "Christmas"
         }
       ],
       "id": "5952",
@@ -175,7 +175,18 @@
               "last_name": "Guy de Maupassant"
             }
           ],
+          "description": "",
           "file_name": "contedenoel_maupassant_hr_64kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            },
+            {
+              "id": "130",
+              "name": "Christmas"
+            }
+          ],
           "id": "78114",
           "language": "French",
           "listen_url": "",
