@@ -49,7 +49,17 @@
           "url_text_source": "http://jclvtxt.blogspot.com/2008/05/liaozhais-stories.html#0910"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1898",
+              "dod": "1948",
+              "first_name": "",
+              "id": "8748",
+              "last_name": "朱自清"
+            }
+          ],
+          "description": "",
+          "file_name": "chinese_congcong_zhu_sn_64kb.mp3",
           "id": "171398",
           "language": "Chinese",
           "listen_url": "",
@@ -61,7 +71,8 @@
             }
           ],
           "section_number": "2",
-          "title": " 匆匆 Cong Cong"
+          "title": " 匆匆",
+          "url_text_source": "https://zh.wikisource.org/wiki/匆匆"
         },
         {
           "file_name": null,
