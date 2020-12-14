@@ -388,7 +388,16 @@
           "title": "The Goblins' Christmas"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "",
+              "dod": "",
+              "first_name": "Angelo",
+              "id": "236",
+              "last_name": "Lewis"
+            }
+          ],
+          "file_name": "22_english_christmaswiththebaron_lewis_arb_64kb.mp3",
           "id": "16147",
           "language": "English",
           "listen_url": "",
@@ -400,7 +409,8 @@
             }
           ],
           "section_number": "22",
-          "title": "Christmas with the Baron"
+          "title": "Christmas with the Baron",
+          "url_text_source": "http://www.gutenberg.org/ebooks/19084"
         }
       ],
       "title": "Christmas Short Works Collection 2009",
