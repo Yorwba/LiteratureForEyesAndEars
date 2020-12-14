@@ -106,11 +106,11 @@ books/librivox.org/%/joined.txt: books/librivox.org/%/files/*.txt
 	cat $(sort $^) > "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
-books/librivox.org/%_cmn-Hans.txt: books/librivox.org/%.txt data/cc-cedict.txt
+books/librivox.org/%.cmn-Hans.txt: books/librivox.org/%.txt data/cc-cedict.txt
 	code/transliterate.py cmn-Hans "$<" "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
-books/librivox.org/%/joined_cmn-Hans.mp3: books/librivox.org/%/joined.mp3
+books/librivox.org/%/joined.cmn-Hans.mp3: books/librivox.org/%/joined.mp3
 	cp "$<" "$@"
 
 null  :=
