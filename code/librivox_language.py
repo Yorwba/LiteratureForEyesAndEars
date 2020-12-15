@@ -17,6 +17,7 @@ language_codes = {
     'French': 'fra',
     'German': 'deu',
     'Hebrew': 'heb',
+    'Hungarian': 'hun',
     'Italian': 'ita',
     'Japanese': 'jpn',
     'Latin': 'lat',
