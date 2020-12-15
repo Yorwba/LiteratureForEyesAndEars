@@ -397,7 +397,18 @@
               "last_name": "Lewis"
             }
           ],
+          "description": "",
           "file_name": "22_english_christmaswiththebaron_lewis_arb_64kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            },
+            {
+              "id": "130",
+              "name": "Christmas"
+            }
+          ],
           "id": "16147",
           "language": "English",
           "listen_url": "",
