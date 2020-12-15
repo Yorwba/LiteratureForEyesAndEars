@@ -187,7 +187,27 @@
           "title": "A Christmas Mystery: the Story of Three Wise Men"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1823",
+              "dod": "1849",
+              "first_name": "Sándor",
+              "id": "447",
+              "last_name": "Petőfi"
+            }
+          ],
+          "description": "",
+          "file_name": "10_hungarian_karacsonkor_petofi_64kb.mp3",
+          "genres": [
+            {
+              "id": "25",
+              "name": "Poetry"
+            },
+            {
+              "id": "130",
+              "name": "Christmas"
+            }
+          ],
           "id": "16135",
           "language": "Hungarian",
           "listen_url": "",
@@ -199,7 +219,8 @@
             }
           ],
           "section_number": "10",
-          "title": "Karácsonkor"
+          "title": "Karácsonkor",
+          "url_text_source": "https://hu.wikisource.org/wiki/Karácsonkor"
         },
         {
           "file_name": null,
