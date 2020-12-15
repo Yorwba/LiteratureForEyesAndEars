@@ -123,7 +123,7 @@ books/librivox.org/%/joined.mp3: books/librivox.org/%/files/*.mp3
 
 books/librivox.org/%.dynaudnorm.mp3: books/librivox.org/%.mp3
 	# setting framelen and gausssize
-	ffmpeg -y -i "$<" -af dynaudnorm=f=200:g=3 "$@" \
+	ffmpeg -y -i "$<" -af dynaudnorm=f=300:g=3 "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
 books/librivox.org/%.align.json: books/librivox.org/%.dynaudnorm.mp3 books/librivox.org/%.txt
