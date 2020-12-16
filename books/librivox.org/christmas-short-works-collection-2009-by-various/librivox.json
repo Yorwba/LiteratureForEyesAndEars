@@ -46,7 +46,28 @@
           "title": "Natal"
         },
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1845",
+              "dod": "1900",
+              "first_name": "José Maria",
+              "id": "3094",
+              "last_name": "de Eça de Queirós"
+            }
+          ],
+          "copyright_year": "0",
+          "description": "",
+          "file_name": "02_portuguese_suavemilagre_queiroz_lrl_64kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            },
+            {
+              "id": "130",
+              "name": "Christmas"
+            }
+          ],
           "id": "16127",
           "language": "Portuguese",
           "listen_url": "",
@@ -58,7 +79,8 @@
             }
           ],
           "section_number": "2",
-          "title": "O Suave Milagre"
+          "title": "O Suave Milagre",
+          "url_text_source": "https://pt.wikisource.org/wiki/O_suave_milagre"
         },
         {
           "file_name": null,
