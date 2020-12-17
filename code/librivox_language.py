@@ -23,6 +23,7 @@ language_codes = {
     'Latin': 'lat',
     'Polish': 'pol',
     'Portuguese': 'por-br',
+    'Romanian': 'ron',
     'Russian': 'rus',
     'Spanish': 'spa',
     'Swedish': 'swe',
