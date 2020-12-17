@@ -481,7 +481,23 @@
           "title": "Santa Claus"
         },
         {
-          "file_name": "csw15_31_dumnezeusiom_128kb.mp3",
+          "authors": [
+            {
+              "dob": "1850",
+              "dod": "1889",
+              "first_name": "Mihai",
+              "id": "1465",
+              "last_name": "Eminescu"
+            }
+          ],
+          "description": "",
+          "file_name": "csw15_31_dumnezeusiom_64kb.mp3",
+          "genres": [
+            {
+              "id": "25",
+              "name": "Poetry"
+            }
+          ],
           "id": "350300",
           "language": "Romanian",
           "listen_url": "https://librivox.org/uploads/ruthieg/csw15_dumnezeusiom_eminescu_lf_128kb.mp3",
@@ -493,7 +509,8 @@
             }
           ],
           "section_number": "31",
-          "title": "Dumnezeu si Om"
+          "title": "Dumnezeu și Om",
+          "url_text_source": "https://ro.wikisource.org/wiki/Dumnezeu_%C8%99i_om"
         },
         {
           "file_name": "csw15_32_pantomime_128kb.mp3",
