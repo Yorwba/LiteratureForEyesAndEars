@@ -228,7 +228,7 @@ def runeberg_plain_text(url):
 
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
-        source = book['url_text_source']
+        source = urllib.parse.unquote(book['url_text_source'])
         handled = False
         for handler in (
                 gutenberg_plain_text,
