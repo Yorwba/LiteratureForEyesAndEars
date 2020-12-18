@@ -16,6 +16,7 @@ language_codes = {
     'Finnish': 'fin',
     'French': 'fra',
     'German': 'deu',
+    'Greek': 'ell',
     'Hebrew': 'heb',
     'Hungarian': 'hun',
     'Italian': 'ita',
