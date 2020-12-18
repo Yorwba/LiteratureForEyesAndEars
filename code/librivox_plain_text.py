@@ -65,16 +65,16 @@ def try_get(url, data=None):
 
 
 def gutenberg_id(url):
-    prefixes = [
-        'http://www.gutenberg.org/ebooks/',
-        'https://www.gutenberg.org/ebooks/',
-        'http://www.gutenberg.org/etext/',
-        'https://www.gutenberg.org/etext/',
-    ]
-    for prefix in prefixes:
-        if url.startswith(prefix):
-            number = url[len(prefix):]
-            return number
+    split_url = urllib.parse.urlsplit(url)
+    if split_url.netloc.endswith('www.gutenberg.org'):
+        prefixes = [
+            '/ebooks/',
+            '/etext/',
+        ]
+        for prefix in prefixes:
+            if split_url.path.startswith(prefix):
+                number = split_url.path[len(prefix):]
+                return number
     raise Exception("Not a Gutenberg.org URL: "+url)
 
 
