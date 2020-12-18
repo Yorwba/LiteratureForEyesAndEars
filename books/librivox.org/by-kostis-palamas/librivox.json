@@ -1,0 +1,204 @@
+{
+  "books": {
+    "10": {
+      "authors": [
+        {
+          "dob": "1859",
+          "dod": "1943",
+          "first_name": "Kostis",
+          "id": "12705",
+          "last_name": "Palamas"
+        }
+      ],
+      "copyright_year": "1889",
+      "description": "It is a poem about Greek goddess Athena, the unmarried virgin goddess of war and wisdom. Goddess Athena was born fully armed and grown physically from the head of the father of all gods Zeus - Summary by KOSTAS KARAMPAS",
+      "genres": [
+        {
+          "id": "63",
+          "name": "Single author"
+        }
+      ],
+      "id": "11926",
+      "language": "Greek",
+      "num_sections": "11",
+      "sections": [
+        {
+          "file_name": "hymntoathena_01_palamas_128kb.mp3",
+          "id": "402625",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_01_palamas_128kb.mp3",
+          "playtime": "257",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "1",
+          "title": "Α"
+        },
+        {
+          "file_name": "hymntoathena_02_palamas_128kb.mp3",
+          "id": "402626",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_02_palamas_128kb.mp3",
+          "playtime": "258",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "2",
+          "title": "Β"
+        },
+        {
+          "file_name": "hymntoathena_03_palamas_128kb.mp3",
+          "id": "402627",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_03_palamas_128kb.mp3",
+          "playtime": "105",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "3",
+          "title": "Γ"
+        },
+        {
+          "file_name": "hymntoathena_04_palamas_128kb.mp3",
+          "id": "402628",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_04_palamas_128kb.mp3",
+          "playtime": "187",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "4",
+          "title": "Δ"
+        },
+        {
+          "file_name": "hymntoathena_05_palamas_128kb.mp3",
+          "id": "402629",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_05_palamas_128kb.mp3",
+          "playtime": "165",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "5",
+          "title": "Ε"
+        },
+        {
+          "file_name": "hymntoathena_06_palamas_128kb.mp3",
+          "id": "402630",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_06_palamas_128kb.mp3",
+          "playtime": "202",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "6",
+          "title": "ΣΤ"
+        },
+        {
+          "file_name": "hymntoathena_07_palamas_128kb.mp3",
+          "id": "402631",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_07_palamas_128kb.mp3",
+          "playtime": "167",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "7",
+          "title": "Ζ"
+        },
+        {
+          "file_name": "hymntoathena_08_palamas_128kb.mp3",
+          "id": "402632",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_08_palamas_128kb.mp3",
+          "playtime": "331",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "8",
+          "title": "Η"
+        },
+        {
+          "file_name": "hymntoathena_09_palamas_128kb.mp3",
+          "id": "402633",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_09_palamas_128kb.mp3",
+          "playtime": "215",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "9",
+          "title": "Θ"
+        },
+        {
+          "file_name": "hymntoathena_10_palamas_128kb.mp3",
+          "id": "402634",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_10_palamas_128kb.mp3",
+          "playtime": "157",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "10",
+          "title": "Ι"
+        },
+        {
+          "file_name": "hymntoathena_11_palamas_128kb.mp3",
+          "id": "402635",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/hymntoathena_11_palamas_128kb.mp3",
+          "playtime": "164",
+          "readers": [
+            {
+              "display_name": "karampas1968",
+              "reader_id": "11309"
+            }
+          ],
+          "section_number": "11",
+          "title": "ΙΑ"
+        }
+      ],
+      "title": "Ύμνος εις την Αθηνά",
+      "totaltime": "00:36:48",
+      "totaltimesecs": 2208,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/hymntoathena_1705_librivox",
+      "url_librivox": "https://librivox.org/by-kostis-palamas/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/11926",
+      "url_text_source": "www.gutenberg.org/ebooks/42516",
+      "url_zip_file": "http://www.archive.org/download//hymntoathena_1705_librivox/hymntoathena_1705_librivox_64kb_mp3.zip"
+    }
+  }
+}
