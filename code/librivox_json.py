@@ -49,12 +49,28 @@ def get_info(path):
             else:
                 return None
 
+def fix_bitrate(obj):
+    if obj is None:
+        return obj
+    if isinstance(obj, int):
+        return obj
+    if isinstance(obj, str):
+        return obj.replace('_128kb.mp3', '_64kb.mp3')
+    if isinstance(obj, list):
+        return list(map(fix_bitrate, obj))
+    if isinstance(obj, dict):
+        return {
+            k: fix_bitrate(v)
+            for k, v in obj.items()
+        }
+    raise NotImplementedError("Fixing bitrate of: "+repr(obj))
+
 
 def main(argv):
     for name in argv[1:]:
         with open(name) as f: text = f.read()
         pretty = json.dumps(
-            json.loads(text),
+            fix_bitrate(json.loads(text)),
             ensure_ascii=False,
             indent=2,
             sort_keys=True,
