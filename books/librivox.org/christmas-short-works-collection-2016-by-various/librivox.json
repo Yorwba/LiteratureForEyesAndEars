@@ -183,6 +183,16 @@
           "title": "Folk-Lore of Christmas Tide"
         },
         {
+          "authors": [
+            {
+              "dob": "1785",
+              "dod": "1873",
+              "first_name": "Alessandro",
+              "id": "3532",
+              "last_name": "Manzoni"
+            }
+          ],
+          "description": "",
           "file_name": "csw16_ilnatale_manzoni_f_128kb.mp3",
           "id": "382969",
           "language": "Italian",
@@ -195,7 +205,8 @@
             }
           ],
           "section_number": "12",
-          "title": "Il Natale"
+          "title": "Il Natale",
+          "url_text_source": "https://it.wikisource.org/wiki/Inni_sacri/Il_Natale"
         },
         {
           "file_name": "csw16_isthereasantaclaus_church_ar_128kb.mp3",
