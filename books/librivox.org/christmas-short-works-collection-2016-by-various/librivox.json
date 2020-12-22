@@ -1,0 +1,514 @@
+{
+  "books": {
+    "31": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "This year's Christmas collection of short stories, poems and non-fiction features readings in English , French, Italian and Maori.\nSummary by Annise",
+      "genres": [],
+      "id": "11292",
+      "language": "Multilingual",
+      "num_sections": "32",
+      "sections": [
+        {
+          "file_name": "csw16_achristmascarolstave5_dickens_gg_128kb.mp3",
+          "id": "382971",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_achristmascarolstave5_dickens_gg_128kb.mp3",
+          "playtime": "977",
+          "readers": [
+            {
+              "display_name": "Greg Giordano",
+              "reader_id": "8011"
+            }
+          ],
+          "section_number": "1",
+          "title": "A Christmas Carol Stave five"
+        },
+        {
+          "file_name": "csw16_agreattree_gale_jmm_128kb.mp3",
+          "id": "382968",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_agreattree_gale_jmm_128kb.mp3",
+          "playtime": "2255",
+          "readers": [
+            {
+              "display_name": "Jan MacGillivray",
+              "reader_id": "1752"
+            }
+          ],
+          "section_number": "2",
+          "title": "A Great Tree"
+        },
+        {
+          "file_name": "csw16_carolonthebirthofchrist_tusser_kgr_128kb.mp3",
+          "id": "389607",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_carolonthebirthofchrist_tusser_kgr_128kb.mp3",
+          "playtime": "139",
+          "readers": [
+            {
+              "display_name": "Kangaroo",
+              "reader_id": "9478"
+            }
+          ],
+          "section_number": "3",
+          "title": "A Carol on the Birth of Christ"
+        },
+        {
+          "file_name": "csw16_christmascomesbutonceayear_miller_kgr_128kb.mp3",
+          "id": "382980",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_christmascomesbutonceayear_miller_kgr_128kb.mp3",
+          "playtime": "381",
+          "readers": [
+            {
+              "display_name": "Kangaroo",
+              "reader_id": "9478"
+            }
+          ],
+          "section_number": "4",
+          "title": "Christmas Comes but Once a Year"
+        },
+        {
+          "file_name": "csw16_christmaseve1_browning_mk_128kb.mp3",
+          "id": "382976",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_christmaseve1_browning_mk_128kb.mp3",
+          "playtime": "2355",
+          "readers": [
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            }
+          ],
+          "section_number": "5",
+          "title": "Christmas Eve 1-13"
+        },
+        {
+          "file_name": "csw16_christmaseve2_browning_mk_128kb.mp3",
+          "id": "382977",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_christmaseve2_browning_mk_128kb.mp3",
+          "playtime": "1701",
+          "readers": [
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            }
+          ],
+          "section_number": "6",
+          "title": "Christmas Eve 14-22"
+        },
+        {
+          "file_name": "csw16_christmasnight62_mccabe_tp_128kb.mp3",
+          "id": "382983",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_christmasnight62_mccabe_tp_128kb.mp3",
+          "playtime": "155",
+          "readers": [
+            {
+              "display_name": "Tomas Peter",
+              "reader_id": "10789"
+            }
+          ],
+          "section_number": "7",
+          "title": "Christmas Night of '62"
+        },
+        {
+          "file_name": "csw16_christmasstormsandsunshine_gaskell_mk_128kb.mp3",
+          "id": "382965",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_christmasstormsandsunshine_gaskell_mk_128kb.mp3",
+          "playtime": "1717",
+          "readers": [
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            }
+          ],
+          "section_number": "8",
+          "title": "Christmas Storms and Sunshine"
+        },
+        {
+          "file_name": "csw16_christmaswaitsboston_hale_mk_128kb.mp3",
+          "id": "382964",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_christmaswaitsboston_hale_mk_128kb.mp3",
+          "playtime": "2558",
+          "readers": [
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            }
+          ],
+          "section_number": "9",
+          "title": "Christmas Waits in Boston"
+        },
+        {
+          "file_name": "csw16_errorssantaclaus_leacock_dw_128kb.mp3",
+          "id": "382970",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_errorssantaclaus_leacock_dw_128kb.mp3",
+          "playtime": "483",
+          "readers": [
+            {
+              "display_name": "David Wales",
+              "reader_id": "6454"
+            }
+          ],
+          "section_number": "10",
+          "title": "The Errors of Santa Claus"
+        },
+        {
+          "file_name": "csw16_folkloreofchristmas_chamberlain_gb_128kb.mp3",
+          "id": "382972",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_folkloreofchristmas_chamberlain_gb_128kb.mp3",
+          "playtime": "393",
+          "readers": [
+            {
+              "display_name": "Garth Burton",
+              "reader_id": "4969"
+            }
+          ],
+          "section_number": "11",
+          "title": "Folk-Lore of Christmas Tide"
+        },
+        {
+          "file_name": "csw16_ilnatale_manzoni_f_128kb.mp3",
+          "id": "382969",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_ilnatale_manzoni_f_128kb.mp3",
+          "playtime": "292",
+          "readers": [
+            {
+              "display_name": "Fabiola",
+              "reader_id": "10362"
+            }
+          ],
+          "section_number": "12",
+          "title": "Il Natale"
+        },
+        {
+          "file_name": "csw16_isthereasantaclaus_church_ar_128kb.mp3",
+          "id": "382989",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_isthereasantaclaus_church_ar_128kb.mp3",
+          "playtime": "206",
+          "readers": [
+            {
+              "display_name": "April6090",
+              "reader_id": "10995"
+            }
+          ],
+          "section_number": "13",
+          "title": "Is There a Santa Claus ?"
+        },
+        {
+          "file_name": "csw16_kingarthurswaeshael_hawker_tp_128kb.mp3",
+          "id": "382984",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_kingarthurswaeshael_hawker_tp_128kb.mp3",
+          "playtime": "94",
+          "readers": [
+            {
+              "display_name": "Tomas Peter",
+              "reader_id": "10789"
+            }
+          ],
+          "section_number": "14",
+          "title": "King Arthur's Waes-hael"
+        },
+        {
+          "file_name": "csw16_kingwenceslaus_neale_sj_128kb.mp3",
+          "id": "382973",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_kingwenceslaus_neale_sj_128kb.mp3",
+          "playtime": "402",
+          "readers": [
+            {
+              "display_name": "Sarah Jennings",
+              "reader_id": "1472"
+            }
+          ],
+          "section_number": "15",
+          "title": "The Legend of King Wenceslaus"
+        },
+        {
+          "file_name": "csw16_legendofthechristmastree_curtis_ar_128kbps.mp3",
+          "id": "382981",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_legendofthechristmastree_curtis_ar_128kbps.mp3",
+          "playtime": "130",
+          "readers": [
+            {
+              "display_name": "April6090",
+              "reader_id": "10995"
+            }
+          ],
+          "section_number": "16",
+          "title": "Legend of the Christmas Tree"
+        },
+        {
+          "file_name": "csw16_lejourdelan_dandurand_my_128kb.mp3",
+          "id": "382979",
+          "language": "French",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_lejourdelan_dandurand_my_128kb.mp3",
+          "playtime": "327",
+          "readers": [
+            {
+              "display_name": "Mayah",
+              "reader_id": "11247"
+            }
+          ],
+          "section_number": "17",
+          "title": "Le Jour de l'an"
+        },
+        {
+          "file_name": "csw16_littlepiccola_smith_ln_128kb.mp3",
+          "id": "382974",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_littlepiccola_smith_ln_128kb.mp3",
+          "playtime": "694",
+          "readers": [
+            {
+              "display_name": "Lee-Ann Niazi",
+              "reader_id": "11245"
+            }
+          ],
+          "section_number": "18",
+          "title": "Little Piccola"
+        },
+        {
+          "file_name": "csw16_luca2_1to20_lasacrabibbia_f_128kb.mp3",
+          "id": "382991",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_luca2_1to20_lasacrabibbia_f_128kb.mp3",
+          "playtime": "199",
+          "readers": [
+            {
+              "display_name": "Fabiola",
+              "reader_id": "10362"
+            }
+          ],
+          "section_number": "19",
+          "title": "Luca 2,1-20"
+        },
+        {
+          "file_name": "csw16_matiu_1_2_kjv_arb_128kb.mp3",
+          "id": "382963",
+          "language": "Maori",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_matiu_1_2_kjv_arb_128kb.mp3",
+          "playtime": "778",
+          "readers": [
+            {
+              "display_name": "Travis Hamon",
+              "reader_id": "6556"
+            }
+          ],
+          "section_number": "20",
+          "title": "Ko Te Rongo Pai A Matiu 1&2"
+        },
+        {
+          "file_name": "csw16_matteo1_18to25_2_1to12_lasacrabibbia_f_128kb.mp3",
+          "id": "382992",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_matteo1_18to25_2_1to12_lasacrabibbia_f_128kb.mp3",
+          "playtime": "244",
+          "readers": [
+            {
+              "display_name": "Fabiola",
+              "reader_id": "10362"
+            }
+          ],
+          "section_number": "21",
+          "title": "Matteo,18-25,2,1-12"
+        },
+        {
+          "file_name": "csw16_merrychistmas_leacock_dw_128kb.mp3",
+          "id": "382978",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_merrychistmas_leacock_dw_128kb.mp3",
+          "playtime": "1248",
+          "readers": [
+            {
+              "display_name": "David Wales",
+              "reader_id": "6454"
+            }
+          ],
+          "section_number": "22",
+          "title": "Merry Christmas"
+        },
+        {
+          "file_name": "csw16_nativity_harvey_tp_128kb.mp3",
+          "id": "382985",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_nativity_harvey_tp_128kb.mp3",
+          "playtime": "100",
+          "readers": [
+            {
+              "display_name": "Tomas Peter",
+              "reader_id": "10789"
+            }
+          ],
+          "section_number": "23",
+          "title": "The Nativity"
+        },
+        {
+          "file_name": "csw16_nightafterchristmas_field_ar_128kb.mp3",
+          "id": "382990",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_nightafterchristmas_field_ar_128kb.mp3",
+          "playtime": "220",
+          "readers": [
+            {
+              "display_name": "April6090",
+              "reader_id": "10995"
+            }
+          ],
+          "section_number": "24",
+          "title": "The Night After Christmas"
+        },
+        {
+          "file_name": "csw16_santaclausletter_unknown_bbs_128kb.mp3",
+          "id": "382986",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_santaclausletter_unknown_bbs_128kb.mp3",
+          "playtime": "332",
+          "readers": [
+            {
+              "display_name": "BettyB",
+              "reader_id": "10244"
+            }
+          ],
+          "section_number": "25",
+          "title": "A Letter from Santa Claus"
+        },
+        {
+          "file_name": "csw16_theheavenlychristmastree_dostoyevsky_bct_128kb.mp3",
+          "id": "382967",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_theheavenlychristmastree_dostoyevsky_bct_128kb.mp3",
+          "playtime": "592",
+          "readers": [
+            {
+              "display_name": "Bryan Taylor",
+              "reader_id": "11203"
+            }
+          ],
+          "section_number": "26",
+          "title": "The Heavenly Christmas Tree"
+        },
+        {
+          "file_name": "csw16_threechristmastrees_gatty_128kb.mp3",
+          "id": "389019",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_threechristmastrees_gatty_128kb.mp3",
+          "playtime": "1311",
+          "readers": [
+            {
+              "display_name": "BettyB",
+              "reader_id": "10244"
+            }
+          ],
+          "section_number": "27",
+          "title": "Three Christmas Trees"
+        },
+        {
+          "file_name": "csw16_underhollybough_mackay_rg_128kb.mp3",
+          "id": "382988",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_underhollybough_mackay_rg_128kb.mp3",
+          "playtime": "139",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "28",
+          "title": "Under the Holly-bough"
+        },
+        {
+          "file_name": "csw16_unreveillonchezcambaceres_glenotre_my_128kb.mp3",
+          "id": "382987",
+          "language": "French",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_unreveillonchezcambaceres_glenotre_my_128kb.mp3",
+          "playtime": "1050",
+          "readers": [
+            {
+              "display_name": "Mayah",
+              "reader_id": "11247"
+            }
+          ],
+          "section_number": "29",
+          "title": "Un Réveillon chez Cambacérès"
+        },
+        {
+          "file_name": "csw16_wakefieldsecond_wakefieldmaster_ta_128kb.mp3",
+          "id": "382966",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_wakefieldsecond_wakefieldmaster_ta_128kb.mp3",
+          "playtime": "2599",
+          "readers": [
+            {
+              "display_name": "Tony Addison",
+              "reader_id": "10289"
+            }
+          ],
+          "section_number": "30",
+          "title": "The Wakefield Second Shepherd's Play"
+        },
+        {
+          "file_name": "csw16_welcomeyule_unknown_kgr_128kb.mp3",
+          "id": "389638",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_welcomeyule_unknown_kgr_128kb.mp3",
+          "playtime": "82",
+          "readers": [
+            {
+              "display_name": "Kangaroo",
+              "reader_id": "9478"
+            }
+          ],
+          "section_number": "31",
+          "title": "Welcome Yule"
+        },
+        {
+          "file_name": "csw16_woodenshoes_foster_bbs_128kb.mp3",
+          "id": "382975",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/csw16_woodenshoes_foster_bbs_128kb.mp3",
+          "playtime": "612",
+          "readers": [
+            {
+              "display_name": "BettyB",
+              "reader_id": "10244"
+            }
+          ],
+          "section_number": "32",
+          "title": "Little Wolff's Wooden Shoes"
+        }
+      ],
+      "title": "Christmas Short Works Collection 2016",
+      "totaltime": "06:52:45",
+      "totaltimesecs": 24765,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/csw_2016_1612_librivox",
+      "url_librivox": "https://librivox.org/christmas-short-works-collection-2016-by-various/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/11292",
+      "url_text_source": "http://www.gutenberg.org/ebooks/31168",
+      "url_zip_file": "http://www.archive.org/download//csw_2016_1612_librivox/csw_2016_1612_librivox_64kb_mp3.zip"
+    }
+  }
+}
