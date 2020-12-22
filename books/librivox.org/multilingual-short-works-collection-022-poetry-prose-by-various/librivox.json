@@ -72,7 +72,23 @@
           "title": "Danish - Konen med æggene (en gammel historie sat i rim)"
         },
         {
+          "authors": [
+            {
+              "dob": "1858",
+              "dod": "1897",
+              "first_name": "Jozef",
+              "id": "14112",
+              "last_name": "Waśniewski"
+            }
+          ],
+          "description": "One of the earliest short stories in Esperanto.",
           "file_name": "msw022_04_enlabrikejo_wasniewski_pw_128kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            }
+          ],
           "id": "464794",
           "language": "Esperanto",
           "listen_url": "https://librivox.org/uploads/toddhw/msw022_04_enlabrikejo_wasniewski_pw_128kb.mp3",
@@ -84,7 +100,8 @@
             }
           ],
           "section_number": "4",
-          "title": "Esperanto - En la brikejo"
+          "title": "En la brikejo",
+          "url_text_source": "https://eo.wikisource.org/wiki/En_la_brikejo"
         },
         {
           "file_name": "msw022_05_vizitodelastelojsurlatero_zamenhof_pw_128kb.mp3",
