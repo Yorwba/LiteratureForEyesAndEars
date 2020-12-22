@@ -13,6 +13,7 @@ language_codes = {
     'Danish': 'dan',
     'Dutch': 'nld',
     'English': 'eng',
+    'Esperanto': 'epo',
     'Finnish': 'fin',
     'French': 'fra',
     'German': 'deu',
