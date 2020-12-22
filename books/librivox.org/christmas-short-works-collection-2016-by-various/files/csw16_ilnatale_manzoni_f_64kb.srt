@@ -1,0 +1,485 @@
+1
+00:00:00,000 --> 00:00:04,100
+Il Natale
+by
+Alessandro Manzoni
+
+2
+00:00:04,100 --> 00:00:06,520
+Read in Italian by Fabiola
+
+3
+00:00:06,520 --> 00:00:08,710
+This is a LibriVox recording.
+
+4
+00:00:08,710 --> 00:00:11,700
+All LibriVox recordings are in the public domain.
+
+5
+00:00:11,700 --> 00:00:18,180
+For more information, or to volunteer, please visit LibriVox.org.
+
+6
+00:00:19,440 --> 00:00:20,660
+Il Natale
+
+7
+00:00:20,660 --> 00:00:23,670
+Qual masso che dal vertice
+
+8
+00:00:23,670 --> 00:00:25,780
+Di lunga erta montana,
+
+9
+00:00:25,780 --> 00:00:27,620
+Abbandonato all’impeto
+
+10
+00:00:27,620 --> 00:00:29,190
+Di rumorosa frana,
+
+11
+00:00:29,190 --> 00:00:30,950
+Per lo scheggiato calle
+
+12
+00:00:30,950 --> 00:00:32,850
+Precipitando a valle,
+
+13
+00:00:32,850 --> 00:00:35,160
+Batte sul fondo e sta;
+
+14
+00:00:35,160 --> 00:00:37,930
+Là dove cadde, immobile
+
+15
+00:00:37,930 --> 00:00:39,970
+Giace in sua lenta mole;
+
+16
+00:00:39,970 --> 00:00:42,150
+Nè, per mutar di secoli,
+
+17
+00:00:42,150 --> 00:00:43,990
+Fia che riveda il sole
+
+18
+00:00:43,990 --> 00:00:46,010
+Della sua cima antica,
+
+19
+00:00:46,010 --> 00:00:47,940
+Se una virtude amica
+
+20
+00:00:47,940 --> 00:00:49,800
+In alto nol trarrà:
+
+21
+00:00:49,800 --> 00:00:52,190
+Tal si giaceva il misero
+
+22
+00:00:52,190 --> 00:00:54,270
+Figliol del fallo primo,
+
+23
+00:00:54,270 --> 00:00:56,450
+Dal dì che un’ineffabile
+
+24
+00:00:56,450 --> 00:00:58,400
+Ira promessa all’imo
+
+25
+00:00:58,400 --> 00:01:00,350
+D’ogni malor gravollo,
+
+26
+00:01:00,350 --> 00:01:02,450
+Donde il superbo collo
+
+27
+00:01:02,450 --> 00:01:04,010
+Più non potea levar.
+
+28
+00:01:04,010 --> 00:01:07,760
+Qual mai tra i nati all’odio,
+
+29
+00:01:07,760 --> 00:01:09,950
+Quale era mai persona,
+
+30
+00:01:09,950 --> 00:01:11,960
+Che al Santo inaccessibile
+
+31
+00:01:11,960 --> 00:01:14,440
+Potesse dir: perdona?
+
+32
+00:01:14,440 --> 00:01:16,840
+Far novo patto eterno?
+
+33
+00:01:16,840 --> 00:01:18,770
+Al vincitore inferno
+
+34
+00:01:18,770 --> 00:01:21,160
+La preda sua strappar?
+
+35
+00:01:21,160 --> 00:01:23,850
+Ecco ci è nato un Pargolo,
+
+36
+00:01:23,850 --> 00:01:26,120
+Ci fu largito un Figlio:
+
+37
+00:01:26,120 --> 00:01:28,740
+Le avverse forze tremano
+
+38
+00:01:28,740 --> 00:01:30,860
+Al mover del suo ciglio:
+
+39
+00:01:30,860 --> 00:01:33,400
+All’uom la mano Ei porge,
+
+40
+00:01:33,400 --> 00:01:36,060
+Che si ravviva, e sorge
+
+41
+00:01:36,060 --> 00:01:38,440
+Oltre l’antico onor.
+
+42
+00:01:38,440 --> 00:01:40,810
+Dalle magioni eteree
+
+43
+00:01:40,810 --> 00:01:43,750
+Sgorga una fonte, e scende,
+
+44
+00:01:43,750 --> 00:01:45,690
+E nel borron de’ triboli
+
+45
+00:01:45,690 --> 00:01:47,470
+Vivida si distende:
+
+46
+00:01:47,470 --> 00:01:49,750
+Stillano mèle i tronchi
+
+47
+00:01:49,750 --> 00:01:51,930
+Dove copriano i bronchi,
+
+48
+00:01:51,930 --> 00:01:54,190
+Ivi germoglia il fior.
+
+49
+00:01:54,190 --> 00:01:57,470
+O Figlio, o Tu cui genera
+
+50
+00:01:57,470 --> 00:01:59,860
+L’Eterno, eterno seco;
+
+51
+00:01:59,860 --> 00:02:01,870
+Qual ti può dir de’ secoli:
+
+52
+00:02:01,870 --> 00:02:04,460
+Tu cominciasti meco?
+
+53
+00:02:04,460 --> 00:02:07,550
+Tu sei: del vasto empireo
+
+54
+00:02:07,550 --> 00:02:09,600
+Non ti comprende il giro:
+
+55
+00:02:09,600 --> 00:02:12,000
+La tua parola il fe’.
+
+56
+00:02:12,000 --> 00:02:14,850
+E Tu degnasti assumere
+
+57
+00:02:14,850 --> 00:02:17,030
+Questa creata argilla?
+
+58
+00:02:17,030 --> 00:02:20,270
+Qual merto suo, qual grazia
+
+59
+00:02:20,270 --> 00:02:22,870
+A tanto onor sortilla?
+
+60
+00:02:22,870 --> 00:02:25,910
+Se in suo consiglio ascoso
+
+61
+00:02:25,910 --> 00:02:28,610
+Vince il perdon, pietoso
+
+62
+00:02:28,610 --> 00:02:31,290
+Immensamente Egli è.
+
+63
+00:02:31,290 --> 00:02:34,780
+Oggi Egli è nato: ad Efrata,
+
+64
+00:02:34,780 --> 00:02:36,750
+Vaticinato ostello,
+
+65
+00:02:36,750 --> 00:02:38,960
+Ascese un’alma Vergine,
+
+66
+00:02:38,960 --> 00:02:41,040
+La gloria d’Israello,
+
+67
+00:02:41,040 --> 00:02:43,390
+Grave di tal portato:
+
+68
+00:02:43,390 --> 00:02:45,610
+Da cui promise è nato,
+
+69
+00:02:45,610 --> 00:02:47,920
+Donde era atteso uscì.
+
+70
+00:02:47,920 --> 00:02:50,400
+La mira Madre in poveri
+
+71
+00:02:50,400 --> 00:02:52,990
+Panni il Figliol compose,
+
+72
+00:02:52,990 --> 00:02:54,940
+E nell’umil presepio
+
+73
+00:02:54,940 --> 00:02:56,950
+Soavemente il pose;
+
+74
+00:02:56,950 --> 00:02:59,510
+E l’adorò: beata!
+
+75
+00:02:59,510 --> 00:03:01,960
+Innanzi al Dio prostrata,
+
+76
+00:03:01,960 --> 00:03:04,090
+Che il puro sen le aprì.
+
+77
+00:03:04,090 --> 00:03:07,110
+L’Angel del cielo, agli uomini
+
+78
+00:03:07,110 --> 00:03:08,970
+Nunzio di tanta sorte,
+
+79
+00:03:08,970 --> 00:03:11,140
+Non de’ potenti volgesi
+
+80
+00:03:11,140 --> 00:03:13,060
+Alle vegliate porte;
+
+81
+00:03:13,060 --> 00:03:15,140
+Ma tra i pastor devoti,
+
+82
+00:03:15,140 --> 00:03:17,340
+Al duro mondo ignoti,
+
+83
+00:03:17,340 --> 00:03:19,620
+Subito in luce appar.
+
+84
+00:03:19,620 --> 00:03:22,350
+E intorno a Lui, per l’ampia
+
+85
+00:03:22,350 --> 00:03:24,350
+Notte calati a stuolo,
+
+86
+00:03:24,350 --> 00:03:26,710
+Mille celesti strinsero
+
+87
+00:03:26,710 --> 00:03:28,700
+Il fiammeggiante volo;
+
+88
+00:03:28,700 --> 00:03:31,040
+E accesi in dolce zelo,
+
+89
+00:03:31,040 --> 00:03:33,180
+Come si canta in cielo,
+
+90
+00:03:33,180 --> 00:03:35,440
+A Dio gloria cantar.
+
+91
+00:03:35,440 --> 00:03:37,880
+L’allegro inno seguirono,
+
+92
+00:03:37,880 --> 00:03:40,040
+Tornando al firmamento:
+
+93
+00:03:40,040 --> 00:03:42,070
+Tra le varcate nuvole
+
+94
+00:03:42,070 --> 00:03:45,010
+Allontanossi, e lento
+
+95
+00:03:45,010 --> 00:03:47,210
+Il suon sacrato ascese,
+
+96
+00:03:47,210 --> 00:03:49,300
+Fin che più nulla intese
+
+97
+00:03:49,300 --> 00:03:51,550
+La compagnia fedel.
+
+98
+00:03:51,550 --> 00:03:54,690
+Senza indugiar, cercarono
+
+99
+00:03:54,690 --> 00:03:56,230
+L’albergo poveretto
+
+100
+00:03:56,230 --> 00:03:58,860
+Que’ fortunati, e videro,
+
+101
+00:03:58,860 --> 00:04:00,930
+Siccome a lor fu detto,
+
+102
+00:04:00,930 --> 00:04:03,010
+Videro in panni avvolto,
+
+103
+00:04:03,010 --> 00:04:04,990
+In un presepe accolto,
+
+104
+00:04:04,990 --> 00:04:07,580
+Vagire il Re del Ciel.
+
+105
+00:04:07,580 --> 00:04:11,150
+Dormi, o Fanciul; non piangere;
+
+106
+00:04:11,150 --> 00:04:14,010
+Dormi, o Fanciul celeste:
+
+107
+00:04:14,010 --> 00:04:16,310
+Sovra il tuo capo stridere
+
+108
+00:04:16,310 --> 00:04:18,590
+Non osin le tempeste,
+
+109
+00:04:18,590 --> 00:04:20,720
+Use sull’empia terra,
+
+110
+00:04:20,720 --> 00:04:22,600
+Come cavalli in guerra,
+
+111
+00:04:22,600 --> 00:04:24,820
+Correr davanti a Te.
+
+112
+00:04:24,820 --> 00:04:28,730
+Dormi, o Celeste: i popoli
+
+113
+00:04:28,730 --> 00:04:30,910
+Chi nato sia non sanno;
+
+114
+00:04:30,910 --> 00:04:33,040
+Ma il dì verrà che nobile
+
+115
+00:04:33,040 --> 00:04:35,390
+Retaggio tuo saranno;
+
+116
+00:04:35,390 --> 00:04:37,740
+Che in quell’umil riposo,
+
+117
+00:04:37,740 --> 00:04:39,700
+Che nella polve ascoso,
+
+118
+00:04:39,700 --> 00:04:42,120
+Conosceranno il Re.
+
+119
+00:04:43,800 --> 00:04:48,100
+End of
+Il Natale
+by
+Alessandro Manzoni
+
+120
+00:04:52,160 --> 00:04:53,160
+
+
