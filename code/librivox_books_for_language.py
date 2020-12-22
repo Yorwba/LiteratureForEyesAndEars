@@ -53,7 +53,7 @@ def main(argv):
     matches = [
         book
         for book in books
-        if language in book['language']
+        if (not language) or language == book['language']
         and mintime < book['totaltimesecs'] < maxtime
     ]
 
