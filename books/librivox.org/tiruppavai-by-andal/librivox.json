@@ -4,22 +4,18 @@
       "authors": [
         {
           "dob": "7th",
-          "dod": "8th Centur",
+          "dod": "8th Century",
           "first_name": "",
           "id": "458",
           "last_name": "Andal"
         }
       ],
       "copyright_year": "800",
-      "description": "<p>The Tiruppavai is a collection of thirty stanzas (paasuram) in Tamil written by Andal, in praise of the God Tirumal or Vishnu. It is part of Divya Prabandha, a work of the twelve Alvars, and is important in Tamil literature. <br>(Summary from Wikipedia)\n<br></br>\nஆண்டாள் அருளிச்செய்தத் திருப்பாவை\n\nபன்னிரண்டு ஆழ்வார்களில் ஒரே பெண் ஆழ்வாரான ஆண்டாள் (சூடிக்கொடுத்த சுடர்கொடி), திருமாலையே எண்ணி இயற்றிய இந்நூல் முப்பது பாசுரங்களைக் கொண்டது. பன்னிரண்டு ஆழ்வார்களின் தொகுப்பான திவ்யப்பிரபந்தத்தின் ஒரு முக்கியப் பகுதியாகவும், தமிழ் இலக்கியத்தில் மிக முக்கியமான நூலாகவும் இந்நூல் விளங்குகிறது.\nதிருமாலுக்கு உகந்த மாதமான மார்கழி மாதத்தில் அவருக்கு செய்வனவற்றைப் பக்தியுடன் செய்து வந்தால் அத்தனை அருளும் நம்மை வந்து சேரும் என்பது ஆண்டாளின் நம்பிக்கை. இதனால், காலையில் திருமாலை வேண்ட, உறங்கிக் கொண்டிருந்தத் தன் தோழிகளையும் இப்பாடல்களைப் பாடியே எழுப்பித் தன்னுடன் குளத்தில் குளிக்கவும், மலர்களைச் சேகரிக்கவும், மாலையாய்த் தொடுக்கவும், திருமாலைத் தரிசிக்கவும் அழைத்துச் சென்றார், ஆண்டாள்.\nமார்கழி மாதத்தின் போது கன்னிப் பெண்கள் இன்னமும் இந்தப் பாடல்களைப் பாடித்தான் தனக்கு ஒரு நல்ல வாழ்க்கை அமைய வேண்டும் என்று வேண்டுகிறார்கள்.\n(நீரு ஐயர் எழுதிய முகவுரை)</p>",
+      "description": "<p>The Thiruppavai is a collection of thirty stanzas (paasuram) in Tamil written by Andal, in praise of the God Tirumal or Vishnu. It is part of Divya Prabandha, a work of the twelve Alvars, and is important in Tamil literature. <br>(Summary from Wikipedia)\n<br></br>\nஆண்டாள் அருளிச்செய்தத் திருப்பாவை\n\nபன்னிரண்டு ஆழ்வார்களில் ஒரே பெண் ஆழ்வாரான ஆண்டாள் (சூடிக்கொடுத்த சுடர்கொடி), திருமாலையே எண்ணி இயற்றிய இந்நூல் முப்பது பாசுரங்களைக் கொண்டது. பன்னிரண்டு ஆழ்வார்களின் தொகுப்பான திவ்யப்பிரபந்தத்தின் ஒரு முக்கியப் பகுதியாகவும், தமிழ் இலக்கியத்தில் மிக முக்கியமான நூலாகவும் இந்நூல் விளங்குகிறது.\nதிருமாலுக்கு உகந்த மாதமான மார்கழி மாதத்தில் அவருக்கு செய்வனவற்றைப் பக்தியுடன் செய்து வந்தால் அத்தனை அருளும் நம்மை வந்து சேரும் என்பது ஆண்டாளின் நம்பிக்கை. இதனால், காலையில் திருமாலை வேண்ட, உறங்கிக் கொண்டிருந்தத் தன் தோழிகளையும் இப்பாடல்களைப் பாடியே எழுப்பித் தன்னுடன் குளத்தில் குளிக்கவும், மலர்களைச் சேகரிக்கவும், மாலையாய்த் தொடுக்கவும், திருமாலைத் தரிசிக்கவும் அழைத்துச் சென்றார், ஆண்டாள்.\nமார்கழி மாதத்தின் போது கன்னிப் பெண்கள் இன்னமும் இந்தப் பாடல்களைப் பாடித்தான் தனக்கு ஒரு நல்ல வாழ்க்கை அமைய வேண்டும் என்று வேண்டுகிறார்கள்.\n(நீரு ஐயர் எழுதிய முகவுரை)</p>",
       "genres": [
         {
           "id": "25",
           "name": "Poetry"
-        },
-        {
-          "id": "36",
-          "name": "*Non-fiction"
         },
         {
           "id": "102",
@@ -33,7 +29,7 @@
         {
           "file_name": null,
           "id": "22193",
-          "language": "English",
+          "language": "Tamil",
           "listen_url": "",
           "playtime": "167",
           "readers": [
@@ -48,7 +44,7 @@
         {
           "file_name": null,
           "id": "22194",
-          "language": "English",
+          "language": "Tamil",
           "listen_url": "",
           "playtime": "154",
           "readers": [
@@ -63,7 +59,7 @@
         {
           "file_name": null,
           "id": "22195",
-          "language": "English",
+          "language": "Tamil",
           "listen_url": "",
           "playtime": "163",
           "readers": [
@@ -78,7 +74,7 @@
         {
           "file_name": null,
           "id": "22196",
-          "language": "English",
+          "language": "Tamil",
           "listen_url": "",
           "playtime": "156",
           "readers": [
@@ -93,7 +89,7 @@
         {
           "file_name": null,
           "id": "22197",
-          "language": "English",
+          "language": "Tamil",
           "listen_url": "",
           "playtime": "156",
           "readers": [
@@ -108,7 +104,7 @@
         {
           "file_name": null,
           "id": "22198",
-          "language": "English",
+          "language": "Tamil",
           "listen_url": "",
           "playtime": "168",
           "readers": [
@@ -121,16 +117,16 @@
           "title": "06 - Paasurangal 26-30"
         }
       ],
-      "title": "Tiruppavai",
+      "title": "Thiruppavai",
       "totaltime": "0:16:04",
       "totaltimesecs": 964,
       "translators": [],
       "url_iarchive": "http://www.archive.org/details/tiruppavai_nr_librivox",
       "url_librivox": "https://librivox.org/tiruppavai-by-andal/",
       "url_other": null,
-      "url_project": "http://en.wikipedia.org/wiki/Tiruppavai",
+      "url_project": "http://en.wikipedia.org/wiki/Thiruppavai",
       "url_rss": "https://librivox.org/rss/3860",
-      "url_text_source": "http://www.ramanuja.org/sv/alvars/andal/tiruppavai.html",
+      "url_text_source": "https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%B5%E0%AF%88",
       "url_zip_file": "http://www.archive.org/download/tiruppavai_nr_librivox/tiruppavai_nr_librivox_64kb_mp3.zip"
     }
   }
