@@ -29,6 +29,7 @@ language_codes = {
     'Russian': 'rus',
     'Spanish': 'spa',
     'Swedish': 'swe',
+    'Tamil': 'tam',
 }
 
 
