@@ -2,15 +2,16 @@
 
 import align_json
 import argparse
-from collections import defaultdict
+from collections import Counter, defaultdict
 import json
 import math
 import subprocess
 import sys
+import unicodedata
 
 
-def ass_header(language=None, use_template=False):
-    styles = defaultdict(
+def styles_for_language(language):
+    return defaultdict(
         lambda: {
             "Default": "DejaVu Serif,100",
             "Standout": "Anaktoria,150",
@@ -27,14 +28,23 @@ def ass_header(language=None, use_template=False):
             "Default": "Noto Serif CJK JP,120",
             "Standout": "Noto Serif CJK JP,180",
         },
+        tam={
+            "TamilDefault": "Lohit Tamil,180",
+            "TamilStandout": "Lohit Tamil,240",
+            "Default": "DejaVu Serif,100",
+            "Standout": "Anaktoria,150",
+        },
         yue={
             "Default": "Noto Serif CJK TC,120", # should be HK, but that's only Sans
             "Standout": "Noto Serif CJK TC,180",
         },
     )[language]
-    karaoke_template = (
-        'Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template syl furi,{\pos($x,$y)\k!syl.start_time/10!\!syl.tag!$kdur}',
-        'Comment: 0,0:00:00.00,0:00:00.00,Standout,,0,0,0,template syl furi,{\pos($x,$y)\k!syl.start_time/10!\!syl.tag!$kdur}',
+
+
+def ass_header(styles, use_template=False):
+    karaoke_template = tuple(
+        'Comment: 0,0:00:00.00,0:00:00.00,'+style+',,0,0,0,template syl furi,{\pos($x,$y)\k!syl.start_time/10!\!syl.tag!$kdur}'
+        for style in styles
     ) if use_template else ()
     return '\n'.join((
         '[Script Info]',
@@ -46,8 +56,10 @@ def ass_header(language=None, use_template=False):
         '',
         '[V4+ Styles]',
         'Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding',
-        f'Style: Default,{styles["Default"]},&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,2,0,4,90,90,90,0',
-        f'Style: Standout,{styles["Standout"]},&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,3,0,5,90,90,90,0',
+    ) + tuple(
+        f'Style: {name},{style},&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,2,0,{5 if "Standout" in name else 4},90,90,90,0'
+        for name, style in styles.items()
+    ) + (
         '',
         '[Events]',
         'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text',
@@ -122,6 +134,56 @@ def ass_text(alignment, furigana=False):
     return text
 
 
+def ass_styled_text(text, styles, suffix):
+    styled_spans = []
+    tag = False
+    for c in text:
+        if tag:
+            style = None
+            if c == '}':
+                tag = False
+        elif c == '{':
+            style = None
+            tag = True
+        elif not c.isprintable() or c.isspace():
+            style = None
+        else:
+            script_style = unicodedata.name(c).split()[0].title() + suffix
+            if script_style in styles:
+                style = script_style
+            else:
+                style = suffix
+        if styled_spans and styled_spans[-1][0] == style:
+            styled_spans[-1] = (style, styled_spans[-1][1]+c)
+        else:
+            styled_spans.append((style, c))
+
+    style_counts = Counter()
+    for i in range(len(styled_spans)):
+        span_style, span_text = styled_spans[i]
+        if not span_style:
+            span_style = min(
+                (span[0] for span in (styled_spans[i-1:i]+styled_spans[i+1:i+2])),
+                default=suffix,
+                key=len,
+            )
+            styled_spans[i] = span_style, span_text
+        style_counts[span_style] += len(span_text)
+
+    base_style = style_counts.most_common(1)[0][0]
+    styled_text = ''
+    current_style = base_style
+    for span_style, span_text in styled_spans:
+        if span_style != current_style:
+            if span_style == base_style:
+                styled_text += '{\\r}'
+            else:
+                styled_text += '{\\r'+span_style+'}'
+        styled_text += span_text
+        current_style = span_style
+    return base_style, styled_text
+
+
 def main(argv):
     parser = argparse.ArgumentParser(
         description='ASS file generator')
@@ -139,16 +201,20 @@ def main(argv):
     if args.language == 'cmn' and 'cmn-Hans' in args.output:
         args.language = 'cmn_Hans'
 
+    styles = styles_for_language(args.language)
+
     with open(args.output, 'w') as out:
-        print(ass_header(language=args.language, use_template=use_template), file=out)
+        print(ass_header(styles=styles, use_template=use_template), file=out)
         for alignment in align_json.vad_pad(alignments):
-            style = 'Standout' if align_json.is_standout(alignment) else 'Default'
+            style_suffix = 'Standout' if align_json.is_standout(alignment) else 'Default'
+            text = ass_text(alignment, furigana=args.furigana)
+            base_style, styled_text = ass_styled_text(text, styles, style_suffix)
             print(
                 'Dialogue: 0,{},{},{},,0,0,0,,{}'.format(
                     format_ass_time(alignment['start_time']),
                     format_ass_time(alignment['end_time']),
-                    style,
-                    ass_text(alignment, furigana=args.furigana),
+                    base_style,
+                    styled_text,
                 ),
                 file=out
             )
