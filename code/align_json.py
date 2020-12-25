@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import unicodedata
 
 
 def span_text(alignment):
@@ -53,9 +54,14 @@ def span_ruby(alignment):
             return ''.join((prefix, left, text, middle, speech, right, suffix))
 
 
+def unicode_last_base(s):
+    """The last character, but ignoring modifiers."""
+    return next(c for c in s[::-1] if unicodedata.category(c)[0] != 'M')
+
+
 def is_standout(paragraph):
     return all(
-        line[-1].isalnum()
+        unicode_last_base(line).isalnum()
         for line in span_text(paragraph).splitlines()
     )
 
