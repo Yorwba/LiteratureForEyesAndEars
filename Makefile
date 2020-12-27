@@ -14,7 +14,7 @@ assets/background_tiny.png: assets/background_full_hd.png
 	ffmpeg -y \
 		-loop 1 -i "$<" \
 		-i "$*".mp3 \
-		-vf subtitles=f="$*".ass \
+		-vf ass=f="$*".ass \
 		-shortest \
 		-pix_fmt yuvj420p \
 		"$@" \
@@ -35,7 +35,7 @@ assets/background_tiny.png: assets/background_full_hd.png
 	ffmpeg -y \
 		-loop 1 -i "$<" \
 		-i "$*".mp3 \
-		-vf subtitles=f="$*"_furi.ass \
+		-vf ass=f="$*"_furi.ass \
 		-shortest \
 		-pix_fmt yuvj420p \
 		"$@" \
