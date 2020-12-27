@@ -254,6 +254,22 @@
           "title": "Polish - Czaty"
         },
         {
+          "authors": [
+            {
+              "dob": "1858",
+              "dod": "1945",
+              "first_name": "Wacław",
+              "id": "14161",
+              "last_name": "Sieroszewski"
+            }
+          ],
+          "description": "",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            }
+          ],
           "file_name": "msw022_15_polowanie_sieroszewski_pn_64kb.mp3",
           "id": "464802",
           "language": "Polish",
@@ -266,7 +282,8 @@
             }
           ],
           "section_number": "15",
-          "title": "Polish - Polowanie na wieloryby"
+          "title": "Polowanie na wieloryby",
+          "url_text_source": "https://pl.wikisource.org/wiki/Polowanie_na_wieloryby_(Sieroszewski,_1938)"
         },
         {
           "file_name": "msw022_16_leiaurea_silva_loh_64kb.mp3",
