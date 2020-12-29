@@ -1,0 +1,660 @@
+{
+  "books": {
+    "38": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "<br />This year's Christmas collection of short stories and non-fiction, a play, poems, and bible readings features readings in English, Bulgarian, French, German, Italian and Swedish. <br /><br />\n\nCast list for <strong>The Christmas Dinner</strong>:<br />\nMother Goose: <a href=\"https://librivox.org/reader/3816\">Bev J Stevens</a><br>Grandfather: <a href=\"https://librivox.org/reader/8539\">Ray Kasper</a><br>Grandmother: <a href=\"https://librivox.org/reader/9490\">Ronelle Spiegel</a><br>Father: <a href=\"https://librivox.org/reader/9337\">J Korth</a><br>Mother: <a href=\"https://librivox.org/reader/8051\">Maria Kasper</a><br>Walter: <a href=\"https://librivox.org/reader/6281\">Beth Thomas</a><br>Gertrude: <a href=\"https://librivox.org/reader/8072\">Kimberly Kraus</a><br>Santa Claus: <a href=\"https://librivox.org/reader/5717\">Phil Chenevert</a><br>Narrator: <a href=\"https://librivox.org/reader/3645\">MaryAnn Spiegel</a><br><br>Edited by: <a href=\"https://librivox.org/reader/3645\">MaryAnn Spiegel</a><br /><br />",
+      "genres": [
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "9145",
+      "language": "Multilingual",
+      "num_sections": "39",
+      "sections": [
+        {
+          "file_name": "csw14_01_topmasttickle_64kb.mp3",
+          "id": "319081",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_topmasttickle_duncan_dw_64kb.mp3",
+          "playtime": "1826",
+          "readers": [
+            {
+              "display_name": "David Wales",
+              "reader_id": "6454"
+            }
+          ],
+          "section_number": "1",
+          "title": "Christmas Eve At Topmast Tickle"
+        },
+        {
+          "file_name": "csw14_02_selectedversesfromluke_64kb.mp3",
+          "id": "319088",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_selectedversesfromluke_luke_gg_64kb.mp3",
+          "playtime": "800",
+          "readers": [
+            {
+              "display_name": "Greg Giordano",
+              "reader_id": "8011"
+            }
+          ],
+          "section_number": "2",
+          "title": "Selected Verses from the Gospel According to Luke"
+        },
+        {
+          "file_name": "csw14_03_weihnachtsabend_64kb.mp3",
+          "id": "319092",
+          "language": "German",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_weihnachtsabend_may_db_64kb.mp3",
+          "playtime": "183",
+          "readers": [
+            {
+              "display_name": "DomBombadil",
+              "reader_id": "9515"
+            }
+          ],
+          "section_number": "3",
+          "title": "Weihnachtsabend"
+        },
+        {
+          "file_name": "csw14_04_christmasdaymorning_64kb.mp3",
+          "id": "319078",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmasdaymorning_richmond_mas_64kb.mp3",
+          "playtime": "2218",
+          "readers": [
+            {
+              "display_name": "MaryAnn",
+              "reader_id": "3645"
+            }
+          ],
+          "section_number": "4",
+          "title": "On Christmas Day in the Morning"
+        },
+        {
+          "file_name": "csw14_05_christmasdayevening_64kb.mp3",
+          "id": "319082",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmasdayevening_richmond_mas_64kb.mp3",
+          "playtime": "3680",
+          "readers": [
+            {
+              "display_name": "MaryAnn",
+              "reader_id": "3645"
+            }
+          ],
+          "section_number": "5",
+          "title": "On Christmas Day in the Evening"
+        },
+        {
+          "file_name": "csw14_06_asaphsheafeschristmas_64kb.mp3",
+          "id": "319085",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_asaphsheafeschristmas_hale_mk_64kb.mp3",
+          "playtime": "615",
+          "readers": [
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            }
+          ],
+          "section_number": "6",
+          "title": "Asaph Sheafe's Christmas"
+        },
+        {
+          "file_name": "csw14_07_whatchristmasis_64kb.mp3",
+          "id": "319091",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_whatchristmasis_dickens_eh_64kb.mp3",
+          "playtime": "762",
+          "readers": [
+            {
+              "display_name": "Ed Humpal",
+              "reader_id": "9393"
+            }
+          ],
+          "section_number": "7",
+          "title": "What Christmas Is As We Grow Older"
+        },
+        {
+          "file_name": "csw14_08_tomten_64kb.mp3",
+          "id": "319089",
+          "language": "Swedish",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_tomten_rydberg_jk_64kb.mp3",
+          "playtime": "262",
+          "readers": [
+            {
+              "display_name": "J Korth",
+              "reader_id": "9337"
+            }
+          ],
+          "section_number": "8",
+          "title": "Tomten"
+        },
+        {
+          "file_name": "csw14_09_openletter_64kb.mp3",
+          "id": "325985",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_openletter_hobhouse_rb_64kb.mp3",
+          "playtime": "277",
+          "readers": [
+            {
+              "display_name": "Rob Marland",
+              "reader_id": "8164"
+            }
+          ],
+          "section_number": "9",
+          "title": "The Open Christmas Letter, from Jus Suffragii, IWSA journal, Jan. 1915, signed by 100+ leading suffragettes and politically involved women of Manchester"
+        },
+        {
+          "file_name": "csw14_10_fireatrosssfarm_64kb.mp3",
+          "id": "319090",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_fireatrosssfarm_lawson_sote_64kb.mp3",
+          "playtime": "329",
+          "readers": [
+            {
+              "display_name": "Son of the Exiles",
+              "reader_id": "8879"
+            }
+          ],
+          "section_number": "10",
+          "title": "The Fire at Ross's Farm"
+        },
+        {
+          "file_name": "csw14_11_christmascrackers_64kb.mp3",
+          "id": "319079",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmascrackers_larkin_rg_64kb.mp3",
+          "playtime": "1020",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "11",
+          "title": "Christmas Crackers"
+        },
+        {
+          "file_name": "csw14_12_selectedversesfrommatthew_64kb.mp3",
+          "id": "319087",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_selectedversesfrommatthew_matthew_gg_64kb.mp3",
+          "playtime": "368",
+          "readers": [
+            {
+              "display_name": "Greg Giordano",
+              "reader_id": "8011"
+            }
+          ],
+          "section_number": "12",
+          "title": "Selected Verses from the Gospel According to Matthew"
+        },
+        {
+          "file_name": "csw14_13_christmasday_64kb.mp3",
+          "id": "325770",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmasday_rossetti_arv_64kb.mp3",
+          "playtime": "98",
+          "readers": [
+            {
+              "display_name": "Alisson Veldhuis",
+              "reader_id": "4712"
+            }
+          ],
+          "section_number": "13",
+          "title": "Christmas Day"
+        },
+        {
+          "file_name": "csw14_14_christ_64kb.mp3",
+          "id": "319096",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christ_flecker_alp_64kb.mp3",
+          "playtime": "119",
+          "readers": [
+            {
+              "display_name": "Algy Pug",
+              "reader_id": "4705"
+            }
+          ],
+          "section_number": "14",
+          "title": "Christ"
+        },
+        {
+          "file_name": "csw14_15_christmasfog_64kb.mp3",
+          "id": "319084",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmasfog_winter_rg_64kb.mp3",
+          "playtime": "2402",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "15",
+          "title": "A Christmas Fog"
+        },
+        {
+          "file_name": "csw14_16_signsofchristmas_64kb.mp3",
+          "id": "319105",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_signsofchristmas_lees_lkp_64kb.mp3",
+          "playtime": "137",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "16",
+          "title": "Signs of Christmas"
+        },
+        {
+          "file_name": "csw14_17_leciaramelle_64kb.mp3",
+          "id": "319098",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_leciaramelle_pascoli_bm_64kb.mp3",
+          "playtime": "176",
+          "readers": [
+            {
+              "display_name": "BeniaminoMassimo",
+              "reader_id": "8582"
+            }
+          ],
+          "section_number": "17",
+          "title": "'Le ciaramelle', from Canti di Castelvecchio"
+        },
+        {
+          "file_name": "csw14_18_aliceschristmastree_64kb.mp3",
+          "id": "319086",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_aliceschristmastree_hale_mk_64kb.mp3",
+          "playtime": "1829",
+          "readers": [
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            }
+          ],
+          "section_number": "18",
+          "title": "Alice's Christmas Tree"
+        },
+        {
+          "file_name": "csw14_19_christmaswheels_64kb.mp3",
+          "id": "319093",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmaswheels_allen_dw_64kb.mp3",
+          "playtime": "1117",
+          "readers": [
+            {
+              "display_name": "David Wales",
+              "reader_id": "6454"
+            }
+          ],
+          "section_number": "19",
+          "title": "Christmas On Wheels"
+        },
+        {
+          "file_name": "csw14_20_soldierschristmas_64kb.mp3",
+          "id": "319080",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_soldierschristmas_oliver_rg_64kb.mp3",
+          "playtime": "1797",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "20",
+          "title": "A Soldier's Christmas"
+        },
+        {
+          "file_name": "csw14_21_christmaseveryday_64kb.mp3",
+          "id": "319094",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmaseveryday_howells_bh_64kb.mp3",
+          "playtime": "803",
+          "readers": [
+            {
+              "display_name": "Brian Hostick",
+              "reader_id": "9462"
+            },
+            {
+              "display_name": "Jessica Mells",
+              "reader_id": "9692"
+            }
+          ],
+          "section_number": "21",
+          "title": "Christmas Every Day"
+        },
+        {
+          "file_name": "csw14_22_ceremoniesforchristmas_64kb.mp3",
+          "id": "319107",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_ceremoniesforchristmas_herrick_lkp_64kb.mp3",
+          "playtime": "67",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "22",
+          "title": "Ceremonies for Christmas"
+        },
+        {
+          "file_name": "csw14_23_lacharlotte_64kb.mp3",
+          "id": "325988",
+          "language": "French",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_lacharlotte_rictus_hr_64kb.mp3",
+          "playtime": "590",
+          "readers": [
+            {
+              "display_name": "Herman Roskams",
+              "reader_id": "5764"
+            }
+          ],
+          "section_number": "23",
+          "title": "La Charlotte prie Notre-Dame le soir du Réveillon"
+        },
+        {
+          "file_name": "csw14_24_balladechristmasghosts_64kb.mp3",
+          "id": "319095",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_balladechristmasghosts_lang_lr_64kb.mp3",
+          "playtime": "147",
+          "readers": [
+            {
+              "display_name": "Lars Rolander (1942-2016)",
+              "reader_id": "2234"
+            }
+          ],
+          "section_number": "24",
+          "title": "Ballade of Christmas Ghosts"
+        },
+        {
+          "file_name": "csw14_25_christmascarol_64kb.mp3",
+          "id": "319097",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmascarol_chesterton_rgs_64kb.mp3",
+          "playtime": "73",
+          "readers": [
+            {
+              "display_name": "Robert G. Smith",
+              "reader_id": "7173"
+            }
+          ],
+          "section_number": "25",
+          "title": "A  Christmas Carol"
+        },
+        {
+          "file_name": "csw14_26_bulletsandbillets_64kb.mp3",
+          "id": "325986",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_bulletsandbillets_bairnsfather_mk_64kb.mp3",
+          "playtime": "895",
+          "readers": [
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            }
+          ],
+          "section_number": "26",
+          "title": "Christmas Eve - A Lull in Hate - Briton Cum Boche, from Bullets and Billets (1916)"
+        },
+        {
+          "file_name": "csw14_27_koledendar_64kb.mp3",
+          "id": "325839",
+          "language": "Bulgarian",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_koledendar_vazov_rap_64kb.mp3",
+          "playtime": "937",
+          "readers": [
+            {
+              "display_name": "Rapunzelina",
+              "reader_id": "6924"
+            }
+          ],
+          "section_number": "27",
+          "title": "Koleden dar (Коледен дар)"
+        },
+        {
+          "file_name": "csw14_28_christmastrail_64kb.mp3",
+          "id": "319099",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmastrail_clark_eh_64kb.mp3",
+          "playtime": "174",
+          "readers": [
+            {
+              "display_name": "Ed Humpal",
+              "reader_id": "9393"
+            }
+          ],
+          "section_number": "28",
+          "title": "The Christmas Trail"
+        },
+        {
+          "file_name": "csw14_29_giftofthemagi_64kb.mp3",
+          "id": "319100",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_thegiftofthemagi_ohenry_gg_64kb.mp3",
+          "playtime": "903",
+          "readers": [
+            {
+              "display_name": "Greg Giordano",
+              "reader_id": "8011"
+            }
+          ],
+          "section_number": "29",
+          "title": "The Gift of the Magi"
+        },
+        {
+          "file_name": "csw14_30_jestforechristmas_64kb.mp3",
+          "id": "325837",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_jestforechristmas_field_arv_64kb.mp3",
+          "playtime": "205",
+          "readers": [
+            {
+              "display_name": "Alisson Veldhuis",
+              "reader_id": "4712"
+            }
+          ],
+          "section_number": "30",
+          "title": "Jest 'Fore Christmas"
+        },
+        {
+          "file_name": "csw14_31_christmasdinner_64kb.mp3",
+          "id": "319083",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmasdinner_knapp_64kb.mp3",
+          "playtime": "2857",
+          "readers": [
+            {
+              "display_name": "MaryAnn",
+              "reader_id": "3645"
+            },
+            {
+              "display_name": "Bev J Stevens",
+              "reader_id": "3816"
+            },
+            {
+              "display_name": "Phil Chenevert",
+              "reader_id": "5717"
+            },
+            {
+              "display_name": "Beth Thomas (1974-2020)",
+              "reader_id": "6281"
+            },
+            {
+              "display_name": "Maria Kasper",
+              "reader_id": "8051"
+            },
+            {
+              "display_name": "Kimberly Krause",
+              "reader_id": "8072"
+            },
+            {
+              "display_name": "Ray Kasper (1938-2017)",
+              "reader_id": "8539"
+            },
+            {
+              "display_name": "J Korth",
+              "reader_id": "9337"
+            },
+            {
+              "display_name": "Ronelle",
+              "reader_id": "9490"
+            }
+          ],
+          "section_number": "31",
+          "title": "The Christmas Dinner"
+        },
+        {
+          "file_name": "csw14_32_delpresepiocheifece_64kb.mp3",
+          "id": "319101",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_delpresepiocheifece_dacelano_egi_64kb.mp3",
+          "playtime": "559",
+          "readers": [
+            {
+              "display_name": "Enrica Giampieretti",
+              "reader_id": "4974"
+            }
+          ],
+          "section_number": "32",
+          "title": "Del presepio ch'ei fece nel dì del Natale del Signor\", Cap. 30 della Vita prima di S. Francesco d'Assisi"
+        },
+        {
+          "file_name": "csw14_33_keepingchristmas_64kb.mp3",
+          "id": "319102",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_keepingchristmas_vandyke_la_128kg.mp3",
+          "playtime": "306",
+          "readers": [
+            {
+              "display_name": "Olivereading",
+              "reader_id": "8686"
+            }
+          ],
+          "section_number": "33",
+          "title": "Keeping Christmas"
+        },
+        {
+          "file_name": "csw14_34_twelvepoems_64kb.mp3",
+          "id": "319103",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_twelvepoems_various_mas_64kb.mp3",
+          "playtime": "1264",
+          "readers": [
+            {
+              "display_name": "MaryAnn",
+              "reader_id": "3645"
+            }
+          ],
+          "section_number": "34",
+          "title": "Twelve Poems, selected from Christmas in Poetry, Carols and Poems"
+        },
+        {
+          "file_name": "csw14_35_toanoldfogey_64kb.mp3",
+          "id": "319104",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_toanoldfogey_seaman_rg_64kb.mp3",
+          "playtime": "182",
+          "readers": [
+            {
+              "display_name": "Ruth Golding",
+              "reader_id": "2607"
+            }
+          ],
+          "section_number": "35",
+          "title": "To an Old Fogey"
+        },
+        {
+          "file_name": "csw14_36_christmasomnipresent_64kb.mp3",
+          "id": "319106",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmasomnipresent_hunt_lkp_64kb.mp3",
+          "playtime": "314",
+          "readers": [
+            {
+              "display_name": "Lucy Perry",
+              "reader_id": "3615"
+            }
+          ],
+          "section_number": "36",
+          "title": "Christmas Omnipresent"
+        },
+        {
+          "file_name": "csw14_37_weihnachten_64kb.mp3",
+          "id": "325769",
+          "language": "German",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_weihnachten_grillparzer_ccs_64kb.mp3",
+          "playtime": "90",
+          "readers": [
+            {
+              "display_name": "Claudia Salto",
+              "reader_id": "8337"
+            }
+          ],
+          "section_number": "37",
+          "title": "Weihnachten"
+        },
+        {
+          "file_name": "csw14_38_christmastrees_64kb.mp3",
+          "id": "325838",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_christmastrees_frost_arv_64kb.mp3",
+          "playtime": "220",
+          "readers": [
+            {
+              "display_name": "Alisson Veldhuis",
+              "reader_id": "4712"
+            }
+          ],
+          "section_number": "38",
+          "title": "Christmas Trees"
+        },
+        {
+          "file_name": "csw14_39_neathmistletoe_64kb.mp3",
+          "id": "325987",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/ruthieg/csw14_neathmistletoe_ashbysterry_mk_64kb.mp3",
+          "playtime": "66",
+          "readers": [
+            {
+              "display_name": "Mary Kay",
+              "reader_id": "9001"
+            }
+          ],
+          "section_number": "39",
+          "title": "Neath Mistletoe"
+        }
+      ],
+      "title": "Christmas Short Works Collection 2014",
+      "totaltime": "08:31:07",
+      "totaltimesecs": 30667,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/christmasshortworks_2014_1412_librivox",
+      "url_librivox": "https://librivox.org/christmas-short-works-collection-2014/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/9145",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download//christmasshortworks_2014_1412_librivox/christmasshortworks_2014_1412_librivox_64kb_mp3.zip"
+    }
+  }
+}
