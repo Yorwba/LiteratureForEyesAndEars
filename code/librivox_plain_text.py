@@ -56,6 +56,12 @@ def try_get(url, data=None):
                                 text = '\n'.join(html_to_plain_text(z.read(n)) for n in html_files)
                                 encoding = 'utf-8'
                                 text = text.encode(encoding)
+                            elif 'chitanka.info' in url:
+                                text_files = [n for n in z.namelist() if n.endswith('.txt')]
+                                if len(text_files) != 1:
+                                    raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
+                                text = z.read(text_files[0])
+                                encoding = 'utf-8'
                             else:
                                 raise Exception("Didn't expect to get a ZIP file from URL "+url)
                     else:
@@ -226,6 +232,16 @@ def runeberg_plain_text(url):
     return text
 
 
+def chitanka_plain_text(url):
+    split_url = urllib.parse.urlsplit(url)
+    if not split_url.netloc.endswith('chitanka.info'):
+        raise Exception("Not a chitanka.info URL: "+url)
+    work = split_url.path.split('/')[1]
+    zip_file = url+'.txt.zip'
+    text = try_get(zip_file)
+    return text
+
+
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
         source = urllib.parse.unquote(book['url_text_source'])
@@ -238,6 +254,7 @@ if __name__ == '__main__':
                 aozora_plain_text,
                 benyehuda_plain_text,
                 runeberg_plain_text,
+                chitanka_plain_text,
         ):
             try:
                 print(handler(source), end='')

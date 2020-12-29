@@ -13,6 +13,7 @@ def good_source(url):
         'aozora.gr.jp',
         'archive.org',
         'benyehuda.org',
+        'chitanka.info',
         'gutenberg.net.au',
         'gutenberg.org',
         'wikisource.org',
