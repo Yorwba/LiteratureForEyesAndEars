@@ -417,7 +417,23 @@
           "title": "Christmas Eve - A Lull in Hate - Briton Cum Boche, from Bullets and Billets (1916)"
         },
         {
+          "authors": [
+            {
+              "dob": "1850",
+              "dod": "1921",
+              "first_name": "Ivan",
+              "id": "6017",
+              "last_name": "Vazov"
+            }
+          ],
+          "description": "",
           "file_name": "csw14_27_koledendar_64kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            }
+          ],
           "id": "325839",
           "language": "Bulgarian",
           "listen_url": "https://librivox.org/uploads/ruthieg/csw14_koledendar_vazov_rap_64kb.mp3",
@@ -429,7 +445,8 @@
             }
           ],
           "section_number": "27",
-          "title": "Koleden dar (Коледен дар)"
+          "title": "Коледен дар",
+          "url_text_source": "http://chitanka.info/text/5009-koleden-dar"
         },
         {
           "file_name": "csw14_28_christmastrail_64kb.mp3",
