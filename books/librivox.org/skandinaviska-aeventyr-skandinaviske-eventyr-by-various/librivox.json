@@ -128,6 +128,16 @@
           "title": "Hjemmusen og fjeldmusen"
         },
         {
+          "authors": [
+            {
+              "dob": "1812",
+              "dod": "1885",
+              "first_name": "Peter Christen",
+              "id": "1228",
+              "last_name": "Asbjørnsen"
+            }
+          ],
+          "description": "Askeladden og de gode hjelperne er et eventyr om Askeladden fra Asbjørnsen og Moes samlinger av norske folkeeventyr fra omkring 1850. Det er et undereventyr som ble utformet av Peter Chr. Asbjørnsen på grunnlag av oppskrifter fra Gudbrandsdalen. Det ble trykket første gang i Juletræet for 1851 under tittelen «Askeladden, som skulde bygge Skib, der gik baade Land og Vand». Eventyret ble overført til film i 1961 i regi av Ivo Caprino. ( Wikipedia: https://no.wikipedia.org/wiki/Askeladden_og_de_gode_hjelperne )",
           "file_name": "skandinaviskaeventyr_08_various_64kb.mp3",
           "id": "271426",
           "language": "Norwegian",
@@ -140,7 +150,8 @@
             }
           ],
           "section_number": "8",
-          "title": "Askeladden og de gode hjælperne"
+          "title": "Askeladden og de gode hjelperne",
+          "url_text_source": "http://runeberg.org/folkeven/099.html"
         },
         {
           "file_name": "skandinaviskaeventyr_09_various_64kb.mp3",
