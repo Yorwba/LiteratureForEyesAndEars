@@ -1,0 +1,189 @@
+{
+  "books": {
+    "9": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "Dette er en samling skandinaviske eventyr, lest på dansk, svensk eller norsk. This is a collection Scandinavian fairy tales read in Danish, Swedish, and Norwegian. Summary by kathrinee.",
+      "genres": [
+        {
+          "id": "39",
+          "name": "Myths, Legends & Fairy Tales"
+        }
+      ],
+      "id": "7327",
+      "language": "Multilingual",
+      "num_sections": "10",
+      "sections": [
+        {
+          "file_name": "skandinaviskaeventyr_01_various_64kb.mp3",
+          "id": "271420",
+          "language": "Swedish",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_elddonet_t_64kb.mp3",
+          "playtime": "989",
+          "readers": [
+            {
+              "display_name": "Rikard Peterson",
+              "reader_id": "10462"
+            }
+          ],
+          "section_number": "1",
+          "title": "Elddonet"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_02_various_64kb.mp3",
+          "id": "271419",
+          "language": "Danish",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_fyrtoejet_as_64kb.mp3",
+          "playtime": "952",
+          "readers": [
+            {
+              "display_name": "Andreas Søholm",
+              "reader_id": "11903"
+            }
+          ],
+          "section_number": "2",
+          "title": "Fyrtøjet"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_03_various_64kb.mp3",
+          "id": "271421",
+          "language": "Danish",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_svinedrengen_as_64kb.mp3",
+          "playtime": "566",
+          "readers": [
+            {
+              "display_name": "Andreas Søholm",
+              "reader_id": "11903"
+            }
+          ],
+          "section_number": "3",
+          "title": "Svinedrengen"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_04_various_64kb.mp3",
+          "id": "271422",
+          "language": "Danish",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_prinsessenpaerten_ws_64kb.mp3",
+          "playtime": "193",
+          "readers": [
+            {
+              "display_name": "Wyn Stewart",
+              "reader_id": "13169"
+            }
+          ],
+          "section_number": "4",
+          "title": "Prinsessen på ærten"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_05_various_64kb.mp3",
+          "id": "271423",
+          "language": "Norwegian",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_vildender_ke_64kb.mp3",
+          "playtime": "954",
+          "readers": [
+            {
+              "display_name": "Kathrine Engan",
+              "reader_id": "7510"
+            }
+          ],
+          "section_number": "5",
+          "title": "De tolv vildænder"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_06_various_64kb.mp3",
+          "id": "271424",
+          "language": "Norwegian",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_askeladdenkapaad_ke_64kb.mp3",
+          "playtime": "337",
+          "readers": [
+            {
+              "display_name": "Kathrine Engan",
+              "reader_id": "7510"
+            }
+          ],
+          "section_number": "6",
+          "title": "Askeladden, som kapaad med troldet"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_07_various_64kb.mp3",
+          "id": "271425",
+          "language": "Norwegian",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_hjemmusen_ke_64kb.mp3",
+          "playtime": "401",
+          "readers": [
+            {
+              "display_name": "Kathrine Engan",
+              "reader_id": "7510"
+            }
+          ],
+          "section_number": "7",
+          "title": "Hjemmusen og fjeldmusen"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_08_various_64kb.mp3",
+          "id": "271426",
+          "language": "Norwegian",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_askeladdenhjelperne_ke_64kb.mp3",
+          "playtime": "1022",
+          "readers": [
+            {
+              "display_name": "Kathrine Engan",
+              "reader_id": "7510"
+            }
+          ],
+          "section_number": "8",
+          "title": "Askeladden og de gode hjælperne"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_09_various_64kb.mp3",
+          "id": "271427",
+          "language": "Norwegian",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_verden_ke_64kb.mp3",
+          "playtime": "417",
+          "readers": [
+            {
+              "display_name": "Kathrine Engan",
+              "reader_id": "7510"
+            }
+          ],
+          "section_number": "9",
+          "title": "Verden lønner ikke anderledes"
+        },
+        {
+          "file_name": "skandinaviskaeventyr_10_various_64kb.mp3",
+          "id": "467826",
+          "language": "Norwegian",
+          "listen_url": "https://librivox.org/uploads/kathrinee/skandinaviskaeventyr_pandekaka_ke_64kb.mp3",
+          "playtime": "393",
+          "readers": [
+            {
+              "display_name": "Kathrine Engan",
+              "reader_id": "7510"
+            }
+          ],
+          "section_number": "10",
+          "title": "Pandekaka"
+        }
+      ],
+      "title": "Skandinaviska äventyr - Skandinaviske eventyr",
+      "totaltime": "01:43:44",
+      "totaltimesecs": 6224,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/skandinaviskaaventyr_1907_librivox",
+      "url_librivox": "https://librivox.org/skandinaviska-aeventyr-skandinaviske-eventyr-by-various/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/7327",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download//skandinaviskaaventyr_1907_librivox/skandinaviskaaventyr_1907_librivox_64kb_mp3.zip"
+    }
+  }
+}
