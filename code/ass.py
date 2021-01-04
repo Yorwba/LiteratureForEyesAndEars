@@ -57,7 +57,7 @@ def ass_header(styles, use_template=False):
         '[V4+ Styles]',
         'Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding',
     ) + tuple(
-        f'Style: {name},{style},&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,2,0,{5 if "Standout" in name else 4},90,90,90,0'
+        f'Style: {name},{style},&Hffffff,&H888888,&Hffffff,&H0,0,0,0,0,100,100,0,0,1,2,0,{5 if "Standout" in name else 4},60,60,60,0'
         for name, style in styles.items()
     ) + (
         '',
