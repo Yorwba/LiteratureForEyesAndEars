@@ -1,0 +1,129 @@
+{
+  "books": {
+    "5": {
+      "authors": [
+        {
+          "dob": "1909",
+          "dod": "1948",
+          "first_name": "Osamu",
+          "id": "3035",
+          "last_name": "Dazai"
+        }
+      ],
+      "copyright_year": "1941",
+      "description": "グリム童話のラプンツェルに設定が似た物語を、５人の兄弟姉妹が、正月に連作するという話。<br/><br/>On new year's day 5 brothers & sisters write a story similar to Grimm Brothers' Rapunzel. (Summary by ekzemplaro)<br/><br/>",
+      "genres": [
+        {
+          "id": "19",
+          "name": "Humorous Fiction"
+        }
+      ],
+      "id": "7245",
+      "language": "Japanese",
+      "num_sections": "6",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "110624",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1234",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "1",
+          "title": "その一"
+        },
+        {
+          "file_name": null,
+          "id": "110625",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1213",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "2",
+          "title": "その二"
+        },
+        {
+          "file_name": null,
+          "id": "110626",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1063",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "3",
+          "title": "その三"
+        },
+        {
+          "file_name": null,
+          "id": "110627",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1137",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "4",
+          "title": "その四"
+        },
+        {
+          "file_name": null,
+          "id": "110628",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1230",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "5",
+          "title": "その五"
+        },
+        {
+          "file_name": null,
+          "id": "110629",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "854",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "6",
+          "title": "その六"
+        }
+      ],
+      "title": "ろまん燈籠 (Roman Dourou)",
+      "totaltime": "1:52:11",
+      "totaltimesecs": 6731,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/romandourou_1212_librivox",
+      "url_librivox": "https://librivox.org/roman-dourou-by-osamu-dazai/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/7245",
+      "url_text_source": "http://www.aozora.gr.jp/cards/000035/files/315_20041.html",
+      "url_zip_file": "http://www.archive.org/download/romandourou_1212_librivox/romandourou_1212_librivox_64kb_mp3.zip"
+    }
+  }
+}
