@@ -1,0 +1,339 @@
+{
+  "books": {
+    "19": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "In LibriVox’s Multilingual Poetry Collection, LibriVox volunteers read their favourite public-domain poems in languages other than English. (Summary by David Barnes).</p>",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        }
+      ],
+      "id": "2594",
+      "language": "Multilingual",
+      "num_sections": "20",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "168354",
+          "language": "Afrikaans",
+          "listen_url": "",
+          "playtime": "209",
+          "readers": [
+            {
+              "display_name": "GerryR",
+              "reader_id": "3054"
+            }
+          ],
+          "section_number": "1",
+          "title": "Oktobermaand"
+        },
+        {
+          "file_name": null,
+          "id": "168355",
+          "language": "Ancient Greek",
+          "listen_url": "",
+          "playtime": "66",
+          "readers": [
+            {
+              "display_name": "hefyd",
+              "reader_id": "1085"
+            }
+          ],
+          "section_number": "2",
+          "title": "Tettix"
+        },
+        {
+          "file_name": null,
+          "id": "168356",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "161",
+          "readers": [
+            {
+              "display_name": "Aldor",
+              "reader_id": "1817"
+            }
+          ],
+          "section_number": "3",
+          "title": "Ballade des pendus"
+        },
+        {
+          "file_name": null,
+          "id": "168357",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "498",
+          "readers": [
+            {
+              "display_name": "Ezwa",
+              "reader_id": "123"
+            }
+          ],
+          "section_number": "4",
+          "title": "La femme adultère"
+        },
+        {
+          "file_name": null,
+          "id": "168358",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "2191",
+          "readers": [
+            {
+              "display_name": "Ezwa",
+              "reader_id": "123"
+            }
+          ],
+          "section_number": "5",
+          "title": "Le code des amants"
+        },
+        {
+          "file_name": null,
+          "id": "168359",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "391",
+          "readers": [
+            {
+              "display_name": "Ernst Pattynama",
+              "reader_id": "2825"
+            }
+          ],
+          "section_number": "6",
+          "title": "Frau Twardowska (translated by Carl von Blankensee)"
+        },
+        {
+          "file_name": null,
+          "id": "168360",
+          "language": "Greek",
+          "listen_url": "",
+          "playtime": "75",
+          "readers": [
+            {
+              "display_name": "Stefanos",
+              "reader_id": "3365"
+            }
+          ],
+          "section_number": "7",
+          "title": "Anixi"
+        },
+        {
+          "file_name": null,
+          "id": "168361",
+          "language": "Indonesian",
+          "listen_url": "",
+          "playtime": "96",
+          "readers": [
+            {
+              "display_name": "Christianese",
+              "reader_id": "2814"
+            }
+          ],
+          "section_number": "8",
+          "title": "Djoeskoe"
+        },
+        {
+          "file_name": null,
+          "id": "168362",
+          "language": "Italian",
+          "listen_url": "",
+          "playtime": "159",
+          "readers": [
+            {
+              "display_name": "Sergio Baldelli",
+              "reader_id": "1989"
+            }
+          ],
+          "section_number": "9",
+          "title": "Il sabato del villaggio"
+        },
+        {
+          "file_name": null,
+          "id": "168363",
+          "language": "Italian",
+          "listen_url": "",
+          "playtime": "53",
+          "readers": [
+            {
+              "display_name": "Silvia",
+              "reader_id": "3767"
+            }
+          ],
+          "section_number": "10",
+          "title": "La sabbia del tempo"
+        },
+        {
+          "file_name": null,
+          "id": "168364",
+          "language": "Italian",
+          "listen_url": "",
+          "playtime": "353",
+          "readers": [
+            {
+              "display_name": "Sergio Baldelli",
+              "reader_id": "1989"
+            }
+          ],
+          "section_number": "11",
+          "title": "La vita solitaria"
+        },
+        {
+          "file_name": null,
+          "id": "168365",
+          "language": "Latin",
+          "listen_url": "",
+          "playtime": "225",
+          "readers": [
+            {
+              "display_name": "hefyd",
+              "reader_id": "1085"
+            }
+          ],
+          "section_number": "12",
+          "title": "Copa Syrisca"
+        },
+        {
+          "file_name": null,
+          "id": "168366",
+          "language": "Polish",
+          "listen_url": "",
+          "playtime": "103",
+          "readers": [
+            {
+              "display_name": "Violet B Czaykowska",
+              "reader_id": "3492"
+            }
+          ],
+          "section_number": "13",
+          "title": "Placzacej"
+        },
+        {
+          "file_name": null,
+          "id": "168367",
+          "language": "Portuguese",
+          "listen_url": "",
+          "playtime": "56",
+          "readers": [
+            {
+              "display_name": "Ariane Ribeiro",
+              "reader_id": "3050"
+            }
+          ],
+          "section_number": "14",
+          "title": "A raposa e as uvas"
+        },
+        {
+          "file_name": null,
+          "id": "168368",
+          "language": "Romanian",
+          "listen_url": "",
+          "playtime": "123",
+          "readers": [
+            {
+              "display_name": "Nicoleta Tipa",
+              "reader_id": "2579"
+            }
+          ],
+          "section_number": "15",
+          "title": "Balada unui greier mic"
+        },
+        {
+          "file_name": null,
+          "id": "168369",
+          "language": "Romanian",
+          "listen_url": "",
+          "playtime": "189",
+          "readers": [
+            {
+              "display_name": "Nicoleta Tipa",
+              "reader_id": "2579"
+            }
+          ],
+          "section_number": "16",
+          "title": "Lupul moralist"
+        },
+        {
+          "file_name": null,
+          "id": "168370",
+          "language": "Turkish",
+          "listen_url": "",
+          "playtime": "87",
+          "readers": [
+            {
+              "display_name": "Kivanc Atmaca",
+              "reader_id": "3076"
+            }
+          ],
+          "section_number": "17",
+          "title": "Muhtelif Siirler"
+        },
+        {
+          "file_name": null,
+          "id": "168371",
+          "language": "Ukrainian",
+          "listen_url": "",
+          "playtime": "1242",
+          "readers": [
+            {
+              "display_name": "Olga",
+              "reader_id": "3210"
+            }
+          ],
+          "section_number": "18",
+          "title": "Kateryna"
+        },
+        {
+          "file_name": null,
+          "id": "168372",
+          "language": "Ukrainian",
+          "listen_url": "",
+          "playtime": "459",
+          "readers": [
+            {
+              "display_name": "Olga",
+              "reader_id": "3210"
+            }
+          ],
+          "section_number": "19",
+          "title": "Prychynna"
+        },
+        {
+          "file_name": null,
+          "id": "168373",
+          "language": "Yiddish",
+          "listen_url": "",
+          "playtime": "106",
+          "readers": [
+            {
+              "display_name": "Joseph Finkberg",
+              "reader_id": "2999"
+            }
+          ],
+          "section_number": "20",
+          "title": "May Ko Mashma Lon?"
+        }
+      ],
+      "title": "Multilingual Poetry Collection 012",
+      "totaltime": "1:54:02",
+      "totaltimesecs": 6842,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/multilingual_poetry_012_0904",
+      "url_librivox": "https://librivox.org/multilingual-poetry-collection-volume-012/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/2594",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download/multilingual_poetry_012_0904/multilingual_poetry_012_0904_64kb_mp3.zip"
+    }
+  }
+}
