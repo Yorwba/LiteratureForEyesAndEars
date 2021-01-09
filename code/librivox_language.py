@@ -32,6 +32,7 @@ language_codes = {
     'Spanish': 'spa',
     'Swedish': 'swe',
     'Tamil': 'tam',
+    'Ukrainian': 'rus', # Should actually be 'ukr',
 }
 
 
