@@ -1,0 +1,118 @@
+{
+  "books": {
+    "4": {
+      "authors": [
+        {
+          "dob": "1871",
+          "dod": "1919",
+          "first_name": " Rosa",
+          "id": "5297",
+          "last_name": "Luxemburg"
+        }
+      ],
+      "copyright_year": "1922",
+      "description": "<p>Rosa Luxemburg war eine bedeutende Vertreterin der europäischen Arbeiterbewegung und des proletarischen Internationalismus. Sie gehörte zu den Gründungsmitgliedern der KPD, deren Programm sie hauptsächlich verfasste.<br><br>Während des ersten Weltkriegs verbrachte Rosa Luxemburg drei Jahre und vier Monate im Gefängnis, ein Jahr im Berliner Weibergefängnis (Barnimstraße), dann zwei Jahre und vier Monate in Berlin, Wronke und Breslau. Während dieser Zeit schrieb sie viele persönliche Briefe an Sophie Liebknecht, die einen tiefen Einblick in die starke Persönlichkeit dieser ungewöhnlichen Frau geben. Die Leser lernen \"den Reichtum ihres unermüdlich quellenden Herzens kennen. Sie sollen sehen, wie diese Frau, über ihren eigenen Leiden stehend, alle Wesen der Schöpfung mit verstehender Liebe und dichterischer Kraft umfängt, wie ihr Herz in Vogelrufen erzittert, wie Verse beschwingter Sprache in ihr widerklingen, wie Schicksal und tägliches Tun der Freunde in ihr geborgen sind.\" (Aus der Einleitung)<br><br>Am 15. Januar 1919, nur zwei Monate nach ihrer Freilassung wurde sie unter teils ungeklärten Umständen zusammen mit Karl Liebknecht von rechtsradikalen Freikorps-Soldaten ermordet.<br>(Summary by Wikipedia and Hokuspokus)</p>",
+      "genres": [
+        {
+          "id": "36",
+          "name": "*Non-fiction"
+        },
+        {
+          "id": "80",
+          "name": "Biography & Autobiography"
+        }
+      ],
+      "id": "3431",
+      "language": "German",
+      "num_sections": "5",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "186293",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "253",
+          "readers": [
+            {
+              "display_name": "Hokuspokus",
+              "reader_id": "2037"
+            }
+          ],
+          "section_number": "0",
+          "title": "Zur Einführung"
+        },
+        {
+          "file_name": null,
+          "id": "186294",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1603",
+          "readers": [
+            {
+              "display_name": "Hokuspokus",
+              "reader_id": "2037"
+            }
+          ],
+          "section_number": "1",
+          "title": "Teil 1"
+        },
+        {
+          "file_name": null,
+          "id": "186295",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1756",
+          "readers": [
+            {
+              "display_name": "Hokuspokus",
+              "reader_id": "2037"
+            }
+          ],
+          "section_number": "2",
+          "title": "Teil 2"
+        },
+        {
+          "file_name": null,
+          "id": "186296",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1768",
+          "readers": [
+            {
+              "display_name": "Hokuspokus",
+              "reader_id": "2037"
+            }
+          ],
+          "section_number": "3",
+          "title": "Teil 3"
+        },
+        {
+          "file_name": null,
+          "id": "186297",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1299",
+          "readers": [
+            {
+              "display_name": "Hokuspokus",
+              "reader_id": "2037"
+            }
+          ],
+          "section_number": "4",
+          "title": "Teil 4"
+        }
+      ],
+      "title": "Briefe aus dem Gefängnis",
+      "totaltime": "1:51:19",
+      "totaltimesecs": 6679,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/briefe_aus_dem_gefaengnis_hok_librivox",
+      "url_librivox": "https://librivox.org/briefe-aus-dem-gefangnis-by-rosa-luxemburg/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/3431",
+      "url_text_source": "http://www.gutenberg.org/etext/26964",
+      "url_zip_file": "http://www.archive.org/download/briefe_aus_dem_gefaengnis_hok_librivox/briefe_aus_dem_gefaengnis_hok_librivox_64kb_mp3.zip"
+    }
+  }
+}
