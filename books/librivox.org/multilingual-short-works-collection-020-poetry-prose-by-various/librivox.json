@@ -117,7 +117,27 @@
           "title": "Luxembourgish - Un den Hèrr Perk"
         },
         {
+          "authors": [
+            {
+              "dob": "",
+              "dod": "",
+              "first_name": "",
+              "id": "19",
+              "last_name": "Anonymous"
+            }
+          ],
+          "description": "",
           "file_name": "msw020_07_foxandwolf_anonymous_ks_64kb.mp3",
+          "genres": [
+            {
+              "id": "25",
+              "name": "Poetry"
+            },
+            {
+              "id": "31",
+              "name": "Short Stories"
+            }
+          ],
           "id": "437152",
           "language": "Middle English",
           "listen_url": "https://librivox.org/uploads/icequeen/msw020_foxandwolf_anonymous_ks_64kb.mp3",
@@ -129,7 +149,8 @@
             }
           ],
           "section_number": "7",
-          "title": "Middle English - The Fox and the Wolf"
+          "title": "Þhe Vox and þe Wolf",
+          "url_text_source": "https://archive.org/details/cu31924059417901/page/n219/mode/2up"
         },
         {
           "file_name": "msw020_08_maska_poe_pn_64kb.mp3",
