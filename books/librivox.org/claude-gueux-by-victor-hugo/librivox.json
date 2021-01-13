@@ -110,7 +110,8 @@
             }
           ],
           "section_number": "6",
-          "title": "Le manuscrit de Claude Gueux"
+          "title": "Le manuscrit de Claude Gueux",
+          "url_text_source": "https://fr.wikisource.org/wiki/Claude_Gueux/Le_Manuscrit_de_Claude_Gueux"
         },
         {
           "file_name": "claudegueux_7_hugo_64kb.mp3",
@@ -125,7 +126,8 @@
             }
           ],
           "section_number": "7",
-          "title": "Historique de Claude Gueux"
+          "title": "Historique de Claude Gueux",
+          "url_text_source": "https://fr.wikisource.org/wiki/Claude_Gueux/Historique_de_Claude_Gueux"
         }
       ],
       "title": "Claude Gueux",
@@ -137,7 +139,7 @@
       "url_other": null,
       "url_project": "http://fr.wikipedia.org/wiki/Claude_Gueux",
       "url_rss": "https://librivox.org/rss/9961",
-      "url_text_source": "",
+      "url_text_source": "https://fr.wikisource.org/wiki/Claude_Gueux",
       "url_zip_file": "http://www.archive.org/download//claude_gueux_1902_librivox/claude_gueux_1902_librivox_64kb_mp3.zip"
     }
   }
