@@ -1,0 +1,343 @@
+{
+  "books": {
+    "19": {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "This is a collection of short pieces, poetry or prose, fiction and non-fiction, in several different languages (except standard English). All chosen and recorded by Librivox volunteers.\n<br><br>\n01 - Esperanto - La Feino key words: prose, fairy tales <br>\n02 - Esperanto - Muŝofiŝobirdoratokatohundo key words: poetry, animals, food chain, humor, children <br>\n03 - French - Enragée ? key words: Société française, 19eme siècle, voyage de noces, humour <br>\n04 - Italian - In vecchiezza  key words: poetry, old age, memento mori <br>\n05 - Japanese - Kodama key words: prose, short story <br>\n06 - Luxembourgish - Un den Hèrr Perk  key words: nature, praise, Luxembourg <br>\n07 - Middle English - The Fox and the Wolf   key words: poetry, middle english, animals, humor, medieval, middle ages <br>\n08 - Polish - Maska śmierci szkarłatnej key words: opowiadanie, zaraza, śmierć, zabawa <br>\n09 - Portuguese - A Catedral key words: Poetry, Symbolism, Mysticism <br>\n10 - Portuguese - Hão de chorar por ela os cinamomos key words: Poetry, Symbolism, Mysticism <br>\n11 - Romanian - Cerbul key words: Poetry, fairy - tale <br>\n12 - Romanian - Dómna luĭ Négoe key words: Poetry, historical legend, The Monastery of Curtea de Argeș, Prince Neagoe Basarab, The Princess Consort Milica Despina <br>\n13 - Romanian - Niobe și Latona  key words: Legends, Greek mythology, Niobe, Leto <br>\n14 - Romanian - Timpul  key words: poetry <br>\n15 - Russian - Сфинкс (Sphynx) key words: prose <br>\n16 - Spanish - Los anteojos de color  key words: short story, fiction tale, nobel prize // relato corto, cuento, premio nobel <br>\n17 - Spanish - Noche servia  key words: fiction, war, short tale, ficción, guerra, relato corto <br>\n18 - Spanish - Primera epístola del Almirante Cristobal Colón dando cuenta de su gran descubrimiento  key words: Carta, Conquistadores, Descubrimiento América, Historia, Biografías//Letter, Conquistador, Historical Documents, Biography, New World <br>\n19 - Spanish - El Prisionero  key words: romance, poesía <br>\n20 - Spanish - ¿Qué conviene hacer?  key words: Ensayo, Cárcel, Reformas prisión, Estudios penitenciarios //Essay, Jail, Prison reform, Penitentiary studies <br>",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        },
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "13096",
+      "language": "Multilingual",
+      "num_sections": "20",
+      "sections": [
+        {
+          "file_name": "msw020_01_feino_perrault_rk_64kb.mp3",
+          "id": "437169",
+          "language": "Esperanto",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_feino_perrault_rk_64kb.mp3",
+          "playtime": "545",
+          "readers": [
+            {
+              "display_name": "Roberto Kingsley",
+              "reader_id": "12282"
+            }
+          ],
+          "section_number": "1",
+          "title": "Esperanto - La Feino"
+        },
+        {
+          "file_name": "msw020_02_mushofishobirdoratokatohundo_bicknell_rk_64kb.mp3",
+          "id": "437160",
+          "language": "Esperanto",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_mushofishobirdoratokatohundo_bicknell_rk_64kb.mp3",
+          "playtime": "130",
+          "readers": [
+            {
+              "display_name": "Roberto Kingsley",
+              "reader_id": "12282"
+            }
+          ],
+          "section_number": "2",
+          "title": "Esperanto - Muŝofiŝobirdoratokatohundo"
+        },
+        {
+          "file_name": "msw020_03_enragee_maupassant_crj_64kb.mp3",
+          "id": "437167",
+          "language": "French",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_enragee_maupassant_crj_64kb.mp3",
+          "playtime": "1104",
+          "readers": [
+            {
+              "display_name": "Christiane Jehanne",
+              "reader_id": "12709"
+            }
+          ],
+          "section_number": "3",
+          "title": "French - Enragée ?"
+        },
+        {
+          "file_name": "msw020_04_invecchiezza_buonarroti_ss_64kb.mp3",
+          "id": "437168",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_invecchiezza_buonarroti_ss_64kb.mp3",
+          "playtime": "76",
+          "readers": [
+            {
+              "display_name": "Sonia",
+              "reader_id": "10179"
+            }
+          ],
+          "section_number": "4",
+          "title": "Italian - In vecchiezza"
+        },
+        {
+          "file_name": "msw020_05_kodama_ogai_stayupallnight_64kb.mp3",
+          "id": "437161",
+          "language": "Japanese",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_kodama_ogai_stayupallnight_64kb.mp3",
+          "playtime": "549",
+          "readers": [
+            {
+              "display_name": "stayupallnight",
+              "reader_id": "12664"
+            }
+          ],
+          "section_number": "5",
+          "title": "Japanese - Kodama"
+        },
+        {
+          "file_name": "msw020_06_undenherrperk_lentz_ss_64kb.mp3",
+          "id": "437159",
+          "language": "Luxembourgish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_undenherrperk_lentz_ss_64kb.mp3",
+          "playtime": "119",
+          "readers": [
+            {
+              "display_name": "Sonia",
+              "reader_id": "10179"
+            }
+          ],
+          "section_number": "6",
+          "title": "Luxembourgish - Un den Hèrr Perk"
+        },
+        {
+          "file_name": "msw020_07_foxandwolf_anonymous_ks_64kb.mp3",
+          "id": "437152",
+          "language": "Middle English",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_foxandwolf_anonymous_ks_64kb.mp3",
+          "playtime": "924",
+          "readers": [
+            {
+              "display_name": "Kevin Stroud",
+              "reader_id": "12609"
+            }
+          ],
+          "section_number": "7",
+          "title": "Middle English - The Fox and the Wolf"
+        },
+        {
+          "file_name": "msw020_08_maska_poe_pn_64kb.mp3",
+          "id": "437164",
+          "language": "Polish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_maska_poe_pn_64kb.mp3",
+          "playtime": "948",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "8",
+          "title": "Polish - Maska śmierci szkarłatnej"
+        },
+        {
+          "file_name": "msw020_09_catedral_guimaraens_lrl_64kb.mp3",
+          "id": "437165",
+          "language": "Portuguese",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_catedral_guimaraens_lrl_64kb.mp3",
+          "playtime": "121",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "9",
+          "title": "Portuguese - A Catedral"
+        },
+        {
+          "file_name": "msw020_10_haodechorar_guimaraens_lrl_64kb.mp3",
+          "id": "437166",
+          "language": "Portuguese",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_haodechorar_guimaraens_lrl_64kb.mp3",
+          "playtime": "65",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "10",
+          "title": "Portuguese - Hão de chorar por ela os cinamomos"
+        },
+        {
+          "file_name": "msw020_11_cerbul_bolintineanu_lf_64kb.mp3",
+          "id": "437155",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_cerbul_bolintineanu_lf_64kb.mp3",
+          "playtime": "175",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "11",
+          "title": "Romanian - Cerbul"
+        },
+        {
+          "file_name": "msw020_12_domnaluinegoe_bolintineanu_lf_64kb.mp3",
+          "id": "437154",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_domnaluinegoe_bolintineanu_lf_64kb.mp3",
+          "playtime": "167",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "12",
+          "title": "Romanian - Dómna luĭ Négoe"
+        },
+        {
+          "file_name": "msw020_13_niobesilatona_cox_lf_64kb.mp3",
+          "id": "437157",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_niobesilatona_cox_lf_64kb.mp3",
+          "playtime": "620",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "13",
+          "title": "Romanian - Niobe și Latona"
+        },
+        {
+          "file_name": "msw020_14_timpul_bolintineanu_lf_64kb.mp3",
+          "id": "437151",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_timpul_bolintineanu_lf_64kb.mp3",
+          "playtime": "245",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "14",
+          "title": "Romanian - Timpul"
+        },
+        {
+          "file_name": "msw020_15_sphinx_po_la_64kb.mp3",
+          "id": "437170",
+          "language": "Russian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_sphinx_po_la_64kb.mp3",
+          "playtime": "669",
+          "readers": [
+            {
+              "display_name": "Lika",
+              "reader_id": "12851"
+            }
+          ],
+          "section_number": "15",
+          "title": "Russian - Сфинкс (Sphynx)"
+        },
+        {
+          "file_name": "msw020_16_losanteojos_echegaray_epk_64kb.mp3",
+          "id": "437158",
+          "language": "Spanish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_losanteojos_echegaray_epk_64kb.mp3",
+          "playtime": "805",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "16",
+          "title": "Spanish - Los anteojos de color"
+        },
+        {
+          "file_name": "msw020_17_nocheservia_blascoib_epk_64kb.mp3",
+          "id": "437162",
+          "language": "Spanish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_nocheservia_blascoib_epk_64kb.mp3",
+          "playtime": "814",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "17",
+          "title": "Spanish - Noche servia"
+        },
+        {
+          "file_name": "msw020_18_epistola_colon_epk_64kb.mp3",
+          "id": "437153",
+          "language": "Spanish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_epistola_colon_epk_64kb.mp3",
+          "playtime": "1160",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "18",
+          "title": "Spanish - Primera epístola del Almirante Cristobal Colón dando cuenta de su gran descubrimiento"
+        },
+        {
+          "file_name": "msw020_19_elprisionero_anonimo_epk_64kb.mp3",
+          "id": "437163",
+          "language": "Spanish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_elprisionero_anonimo_epk_64kb.mp3",
+          "playtime": "107",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "19",
+          "title": "Spanish - El Prisionero"
+        },
+        {
+          "file_name": "msw020_20_queconviene_arenal_epk_64kb.mp3",
+          "id": "437156",
+          "language": "Spanish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw020_queconviene_arenal_epk_64kb.mp3",
+          "playtime": "985",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "20",
+          "title": "Spanish - ¿Qué conviene hacer?"
+        }
+      ],
+      "title": "Multilingual Short Works Collection 020 - Poetry & Prose",
+      "totaltime": "02:52:08",
+      "totaltimesecs": 10328,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/multilingual_short_works_020_poetry_prose_1810_librivox",
+      "url_librivox": "https://librivox.org/multilingual-short-works-collection-020-poetry-prose-by-various/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/13096",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download//multilingual_short_works_020_poetry_prose_1810_librivox/multilingual_short_works_020_poetry_prose_1810_librivox_64kb_mp3.zip"
+    }
+  }
+}
