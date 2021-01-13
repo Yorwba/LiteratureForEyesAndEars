@@ -24,6 +24,7 @@ language_codes = {
     'Italian': 'ita',
     'Japanese': 'jpn',
     'Latin': 'lat',
+    'Middle English': 'eng', # Should actually be 'enm'
     'Norwegian': 'nob', # assume Bokmal
     'Polish': 'pol',
     'Portuguese': 'por-br',
