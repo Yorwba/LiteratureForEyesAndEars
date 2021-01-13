@@ -1,0 +1,144 @@
+{
+  "books": {
+    "6": {
+      "authors": [
+        {
+          "dob": "1802",
+          "dod": "1885",
+          "first_name": "Victor",
+          "id": "706",
+          "last_name": "Hugo"
+        }
+      ],
+      "copyright_year": "1910",
+      "description": "Victor Hugo (1802-1885) raconte dans ce court récit l’histoire de Claude Gueux, incarcéré pour vol, devenu meutrier en prison, puis exécuté. En annexe, deux chapitres sur l’historique du vrai Claude Gueux, rédigés par l’éditeur Gustave Simon (1848-1928). (Summary by Sonia)",
+      "genres": [
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "9961",
+      "language": "French",
+      "num_sections": "7",
+      "sections": [
+        {
+          "file_name": "claudegueux_1_hugo_64kb.mp3",
+          "id": "342666",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/claudegueux_1_hugo_64kb.mp3",
+          "playtime": "351",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "1",
+          "title": "Claude Gueux, première partie"
+        },
+        {
+          "file_name": "claudegueux_2_hugo_64kb.mp3",
+          "id": "342667",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/claudegueux_2_hugo_64kb.mp3",
+          "playtime": "822",
+          "readers": [
+            {
+              "display_name": "Martine",
+              "reader_id": "12541"
+            }
+          ],
+          "section_number": "2",
+          "title": "Claude Gueux, deuxième partie"
+        },
+        {
+          "file_name": "claudegueux_3_hugo_64kb.mp3",
+          "id": "342668",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/claudegueux_3_hugo_64kb.mp3",
+          "playtime": "754",
+          "readers": [
+            {
+              "display_name": "Laurette",
+              "reader_id": "10620"
+            }
+          ],
+          "section_number": "3",
+          "title": "Claude Gueux, troisième partie"
+        },
+        {
+          "file_name": "claudegueux_4_hugo_64kb.mp3",
+          "id": "454576",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/claudegueux_4_hugo_64kb.mp3",
+          "playtime": "913",
+          "readers": [
+            {
+              "display_name": "Margot",
+              "reader_id": "12899"
+            }
+          ],
+          "section_number": "4",
+          "title": "Claude Gueux, quatrième partie"
+        },
+        {
+          "file_name": "claudegueux_5_hugo_64kb.mp3",
+          "id": "454577",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/claudegueux_5_hugo_64kb.mp3",
+          "playtime": "824",
+          "readers": [
+            {
+              "display_name": "Margot",
+              "reader_id": "12899"
+            }
+          ],
+          "section_number": "5",
+          "title": "Claude Gueux, cinquième partie"
+        },
+        {
+          "file_name": "claudegueux_6_hugo_64kb.mp3",
+          "id": "454578",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/claudegueux_6_hugo_64kb.mp3",
+          "playtime": "238",
+          "readers": [
+            {
+              "display_name": "Christiane Jehanne",
+              "reader_id": "12709"
+            }
+          ],
+          "section_number": "6",
+          "title": "Le manuscrit de Claude Gueux"
+        },
+        {
+          "file_name": "claudegueux_7_hugo_64kb.mp3",
+          "id": "454579",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/claudegueux_7_hugo_64kb.mp3",
+          "playtime": "576",
+          "readers": [
+            {
+              "display_name": "Martine",
+              "reader_id": "12541"
+            }
+          ],
+          "section_number": "7",
+          "title": "Historique de Claude Gueux"
+        }
+      ],
+      "title": "Claude Gueux",
+      "totaltime": "01:14:38",
+      "totaltimesecs": 4478,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/claude_gueux_1902_librivox",
+      "url_librivox": "https://librivox.org/claude-gueux-by-victor-hugo/",
+      "url_other": null,
+      "url_project": "http://fr.wikipedia.org/wiki/Claude_Gueux",
+      "url_rss": "https://librivox.org/rss/9961",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download//claude_gueux_1902_librivox/claude_gueux_1902_librivox_64kb_mp3.zip"
+    }
+  }
+}
