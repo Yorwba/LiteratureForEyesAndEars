@@ -1,0 +1,3462 @@
+1
+00:00:00,160 --> 00:00:03,800
+Einführung
+zu
+Briefe aus dem Gefängnis
+
+2
+00:00:03,800 --> 00:00:05,930
+Dies ist eine LibriVox-Aufnahme.
+
+3
+00:00:05,930 --> 00:00:10,090
+Alle LibriVox-Aufnahmen sind lizenzfrei und in öffentlichem Besitz.
+
+4
+00:00:10,090 --> 00:00:18,970
+Weitere Informationen und Hinweise zur Beteiligung an diesem Projekt, gibt es bei LibriVox.org.
+
+5
+00:00:18,970 --> 00:00:23,500
+Briefe aus dem Gefängnis
+von
+Rosa Luxemburg
+
+6
+00:00:23,500 --> 00:00:29,890
+Herausgegeben vom Exekutivkomitee der Kommunistischen Jugendinternationale.
+
+7
+00:00:29,890 --> 00:00:32,390
+Zur Einführung
+
+8
+00:00:32,390 --> 00:00:48,440
+Drei Jahre und vier Monate hat Rosa Luxemburg während des Krieges im Gefängnis verbracht, ein Jahr (vom Februar 1915 bis Februar 1916) im Berliner Weibergefängnis (Barnimstraße)
+
+9
+00:00:48,440 --> 00:00:57,730
+für eine in Frankfurt am Main gehaltene Rede über die Soldatenmisshandlungen, dann zwei Jahre und vier Monate (vom 10.
+
+10
+00:00:57,730 --> 00:01:00,490
+Juli 1916 bis zum 10.
+
+11
+00:01:00,490 --> 00:01:06,350
+November 1918) in »Schutzhaft« in Berlin, Wronke und Breslau.
+
+12
+00:01:06,350 --> 00:01:15,900
+Sie war ganz von der Außenwelt abgeschnitten, nur Bücher und Briefe, die strenge Zensur passiert hatten, durften sie erreichen.
+
+13
+00:01:15,900 --> 00:01:20,620
+Einmal im Monat war Besuch unter strenger Aufsicht gestattet.
+
+14
+00:01:20,620 --> 00:01:32,600
+Die Kraft der mutigsten Vorkämpferin des Proletariats sollte gebrochen und ihre weckende, die Lüge geißelnde, die Wahrheit wissende Stimme sollte zum Schweigen gebracht werden.
+
+15
+00:01:32,600 --> 00:01:34,150
+Beides misslang.
+
+16
+00:01:34,150 --> 00:01:37,260
+Dieser stählerne Wille erschlaffte nicht.
+
+17
+00:01:37,260 --> 00:01:50,850
+Rosa Luxemburg hat in diesen Gefängnisjahren unermüdlich gearbeitet. — Die unsagbare Einsamkeit endloser Tage und Nächte sammelte alle Kraft ihres Geistes und ihrer Seele.
+
+18
+00:01:50,850 --> 00:02:06,650
+Die Leidenschaft der Erkenntnis ließ ihre Stimme zu Fanfarentönen anschwellen: die berühmte »Junius-Broschüre«, die hinter Gittern entstand, war nicht der einzige Weckruf, der den Weg aus dem Gefängnis fand.
+
+19
+00:02:06,650 --> 00:02:16,880
+Flugblätter, Aufrufe und wesentliche Beiträge zu den »Spartakus-Briefen« wusste Rosa Luxemburg ihren politischen Freunden zu übermitteln.
+
+20
+00:02:16,880 --> 00:02:27,820
+Durch aufreibende illegale Korrespondenz und Arbeit suchte sie von ihrer Zelle aus die revolutionäre Entwicklung der deutschen Arbeiter zu lenken.
+
+21
+00:02:27,820 --> 00:02:36,640
+Doch weder ihre wissenschaftliche noch ihre agitatorische Arbeit aus diesen furchtbaren Jahren soll hier gewürdigt werden.
+
+22
+00:02:36,640 --> 00:02:51,460
+Hier gilt es, der Jugend, den Arbeitern, all denen, für deren Wohl und Freiheit sie kämpfte, litt und starb — durch feige Verbrecherhände starb — die ganze Seele der Vielverleumdeten zu zeigen.
+
+23
+00:02:51,460 --> 00:02:55,800
+Hier schwindet die Scheu vor Preisgabe persönlichen Lebens.
+
+24
+00:02:55,800 --> 00:03:07,920
+Diese privaten Briefe sind keine Privatbriefe mehr. Wer die Wissenschaftlerin und Kämpferin Rosa Luxemburg kennt, kennt noch nicht alle Seiten ihres Wesens.
+
+25
+00:03:07,920 --> 00:03:11,330
+Die Briefe aus dem Gefängnis runden das Bild.
+
+26
+00:03:11,330 --> 00:03:20,530
+Die Anhänger und Mitkämpfer Rosa Luxemburgs haben ein Recht darauf, den Reichtum ihres unermüdlich quellenden Herzens zu kennen.
+
+27
+00:03:20,530 --> 00:03:31,730
+Sie sollen wissen, wie diese Frau, über ihren eigenen Leiden stehend, alle Wesen der Schöpfung mit verstehender Liebe und dichterischer Kraft umfängt,
+
+28
+00:03:31,730 --> 00:03:43,290
+wie ihr Herz in Vogelrufen erzittert, wie Verse beschwingter Sprache in ihr widerklingen, wie Schicksal und tägliches Tun der Freunde in ihr geborgen sind.
+
+29
+00:03:43,290 --> 00:03:49,310
+So stellen wir das Denkmal auf, das die Tote sich selbst errichtet hat.
+
+30
+00:03:49,310 --> 00:03:52,870
+Berlin, August 1920.
+
+31
+00:03:52,870 --> 00:03:54,960
+Die Herausgeber.
+
+32
+00:03:56,080 --> 00:04:02,200
+Die in dieser Sammlung enthaltenen Briefe sind an Frau Sophie Liebknecht gerichtet.
+
+33
+00:04:04,020 --> 00:04:05,510
+Ende
+von
+Einleitung
+
+34
+00:04:05,510 --> 00:04:08,460
+Gelesen von Hokuspokus
+
+35
+00:04:14,180 --> 00:04:17,200
+Teil 1
+von
+Briefe aus dem Gefängnis
+
+36
+00:04:17,200 --> 00:04:20,410
+Diese LibriVox-Aufnahme ist in der Public Domain.
+
+37
+00:04:20,410 --> 00:04:24,430
+Briefe aus dem Gefängnis
+von
+Rosa Luxemburg
+
+38
+00:04:24,430 --> 00:04:26,010
+Teil 1
+
+39
+00:04:26,010 --> 00:04:27,730
+AUS LEIPZIG
+
+40
+00:04:27,730 --> 00:04:29,040
+Postkarte.
+
+41
+00:04:29,040 --> 00:04:30,480
+(Fußnote:)
+
+42
+00:04:30,480 --> 00:04:34,030
+Diese Karte ist die einzige Karte aus der Freiheit.
+
+43
+00:04:34,030 --> 00:04:35,010
+Am 10.
+
+44
+00:04:35,010 --> 00:04:38,800
+7. 16 erfolgte Rosa Luxemburgs Verhaftung.
+
+45
+00:04:38,800 --> 00:04:40,600
+(Ende Fußnote.)
+
+46
+00:04:40,600 --> 00:04:42,770
+Leipzig, 7.
+
+47
+00:04:42,770 --> 00:04:43,130
+7.
+
+48
+00:04:43,130 --> 00:04:44,370
+16.
+
+49
+00:04:44,370 --> 00:04:46,370
+Meine kleine liebe Sonja!
+
+50
+00:04:46,370 --> 00:05:00,210
+Es ist heute eine drückende feuchte Hitze, wie meist in Leipzig — ich vertrage so schlecht die Luft hier. Ich saß vormittag 2 Stunden in den Anlagen am Teich und las im »Reichen Mann«.
+
+51
+00:05:00,210 --> 00:05:04,150
+(Fußnote:) »Der reiche Mann«, von Galsworthy.
+
+52
+00:05:04,150 --> 00:05:05,360
+(Ende Fußnote.)
+
+53
+00:05:05,360 --> 00:05:07,990
+Die Sache ist brillant.
+
+54
+00:05:07,990 --> 00:05:16,350
+Ein altes Mütterchen setzte sich neben mich, tat einen Blick auf das Titelblatt und lächelte: »Das muss ein feines Buch sein.
+
+55
+00:05:16,350 --> 00:05:18,700
+Ich lese auch gern Bücher«.
+
+56
+00:05:18,700 --> 00:05:30,000
+Bevor ich mich zum Lesen hinsetzte, prüfte ich natürlich die Anlagen auf Bäume und Sträucher hin — alles bekannte Gestalten, was ich mit Befriedigung feststellte.
+
+57
+00:05:30,000 --> 00:05:45,930
+Die Berührung mit Menschen befriedigt mich dagegen immer weniger; ich glaube, ich werde mich doch bald ins Anachoretentum zurückziehen, wie der heilige Antonius, aber — sans tentations mehr. Seien Sie heiter und ruhig.
+
+58
+00:05:45,930 --> 00:05:47,480
+Herzliche Grüße
+
+59
+00:05:47,480 --> 00:05:48,510
+Rosa.
+
+60
+00:05:48,510 --> 00:05:51,260
+Den Kindern viele Grüße.
+
+61
+00:05:52,500 --> 00:05:53,380
+AUS BERLIN
+
+62
+00:05:53,380 --> 00:05:54,820
+Postkarte.
+
+63
+00:05:54,820 --> 00:05:56,540
+Berlin, den 5.
+
+64
+00:05:56,540 --> 00:05:56,910
+8.
+
+65
+00:05:56,910 --> 00:05:58,500
+1916.
+
+66
+00:05:58,500 --> 00:06:01,650
+(Gefängnis in der Barnimstraße.)
+
+67
+00:06:01,650 --> 00:06:04,320
+Meine liebe kleine Sonja!
+
+68
+00:06:04,320 --> 00:06:05,830
+Heute, am 5.
+
+69
+00:06:05,830 --> 00:06:11,120
+August, erhalte ich soeben Ihre beiden Briefe zusammen: den vom 11.
+
+70
+00:06:11,120 --> 00:06:11,610
+Juli (!!)
+
+71
+00:06:11,610 --> 00:06:13,710
+und den vom 23.
+
+72
+00:06:13,710 --> 00:06:14,450
+Juli.
+
+73
+00:06:14,450 --> 00:06:18,810
+Sie sehen, die Post zu mir geht länger als nach New York.
+
+74
+00:06:18,810 --> 00:06:26,590
+Inzwischen habe ich auch die Bücher gekriegt, die Sie mir geschickt hatten und ich danke Ihnen für alles aufs herzlichste.
+
+75
+00:06:26,590 --> 00:06:39,640
+Es tut mir sehr weh, dass ich Sie in Ihrer Lage verlassen musste; wie gern möchte ich mit Ihnen im Feld wieder ein wenig schlendern oder im Erker in der Küche auf den Sonnenuntergang blicken ....
+
+76
+00:06:39,640 --> 00:06:44,470
+Von Helmi hatte ich eine ausführliche Karte mit der Reisebeschreibung.
+
+77
+00:06:44,470 --> 00:06:47,530
+Vielen, vielen Dank auch für Hoelderlin.
+
+78
+00:06:47,530 --> 00:06:52,930
+Aber Sie müssen nicht so mit dem Geld für mich schmeißen, das ist mir eine Pein.
+
+79
+00:06:52,930 --> 00:06:57,340
+Auch für alle guten Sachen und die Wicken herzlichen Dank.
+
+80
+00:06:57,340 --> 00:07:02,540
+Schreiben Sie bald, dann kriege ich es vielleicht noch in diesem Monat.
+
+81
+00:07:02,540 --> 00:07:05,420
+Ich drücke Ihnen fest und warm die Hand.
+
+82
+00:07:05,420 --> 00:07:09,280
+Bleiben Sie tapfer und lassen Sie sich nicht niederdrücken.
+
+83
+00:07:09,280 --> 00:07:11,460
+Ich bin in Gedanken bei Ihnen.
+
+84
+00:07:11,460 --> 00:07:14,920
+Grüßen Sie vielmals Karl und die Kinder.
+
+85
+00:07:14,920 --> 00:07:16,640
+Ihre Rosa.
+
+86
+00:07:16,640 --> 00:07:22,440
+Pierre Loti ist wunderbar, die andern habe ich noch nicht gelesen.
+
+87
+00:07:23,460 --> 00:07:24,590
+AUS WRONKE
+
+88
+00:07:24,590 --> 00:07:26,030
+Postkarte.
+
+89
+00:07:26,030 --> 00:07:27,430
+(Fußnote:)
+
+90
+00:07:27,430 --> 00:07:35,620
+Diese Karte wurde geschrieben an dem Tag, an dem Karl Liebknecht in zweiter Instanz zu 4 Jahren Zuchthaus verurteilt wurde.
+
+91
+00:07:35,620 --> 00:07:37,500
+(Ende Fußnote.)
+
+92
+00:07:37,500 --> 00:07:40,080
+Wronke, 24.
+
+93
+00:07:40,080 --> 00:07:40,430
+8.
+
+94
+00:07:40,430 --> 00:07:42,690
+1916.
+
+95
+00:07:42,690 --> 00:07:47,770
+Liebe Sonitschka, dass ich jetzt nicht bei Ihnen sein kann!
+
+96
+00:07:47,770 --> 00:07:56,770
+Die Sache trifft mich schwer. Aber, bitte, behalten Sie den Kopf oben, manches wird schon anders, als es jetzt aussieht.
+
+97
+00:07:56,770 --> 00:08:04,200
+Jetzt müssen Sie aber fort — irgendwo aufs Land, ins Grüne, wo es schön ist und wo Sie Pflege finden.
+
+98
+00:08:04,200 --> 00:08:10,680
+Es hat keinen Sinn und Zweck, dass Sie jetzt weiter hier sitzen und immer mehr herunterkommen.
+
+99
+00:08:10,680 --> 00:08:14,500
+Bis zur letzten Instanz können wieder Wochen vergehen.
+
+100
+00:08:14,500 --> 00:08:18,450
+Bitte, gehen Sie sobald wie irgend möglich....
+
+101
+00:08:18,450 --> 00:08:24,360
+Für Karl wird es sicher auch eine Erleichterung sein, wenn er Sie auf Erholung weiß.
+
+102
+00:08:24,360 --> 00:08:29,580
+Tausend Dank für Ihre lieben Zeilen vom 10. und für die guten Gaben.
+
+103
+00:08:29,580 --> 00:08:38,290
+Sicher werden wir nächstes Frühjahr zusammen im Feld und im Botanischen herumstreifen, ich freue mich jetzt schon darauf.
+
+104
+00:08:38,290 --> 00:08:41,590
+Aber jetzt gehen Sie fort von hier, Sonitschka!
+
+105
+00:08:41,590 --> 00:08:46,810
+Können Sie nicht zum Bodensee, damit Sie ein bisschen den Süden spüren!?
+
+106
+00:08:46,810 --> 00:08:56,360
+Bevor Sie gehen, möchte ich Sie unbedingt sehen, machen Sie eine Eingabe in der Kommandantur. Schreiben Sie bald wieder eine Zeile.
+
+107
+00:08:56,360 --> 00:08:59,470
+Bleiben Sie ruhig und heiter trotz alledem!
+
+108
+00:08:59,470 --> 00:09:01,220
+Ich umarme Sie.
+
+109
+00:09:01,220 --> 00:09:02,430
+R.
+
+110
+00:09:02,430 --> 00:09:05,440
+Für Karl tausend Grüße.
+
+111
+00:09:05,440 --> 00:09:11,860
+Die beiden Karten von Helmi und Bobbi habe ich erhalten und mich sehr gefreut.
+
+112
+00:09:11,860 --> 00:09:14,420
+Wronke, 21.
+
+113
+00:09:14,420 --> 00:09:14,870
+11.
+
+114
+00:09:14,870 --> 00:09:16,160
+16.
+
+115
+00:09:16,160 --> 00:09:19,090
+Meine geliebte kleine Sonitschka,
+
+116
+00:09:19,090 --> 00:09:26,810
+ich erfuhr von Mathilde, dass Ihr Bruder gefallen ist, und bin ganz erschüttert von diesem Schlag, der Sie wieder traf.
+
+117
+00:09:26,810 --> 00:09:30,540
+Was müssen Sie alles in der letzten Zeit ertragen!
+
+118
+00:09:30,540 --> 00:09:36,970
+Und ich kann nicht einmal bei Ihnen sein, um Sie ein wenig zu erwärmen und aufzuheitern!...
+
+119
+00:09:36,970 --> 00:09:42,840
+Auch bin ich unruhig um Ihre Mutter, wie sie dieses neue Leid ertragen wird.
+
+120
+00:09:42,840 --> 00:09:49,530
+Das sind böse Zeiten, und wir haben alle eine lange Verlustliste im Leben zu verzeichnen.
+
+121
+00:09:49,530 --> 00:09:55,470
+Jeder Monat kann jetzt wahrhaftig wie bei Sebastopol für ein Jahr zählen.
+
+122
+00:09:55,470 --> 00:10:01,080
+Hoffentlich kann ich Sie recht bald sehen, ich sehne mich danach von ganzem Herzen.
+
+123
+00:10:01,080 --> 00:10:07,630
+Wie haben Sie die Nachricht von Ihrem Bruder erhalten, durch die Mutter oder direkt?
+
+124
+00:10:07,630 --> 00:10:10,720
+Und was hören Sie von dem anderen Bruder?
+
+125
+00:10:10,720 --> 00:10:25,060
+Ich wollte Ihnen so gern durch die Mathilde etwas schicken, habe aber hier leider gar nichts, als das kleine bunte Tüchlein; lachen Sie's nicht aus; es sollte Ihnen nur sagen, dass ich Sie sehr liebe.
+
+126
+00:10:25,060 --> 00:10:30,440
+Schreiben Sie bald eine Zeile, damit ich sehe, in welcher Verfassung Sie sind.
+
+127
+00:10:30,440 --> 00:10:32,900
+Grüßen Sie tausendmal Karl.
+
+128
+00:10:32,900 --> 00:10:34,920
+Ich umarme Sie herzlichst
+
+129
+00:10:34,920 --> 00:10:36,390
+Ihre Rosa.
+
+130
+00:10:36,390 --> 00:10:39,360
+Den Kindern viele Grüße!
+
+131
+00:10:40,480 --> 00:10:41,620
+Wronke, 15.
+
+132
+00:10:41,620 --> 00:10:41,990
+1.
+
+133
+00:10:41,990 --> 00:10:43,440
+17.
+
+134
+00:10:43,440 --> 00:10:44,200
+....
+
+135
+00:10:44,200 --> 00:10:48,860
+Ach, heute gab es einen Augenblick, da ich's bitter spürte.
+
+136
+00:10:48,860 --> 00:11:10,320
+Der Pfiff der Lokomotive um 3,19 sagte mir, dass Mathilde abdampft, und ich lief gerade wie ein Tier im Käfig den gewohnten »Spaziergang« an meiner Mauer entlang, hin und zurück, und mein Herz krampfte sich zusammen vor Schmerz, dass ich nicht auch fort von hier kann,
+
+137
+00:11:10,320 --> 00:11:13,350
+o, nur fort von hier!
+
+138
+00:11:13,350 --> 00:11:24,360
+Aber das macht nichts, mein Herz kriegte gleich darauf einen Klaps und musste kuschen; es ist schon gewöhnt, zu parieren wie ein gut dressierter Hund.
+
+139
+00:11:24,360 --> 00:11:26,290
+Reden wir nicht von mir.
+
+140
+00:11:26,290 --> 00:11:32,120
+Sonitschka, wissen Sie noch, was wir uns vorgenommen haben, wenn der Krieg vorbei ist?
+
+141
+00:11:32,120 --> 00:11:34,930
+Eine Reise zusammen nach dem Süden.
+
+142
+00:11:34,930 --> 00:11:37,100
+Und wir tun das!
+
+143
+00:11:37,100 --> 00:11:43,340
+Ich weiß, Sie träumen davon, mit mir nach Italien zu gehen, das Ihnen das Höchste ist.
+
+144
+00:11:43,340 --> 00:11:47,500
+Ich plane hingegen, Sie nach Korsika zu schleppen.
+
+145
+00:11:47,500 --> 00:11:50,610
+Das ist noch mehr als Italien.
+
+146
+00:11:50,610 --> 00:11:55,880
+Dort vergisst man Europa, wenigstens das moderne Europa.
+
+147
+00:11:55,880 --> 00:12:13,980
+Denken Sie sich eine breite heroische Landschaft mit strengen Konturen der Berge und Täler, oben nichts als kahle Felsklumpen von edlem Grau, unten üppige Oliven, Lorbeerkirschen und uralte Kastanienbäume.
+
+148
+00:12:13,980 --> 00:12:33,590
+Und über allem eine vorweltliche Stille — keine Menschenstimme, kein Vogelruf, nur ein Flüsschen schlickert irgendwo zwischen Steinen, oder in der Höhe raunt zwischen Felsklippen der Wind — noch derselbe, der Odysseus' Segel schwellte.
+
+149
+00:12:33,590 --> 00:12:38,310
+Und was Sie an Menschen treffen, stimmt genau zur Landschaft.
+
+150
+00:12:38,310 --> 00:12:40,270
+Plötzlich erscheint z.
+
+151
+00:12:40,270 --> 00:12:51,510
+B. hinter einer Biegung des Bergpfades eine Karawane — die Korsen gehen immer hintereinander in gestreckter Karawane, nicht im Haufen wie unsere Bauern.
+
+152
+00:12:51,510 --> 00:13:11,370
+Vorne läuft gewöhnlich ein Hund, dann schreitet langsam etwa eine Ziege oder ein mit Säcken voller Kastanien beladenes Eselchen, dann folgt ein großes Maultier, auf dem eine Frau im Profil zum Tiere mit gerade herabhängenden Beinen sitzt, ein Kind in den Armen.
+
+153
+00:13:11,370 --> 00:13:24,370
+Sie sitzt hoch aufgerichtet, schlank wie eine Zypresse, unbeweglich; daneben schreitet ein bärtiger Mann in ruhiger fester Haltung, beide schweigen.
+
+154
+00:13:24,370 --> 00:13:28,680
+Sie würden schwören: es ist die heilige Familie.
+
+155
+00:13:28,680 --> 00:13:33,020
+Und solche Szenen treffen Sie dort auf jeden Schritt.
+
+156
+00:13:33,020 --> 00:13:42,740
+Ich war jedesmal so ergriffen, dass ich unwillkürlich in die Knie sinken wollte, wie ich's immer vor vollendeter Schönheit muss.
+
+157
+00:13:42,740 --> 00:13:46,790
+Dort ist noch die Bibel lebendig und die Antike.
+
+158
+00:13:46,790 --> 00:13:58,820
+Wir müssen hin, und so wie ich's getan: zu Fuß die ganze Insel durchqueren, jede Nacht an einem anderen Ort ruhen, jeden Sonnenaufgang schon im Wandern begrüßen.
+
+159
+00:13:58,820 --> 00:14:00,330
+Lockt Sie das?
+
+160
+00:14:00,330 --> 00:14:03,900
+Ich wäre glücklich, Ihnen diese Welt vorzuführen...
+
+161
+00:14:03,900 --> 00:14:14,450
+Lesen Sie viel, Sie müssen auch geistig vorwärts kommen, und Sie können das — Sie sind noch frisch und biegsam. Und nun muss ich schließen.
+
+162
+00:14:14,450 --> 00:14:17,590
+Seien Sie heiter und ruhig an diesem Tage.
+
+163
+00:14:17,590 --> 00:14:19,680
+Ihre Rosa.
+
+164
+00:14:20,780 --> 00:14:22,080
+Wronke, 18.
+
+165
+00:14:22,080 --> 00:14:22,380
+2.
+
+166
+00:14:22,380 --> 00:14:23,710
+17.
+
+167
+00:14:23,710 --> 00:14:24,420
+....
+
+168
+00:14:24,420 --> 00:14:35,420
+Seit langem hat mich nichts so erschüttert, wie der kurze Bericht Marthas über Ihren Besuch bei Karl, wie Sie ihn hinter dem Gitter fanden und wie das auf Sie wirkte.
+
+169
+00:14:35,420 --> 00:14:38,300
+Weshalb haben Sie mir das verschwiegen?
+
+170
+00:14:38,300 --> 00:14:45,830
+Ich habe ein Anrecht, an allem, was Ihnen weh tut, teilzunehmen, und lasse meine Besitzrechte nicht kürzen!
+
+171
+00:14:45,830 --> 00:14:54,740
+Die Sache hat mich übrigens lebhaft an mein erstes Wiedersehen mit den Geschwistern vor 10 Jahren in der Warschauer Zitadelle erinnert.
+
+172
+00:14:54,740 --> 00:15:09,890
+Dort wird man in einem förmlichen Doppelkäfig aus Drahtgeflecht vorgeführt, d. h. ein kleinerer Käfig steht frei in einem größeren, und durch das flimmernde Geflecht der beiden muss man sich unterhalten.
+
+173
+00:15:09,890 --> 00:15:22,480
+Da es dazu just nach einem 6tägigen Hungerstreik war, war ich so schwach, dass mich der Rittmeister (unser Festungskommandant) ins Sprechzimmer fast tragen musste,
+
+174
+00:15:22,480 --> 00:15:31,420
+und ich mich im Käfig mit beiden Händen am Draht festhielt, was wohl den Eindruck eines wilden Tieres im Zoo verstärkte.
+
+175
+00:15:31,420 --> 00:15:40,660
+Der Käfig stand in einem ziemlich dunklen Winkel des Zimmers und mein Bruder drückte sein Gesicht ziemlich dicht an den Draht.
+
+176
+00:15:40,660 --> 00:15:42,180
+»Wo bist Du?«
+
+177
+00:15:42,180 --> 00:15:55,590
+frug er immer und wischte sich vom Zwicker die Tränen, die ihn am Sehen hinderten. — Wie gern und freudig würde ich jetzt dort im Luckauer Käfig sitzen, um es Karl abzunehmen!
+
+178
+00:15:55,590 --> 00:15:58,810
+Richten Sie an Pfemfert meinen herzl.
+
+179
+00:15:58,810 --> 00:16:00,710
+Dank für den Galsworthy aus.
+
+180
+00:16:00,710 --> 00:16:16,500
+Ich habe ihn gestern zu Ende gelesen und freue mich sehr darüber. Dieser Roman hat mir freilich viel weniger gefallen als »Der reiche Mann«, nicht trotzdem, sondern weil die soziale Tendenz dort mehr überwiegt.
+
+181
+00:16:16,500 --> 00:16:22,150
+Im Roman schaue ich nicht nach der Tendenz, sondern nach künstlerischem Wert.
+
+182
+00:16:22,150 --> 00:16:28,710
+Und in dieser Beziehung stört mich in den »Weltbrüdern«, dass Galsworthy zu geistreich ist.
+
+183
+00:16:28,710 --> 00:16:30,320
+Das wird Sie wundern.
+
+184
+00:16:30,320 --> 00:16:49,220
+Aber es ist derselbe Typ wie Bernard Shaw oder auch wie Oskar Wilde, ein jetzt in der englischen Intelligenz wohl stark verbreiteter Typus: eines sehr gescheiten, verfeinerten, aber blasierten Menschen, der alles in der Welt mit lächelnder Skepsis betrachtet.
+
+185
+00:16:49,220 --> 00:17:01,460
+Die feinen ironischen Bemerkungen, die Galsworthy über seine eigenen personae dramatis mit dem ernsten Gesichte macht, lassen mich oft laut auflachen.
+
+186
+00:17:01,460 --> 00:17:17,110
+Aber wie wirklich wohlerzogene und vornehme Menschen nie oder selten über ihre Umgebung spötteln, wenn sie auch alles Lächerliche bemerken, so ironisiert ein wirklicher Künstler nie über seine eigenen Geschöpfe.
+
+187
+00:17:17,110 --> 00:17:23,090
+Wohlverstanden, Sonitschka, das schließt die Satire großen Stils nicht aus!
+
+188
+00:17:23,090 --> 00:17:33,350
+Zum Beispiel »Emanuel Quint« von Gerhart Hauptmann ist die blutigste Satire auf die moderne Gesellschaft, die seit hundert Jahren geschrieben worden ist.
+
+189
+00:17:33,350 --> 00:17:43,130
+Aber Hauptmann selbst grinst dabei nicht; er steht zum Schluss mit bebenden Lippen und weit offenen Augen, in denen Tränen schimmern.
+
+190
+00:17:43,130 --> 00:17:58,820
+Galsworthy dagegen wirkt auf mich mit seinen geistreichen Zwischenbemerkungen wie ein Tischnachbar, der mir auf einer Soiree beim Eintreten jedes neuen Gastes in den Salon eine Malice über ihn ins Ohr flüstert.....
+
+191
+00:17:59,880 --> 00:17:59,880
+...
+
+192
+00:17:59,880 --> 00:18:04,670
+Heute ist wieder Sonntag, der tötlichste Tag für Gefangene und Einsame.
+
+193
+00:18:04,670 --> 00:18:10,600
+Ich bin traurig, wünsche aber sehnlichst, dass Sie es nicht sind und Karl auch nicht.
+
+194
+00:18:10,600 --> 00:18:15,120
+Schreiben Sie bald, wann und wohin Sie endlich zur Erholung gehen.
+
+195
+00:18:15,120 --> 00:18:18,860
+Ich umarme Sie herzlich und grüße die Kinder
+
+196
+00:18:18,860 --> 00:18:20,940
+Ihre Rosa.
+
+197
+00:18:20,940 --> 00:18:24,940
+Kann Pf. mir nicht noch etwas Gutes schicken?
+
+198
+00:18:24,940 --> 00:18:26,800
+Vielleicht etwas von Th.
+
+199
+00:18:26,800 --> 00:18:27,530
+Mann?
+
+200
+00:18:27,530 --> 00:18:29,760
+Ich kenne noch nichts von ihm.
+
+201
+00:18:29,760 --> 00:18:41,620
+Noch eine Bitte: die Sonne fängt an, mich im Freien zu blenden; vielleicht schicken Sie mir im Briefcouvert 1 Meter dünnen schwarzen Schleier mit zerstreuten schwarzen Pünktchen!
+
+202
+00:18:41,620 --> 00:18:44,460
+Vielen Dank im voraus.
+
+203
+00:18:45,820 --> 00:18:47,280
+Wronke, 19.
+
+204
+00:18:47,280 --> 00:18:47,730
+4.
+
+205
+00:18:47,730 --> 00:18:49,000
+17.
+
+206
+00:18:49,000 --> 00:18:55,380
+Ich habe mich gestern über Ihren Kartengruß herzlich gefreut, obwohl er so traurig klang.
+
+207
+00:18:55,380 --> 00:19:11,710
+Wie möchte ich jetzt bei Ihnen sein, um Sie wieder zum Lachen zu bringen, wie damals nach Karls Verhaftung, als wir Beide — wissen Sie noch? — im Café Fürstenhof durch unsere übermütigen Lachsalven einiges Aufsehen erregten.
+
+208
+00:19:11,710 --> 00:19:15,440
+Wie war das damals schön — trotz alledem!
+
+209
+00:19:15,440 --> 00:19:33,940
+Unsere tägliche Jagd am frühen Morgen auf ein Automobil auf dem Potsdamer Platz, dann die Fahrt zum Gefängnis durch den blühenden Tiergarten, in der stillen Lehrter Straße mit den hohen Rüstern, dann auf dem Rückweg das obligate Absteigen im Fürstenhof,
+
+210
+00:19:33,940 --> 00:19:54,720
+dann Ihr obligater Besuch bei mir in Südende, wo alles in der Maipracht stand, die gemütlichen Stunden in meiner Küche, wo Sie und Mimi am weißgedeckten Tischchen geduldig auf die Erzeugnisse meiner Kochkunst warten (wissen Sie noch die feinen haricots verts à la Parisienne?...).
+
+211
+00:19:54,720 --> 00:20:08,030
+Zu alledem habe ich die lebhafte Erinnerung eines unveränderlich strahlenden heißen Wetters, und nur bei einem solchen hat man ja das richtige freudige Frühlingsgefühl.
+
+212
+00:20:08,030 --> 00:20:14,350
+Dann abends meine obligaten Besuche bei Ihnen, in Ihrem lieben Zimmerchen —
+
+213
+00:20:14,350 --> 00:20:32,330
+ich habe Sie so gern als Hausfrau, das steht Ihnen so besonders lieb, wenn Sie mit Ihrem Backfischfigürchen am Tisch stehend, Tee einschenken — und schließlich um Mitternacht unsere gegenseitige Begleiterei nach Hause durch die duftenden dunklen Straßen!
+
+214
+00:20:32,330 --> 00:20:50,340
+Erinnern Sie sich noch der fabelhaften Mondnacht in Südende, in der ich Sie heimbegleitete und uns die Häusergiebel mit ihren schroffen schwarzen Konturen auf dem Hintergrund der süßen Himmelsbläue wie alte Ritterburgen vorkamen?
+
+215
+00:20:50,340 --> 00:21:02,330
+Sonjuscha, so möchte ich ständig um Sie sein, Sie zerstreuen, mit Ihnen plaudern oder schweigen, damit Sie nicht in Ihr düsteres verzweifeltes Brüten verfallen.
+
+216
+00:21:02,330 --> 00:21:06,890
+Sie fragen in Ihrer Karte: »warum ist alles so?«
+
+217
+00:21:06,890 --> 00:21:16,770
+Sie Kind, »so« ist eben das Leben seit jeher, alles gehört dazu: Leid und Trennung und Sehnsucht.
+
+218
+00:21:16,770 --> 00:21:22,390
+Man muss es immer mit allem nehmen und alles schön und gut finden.
+
+219
+00:21:22,390 --> 00:21:24,960
+Ich tue es wenigstens so.
+
+220
+00:21:24,960 --> 00:21:41,430
+Nicht durch ausgeklügelte Weisheit, sondern einfach so aus meiner Natur. Ich fühle instinktiv, dass das die einzige richtige Art ist, das Leben zu nehmen und fühle mich deshalb wirklich glücklich in jeder Lage.
+
+221
+00:21:41,430 --> 00:21:47,650
+Ich möchte auch nichts aus meinem Leben missen und nichts anders haben, als es war und ist.
+
+222
+00:21:47,650 --> 00:21:52,360
+Wenn ich Sie doch zu dieser Lebensauffassung bringen könnte!...
+
+223
+00:21:52,360 --> 00:21:56,180
+Ich habe Ihnen noch nicht für das Bild Karls gedankt.
+
+224
+00:21:56,180 --> 00:21:58,930
+Wie haben Sie mich damit erfreut!
+
+225
+00:21:58,930 --> 00:22:04,480
+Es war wirklich das schönste Geburtstagsgeschenk, das Sie mir geben konnten.
+
+226
+00:22:04,480 --> 00:22:17,190
+Es steht im guten Rahmen auf dem Tisch vor mir und verfolgt mich überall mit seinen Blicken (Sie wissen, es gibt Bilder, die einen anzuschauen scheinen, wo man sie auch hinstellt).
+
+227
+00:22:17,190 --> 00:22:20,110
+Das Bild ist ausgezeichnet getroffen.
+
+228
+00:22:20,110 --> 00:22:24,570
+Wie muss Karl sich jetzt über die Nachrichten aus Russland freuen!
+
+229
+00:22:24,570 --> 00:22:33,150
+Aber auch Sie persönlich haben Grund, fröhlich zu sein: nun wird ja der Reise Ihrer Mutter zu Ihnen wohl nichts im Wege stehen!
+
+230
+00:22:33,150 --> 00:22:36,150
+Haben Sie das schon ins Auge gefasst?
+
+231
+00:22:36,150 --> 00:22:40,520
+Ihretwegen wünsche ich dringend Sonne und Wärme herbei.
+
+232
+00:22:40,520 --> 00:22:46,580
+Hier steht noch alles erst in Knospen und gestern hatten wir Schneegraupen.
+
+233
+00:22:46,580 --> 00:22:51,930
+Wie mag es wohl in meiner »südlichen Landschaft« in Südende aussehen?
+
+234
+00:22:51,930 --> 00:22:58,900
+Voriges Jahr standen wir beide dort vor dem Gitter und Sie bewunderten die Fülle des Flors....
+
+235
+00:22:58,900 --> 00:23:02,230
+Sie sollen sich nicht mit Briefen abquälen.
+
+236
+00:23:02,230 --> 00:23:09,960
+Ich will Ihnen häufig schreiben, mir genügt aber vollkommen, wenn Sie einen kurzen Gruß auf einer Postkarte schicken!
+
+237
+00:23:09,960 --> 00:23:13,530
+Seien Sie viel im Freien, botanisieren Sie viel.
+
+238
+00:23:13,530 --> 00:23:16,960
+Haben Sie den kleinen Blumenatlas von mir mit?
+
+239
+00:23:16,960 --> 00:23:21,210
+Seien Sie ruhig und heiter, Liebste, alles wird gut gehen!
+
+240
+00:23:21,210 --> 00:23:22,750
+Sie werden sehen!
+
+241
+00:23:22,750 --> 00:23:26,140
+Ich umarme Sie vielmals und herzlich
+
+242
+00:23:26,140 --> 00:23:27,310
+stets Ihre
+
+243
+00:23:27,310 --> 00:23:28,800
+Rosa.
+
+244
+00:23:30,220 --> 00:23:31,080
+Wronke, 2.
+
+245
+00:23:31,080 --> 00:23:31,520
+5.
+
+246
+00:23:31,520 --> 00:23:32,820
+17.
+
+247
+00:23:32,820 --> 00:23:44,270
+Vorigen April rief ich Euch einmal Beide, wenn Sie sich erinnern, telephonisch dringend um 10 Uhr früh in den Botanischen, um mit mir die Nachtigall zu hören,
+
+248
+00:23:44,270 --> 00:24:05,240
+die ein ganzes Konzert gab. Wir saßen dann still versteckt im dichten Gebüsch auf Steinen an einem kleinen sickernden Wasser; nach der Nachtigall hörten wir aber plötzlich so einen eintönigen klagenden Ruf, der etwa so lautete: »Gligligligligliglick!«
+
+249
+00:24:05,240 --> 00:24:23,670
+Ich sagte, das klinge wie irgend ein Sumpf- oder Wasservogel, und Karl stimmte dem bei, aber wir konnten absolut nicht herausfinden, wer's war. Denken Sie, denselben Klageruf hörte ich plötzlich hier in der Nähe vor einigen Tagen in der Frühe,
+
+250
+00:24:23,670 --> 00:24:29,460
+so dass mir das Herz vor Ungeduld pochte, endlich zu erfahren, wer das sei.
+
+251
+00:24:29,460 --> 00:24:39,200
+Ich hatte keine Ruhe, bis ich's heute herausfand: es ist kein Wasservogel, sondern der Wendehals, eine graue Spechtart.
+
+252
+00:24:39,200 --> 00:24:51,900
+Er ist nur ein wenig größer als der Sperling und hat seinen Namen daher, weil er in Gefahr die Feinde durch komische Gebärden und Kopfverrenkungen zu schrecken sucht.
+
+253
+00:24:51,900 --> 00:25:04,690
+Er lebt nur von Ameisen, die er an seiner klebrigen Zunge ansammelt, wie der Ameisenbär. Die Spanier nennen ihn deshalb Hormiguero — der Ameisenvogel.
+
+254
+00:25:04,690 --> 00:25:12,640
+Mörike hat übrigens auf diesen Vogel ein sehr hübsches Scherzgedicht gemacht, das Hugo Wolf auch vertont hat.
+
+255
+00:25:12,640 --> 00:25:19,810
+Mir ist, als hätte ich ein Geschenk gekriegt, seit ich weiß, wer der Vogel mit der klagenden Stimme ist.
+
+256
+00:25:19,810 --> 00:25:24,630
+Vielleicht schreiben Sie es auch Karl, es würde ihn freuen.
+
+257
+00:25:24,630 --> 00:25:26,730
+Was ich lese?
+
+258
+00:25:26,730 --> 00:25:32,990
+Hauptsächlich Naturwissenschaftliches: Pflanzengeographie und Tiergeographie.
+
+259
+00:25:32,990 --> 00:25:38,650
+Gestern las ich gerade über die Ursache des Schwindens der Singvögel in Deutschland:
+
+260
+00:25:38,650 --> 00:25:56,180
+es ist die zunehmende rationelle Forstkultur, Gartenkultur und der Ackerbau, die ihnen alle natürlichen Nist- und Nahrungsbedingungen: hohle Bäume, Ödland, Gestrüpp, welkes Laub auf dem Gartenboden — Schritt für Schritt vernichten.
+
+261
+00:25:56,180 --> 00:25:59,940
+Mir war es so sehr weh, als ich das las.
+
+262
+00:25:59,940 --> 00:26:12,870
+Nicht um den Gesang für die Menschen ist es mir, sondern das Bild des stillen unaufhaltsamen Untergangs dieser wehrlosen kleinen Geschöpfe schmerzt mich so, dass ich weinen musste.
+
+263
+00:26:12,870 --> 00:26:17,340
+Es erinnerte mich an ein russisches Buch von Prof.
+
+264
+00:26:17,340 --> 00:26:35,710
+Sieber über den Untergang der Rothäute in Nordamerika, das ich noch in Zürich gelesen habe: sie werden genau so Schritt für Schritt durch die Kulturmenschen von ihrem Boden verdrängt und einem stillen grausamen Untergang preisgegeben.
+
+265
+00:26:35,710 --> 00:26:41,230
+Aber ich bin ja natürlich krank, dass mich jetzt alles so tief erschüttert.
+
+266
+00:26:41,230 --> 00:26:42,420
+Oder wissen Sie?
+
+267
+00:26:42,420 --> 00:26:52,730
+ich habe manchmal das Gefühl, ich bin kein richtiger Mensch, sondern auch irgend ein Vogel oder ein anderes Tier in Menschengestalt;
+
+268
+00:26:52,730 --> 00:27:04,870
+innerlich fühle ich mich in so einem Stückchen Garten wie hier oder im Feld unter Hummeln und Gras viel mehr in meiner Heimat als — auf einem Parteitag.
+
+269
+00:27:04,870 --> 00:27:11,810
+Ihnen kann ich ja wohl das alles sagen: Sie werden nicht gleich Verrat am Sozialismus wittern.
+
+270
+00:27:11,810 --> 00:27:20,140
+Sie wissen, ich werde trotzdem hoffentlich auf dem Posten sterben: in einer Straßenschlacht oder im Zuchthaus.
+
+271
+00:27:20,140 --> 00:27:25,540
+Aber mein innerstes Ich gehört mehr meinen Kohlmeisen als den »Genossen«.
+
+272
+00:27:25,540 --> 00:27:34,980
+Und nicht etwa, weil ich in der Natur, wie so viele, innerlich bankerotte Politiker ein Refugium, ein Ausruhen finde.
+
+273
+00:27:34,980 --> 00:27:43,650
+Im Gegenteil, ich finde auch in der Natur auf Schritt und Tritt so viel Grausames, dass ich sehr leide.
+
+274
+00:27:43,650 --> 00:27:45,310
+Denken Sie z.
+
+275
+00:27:45,310 --> 00:27:50,310
+B., dass mir das folgende kleine Erlebnis nicht aus dem Sinn kommt.
+
+276
+00:27:50,310 --> 00:28:01,040
+Vorigen Frühling ging ich in meiner stillen leeren Straße von einem Feldspaziergang heim, als mir auf dem Boden ein dunkler kleiner Fleck auffiel.
+
+277
+00:28:01,040 --> 00:28:21,080
+Ich bückte mich und sah ein lautloses Trauerspiel: ein großer Mistkäfer lag auf dem Rücken und wehrte sich hilflos mit den Beinen, während ein ganzer Haufen winziger Ameisen auf ihm herumwimmelten und ihn — bei lebendigem Leibe verzehrten!
+
+278
+00:28:21,080 --> 00:28:29,280
+Mich schauerte es, ich nahm mein Taschentuch heraus und fing an, die brutalen Bestien wegzujagen.
+
+279
+00:28:29,280 --> 00:28:45,470
+Sie waren aber so frech und hartnäckig, dass ich einen langen Kampf mit ihnen ausfechten musste, und als ich endlich den armen Dulder befreit und weit aufs Gras gelegt hatte, waren ihm schon zwei Beine abgefressen....
+
+280
+00:28:45,470 --> 00:28:54,310
+Ich lief fort mit dem peinigenden Gefühl, dass ich ihm schließlich eine sehr zweifelhafte Wohltat erwiesen habe.
+
+281
+00:28:54,310 --> 00:28:58,440
+Jetzt gibt es schon so lange Dämmerung abends.
+
+282
+00:28:58,440 --> 00:29:00,950
+Wie liebe ich sonst diese Stunde!
+
+283
+00:29:00,950 --> 00:29:07,550
+In Südende hatte ich viele Amseln, hier sehe und höre ich jetzt keine.
+
+284
+00:29:07,550 --> 00:29:13,010
+Den ganzen Winter fütterte ich ein Paar und nun ist es verschwunden.
+
+285
+00:29:13,010 --> 00:29:33,660
+In Südende pflegte ich um diese Zeit abends in der Straße herumzuschlendern; es ist so schön, wenn noch im letzten violetten Tageslicht plötzlich die rosigen Gasflammen an den Laternen aufzucken und noch so fremd in der Dämmerung aussehen, als schämten sie sich selbst ein wenig.
+
+286
+00:29:33,660 --> 00:29:47,440
+Durch die Straße huscht dann geschäftig die undeutliche Gestalt irgend einer verspäteten Portierfrau oder eines Dienstmädchens, die noch schnell zum Bäcker oder Krämer laufen, um etwas zu holen.
+
+287
+00:29:47,440 --> 00:29:58,890
+Die Schusterkinder, mit denen ich befreundet bin, pflegten noch in der Straße im Dunkeln zu spielen, bis sie von der Ecke aus energisch nach Hause gerufen wurden.
+
+288
+00:29:58,890 --> 00:30:14,650
+Um diese Stunde gab es immer noch irgend eine Amsel, die keine Ruhe finden konnte und plötzlich wie ein ungezogenes Kind kreischte oder plapperte aus dem Schlaf und geräuschvoll von einem Baum zum andern flog.
+
+289
+00:30:14,650 --> 00:30:30,570
+Und ich stand da mitten in der Straße, zählte die ersten Sterne und mochte gar nicht heim aus der linden Luft und der Dämmerung, in der sich der Tag und die Nacht so weich ineinanderschmiegten.
+
+290
+00:30:30,570 --> 00:30:38,850
+Sonjuschka, ich schreibe Ihnen bald wieder. Seien Sie ruhig und heiter, alles wird gut werden, auch mit Karl.
+
+291
+00:30:38,850 --> 00:30:41,780
+Auf Wiedersehen bis zum nächsten Brief.
+
+292
+00:30:41,780 --> 00:30:43,210
+Ich umarme Sie.
+
+293
+00:30:43,210 --> 00:30:45,220
+Ihre Rosa.
+
+294
+00:30:46,500 --> 00:30:48,370
+Ende
+von
+Teil 1
+
+295
+00:30:48,370 --> 00:30:51,500
+Gelesen von Hokuspokus
+
+296
+00:30:57,460 --> 00:31:00,460
+Teil 2
+von
+Briefe aus dem Gefängnis
+
+297
+00:31:00,460 --> 00:31:03,780
+Diese LibriVox-Aufnahme ist in der Public Domain.
+
+298
+00:31:03,780 --> 00:31:07,660
+Briefe aus dem Gefängnis
+von
+Rosa Luxemburg
+
+299
+00:31:07,660 --> 00:31:09,280
+Teil 2
+
+300
+00:31:09,280 --> 00:31:11,280
+Wronke, 19.
+
+301
+00:31:11,280 --> 00:31:11,770
+5.
+
+302
+00:31:11,770 --> 00:31:13,160
+17.
+
+303
+00:31:13,160 --> 00:31:13,920
+.......
+
+304
+00:31:13,920 --> 00:31:15,730
+Wie schön ist es jetzt hier!
+
+305
+00:31:15,730 --> 00:31:17,820
+Alles grünt und blüht.
+
+306
+00:31:17,820 --> 00:31:31,880
+Die Kastanienbäume sind in frischem herrlichen Laubschmuck, die Zierjohannisbeeren haben gelbe Sternchen, die Zierkirsche mit dem rötlichen Laub blüht auch schon und der Faulbaum wird nächstens blühen.
+
+307
+00:31:31,880 --> 00:31:42,950
+Ich habe heute von Luise Kautsky, die mich besucht hat, zum Abschied einen Haufen Vergissmeinnicht und Stiefmütterchen gekriegt und sie selbst eingepflanzt!
+
+308
+00:31:42,950 --> 00:32:01,370
+Zwei runde Klümpchen und eine gerade Linie dazwischen, immer abwechselnd Vergissmeinnicht und Stiefmütterchen, — alles steht so fest; ich traue kaum meinen Augen, denn ich habe zum ersten Mal im Leben gepflanzt und alles ist gleich so gelungen.
+
+309
+00:32:01,370 --> 00:32:05,370
+Gerade zu Pfingsten werde ich so viel Blumen vor dem Fenster haben!
+
+310
+00:32:05,370 --> 00:32:14,750
+Vögel gibt es jetzt hier eine Menge neue, jeden Tag lerne ich wieder einen kennen, den ich nie gesehen hatte.
+
+311
+00:32:14,750 --> 00:32:25,480
+Ach, wissen Sie noch, damals im Botanischen mit Karl in der Frühe, als wir die Nachtigall hörten, da sahen wir auch einen so großen Baum,
+
+312
+00:32:25,480 --> 00:32:44,210
+der noch ganz ohne Laub, aber massenhaft mit kleinen leuchtend weißen Blüten bedeckt war; wir zerbrachen uns den Kopf, was denn das sei, denn es war klar, dass es kein Obstbaum war und die Blüten waren auch etwas seltsam. Jetzt weiß ich!
+
+313
+00:32:44,210 --> 00:32:51,220
+Das ist eine Silberpappel und diese Blüten sind keine Blüten, sondern junge Blättchen.
+
+314
+00:32:51,220 --> 00:33:06,320
+Das erwachsene Blatt der Silberpappel ist nämlich nur unten weiß, oben dunkelgrün, die jungen aber sind noch beiderseits mit weißem Flaum bedeckt und leuchten in der Sonne wie weiße Blüten.
+
+315
+00:33:06,320 --> 00:33:14,380
+Solch eine große Pappel steht hier in meinem Gärtlein und auf ihr sitzen mit Vorliebe alle Singvögel.
+
+316
+00:33:14,380 --> 00:33:21,350
+Damals, am gleichen Tage, wart Ihr Beide bei mir abends, erinnern Sie sich noch?
+
+317
+00:33:21,350 --> 00:33:39,330
+Es war so schön; wir lasen uns etwas vor, und um Mitternacht, als wir stehend Abschied nahmen — durch die offene Balkontür floss himmlische Luft mit Jasminduft herein —, trug ich Euch noch jenes spanische Lied vor, das ich so gern habe:
+
+318
+00:33:39,330 --> 00:33:53,270
+Gepriesen sei, durch wen die Welt entstund, Wie trefflich schuf er sie nach allen Seiten, Er schuf das Meer mit endlos tiefem Grund, Er schuf die Schiffe, die hinübergleiten.
+
+319
+00:33:53,270 --> 00:34:01,450
+Er schuf das Paradies mit ewigem Licht, Er schuf die Erde — und Dein Angesicht!....
+
+320
+00:34:01,450 --> 00:34:15,010
+Ach Sonitschka, wenn Sie das nicht in Wolfscher Musik gehört haben, dann wissen Sie nicht, wieviel glühende Leidenschaft in diesen schlichten zwei Schlussworten liegt.
+
+321
+00:34:15,010 --> 00:34:23,300
+Jetzt, während ich das schreibe, ist eine große Hummel ins Zimmer geflogen und füllt es mit tiefem Brummen.
+
+322
+00:34:23,300 --> 00:34:34,520
+Wie schön das ist, welche tiefe Lebensfreude liegt in diesem satten Ton, der von Fleiß und Sommerhitze und Blumenduft vibriert.
+
+323
+00:34:34,520 --> 00:34:42,650
+Sonitschka, seien Sie heiter und schreiben Sie bald, bald, ich habe Sehnsucht.
+
+324
+00:34:42,650 --> 00:34:44,820
+Ihre Rosa.
+
+325
+00:34:46,080 --> 00:34:47,770
+Wronke, den 23.
+
+326
+00:34:47,770 --> 00:34:48,270
+5.
+
+327
+00:34:48,270 --> 00:34:49,750
+17.
+
+328
+00:34:49,750 --> 00:34:50,630
+...
+
+329
+00:34:50,630 --> 00:34:55,630
+Ihr letzter Brief vom 14. war schon hier, als ich den meinigen abschickte.
+
+330
+00:34:55,630 --> 00:35:03,450
+Ich bin sehr froh, wieder in Fühlung mit Ihnen zu sein und möchte Ihnen heute einen warmen Pfingstgruß senden!
+
+331
+00:35:03,450 --> 00:35:10,630
+»Pfingsten, das liebliche Fest, war gekommen«, so beginnt der Goethesche Reineke Fuchs.
+
+332
+00:35:10,630 --> 00:35:14,850
+Hoffentlich werden Sie es einigermaßen heiter verleben.
+
+333
+00:35:14,850 --> 00:35:27,260
+Voriges Jahr haben wir ja zu Pfingsten mit Mathilde den schönen Ausflug nach Lichtenrade gemacht, wo ich die Ähren für Karl pflückte und den wundervollen Zweig mit Birkenkätzchen.
+
+334
+00:35:27,260 --> 00:35:36,640
+Am Abend gingen wir dann noch als die »drei edlen Frauen aus Ravenna« mit Rosen in der Hand auf dem Südender Feld spazieren....
+
+335
+00:35:36,640 --> 00:35:46,920
+Hier blüht jetzt auch schon der Flieder, heute ist er aufgegangen; es ist so warm, dass ich mein leichtestes Musselinkleid anziehen musste.
+
+336
+00:35:46,920 --> 00:35:53,700
+Trotz Sonne und Wärme sind aber meine Vöglein nach und nach fast ganz verstummt.
+
+337
+00:35:53,700 --> 00:36:07,110
+Sie sind offenbar alle vom Brutgeschäft sehr in Anspruch genommen; die Weibchen sitzen im Nest, und die Männchen haben alle Schnabel voll zu tun, um für sich und die Gattinnen Nahrung zu suchen.
+
+338
+00:36:07,110 --> 00:36:26,760
+Auch nisten sie wohl mehr draußen im Feld oder auf größeren Bäumen, wenigstens ist es jetzt in meinem Gärtlein still; nur hie und da schlägt kurz die Nachtigall, oder der Grünling macht seine klopfenden Tritte, oder spät abends schmettert noch einmal der Buchfink,
+
+339
+00:36:26,760 --> 00:36:30,170
+meine Meisen lassen sich gar nicht mehr blicken.
+
+340
+00:36:30,170 --> 00:36:38,580
+Nur einen kurzen Gruß bekam ich plötzlich gestern von weitem von einer Blaumeise, und das hat mich ganz erschüttert.
+
+341
+00:36:38,580 --> 00:36:46,640
+Die Blaumeise ist nämlich nicht wie die Kohlmeise Standvogel, sondern sie kommt erst Ende März wieder zu uns.
+
+342
+00:36:46,640 --> 00:37:02,580
+Sie hielt sich auch zuerst immer in der Nähe meiner Fenster, kam mit den anderen zum Fenster und sang fleißig ihr drolliges »Zizi bä«, aber so ganz gedehnt, dass es wie ungezogenes Kindernecken klang.
+
+343
+00:37:02,580 --> 00:37:07,530
+Ich musste jedesmal lachen und ihr ebenso antworten.
+
+344
+00:37:07,530 --> 00:37:13,950
+Dann verschwand sie anfangs Mai mit den anderen, um irgendwo draußen zu brüten.
+
+345
+00:37:13,950 --> 00:37:17,060
+Ich sah und hörte sie wochenlang nicht mehr.
+
+346
+00:37:17,060 --> 00:37:38,380
+Gestern höre ich plötzlich von drüben über die Mauer, die unseren Hof von einem anderen Gefängnisterrain trennt, den bekannten Gruß, aber so ganz verändert, nur ganz kurz und eilig dreimal hintereinander »Zizi bä — Zizi bä — Zizi bä«, dann wurde es still.
+
+347
+00:37:38,380 --> 00:37:48,000
+Mir zuckte das Herz zusammen, so viel lag in diesem eiligen, fernen Ruf, eine ganze kleine Vogelgeschichte.
+
+348
+00:37:48,000 --> 00:38:04,930
+Das war nämlich eine Erinnerung der Blaumeise an die schöne Zeit des Liebeswerbens im Vorfrühling, wo man den ganzen Tag sang und lockte; jetzt aber heißt es den ganzen Tag fliegen und Mücken sammeln für sich und die Familie,
+
+349
+00:38:04,930 --> 00:38:27,180
+also nur kurz eine Reminiszenz: »Ich habe keine Zeit — ach ja, es war schön — Frühling ist bald zu Ende — Zizi bä — Zizi bä — Zizi bä —! — — —« Glauben Sie mir, Sonjuscha, dass mich ein solcher kleiner Vogelruf, in dem so viel Ausdruck liegt, tief ergreifen kann.
+
+350
+00:38:27,180 --> 00:38:38,990
+Meine Mutter, die nebst Schiller die Bibel für der höchsten Weisheit Quell hielt, glaubte steif und fest, dass König Salomo die Sprache der Vögel verstand.
+
+351
+00:38:38,990 --> 00:38:50,700
+Ich lächelte damals mit der ganzen Überlegenheit meiner 14 Jahre und einer modernen naturwissenschaftlichen Bildung über diese mütterliche Naivität.
+
+352
+00:38:50,700 --> 00:38:58,730
+Jetzt bin ich selbst wie König Salomo: ich verstehe auch die Sprache der Vögel und der Tiere.
+
+353
+00:38:58,730 --> 00:39:08,730
+Natürlich nicht, als ob sie menschliche Worte gebrauchten, sondern ich verstehe die verschiedensten Nuancen und Empfindungen, die sie in ihre Laute legen.
+
+354
+00:39:08,730 --> 00:39:15,700
+Nur dem rohen Ohr eines gleichgültigen Menschen ist ein Vogelgesang immer ein und dasselbe.
+
+355
+00:39:15,700 --> 00:39:25,770
+Wenn man die Tiere liebt und für sie Verständnis hat, findet man große Mannigfaltigkeit des Ausdrucks, eine ganze Sprache.
+
+356
+00:39:25,770 --> 00:39:44,100
+Auch das allgemeine Verstummen jetzt nach dem Lärm des Vorfrühlings, und ich weiß, wenn ich noch im Herbst hier bin, was aller Wahrscheinlichkeit nach der Fall sein wird, dann werden alle meine Freunde wieder zurückkehren und an meinem Fenster Futter suchen;
+
+357
+00:39:44,100 --> 00:39:50,960
+ich freue mich schon jetzt auf die eine Kohlmeise, mit der ich besonders befreundet bin.
+
+358
+00:39:50,960 --> 00:40:00,650
+Sonjuscha, Sie sind erbittert über meine lange Haft und fragen: »Wie kommt es, dass Menschen über andere Menschen entscheiden dürfen.
+
+359
+00:40:00,650 --> 00:40:02,950
+Wozu ist das alles?«
+
+360
+00:40:02,950 --> 00:40:08,210
+Verzeihen Sie, aber ich musste beim Lesen laut herauslachen.
+
+361
+00:40:08,210 --> 00:40:29,860
+Bei Dostojewski, in den Brüdern Karamasoff, gibt es eine Madame Chochlakowa, die genau solche Fragen zu stellen pflegte, wobei sie ratlos von einem zum andern in der Gesellschaft herumblickte, ehe aber auch nur einer zu antworten versuchte, schon auf etwas anderes herübersprang.
+
+362
+00:40:29,860 --> 00:40:47,440
+Mein Vöglein, die ganze Kulturgeschichte der Menschheit, die nach bescheidenen Schätzungen einige zwanzig Jahrtausende dauert, basiert auf der »Entscheidung von Menschen über andere Menschen«, was in den materiellen Lebensbedingungen tiefe Wurzeln hat.
+
+363
+00:40:47,440 --> 00:41:00,540
+Erst eine weitere qualvolle Entwicklung vermag dies zu ändern, wir sind ja gerade jetzt Zeugen einer dieser qualvollen Kapitel, und Sie fragen, wozu das Alles?
+
+364
+00:41:00,540 --> 00:41:06,990
+»Wozu« — — ist überhaupt kein Begriff für die Gesamtheit des Lebens und seine Formen.
+
+365
+00:41:06,990 --> 00:41:10,130
+Wozu gibt es Blaumeisen auf der Welt?
+
+366
+00:41:10,130 --> 00:41:24,230
+Ich weiß es wirklich nicht, aber ich freue mich, dass es welche gibt und empfinde als süßen Trost, wenn mir plötzlich über die Mauer ein eiliges Zizi bä aus der Ferne herübertönt.
+
+367
+00:41:24,230 --> 00:41:28,490
+Sie überschätzen übrigens meine »Abgeklärtheit«.
+
+368
+00:41:28,490 --> 00:41:44,870
+Mein inneres Gleichgewicht und meine Glückseligkeit können leider schon beim leisesten Schatten, der auf mich fällt, aus den Fugen gehen, und ich leide dann unaussprechlich, nur dass ich die Eigentümlichkeit besitze, dann zu verstummen.
+
+369
+00:41:44,870 --> 00:41:50,460
+Buchstäblich, Sonitschka, ich kann dann kein Wort über die Lippen bringen.
+
+370
+00:41:50,460 --> 00:42:08,750
+Zum Beispiel in diesen letzten Tagen, ich war schon so heiter und selig, freute mich der Sonne, da erfasste mich plötzlich am Montag ein eisiger Sturmwind, und auf einmal wandelte sich meine strahlende Heiterkeit in tiefsten Jammer.
+
+371
+00:42:08,750 --> 00:42:21,620
+Und wenn meiner Seele Glück in Person plötzlich vor mir stände, ich brächte keinen Ton über die Lippen und könnte höchstens mit stummem Blick meine Verzweiflung klagen.
+
+372
+00:42:21,620 --> 00:42:37,460
+Freilich komme ich selten genug in die Versuchung zu reden, ich höre ja wochenlang meine eigene Stimme nicht, dies ist übrigens der Grund, weshalb ich den heroischen Entschluss gefasst habe, meine Mimi doch nicht herkommen zu lassen.
+
+373
+00:42:37,460 --> 00:42:50,310
+Das Tierchen ist gewöhnt an Munterkeit und Leben, sie hat es gern, wenn ich singe, lache und mit ihr durch alle Zimmer Haschen spiele, sie würde mir ja hier trübsinnig werden.
+
+374
+00:42:50,310 --> 00:42:53,000
+Ich lasse sie also bei Mathilde.
+
+375
+00:42:53,000 --> 00:42:59,310
+Mathilde kommt zu mir in den nächsten Tagen und ich hoffe mich dann wieder aufzurappeln.
+
+376
+00:42:59,310 --> 00:43:04,180
+Vielleicht wird Pfingsten auch für mich »das liebliche Fest« sein.
+
+377
+00:43:04,180 --> 00:43:15,960
+Sonitschka, seien Sie mir heiter und ruhig, alles wird doch noch gut werden, glauben Sie mir, grüßen Sie herzlichst Karl, ich umarme Sie vielmals
+
+378
+00:43:15,960 --> 00:43:17,690
+Ihre Rosa.
+
+379
+00:43:17,690 --> 00:43:21,020
+Vielen Dank für das schöne Bildchen.
+
+380
+00:43:22,280 --> 00:43:25,500
+Wronke, Ende Mai 1917.
+
+381
+00:43:25,500 --> 00:43:30,590
+Sonjuscha, wissen Sie, wo ich bin, wo ich Ihnen diesen Brief schreibe?
+
+382
+00:43:30,590 --> 00:43:32,030
+Im Garten!
+
+383
+00:43:32,030 --> 00:43:38,800
+Ich habe mir ein kleines Tischchen herausgeschleppt und sitze nun versteckt zwischen grünen Sträuchern.
+
+384
+00:43:38,800 --> 00:43:54,360
+Rechts von mir die gelbe Zierjohannisbeere, die nach Gewürznelken duftet, links ein Ligusterstrauch, über mir reichen ein Spitzahorn und ein junger, schlanker Kastanienbaum einander ihre breiten, grünen Hände,
+
+385
+00:43:54,360 --> 00:44:02,660
+und vor mir rauscht langsam mit ihren weißen Blättern die große, ernste und milde Silberpappel.
+
+386
+00:44:02,660 --> 00:44:16,480
+Auf dem Papier, auf dem ich schreibe, tanzen leichte Schatten der Blätter mit hellen Lichtkringeln der Sonne, und von dem regenfeuchten Laub fällt mir auf Gesicht und Hände ab und zu ein Tropfen.
+
+387
+00:44:16,480 --> 00:44:33,400
+In der Gefängniskirche ist Gottesdienst; dumpfes Orgelspiel dringt undeutlich heraus, gedeckt vom Rauschen der Bäume und dem hellen Chor der Vögel, die heute alle munter sind; aus der Ferne ruft der Kuckuck.
+
+388
+00:44:33,400 --> 00:44:54,320
+Wie ist es schön, wie bin ich glücklich, man spürt schon beinahe die Johannisstimmung — die volle, üppige Reife des Sommers und den Lebensrausch; kennen Sie die Szene in den Wagnerschen Meistersingern, die Volksszene, wo eine bunte Menge in die Hände klatscht: Johannistag!
+
+389
+00:44:54,320 --> 00:44:55,980
+Johannistag!
+
+390
+00:44:55,980 --> 00:45:00,980
+und alles plötzlich anfängt, einen Biedermeierwalzer zu tanzen?
+
+391
+00:45:00,980 --> 00:45:08,010
+In diese Stimmung könnte man in diesen Tagen kommen. — Was habe ich alles gestern erlebt!!
+
+392
+00:45:08,010 --> 00:45:09,920
+Das muss ich Ihnen erzählen.
+
+393
+00:45:09,920 --> 00:45:14,930
+Vormittag fand ich im Baderaum am Fenster ein großes Pfauenauge.
+
+394
+00:45:14,930 --> 00:45:25,690
+Es war wohl schon ein paar Tage drin und hatte sich an der harten Scheibe zu Tode mattgeflattert; es gab nur noch schwache Lebenszeichen mit den Flügeln.
+
+395
+00:45:25,690 --> 00:45:39,740
+Als ich es bemerkte, zog ich mich zitternd vor Ungeduld wieder an, kletterte aufs Fenster und nahm es behutsam in die Hände, — es wehrte sich nicht mehr, und ich dachte, es sei wohl schon tot.
+
+396
+00:45:39,740 --> 00:45:57,920
+Ich setzte es bei mir auf das Gesims vor dem Fenster, damit es zu sich käme, und da regte sich noch schwach das Lebensflämmchen, aber es blieb still sitzen; dann legte ich ihm vor die Fühler ein paar offene Blüten, damit es was zu essen habe;
+
+397
+00:45:57,920 --> 00:46:13,460
+gerade sang vor dem Fenster hell und übermütig der Gartenspötter, dass es hallte; ich sagte unwillkürlich laut: hör zu, wie das Vöglein lustig singt, da muss dir doch auch das bisschen Leben zurückkehren!
+
+398
+00:46:13,460 --> 00:46:22,120
+Ich musste selbst lachen über diese Ansprache an das halbtote Pfauenauge und dachte mir: verlorene Worte!
+
+399
+00:46:22,120 --> 00:46:32,190
+Aber nein — nach einer halben Stunde erholte sich das Tierchen, rutschte erst ein bisschen hin und her und flog endlich langsam fort!
+
+400
+00:46:32,190 --> 00:46:35,840
+Wie freute ich mich über diese Rettung!
+
+401
+00:46:35,840 --> 00:46:38,480
+Das war ein Erlebnis.
+
+402
+00:46:38,480 --> 00:46:49,760
+Nachmittags ging ich natürlich wieder in den Garten, in dem ich von 8 Uhr früh bis 12 bin (wo man mich zum Essen ruft) und wieder von 3 bis 6.
+
+403
+00:46:49,760 --> 00:46:57,450
+Ich wartete auf die Sonne, ich hatte das Empfinden, sie müsse, sie müsse sich noch gestern zeigen.
+
+404
+00:46:57,450 --> 00:47:01,310
+Aber sie zeigte sich nicht, und ich wurde traurig.
+
+405
+00:47:01,310 --> 00:47:07,560
+Ich ging im Garten umher und sah bei dem leichten Winde etwas Merkwürdiges:
+
+406
+00:47:07,560 --> 00:47:26,920
+an der Silberpappel zerflatterten die überreifen Kätzchen und ihr Samenflaum flog rings umher, füllte die ganze Luft wie mit Schneeflocken, bedeckte die Erde und den ganzen Hof; das sah so geisterhaft aus, wie der Silberflaum herumflatterte!
+
+407
+00:47:26,920 --> 00:47:43,950
+Die Silberpappel blüht später als alle anderen Kätzchenträger, und dank dieser üppigen Samenausstreuung verbreitet sie sich sehr weit, ihre kleinen Schösslinge sprießen wie Unkraut aus allen Ritzen an der Mauer und zwischen Steinen.
+
+408
+00:47:43,950 --> 00:48:03,580
+Dann wurde ich um 6, wie immer, wieder eingesperrt, saß traurig mit einem dumpfen Druck im Kopf am Fenster, denn es war schwül, und blickte hinauf, wo unter weißen, flockigen Wolken auf pastellblauem Grund in schwindelnder Höhe die Schwalben munter herumschossen,
+
+409
+00:48:03,580 --> 00:48:09,140
+und mit ihren spitzen Flügeln die Luft wie mit Scherchen zu zerschneiden schienen.
+
+410
+00:48:09,140 --> 00:48:21,880
+Bald verdunkelte sich aber der Himmel, alles verstummte, und es gab ein Gewitter mit heftigem Platzregen und zwei krachenden Donnerschlägen, bei denen alles erbebte.
+
+411
+00:48:21,880 --> 00:48:26,560
+Daraus folgte ein Bild, das mir unvergesslich bleibt.
+
+412
+00:48:26,560 --> 00:48:42,300
+Das Gewitter hatte sich bald weiter verzogen, der Himmel wurde dick einfarbig grau, eine stumpfe, fahle, gespenstische Dämmerung senkte sich plötzlich auf die Erde, es war, wie wenn dichte graue Schleier herabhingen;
+
+413
+00:48:42,300 --> 00:49:01,500
+der Regen rieselte ganz leise und gleichmäßig auf die Blätter, das Wetterleuchten flammte einmal über das andere purpurrot in das bleierne Grau auf, und ein fernes Grollen des Donners rollte immer wieder wie letzte schwache Wellen einer Brandung heran.
+
+414
+00:49:01,500 --> 00:49:10,400
+Und mitten in all dieser gespenstischen Stimmung schlug plötzlich vor meinem Fenster auf dem Ahorn die Nachtigall!
+
+415
+00:49:10,400 --> 00:49:28,020
+Mitten in all dem Regen, im Wetterleuchten, im Donner schmetterte sie wie eine helle Glocke, sie sang wie berauscht, wie besessen, wollte den Donner übertönen, die Dämmerung erhellen — ich habe nie so Schönes gehört.
+
+416
+00:49:28,020 --> 00:49:50,520
+Ihr Gesang wirkte auf dem Hintergrund des abwechselnd bleiernen und purpurnen Himmels wie leuchtendes Silbergeflimmer. Das war so geheimnisvoll, so unbegreiflich schön, und ich wiederholte unwillkürlich den letzten Vers jenes Goetheschen Gedichts: »O wärst Du da!« ...
+
+417
+00:49:50,520 --> 00:49:52,230
+Stets Ihre
+
+418
+00:49:52,230 --> 00:49:53,800
+Rosa.
+
+419
+00:49:55,160 --> 00:49:56,300
+Wronke, den 1.
+
+420
+00:49:56,300 --> 00:49:56,750
+6.
+
+421
+00:49:56,750 --> 00:49:59,940
+1917.
+
+422
+00:49:59,940 --> 00:50:16,270
+... die Orchideen überhaupt kenne ich gut; in dem wundervollen Gewächshaus in Frankfurt am Main, wo eine ganze Abteilung mit ihnen angefüllt ist, habe ich sie damals nach meinem Prozess, wo ich das Jahr gekriegt habe, mehrere Tage fleißig studiert.
+
+423
+00:50:16,270 --> 00:50:26,490
+Ich finde, sie haben in ihrer leichten Grazie und den phantastischen, unnatürlichen Formen etwas so Raffiniertes, Dekadentes.
+
+424
+00:50:26,490 --> 00:50:32,440
+Sie wirken auf mich, wie die zierlichen gepuderten Marquisen des Rokoko.
+
+425
+00:50:32,440 --> 00:50:44,110
+Ich bewundere sie mit einem inneren Widerstreben und einer gewissen Unruhe, wie meiner Natur überhaupt alles Dekadente und Perverse zuwider ist.
+
+426
+00:50:44,110 --> 00:50:46,390
+Viel mehr Freude habe ich z.
+
+427
+00:50:46,390 --> 00:51:00,770
+B. an dem einfachen Löwenzahn, der so viel Sonne in seiner Farbe hat und so ganz wie ich dem Sonnenschein so voll und dankbar öffnet, beim geringsten Schatten aber wieder scheu verschließt.
+
+428
+00:51:00,770 --> 00:51:05,120
+Was für Abende jetzt und was für Nächte!
+
+429
+00:51:05,120 --> 00:51:09,100
+Gestern lag ein unbeschreiblicher Zauber auf allem.
+
+430
+00:51:09,100 --> 00:51:29,000
+Der Himmel war spät nach Sonnenuntergang von leuchtender Opalfarbe mit Streifen von unbestimmter Farbe verschmiert, ganz wie eine große Palette, auf der der Maler nach fleißiger Tagesarbeit seine Pinsel mit breiter Geste abgewischt hat, um zur Ruhe zu gehen.
+
+431
+00:51:29,000 --> 00:51:50,090
+In der Luft lag ein bisschen Gewitterschwüle, eine leichte herzbeklemmende Spannung; die Sträucher standen völlig regungslos, die Nachtigall ließ sich nicht hören, aber der unermüdliche »Gartenspötter« mit dem schwarzen Köpfchen hupfte noch in den Ästen herum und rief schrill.
+
+432
+00:51:50,090 --> 00:51:52,760
+Alles schien auf etwas zu warten.
+
+433
+00:51:52,760 --> 00:51:58,720
+Ich stand am Fenster und wartete gleichfalls — weiß Gott auf was.
+
+434
+00:51:58,720 --> 00:52:05,800
+Nach »Einschluss« um sechs habe ich ja zwischen Himmel und Erde auf nichts mehr zu warten....
+
+435
+00:52:07,460 --> 00:52:08,790
+Wronke, den 20.
+
+436
+00:52:08,790 --> 00:52:10,970
+Juli 1917.
+
+437
+00:52:10,970 --> 00:52:21,810
+Sonitschka, mein Liebling, da mein Ableben hier sich doch länger hinzieht, als ich ursprünglich annahm, sollen Sie noch einen letzten Gruß aus Wronke kriegen.
+
+438
+00:52:21,810 --> 00:52:26,140
+Wie konnten Sie denken, ich würde Ihnen keine Briefe mehr schreiben!
+
+439
+00:52:26,140 --> 00:52:31,920
+In meiner Gesinnung Ihnen gegenüber hat sich nichts geändert, konnte sich nichts ändern.
+
+440
+00:52:31,920 --> 00:52:43,810
+Ich schrieb nicht, weil ich Sie seit der Abreise von Ebenhausen im Trubel von tausenderlei Dingen wusste, zum Teil wohl auch, weil ich vorübergehend nicht in Stimmung war.
+
+441
+00:52:43,810 --> 00:52:47,820
+Dass es mit mir nach Breslau geht, wissen Sie wohl schon.
+
+442
+00:52:47,820 --> 00:52:51,640
+Hier habe ich heute früh von meinem Gärtlein Abschied genommen.
+
+443
+00:52:51,640 --> 00:53:04,000
+Das Wetter ist grau, stürmisch und regnerisch, am Himmel jagen zerfetzte Wolken, und doch habe ich meinen üblichen Frühspaziergang heute in vollen Zügen genossen.
+
+444
+00:53:04,000 --> 00:53:20,730
+Ich nahm Abschied von dem gepflasterten, schmalen Weg an der Mauer entlang, auf dem ich nun fast neun Monate hin- und hergelaufen bin, in dem ich nun schon jeden Stein und jedes Unkräutlein, das zwischen den Steinen wächst, genau kenne.
+
+445
+00:53:20,730 --> 00:53:28,170
+An den Pflastersteinen interessieren mich die bunten Farben: rötlich, bläulich, grün, grau.
+
+446
+00:53:28,170 --> 00:53:42,760
+Namentlich in dem langen Winter, der so sehr auf ein bisschen lebendiges Grün warten ließ, haben meine farbenhungrigen Augen sich an den Steinen ein wenig Buntheit und Anregung zu schafften gesucht.
+
+447
+00:53:42,760 --> 00:53:50,800
+Und jetzt im Sommer erst, da gab es zwischen den Steinen so viel Eigenartiges und Interessantes zu sehen!
+
+448
+00:53:50,800 --> 00:53:55,140
+Hier hausen nämlich massenhaft wilde Bienen und Wespen.
+
+449
+00:53:55,140 --> 00:54:09,810
+Sie bohren zwischen den Steinen nussgroße, runde Löcher und weiter tiefe Gänge hinein, schaffen dabei die Erde von innen an die Oberfläche und schichten sie zu ganz hübschen Häuflein auf.
+
+450
+00:54:09,810 --> 00:54:26,280
+Drinnen legen sie ihre Eier und arbeiten Wachs und wilden Honig; es ist ein beständiges Hineinschlüpfen und Herausfliegen und ich musste beim Spazierengehen sehr aufpassen, um die unterirdischen Wohnungen nicht zu verschütten.
+
+451
+00:54:26,280 --> 00:54:45,180
+Dann ziehen an mehreren Stellen die Ameisen quer über den Weg gerade ihre Pfade, auf denen sie beständig hin- und herlaufen, so auffallend gradlinig, wie wenn sie den mathematischen Satz im Leibe hätten, dass die gerade Linie die kürzeste Verbindung zwischen zwei Punkten ist.
+
+452
+00:54:45,180 --> 00:54:49,670
+(Was zum Beispiel primitiven Völkern völlig unbekannt ist.)
+
+453
+00:54:49,670 --> 00:55:01,160
+Dann wuchert das üppigste Unkraut an der Mauer; die einen Pflänzlein schon verblüht und in Flocken zerflatternd, die anderen unermüdlich weiter knospend.
+
+454
+00:55:01,160 --> 00:55:20,710
+Dann gibt es eine ganze Generation junger Bäumchen, die in diesem Frühjahr, unter meinen Augen, auf der Erde mitten am Weg oder an der Mauer emporgesprossen sind; eine kleine Akazie, offenbar von einer heruntergefallenen Schote des alten Baumes heuer aufgekeimt.
+
+455
+00:55:20,710 --> 00:55:33,950
+Mehrere kleine Silberpappeln, gleichfalls erst seit Mai auf der Welt, aber schon im üppigen Schmuck weißgrüner Blätter, die sie im Sturme zierlich wiegen, ganz wie die alten.
+
+456
+00:55:33,950 --> 00:55:40,550
+Wievielmal habe ich ihren Weg durchmessen, wie Verschiedenes dabei innerlich erlebt und gedacht!
+
+457
+00:55:40,550 --> 00:55:55,810
+Im strengen Winter, nach frischem Schneefall, habe ich oft erst mit meinen Füßen mir einen Pfad gebahnt, dabei begleitet von meiner geliebten, kleinen Kohlmeise, die ich im Herbst wiederzusehen hoffte,
+
+458
+00:55:55,810 --> 00:56:02,360
+und die mich nicht mehr finden wird, wenn sie an den bekannten Futterplatz am Fenster kommt.
+
+459
+00:56:02,360 --> 00:56:11,390
+Im März, als wir mitten unter hartem Frost ein paar Tage Tauwetter kriegten, verwandelte sich mein Weg in ein Flüsschen.
+
+460
+00:56:11,390 --> 00:56:28,800
+Ich weiß noch, wie unter dem lauen Wind sich auf der Wasserfläche kleine Wellchen kräuselten, und die Backsteine der Mauer sich darauf lebhaft und blank spiegelten, Dann kam endlich der Mai und das erste Veilchen an der Mauer, das ich Ihnen schickte.
+
+461
+00:56:28,800 --> 00:56:38,260
+Wie ich so heute hinüber wanderte, betrachtete und sann, summte mir im Kopf immerzu der Vers von Goethe:
+
+462
+00:56:38,260 --> 00:56:44,970
+»Merlin der Alte im leuchtenden Grabe wo ich als Jüngling gesprochen ihn habe ...«
+
+463
+00:56:44,970 --> 00:56:54,840
+Sie kennen das ja weiter. Das Gedicht stand natürlich in gar keinem Zusammenhang mit meiner Stimmung und dem, was mich innerlich beschäftigte.
+
+464
+00:56:54,840 --> 00:57:01,970
+Es war nur die Musik der Worte und der seltsame Zauber des Gedichtes, was mich in Ruhe wiegte.
+
+465
+00:57:01,970 --> 00:57:13,190
+Ich weiß selbst nicht, woher es kommt, dass ein schönes Gedicht, besonders Goethe, bei jeder starken Erregung oder Erschütterung auf mich so tief einwirkt.
+
+466
+00:57:13,190 --> 00:57:25,650
+Es ist schon fast eine physiologische Wirkung, als wenn ich ein köstliches Getränk mit durstenden Lippen schlürfte, das mich innerlich kühlt und Leib und Seele gesund macht.
+
+467
+00:57:25,650 --> 00:57:42,680
+Das Gedicht aus dem westöstlichen Divan, das Sie in Ihrem letzten Brief erwähnen, kenne ich nicht; schreiben Sie es mir bitte ab. Und noch eins möchte ich seit langem haben, das in meinem hiesigen Goethebändchen fehlt, »Blumengruß«.
+
+468
+00:57:42,680 --> 00:57:52,170
+Das ist ein kleines Gedichtlein von vier bis sechs Zeilen, ich kenne es aus einem Wolffschen Lied, das unbeschreiblich schön ist.
+
+469
+00:57:52,170 --> 00:57:55,870
+Namentlich der Schlussvers, etwa so:
+
+470
+00:57:55,870 --> 00:58:05,080
+»Ich habe sie gepflücket In heißer Sehnsuchtsqual, Ich habe sie ans Herz gedrücket, Ach, wohl eintausendmal!«
+
+471
+00:58:06,100 --> 00:58:13,770
+Das klingt in der Musik so heilig, zart und keusch, wie ein Niederknien in stummer Anbetung.
+
+472
+00:58:13,770 --> 00:58:18,620
+Aber ich weiß den Text nicht mehr und möchte ihn haben.
+
+473
+00:58:18,620 --> 00:58:24,450
+Gestern abend, so um neun, habe ich noch ein herrliches Schauspiel gehabt.
+
+474
+00:58:24,450 --> 00:58:39,280
+Ich bemerkte von meinem Sofa aus in der Fensterscheibe den leuchtenden Reflex einer Rosafarbe, die mich überraschte, da der Himmel ganz grau war. Ich lief zum Fenster und blieb wie gebannt stehen.
+
+475
+00:58:39,280 --> 00:58:59,630
+Auf dem völlig grauen Einerlei des Himmels türmte sich im Osten eine große Wolke von so überirdisch schöner rosa Farbe, so allein für sich losgelöst von allem, dass sie wie ein Lächeln aussah, wie ein Gruß aus unbekannter Ferne.
+
+476
+00:58:59,630 --> 00:59:07,930
+Ich atmete wie befreit auf und streckte unwillkürlich beide Hände dem zauberhaften Bild entgegen.
+
+477
+00:59:07,930 --> 00:59:16,200
+Wenn es solche Farben, solche Formen gibt, dann ist das Leben schön und lebenswert, nicht wahr?
+
+478
+00:59:16,200 --> 00:59:27,550
+Ich sog mich mit den Blicken fest an das leuchtende Bild und verschlang jeden rosigen Strahl aus ihm, bis ich plötzlich selbst über mich auflachen musste.
+
+479
+00:59:27,550 --> 00:59:44,910
+Herr Gott, der Himmel und die Wolken und die ganze Schönheit des Lebens bleiben doch nicht in Wronke, dass ich von ihnen Abschied zu nehmen brauche; nein, sie gehen mit mir fort und bleiben mit mir, wo ich auch bin und so lange ich lebe.
+
+480
+00:59:44,910 --> 00:59:50,390
+Bald berichte ich Ihnen von Breslau, besuchen Sie mich dort, sobald Sie können.
+
+481
+00:59:50,390 --> 00:59:52,860
+Grüßen Sie herzlich Karl.
+
+482
+00:59:52,860 --> 00:59:55,510
+Ich umarme Sie vielmals.
+
+483
+00:59:55,510 --> 00:59:58,630
+Auf Wiedersehen in meinem neunten Gefängnis.
+
+484
+00:59:58,630 --> 00:59:59,810
+Ihre treue
+
+485
+00:59:59,810 --> 01:00:01,500
+Rosa.
+
+486
+01:00:02,900 --> 01:00:04,660
+Ende
+von
+Teil 2
+
+487
+01:00:04,660 --> 01:00:07,960
+Gelesen von Hokuspokus
+
+488
+01:00:13,300 --> 01:00:16,100
+Teil 3
+von
+Briefe aus dem Gefängnis
+
+489
+01:00:16,100 --> 01:00:19,180
+Diese LibriVox-Aufnahme ist in der Public Domain.
+
+490
+01:00:19,180 --> 01:00:22,950
+Briefe aus dem Gefängnis
+von
+Rosa Luxemburg
+
+491
+01:00:22,950 --> 01:00:24,560
+Teil 3
+
+492
+01:00:24,560 --> 01:00:26,570
+AUS BRESLAU
+
+493
+01:00:26,570 --> 01:00:28,490
+Breslau, den 2.
+
+494
+01:00:28,490 --> 01:00:28,880
+8.
+
+495
+01:00:28,880 --> 01:00:30,830
+1917.
+
+496
+01:00:30,830 --> 01:00:44,720
+Meine liebe Sonitschka, Ihr Brief, den ich am 28. erhielt, war die erste Nachricht, die mich hier von der Außenwelt erreichte, und Sie können sich leicht denken, wie sehr ich mich darüber freute.
+
+497
+01:00:44,720 --> 01:00:51,170
+Meine Übersiedlung nehmen Sie, in Ihrer liebevollen Sorge um mich, entschieden zu tragisch ...
+
+498
+01:00:51,170 --> 01:00:57,710
+Ich nehme, wie Sie wissen, alle Wendungen des Schicksals mit dem nötigen, heiteren Gleichmut hin.
+
+499
+01:00:57,710 --> 01:01:04,610
+Ich habe mich schon hier gut eingelebt, heute sind meine Kisten mit Büchern aus Wronke angekommen,
+
+500
+01:01:04,610 --> 01:01:20,830
+bald werden also meine zwei Zellen hier mit den Büchern und Bildchen und dem bescheidenen Zierrat, den ich sonst mit herumschleppe, wieder so anheimelnd und behaglich aussehen, wie in Wronke, und ich werde mit doppelter Lust an die Arbeit gehen.
+
+501
+01:01:20,830 --> 01:01:38,410
+Was mir hier fehlt, ist natürlich die relative Bewegungsfreiheit, die ich dort hatte, wo die Festung den ganzen Tag offen stand, während ich hier einfach eingesperrt bin, dann die herrliche Luft, der Garten und vor allem die Vögel!
+
+502
+01:01:38,410 --> 01:01:43,410
+Sie haben keine Ahnung, wie ich an dieser kleinen Gesellschaft hänge.
+
+503
+01:01:43,410 --> 01:01:51,220
+Aber das alles kann man natürlich entbehren, und bald werde ich vergessen, dass ich es je besser hatte als hier.
+
+504
+01:01:51,220 --> 01:02:06,700
+Die ganze Situation hier ist so ziemlich genau wie in der Barnimstraße, nur der hübsche, grüne Lazaretthof fehlt, in dem ich doch jeden Tag irgendeine kleine botanische oder zoologische Entdeckung machen konnte.
+
+505
+01:02:06,700 --> 01:02:14,670
+Hier gibt es auf dem großen, gepflasterten Wirtschaftshof, der mir zum Spaziergang dient, nichts »zu entdecken«.
+
+506
+01:02:14,670 --> 01:02:29,300
+Und ich hefte krampfhaft meine Blicke beim Wandeln auf die grauen Pflastersteine, um dem Anblick der im Hofe beschäftigten Gefangenen zu entgehen, die mir stets in ihrer diffamierenden Tracht eine Pein sind,
+
+507
+01:02:29,300 --> 01:02:47,680
+und unter denen sich immer ein paar finden, bei denen Alter, Geschlecht, individuelle Züge unter dem Stempel der tiefsten menschlichen Degradation verwischt sind, ja aber gerade durch einen schmerzlichen Magnetismus immer wieder meine Blicke anziehen.
+
+508
+01:02:47,680 --> 01:02:58,350
+Freilich gibt es auch überall einzelne Gestalten, denen sogar die Gefängnistracht nichts anhaben kann und die ein Malerauge erfreuen würden.
+
+509
+01:02:58,350 --> 01:03:12,530
+So entdeckte ich schon hier eine junge Arbeiterin im Hofe, deren schlanke, knappe Formen, sowie der tuchumwundene Kopf mit dem strengen Profil, direkt eine Millet-Gestalt abgäbe;
+
+510
+01:03:12,530 --> 01:03:28,610
+es ist ein Genuss zu sehen, mit welchem Adel der Bewegungen sie Lasten schleppt, und das magere Gesicht mit der straff anliegenden Haut und dem gleichmäßig kreideweißen Teint erinnert an eine tragische Pierrotmaske.
+
+511
+01:03:28,610 --> 01:03:37,780
+Aber gewitzigt durch traurige Erfahrungen suche ich solchen vielversprechenden Erscheinungen weit aus dem Wege zu gehen.
+
+512
+01:03:37,780 --> 01:03:49,970
+In der Barnimstraße hatte ich nämlich auch eine Gefangene entdeckt von wahrhaft königlicher Gestalt und Haltung und dachte mir ein entsprechendes »Interieur« dazu.
+
+513
+01:03:49,970 --> 01:04:07,800
+Dann kam sie als Kalfaktrice auf meine Station, und es zeigte sich nach zwei Tagen, dass unter dieser schönen Maske ein solches Maß von Dummheit und niedriger Gesinnung steckte, dass ich fortan die Blicke immer abwendete, wenn sie mir in den Weg lief.
+
+514
+01:04:07,800 --> 01:04:19,990
+Ich dachte mir damals, dass die Venus von Milo am Ende nur deshalb ihre Reputation als schönste der Frauen durch Jahrhunderte hat bewahren können, weil sie schweigt.
+
+515
+01:04:19,990 --> 01:04:24,840
+Würde sie den Mund auftun, wäre vielleicht der ganze Charme zum Teufel.
+
+516
+01:04:24,840 --> 01:04:31,370
+Mein vis-à-vis ist das Männergefängnis, der übliche düstere rote Backsteinbau.
+
+517
+01:04:31,370 --> 01:04:48,410
+Aber quer über die Mauer sehe ich die grünen Baumwipfel irgendeiner Anlage; eine große Schwarzpappel, die bei stärkerem Luftzug vernehmlich rauscht und eine Reihe viel hellerer Edeleschen, die mit gelben Schotenbündeln behängt sind.
+
+518
+01:04:48,410 --> 01:05:02,390
+Die Fenster geben auf Nordwest Aussicht, so dass ich manchmal schöne Abendwolken sehe, und Sie wissen, dass mich eine solche rosige Wolke allein entzücken und für alles entschädigen kann.
+
+519
+01:05:02,390 --> 01:05:18,220
+In diesem Augenblicke, 8 Uhr abends (in Wirklichkeit also 7), ist die Sonne kaum hinter den Giebeln des Männergefängnisses gesunken, sie scheint noch grell durch die Glasbodenluke im Dache und der ganze Himmel leuchtet goldig.
+
+520
+01:05:18,220 --> 01:05:29,310
+Ich fühle mich sehr wohl und muss — ich weiß selbst nicht warum — das Ave Maria von Gounod leise vor mich hinsingen (Sie kennen es wohl).
+
+521
+01:05:29,310 --> 01:05:32,900
+Vielen Dank für die abgeschriebenen Goethesachen.
+
+522
+01:05:32,900 --> 01:05:44,700
+»Die berechtigten Männer« sind in der Tat schön, obschon sie mir von selbst nicht aufgefallen wären; man lässt sich ja auch manchmal die Schönheit eines Dinges suggerieren.
+
+523
+01:05:44,700 --> 01:05:50,010
+Ich möchte Sie noch bitten, mir gelegentlich »Anakreons Grab« abzuschreiben.
+
+524
+01:05:50,010 --> 01:05:51,750
+Kennen Sie es gut?
+
+525
+01:05:51,750 --> 01:06:04,480
+Ich habe es natürlich erst durch Hugo Wolffsche Musik richtig verstanden; im Lied macht es geradezu einen architektonischen Eindruck; man meint einen griechischen Tempel vor sich zu sehen.
+
+526
+01:06:04,480 --> 01:06:24,870
+Jetzt eben — ich habe eine kleine Pause gemacht, um den Himmel zu beobachten — ist die Sonne schon viel tiefer hinter dem Gebäude versunken und hoch oben schweben — weiß Gott woher — lautlos zusammengelaufene Myriaden kleiner Wölkchen, die am Rande silbrig leuchten,
+
+527
+01:06:24,870 --> 01:06:31,660
+in der Mitte zart grau sind und alle ihre zerfetzten Umrisse nach dem Norden steuern.
+
+528
+01:06:31,660 --> 01:06:43,750
+Es liegt so viel Unbekümmertheit und kühles Lächeln in diesem Wolkenflug, dass ich mitlächeln muss, wie ich immer den Rhythmus des umgebenden Lebens mitmachen muss.
+
+529
+01:06:43,750 --> 01:06:48,330
+Wie könnte man bei solchem Himmel »bös« oder kleinlich sein?
+
+530
+01:06:48,330 --> 01:06:54,960
+Vergessen Sie bloß nie, um sich zu blicken, dann werden Sie immer wieder »gut« sein.
+
+531
+01:06:54,960 --> 01:07:00,750
+Dass Karl ein Buch speziell über den Vogelgesang will, wundert mich ein wenig.
+
+532
+01:07:00,750 --> 01:07:11,510
+Für mich ist die Stimme der Vögel untrennbar von ihrem ganzen Habitus und ihrem Leben, nur das Ganze interessiert mich, nicht irgendein losgerissenes Detail.
+
+533
+01:07:11,510 --> 01:07:18,410
+Geben Sie ihm ein gutes Buch über Tiergeographie, das wird ihm sicher viel Anregung geben.
+
+534
+01:07:18,410 --> 01:07:24,920
+Hoffentlich kommen Sie bald zu Besuch zu mir. Sobald Sie Erlaubnis haben, telegraphieren Sie mir.
+
+535
+01:07:24,920 --> 01:07:27,370
+Ich umarme Sie vielmals
+
+536
+01:07:27,370 --> 01:07:29,100
+Ihre Rosa.
+
+537
+01:07:29,100 --> 01:07:35,130
+Gott, Gnade mir. 8 Seiten sinds geworden, nun, für diesmal mags hingehen.
+
+538
+01:07:35,130 --> 01:07:37,420
+Dank für die Bücher.
+
+539
+01:07:38,740 --> 01:07:41,250
+Mitte November 1917.
+
+540
+01:07:41,250 --> 01:07:43,580
+Meine geliebte Sonitschka,
+
+541
+01:07:43,580 --> 01:07:57,640
+ich hoffe, bald Gelegenheit zu haben, Ihnen endlich wieder diesen Brief zu schicken, und greife mit Sehnsucht zur Feder. Wie lange musste ich jetzt die liebe Gewohnheit entbehren, mit Ihnen wenigstens auf dem Papier zu plaudern!
+
+542
+01:07:57,640 --> 01:08:07,420
+Aber es ging nicht, die wenigen Briefe, die ich schreiben durfte, musste ich für Hans D. aufsparen, der ja darauf wartete.
+
+543
+01:08:07,420 --> 01:08:17,330
+Nun ist es damit vorbei, meine zwei letzten Briefe waren schon an einen Toten geschrieben, einen habe ich schon zurückgekriegt.
+
+544
+01:08:17,330 --> 01:08:20,680
+Unfassbar bleibt mir die Tatsache immer noch.
+
+545
+01:08:20,680 --> 01:08:38,680
+Doch reden wir lieber nicht darüber, ich mache solche Sachen am liebsten mit mir allein ab, und wenn man mich »schonend« auf die schlimme Nachricht vorzubereiten und durch eigenes Wehklagen »trösten« will, wie N. es tat, so irritiert mich das unsagbar.
+
+546
+01:08:38,680 --> 01:08:59,300
+Dass mich meine nächsten Freunde immer noch so wenig kennen und so unterschätzen, dass sie nicht begreifen: das beste und feinste in solchen Fällen ist, mir schleunigst aber kurz und einfach die zwei Worte zu sagen: er ist tot — — — das kränkt mich, doch Schluss damit.
+
+547
+01:08:59,300 --> 01:09:00,180
+....
+
+548
+01:09:00,180 --> 01:09:11,410
+Wie schade um die Monate und Jahre, die jetzt vergehen und in denen wir zusammen so viel schöne Stunden verleben könnten, trotz all dem Schrecklichen, was in der Welt vorgeht.
+
+549
+01:09:11,410 --> 01:09:22,600
+Wissen Sie, Sonitschka, je länger das dauert und je mehr das Niederträchtige und Ungeheuerliche, das jeden Tag passiert, alle Grenzen und Maße übersteigt,
+
+550
+01:09:22,600 --> 01:09:41,310
+um so ruhiger und fester werde ich, wie man gegenüber einem Element, einem Buran, einer Wasserflut, einer Sonnenfinsternis, nicht sittliche Maßstäbe anwenden kann, sondern sie nur als etwas Gegebenes, als Gegenstand der Forschung und Erkenntnis betrachten muss.
+
+551
+01:09:41,310 --> 01:09:51,350
+Dies sind offenbar die objektiv einzig möglichen Wege der Geschichte und man muss ihr folgen, ohne sich an der Hauptrichtung beirren zu lassen.
+
+552
+01:09:51,350 --> 01:09:56,830
+Ich habe das Gefühl, dass dieser ganze moralische Schlamm, durch den wir waten,
+
+553
+01:09:56,830 --> 01:10:16,280
+dieses große Irrenhaus, in dem wir leben, auf ein Mal, so von heute auf morgen wie durch einen Zauberstab ins Gegenteil umschlagen, in ungeheuer Großes und Heldenhaftes umschlagen kann, und — — wenn der Krieg noch ein paar Jahre dauern wird — — umschlagen muss....
+
+554
+01:10:16,280 --> 01:10:19,790
+Lesen Sie mal »Les dieux ont soif« von An.
+
+555
+01:10:19,790 --> 01:10:20,720
+France.
+
+556
+01:10:20,720 --> 01:10:28,100
+Ich halte das Werk für so groß hauptsächlich deshalb, weil es mit genialem Blick für das Allmenschliche zeigt:
+
+557
+01:10:28,100 --> 01:10:41,840
+Seht, aus solchen Jammergestalten und solcher alltäglichen Kleinlichkeit werden in entsprechenden Momenten der Geschichte die riesenhaftesten Ereignisse und die monumentalsten Gesten gemacht.
+
+558
+01:10:41,840 --> 01:10:51,260
+Man muss alles im gesellschaftlichen Geschehen wie im Privatleben nehmen: ruhig, großzügig und mit einem milden Lächeln.
+
+559
+01:10:51,260 --> 01:11:05,650
+Ich glaube fest daran, dass sich schließlich alles nach dem Kriege oder zum Schluss des Krieges zum Richtigen wendet, aber wir müssen offenbar erst durch eine Periode der schlimmsten menschlichen Leiden waten.
+
+560
+01:11:05,650 --> 01:11:18,280
+Apropos, meine letzten Worte wecken in mir eine andere Vorstellung, eine Tatsache, die ich Ihnen mitteilen möchte, weil sie mir so poetisch und so rührend vorkam.
+
+561
+01:11:18,280 --> 01:11:27,160
+Ich las neulich in einem wissenschaftlichen Werk über den Vogelzug, der ja bis jetzt ein ziemlich rätselhaftes Phänomen darstellt,
+
+562
+01:11:27,160 --> 01:11:39,590
+dass dabei beobachtet worden ist, wie verschiedene Arten, die sich sonst als Todfeinde befehden und auffressen, friedlich nebeneinander die große Reise südwärts übers Meer machen:
+
+563
+01:11:39,590 --> 01:11:55,600
+nach Ägypten kommen zum Winter gewaltige Scharen von Vögeln, die wie Wolken in der Höhe schwirren und den Himmel verdunkeln, und in diesen Scharen fliegen mitten unter Raubvögeln, Habichten, Adlern, Falken, Eulen,
+
+564
+01:11:55,600 --> 01:12:06,480
+tausende von kleinen Singvögeln, wie Lerchen, Goldhähnchen, Nachtigallen, ohne jede Angst mitten unter Raubvögeln, die ihnen sonst nachstellen.
+
+565
+01:12:06,480 --> 01:12:21,860
+Auf der Reise scheint also stillschweigend eine trève de dieu zu herrschen, alle streben dem gemeinsamen Ziel zu, und fallen halbtot vor Erschöpfung am Nil auf die Erde, um sich nach Arten und Landsmannschaften zu sondern.
+
+566
+01:12:21,860 --> 01:12:41,430
+Ja, noch mehr, man hat beobachtet, dass auf dieser Reise »über den großen Teich« große Vögel viele kleine auf ihrem Rücken transportieren, so hat man Scharen von Kranichen vorüberziehen sehen, auf deren Rücken winzige Zugvögelchen lustig zwitscherten!
+
+567
+01:12:41,430 --> 01:12:43,880
+Ist das nicht reizend?
+
+568
+01:12:43,880 --> 01:12:44,780
+.....
+
+569
+01:12:44,780 --> 01:12:53,070
+Ich habe neulich in einer sonst geschmacklosen und kunterbunten Sammlung von Gedichten eines von Hugo von Hoffmannsthal entdeckt.
+
+570
+01:12:53,070 --> 01:12:57,380
+(Fußnote:) »Vor Tag« von Hugo von Hoffmannsthal.
+
+571
+01:12:57,380 --> 01:12:59,230
+(Ende Fußnote.)
+
+572
+01:12:59,230 --> 01:13:07,830
+Ich mag ihn sonst gar nicht, finde ihn gesucht, raffiniert, unklar, ich verstehe ihn einfach gar nicht.
+
+573
+01:13:07,830 --> 01:13:14,300
+Dieses Gedicht aber gefiel mir sehr und hat auf mich einen starken poetischen Eindruck gemacht.
+
+574
+01:13:14,300 --> 01:13:18,970
+Ich lege es Ihnen anbei, vielleicht macht es Ihnen auch Vergnügen.
+
+575
+01:13:18,970 --> 01:13:22,210
+Ich bin jetzt tief in der Geologie.
+
+576
+01:13:22,210 --> 01:13:28,410
+Sie wird Ihnen wohl als eine sehr trockene Wissenschaft vorkommen, das ist aber ein Irrtum.
+
+577
+01:13:28,410 --> 01:13:45,090
+Ich lese sie mit fieberhaftem Interesse und leidenschaftlicher Befriedigung, sie erweitert kolossal den geistigen Horizont und verschafft eine so einheitliche allumfassende Vorstellung von der Natur, wie keine Wissenschaft es vermag.
+
+578
+01:13:45,090 --> 01:14:01,530
+Ich möchte Ihnen eine Menge davon erzählen, aber dazu müssten wir uns sprechen können, zusammen an einem Vormittag am Südender Feld schlendern oder einander an einer stillen Mondnacht ein paarmal gegenseitig nach Hause hinüber begleiten.
+
+579
+01:14:01,530 --> 01:14:02,870
+Was lesen Sie?
+
+580
+01:14:02,870 --> 01:14:05,620
+Wie stehts mit der Lessing-Legende?
+
+581
+01:14:05,620 --> 01:14:07,810
+Ich will von Ihnen alles wissen!
+
+582
+01:14:07,810 --> 01:14:16,590
+Schreiben Sie — wenn es geht — sofort auf demselben Wege, oder wenigstens auf dem offiziellen Wege, ohne diesen Brief zu erwähnen.
+
+583
+01:14:16,590 --> 01:14:21,970
+Ich zähle auch schon im stillen die Wochen, bis ich Sie wieder hier sehen werde.
+
+584
+01:14:21,970 --> 01:14:25,970
+Das wird doch wohl bald nach Neujahr sein, nicht wahr?
+
+585
+01:14:25,970 --> 01:14:27,740
+Was schreibt Karl?
+
+586
+01:14:27,740 --> 01:14:29,970
+Wann werden Sie ihn wieder sehen?
+
+587
+01:14:29,970 --> 01:14:38,440
+Grüßen Sie ihn tausendmal von mir. Ich umarme Sie und drücke Ihnen fest die Hand, meine liebe, liebe Sonitschka!
+
+588
+01:14:38,440 --> 01:14:41,140
+Schreiben Sie bald und viel.
+
+589
+01:14:41,140 --> 01:14:43,160
+Ihre Rosa.
+
+590
+01:14:44,640 --> 01:14:46,110
+Breslau, 24.
+
+591
+01:14:46,110 --> 01:14:46,420
+11.
+
+592
+01:14:46,420 --> 01:14:47,570
+17.
+
+593
+01:14:47,570 --> 01:14:48,100
+...
+
+594
+01:14:48,100 --> 01:14:52,190
+Sie irren sich, dass ich von vornherein gegen die modernen Dichter bin.
+
+595
+01:14:52,190 --> 01:15:05,940
+Vor etwa 15 Jahren habe ich Dehmel mit Begeisterung gelesen — irgendeine Prosasache von ihm — am Sterbelager einer geliebten Frau — ich habe eine dunkle Erinnerung — hat mich entzückt.
+
+596
+01:15:05,940 --> 01:15:10,190
+Arno Holz' Phantasus kann ich jetzt noch auswendig.
+
+597
+01:15:10,190 --> 01:15:14,120
+Johann Schlaf's »Frühling« hat mich damals hingerissen.
+
+598
+01:15:14,120 --> 01:15:22,540
+Dann bin ich abgekommen und zu Goethe und Mörike zurückgekehrt, Hoffmannsthal verstehe ich nicht, George kenn ich nicht.
+
+599
+01:15:22,540 --> 01:15:36,500
+Es ist wahr: ich fürchte bei ihnen allen ein wenig die meisterhafte vollendete Beherrschung der Form, des poetischen Ausdrucksmittels und das Fehlen einer großen, edlen Weltanschauung dabei.
+
+600
+01:15:36,500 --> 01:15:43,900
+Dieser Zwiespalt klingt mir so hohl in der Seele, dass mir dadurch die schöne Form zur Fratze wird.
+
+601
+01:15:43,900 --> 01:15:51,080
+Sie geben gewöhnlich wunderbare Stimmungen wieder. Aber Stimmungen machen noch keinen Menschen.
+
+602
+01:15:52,100 --> 01:15:57,120
+Sonitschka, es sind so zauberhafte Abende jetzt, wie im Frühling.
+
+603
+01:15:57,120 --> 01:16:14,210
+Ich gehe um 4 Uhr herunter in den Hof, es dämmert schon, dann sehe ich die scheußliche Umgebung in geheimnisvolle Schleier der Dunkelheit gehüllt, dafür leuchtet in heller Bläue der Himmel und ein silberner, klarer Mond schwimmt darauf.
+
+604
+01:16:14,210 --> 01:16:28,510
+Um diese Stunde ziehen jeden Tag quer über dem Hof hoch oben Hunderte von Krähen im lockeren, weiten Band nach den Feldern hinaus, zu ihrem »Schlafbaum«, wo sie zur Nacht rasten.
+
+605
+01:16:28,510 --> 01:16:42,450
+Sie ziehen mit gemächlichem Flügelschlag und tauschen merkwürdige Rufe aus — ganz anders als das scharfe »krah«, mit dem sie bei Tag raubgierig nach Beute jagen.
+
+606
+01:16:42,450 --> 01:16:51,010
+Jetzt klingt das gedämpft und weich, ein tiefer Kehllaut, der auf mich wirkt wie eine kleine Metallkugel.
+
+607
+01:16:51,010 --> 01:17:05,180
+Und wenn mehrere abwechselnd dieses »kau—kau« gurgelnd ausstoßen, ist mir, als ob sie spielend einander Metallkügelchen zuwerfen, die in der Luft im Bogen schweben.
+
+608
+01:17:05,180 --> 01:17:12,260
+Es ist ein richtiges Geplauder von dem Erleben »vom Tage, vom heute gewesenen Tage« ...
+
+609
+01:17:12,260 --> 01:17:29,480
+Sie kommen mir so ernst und wichtig vor, wie sie so jeden Abend ihrer Sitte und vorgezeichneten Bahn folgen, ich empfinde wie Ehrfurcht für diese großen Vögel, denen ich mit gehobenem Kopf nachschaue, bis zum letzten.
+
+610
+01:17:29,480 --> 01:17:48,120
+Dann wandle ich in der Dunkelheit hin und her und sehe die Gefangenen, die eilig ihre Arbeiten noch im Hofe verrichten, wie undeutliche Schatten herumhuschen und freue mich, dass ich selbst unsichtbar bin — so allein, so frei mit meinen Träumereien,
+
+611
+01:17:48,120 --> 01:17:59,600
+und den verstohlenen Grüßen zwischen mir und dem Krähenzug droben — mir ist so wohl bei dem linden, frühlingsmäßigen Luftzug.
+
+612
+01:17:59,600 --> 01:18:03,890
+Dann gehen die Gefangenen mit den schweren Kesseln (Abendsuppe!)
+
+613
+01:18:03,890 --> 01:18:25,330
+durch den Hof ins Haus, zwei und zwei, marschmäßig, zehn Paar hintereinander; ich folge als letzte; im Hof, in den Wirtschaftsgebäuden verlöschen allmählich die Lichter, ich trete ins Haus und die Türen werden zweimal verschlossen und zugeriegelt — der Tag ist aus.
+
+614
+01:18:25,330 --> 01:18:35,720
+Ich fühle mich so wohl, trotz des Schmerzes um Hans (Dr. Hans Dieffenbach, einer der besten Freunde Rosa Luxemburgs, ist im Kriege gefallen.
+
+615
+01:18:35,720 --> 01:18:37,700
+Die Herausgeber).
+
+616
+01:18:37,700 --> 01:18:43,570
+Ich lebe nämlich in einer Traumwelt, in der er gar nicht gestorben ist.
+
+617
+01:18:43,570 --> 01:18:49,090
+Für mich lebt er weiter und ich lächle ihm oft zu, wenn ich an ihn denke.
+
+618
+01:18:49,090 --> 01:18:51,890
+Sonitschka, leben Sie wohl.
+
+619
+01:18:51,890 --> 01:18:54,140
+Ich freue mich so auf Ihr Kommen.
+
+620
+01:18:54,140 --> 01:19:01,470
+Schreiben Sie bald wieder — vorläufig offiziell — das geht ja auch — und dann durch Gelegenheit.
+
+621
+01:19:01,470 --> 01:19:02,980
+Ich umarme Sie.
+
+622
+01:19:02,980 --> 01:19:04,980
+Ihre Rosa.
+
+623
+01:19:06,600 --> 01:19:09,760
+Breslau, Mitte Dezember 1917.
+
+624
+01:19:09,760 --> 01:19:10,370
+...
+
+625
+01:19:10,370 --> 01:19:13,600
+Jetzt ist es ein Jahr, dass Karl in Luckau sitzt.
+
+626
+01:19:13,600 --> 01:19:23,020
+Ich habe in diesem Monat oft daran gedacht und genau vor einem Jahr waren Sie bei mir in Wronke, haben mir den schönen Weihnachtsbaum beschert ...
+
+627
+01:19:23,020 --> 01:19:33,930
+Heuer habe ich mir hier einen besorgen lassen, aber man brachte mir einen ganz schäbigen, mit fehlenden Ästen — kein Vergleich mit dem vorjährigen.
+
+628
+01:19:33,930 --> 01:19:38,880
+Ich weiß nicht, wie ich darauf die acht Lichtlein anbringe, die ich erstanden habe.
+
+629
+01:19:38,880 --> 01:19:44,560
+Es ist mein drittes Weihnachten im Kittchen, aber nehmen Sie es ja nicht tragisch.
+
+630
+01:19:44,560 --> 01:19:58,560
+Ich bin so ruhig und heiter wie immer. Gestern lag ich lange wach — ich kann jetzt nie vor ein Uhr einschlafen, muss aber schon um zehn ins Bett — dann träume ich verschiedenes im Dunkeln.
+
+631
+01:19:58,560 --> 01:20:08,240
+Gestern dachte ich also: Wie merkwürdig das ist, dass ich ständig in einem freudigen Rausch lebe — ohne jeden besonderen Grund.
+
+632
+01:20:08,240 --> 01:20:18,100
+So liege ich zum Beispiel hier in der dunklen Zelle auf einer steinharten Matratze, um mich im Hause herrscht die übliche Kirchhofsstille,
+
+633
+01:20:18,100 --> 01:20:27,670
+man kommt sich vor wie im Grabe; vom Fenster her zeichnet sich auf der Decke der Reflex der Laterne, die vor dem Gefängnis die ganze Nacht brennt.
+
+634
+01:20:27,670 --> 01:20:46,510
+Von Zeit zu Zeit hört man nur ganz dumpf das ferne Rattern eines vorbeigehenden Eisenbahnzuges oder ganz in der Nähe unter den Fenstern das Räuspern der Schildwache, die in ihren schweren Stiefeln ein paar Schritte langsam macht, um die steifen Beine zu bewegen.
+
+635
+01:20:46,510 --> 01:20:58,330
+Der Sand knirscht so hoffnungslos unter diesen Schritten, dass die ganze Öde und Ausweglosigkeit des Daseins daraus klingt in die feuchte dunkle Nacht.
+
+636
+01:20:58,330 --> 01:21:09,640
+Da liege ich still allein, gewickelt in diese vielfachen schwarzen Tücher der Finsternis, Langeweile, Unfreiheit, des Winters —
+
+637
+01:21:09,640 --> 01:21:21,240
+und dabei klopft mein Herz von einer unbegreiflichen, unbekannten inneren Freude, wie wenn ich im strahlenden Sonnenschein über eine blühende Wiese gehen würde.
+
+638
+01:21:21,240 --> 01:21:35,000
+Und ich lächle im Dunkeln dem Leben, wie wenn ich irgendein zauberhaftes Geheimnis wüsste, das alles Böse und Traurige Lügen straft und in lauter Helligkeit und Glück wandelt.
+
+639
+01:21:35,000 --> 01:21:43,910
+Und dabei suche ich selbst nach einem Grund zu dieser Freude, finde nichts und muss wieder lächeln über mich selbst.
+
+640
+01:21:43,910 --> 01:21:56,980
+Ich glaube, das Geheimnis ist nichts anderes, als das Leben selbst; die tiefe nächtliche Finsternis ist so schön und weich wie Sammet, wenn man nur richtig schaut.
+
+641
+01:21:56,980 --> 01:22:09,750
+Und in dem Knirschen des feuchten Sandes unter den langsamen schweren Schritten der Schildwache singt auch ein kleines schönes Lied vom Leben — wenn man nur richtig zu hören weiß.
+
+642
+01:22:09,750 --> 01:22:27,920
+In solchen Augenblicken denke ich an Sie und möchte Ihnen so gern diesen Zauberschlüssel mitteilen, damit Sie immer, und in allen Lagen das Schöne und Freudige des Lebens wahrnehmen, damit Sie auch im Rausch leben und wie über eine bunte Wiese gehen.
+
+643
+01:22:27,920 --> 01:22:34,740
+Ich denke ja nicht daran, Sie mit Asketentum, mit eingebildeten Freuden abzuspeisen.
+
+644
+01:22:34,740 --> 01:22:37,890
+Ich gönne Ihnen alle reellen Sinnesfreuden.
+
+645
+01:22:37,890 --> 01:22:56,010
+Ich möchte Ihnen nur noch dazu meine unerschöpfliche innere Heiterkeit geben, damit ich um Sie ruhig bin, dass Sie in einem sternbestickten Mantel durchs Leben gehen, der Sie vor allem Kleinen, Trivialen und Beängstigenden schützt.
+
+646
+01:22:56,010 --> 01:23:03,890
+Sie haben im Steglitzer Park einen schönen Strauß aus schwarzen und rosavioletten Beeren gepflückt.
+
+647
+01:23:03,890 --> 01:23:14,660
+Für die schwarzen Beeren kommen in Betracht entweder Hollunder — seine Beeren hängen in schweren dichten Trauben zwischen großen gefiederten Blattwedeln,
+
+648
+01:23:14,660 --> 01:23:26,710
+sicher kennen Sie sie, oder, wahrscheinlicher, Liguster; schlanke zierliche aufrechte Rispen von Beeren und schmale, längliche grüne Blättchen.
+
+649
+01:23:26,710 --> 01:23:45,300
+Die rosigvioletten unter kleinen Blättchen versteckten Beeren können die der Zwergmispel sein; sie sind zwar eigentlich rot, aber in dieser späten Jahreszeit ein bisschen schon überreif und angefault, erscheinen sie oft violettrötlich;
+
+650
+01:23:45,300 --> 01:23:54,120
+die Blättchen sehen der Myrthe ähnlich, klein, spitz am Ende, dunkelgrün und lederig oben, unten rauh.
+
+651
+01:23:55,280 --> 01:23:59,620
+Sonjuscha, kennen Sie Platens: »Verhängnisvolle Gabel?«
+
+652
+01:23:59,620 --> 01:24:02,350
+Könnten Sie es mir schicken oder bringen?
+
+653
+01:24:02,350 --> 01:24:06,720
+Karl hat einmal erwähnt, dass er sie zu Hause gelesen hat.
+
+654
+01:24:06,720 --> 01:24:20,230
+Die Gedichte Georges sind schön; jetzt weiß ich, woher der Vers: »Und unterm Rauschen rötlichen Getreides!« ... stammt, den Sie gewöhnlich hersagten, wenn wir im Felde spazieren gingen.
+
+655
+01:24:20,230 --> 01:24:34,800
+Können Sie mir gelegentlich den neuen »Amadis« abschreiben, ich liebe das Gedicht so sehr — natürlich dank Hugo Wolffs Lied — habe es aber nicht hier. Lesen Sie weiter die Lessing-Legende?
+
+656
+01:24:34,800 --> 01:24:41,990
+Ich habe wieder zu Langes Geschichte des Materialismus gegriffen, die mich stets anregt und erfrischt.
+
+657
+01:24:41,990 --> 01:24:45,500
+Ich möchte so sehr, dass Sie sie mal lesen.
+
+658
+01:24:45,500 --> 01:25:01,930
+Ach, Sonitschka, ich habe hier einen scharfen Schmerz erlebt; auf dem Hof, wo ich spaziere, kommen oft Wagen vom Militär, voll bepackt mit Säcken oder alten Soldatenröcken und Hemden, oft mit Blutflecken ...,
+
+659
+01:25:01,930 --> 01:25:10,050
+die werden hier abgeladen, in die Zellen verteilt, geflickt, dann wieder aufgeladen und ans Militär abgeliefert.
+
+660
+01:25:10,050 --> 01:25:15,650
+Neulich kam so ein Wagen, bespannt, statt mit Pferden, mit Büffeln.
+
+661
+01:25:15,650 --> 01:25:19,070
+Ich sah die Tiere zum ersten Mal in der Nähe.
+
+662
+01:25:19,070 --> 01:25:34,590
+Sie sind kräftiger und breiter gebaut als unsere Rinder, mit flachen Köpfen und flach abgebogenen Hörnern, die Schädel also unseren Schafen ähnlicher, ganz schwarz mit großen sanften Augen.
+
+663
+01:25:34,590 --> 01:25:51,730
+Sie stammen aus Rumänien, sind Kriegstrophäen ... die Soldaten, die den Wagen führen, erzählen, dass es sehr mühsam war, diese wilden Tiere zu fangen und noch schwerer, sie, die an die Freiheit gewöhnt waren, zum Lastdienst zu benutzen.
+
+664
+01:25:51,730 --> 01:25:58,110
+Sie wurden furchtbar geprügelt, bis dass für sie das Wort gilt »vae victis« ...
+
+665
+01:25:58,110 --> 01:26:18,210
+An hundert Stück der Tiere sollen in Breslau allein sein; dazu bekommen sie, die an die üppige rumänische Weide gewöhnt waren, elendes und karges Futter. Sie werden schonungslos ausgenutzt, um alle möglichen Lastwagen zu schleppen und gehen dabei rasch zugrunde. —
+
+666
+01:26:18,210 --> 01:26:30,140
+Vor einigen Tagen kam also ein Wagen mit Säcken hereingefahren, die Last war so hoch aufgetürmt, dass die Büffel nicht über die Schwelle bei der Toreinfahrt konnten.
+
+667
+01:26:30,140 --> 01:26:46,030
+Der begleitende Soldat, ein brutaler Kerl, fing an, derart auf die Tiere mit dem dicken Ende des Peitschenstieles loszuschlagen, dass die Aufseherin ihn empört zur Rede stellte, ob er denn kein Mitleid mit den Tieren hätte!
+
+668
+01:26:46,030 --> 01:26:54,270
+»Mit uns Menschen hat auch niemand Mitleid«, antwortete er mit bösem Lächeln und hieb noch kräftiger ein ...
+
+669
+01:26:54,270 --> 01:27:00,830
+Die Tiere zogen schließlich an und kamen über den Berg, aber eins blutete ...
+
+670
+01:27:00,830 --> 01:27:09,300
+Sonitschka, die Büffelhaut ist sprichwörtlich an Dicke und Zähigkeit, und die war zerrissen.
+
+671
+01:27:09,300 --> 01:27:26,310
+Die Tiere standen dann beim Abladen ganz still erschöpft und eins, das, welches blutete, schaute dabei vor sich hin mit einem Ausdruck in dem schwarzen Gesicht und den sanften schwarzen Augen, wie ein verweintes Kind.
+
+672
+01:27:26,310 --> 01:27:39,550
+Es war direkt der Ausdruck eines Kindes, das hart bestraft worden ist und nicht weiß, wofür, weshalb, nicht weiß, wie es der Qual und der rohen Gewalt entgehen soll ...
+
+673
+01:27:39,550 --> 01:27:56,970
+ich stand davor und das Tier blickte mich an, mir rannen die Tränen herunter — es waren seine Tränen, man kann um den liebsten Bruder nicht schmerzlicher zucken, als ich in meiner Ohnmacht um dieses stille Leid zuckte.
+
+674
+01:27:56,970 --> 01:28:04,600
+Wie weit, wie unerreichbar, verloren die freien, saftigen, grünen Weiden Rumäniens!
+
+675
+01:28:04,600 --> 01:28:14,220
+Wie anders schien dort die Sonne, blies der Wind, wie anders waren die schönen Laute der Vögel oder das melodische Rufen der Hirten.
+
+676
+01:28:14,220 --> 01:28:31,360
+Und hier — diese fremde schaurige Stadt, der dumpfe Stall, das ekelerregende, muffige Heu mit faulem Stroh gemischt, die fremden furchtbaren Menschen, und — die Schläge, das Blut, das aus der frischen Wunde rinnt ...
+
+677
+01:28:31,360 --> 01:28:45,170
+O, mein armer Büffel, mein armer, geliebter Bruder, wir stehen hier beide so ohnmächtig und stumpf und sind nur eins in Schmerz, in Ohnmacht, in Sehnsucht. —
+
+678
+01:28:45,170 --> 01:29:03,840
+Derweil tummelten sich die Gefangenen geschäftig um den Wagen, luden die schweren Säcke ab und schleppten sie ins Haus; der Soldat aber steckte beide Hände in die Hosentasche, spazierte mit großen Schritten über den Hof, lächelte und pfiff leise einen Gassenhauer.
+
+679
+01:29:03,840 --> 01:29:08,610
+Und der ganze herrliche Krieg zog an mir vorbei ...
+
+680
+01:29:08,610 --> 01:29:13,040
+Schreiben Sie schnell, ich umarme Sie, Sonitschka.
+
+681
+01:29:13,040 --> 01:29:14,830
+Ihre Rosa.
+
+682
+01:29:14,830 --> 01:29:28,460
+Sonjuscha, Liebste, seien Sie trotz alledem ruhig und heiter. So ist das Leben und so muss man es nehmen, tapfer, unverzagt und lächelnd — trotz allem.
+
+683
+01:29:29,900 --> 01:29:31,500
+Ende
+von
+Teil 3
+
+684
+01:29:31,500 --> 01:29:34,660
+Gelesen von Hokuspokus
+
+685
+01:29:41,480 --> 01:29:44,430
+Teil 4
+von
+Briefe aus dem Gefängnis
+
+686
+01:29:44,430 --> 01:29:48,010
+Diese LibriVox-Aufnahme ist in der Public Domain.
+
+687
+01:29:48,010 --> 01:29:52,210
+Briefe aus dem Gefängnis
+von
+Rosa Luxemburg
+
+688
+01:29:52,210 --> 01:29:53,770
+Teil 4
+
+689
+01:29:53,770 --> 01:29:55,950
+Breslau, den 14.
+
+690
+01:29:55,950 --> 01:29:56,320
+1.
+
+691
+01:29:56,320 --> 01:29:58,220
+1918.
+
+692
+01:29:58,220 --> 01:30:03,290
+Meine liebste Sonitschka, wie lange habe ich Ihnen nicht geschrieben!
+
+693
+01:30:03,290 --> 01:30:16,120
+Ich glaube, es sind Monate her. Ich weiß auch heute nicht einmal, ob Sie schon in Berlin sind, will aber hoffen, dass diese Zeilen Sie noch rechtzeitig zu Ihrem Geburtstag erreichen.
+
+694
+01:30:16,120 --> 01:30:26,830
+Ich bat Mathilde, Ihnen von mir einen Orchideenstrauß zu schicken, nun liegt die Ärmste im Krankenhaus und wird wohl kaum meinen Auftrag ausführen können.
+
+695
+01:30:26,830 --> 01:30:44,710
+Doch Sie wissen, dass ich in Gedanken und mit ganzem Herzen bei Ihnen bin und Sie an Ihrem Geburtstage ganz mit Blumen umgeben möchte: mit lila Orchideen, mit weißen Iris, mit stark duftenden Hyazinthen, mit allem, was zu haben ist.
+
+696
+01:30:44,710 --> 01:30:57,920
+Vielleicht wird es mir wenigstens im nächsten Jahr vergönnt sein, Ihnen an diesem Tage selbst Blumen zu bringen und mit Ihnen zusammen einen Spaziergang im Botanischen Garten und im Feld zu machen.
+
+697
+01:30:57,920 --> 01:31:00,420
+Wie herrlich wäre das!
+
+698
+01:31:00,420 --> 01:31:04,420
+(Fußnote:) Im nächsten Jahr, am 15.
+
+699
+01:31:04,420 --> 01:31:21,620
+Januar 1919, war Rosa Luxemburg in Gemeinschaft mit Karl Liebknecht, von der unter dem Protektorat der Ebert-Noske, Stampfer und Konsorten an der Wiederaufrichtung des alten Regimes arbeitenden Mörderzentrale gemordet.
+
+700
+01:31:21,620 --> 01:31:23,660
+(Ende Fußnote.)
+
+701
+01:31:23,660 --> 01:31:26,420
+Heute haben wir hier 0 Grad.
+
+702
+01:31:26,420 --> 01:31:44,000
+Zugleich aber liegt in der Luft ein so linder erfrischender Frühlingshauch und oben schimmert zwischen dicken milchweißen Wolken ein so tiefer blauer Himmel, dazu schilpen die Spatzen ganz fröhlich, man könnte denken, es sei Ende März.
+
+703
+01:31:44,000 --> 01:31:56,870
+Ich freue mich schon so auf den Frühling, das Einzige, was man nie satt kriegt, so lange man lebt, was man im Gegenteil mit jedem Jahr mehr zu würdigen und mehr zu lieben versteht.
+
+704
+01:31:56,870 --> 01:32:10,210
+Wissen Sie, Sonitschka, dass der Anfang des Frühlings in der organischen Welt, d. h. das Erwachen zum Leben jetzt beginnt, Anfang Januar, ohne auf den Kalenderfrühling zu warten?
+
+705
+01:32:10,210 --> 01:32:18,820
+Während nämlich nach dem Kalender erst der Winter beginnt, befinden wir uns in der größten, astronomischen Sonnennähe,
+
+706
+01:32:18,820 --> 01:32:35,330
+und dies hat eine so geheimnisvolle Wirkung auf alles Leben, dass auch auf unserer nördlichen Halbkugel, die in Winterschnee eingehüllt ist, zu Beginn des Januar wie mit einem Zauberstab die Pflanzen- und Tierwelt geweckt wird.
+
+707
+01:32:35,330 --> 01:32:42,250
+Die Knospen fangen jetzt an zu treiben, viele Tiere fangen die Fortpflanzung schon an.
+
+708
+01:32:42,250 --> 01:32:54,110
+Neulich las ich bei Francé die Beobachtung, dass die hervorragendsten, wissenschaftlichen und literarischen Produktionen berühmter Männer in die Monate Januar-Februar fallen.
+
+709
+01:32:54,110 --> 01:33:04,950
+Auch im Menschenleben soll also die Sonnenwende nach Weihnachten ein kritischer Moment sein und einen neuen Zustrom aller Lebenskräfte verursachen.
+
+710
+01:33:04,950 --> 01:33:21,930
+Auch Sie, Sonitschka, sind so ein frühes Blümchen, das noch mitten im Schnee und Eis aufgesprossen ist und deshalb sein Lebenlang ein bisschen fröstelt, sich im Leben nicht heimisch fühlt und zarte Treibhauspflege braucht.
+
+711
+01:33:21,930 --> 01:33:33,030
+Über Ihren Rodin zu Weihnachten habe ich mich mächtig gefreut und hätte Ihnen gleich gedankt, wenn mir Mathilde nicht gesagt hätte, dass Sie in Frankfurt sind.
+
+712
+01:33:33,030 --> 01:33:41,450
+Was mich besonders angenehm berührt hat, ist der Natursinn Rodins, seine Ehrfurcht vor jedem Gräslein im Felde.
+
+713
+01:33:41,450 --> 01:33:53,520
+Das muss ein Prachtmensch gewesen sein: offen, natürlich, überströmend von innerer Wärme und Intelligenz; er erinnert mich entschieden an Jaurès.
+
+714
+01:33:53,520 --> 01:33:55,210
+Mögen Sie meinen Broodcoorens?
+
+715
+01:33:55,210 --> 01:33:58,130
+Oder kannten Sie ihn schon?
+
+716
+01:33:58,130 --> 01:34:06,070
+Mich hatte dieser Roman sehr ergriffen; namentlich die landschaftlichen Schilderungen sind von höchster poetischer Kraft.
+
+717
+01:34:06,070 --> 01:34:19,050
+Dem Broodcoorens scheint offenbar, genau wie dem De Coster, dass »über dem Lande Flandern« die Sonne viel herrlicher auf- und untergeht als über der sonstigen Erde.
+
+718
+01:34:19,050 --> 01:34:30,930
+Ich finde, dass die Flamen alle in ihr Ländchen förmlich verliebt sind, sie beschreiben es nicht wie ein Stück schöne Erde, sondern wie eine strahlende junge Braut.
+
+719
+01:34:30,930 --> 01:34:41,060
+Und auch in dem düster-tragischen Ende finde ich eine Verwandtschaft der Farben mit den grandiosen Bildern im Till Eulenspiegel, z.
+
+720
+01:34:41,060 --> 01:34:44,330
+B. mit der Demolierung des öffentlichen Hauses.
+
+721
+01:34:44,330 --> 01:35:05,110
+Finden Sie nicht auch, dass diese Bücher im Kolorit ganz an Rembrandt erinnern: das Dunkle der ganzen Bilder, gemischt mit einem funkelnden Altgoldton; der verblüffendste Realismus aller Details und doch das Ganze in eine märchenhafte Phantasieregion entrückt.
+
+722
+01:35:05,110 --> 01:35:12,190
+Im »Berliner Tageblatt« las ich, dass im Friedrich-Museum ein neuer großer Tizian hängt.
+
+723
+01:35:12,190 --> 01:35:13,850
+Haben Sie ihn schon besucht?
+
+724
+01:35:13,850 --> 01:35:31,860
+Ich gestehe, dass Tizian eigentlich nicht mein Freund ist, er ist mir zu geleckt und kalt, zu virtuos — verzeihen Sie, wenn das vielleicht eine Majestätsbeleidigung ist, aber ich kann nicht anders als meiner unmittelbaren Empfindung folgen.
+
+725
+01:35:31,860 --> 01:35:39,040
+Trotzdem wäre ich glücklich, wenn ich jetzt ins Friedrich-Museum könnte, um den neuen Gast zu besichtigen.
+
+726
+01:35:39,040 --> 01:35:45,270
+Haben Sie auch den Kaufmannschen Nachlass gesehen, von dem man so viel Wesens gemacht hat?
+
+727
+01:35:45,270 --> 01:35:57,480
+Meine Lektüre sind jetzt verschiedene ältere Studien über Shakespeare aus den 60er und 70er Jahren, als man noch in Deutschland lebhaft über das Problem Shakespeare debattierte.
+
+728
+01:35:57,480 --> 01:36:00,330
+Könnten Sie mir nicht aus der Kgl.
+
+729
+01:36:00,330 --> 01:36:15,280
+Bibliothek oder aus der Reichstagsbibliothek beschaffen: Klein, Geschichte des italienischen Dramas; Schack, Geschichte der dramatischen Literatur in Spanien; Gervinus und Ulrici über Shakespeare?
+
+730
+01:36:15,280 --> 01:36:17,970
+Wie stehen Sie selbst zu Shakespeare?
+
+731
+01:36:17,970 --> 01:36:19,690
+Schreiben Sie bald!
+
+732
+01:36:19,690 --> 01:36:22,910
+Ich umarme Sie und drücke Ihnen warm die Hand.
+
+733
+01:36:22,910 --> 01:36:26,220
+Seien Sie ruhig und heiter, trotz alledem.
+
+734
+01:36:26,220 --> 01:36:29,220
+Liebste Sonitschka, auf Wiedersehen!
+
+735
+01:36:29,220 --> 01:36:31,290
+Wann wollen Sie kommen?!
+
+736
+01:36:31,290 --> 01:36:36,660
+Sonjuscha, wollen Sie mir die Liebe tun: schicken Sie der Mathilde J.
+
+737
+01:36:36,660 --> 01:36:40,960
+Hyazinthen von mir. Ich erstatte es Ihnen, wenn Sie hier sind.
+
+738
+01:36:40,960 --> 01:36:42,980
+Ihre Rosa.
+
+739
+01:36:44,740 --> 01:36:46,420
+Breslau, den 24.
+
+740
+01:36:46,420 --> 01:36:46,690
+3.
+
+741
+01:36:46,690 --> 01:36:48,630
+1918.
+
+742
+01:36:48,630 --> 01:36:57,350
+Meine geliebte Sonitschka, wie lange habe ich Ihnen nicht mehr geschrieben und wie oft habe ich in dieser Zeit an Sie gedacht!
+
+743
+01:36:57,350 --> 01:37:02,160
+Die »Zeitläufte« benehmen sogar mir zeitweilig die Lust zum Schreiben....
+
+744
+01:37:02,160 --> 01:37:14,760
+Wenn man jetzt zusammensein und, im Feld schlendernd, de omnibus rebus plaudern könnte, wäre es eine Wohltat, aber darauf ist gar keine Aussicht zur Zeit.
+
+745
+01:37:14,760 --> 01:37:26,700
+Meine Beschwerde ist mit gründlicher Schilderung meiner Schlechtigkeit und Unverbesserlichkeit abgewiesen und ein Antrag, wenigstens auf kurzen Urlaub, desgleichen.
+
+746
+01:37:26,700 --> 01:37:31,600
+Ich muss also wohl warten, bis wir die ganze Welt besiegen.
+
+747
+01:37:31,600 --> 01:37:49,920
+Sonjuscha, wenn ich längere Zeit von Ihnen keine Nachricht habe, lebe ich in dem Gefühl, dass Sie dort einsam, unruhig, verdrossen und verzweifelt herumflattern, wie ein vom Baume losgelöstes Blatt im Winde, und das tut mir sehr weh.
+
+748
+01:37:49,920 --> 01:38:01,280
+Schauen Sie, jetzt beginnt wieder der Frühling, die Tage werden schon so hell und lang, und im Feld gibt es sicherlich schon viel zu sehen und zu hören!
+
+749
+01:38:01,280 --> 01:38:15,930
+Gehen Sie doch viel hinaus, der Himmel ist jetzt so interessant und mannigfaltig mit den jagenden unruhigen Wolken, die noch nackte Kalkerde muss in dieser wechselnden Beleuchtung schön sein.
+
+750
+01:38:15,930 --> 01:38:19,320
+Sehen Sie sich für mich an alledem satt....
+
+751
+01:38:19,320 --> 01:38:29,250
+Es ist das Einzige, was man nie im Leben überkriegt, was stets denselben Reiz der Neuheit hat und einem immer treu bleibt.
+
+752
+01:38:29,250 --> 01:38:36,880
+Sie müssen auch unbedingt für mich in den Botanischen Garten gehen, um mir genau über etwas zu berichten.
+
+753
+01:38:36,880 --> 01:38:46,760
+Es geht nämlich in diesem Frühjahr etwas Merkwürdiges vor. Die Vögel sind alle um 1-1½ Monate zu früh angekommen.
+
+754
+01:38:46,760 --> 01:38:49,330
+Die Nachtigall war schon am 10.
+
+755
+01:38:49,330 --> 01:39:06,920
+März hier, der Wendehals, der erst Ende April kommt, lachte schon am 15. und sogar der Pirol, den man den »Pfingstvogel« nennt und der nie vor Mai kommt, flötet hier schon seit einer Woche vor Sonnenaufgang im Morgengrauen!
+
+756
+01:39:06,920 --> 01:39:11,700
+Ich höre sie alle von weitem aus der Anlage des Irrenhauses.
+
+757
+01:39:11,700 --> 01:39:24,740
+Ich weiß mir diesen verfrühten Heimgang gar nicht zu deuten und möchte wissen, ob dasselbe anderswo zu beobachten ist oder nur auf die Wirkung des hiesigen Irrenhauses zurückzuführen ist.
+
+758
+01:39:24,740 --> 01:39:34,670
+Gehen Sie also in den Botanischen, Sonitschka, aber so in den Mittagsstunden bei sonnigem Tag, und belauschen Sie alles, um mir zu berichten.
+
+759
+01:39:34,670 --> 01:39:43,950
+Das ist mir ja, neben dem Ausgang der Schlacht bei Cambrai, das Wichtigste auf Erden, eine wahre Herzensangelegenheit.
+
+760
+01:39:43,950 --> 01:39:47,310
+Wie schön sind die Bilder, die Sie mir schickten!
+
+761
+01:39:47,310 --> 01:39:50,700
+Von Rembrandt braucht man ja kein Wort zu sagen.
+
+762
+01:39:50,700 --> 01:40:04,980
+Bei Tizian war ich von dem Pferd noch mehr überwältigt als von dem Reiter; so viel wahrhaft königliche Macht und Vornehmheit in einem Tier ausgedrückt, hätte ich nicht für möglich gehalten,
+
+763
+01:40:04,980 --> 01:40:14,070
+Aber das aller-, allerschönste ist das Frauenbildnis von Bartolomeo da Venezia (den ich übrigens gar nicht kannte).
+
+764
+01:40:14,070 --> 01:40:22,920
+Welcher Rausch in den Farben, welche Feinheit der Zeichnung, welcher geheimnisvolle Zauber des Ausdrucks!
+
+765
+01:40:22,920 --> 01:40:29,160
+Sie erinnert mich darin in irgendeiner unbestimmten Weise an die Mona Lisa.
+
+766
+01:40:29,160 --> 01:40:35,930
+Sie haben mir mit diesen Bildern eine Fülle der Freude und des Lichts in die Zelle gebracht.
+
+767
+01:40:35,930 --> 01:40:39,970
+Das Buch von Hänschen (Hans Dieffenbach.
+
+768
+01:40:39,970 --> 01:40:48,240
+Die Herausgeber) müssen Sie natürlich behalten; es schmerzt mich, dass alle seine Bücher nicht in unsere Hände kommen.
+
+769
+01:40:48,240 --> 01:40:52,060
+Ich hätte sie Ihnen lieber als sonst wem gegeben.
+
+770
+01:40:52,060 --> 01:40:56,150
+Haben Sie den Shakespeare einigermaßen zur Zeit erhalten?
+
+771
+01:40:56,150 --> 01:40:59,700
+Was schreibt Karl, wann sehen Sie ihn wieder?
+
+772
+01:40:59,700 --> 01:41:06,990
+Grüßen Sie ihn tausendmal von mir und sagen Sie ihm von mir: Ça ira — trotz alledem.
+
+773
+01:41:06,990 --> 01:41:15,080
+Und seien Sie frisch und munter, freuen Sie sich über den Frühling: den nächsten werden wir schon zusammen verleben.
+
+774
+01:41:15,080 --> 01:41:17,430
+Ich umarme Sie, Liebste.
+
+775
+01:41:17,430 --> 01:41:19,140
+Fröhliche Ostern!
+
+776
+01:41:19,140 --> 01:41:21,600
+Auch den Kindern viele Grüße!
+
+777
+01:41:21,600 --> 01:41:23,700
+Ihre Rosa.
+
+778
+01:41:25,040 --> 01:41:26,020
+Breslau, 2.
+
+779
+01:41:26,020 --> 01:41:26,430
+5.
+
+780
+01:41:26,430 --> 01:41:27,780
+18.
+
+781
+01:41:27,780 --> 01:41:28,630
+...
+
+782
+01:41:28,630 --> 01:41:34,440
+Ich habe den Candide und die Gräfin Ulfeldt gelesen und mich über beides gefreut.
+
+783
+01:41:34,440 --> 01:41:48,170
+Candide ist eine so köstliche Ausgabe, dass ich es nicht übers Herz bringen konnte, das Buch aufzuschneiden und es so gelesen habe; da es in halben Bogen gefasst ist, ging das sehr gut.
+
+784
+01:41:48,170 --> 01:42:01,840
+Diese boshafte Zusammenstellung aller menschlichen Erbärmlichkeiten hätte auf mich vor dem Kriege wahrscheinlich den Eindruck eines Zerrbildes gemacht, jetzt wirkt sie durchaus realistisch ...
+
+785
+01:42:01,840 --> 01:42:13,140
+Zum Schluss erfuhr ich endlich, woher die Redensart stammt: »mais il faut cultiver notre jardin«, die ich selbst schon gelegentlich gebrauchte.
+
+786
+01:42:13,140 --> 01:42:20,890
+Die Gräfin Ulfeldt ist ein interessantes Kulturdokument, eine Ergänzung Grimmelshausens....
+
+787
+01:42:20,890 --> 01:42:22,490
+Was machen Sie?
+
+788
+01:42:22,490 --> 01:42:25,460
+Genießen Sie nicht den herrlichen Frühling?
+
+789
+01:42:25,460 --> 01:42:26,850
+Stets Ihre
+
+790
+01:42:26,850 --> 01:42:28,300
+Rosa.
+
+791
+01:42:29,820 --> 01:42:31,040
+Breslau, den 12.
+
+792
+01:42:31,040 --> 01:42:31,530
+5.
+
+793
+01:42:31,530 --> 01:42:33,880
+1918.
+
+794
+01:42:33,880 --> 01:42:39,600
+Sonitschka, Ihr Brieflein hat mich so erfreut, dass ich es gleich beantworten will.
+
+795
+01:42:39,600 --> 01:42:46,270
+Sehen Sie, wieviel Genuss und Begeisterung Ihnen ein Besuch im Botanischen Garten verschafft!
+
+796
+01:42:46,270 --> 01:42:49,410
+Warum gönnen Sie sich das nicht öfters?!
+
+797
+01:42:49,410 --> 01:42:57,990
+Und auch ich habe etwas davon, wenn Sie mir Ihre Eindrücke gleich so warm und farbenreich schildern, ich versichere Sie!
+
+798
+01:42:57,990 --> 01:43:03,690
+Ja, ich kenne die wunderbaren, rubinroten Kätzchen der blühenden Fichte.
+
+799
+01:43:03,690 --> 01:43:14,670
+Sie sind so unwahrscheinlich schön, wie übrigens das meiste andere, wenn es in voller Blüte steht, dass man jedesmal den eigenen Augen nicht traut.
+
+800
+01:43:14,670 --> 01:43:33,050
+Diese roten Kätzchen sind weibliche Blüten, aus denen dann die großen, schweren Zapfen werden, die sich umdrehen und nach unten hängen; daneben gibt es unscheinbare, fahlgelbe, männliche Kätzchen der Fichte, die den goldigen Staub verbreiten, —
+
+801
+01:43:33,050 --> 01:43:37,590
+»Pettoria« kenne ich nicht, Sie schreiben eine Akazienart.
+
+802
+01:43:37,590 --> 01:43:45,110
+Meinen Sie, dass sie ähnlich gefiederte Blättchen und Schmetterlingsblüten hat, wie die sogenannte »Akazie«?
+
+803
+01:43:45,110 --> 01:43:53,240
+Sie wissen wahrscheinlich, dass der Baum, den man so landläufig nennt, gar keine Akazie sondern »Robinia« ist;
+
+804
+01:43:53,240 --> 01:43:56,150
+eine wirkliche Akazie ist z.
+
+805
+01:43:56,150 --> 01:44:09,870
+B. die Mimose; diese blüht allerdings schwefelgelb und duftet berauschend, aber ich kann mir nicht denken, dass sie im Freien in Berlin wächst, da es eine tropische Pflanze ist.
+
+806
+01:44:09,870 --> 01:44:18,990
+In Ajaccio auf Korsika sah ich im Dezember auf dem Platz in der Stadt herrlich blühende Mimosen, riesige Bäume ...
+
+807
+01:44:18,990 --> 01:44:35,360
+Hier kann ich leider nur von weitem aus meinem Fenster das Grünen der Bäume beobachten, deren Spitzen ich über der Mauer sehe; ich suche meist nach dem Habitus und dem Farbenton die Baumarten zu erraten und, wie es scheint, meist richtig.
+
+808
+01:44:35,360 --> 01:44:47,930
+Neulich wurde hier ein gefundener, abgebrochener Ast ins Haus gebracht, und hat durch sein bizarres Aussehen allgemeine Aufregung hervorgerufen; jedermann frug, was das sei.
+
+809
+01:44:47,930 --> 01:45:07,520
+Es war eine Rüster (Ulme); erinnern Sie sich noch, wie ich sie Ihnen zeigte in der Straße in meinem Südende, vollbeladen mit duftigen Paketen der fahl-rosig-grünlichen Früchtchen; es war auch im Mai, und Sie waren ganz hingerissen von dem phantastischen Anblick.
+
+810
+01:45:07,520 --> 01:45:18,200
+Hier wohnen die Leute jahrzehntelang in der Straße, die mit Rüstern bepflanzt ist, und haben noch nicht »bemerkt«, wie eine blühende Rüster aussieht....
+
+811
+01:45:18,200 --> 01:45:28,400
+Und derselbe Stumpfsinn ist ja allgemein Tieren gegenüber. Die meisten Städter sind doch wirklich rohe Barbaren, im Grunde genommen....
+
+812
+01:45:28,400 --> 01:45:42,790
+Bei mir nimmt, umgekehrt, das innere Verwachsen mit der organischen Natur — en defrit de l'humanité — beinahe krankhafte Formen an, was wohl mit meinem Nervenzustand zusammenhängt.
+
+813
+01:45:42,790 --> 01:45:50,840
+Da unten hat ein Paar Haubenlerchen ein Junges ausgebrütet — die übrigen drei sind wohl kaputt gegangen.
+
+814
+01:45:50,840 --> 01:46:05,250
+Und dieses eine kann schon sehr gut laufen — Sie haben vielleicht bemerkt, wie drollig die Haubenlerchen laufen, mit kleinen behenden Schrittchen, trippelnd, wie der Spatz mit beiden Beinchen hüpfend,
+
+815
+01:46:05,250 --> 01:46:16,530
+es kann auch schon gut fliegen, findet wohl aber noch nicht selbst genug Nahrung: Insekten, Räupchen usw. — zumal bei diesen kalten Tagen.
+
+816
+01:46:16,530 --> 01:46:33,820
+So erscheint es jeden Abend unten im Hof vor meinem Fenster und piept ganz laut, schrill und kläglich, worauf auch gleich die beiden Alten erscheinen und mit ängstlichem, bekümmerten »Huid—huid« halblaut Antwort geben,
+
+817
+01:46:33,820 --> 01:46:48,390
+dann schnell herumlaufen, verzweifelt suchend, um noch in der Dämmerung und Kälte etwas Essbares zu finden, und dann kommen sie an den klagenden Balg heran und stecken ihm das Gefundene in den Schnabel.
+
+818
+01:46:48,390 --> 01:47:05,230
+Das wiederholt sich jetzt jeden Abend um ½9 Uhr, und wenn dies schrille, klagende Piepen unter meinem Fenster beginnt, und ich die Unruhe und Sorge der beiden kleinen Eltern sehe, bekomme ich buchstäblich einen Herzkrampf.
+
+819
+01:47:05,230 --> 01:47:19,290
+Dabei kann ich nichts helfen, denn die Haubenlerchen sind sehr scheu, und wenn man ihnen Brot hinwirft, fliegen sie weg, nicht so wie die Tauben und Spatzen, die mir schon wie Hunde nachlaufen.
+
+820
+01:47:19,290 --> 01:47:35,660
+Ich sage mir vergeblich, dass es lächerlich ist, dass ich ja nicht für alle hungrigen Haubenlerchen der Welt verantwortlich bin und nicht um alle geschlagenen Büffel — wie die, die hier täglich mit Säcken in den Hof kommen — weinen kann.
+
+821
+01:47:35,660 --> 01:47:42,600
+Das hilft mir nichts und ich bin förmlich krank, wenn ich solches höre und sehe.
+
+822
+01:47:42,600 --> 01:47:51,620
+Und wenn der Star, der bis zum Überdruss den ganzen, lieben Tag, irgendwo in der Nähe sein aufgeregtes Geschwätz wiederholt,
+
+823
+01:47:51,620 --> 01:48:08,500
+wenn er für einige Tage verstummt, habe ich wieder keine Ruhe, dass ihm was Böses zugestoßen sein mag und warte gequält, dass er seinen Unsinn nur weiter pfeift, damit ich weiß, dass es ihm wohlergeht.
+
+824
+01:48:08,500 --> 01:48:25,100
+So bin ich aus meiner Zelle nach allen Seiten durch unmittelbare, feine Fäden an tausend kleine und große Kreaturen geknüpft, und reagiere auf alles mit Unruhe, Schmerz, Selbstvorwürfen....
+
+825
+01:48:26,280 --> 01:48:33,300
+Sie gehören auch zu all diesen Vögeln und Kreaturen, um die ich von weitem innerlich vibriere.
+
+826
+01:48:33,300 --> 01:48:41,180
+Ich fühle, wie Sie darunter leiden, dass Jahre unwiederbringlich vergehen, ohne dass man »lebt«.
+
+827
+01:48:41,180 --> 01:48:43,690
+Aber Geduld und Mut!
+
+828
+01:48:43,690 --> 01:48:47,790
+Wir werden noch leben und Großes erleben.
+
+829
+01:48:47,790 --> 01:48:58,120
+Jetzt sehen wir vorerst, wie eine ganze alte Welt versinkt, jeden Tag ein Stück, ein neuer Abrutsch, ein neuer Riesensturz....
+
+830
+01:48:58,120 --> 01:49:06,300
+Und das Komischste ist, dass die meisten es gar nicht merken und glauben, noch auf festem Boden zu wandeln....
+
+831
+01:49:06,300 --> 01:49:14,620
+Sonitschka, haben Sie vielleicht oder könnten Sie beschaffen den Gil Blas und den hinkenden Teufel?
+
+832
+01:49:14,620 --> 01:49:18,870
+Ich kenne Lesage gar nicht und wollte ihn schon längst lesen.
+
+833
+01:49:18,870 --> 01:49:20,290
+Kennen Sie ihn?
+
+834
+01:49:20,290 --> 01:49:24,470
+Schlimmstenfalls kaufe ich mir ihn in der Reclam-Ausgabe.
+
+835
+01:49:24,470 --> 01:49:26,580
+Ich umarme Sie herzlich
+
+836
+01:49:26,580 --> 01:49:28,040
+Ihre Rosa.
+
+837
+01:49:28,040 --> 01:49:30,900
+Schreiben Sie bald, wie es Karl geht.
+
+838
+01:49:30,900 --> 01:49:41,820
+Vielleicht hat Pfemfert den »Flachsacker« von Stijn Streuvels, das ist wieder ein Flame; erschienen im Inselverlag, soll sehr gut sein.
+
+839
+01:49:43,120 --> 01:49:44,500
+Breslau, den 18.
+
+840
+01:49:44,500 --> 01:49:44,930
+10.
+
+841
+01:49:44,930 --> 01:49:46,790
+1918.
+
+842
+01:49:46,790 --> 01:49:50,910
+Liebste Sonitschka, ich schrieb Ihnen vorgestern.
+
+843
+01:49:50,910 --> 01:49:59,370
+Bis heute habe ich noch keinen Bescheid auf mein Telegramm an den Reichskanzler, es kann vielleicht noch einige Tage dauern.
+
+844
+01:49:59,370 --> 01:50:09,860
+Jedenfalls steht aber eins fest: meine Stimmung ist schon derart, dass mir ein Besuch meiner Freunde unter Aufsicht zur Unmöglichkeit geworden ist.
+
+845
+01:50:09,860 --> 01:50:19,470
+Ich ertrug alles ganz geduldig die Jahre hindurch und wäre unter anderen Umständen noch weitere Jahre ebenso geduldig geblieben.
+
+846
+01:50:19,470 --> 01:50:26,890
+Nachdem aber der allgemeine Umschwung in der Lage kam, gab es auch in meiner Psychologie einen Knick.
+
+847
+01:50:26,890 --> 01:50:42,400
+Die Unterredungen unter Aufsicht, die Unmöglichkeit, darüber zu reden, was mich wirklich interessiert, sind mir schon so lästig, dass ich lieber auf jeden Besuch verzichte, bis wir uns als freie Menschen sehn.
+
+848
+01:50:42,400 --> 01:50:45,250
+Lange kann es ja nicht mehr dauern.
+
+849
+01:50:45,250 --> 01:50:54,580
+Wenn Dittmann und Kurt Eisner freigelassen sind, können sie mich nicht länger im Gefängnis halten und auch Karl wird bald frei sein.
+
+850
+01:50:54,580 --> 01:50:58,320
+Warten wir also lieber auf das Wiedersehen in Berlin.
+
+851
+01:50:58,320 --> 01:51:01,020
+Bis dahin tausend Grüße.
+
+852
+01:51:01,020 --> 01:51:02,450
+Stets Ihre
+
+853
+01:51:02,450 --> 01:51:04,060
+Rosa.
+
+854
+01:51:05,320 --> 01:51:07,140
+Ende
+von
+Teil 4
+
+855
+01:51:07,140 --> 01:51:12,300
+Ende
+von
+Briefe aus dem Gefängnis
+von
+Rosa Luxemburg
+
+856
+01:51:12,300 --> 01:51:15,560
+Gelesen von Hokuspokus
+
+857
+01:51:20,340 --> 01:51:21,340
+
+
