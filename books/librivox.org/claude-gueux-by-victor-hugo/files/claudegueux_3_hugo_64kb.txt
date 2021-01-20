@@ -12,15 +12,23 @@ Victor Hugo
 
 Section trois
 
-Le 4 novembre arriva. Ce jour-là, Claude s’éveilla avec un visage serein qu’on ne lui avait pas encore vu depuis le jour où la décision de M. D. l’avait séparé de son ami. En se levant, il fouilla dans une espèce de caisse de bois blanc qui était au pied de son lit et qui contenait ses quelques guenilles. Il en tira une paire de ciseaux de couturière. C’était, avec un volume dépareillé de l’Émile, la seule chose qui lui restât de la femme qu’il avait aimée, de la mère de son enfant, de son heureux petit ménage d’autrefois. Deux meubles bien inutiles pour Claude ; les ciseaux ne pouvaient servir qu’à une femme, le livre qu’à un lettré. Claude ne savait ni coudre ni lire.
+Le 4 novembre arriva. Ce jour-là, Claude s’éveilla avec un visage serein qu’on ne lui avait pas encore vu depuis le jour où la décision de [[M.||monsieur]] D. l’avait séparé de son ami.
 
-Au moment où il traversait le vieux cloître déshonoré et blanchi à la chaux qui sert de promenoir l’hiver, il s’approcha du condamné Ferrari, qui regardait avec attention les énormes barreaux d’une croisée. Claude tenait à la main la petite paire de ciseaux ; il la montra à Ferrari en disant :
+En se levant, il fouilla dans une espèce de caisse de bois blanc qui était au pied de son lit et qui contenait ses quelques guenilles.
+
+Il en tira une paire de ciseaux de couturière. C’était, avec un volume dépareillé de l’Émile, la seule chose qui lui restât de la femme qu’il avait aimée, de la mère de son enfant, de son heureux petit ménage d’autrefois.
+
+Deux meubles bien inutiles pour Claude ; les ciseaux ne pouvaient servir qu’à une femme, le livre qu’à un lettré. Claude ne savait ni coudre ni lire.
+
+Au moment où il traversait le vieux cloître déshonoré et blanchi à la chaux qui sert de promenoir l’hiver, il s’approcha du condamné Ferrari, qui regardait avec attention les énormes barreaux d’une croisée.
+
+Claude tenait à la main la petite paire de ciseaux ; il la montra à Ferrari en disant :
 
 — Ce soir je couperai ces barreaux-ci avec ces ciseaux-là.
 
 Ferrari, incrédule, se mit à rire, et Claude aussi.
 
-Ce matin-là, il travailla avec plus d’ardeur qu’à l’ordinaire ; jamais il n’avait fait si vite et si bien. Il parut attacher un certain prix à terminer dans la matinée un chapeau de paille que lui avait payé d’avance un honnête bourgeois de Troyes, M. Bressier.
+Ce matin-là, il travailla avec plus d’ardeur qu’à l’ordinaire ; jamais il n’avait fait si vite et si bien. Il parut attacher un certain prix à terminer dans la matinée un chapeau de paille que lui avait payé d’avance un honnête bourgeois de Troyes, [[M.||monsieur]] Bressier.
 
 Un peu avant midi, il descendit sous un prétexte à l’atelier des menuisiers situé au rez-de-chaussée, au-dessous de l’étage où il travaillait. Claude était aimé là comme ailleurs, mais il y entrait rarement. Aussi :
 
@@ -44,7 +52,7 @@ Chacun attendit de son côté ce qui arriverait. L’affaire était terrible, dr
 
 Une heure après, il aborda un jeune condamné de seize ans qui bâillait dans le promenoir, et lui conseilla d’apprendre à lire. En ce moment, le détenu Faillette accosta Claude, et lui demanda ce que diable il cachait là dans son pantalon. Claude dit :
 
-— C’est une hache pour tuer M. D. ce soir.
+— C’est une hache pour tuer [[M.||monsieur]] D. ce soir.
 
 Il ajouta :
 
@@ -52,7 +60,9 @@ Il ajouta :
 
 — Un peu, dit Faillette.
 
-Le reste de la journée fut à l’ordinaire. À sept heures du soir, on renferma les prisonniers, chaque section dans l’atelier qui lui était assigné ; et les surveillants sortirent des salles de travail, comme il paraît que c’est l’habitude, pour ne rentrer qu’après la ronde du directeur.
+Le reste de la journée fut à l’ordinaire.
+
+À sept heures du soir, on renferma les prisonniers, chaque section dans l’atelier qui lui était assigné ; et les surveillants sortirent des salles de travail, comme il paraît que c’est l’habitude, pour ne rentrer qu’après la ronde du directeur.
 
 Claude Gueux fut donc verrouillé comme les autres dans son atelier avec ses compagnons de métier.
 
@@ -64,11 +74,19 @@ Une fois que les surveillants les eurent laissés seuls, Claude se leva debout s
 
 Alors Claude haussa la voix et dit :
 
-— Vous savez tous qu’Albin était mon frère. Je n’ai pas assez de ce qu’on me donne ici pour manger. Même en n’achetant que du pain avec le peu que je gagne, cela ne suffirait pas. Albin partageait sa ration avec moi ; je l’ai aimé d’abord parce qu’il m’a nourri, ensuite parce qu’il m’a aimé. Le directeur, M. D., nous a séparés. Cela ne lui faisait rien que nous fussions ensemble ; mais c’est un méchant homme, qui jouit de tourmenter. Je lui ai redemandé Albin. Vous avez vu ? il n’a pas voulu. Je lui ai donné jusqu’au 4 novembre pour me rendre Albin. Il m’a fait mettre au cachot pour avoir dit cela. Moi, pendant ce temps-là, je l’ai jugé et je l’ai condamné à mort[1]. Nous sommes au 4 novembre. Il viendra dans deux heures faire sa tournée. Je vous préviens que je vais le tuer. Avez-vous quelque chose à dire à cela ?
+— Vous savez tous qu’Albin était mon frère. Je n’ai pas assez de ce qu’on me donne ici pour manger. Même en n’achetant que du pain avec le peu que je gagne, cela ne suffirait pas.
+
+Albin partageait sa ration avec moi ; je l’ai aimé d’abord parce qu’il m’a nourri, ensuite parce qu’il m’a aimé. Le directeur, [[M.||monsieur]] D., nous a séparés. Cela ne lui faisait rien que nous fussions ensemble ; mais c’est un méchant homme, qui jouit de tourmenter.
+
+Je lui ai redemandé Albin. Vous avez vu ? il n’a pas voulu. Je lui ai donné jusqu’au 4 novembre pour me rendre Albin. Il m’a fait mettre au cachot pour avoir dit cela.
+
+Moi, pendant ce temps-là, je l’ai jugé et je l’ai condamné à mort[1]. Nous sommes au 4 novembre. Il viendra dans deux heures faire sa tournée. Je vous préviens que je vais le tuer. Avez-vous quelque chose à dire à cela ?
 
 Tous gardèrent le silence.
 
-Claude reprit. Il parla, à ce qu’il paraît, avec une éloquence singulière, qui d’ailleurs lui était naturelle. Il déclara qu’il savait bien qu’il allait faire une action violente, mais qu’il ne croyait pas avoir tort. Il attesta la conscience des quatrevingt-un voleurs qui l’écoutaient :
+Claude reprit. Il parla, à ce qu’il paraît, avec une éloquence singulière, qui d’ailleurs lui était naturelle. Il déclara qu’il savait bien qu’il allait faire une action violente, mais qu’il ne croyait pas avoir tort.
+
+Il attesta la conscience des quatrevingt-un voleurs qui l’écoutaient :
 
 Qu’il était dans une rude extrémité ;
 
@@ -82,7 +100,7 @@ Qu’il croyait bien ne pas se laisser entraîner par le ressentiment, mais que,
 
 Qu’il soumettait honnêtement ses raisons aux hommes justes qui l’entouraient ;
 
-Qu’il allait donc tuer M. D., mais que, si quelqu’un avait une objection à lui faire, il était prêt à l’écouter.
+Qu’il allait donc tuer [[M.||monsieur]] D., mais que, si quelqu’un avait une objection à lui faire, il était prêt à l’écouter.
 
 Une voix seulement s’éleva, et dit qu’avant de tuer le directeur, Claude devait essayer une dernière fois de lui parler et de le fléchir.
 
@@ -90,11 +108,17 @@ Une voix seulement s’éleva, et dit qu’avant de tuer le directeur, Claude de
 
 Huit heures sonnèrent à la grande horloge. Le directeur devait venir à neuf heures.
 
-Une fois que cette étrange cour de cassation eut en quelque sorte ratifié la sentence qu’il avait portée, Claude reprit toute sa sérénité. Il mit sur une table tout ce qu’il possédait en linge et en vêtements, la pauvre dépouille du prisonnier, et, appelant l’un après l’autre ceux de ses compagnons qu’il aimait le plus après Albin, il leur distribua tout. Il ne garda que la petite paire de ciseaux.
+Une fois que cette étrange cour de cassation eut en quelque sorte ratifié la sentence qu’il avait portée, Claude reprit toute sa sérénité.
+
+Il mit sur une table tout ce qu’il possédait en linge et en vêtements, la pauvre dépouille du prisonnier, et, appelant l’un après l’autre ceux de ses compagnons qu’il aimait le plus après Albin, il leur distribua tout. Il ne garda que la petite paire de ciseaux.
 
 Puis il les embrassa tous. Quelques-uns pleuraient, il souriait à ceux-là.
 
-Il y eut dans cette heure dernière des instants où il causa avec tant de tranquillité et même de gaieté, que plusieurs de ses camarades espéraient intérieurement, comme ils l’ont déclaré depuis, qu’il abandonnerait peut-être sa résolution. Il s’amusa même une fois à éteindre une des rares chandelles qui éclairaient l’atelier avec le souffle de sa narine, car il avait de mauvaises habitudes d’éducation qui dérangeaient sa dignité naturelle plus souvent qu’il n’aurait fallu. Rien ne pouvait faire que cet ancien gamin des rues n’eût point par moments l’odeur du ruisseau de Paris.
+Il y eut dans cette heure dernière des instants où il causa avec tant de tranquillité et même de gaieté, que plusieurs de ses camarades espéraient intérieurement, comme ils l’ont déclaré depuis, qu’il abandonnerait peut-être sa résolution.
+
+Il s’amusa même une fois à éteindre une des rares chandelles qui éclairaient l’atelier avec le souffle de sa narine, car il avait de mauvaises habitudes d’éducation qui dérangeaient sa dignité naturelle plus souvent qu’il n’aurait fallu.
+
+Rien ne pouvait faire que cet ancien gamin des rues n’eût point par moments l’odeur du ruisseau de Paris.
 
 Il aperçut un jeune condamné qui était pâle, qui le regardait avec des yeux fixes, et qui tremblait, sans doute dans l’attente de ce qu’il allait voir.
 
@@ -102,7 +126,15 @@ Il aperçut un jeune condamné qui était pâle, qui le regardait avec des yeux 
 
 Quand il eut distribué toutes ses hardes, fait tous ses adieux, serré toutes les mains, il interrompit quelques causeries inquiètes qui se faisaient çà et là dans les coins obscurs de l’atelier, et il commanda qu’on se remît au travail. Tous obéirent en silence.
 
-L’atelier où ceci se passait était une salle oblongue, un long parallélogramme percé de fenêtres sur ses deux grands côtés, et de deux portes qui se regardaient à ses deux extrémités. Les métiers avec leurs bancs étaient rangés de chaque côté près des fenêtres, les bancs touchant le mur à angle droit, et l’espace resté libre entre les deux rangées de métiers formait une sorte de longue voie qui allait en ligne droite de l’une des portes à l’autre et traversait ainsi toute la salle. C’était cette longue voie, assez étroite, que le directeur avait à parcourir en faisant son inspection ; il devait entrer par la porte sud et ressortir par la porte nord, après avoir regardé les travailleurs à droite et à gauche. D’ordinaire il faisait ce trajet assez rapidement et sans s’arrêter.
+L’atelier où ceci se passait était une salle oblongue, un long parallélogramme percé de fenêtres sur ses deux grands côtés, et de deux portes qui se regardaient à ses deux extrémités.
+
+Les métiers avec leurs bancs étaient rangés de chaque côté près des fenêtres,
+
+les bancs touchant le mur à angle droit, et l’espace resté libre entre les deux rangées de métiers formait une sorte de longue voie qui allait en ligne droite de l’une des portes à l’autre et traversait ainsi toute la salle.
+
+C’était cette longue voie, assez étroite, que le directeur avait à parcourir en faisant son inspection ; il devait entrer par la porte sud et ressortir par la porte nord, après avoir regardé les travailleurs à droite et à gauche.
+
+D’ordinaire il faisait ce trajet assez rapidement et sans s’arrêter.
 
 Claude s’était replacé lui-même à son banc, et il s’était remis au travail, comme Jacques Clément se fût remis à la prière.
 
@@ -118,7 +150,9 @@ En ce moment-là, il se fit dans l’atelier un silence de statues.
 
 Le directeur était seul comme d’habitude.
 
-Il entra avec sa figure joviale, satisfaite et inexorable, ne vit pas Claude qui était debout à gauche de la porte, la main droite cachée dans son pantalon, et passa rapidement devant les premiers métiers, hochant la tête, mâchant ses paroles, et jetant çà et là son regard banal, sans s’apercevoir que tous les yeux qui l’entouraient étaient fixés sur une idée terrible.
+Il entra avec sa figure joviale, satisfaite et inexorable, ne vit pas Claude qui était debout à gauche de la porte, la main droite cachée dans son pantalon,
+
+et passa rapidement devant les premiers métiers, hochant la tête, mâchant ses paroles, et jetant çà et là son regard banal, sans s’apercevoir que tous les yeux qui l’entouraient étaient fixés sur une idée terrible.
 
 Tout à coup il se détourna brusquement, surpris d’entendre un pas derrière lui.
 
@@ -148,7 +182,13 @@ Claude répondit en continuant de le suivre :
 
 — Impossible.
 
-— Monsieur le directeur, dit Claude avec une voix qui eût attendri le démon, je vous en supplie, remettez Albin avec moi, vous verrez comme je travaillerai bien. Vous qui êtes libre, cela vous est égal, vous ne savez pas ce que c’est qu’un ami ; mais, moi, je n’ai que les quatre murs de la prison. Vous pouvez aller et venir, vous ; moi je n’ai qu’Albin. Rendez-le-moi. Albin me nourrissait, vous le savez bien. Cela ne vous coûterait que la peine de dire oui. Qu’est-ce que cela vous fait qu’il y ait dans la même salle un homme qui s’appelle Claude Gueux et un autre qui s’appelle Albin ? Car ce n’est pas plus compliqué que cela. Monsieur le directeur, mon bon monsieur D., je vous supplie vraiment, au nom du ciel !
+— Monsieur le directeur, dit Claude avec une voix qui eût attendri le démon, je vous en supplie, remettez Albin avec moi, vous verrez comme je travaillerai bien.
+
+Vous qui êtes libre, cela vous est égal, vous ne savez pas ce que c’est qu’un ami ; mais, moi, je n’ai que les quatre murs de la prison.
+
+Vous pouvez aller et venir, vous ; moi je n’ai qu’Albin. Rendez-le-moi. Albin me nourrissait, vous le savez bien. Cela ne vous coûterait que la peine de dire oui.
+
+Qu’est-ce que cela vous fait qu’il y ait dans la même salle un homme qui s’appelle Claude Gueux et un autre qui s’appelle Albin ? Car ce n’est pas plus compliqué que cela. Monsieur le directeur, mon bon monsieur D., je vous supplie vraiment, au nom du ciel !
 
 Claude n’en avait peut-être jamais tant dit à la fois à un geôlier. Après cet effort, épuisé, il attendit. Le directeur répliqua avec un geste d’impatience :
 
@@ -164,9 +204,15 @@ Claude prit doucement le pan de l’habit du directeur.
 
 Et, tournant le dos à Claude, il avança la main vers le loquet de la porte de sortie.
 
-À la réponse du directeur, Claude avait reculé d’un pas. Les quatrevingts statues qui étaient là virent sortir de son pantalon sa main droite avec la hache. Cette main se leva, et avant que le directeur eût pu pousser un cri, trois coups de hache, chose affreuse à dire, assénés dans la même entaille, lui avaient ouvert le crâne. Au moment où il tombait à la renverse, un quatrième coup lui balafra le visage. Puis, comme une fureur lancée ne s’arrête pas court, Claude Gueux lui fendit la cuisse droite d’un cinquième coup inutile. Le directeur était mort.
+À la réponse du directeur, Claude avait reculé d’un pas. Les quatrevingts statues qui étaient là virent sortir de son pantalon sa main droite avec la hache.
 
-Alors Claude jeta la hache et cria : À l’autre maintenant ! L’autre, c’était lui. On le vit tirer de sa veste les petits ciseaux de « sa femme », et, sans que personne songeât à l’en empêcher, il se les enfonça dans la poitrine. La lame était courte, la poitrine était profonde. Il y fouilla longtemps et à plus de vingt reprises en criant : — Cœur de damné, je ne te trouverai donc pas ! — Et enfin il tomba baigné dans son sang, évanoui sur le mort.
+Cette main se leva, et avant que le directeur eût pu pousser un cri, trois coups de hache, chose affreuse à dire, assénés dans la même entaille, lui avaient ouvert le crâne. Au moment où il tombait à la renverse, un quatrième coup lui balafra le visage.
+
+Puis, comme une fureur lancée ne s’arrête pas court, Claude Gueux lui fendit la cuisse droite d’un cinquième coup inutile. Le directeur était mort.
+
+Alors Claude jeta la hache et cria : À l’autre maintenant ! L’autre, c’était lui. On le vit tirer de sa veste les petits ciseaux de « sa femme », et, sans que personne songeât à l’en empêcher, il se les enfonça dans la poitrine. La lame était courte, la poitrine était profonde.
+
+Il y fouilla longtemps et à plus de vingt reprises en criant : — Cœur de damné, je ne te trouverai donc pas ! — Et enfin il tomba baigné dans son sang, évanoui sur le mort.
 
 Lequel des deux était la victime de l’autre ?
 
