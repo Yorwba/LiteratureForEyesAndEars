@@ -20,6 +20,7 @@ def split_paragraph(paragraph, language=None):
         lambda: (35, 8),
         cmn=(19, 7),
         jpn=(19, 5),
+        kor=(26, 7),
         yue=(19, 7),
     )[language]
 

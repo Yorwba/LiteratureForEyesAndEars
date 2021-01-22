@@ -28,6 +28,10 @@ def styles_for_language(language):
             "Default": "Noto Serif CJK JP,120",
             "Standout": "Noto Serif CJK JP,180",
         },
+        kor={
+            "Default": "Noto Serif CJK KR,120",
+            "Standout": "Noto Serif CJK KR,180",
+        },
         tam={
             "TamilDefault": "Lohit Tamil,180",
             "TamilStandout": "Lohit Tamil,240",
