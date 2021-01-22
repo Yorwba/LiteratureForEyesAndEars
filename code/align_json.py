@@ -61,7 +61,7 @@ def unicode_last_base(s):
 
 def is_standout(paragraph):
     return all(
-        unicode_last_base(line).isalnum()
+        line[-1].isspace() or unicode_last_base(line).isalnum()
         for line in span_text(paragraph).splitlines()
     )
 
