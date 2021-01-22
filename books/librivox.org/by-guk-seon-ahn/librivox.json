@@ -1,0 +1,124 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1878",
+          "dod": "1926",
+          "first_name": "Guk-seon",
+          "id": "11385",
+          "last_name": "Ahn"
+        }
+      ],
+      "copyright_year": "1909",
+      "description": "동물들이 토론을 하며 인류를 비판하는 토론체 우화 소설이다. 최초의 신소설이며 일제가 1909년 금서를 하였다. - Summary by 위키피디아\n<br>\nAssembly of Animals is an allegorical tale of animals meeting together to criticise Mankind. It was the first modern novel in Korean, and it's publication was banned by the Japanese  in 1909. (Summary by Wikipedia)</p>",
+      "genres": [],
+      "id": "9889",
+      "language": "Korean",
+      "num_sections": "6",
+      "sections": [
+        {
+          "file_name": "animalmeeting_01_ahn_64kb.mp3",
+          "id": "340476",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_01_ahn.mp3",
+          "playtime": "567",
+          "readers": [
+            {
+              "display_name": "blur blur",
+              "reader_id": "10213"
+            }
+          ],
+          "section_number": "1",
+          "title": "서언 + 개회 취지 (Seo-on + Gae-hwe Chi-gi)"
+        },
+        {
+          "file_name": "animalmeeting_02_ahn_64kb.mp3",
+          "id": "340477",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_02_ahn.mp3",
+          "playtime": "765",
+          "readers": [
+            {
+              "display_name": "clapiano",
+              "reader_id": "10000"
+            }
+          ],
+          "section_number": "2",
+          "title": "1석, 2석 (il-seok, E-seok)"
+        },
+        {
+          "file_name": "animalmeeting_03_ahn_64kb.mp3",
+          "id": "340478",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_03_ahn.mp3",
+          "playtime": "725",
+          "readers": [
+            {
+              "display_name": "clapiano",
+              "reader_id": "10000"
+            }
+          ],
+          "section_number": "3",
+          "title": "3석, 4석(Sam-seok, Sa-seok)"
+        },
+        {
+          "file_name": "animalmeeting_04_ahn_64kb.mp3",
+          "id": "340479",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_04_ahn.mp3",
+          "playtime": "553",
+          "readers": [
+            {
+              "display_name": "DC Yang ",
+              "reader_id": "10109"
+            }
+          ],
+          "section_number": "4",
+          "title": "5석, 6석(Oh-seok, Yuk-seok)"
+        },
+        {
+          "file_name": "animalmeeting_05_ahn_64kb.mp3",
+          "id": "340480",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_05_ahn.mp3",
+          "playtime": "601",
+          "readers": [
+            {
+              "display_name": "clapiano",
+              "reader_id": "10000"
+            }
+          ],
+          "section_number": "5",
+          "title": "7석, 8석(Chil-seok, Pall-seok)"
+        },
+        {
+          "file_name": "animalmeeting_06_ahn_64kb.mp3",
+          "id": "340481",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_06_ahn.mp3",
+          "playtime": "149",
+          "readers": [
+            {
+              "display_name": "Jessie Yun",
+              "reader_id": "9508"
+            }
+          ],
+          "section_number": "6",
+          "title": "폐회(Pyea-hwe)"
+        }
+      ],
+      "title": "금수회의록 (Geum-su-Hue-I-Lok) Assembly of Animals",
+      "totaltime": "00:56:00",
+      "totaltimesecs": 3360,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/animal_meeting_1509_librivox",
+      "url_librivox": "https://librivox.org/by-guk-seon-ahn/",
+      "url_other": null,
+      "url_project": "http://ko.wikipedia.org/wiki/금수회의록",
+      "url_rss": "https://librivox.org/rss/9889",
+      "url_text_source": "http://ko.wikisource.org/wiki/금수회의록",
+      "url_zip_file": "http://www.archive.org/download//animal_meeting_1509_librivox/animal_meeting_1509_librivox_64kb_mp3.zip"
+    }
+  ]
+}
