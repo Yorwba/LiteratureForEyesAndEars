@@ -23,6 +23,7 @@ language_codes = {
     'Hungarian': 'hun',
     'Italian': 'ita',
     'Japanese': 'jpn',
+    'Korean': 'kor',
     'Latin': 'lat',
     'Middle English': 'eng', # Should actually be 'enm'
     'Norwegian': 'nob', # assume Bokmal
