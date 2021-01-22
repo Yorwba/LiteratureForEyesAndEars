@@ -5,13 +5,13 @@
         {
           "dob": "1878",
           "dod": "1926",
-          "first_name": "Guk-seon",
+          "first_name": "",
           "id": "11385",
-          "last_name": "Ahn"
+          "last_name": "안국선"
         }
       ],
       "copyright_year": "1909",
-      "description": "동물들이 토론을 하며 인류를 비판하는 토론체 우화 소설이다. 최초의 신소설이며 일제가 1909년 금서를 하였다. - Summary by 위키피디아\n<br>\nAssembly of Animals is an allegorical tale of animals meeting together to criticise Mankind. It was the first modern novel in Korean, and it's publication was banned by the Japanese  in 1909. (Summary by Wikipedia)</p>",
+      "description": "동물들이 토론을 하며 인류를 비판하는 토론체 우화 소설이다. 최초의 신소설이며 일제가 1909년 금서를 하였다. - Summary by 위키피디아\n<br>\nAssembly of Animals is an allegorical tale about animals meeting to criticise Mankind. It was the first modern novel in Korean, and its publication was banned by the Japanese in 1909. (Summary by Wikipedia)</p>",
       "genres": [],
       "id": "9889",
       "language": "Korean",
@@ -20,7 +20,6 @@
         {
           "file_name": "animalmeeting_01_ahn_64kb.mp3",
           "id": "340476",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_01_ahn.mp3",
           "playtime": "567",
           "readers": [
@@ -35,7 +34,6 @@
         {
           "file_name": "animalmeeting_02_ahn_64kb.mp3",
           "id": "340477",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_02_ahn.mp3",
           "playtime": "765",
           "readers": [
@@ -50,7 +48,6 @@
         {
           "file_name": "animalmeeting_03_ahn_64kb.mp3",
           "id": "340478",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_03_ahn.mp3",
           "playtime": "725",
           "readers": [
@@ -65,7 +62,6 @@
         {
           "file_name": "animalmeeting_04_ahn_64kb.mp3",
           "id": "340479",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_04_ahn.mp3",
           "playtime": "553",
           "readers": [
@@ -80,7 +76,6 @@
         {
           "file_name": "animalmeeting_05_ahn_64kb.mp3",
           "id": "340480",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_05_ahn.mp3",
           "playtime": "601",
           "readers": [
@@ -95,7 +90,6 @@
         {
           "file_name": "animalmeeting_06_ahn_64kb.mp3",
           "id": "340481",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/annise/animalmeetingreport_06_ahn.mp3",
           "playtime": "149",
           "readers": [
@@ -108,7 +102,7 @@
           "title": "폐회(Pyea-hwe)"
         }
       ],
-      "title": "금수회의록 (Geum-su-Hue-I-Lok) Assembly of Animals",
+      "title": "금수회의록",
       "totaltime": "00:56:00",
       "totaltimesecs": 3360,
       "translators": [],
