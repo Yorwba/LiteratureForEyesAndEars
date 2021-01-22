@@ -1,0 +1,3266 @@
+1
+00:00:00,000 --> 00:00:03,160
+Partie une
+de
+Claude Gueux
+
+2
+00:00:03,160 --> 00:00:06,100
+Ceci est un enregistrement LibriVox.
+
+3
+00:00:06,100 --> 00:00:09,560
+Tous nos enregistrements appartiennent au domaine public.
+
+4
+00:00:09,560 --> 00:00:16,400
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+5
+00:00:16,400 --> 00:00:20,350
+Claude Gueux
+de
+Victor Hugo
+
+6
+00:00:20,350 --> 00:00:23,380
+Partie une
+
+7
+00:00:23,380 --> 00:00:29,110
+Il y a sept ou huit ans, un homme nommé Claude Gueux, pauvre ouvrier, vivait à Paris.
+
+8
+00:00:29,110 --> 00:00:34,700
+Il avait avec lui une fille qui était sa maîtresse, et un enfant de cette fille.
+
+9
+00:00:34,700 --> 00:00:43,000
+Je dis les choses comme elles sont, laissant le lecteur ramasser les moralités à mesure que les faits les sèment sur leur chemin.
+
+10
+00:00:43,000 --> 00:00:55,960
+L’ouvrier était capable, habile, intelligent, fort maltraité par l’éducation, fort bien traité par la nature, ne sachant pas lire et sachant penser.
+
+11
+00:00:55,960 --> 00:00:59,320
+Un hiver, l’ouvrage manqua.
+
+12
+00:00:59,320 --> 00:01:02,540
+Pas de feu, ni de pain dans le galetas.
+
+13
+00:01:02,540 --> 00:01:06,520
+L’homme, la fille et l’enfant eurent froid et faim.
+
+14
+00:01:06,520 --> 00:01:08,270
+L’homme vola.
+
+15
+00:01:08,270 --> 00:01:12,520
+Je ne sais ce qu’il vola, je ne sais où il vola.
+
+16
+00:01:12,520 --> 00:01:23,230
+Ce que je sais, c’est que de ce vol il résulta trois jours de pain et de feu pour la femme et pour l’enfant, et cinq ans de prison pour l’homme.
+
+17
+00:01:23,230 --> 00:01:28,080
+L’homme fut envoyé faire son temps à la maison centrale de Clairvaux.
+
+18
+00:01:28,080 --> 00:01:37,380
+Clairvaux, abbaye dont on a fait une bastille, cellule dont on a fait un cabanon, autel dont on a fait un pilori.
+
+19
+00:01:37,380 --> 00:01:42,670
+Quand nous parlons de progrès, c’est ainsi que certaines gens le comprennent et l’exécutent.
+
+20
+00:01:42,670 --> 00:01:46,040
+Voilà la chose qu’ils mettent sous notre mot.
+
+21
+00:01:46,040 --> 00:01:48,140
+Poursuivons.
+
+22
+00:01:48,140 --> 00:01:54,640
+Arrivé là, on le mit dans un cachot pour la nuit et dans un atelier pour le jour.
+
+23
+00:01:54,640 --> 00:01:57,920
+Ce n’est pas l’atelier que je blâme.
+
+24
+00:01:57,920 --> 00:02:05,840
+Claude Gueux, honnête ouvrier naguère, voleur désormais, était une figure digne et grave.
+
+25
+00:02:05,840 --> 00:02:24,950
+Il avait le front haut, déjà ridé quoique jeune encore, quelques cheveux gris perdus dans les touffes noires, l’œil doux et fort puissamment enfoncé sous une arcade sourcilière bien modelée, les narines ouvertes, le menton avancé, la lèvre dédaigneuse.
+
+26
+00:02:24,950 --> 00:02:27,930
+C’était une belle tête.
+
+27
+00:02:27,930 --> 00:02:31,270
+On va voir ce que la société en a fait.
+
+28
+00:02:31,270 --> 00:02:44,290
+Il avait la parole rare, le geste peu fréquent, quelque chose d’impérieux dans toute sa personne et qui se faisait obéir, l’air pensif, sérieux plutôt que souffrant.
+
+29
+00:02:44,290 --> 00:02:47,160
+Il avait pourtant bien souffert.
+
+30
+00:02:48,340 --> 00:03:05,230
+Dans le dépôt où Claude Gueux était enfermé, il y avait un directeur des ateliers, espèce de fonctionnaire propre aux prisons, qui tient tout ensemble du guichetier et du marchand, qui fait en même temps une commande à l’ouvrier et une menace au prisonnier,
+
+31
+00:03:05,230 --> 00:03:08,880
+qui vous met l’outil aux mains et les fers aux pieds.
+
+32
+00:03:08,880 --> 00:03:27,370
+Celui-là était lui-même une variété de l’espèce, un homme bref, tyrannique, obéissant à ses idées, toujours à courte bride sur son autorité ; d’ailleurs, dans l’occasion, bon compagnon, bon prince, jovial même et raillant avec grâce ;
+
+33
+00:03:27,370 --> 00:03:41,610
+dur plutôt que ferme ; ne raisonnant avec personne, pas même avec lui ; bon père, bon mari, sans doute, ce qui est devoir et non vertu ; en un mot, pas méchant, mauvais.
+
+34
+00:03:41,610 --> 00:03:59,860
+C’était un de ces hommes qui n’ont rien de vibrant ni d’élastique, qui sont composés de molécules inertes, qui ne résonnent au choc d’aucune idée, au contact d’aucun sentiment, qui ont des colères glacées, des haines mornes, des emportements sans émotion,
+
+35
+00:03:59,860 --> 00:04:10,810
+qui prennent feu sans s’échauffer, dont la capacité de calorique est nulle, et qu’on dirait souvent faits de bois ; ils flambent par un bout et sont froids par l’autre.
+
+36
+00:04:10,810 --> 00:04:18,070
+La ligne principale, la ligne diagonale du caractère de cet homme, c’était la ténacité.
+
+37
+00:04:18,070 --> 00:04:22,330
+Il était fier d’être tenace, et se comparait à Napoléon.
+
+38
+00:04:22,330 --> 00:04:25,360
+Ceci n’est qu’une illusion d’optique.
+
+39
+00:04:25,360 --> 00:04:35,270
+Il y a nombre de gens qui en sont dupes et qui, à certaine distance, prennent la ténacité pour de la volonté, et une chandelle pour une étoile.
+
+40
+00:04:35,270 --> 00:04:48,130
+Quand cet homme donc avait une fois ajusté ce qu’il appelait sa volonté à une chose absurde, il allait tête haute et à travers toute broussaille jusqu’au bout de la chose absurde.
+
+41
+00:04:48,130 --> 00:04:55,130
+L’entêtement sans l’intelligence, c’est la sottise soudée au bout de la bêtise et lui servant de rallonge.
+
+42
+00:04:55,130 --> 00:04:56,650
+Cela va loin.
+
+43
+00:04:56,650 --> 00:05:05,880
+En général, quand une catastrophe privée ou publique s’est écroulée sur nous, si nous examinons, d’après les décombres qui en gisent à terre,
+
+44
+00:05:05,880 --> 00:05:16,600
+de quelle façon elle s’est échafaudée, nous trouvons presque toujours qu’elle a été aveuglément construite par un homme médiocre et obstiné qui avait foi en lui et qui s’admirait.
+
+45
+00:05:16,600 --> 00:05:22,820
+Il y a par le monde beaucoup de ces petites fatalités têtues qui se croient des providences.
+
+46
+00:05:22,820 --> 00:05:37,220
+Voilà donc ce que c’était que le directeur des ateliers de la prison centrale de Clairvaux. Voilà de quoi était fait le briquet avec lequel la société frappait chaque jour sur les prisonniers pour en tirer des étincelles.
+
+47
+00:05:37,220 --> 00:05:43,960
+L’étincelle que de pareils briquets arrachent à de pareils cailloux allume souvent des incendies.
+
+48
+00:05:45,120 --> 00:05:47,320
+Fin
+de la
+partie une
+
+49
+00:05:51,900 --> 00:05:54,540
+Section deux
+de
+Claude Gueux
+
+50
+00:05:54,540 --> 00:05:57,690
+Ceci est un enregistrement LibriVox.
+
+51
+00:05:57,690 --> 00:06:01,350
+Tous nos enregistrements appartiennent au domaine public.
+
+52
+00:06:01,350 --> 00:06:08,400
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+53
+00:06:08,400 --> 00:06:10,910
+Enregistré par Martine
+
+54
+00:06:10,910 --> 00:06:13,560
+Claude Gueux
+par
+Victor Hugo
+
+55
+00:06:13,560 --> 00:06:16,120
+Deuxième partie
+
+56
+00:06:17,300 --> 00:06:24,010
+Nous avons dit qu’une fois arrivé à Clairvaux, Claude Gueux fut numéroté dans un atelier et rivé à une besogne.
+
+57
+00:06:24,010 --> 00:06:31,700
+Le directeur de l’atelier fit connaissance avec lui, le reconnut bon ouvrier, et le traita bien.
+
+58
+00:06:31,700 --> 00:06:37,110
+Il paraît même qu’un jour, étant de bonne humeur, et voyant Claude Gueux fort triste,
+
+59
+00:06:37,110 --> 00:06:50,270
+car cet homme pensait toujours à celle qu’il appelait sa femme il lui conta, par manière de jovialité et de passe-temps, et aussi pour le consoler, que cette malheureuse s’était faite fille publique.
+
+60
+00:06:50,270 --> 00:06:53,730
+Claude demanda froidement ce qu’était devenu l’enfant.
+
+61
+00:06:53,730 --> 00:06:55,040
+On ne savait.
+
+62
+00:06:55,040 --> 00:07:01,510
+Au bout de quelques mois, Claude s’acclimata à l’air de la prison, et parut ne plus songer à rien.
+
+63
+00:07:01,510 --> 00:07:07,520
+Une certaine sérénité sévère, propre à son caractère, avait repris le dessus.
+
+64
+00:07:07,520 --> 00:07:14,200
+Au bout du même espace de temps à peu près, Claude avait acquis un ascendant singulier sur tous ses compagnons.
+
+65
+00:07:14,200 --> 00:07:29,430
+Comme par une sorte de convention tacite, et sans que personne sût pourquoi, pas même lui, tous ces hommes le consultaient, l’écoutaient, l’admiraient et l’imitaient, ce qui est le dernier degré ascendant de l’admiration.
+
+66
+00:07:29,430 --> 00:07:34,240
+Ce n’était pas une médiocre gloire d’être obéi par toutes ces natures désobéissantes.
+
+67
+00:07:34,240 --> 00:07:37,050
+Cet empire lui était venu sans qu’il y songeât.
+
+68
+00:07:37,050 --> 00:07:39,950
+Cela tenait au regard qu’il avait dans les yeux.
+
+69
+00:07:39,950 --> 00:07:46,100
+L’œil de l’homme est une fenêtre par laquelle on voit les pensées qui vont et viennent dans sa tête.
+
+70
+00:07:46,100 --> 00:08:01,270
+Mettez un homme qui contient des idées parmi des hommes qui n’en contiennent pas, au bout d’un temps donné et par une loi d’attraction irrésistible, tous les cerveaux ténébreux graviteront humblement et avec adoration autour du cerveau rayonnant.
+
+71
+00:08:01,270 --> 00:08:07,100
+Il y a des hommes qui sont fer et des hommes qui sont aimant.
+
+72
+00:08:07,100 --> 00:08:09,530
+Claude était aimant.
+
+73
+00:08:09,530 --> 00:08:15,860
+En moins de trois mois donc, Claude était devenu l’âme, la loi et l’ordre de l’atelier.
+
+74
+00:08:15,860 --> 00:08:19,950
+Toutes ces aiguilles tournaient sur son cadran.
+
+75
+00:08:19,950 --> 00:08:24,710
+Il devait douter lui-même par moments s’il était roi ou prisonnier.
+
+76
+00:08:24,710 --> 00:08:28,970
+C’était une sorte de pape captif avec ses cardinaux.
+
+77
+00:08:28,970 --> 00:08:37,650
+Et, par une réaction toute naturelle dont l’effet s’accomplit sur toutes les échelles, aimé des prisonniers, il était détesté des geôliers.
+
+78
+00:08:37,650 --> 00:08:39,730
+Cela est toujours ainsi.
+
+79
+00:08:39,730 --> 00:08:42,970
+La popularité ne va jamais sans la défaveur.
+
+80
+00:08:42,970 --> 00:08:47,350
+L’amour des esclaves est toujours doublé de la haine des maîtres.
+
+81
+00:08:47,350 --> 00:08:49,760
+Claude Gueux était grand mangeur.
+
+82
+00:08:49,760 --> 00:08:52,960
+C’était une particularité de son organisation.
+
+83
+00:08:52,960 --> 00:08:58,690
+Il avait l’estomac fait de telle sorte que la nourriture de deux hommes ordinaires suffisait à peine à sa journée.
+
+84
+00:08:58,690 --> 00:09:15,280
+Monsieur de Cotadilla avait un de ces appétits-là, et en riait ; mais ce qui est une occasion de gaieté pour un duc grand d’Espagne qui a cinq cent mille moutons est une charge pour un ouvrier et un malheur pour un prisonnier.
+
+85
+00:09:16,400 --> 00:09:23,090
+Claude Gueux, libre dans son grenier, travaillait tout le jour, gagnait son pain de quatre livres et le mangeait.
+
+86
+00:09:23,090 --> 00:09:32,610
+Claude Gueux, en prison, travaillait tout le jour et recevait invariablement pour sa peine une livre et demie de pain et quatre onces de viande.
+
+87
+00:09:32,610 --> 00:09:35,100
+La ration est inexorable.
+
+88
+00:09:35,100 --> 00:09:40,340
+Claude avait donc habituellement faim dans la prison de Clairvaux.
+
+89
+00:09:40,340 --> 00:09:41,890
+Il avait faim, et c’était tout.
+
+90
+00:09:41,890 --> 00:09:43,610
+Il n’en parlait pas.
+
+91
+00:09:43,610 --> 00:09:45,730
+C’était sa nature ainsi.
+
+92
+00:09:45,730 --> 00:09:53,050
+Un jour, Claude venait de dévorer sa maigre pitance, et s’était remis à son métier, croyant tromper la faim par le travail.
+
+93
+00:09:53,050 --> 00:09:55,590
+Les autres prisonniers mangeaient joyeusement.
+
+94
+00:09:55,590 --> 00:10:00,970
+Un jeune homme, pâle, blanc, faible, vint se placer près de lui.
+
+95
+00:10:00,970 --> 00:10:06,390
+Il tenait à la main sa ration, à laquelle il n’avait pas encore touché, et un couteau.
+
+96
+00:10:06,390 --> 00:10:11,850
+Il restait là debout, près de Claude, ayant l’air de vouloir parler et de ne pas oser.
+
+97
+00:10:11,850 --> 00:10:16,160
+Cet homme, et son pain, et sa viande, importunaient Claude.
+
+98
+00:10:16,160 --> 00:10:17,000
+— Que veux-tu ?
+
+99
+00:10:17,000 --> 00:10:18,980
+dit-il enfin brusquement.
+
+100
+00:10:18,980 --> 00:10:23,660
+— Que tu me rendes un service, dit timidement le jeune homme.
+
+101
+00:10:23,660 --> 00:10:24,580
+— Quoi ?
+
+102
+00:10:24,580 --> 00:10:25,990
+reprit Claude.
+
+103
+00:10:25,990 --> 00:10:28,080
+— Que tu m’aides à manger cela.
+
+104
+00:10:28,080 --> 00:10:29,680
+J’en ai trop.
+
+105
+00:10:29,680 --> 00:10:34,230
+Une larme roula dans l’œil hautain de Claude.
+
+106
+00:10:34,230 --> 00:10:40,150
+Il prit le couteau, partagea la ration du jeune homme en deux parts égales, en prit une, et se mit à manger.
+
+107
+00:10:40,150 --> 00:10:42,400
+— Merci, dit le jeune homme.
+
+108
+00:10:42,400 --> 00:10:45,620
+Si tu veux, nous partagerons comme cela tous les jours.
+
+109
+00:10:45,620 --> 00:10:47,040
+— Comment t’appelles-tu ?
+
+110
+00:10:47,040 --> 00:10:48,400
+dit Claude Gueux.
+
+111
+00:10:48,400 --> 00:10:49,920
+— Albin.
+
+112
+00:10:49,920 --> 00:10:51,540
+— Pourquoi es-tu ici ?
+
+113
+00:10:51,540 --> 00:10:52,960
+reprit Claude.
+
+114
+00:10:52,960 --> 00:10:54,640
+— J’ai volé.
+
+115
+00:10:54,640 --> 00:10:56,680
+— Et moi aussi, dit Claude.
+
+116
+00:10:56,680 --> 00:11:00,110
+Ils partagèrent en effet de la sorte tous les jours.
+
+117
+00:11:00,110 --> 00:11:06,360
+Claude Gueux avait trente-six ans, et par moments il en paraissait cinquante, tant sa pensée habituelle était sévère.
+
+118
+00:11:06,360 --> 00:11:14,300
+Albin avait vingt ans, on lui en eût donné dix-sept, tant il y avait encore d’innocence dans le regard de ce voleur.
+
+119
+00:11:14,300 --> 00:11:17,440
+Une étroite amitié se noua entre ces deux hommes.
+
+120
+00:11:17,440 --> 00:11:21,460
+Amitié de père à fils plutôt que de frère à frère.
+
+121
+00:11:21,460 --> 00:11:26,980
+Albin était encore presque un enfant ; Claude était déjà presque un vieillard.
+
+122
+00:11:26,980 --> 00:11:37,340
+Ils travaillaient dans le même atelier, ils couchaient sous la même clef de voûte, ils se promenaient dans le même préau, ils mordaient au même pain.
+
+123
+00:11:37,340 --> 00:11:41,030
+Chacun des deux amis était l’univers pour l’autre.
+
+124
+00:11:41,030 --> 00:11:43,440
+Il paraît qu’ils étaient heureux.
+
+125
+00:11:43,440 --> 00:11:46,520
+Nous avons déjà parlé du directeur des ateliers.
+
+126
+00:11:46,520 --> 00:11:53,730
+Cet homme, haï des prisonniers, était souvent obligé, pour se faire obéir d’eux, d’avoir recours à Claude Gueux qui en était aimé.
+
+127
+00:11:53,730 --> 00:12:05,870
+Dans plus d’une occasion, lorsqu’il s’était agi d’empêcher une rébellion ou un tumulte, l’autorité sans titre de Claude Gueux avait prêté main-forte à l’autorité officielle du directeur.
+
+128
+00:12:05,870 --> 00:12:11,090
+En effet, pour contenir les prisonniers, dix paroles de Claude valaient dix gendarmes.
+
+129
+00:12:11,090 --> 00:12:14,650
+Claude avait maintes fois rendu ce service au directeur.
+
+130
+00:12:14,650 --> 00:12:17,870
+Aussi le directeur le détestait-il cordialement.
+
+131
+00:12:17,870 --> 00:12:20,230
+Il était jaloux de ce voleur.
+
+132
+00:12:20,230 --> 00:12:33,380
+Il avait au fond du cœur une haine secrète, envieuse, implacable, contre Claude, une haine de souverain de droit à souverain de fait, de pouvoir temporel à pouvoir spirituel.
+
+133
+00:12:33,380 --> 00:12:36,310
+Ces haines-là sont les pires.
+
+134
+00:12:36,310 --> 00:12:40,160
+Claude aimait beaucoup Albin, et ne songeait pas au directeur.
+
+135
+00:12:40,160 --> 00:12:52,890
+Un jour, un matin, au moment où les condamnés passaient deux à deux du dortoir dans l’atelier, un guichetier appela Albin qui était à côté de Claude et le prévint que le directeur le demandait.
+
+136
+00:12:52,890 --> 00:12:54,410
+— Que te veut-on ?
+
+137
+00:12:54,410 --> 00:12:55,290
+dit Claude.
+
+138
+00:12:55,290 --> 00:12:57,720
+— Je ne sais pas, dit Albin.
+
+139
+00:12:57,720 --> 00:13:00,400
+Le guichetier emmena Albin.
+
+140
+00:13:00,400 --> 00:13:03,930
+La matinée se passa, Albin ne revint pas à l’atelier.
+
+141
+00:13:03,930 --> 00:13:08,750
+Quand arriva l’heure du repas, Claude pensa qu’il retrouverait Albin au préau.
+
+142
+00:13:08,750 --> 00:13:10,920
+Albin n’était pas au préau.
+
+143
+00:13:10,920 --> 00:13:15,340
+On rentra dans l’atelier, Albin ne reparut pas dans l’atelier.
+
+144
+00:13:15,340 --> 00:13:17,520
+La journée s’écoula ainsi.
+
+145
+00:13:17,520 --> 00:13:23,660
+Le soir, quand on ramena les prisonniers dans leur dortoir, Claude y chercha des yeux Albin, et ne le vit pas.
+
+146
+00:13:23,660 --> 00:13:31,050
+Il paraît qu’il souffrit beaucoup dans ce moment-là, car il adressa la parole à un guichetier, ce qu’il ne faisait jamais.
+
+147
+00:13:31,050 --> 00:13:32,990
+— Est-ce qu’Albin est malade ?
+
+148
+00:13:32,990 --> 00:13:33,920
+dit-il.
+
+149
+00:13:33,920 --> 00:13:37,160
+— Non, répondit le guichetier.
+
+150
+00:13:37,160 --> 00:13:41,120
+— D’où vient donc, reprit Claude, qu’il n’a pas reparu aujourd’hui ?
+
+151
+00:13:41,120 --> 00:13:41,850
+— Ah !
+
+152
+00:13:41,850 --> 00:13:45,340
+dit négligemment le porte-clefs, c’est qu’on l’a changé de quartier.
+
+153
+00:13:45,340 --> 00:13:54,550
+Les témoins qui ont déposé de ces faits plus tard remarquèrent qu’à cette réponse du guichetier la main de Claude, qui portait une chandelle allumée, trembla légèrement.
+
+154
+00:13:54,550 --> 00:13:56,890
+Il reprit avec calme :
+
+155
+00:13:56,890 --> 00:13:58,890
+— Qui a donné cet ordre-là ?
+
+156
+00:13:58,890 --> 00:14:00,710
+Le guichetier répondit :
+
+157
+00:14:00,710 --> 00:14:02,150
+— M. D.
+
+158
+00:14:02,150 --> 00:14:05,660
+Le directeur des ateliers s’appelait M. D.
+
+159
+00:14:05,660 --> 00:14:10,060
+La journée du lendemain se passa comme la journée précédente, sans Albin.
+
+160
+00:14:10,060 --> 00:14:16,520
+Le soir, à l’heure de la clôture des travaux, le directeur, M. D., vint faire sa ronde habituelle dans l’atelier.
+
+161
+00:14:16,520 --> 00:14:24,110
+Du plus loin que Claude le vit, il ôta son bonnet de grosse laine, il boutonna sa veste grise, triste livrée de Clairvaux,
+
+162
+00:14:24,110 --> 00:14:37,160
+car il est de principe dans les prisons qu’une veste respectueusement boutonnée prévient favorablement les supérieurs, et il se tint debout et son bonnet à la main à l’entrée de son banc, attendant le passage du directeur.
+
+163
+00:14:37,160 --> 00:14:39,710
+Le directeur passa.
+
+164
+00:14:39,710 --> 00:14:41,170
+— Monsieur !
+
+165
+00:14:41,170 --> 00:14:41,930
+dit Claude.
+
+166
+00:14:41,930 --> 00:14:45,170
+Le directeur s’arrêta et se détourna à demi.
+
+167
+00:14:45,170 --> 00:14:49,250
+— Monsieur, reprit Claude, est-ce que c’est vrai qu’on a changé Albin de quartier ?
+
+168
+00:14:49,250 --> 00:14:52,470
+— Oui, répondit le directeur.
+
+169
+00:14:52,470 --> 00:14:56,650
+— Monsieur, poursuivit Claude, j’ai besoin d’Albin pour vivre.
+
+170
+00:14:56,650 --> 00:14:57,940
+Il ajouta :
+
+171
+00:14:57,940 --> 00:15:03,900
+— Vous savez que je n’ai pas assez de quoi manger avec la ration de la maison, et qu’Albin partageait son pain avec moi.
+
+172
+00:15:03,900 --> 00:15:07,670
+— C’était son affaire, dit le directeur.
+
+173
+00:15:07,670 --> 00:15:12,190
+— Monsieur, est-ce qu’il n’y aurait pas moyen de faire remettre Albin dans le même quartier que moi ?
+
+174
+00:15:12,190 --> 00:15:13,670
+— Impossible.
+
+175
+00:15:13,670 --> 00:15:15,470
+Il y a décision prise.
+
+176
+00:15:15,470 --> 00:15:16,810
+— Par qui ?
+
+177
+00:15:16,810 --> 00:15:18,270
+— Par moi.
+
+178
+00:15:18,270 --> 00:15:24,860
+— Monsieur D., reprit Claude, c’est la vie ou la mort pour moi, et cela dépend de vous.
+
+179
+00:15:24,860 --> 00:15:28,150
+— Je ne reviens jamais sur mes décisions.
+
+180
+00:15:28,150 --> 00:15:31,340
+— Monsieur, est-ce que je vous ai fait quelque chose ?
+
+181
+00:15:31,340 --> 00:15:32,750
+Que vous ai-je fait ?
+
+182
+00:15:32,750 --> 00:15:34,070
+— Rien.
+
+183
+00:15:34,070 --> 00:15:37,690
+— En ce cas, dit Claude, pourquoi me séparez-vous d’Albin ?
+
+184
+00:15:37,690 --> 00:15:40,980
+— Parce que, dit le directeur.
+
+185
+00:15:40,980 --> 00:15:44,040
+Cette explication donnée, le directeur passa outre.
+
+186
+00:15:44,040 --> 00:15:46,870
+Claude baissa la tête et ne répliqua pas.
+
+187
+00:15:46,870 --> 00:15:50,350
+Pauvre lion en cage à qui l’on ôtait son chien !
+
+188
+00:15:50,350 --> 00:15:58,740
+Nous sommes forcé de dire que le chagrin de cette séparation n’altéra en rien la voracité en quelque sorte maladive du prisonnier.
+
+189
+00:15:58,740 --> 00:16:01,300
+Rien d’ailleurs ne parut sensiblement changé en lui.
+
+190
+00:16:01,300 --> 00:16:04,300
+Il ne parlait d’Albin à aucun de ses camarades.
+
+191
+00:16:04,300 --> 00:16:08,700
+Il se promenait seul dans le préau aux heures de récréation, et il avait faim.
+
+192
+00:16:08,700 --> 00:16:09,980
+Rien de plus.
+
+193
+00:16:09,980 --> 00:16:18,880
+Cependant ceux qui le connaissaient bien remarquaient quelque chose de sinistre et de sombre qui s’épaississait chaque jour de plus en plus sur son visage.
+
+194
+00:16:18,880 --> 00:16:22,420
+Du reste, il était plus doux que jamais.
+
+195
+00:16:22,420 --> 00:16:27,740
+Plusieurs voulurent partager leur ration avec lui, il refusa en souriant.
+
+196
+00:16:27,740 --> 00:16:35,950
+Tous les soirs, depuis l’explication que lui avait donnée le directeur, il faisait une espèce de chose folle qui étonnait de la part d’un homme aussi sérieux.
+
+197
+00:16:35,950 --> 00:16:45,100
+Au moment où le directeur, ramené à heure fixe par sa tournée habituelle, passait devant le métier de Claude, Claude levait les yeux et le regardait fixement,
+
+198
+00:16:45,100 --> 00:16:53,590
+puis il lui adressait d’un ton plein d’angoisse et de colère qui tenait à la fois de la prière et de la menace ces deux mots seulement : Et Albin ?
+
+199
+00:16:53,590 --> 00:16:59,600
+Le directeur faisait semblant de ne pas entendre ou s’éloignait en haussant les épaules.
+
+200
+00:16:59,600 --> 00:17:09,580
+Cet homme avait tort de hausser les épaules, car il était évident pour tous les spectateurs de ces scènes étranges que Claude Gueux était intérieurement déterminé à quelque chose.
+
+201
+00:17:09,580 --> 00:17:17,940
+Toute la prison attendait avec anxiété quel serait le résultat de cette lutte entre une ténacité et une résolution.
+
+202
+00:17:17,940 --> 00:17:22,690
+Il a été constaté qu’une fois entre autres Claude dit au directeur :
+
+203
+00:17:22,690 --> 00:17:25,340
+— Écoutez, monsieur, rendez-moi mon camarade.
+
+204
+00:17:25,340 --> 00:17:27,260
+Vous ferez bien, je vous assure.
+
+205
+00:17:27,260 --> 00:17:29,600
+Remarquez que je vous dis cela.
+
+206
+00:17:29,600 --> 00:17:45,540
+Une autre fois, un dimanche, comme il se tenait dans le préau, assis sur une pierre, les coudes sur les genoux et son front dans ses mains, immobile depuis plusieurs heures dans la même attitude, le condamné Faillette s’approcha de lui, et lui cria en riant :
+
+207
+00:17:45,540 --> 00:17:47,670
+— Que diable fais-tu donc là, Claude ?
+
+208
+00:17:47,670 --> 00:17:50,640
+Claude leva lentement sa tête sévère, et dit :
+
+209
+00:17:50,640 --> 00:17:51,910
+— Je juge quelqu’un.
+
+210
+00:17:51,910 --> 00:18:02,670
+Un soir enfin, le 25 octobre 1831, au moment où le directeur faisait sa ronde, Claude brisa sous son pied avec bruit un verre de montre qu’il avait trouvé le matin dans un corridor.
+
+211
+00:18:02,670 --> 00:18:05,260
+Le directeur demanda d’où venait ce bruit.
+
+212
+00:18:05,260 --> 00:18:07,700
+— Ce n’est rien, dit Claude, c’est moi.
+
+213
+00:18:07,700 --> 00:18:12,130
+Monsieur le directeur, rendez-moi Albin, rendez-moi mon camarade.
+
+214
+00:18:12,130 --> 00:18:13,920
+— Impossible, dit le maître.
+
+215
+00:18:13,920 --> 00:18:20,000
+— Il le faut pourtant, dit Claude d’une voix basse et ferme ; et, regardant le directeur en face, il ajouta :
+
+216
+00:18:20,000 --> 00:18:21,140
+— Réfléchissez.
+
+217
+00:18:21,140 --> 00:18:22,990
+Nous sommes aujourd’hui le 25 octobre.
+
+218
+00:18:22,990 --> 00:18:25,220
+Je vous donne jusqu’au 4 novembre.
+
+219
+00:18:25,220 --> 00:18:31,600
+Un guichetier fit remarquer à Monsieur D. que Claude le menaçait, et que c’était un cas de cachot.
+
+220
+00:18:31,600 --> 00:18:37,590
+— Non, point de cachot, dit le directeur avec un sourire dédaigneux, il faut être bon avec ces gens-là !
+
+221
+00:18:37,590 --> 00:18:47,970
+Le lendemain, le condamné Pernot aborda Claude, qui se promenait seul et pensif, laissant les autres prisonniers s’ébattre dans un petit carré de soleil à l’autre bout de la cour.
+
+222
+00:18:47,970 --> 00:18:48,730
+— Hé bien !
+
+223
+00:18:48,730 --> 00:18:50,480
+Claude, à quoi songes-tu ?
+
+224
+00:18:50,480 --> 00:18:51,720
+tu parais triste.
+
+225
+00:18:51,720 --> 00:18:56,400
+— Je crains, dit Claude, qu’il n’arrive bientôt quelque malheur à ce bon M. D.
+
+226
+00:18:56,400 --> 00:19:01,440
+Il y a neuf jours pleins du 25 octobre au 4 novembre.
+
+227
+00:19:01,440 --> 00:19:09,590
+Claude n’en laissa pas passer un sans avertir gravement le directeur de l’état de plus en plus douloureux où le mettait la disparition d’Albin.
+
+228
+00:19:09,590 --> 00:19:18,060
+Le directeur, fatigué, lui infligea une fois vingt-quatre heures de cachot parce que la prière ressemblait trop à une sommation.
+
+229
+00:19:18,060 --> 00:19:20,740
+Voilà tout ce que Claude obtint.
+
+230
+00:19:20,740 --> 00:19:24,240
+Fin
+de la
+section deux
+
+231
+00:19:24,240 --> 00:19:27,200
+Lue par Martine
+
+232
+00:19:34,700 --> 00:19:37,110
+Section trois
+de
+Claude Gueux
+
+233
+00:19:37,110 --> 00:19:40,270
+Ceci est un enregistrement LibriVox.
+
+234
+00:19:40,270 --> 00:19:43,520
+Tous nos enregistrements appartiennent au domaine public.
+
+235
+00:19:43,520 --> 00:19:49,600
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+236
+00:19:49,600 --> 00:19:51,790
+Enregistré par Laure
+
+237
+00:19:51,790 --> 00:19:54,000
+Claude Gueux
+par
+Victor Hugo
+
+238
+00:19:54,000 --> 00:19:56,060
+Section trois
+
+239
+00:19:56,060 --> 00:19:58,720
+Le 4 novembre arriva.
+
+240
+00:19:58,720 --> 00:20:07,700
+Ce jour-là, Claude s’éveilla avec un visage serein qu’on ne lui avait pas encore vu depuis le jour où la décision de M. D. l’avait séparé de son ami.
+
+241
+00:20:07,700 --> 00:20:14,950
+En se levant, il fouilla dans une espèce de caisse de bois blanc qui était au pied de son lit et qui contenait ses quelques guenilles.
+
+242
+00:20:14,950 --> 00:20:18,060
+Il en tira une paire de ciseaux de couturière.
+
+243
+00:20:18,060 --> 00:20:27,830
+C’était, avec un volume dépareillé de l’Émile, la seule chose qui lui restât de la femme qu’il avait aimée, de la mère de son enfant, de son heureux petit ménage d’autrefois.
+
+244
+00:20:27,830 --> 00:20:34,840
+Deux meubles bien inutiles pour Claude ; les ciseaux ne pouvaient servir qu’à une femme, le livre qu’à un lettré.
+
+245
+00:20:34,840 --> 00:20:37,460
+Claude ne savait ni coudre ni lire.
+
+246
+00:20:37,460 --> 00:20:49,990
+Au moment où il traversait le vieux cloître déshonoré et blanchi à la chaux qui sert de promenoir l’hiver, il s’approcha du condamné Ferrari, qui regardait avec attention les énormes barreaux d’une croisée.
+
+247
+00:20:49,990 --> 00:20:54,920
+Claude tenait à la main la petite paire de ciseaux ; il la montra à Ferrari en disant :
+
+248
+00:20:54,920 --> 00:20:58,190
+— Ce soir je couperai ces barreaux-ci avec ces ciseaux-là.
+
+249
+00:20:58,190 --> 00:21:01,460
+Ferrari, incrédule, se mit à rire, et Claude aussi.
+
+250
+00:21:01,460 --> 00:21:07,800
+Ce matin-là, il travailla avec plus d’ardeur qu’à l’ordinaire ; jamais il n’avait fait si vite et si bien.
+
+251
+00:21:07,800 --> 00:21:16,900
+Il parut attacher un certain prix à terminer dans la matinée un chapeau de paille que lui avait payé d’avance un honnête bourgeois de Troyes, M. Bressier.
+
+252
+00:21:16,900 --> 00:21:25,010
+Un peu avant midi, il descendit sous un prétexte à l’atelier des menuisiers situé au rez-de-chaussée, au-dessous de l’étage où il travaillait.
+
+253
+00:21:25,010 --> 00:21:29,350
+Claude était aimé là comme ailleurs, mais il y entrait rarement.
+
+254
+00:21:29,350 --> 00:21:30,270
+Aussi :
+
+255
+00:21:30,270 --> 00:21:30,770
+— Tiens !
+
+256
+00:21:30,770 --> 00:21:31,460
+voilà Claude !
+
+257
+00:21:31,460 --> 00:21:32,490
+On l’entoura.
+
+258
+00:21:32,490 --> 00:21:33,770
+Ce fut une fête.
+
+259
+00:21:33,770 --> 00:21:36,350
+Claude jeta un coup d’œil rapide dans la salle.
+
+260
+00:21:36,350 --> 00:21:38,750
+Pas un des surveillants n’y était.
+
+261
+00:21:38,750 --> 00:21:40,790
+— Qui est-ce qui a une hache à me prêter ?
+
+262
+00:21:40,790 --> 00:21:41,790
+dit-il.
+
+263
+00:21:41,790 --> 00:21:42,610
+— Pourquoi faire ?
+
+264
+00:21:42,610 --> 00:21:43,180
+lui demanda-t-on.
+
+265
+00:21:43,180 --> 00:21:44,810
+Il répondit :
+
+266
+00:21:44,810 --> 00:21:47,070
+— C’est pour tuer ce soir le directeur des ateliers.
+
+267
+00:21:47,070 --> 00:21:50,520
+On lui présenta plusieurs haches à choisir.
+
+268
+00:21:50,520 --> 00:21:55,590
+Il prit la plus petite, qui était fort tranchante, la cacha dans son pantalon, et sortit.
+
+269
+00:21:55,590 --> 00:21:57,650
+Il y avait là vingt-sept prisonniers.
+
+270
+00:21:57,650 --> 00:22:00,020
+Il ne leur avait pas recommandé le secret.
+
+271
+00:22:00,020 --> 00:22:01,230
+Tous le gardèrent.
+
+272
+00:22:01,230 --> 00:22:04,000
+Ils ne causèrent même pas de la chose entre eux.
+
+273
+00:22:04,000 --> 00:22:07,150
+Chacun attendit de son côté ce qui arriverait.
+
+274
+00:22:07,150 --> 00:22:10,740
+L’affaire était terrible, droite et simple.
+
+275
+00:22:10,740 --> 00:22:12,700
+Pas de complication possible.
+
+276
+00:22:12,700 --> 00:22:15,890
+Claude ne pouvait être ni conseillé, ni dénoncé.
+
+277
+00:22:15,890 --> 00:22:22,850
+Une heure après, il aborda un jeune condamné de seize ans qui bâillait dans le promenoir, et lui conseilla d’apprendre à lire.
+
+278
+00:22:22,850 --> 00:22:29,630
+En ce moment, le détenu Faillette accosta Claude, et lui demanda ce que diable il cachait là dans son pantalon.
+
+279
+00:22:29,630 --> 00:22:31,160
+Claude dit :
+
+280
+00:22:31,160 --> 00:22:33,950
+— C’est une hache pour tuer M. D. ce soir.
+
+281
+00:22:33,950 --> 00:22:35,080
+Il ajouta :
+
+282
+00:22:35,080 --> 00:22:36,740
+— Est-ce que cela se voit ?
+
+283
+00:22:36,740 --> 00:22:38,590
+— Un peu, dit Faillette.
+
+284
+00:22:38,590 --> 00:22:41,400
+Le reste de la journée fut à l’ordinaire.
+
+285
+00:22:41,400 --> 00:22:53,530
+À sept heures du soir, on renferma les prisonniers, chaque section dans l’atelier qui lui était assigné ; et les surveillants sortirent des salles de travail, comme il paraît que c’est l’habitude, pour ne rentrer qu’après la ronde du directeur.
+
+286
+00:22:53,530 --> 00:22:58,960
+Claude Gueux fut donc verrouillé comme les autres dans son atelier avec ses compagnons de métier.
+
+287
+00:22:58,960 --> 00:23:09,110
+Alors il se passa dans cet atelier une scène extraordinaire, une scène qui n’est ni sans majesté ni sans terreur, la seule de ce genre qu’aucune histoire puisse raconter.
+
+288
+00:23:09,110 --> 00:23:16,460
+Il y avait là, ainsi que l’a constaté l’instruction judiciaire qui a eu lieu depuis, quatrevingt-deux voleurs, y compris Claude.
+
+289
+00:23:16,460 --> 00:23:24,490
+Une fois que les surveillants les eurent laissés seuls, Claude se leva debout sur son banc, et annonça à toute la chambrée qu’il avait quelque chose à dire.
+
+290
+00:23:24,490 --> 00:23:26,450
+On fit silence.
+
+291
+00:23:26,450 --> 00:23:29,160
+Alors Claude haussa la voix et dit :
+
+292
+00:23:29,160 --> 00:23:31,750
+— Vous savez tous qu’Albin était mon frère.
+
+293
+00:23:31,750 --> 00:23:34,850
+Je n’ai pas assez de ce qu’on me donne ici pour manger.
+
+294
+00:23:34,850 --> 00:23:39,120
+Même en n’achetant que du pain avec le peu que je gagne, cela ne suffirait pas.
+
+295
+00:23:39,120 --> 00:23:45,640
+Albin partageait sa ration avec moi ; je l’ai aimé d’abord parce qu’il m’a nourri, ensuite parce qu’il m’a aimé.
+
+296
+00:23:45,640 --> 00:23:48,440
+Le directeur, M. D., nous a séparés.
+
+297
+00:23:48,440 --> 00:23:54,040
+Cela ne lui faisait rien que nous fussions ensemble ; mais c’est un méchant homme, qui jouit de tourmenter.
+
+298
+00:23:54,040 --> 00:23:56,190
+Je lui ai redemandé Albin.
+
+299
+00:23:56,190 --> 00:23:57,190
+Vous avez vu ?
+
+300
+00:23:57,190 --> 00:23:58,320
+il n’a pas voulu.
+
+301
+00:23:58,320 --> 00:24:02,030
+Je lui ai donné jusqu’au 4 novembre pour me rendre Albin.
+
+302
+00:24:02,030 --> 00:24:04,970
+Il m’a fait mettre au cachot pour avoir dit cela.
+
+303
+00:24:04,970 --> 00:24:09,030
+Moi, pendant ce temps-là, je l’ai jugé et je l’ai condamné à mort.
+
+304
+00:24:09,030 --> 00:24:10,650
+Nous sommes au 4 novembre.
+
+305
+00:24:10,650 --> 00:24:13,290
+Il viendra dans deux heures faire sa tournée.
+
+306
+00:24:13,290 --> 00:24:15,380
+Je vous préviens que je vais le tuer.
+
+307
+00:24:15,380 --> 00:24:17,910
+Avez-vous quelque chose à dire à cela ?
+
+308
+00:24:17,910 --> 00:24:20,270
+Tous gardèrent le silence.
+
+309
+00:24:20,270 --> 00:24:21,720
+Claude reprit.
+
+310
+00:24:21,720 --> 00:24:27,400
+Il parla, à ce qu’il paraît, avec une éloquence singulière, qui d’ailleurs lui était naturelle.
+
+311
+00:24:27,400 --> 00:24:33,110
+Il déclara qu’il savait bien qu’il allait faire une action violente, mais qu’il ne croyait pas avoir tort.
+
+312
+00:24:33,110 --> 00:24:36,700
+Il attesta la conscience des quatrevingt-un voleurs qui l’écoutaient :
+
+313
+00:24:36,700 --> 00:24:38,880
+Qu’il était dans une rude extrémité ;
+
+314
+00:24:38,880 --> 00:24:44,810
+Que la nécessité de se faire justice soi-même était un cul-de-sac où l’on se trouvait engagé quelquefois ;
+
+315
+00:24:44,810 --> 00:24:52,960
+Qu’à la vérité il ne pouvait prendre la vie du directeur sans donner la sienne propre, mais qu’il trouvait bon de donner sa vie pour une chose juste ;
+
+316
+00:24:52,960 --> 00:24:57,060
+Qu’il avait mûrement réfléchi, et à cela seulement, depuis deux mois ;
+
+317
+00:24:57,060 --> 00:25:04,300
+Qu’il croyait bien ne pas se laisser entraîner par le ressentiment, mais que, dans le cas où cela serait, il suppliait qu’on l’en avertît ;
+
+318
+00:25:04,300 --> 00:25:08,290
+Qu’il soumettait honnêtement ses raisons aux hommes justes qui l’entouraient ;
+
+319
+00:25:08,290 --> 00:25:14,850
+Qu’il allait donc tuer M. D., mais que, si quelqu’un avait une objection à lui faire, il était prêt à l’écouter.
+
+320
+00:25:14,850 --> 00:25:23,060
+Une voix seulement s’éleva, et dit qu’avant de tuer le directeur, Claude devait essayer une dernière fois de lui parler et de le fléchir.
+
+321
+00:25:23,060 --> 00:25:25,910
+— C’est juste, dit Claude, et je le ferai.
+
+322
+00:25:25,910 --> 00:25:28,380
+Huit heures sonnèrent à la grande horloge.
+
+323
+00:25:28,380 --> 00:25:30,700
+Le directeur devait venir à neuf heures.
+
+324
+00:25:30,700 --> 00:25:38,960
+Une fois que cette étrange cour de cassation eut en quelque sorte ratifié la sentence qu’il avait portée, Claude reprit toute sa sérénité.
+
+325
+00:25:38,960 --> 00:25:50,610
+Il mit sur une table tout ce qu’il possédait en linge et en vêtements, la pauvre dépouille du prisonnier, et, appelant l’un après l’autre ceux de ses compagnons qu’il aimait le plus après Albin, il leur distribua tout.
+
+326
+00:25:50,610 --> 00:25:53,100
+Il ne garda que la petite paire de ciseaux.
+
+327
+00:25:53,100 --> 00:25:54,610
+Puis il les embrassa tous.
+
+328
+00:25:54,610 --> 00:25:57,650
+Quelques-uns pleuraient, il souriait à ceux-là.
+
+329
+00:25:57,650 --> 00:26:10,770
+Il y eut dans cette heure dernière des instants où il causa avec tant de tranquillité et même de gaieté, que plusieurs de ses camarades espéraient intérieurement, comme ils l’ont déclaré depuis, qu’il abandonnerait peut-être sa résolution.
+
+330
+00:26:10,770 --> 00:26:23,580
+Il s’amusa même une fois à éteindre une des rares chandelles qui éclairaient l’atelier avec le souffle de sa narine, car il avait de mauvaises habitudes d’éducation qui dérangeaient sa dignité naturelle plus souvent qu’il n’aurait fallu.
+
+331
+00:26:23,580 --> 00:26:29,100
+Rien ne pouvait faire que cet ancien gamin des rues n’eût point par moments l’odeur du ruisseau de Paris.
+
+332
+00:26:29,100 --> 00:26:37,920
+Il aperçut un jeune condamné qui était pâle, qui le regardait avec des yeux fixes, et qui tremblait, sans doute dans l’attente de ce qu’il allait voir.
+
+333
+00:26:37,920 --> 00:26:39,490
+— Allons, du courage, jeune homme !
+
+334
+00:26:39,490 --> 00:26:43,400
+lui dit Claude doucement, ce ne sera que l’affaire d’un instant.
+
+335
+00:26:43,400 --> 00:26:57,000
+Quand il eut distribué toutes ses hardes, fait tous ses adieux, serré toutes les mains, il interrompit quelques causeries inquiètes qui se faisaient çà et là dans les coins obscurs de l’atelier, et il commanda qu’on se remît au travail.
+
+336
+00:26:57,000 --> 00:26:59,210
+Tous obéirent en silence.
+
+337
+00:26:59,210 --> 00:27:10,410
+L’atelier où ceci se passait était une salle oblongue, un long parallélogramme percé de fenêtres sur ses deux grands côtés, et de deux portes qui se regardaient à ses deux extrémités.
+
+338
+00:27:10,410 --> 00:27:14,610
+Les métiers avec leurs bancs étaient rangés de chaque côté près des fenêtres,
+
+339
+00:27:14,610 --> 00:27:26,580
+les bancs touchant le mur à angle droit, et l’espace resté libre entre les deux rangées de métiers formait une sorte de longue voie qui allait en ligne droite de l’une des portes à l’autre et traversait ainsi toute la salle.
+
+340
+00:27:26,580 --> 00:27:40,630
+C’était cette longue voie, assez étroite, que le directeur avait à parcourir en faisant son inspection ; il devait entrer par la porte sud et ressortir par la porte nord, après avoir regardé les travailleurs à droite et à gauche.
+
+341
+00:27:40,630 --> 00:27:44,670
+D’ordinaire il faisait ce trajet assez rapidement et sans s’arrêter.
+
+342
+00:27:44,670 --> 00:27:51,990
+Claude s’était replacé lui-même à son banc, et il s’était remis au travail, comme Jacques Clément se fût remis à la prière.
+
+343
+00:27:51,990 --> 00:27:53,410
+Tous attendaient.
+
+344
+00:27:53,410 --> 00:27:54,940
+Le moment approchait.
+
+345
+00:27:54,940 --> 00:27:57,790
+Tout à coup on entendit un coup de cloche.
+
+346
+00:27:57,790 --> 00:27:58,950
+Claude dit :
+
+347
+00:27:58,950 --> 00:28:00,590
+— C’est l’avant-quart.
+
+348
+00:28:00,590 --> 00:28:09,580
+Alors il se leva, traversa gravement une partie de la salle, et alla s’accouder sur l’angle du premier métier à gauche, tout à côté de la porte d’entrée.
+
+349
+00:28:09,580 --> 00:28:12,820
+Son visage était parfaitement calme et bienveillant.
+
+350
+00:28:12,820 --> 00:28:14,140
+Neuf heures sonnèrent.
+
+351
+00:28:14,140 --> 00:28:15,480
+La porte s’ouvrit.
+
+352
+00:28:15,480 --> 00:28:17,300
+Le directeur entra.
+
+353
+00:28:17,300 --> 00:28:21,010
+En ce moment-là, il se fit dans l’atelier un silence de statues.
+
+354
+00:28:21,010 --> 00:28:23,850
+Le directeur était seul comme d’habitude.
+
+355
+00:28:23,850 --> 00:28:33,100
+Il entra avec sa figure joviale, satisfaite et inexorable, ne vit pas Claude qui était debout à gauche de la porte, la main droite cachée dans son pantalon,
+
+356
+00:28:33,100 --> 00:28:45,980
+et passa rapidement devant les premiers métiers, hochant la tête, mâchant ses paroles, et jetant çà et là son regard banal, sans s’apercevoir que tous les yeux qui l’entouraient étaient fixés sur une idée terrible.
+
+357
+00:28:45,980 --> 00:28:50,320
+Tout à coup il se détourna brusquement, surpris d’entendre un pas derrière lui.
+
+358
+00:28:50,320 --> 00:28:54,110
+C’était Claude, qui le suivait en silence depuis quelques instants.
+
+359
+00:28:54,110 --> 00:28:55,430
+— Que fais-tu là, toi ?
+
+360
+00:28:55,430 --> 00:28:58,520
+dit le directeur ; pourquoi n’es-tu pas à ta place ?
+
+361
+00:28:58,520 --> 00:29:00,840
+Car un homme n’est plus un homme là.
+
+362
+00:29:00,840 --> 00:29:01,920
+C’est un chien.
+
+363
+00:29:01,920 --> 00:29:03,270
+On le tutoie.
+
+364
+00:29:03,270 --> 00:29:05,830
+Claude Gueux répondit respectueusement :
+
+365
+00:29:05,830 --> 00:29:08,500
+— C’est que j’ai à vous parler, monsieur le directeur.
+
+366
+00:29:08,500 --> 00:29:10,330
+— De quoi ?
+
+367
+00:29:10,330 --> 00:29:11,680
+— D’Albin.
+
+368
+00:29:11,680 --> 00:29:12,550
+— Encore !
+
+369
+00:29:12,550 --> 00:29:13,650
+dit le directeur.
+
+370
+00:29:13,650 --> 00:29:14,410
+— Toujours !
+
+371
+00:29:14,410 --> 00:29:15,360
+dit Claude.
+
+372
+00:29:15,360 --> 00:29:16,530
+— Ah çà !
+
+373
+00:29:16,530 --> 00:29:21,400
+reprit le directeur continuant de marcher, tu n’as donc pas eu assez de vingt-quatre heures de cachot ?
+
+374
+00:29:21,400 --> 00:29:24,000
+Claude répondit en continuant de le suivre :
+
+375
+00:29:24,000 --> 00:29:26,460
+— Monsieur le directeur, rendez-moi mon camarade.
+
+376
+00:29:26,460 --> 00:29:27,500
+— Impossible.
+
+377
+00:29:27,500 --> 00:29:36,030
+— Monsieur le directeur, dit Claude avec une voix qui eût attendri le démon, je vous en supplie, remettez Albin avec moi, vous verrez comme je travaillerai bien.
+
+378
+00:29:36,030 --> 00:29:43,470
+Vous qui êtes libre, cela vous est égal, vous ne savez pas ce que c’est qu’un ami ; mais, moi, je n’ai que les quatre murs de la prison.
+
+379
+00:29:43,470 --> 00:29:46,490
+Vous pouvez aller et venir, vous ; moi je n’ai qu’Albin.
+
+380
+00:29:46,490 --> 00:29:47,590
+Rendez-le-moi.
+
+381
+00:29:47,590 --> 00:29:49,950
+Albin me nourrissait, vous le savez bien.
+
+382
+00:29:49,950 --> 00:29:52,590
+Cela ne vous coûterait que la peine de dire oui.
+
+383
+00:29:52,590 --> 00:29:58,700
+Qu’est-ce que cela vous fait qu’il y ait dans la même salle un homme qui s’appelle Claude Gueux et un autre qui s’appelle Albin ?
+
+384
+00:29:58,700 --> 00:30:00,910
+Car ce n’est pas plus compliqué que cela.
+
+385
+00:30:00,910 --> 00:30:05,740
+Monsieur le directeur, mon bon monsieur D., je vous supplie vraiment, au nom du ciel !
+
+386
+00:30:05,740 --> 00:30:09,720
+Claude n’en avait peut-être jamais tant dit à la fois à un geôlier.
+
+387
+00:30:09,720 --> 00:30:12,470
+Après cet effort, épuisé, il attendit.
+
+388
+00:30:12,470 --> 00:30:15,540
+Le directeur répliqua avec un geste d’impatience :
+
+389
+00:30:15,540 --> 00:30:16,450
+— Impossible.
+
+390
+00:30:16,450 --> 00:30:17,130
+C’est dit.
+
+391
+00:30:17,130 --> 00:30:18,560
+Voyons, ne m’en reparle plus.
+
+392
+00:30:18,560 --> 00:30:18,970
+Tu m’ennuies.
+
+393
+00:30:18,970 --> 00:30:22,180
+Et, comme il était pressé, il doubla le pas.
+
+394
+00:30:22,180 --> 00:30:23,510
+Claude aussi.
+
+395
+00:30:23,510 --> 00:30:27,350
+En parlant ainsi ils étaient arrivés tous deux près de la porte de sortie.
+
+396
+00:30:27,350 --> 00:30:31,180
+Les quatrevingts voleurs regardaient et écoutaient, haletants.
+
+397
+00:30:31,180 --> 00:30:34,380
+Claude prit doucement le pan de l’habit du directeur.
+
+398
+00:30:34,380 --> 00:30:37,110
+— Mais au moins que je sache pourquoi je suis condamné à mort !
+
+399
+00:30:37,110 --> 00:30:39,690
+Dites-moi pourquoi vous l’avez séparé de moi.
+
+400
+00:30:39,690 --> 00:30:42,210
+— Je te l’ai déjà dit, répondit le directeur.
+
+401
+00:30:42,210 --> 00:30:43,430
+Parce que.
+
+402
+00:30:43,430 --> 00:30:49,210
+Et, tournant le dos à Claude, il avança la main vers le loquet de la porte de sortie.
+
+403
+00:30:49,210 --> 00:30:52,710
+À la réponse du directeur, Claude avait reculé d’un pas.
+
+404
+00:30:52,710 --> 00:30:58,480
+Les quatrevingts statues qui étaient là virent sortir de son pantalon sa main droite avec la hache.
+
+405
+00:30:58,480 --> 00:31:08,380
+Cette main se leva, et avant que le directeur eût pu pousser un cri, trois coups de hache, chose affreuse à dire, assénés dans la même entaille, lui avaient ouvert le crâne.
+
+406
+00:31:08,380 --> 00:31:14,280
+Au moment où il tombait à la renverse, un quatrième coup lui balafra le visage.
+
+407
+00:31:14,280 --> 00:31:21,610
+Puis, comme une fureur lancée ne s’arrête pas court, Claude Gueux lui fendit la cuisse droite d’un cinquième coup inutile.
+
+408
+00:31:21,610 --> 00:31:23,150
+Le directeur était mort.
+
+409
+00:31:23,150 --> 00:31:27,190
+Alors Claude jeta la hache et cria : À l’autre maintenant !
+
+410
+00:31:27,190 --> 00:31:28,910
+L’autre, c’était lui.
+
+411
+00:31:28,910 --> 00:31:37,200
+On le vit tirer de sa veste les petits ciseaux de « sa femme », et, sans que personne songeât à l’en empêcher, il se les enfonça dans la poitrine.
+
+412
+00:31:37,200 --> 00:31:40,770
+La lame était courte, la poitrine était profonde.
+
+413
+00:31:40,770 --> 00:31:53,380
+Il y fouilla longtemps et à plus de vingt reprises en criant : — Cœur de damné, je ne te trouverai donc pas ! — Et enfin il tomba baigné dans son sang, évanoui sur le mort.
+
+414
+00:31:53,380 --> 00:31:57,380
+Lequel des deux était la victime de l’autre ?
+
+415
+00:31:57,380 --> 00:32:00,140
+Fin
+de la
+section trois
+
+416
+00:32:00,140 --> 00:32:01,770
+Enregistrée par Laure
+
+417
+00:32:01,770 --> 00:32:10,510
+Section quatre
+de
+Claude Gueux
+
+418
+00:32:10,510 --> 00:32:13,450
+Ceci est un enregistrement LibriVox.
+
+419
+00:32:13,450 --> 00:32:16,750
+Tous nos enregistrements appartiennent au domaine public.
+
+420
+00:32:16,750 --> 00:32:23,980
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+421
+00:32:23,980 --> 00:32:26,560
+Claude Gueux
+par
+Victor Hugo
+
+422
+00:32:26,560 --> 00:32:28,560
+Quatrième partie
+
+423
+00:32:28,560 --> 00:32:37,150
+Quand Claude reprit connaissance, il était dans un lit, couvert de linges et de bandages, entouré de soins.
+
+424
+00:32:37,150 --> 00:32:50,800
+Il avait auprès de son chevet de bonnes sœurs de charité, et de plus un juge d’instruction qui instrumentait et qui lui demanda avec beaucoup d’intérêt : — Comment vous trouvez-vous ?
+
+425
+00:32:50,800 --> 00:33:06,600
+Il avait perdu une grande quantité de sang, mais les ciseaux avec lesquels il avait eu la superstition touchante de se frapper avaient mal fait leur devoir ; aucun des coups qu’il s’était portés n’était dangereux.
+
+426
+00:33:06,600 --> 00:33:13,180
+Il n’y avait de mortelles pour lui que les blessures qu’il avait faites à M. D.
+
+427
+00:33:13,180 --> 00:33:16,060
+Les interrogatoires commencèrent.
+
+428
+00:33:16,060 --> 00:33:24,760
+On lui demanda si c’était lui qui avait tué le directeur des ateliers de la prison de Clairvaux. Il répondit : Oui.
+
+429
+00:33:24,760 --> 00:33:27,090
+On lui demanda pourquoi.
+
+430
+00:33:27,090 --> 00:33:30,180
+Il répondit : Parce que.
+
+431
+00:33:30,180 --> 00:33:34,890
+Cependant, à un certain moment, ses plaies s’envenimèrent.
+
+432
+00:33:34,890 --> 00:33:39,540
+Il fut pris d’une fièvre mauvaise dont il faillit mourir.
+
+433
+00:33:39,540 --> 00:33:46,440
+Novembre, décembre, janvier et février se passèrent en soins et en préparatifs.
+
+434
+00:33:46,440 --> 00:33:50,790
+Médecins et juges s’empressaient autour de Claude.
+
+435
+00:33:50,790 --> 00:33:55,620
+Les uns guérissaient ses blessures, les autres dressaient son échafaud.
+
+436
+00:33:55,620 --> 00:33:57,100
+Abrégeons.
+
+437
+00:33:57,100 --> 00:34:05,870
+Le 16 mars 1832, il parut, étant parfaitement guéri, devant la cour d’assises de Troyes.
+
+438
+00:34:05,870 --> 00:34:09,410
+Tout ce que la ville peut donner de foule était là.
+
+439
+00:34:09,410 --> 00:34:13,290
+Claude eut une bonne attitude devant la cour.
+
+440
+00:34:13,290 --> 00:34:24,770
+Il s’était fait raser avec soin, il avait la tête nue, il portait ce morne habit des prisonniers de Clairvaux, mi-parti de deux espèces de gris.
+
+441
+00:34:24,770 --> 00:34:37,640
+Le procureur du roi avait encombré la salle de bayonnettes, « afin, dit-il à l’audience, de contenir tous les scélérats qui devaient figurer comme témoins dans cette affaire ».
+
+442
+00:34:37,640 --> 00:34:44,870
+Lorsqu’il fallut entamer les débats, il se présenta une difficulté singulière.
+
+443
+00:34:44,870 --> 00:34:50,630
+Aucun des témoins des événements du 4 novembre ne voulait déposer contre Claude.
+
+444
+00:34:50,630 --> 00:34:55,620
+Le président les menaça de son pouvoir discrétionnaire.
+
+445
+00:34:55,620 --> 00:34:57,240
+Ce fut en vain.
+
+446
+00:34:57,240 --> 00:35:00,910
+Claude alors leur commanda de déposer.
+
+447
+00:35:00,910 --> 00:35:02,670
+Toutes les langues se délièrent.
+
+448
+00:35:02,670 --> 00:35:05,980
+Ils dirent ce qu’ils avaient vu.
+
+449
+00:35:05,980 --> 00:35:10,860
+Claude les écoutait tous avec une profonde attention.
+
+450
+00:35:10,860 --> 00:35:21,370
+Quand l’un d’eux, par oubli, ou par affection pour Claude, omettait des faits à la charge de l’accusé, Claude les rétablissait.
+
+451
+00:35:21,370 --> 00:35:30,180
+De témoignage en témoignage, la série des faits que nous venons de développer se déroula devant la cour.
+
+452
+00:35:30,180 --> 00:35:32,430
+Il y eut un moment où les femmes qui étaient là pleurèrent.
+
+453
+00:35:32,430 --> 00:35:36,940
+L’huissier appela le condamné Albin.
+
+454
+00:35:36,940 --> 00:35:39,430
+C’était son tour de déposer.
+
+455
+00:35:39,430 --> 00:35:41,820
+Il entra en chancelant.
+
+456
+00:35:41,820 --> 00:35:43,670
+Il sanglotait.
+
+457
+00:35:43,670 --> 00:35:49,560
+Les gendarmes ne purent empêcher qu’il n’allât tomber dans les bras de Claude.
+
+458
+00:35:49,560 --> 00:36:03,990
+Claude le soutint et dit en souriant au procureur du roi : — Voilà un scélérat qui partage son pain avec ceux qui ont faim. — Puis il baisa la main d’Albin.
+
+459
+00:36:03,990 --> 00:36:26,740
+La liste des témoins épuisée, monsieur le procureur du roi se leva et prit la parole en ces termes : — Messieurs les jurés, la société serait ébranlée jusque dans ses fondements, si la vindicte publique n’atteignait pas les grands coupables comme celui qui, etc.
+
+460
+00:36:26,740 --> 00:36:31,760
+Après ce discours mémorable, l’avocat de Claude parla.
+
+461
+00:36:31,760 --> 00:36:45,320
+La plaidoirie contre et la plaidoirie pour firent, chacune à leur tour, les évolutions qu’elles ont coutume de faire dans cette espèce d’hippodrome qu’on appelle un procès criminel.
+
+462
+00:36:45,320 --> 00:36:48,540
+Claude jugea que tout n’était pas dit.
+
+463
+00:36:48,540 --> 00:36:50,700
+Il se leva à son tour.
+
+464
+00:36:50,700 --> 00:36:59,300
+Il parla de telle sorte qu’une personne intelligente qui assistait à cette audience s’en revint frappée d’étonnement.
+
+465
+00:36:59,300 --> 00:37:05,920
+Il paraît que ce pauvre ouvrier contenait bien plutôt un orateur qu’un assassin.
+
+466
+00:37:05,920 --> 00:37:19,930
+Il parla debout, avec une voix pénétrante et bien ménagée, avec un œil clair, honnête et résolu, avec un geste presque toujours le même, mais plein d’empire.
+
+467
+00:37:19,930 --> 00:37:34,900
+Il dit les choses comme elles étaient, simplement, sérieusement, sans charger ni amoindrir, convint de tout, regarda l’article 296 en face, et posa sa tête dessous.
+
+468
+00:37:34,900 --> 00:37:47,530
+Il eut des moments de véritable haute éloquence qui faisaient remuer la foule, et où l’on se répétait à l’oreille dans l’auditoire ce qu’il venait de dire.
+
+469
+00:37:47,530 --> 00:37:55,880
+Cela faisait un murmure pendant lequel Claude reprenait haleine en jetant un regard fier sur les assistants.
+
+470
+00:37:55,880 --> 00:38:18,560
+Dans d’autres instants, cet homme qui ne savait pas lire était doux, poli, choisi, comme un lettré ; puis, par moments encore, modeste, mesuré, attentif, marchant pas à pas dans la partie irritante de la discussion, bienveillant pour les juges.
+
+471
+00:38:18,560 --> 00:38:23,000
+Une fois seulement, il se laissa aller à une secousse de colère.
+
+472
+00:38:23,000 --> 00:38:42,060
+Le procureur du roi avait établi dans le discours que nous avons cité en entier que Claude Gueux avait assassiné le directeur des ateliers sans voie de fait ni violence de la part du directeur, par conséquent sans provocation.
+
+473
+00:38:42,060 --> 00:38:43,460
+— Quoi !
+
+474
+00:38:43,460 --> 00:38:47,110
+s’écria Claude, je n’ai pas été provoqué !
+
+475
+00:38:47,110 --> 00:38:47,690
+Ah !
+
+476
+00:38:47,690 --> 00:38:49,690
+oui, vraiment, c’est juste.
+
+477
+00:38:49,690 --> 00:38:51,010
+Je vous comprends.
+
+478
+00:38:51,010 --> 00:38:59,310
+Un homme ivre me donne un coup de poing, je le tue, j’ai été provoqué, vous me faites grâce, vous m’envoyez aux galères.
+
+479
+00:38:59,310 --> 00:39:15,960
+Mais un homme qui n’est pas ivre et qui a toute sa raison me comprime le cœur pendant quatre ans, m’humilie pendant quatre ans, me pique tous les jours, toutes les heures, toutes les minutes, d’un coup d’épingle à quelque place inattendue pendant quatre ans !
+
+480
+00:39:15,960 --> 00:39:31,420
+J’avais une femme pour qui j’ai volé, il me torture avec cette femme ; j’avais un enfant pour qui j’ai volé, il me torture avec cet enfant ; je n’ai pas assez de pain, un ami m’en donne, il m’ôte mon ami et mon pain.
+
+481
+00:39:31,420 --> 00:39:36,810
+Je redemande mon ami, il me met au cachot.
+
+482
+00:39:36,810 --> 00:39:42,360
+Je lui dis vous, à lui mouchard, il me dit tu.
+
+483
+00:39:42,360 --> 00:39:47,250
+Je lui dis que je souffre, il me dit que je l’ennuie.
+
+484
+00:39:47,250 --> 00:39:49,520
+Alors que voulez-vous que je fasse ?
+
+485
+00:39:49,520 --> 00:39:50,480
+Je le tue.
+
+486
+00:39:50,480 --> 00:39:51,640
+C’est bien.
+
+487
+00:39:51,640 --> 00:39:58,760
+Je suis un monstre, j’ai tué cet homme, je n’ai pas été provoqué, vous me coupez la tête.
+
+488
+00:39:58,760 --> 00:40:00,140
+Faites ! —
+
+489
+00:40:00,140 --> 00:40:19,290
+Mouvement sublime, selon nous, qui faisait tout à coup surgir, au-dessus du système de provocation matérielle, sur lequel s’appuie l’échelle mal proportionnée des circonstances atténuantes, toute une théorie de la provocation morale oubliée par la loi.
+
+490
+00:40:19,290 --> 00:40:25,630
+Les débats fermés, le président fit son résumé impartial et lumineux.
+
+491
+00:40:25,630 --> 00:40:27,760
+Il en résulta ceci.
+
+492
+00:40:27,760 --> 00:40:29,480
+Une vilaine vie.
+
+493
+00:40:29,480 --> 00:40:30,950
+Un monstre en effet.
+
+494
+00:40:30,950 --> 00:40:39,990
+Claude Gueux avait commencé par vivre en concubinage avec une fille publique, puis il avait volé, puis il avait tué.
+
+495
+00:40:39,990 --> 00:40:41,440
+Tout cela était vrai.
+
+496
+00:40:41,440 --> 00:40:51,640
+Au moment d’envoyer les jurés dans leur chambre, le président demanda à l’accusé s’il avait quelque chose à dire sur la position des questions.
+
+497
+00:40:51,640 --> 00:40:54,250
+— Peu de chose, dit Claude.
+
+498
+00:40:54,250 --> 00:40:55,820
+Voici, pourtant.
+
+499
+00:40:55,820 --> 00:40:58,720
+Je suis un voleur et un assassin.
+
+500
+00:40:58,720 --> 00:41:00,230
+J’ai volé et tué.
+
+501
+00:41:00,230 --> 00:41:03,280
+Mais pourquoi ai-je volé ?
+
+502
+00:41:03,280 --> 00:41:05,470
+pourquoi ai-je tué ?
+
+503
+00:41:05,470 --> 00:41:10,670
+Posez ces deux questions à côté des autres, messieurs les jurés.
+
+504
+00:41:10,670 --> 00:41:23,020
+Après un quart d’heure de délibération, sur la déclaration des douze champenois qu’on appelait messieurs les jurés, Claude Gueux fut condamné à mort.
+
+505
+00:41:23,020 --> 00:41:34,360
+Il est certain que, dès l’ouverture des débats, plusieurs d’entre eux avaient remarqué que l’accusé s’appelait Gueux, ce qui leur avait fait une impression profonde.
+
+506
+00:41:34,360 --> 00:41:38,970
+On lut son arrêt à Claude, qui se contenta de dire :
+
+507
+00:41:38,970 --> 00:41:40,590
+— C’est bien.
+
+508
+00:41:40,590 --> 00:41:43,300
+Mais pourquoi cet homme a-t-il volé ?
+
+509
+00:41:43,300 --> 00:41:45,860
+Pourquoi cet homme a-t-il tué ?
+
+510
+00:41:45,860 --> 00:41:50,520
+Voilà deux questions auxquelles ils ne répondent pas.
+
+511
+00:41:50,520 --> 00:41:55,350
+Rentré dans la prison, il soupa gaiement et dit :
+
+512
+00:41:55,350 --> 00:41:56,980
+— Trente-six ans de faits !
+
+513
+00:41:56,980 --> 00:42:01,200
+Il ne voulut pas se pourvoir en cassation.
+
+514
+00:42:01,200 --> 00:42:06,070
+Une des sœurs qui l’avaient soigné vint l’en prier avec larmes.
+
+515
+00:42:06,070 --> 00:42:08,870
+Il se pourvut par complaisance pour elle.
+
+516
+00:42:08,870 --> 00:42:24,170
+Il paraît qu’il résista jusqu’au dernier instant, car, au moment où il signa son pourvoi sur le registre du greffe, le délai légal des trois jours était expiré depuis quelques minutes.
+
+517
+00:42:24,170 --> 00:42:28,580
+La pauvre fille reconnaissante lui donna cinq francs.
+
+518
+00:42:28,580 --> 00:42:31,760
+Il prit l’argent et la remercia.
+
+519
+00:42:31,760 --> 00:42:40,900
+Pendant que son pourvoi pendait, des offres d’évasion lui furent faites par les prisonniers de Troyes, qui s’y dévouaient tous.
+
+520
+00:42:40,900 --> 00:42:42,610
+Il refusa.
+
+521
+00:42:42,610 --> 00:42:52,650
+Les détenus jetèrent successivement dans son cachot, par le soupirail, un clou, un morceau de fil de fer et une anse de seau.
+
+522
+00:42:52,650 --> 00:43:01,290
+Chacun de ces trois outils eût suffi, à un homme aussi intelligent que l’était Claude, pour limer ses fers.
+
+523
+00:43:01,290 --> 00:43:06,940
+Il remit l’anse, le fil de fer et le clou au guichetier.
+
+524
+00:43:06,940 --> 00:43:28,150
+Le 8 juin 1832, sept mois et quatre jours après le fait, l’expiation arriva, pede claudo, comme on voit. Ce jour-là, à sept heures du matin, le greffier du tribunal entra dans le cachot de Claude, et lui annonça qu’il n’avait plus qu’une heure à vivre.
+
+525
+00:43:28,150 --> 00:43:31,130
+Son pourvoi était rejeté.
+
+526
+00:43:31,130 --> 00:43:40,470
+— Allons, dit Claude froidement, j’ai bien dormi cette nuit sans me douter que je dormirais encore mieux la prochaine.
+
+527
+00:43:40,470 --> 00:43:50,300
+Il paraît que les paroles des hommes forts doivent toujours recevoir de l’approche de la mort une certaine grandeur.
+
+528
+00:43:50,300 --> 00:43:53,960
+Le prêtre arriva, puis le bourreau.
+
+529
+00:43:53,960 --> 00:43:58,610
+Il fut humble avec le prêtre, doux avec l’autre.
+
+530
+00:43:58,610 --> 00:44:01,900
+Il ne refusa ni son âme, ni son corps.
+
+531
+00:44:01,900 --> 00:44:06,060
+Il conserva une liberté d’esprit parfaite.
+
+532
+00:44:06,060 --> 00:44:15,280
+Pendant qu’on lui coupait les cheveux, quelqu’un parla, dans un coin du cachot, du choléra qui menaçait Troyes en ce moment.
+
+533
+00:44:15,280 --> 00:44:21,200
+— Quant à moi, dit Claude avec un sourire, je n’ai pas peur du choléra.
+
+534
+00:44:21,200 --> 00:44:32,050
+Il écoutait d’ailleurs le prêtre avec une attention extrême, en s’accusant beaucoup et en regrettant de n’avoir pas été instruit dans la religion.
+
+535
+00:44:32,050 --> 00:44:38,180
+Sur sa demande, on lui avait rendu les ciseaux avec lesquels il s’était frappé.
+
+536
+00:44:38,180 --> 00:44:42,050
+Il y manquait une lame, qui s’était brisée dans sa poitrine.
+
+537
+00:44:42,050 --> 00:44:48,760
+Il pria le geôlier de faire porter de sa part ces ciseaux à Albin.
+
+538
+00:44:48,760 --> 00:44:56,900
+Il dit aussi qu’il désirait qu’on ajoutât à ce legs la ration de pain qu’il aurait dû manger ce jour-là.
+
+539
+00:44:56,900 --> 00:45:09,480
+Il pria ceux qui lui lièrent les mains de mettre dans sa main droite la pièce de cinq francs que lui avait donnée la sœur, la seule chose qui lui restât désormais.
+
+540
+00:45:09,480 --> 00:45:18,070
+À huit heures moins un quart, il sortit de la prison, avec tout le lugubre cortège ordinaire des condamnés.
+
+541
+00:45:18,070 --> 00:45:26,500
+Il était à pied, pâle, l’œil fixé sur le crucifix du prêtre, mais marchant d’un pas ferme.
+
+542
+00:45:26,500 --> 00:45:48,600
+On avait choisi ce jour-là pour l’exécution, parce que c’était jour de marché, afin qu’il y eût le plus de regards possible sur son passage, car il paraît qu’il y a encore en France des bourgades à demi sauvages où, quand la société tue un homme, elle s’en vante.
+
+543
+00:45:48,600 --> 00:45:56,210
+Il monta sur l’échafaud gravement, l’œil toujours fixé sur le gibet du Christ.
+
+544
+00:45:56,210 --> 00:46:04,670
+Il voulut embrasser le prêtre, puis le bourreau, remerciant l’un, pardonnant à l’autre.
+
+545
+00:46:04,670 --> 00:46:08,650
+Le bourreau le repoussa doucement, dit une relation.
+
+546
+00:46:08,650 --> 00:46:21,160
+Au moment où l’aide le liait sur la hideuse mécanique, il fit signe au prêtre de prendre la pièce de cinq francs qu’il avait dans sa main droite, et lui dit :
+
+547
+00:46:21,160 --> 00:46:23,140
+— Pour les pauvres.
+
+548
+00:46:23,140 --> 00:46:33,470
+Comme huit heures sonnaient en ce moment, le bruit du beffroi de l’horloge couvrit sa voix, et le confesseur lui répondit qu’il n’entendait pas.
+
+549
+00:46:33,470 --> 00:46:39,050
+Claude attendit l’intervalle de deux coups et répéta avec douceur :
+
+550
+00:46:39,050 --> 00:46:41,490
+— Pour les pauvres.
+
+551
+00:46:41,490 --> 00:46:48,840
+Le huitième coup n’était pas encore sonné que cette noble et intelligente tête était tombée.
+
+552
+00:46:48,840 --> 00:46:52,340
+Admirable effet des exécutions publiques !
+
+553
+00:46:52,340 --> 00:47:07,010
+ce jour-là même, la machine étant encore debout au milieu d’eux et pas lavée, les gens du marché se révoltèrent pour une question de tarif et faillirent massacrer un employé de l’octroi.
+
+554
+00:47:07,010 --> 00:47:10,980
+Le doux peuple que vous font ces lois-là !
+
+555
+00:47:10,980 --> 00:47:13,500
+Fin
+de la
+section quatre
+
+556
+00:47:13,500 --> 00:47:16,160
+Enregistrée par Margot
+
+557
+00:47:20,680 --> 00:47:23,120
+Section cinq
+de
+Claude Gueux
+
+558
+00:47:23,120 --> 00:47:25,870
+Ceci est un enregistrement LibriVox.
+
+559
+00:47:25,870 --> 00:47:29,110
+Tous nos enregistrements appartiennent au domaine public.
+
+560
+00:47:29,110 --> 00:47:36,690
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+561
+00:47:36,690 --> 00:47:39,850
+Claude Gueux
+par
+Victor Hugo
+
+562
+00:47:39,850 --> 00:47:42,140
+Cinquième partie
+
+563
+00:47:42,140 --> 00:47:59,720
+Nous avons cru devoir raconter en détail l’histoire de Claude Gueux, parce que, selon nous, tous les paragraphes de cette histoire pourraient servir de têtes de chapitre au livre où serait résolu le grand problème du peuple au dix-neuvième siècle.
+
+564
+00:47:59,720 --> 00:48:20,060
+Dans cette vie importante il y a deux phases principales : avant la chute, après la chute ; et, sous ces deux phases, deux questions : question de l’éducation, question de la pénalité ; et, entre ces deux questions, la société tout entière.
+
+565
+00:48:20,060 --> 00:48:27,020
+Cet homme, certes, était bien né, bien organisé, bien doué.
+
+566
+00:48:27,020 --> 00:48:30,210
+Que lui a-t-il donc manqué ?
+
+567
+00:48:30,210 --> 00:48:31,430
+Réfléchissez.
+
+568
+00:48:31,430 --> 00:48:46,580
+C’est là le grand problème de proportion dont la solution, encore à trouver, donnera l’équilibre universel : Que la société fasse toujours pour l’individu autant que la nature.
+
+569
+00:48:46,580 --> 00:48:48,740
+Voyez Claude Gueux.
+
+570
+00:48:48,740 --> 00:48:53,840
+Cerveau bien fait, cœur bien fait, sans nul doute.
+
+571
+00:48:53,840 --> 00:49:06,020
+Mais le sort le met dans une société si mal faite, qu’il finit par voler ; la société le met dans une prison si mal faite, qu’il finit par tuer.
+
+572
+00:49:06,020 --> 00:49:08,720
+Qui est réellement coupable ?
+
+573
+00:49:08,720 --> 00:49:09,970
+Est-ce lui ?
+
+574
+00:49:09,970 --> 00:49:11,320
+Est-ce nous ?
+
+575
+00:49:11,320 --> 00:49:22,530
+Questions sévères, questions poignantes, qui sollicitent à cette heure toutes les intelligences, qui nous tirent tous tant que nous sommes par le pan de notre habit,
+
+576
+00:49:22,530 --> 00:49:31,790
+et qui nous barreront un jour si complètement le chemin, qu’il faudra bien les regarder en face et savoir ce qu’elles nous veulent.
+
+577
+00:49:31,790 --> 00:49:39,360
+Celui qui écrit ces lignes essaiera de dire bientôt peut-être de quelle façon il les comprend.
+
+578
+00:49:39,360 --> 00:49:52,220
+Quand on est en présence de pareils faits, quand on songe à la manière dont ces questions nous pressent, on se demande à quoi pensent ceux qui gouvernent, s’ils ne pensent pas à cela.
+
+579
+00:49:52,220 --> 00:49:56,160
+Les Chambres sont tous les ans gravement occupées.
+
+580
+00:49:56,160 --> 00:50:16,040
+Il est sans doute très important de désenfler les sinécures et d’écheniller le budget ; il est très important de faire des lois pour que j’aille, déguisé en soldat, monter patriotiquement la garde à la porte de M. le comte de Lobau que je ne connais pas,
+
+581
+00:50:16,040 --> 00:50:27,820
+et que je ne veux pas connaître, ou pour me contraindre à parader au carré Marigny, sous le bon plaisir de mon épicier, dont on a fait mon officier.
+
+582
+00:50:27,820 --> 00:50:48,220
+Il est important, députés ou ministres, de fatiguer et de tirailler toutes les choses et toutes les idées de ce pays dans des discussions pleines d’avortements ; il est essentiel, par exemple, de mettre sur la sellette et d’interroger et de questionner à grands cris,
+
+583
+00:50:48,220 --> 00:51:04,910
+et sans savoir ce qu’on dit, l’art du dix-neuvième siècle, ce grand et sévère accusé qui ne daigne pas répondre et qui fait bien ; il est expédient de passer son temps, gouvernants et législateurs,
+
+584
+00:51:04,910 --> 00:51:23,660
+en conférences classiques qui font hausser les épaules aux maîtres d’école de la banlieue ; il est utile de déclarer que c’est le drame moderne qui a inventé l’inceste, l’adultère, le parricide, l’infanticide et l’empoisonnement,
+
+585
+00:51:23,660 --> 00:51:45,070
+et de prouver par là qu’on ne connaît ni Phèdre, ni Jocaste, ni Œdipe, ni Médée, ni Rodogune ; il est indispensable que les orateurs politiques de ce pays ferraillent, trois grands jours durant, à propos du budget, pour Corneille et Racine,
+
+586
+00:51:45,070 --> 00:51:58,870
+contre on ne sait qui, et profitent de cette occasion littéraire pour s’enfoncer les uns les autres à qui mieux dans la gorge de grandes fautes de français jusqu’à la garde.
+
+587
+00:51:58,870 --> 00:52:06,980
+Tout cela est important ; nous croyons cependant qu’il pourrait y avoir des choses plus importantes encore.
+
+588
+00:52:06,980 --> 00:52:23,970
+Que dirait la Chambre, au milieu des futiles démêlés qui font si souvent colleter le ministère par l’opposition et l’opposition par le ministère, si, tout à coup, des bancs de la Chambre ou de la tribune publique, qu’importe ?
+
+589
+00:52:23,970 --> 00:52:28,500
+quelqu’un se levait et disait ces sérieuses paroles :
+
+590
+00:52:28,500 --> 00:52:34,820
+— Taisez-vous, qui que vous soyez, vous qui parlez ici, taisez-vous !
+
+591
+00:52:34,820 --> 00:52:38,910
+vous croyez être dans la question, vous n’y êtes pas.
+
+592
+00:52:38,910 --> 00:52:41,750
+La question, la voici.
+
+593
+00:52:41,750 --> 00:53:01,010
+La justice vient, il y a un an à peine, de déchiqueter un homme à Pamiers avec un eustache ; à Dijon, elle vient d’arracher la tête à une femme ; à Paris, elle fait, barrière Saint-Jacques, des exécutions inédites.
+
+594
+00:53:01,010 --> 00:53:02,700
+Ceci est la question.
+
+595
+00:53:02,700 --> 00:53:05,160
+Occupez-vous de ceci.
+
+596
+00:53:05,160 --> 00:53:16,820
+Vous vous querellerez après pour savoir si les boutons de la garde nationale doivent être blancs ou jaunes, et si l’assurance est une plus belle chose que la certitude.
+
+597
+00:53:16,820 --> 00:53:22,990
+Messieurs des centres, messieurs des extrémités, le gros du peuple souffre.
+
+598
+00:53:22,990 --> 00:53:29,360
+Que vous l’appeliez république ou que vous l’appeliez monarchie, le peuple souffre.
+
+599
+00:53:29,360 --> 00:53:31,220
+Ceci est un fait.
+
+600
+00:53:31,220 --> 00:53:34,720
+Le peuple a faim, le peuple a froid.
+
+601
+00:53:34,720 --> 00:53:38,750
+La misère le pousse au crime ou au vice, selon le sexe.
+
+602
+00:53:38,750 --> 00:53:46,650
+Ayez pitié du peuple, à qui le bagne prend ses fils, et le lupanar ses filles.
+
+603
+00:53:46,650 --> 00:53:51,550
+Vous avez trop de forçats, vous avez trop de prostituées.
+
+604
+00:53:51,550 --> 00:53:54,160
+Que prouvent ces deux ulcères ?
+
+605
+00:53:54,160 --> 00:53:57,910
+Que le corps social a un vice dans le sang.
+
+606
+00:53:57,910 --> 00:54:05,070
+Vous voilà réunis en consultation au chevet du malade ; occupez-vous de la maladie.
+
+607
+00:54:05,070 --> 00:54:07,910
+Cette maladie, vous la traitez mal.
+
+608
+00:54:07,910 --> 00:54:09,690
+Étudiez-là mieux.
+
+609
+00:54:09,690 --> 00:54:16,620
+Les lois que vous faites, quand vous en faites, ne sont que des palliatifs et des expédients.
+
+610
+00:54:16,620 --> 00:54:23,050
+Une moitié de vos codes est routine, l’autre moitié empirisme.
+
+611
+00:54:23,050 --> 00:54:36,370
+La flétrissure était une cautérisation qui gangrenait la plaie ; peine insensée que celle qui pour la vie scellait et rivait le crime sur le criminel !
+
+612
+00:54:36,370 --> 00:54:42,120
+qui en faisait deux amis, deux compagnons, deux inséparables !
+
+613
+00:54:42,120 --> 00:54:53,750
+Le bagne est un vésicatoire absurde qui laisse résorber, non sans l’avoir rendu pire encore, presque tout le mauvais sang qu’il extrait.
+
+614
+00:54:53,750 --> 00:54:58,090
+La peine de mort est une amputation barbare.
+
+615
+00:54:58,090 --> 00:55:04,860
+Or, flétrissure, bagne, peine de mort, trois choses qui se tiennent.
+
+616
+00:55:04,860 --> 00:55:10,920
+Vous avez supprimé la flétrissure, si vous êtes logiques, supprimez le reste.
+
+617
+00:55:10,920 --> 00:55:17,950
+Le fer rouge, le boulet et le couperet, c’étaient les trois parties d’un syllogisme.
+
+618
+00:55:17,950 --> 00:55:23,880
+Vous avez ôté le fer rouge ; le boulet et le couperet n’ont plus de sens.
+
+619
+00:55:23,880 --> 00:55:28,740
+Farinace était atroce, mais il n’était pas absurde.
+
+620
+00:55:28,740 --> 00:55:35,610
+Démontez-moi cette vieille échelle boiteuse des crimes et des peines, et refaites-la.
+
+621
+00:55:35,610 --> 00:55:42,780
+Refaites votre pénalité, refaites vos codes, refaites vos prisons, refaites vos juges.
+
+622
+00:55:42,780 --> 00:55:45,620
+Remettez les lois au pas des mœurs.
+
+623
+00:55:45,620 --> 00:55:50,160
+Messieurs, il se coupe trop de têtes par an en France.
+
+624
+00:55:50,160 --> 00:55:55,090
+Puisque vous êtes en train de faire des économies, faites-en là-dessus.
+
+625
+00:55:55,090 --> 00:56:00,430
+Puisque vous êtes en verve de suppressions, supprimez le bourreau.
+
+626
+00:56:00,430 --> 00:56:07,130
+Avec la solde de vos quatre-vingts bourreaux, vous payerez six cents maîtres d’école.
+
+627
+00:56:07,130 --> 00:56:09,910
+Songez au gros du peuple.
+
+628
+00:56:09,910 --> 00:56:14,410
+Des écoles pour les enfants, des ateliers pour les hommes.
+
+629
+00:56:14,410 --> 00:56:21,840
+Savez-vous que la France est un des pays de l’Europe où il y a le moins de natifs qui sachent lire !
+
+630
+00:56:21,840 --> 00:56:23,190
+Quoi !
+
+631
+00:56:23,190 --> 00:56:33,460
+la Suisse sait lire, la Belgique sait lire, le Danemark sait lire, la Grèce sait lire, l’Irlande sait lire, et la France ne sait pas lire ?
+
+632
+00:56:33,460 --> 00:56:35,160
+c’est une honte.
+
+633
+00:56:35,160 --> 00:56:37,230
+Allez dans les bagnes.
+
+634
+00:56:37,230 --> 00:56:40,160
+Appelez autour de vous toute la chiourme.
+
+635
+00:56:40,160 --> 00:56:44,970
+Examinez un à un tous ces damnés de la loi humaine.
+
+636
+00:56:44,970 --> 00:56:50,460
+Calculez l’inclinaison de tous ces profils, tâtez tous ces crânes.
+
+637
+00:56:50,460 --> 00:57:05,030
+Chacun de ces hommes tombés a au-dessous de lui son type bestial ; il semble que chacun d’eux soit le point d’intersection de telle ou telle espèce animale avec l’humanité.
+
+638
+00:57:05,030 --> 00:57:14,950
+Voici le loup-cervier, voici le chat, voici le singe, voici le vautour, voici l’hyène.
+
+639
+00:57:14,950 --> 00:57:25,120
+Or, de ces pauvres têtes mal conformées, le premier tort est à la nature sans doute, le second à l’éducation.
+
+640
+00:57:25,120 --> 00:57:30,730
+La nature a mal ébauché, l’éducation a mal retouché l’ébauche.
+
+641
+00:57:30,730 --> 00:57:33,290
+Tournez vos soins de ce côté.
+
+642
+00:57:33,290 --> 00:57:36,150
+Une bonne éducation au peuple.
+
+643
+00:57:36,150 --> 00:57:50,430
+Développez de votre mieux ces malheureuses têtes, afin que l’intelligence qui est dedans puisse grandir. Les nations ont le crâne bien ou mal fait selon leurs institutions.
+
+644
+00:57:50,430 --> 00:57:53,720
+Rome et la Grèce avaient le front haut.
+
+645
+00:57:53,720 --> 00:57:59,330
+Ouvrez, le plus que vous pourrez, l’angle facial du peuple.
+
+646
+00:57:59,330 --> 00:58:07,170
+Quand la France saura lire, ne laissez pas sans direction cette intelligence que vous aurez développée.
+
+647
+00:58:07,170 --> 00:58:09,970
+Ce serait un autre désordre.
+
+648
+00:58:09,970 --> 00:58:14,390
+L’ignorance vaut encore mieux que la mauvaise science.
+
+649
+00:58:14,390 --> 00:58:15,370
+Non.
+
+650
+00:58:15,370 --> 00:58:29,750
+Souvenez-vous qu’il y a un livre plus philosophique que le Compère Mathieu, plus populaire que le Constitutionnel, plus éternel que la charte de 1830 ; c’est l’écriture sainte.
+
+651
+00:58:29,750 --> 00:58:32,940
+Et ici un mot d’explication.
+
+652
+00:58:32,940 --> 00:58:46,070
+Quoi que vous fassiez, le sort de la grande foule, de la multitude, de la majorité, sera toujours relativement pauvre, et malheureux, et triste.
+
+653
+00:58:46,070 --> 00:58:54,880
+À elle le dur travail, les fardeaux à pousser, les fardeaux à traîner, les fardeaux à porter.
+
+654
+00:58:54,880 --> 00:59:02,770
+Examinez cette balance : toutes les jouissances dans le plateau du riche, toutes les misères dans le plateau du pauvre.
+
+655
+00:59:02,770 --> 00:59:06,280
+Les deux parts ne sont-elles pas inégales ?
+
+656
+00:59:06,280 --> 00:59:12,570
+La balance ne doit-elle pas nécessairement pencher, et l’état avec elle ?
+
+657
+00:59:12,570 --> 00:59:29,040
+Et maintenant dans le lot du pauvre, dans le plateau des misères, jetez la certitude d’un avenir céleste, jetez l’aspiration au bonheur éternel, jetez le paradis, contre-poids magnifique !
+
+658
+00:59:29,040 --> 00:59:31,660
+Vous rétablissez l’équilibre.
+
+659
+00:59:31,660 --> 00:59:35,670
+La part du pauvre est aussi riche que la part du riche.
+
+660
+00:59:35,670 --> 00:59:41,150
+C’est ce que savait Jésus, qui en savait plus long que Voltaire.
+
+661
+00:59:41,150 --> 00:59:52,290
+Donnez au peuple qui travaille et qui souffre, donnez au peuple, pour qui ce monde-ci est mauvais, la croyance à un meilleur monde fait pour lui.
+
+662
+00:59:52,290 --> 00:59:55,760
+Il sera tranquille, il sera patient.
+
+663
+00:59:55,760 --> 00:59:58,730
+La patience est faite d’espérance.
+
+664
+00:59:58,730 --> 01:00:02,890
+Donc ensemencez les villages d’évangiles.
+
+665
+01:00:02,890 --> 01:00:05,180
+Une bible par cabane.
+
+666
+01:00:05,180 --> 01:00:11,830
+Que chaque livre et chaque champ produisent à eux deux un travailleur moral.
+
+667
+01:00:11,830 --> 01:00:15,920
+La tête de l’homme du peuple, voilà la question.
+
+668
+01:00:15,920 --> 01:00:28,220
+Cette tête est pleine de germes utiles ; employez pour la faire mûrir et venir à bien ce qu’il y a de plus lumineux et de mieux tempéré dans la vertu.
+
+669
+01:00:28,220 --> 01:00:37,050
+Tel a assassiné sur les grandes routes qui, mieux dirigé, eût été le plus excellent serviteur de la cité.
+
+670
+01:00:37,050 --> 01:00:54,360
+Cette tête de l’homme du peuple, cultivez-la, défrichez-la, arrosez-la, fécondez-la, éclairez-la, moralisez-la, utilisez-la ; vous n’aurez pas besoin de la couper.
+
+671
+01:00:54,360 --> 01:00:56,990
+Fin
+de la
+section cinq
+
+672
+01:00:56,990 --> 01:00:59,760
+Enregistrée par Margot
+
+673
+01:01:05,120 --> 01:01:07,920
+Section six
+de
+Claude Gueux
+
+674
+01:01:07,920 --> 01:01:10,940
+Ceci est un enregistrement LibriVox.
+
+675
+01:01:10,940 --> 01:01:14,320
+Tous nos enregistrements appartiennent au domaine public.
+
+676
+01:01:14,320 --> 01:01:21,060
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+677
+01:01:21,060 --> 01:01:24,620
+Enregistré par Christiane Jehanne
+
+678
+01:01:24,620 --> 01:01:26,760
+Claude Gueux
+par
+Victor Hugo
+
+679
+01:01:26,760 --> 01:01:30,430
+Le manuscrit de Claude Gueux
+
+680
+01:01:30,430 --> 01:01:38,170
+La Bibliothèque nationale ne possède actuellement que la copie, annotée et corrigée par Victor Hugo, de Claude Gueux.
+
+681
+01:01:38,170 --> 01:01:44,450
+Le manuscrit original est en la possession de M. Louis Koch, qui a bien voulu nous le communiquer.
+
+682
+01:01:44,450 --> 01:01:52,650
+C’est bien là le manuscrit de premier jet, avec des ratures, des ajoutés, des inexactitudes rectifiées ensuite.
+
+683
+01:01:52,650 --> 01:01:57,110
+Le premier alinéa, rayé, présentait le récit comme venant d’un tiers :
+
+684
+01:01:57,110 --> 01:02:01,310
+Voici des faits qui m’ont été racontés par un témoin digne de foi.
+
+685
+01:02:01,310 --> 01:02:13,460
+Ce « témoin » aurait été sujet à caution sur quelques points, car, en suivant le manuscrit, nous y voyons une rectification importante ; on en jugera par ces quelques lignes du premier texte :
+
+686
+01:02:13,460 --> 01:02:18,800
+Il y a un dépôt central de prisonniers à Clermont, il y en a un autre à Troyes.
+
+687
+01:02:18,800 --> 01:02:22,780
+Je ne sais plus dans lequel des deux l’homme fut envoyé faire son temps.
+
+688
+01:02:22,780 --> 01:02:24,890
+Je crois que ce fut à Troyes.
+
+689
+01:02:24,890 --> 01:02:31,700
+Renseignements pris, ce n’était ni à Clermont, ni à Troyes que Claude Gueux avait été emprisonné, mais à Clairvaux.
+
+690
+01:02:31,700 --> 01:02:50,010
+Le manuscrit est paginé par lettres alphabétiques ; au feuillet chiffré D, sous l’alinéa finissant par : Claude aimait beaucoup Albin et ne songeait pas au directeur (voir p. 751), on relève cette date, précédant un changement d’écriture :
+
+691
+01:02:50,010 --> 01:02:53,240
+20 juin 1834.
+
+692
+01:02:53,240 --> 01:02:56,840
+Une autre date au feuillet O suit cette phrase :
+
+693
+01:02:56,840 --> 01:03:00,800
+À quoi pensent ceux qui gouvernent s’ils ne pensent pas à cela ?
+
+694
+01:03:00,800 --> 01:03:03,170
+Fini le 23 juin.
+
+695
+01:03:03,170 --> 01:03:06,880
+C’est donc sur ces mots que se terminait le manuscrit.
+
+696
+01:03:06,880 --> 01:03:10,260
+À partir de cette ligne, ce n’est qu’une copie.
+
+697
+01:03:10,260 --> 01:03:19,340
+Nous en avons retrouvé l’original sur deux feuillets isolés, qui ne ressemblent au manuscrit de Claude Gueux ni comme papier, ni comme écriture.
+
+698
+01:03:19,340 --> 01:03:27,590
+Le début, encerclé et biffé, semble être fait sous le coup de l’émotion que l’auteur a ressentie en apprenant l’exécution de Claude Gueux :
+
+699
+01:03:27,590 --> 01:03:29,230
+Encore une exécution !
+
+700
+01:03:29,230 --> 01:03:31,100
+Quand donc s’en lasseront-ils ?
+
+701
+01:03:31,100 --> 01:03:35,080
+Est-ce qu’il n’y a pas en France un homme puissant qui en veuille à la guillotine ?
+
+702
+01:03:35,080 --> 01:03:35,980
+Hé, Sire !
+
+703
+01:03:35,980 --> 01:03:37,980
+on a guillotiné votre père.
+
+704
+01:03:37,980 --> 01:03:53,330
+Dans la préface du Denier Jour d’un Condamné, préface datée, on s’en souvient, 15 mars 1832, Victor Hugo parle des exécutions de Pamiers, vers la fin de septembre 1831, de Dijon et de la barrière Saint-Jacques ;
+
+705
+01:03:53,330 --> 01:03:58,450
+nous les retrouvons mentionnées dans les deux feuillets isolés qui terminent Claude Gueux :
+
+706
+01:03:58,450 --> 01:04:03,040
+Il y a un an à peine, la justice vient de déchiqueter un homme a Pamiers.
+
+707
+01:04:03,040 --> 01:04:05,650
+(Voir p. 764.)
+
+708
+01:04:05,650 --> 01:04:12,580
+Cette phrase indique que ces deux feuillets avaient été écrits vers le milieu de l’année 1832.
+
+709
+01:04:12,580 --> 01:04:23,140
+Selon nous, ces deux feuillets, antérieurs au manuscrit même, étaient destinés à un article, peut-être à un discours sur l’affaire de Claude Gueux, comme l’indique la note,
+
+710
+01:04:23,140 --> 01:04:32,940
+puis Victor Hugo se sera informé, documenté, et aura trouvé plus utile à la cause qu’il défendait de raconter la vie et la mort de Claude Gueux.
+
+711
+01:04:32,940 --> 01:04:41,680
+Quand Victor Hugo suppose, dans la Chambre, un interrupteur rappelant les législateurs « à la question », le manuscrit donne des noms propres.
+
+712
+01:04:41,680 --> 01:04:43,400
+Taisez-vous, monsieur Dupin !
+
+713
+01:04:43,400 --> 01:04:45,460
+Taisez-vous, monsieur Mauguin !
+
+714
+01:04:45,460 --> 01:04:49,680
+Dans la Revue de Paris, c’est le nom de M. Thiers qui est cité.
+
+715
+01:04:49,680 --> 01:04:53,810
+Quelques alinéas ont été intercalés sur les épreuves.
+
+716
+01:04:53,810 --> 01:04:57,440
+Fin
+de la
+section six
+
+717
+01:05:02,760 --> 01:05:05,620
+Section sept
+de
+Claude Gueux
+
+718
+01:05:05,620 --> 01:05:08,770
+Ceci est un enregistrement LibriVox.
+
+719
+01:05:08,770 --> 01:05:12,230
+Tous nos enregistrements appartiennent au domaine public.
+
+720
+01:05:12,230 --> 01:05:18,640
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+721
+01:05:18,640 --> 01:05:21,370
+Enregistré par Martine
+
+722
+01:05:21,370 --> 01:05:24,240
+Claude Gueux
+par
+Victor Hugo
+
+723
+01:05:24,240 --> 01:05:27,140
+Historique de Claude Gueux
+
+724
+01:05:27,140 --> 01:05:43,340
+L’année même où Victor Hugo, dans sa dernière préface du Dernier Jour d’un Condamné, avait dressé son vigoureux réquisitoire contre la peine de mort, la même année, en juin 1832, on exécuta Claude Gueux à Troyes.
+
+725
+01:05:43,340 --> 01:05:53,480
+L’exemple viendra donc à l’appui de la doctrine ; mais c’est seulement le 6 juillet 1834 que Claude Gueux sera publié dans la Revue de Paris.
+
+726
+01:05:53,480 --> 01:06:00,880
+Ce n’est donc pas un roman, c’est une histoire vraie qui nécessairement ne se prête pas à de grands développements.
+
+727
+01:06:00,880 --> 01:06:04,030
+Victor Hugo n’est là qu’un historien.
+
+728
+01:06:04,030 --> 01:06:10,590
+Il recueille les faits, il les rapporte en les présentant sous une forme saisissante.
+
+729
+01:06:10,590 --> 01:06:27,710
+Nous n’avons donc pas, comme pour les autres œuvres de Victor Hugo, œuvres d’imagination, toutes les notes qui permettaient de suivre la marche de l’œuvre, ou des lettres, des indications qui nous renseignaient sur les origines ; ici, c’est beaucoup plus simple.
+
+730
+01:06:27,710 --> 01:06:39,220
+Victor Hugo n’avait qu’à puiser dans le compte rendu de la Gazette des Tribunaux du 19 mars 1832 pour avoir tous les éléments du drame qu’il plaçait sous les yeux des lecteurs.
+
+731
+01:06:39,220 --> 01:06:49,580
+Là il constatait que Claude Gueux avait comparu devant la cour d’assises de Troyes le 16 mars, il trouvait tout le récit sur l’assassinat du gardien chef de la prison,
+
+732
+01:06:49,580 --> 01:06:59,770
+et même les paroles singulièrement tragiques que l’accusé prononçait devant ses juges et qu’il n’a pas utilisées, au moins dans leur texte authentique.
+
+733
+01:06:59,770 --> 01:07:05,320
+Les voici, telles qu’elles sont rapportées par la Gazette des Tribunaux :
+
+734
+01:07:05,320 --> 01:07:09,700
+Je l’ai assassiné (le gardien chef), je l’avoue.
+
+735
+01:07:09,700 --> 01:07:24,670
+Mais vous, Messieurs du jury, lorsque, tranquilles sur vos sièges, vous entendez dire que j’ai frappé sans provocation parce que Delacelle (le gardien chef) n’a pas levé une hache sur ma tête, vous ne comprenez pas ce qu’il y a d’horrible,
+
+736
+01:07:24,670 --> 01:07:34,490
+d’atroce dans les douleurs d’une faim continuelle, tout ce qu’il y a de barbare dans ce supplice auquel on m’avait condamné après avoir épuisé tous les supplices.
+
+737
+01:07:34,490 --> 01:07:40,490
+J’avais faim, on me refusa à manger ; j’avais un ami, on lui refusa de me parler.
+
+738
+01:07:40,490 --> 01:07:48,480
+Je nourrissais, moi affamé, mon père du fruit de mon travail, on me fait passer dans un atelier où je ne gagne plus rien.
+
+739
+01:07:48,480 --> 01:07:54,290
+J’ai juré vengeance, car j’étais provoqué, provoqué pendant six ans, à toute heure du jour.
+
+740
+01:07:54,290 --> 01:08:07,170
+J’ai tenu mon serment ; et ceux qui m’accusent aujourd’hui, parce qu’ils ne tremblent plus devant moi, n’ont sur moi d’autre avantage que leur lâcheté ; ils ont applaudi à mon crime et n’avaient pas osé le commettre.
+
+741
+01:08:07,170 --> 01:08:09,120
+Victor Hugo a écrit :
+
+742
+01:08:09,120 --> 01:08:14,830
+Il paraît que ce pauvre ouvrier contenait bien plutôt un orateur qu’un assassin.
+
+743
+01:08:14,830 --> 01:08:21,770
+L’accusé avait été, en effet, comme on a pu le constater, vraiment éloquent dans sa poignante colère.
+
+744
+01:08:21,770 --> 01:08:31,130
+Si on lit la Gazette des Tribunaux, et si on compare le compte rendu au récit de Victor Hugo, on verra que rien n’a été exagéré dans l’article de la Revue de Paris.
+
+745
+01:08:31,130 --> 01:08:35,670
+Au moment où l’arrêt de mort fut prononcé, Claude Gueux ne fit pas un mouvement.
+
+746
+01:08:35,670 --> 01:08:44,170
+Mais à la maison de justice il harangua ses compagnons et leur dit qu’il ne se pourvoirait pas en cassation et qu’il ne demanderait pas sa grâce.
+
+747
+01:08:44,170 --> 01:08:48,650
+Il se pourvut cependant en cassation sur la prière instante d’une sœur.
+
+748
+01:08:48,650 --> 01:08:49,850
+Le pourvoi fut rejeté.
+
+749
+01:08:49,850 --> 01:08:55,180
+Deux mois et demi s’étaient écoulés, on s’étonnait que l’exécution n’eût pas lieu.
+
+750
+01:08:55,180 --> 01:08:58,380
+C’est qu’une demande en grâce avait été adressée au roi.
+
+751
+01:08:58,380 --> 01:09:03,480
+Victor Hugo en a conservé le texte dans un dossier de papiers relatifs à Claude Gueux.
+
+752
+01:09:03,480 --> 01:09:04,740
+Le voici :
+
+753
+01:09:04,740 --> 01:09:11,670
+Le nommé Gueux (Claude) a été condamné à la peine de mort pour un crime auquel le tourment de la faim l’avait poussé.
+
+754
+01:09:11,670 --> 01:09:16,540
+Sa tendresse pour son père a intéressé en sa faveur tous ceux qui l’ont approché.
+
+755
+01:09:16,540 --> 01:09:27,290
+Malheureusement l’affaire est à sa fin, la cour de cassation et la chancellerie l’ont examinée, et le jugement va être exécuté si le roi n’accorde pas une commutation de peine.
+
+756
+01:09:27,290 --> 01:09:31,290
+Le condamné attend le mot qui doit lui donner la mort ou la vie.
+
+757
+01:09:31,290 --> 01:09:37,970
+La clémence de Sa Majesté, si généralement connue, est implorée par le condamné et par les jurés mêmes.
+
+758
+01:09:37,970 --> 01:09:43,960
+À propos de cette tendresse de Claude Gueux pour son père, Victor Hugo reçut la lettre suivante :
+
+759
+01:09:43,960 --> 01:09:45,000
+Monsieur,
+
+760
+01:09:45,000 --> 01:09:52,530
+Une personne qui se prétend bien informée m’annonce que vous avez l’intention de publier un roman historique sur Claude Gueux.
+
+761
+01:09:52,530 --> 01:09:57,100
+Je pense, monsieur, qu’il est important que vous sachiez que le père Gueux,
+
+762
+01:09:57,100 --> 01:10:09,860
+très âgé, a été condamné à une peine qu’il subissait dans la maison centrale de Clairvaux, et que son fils, pour lui porter secours, a commis avec intention une action dont le résultat l’a conduit dans la prison de son père.
+
+763
+01:10:09,860 --> 01:10:17,760
+Quand il faisait du soleil, Gueux prenait entre ses bras son vieux père et le portait avec le plus grand soin sous la chaleur du jour.
+
+764
+01:10:17,760 --> 01:10:29,820
+Je serais heureux que ces faits vous fussent de quelque utilité… Si vous avez besoin des quelques renseignements qui se trouvent au dossier criminel, ce serait pour moi une bien grande satisfaction de vous les procurer.
+
+765
+01:10:29,820 --> 01:10:31,740
+Je suis, etc.
+
+766
+01:10:31,740 --> 01:10:32,610
+Millot,
+
+767
+01:10:32,610 --> 01:10:34,630
+Greffier en chef de la cour d’assises
+
+768
+01:10:34,630 --> 01:10:35,790
+à Troyes.
+
+769
+01:10:35,790 --> 01:10:39,030
+Victor Hugo n’utilisa pas ces divers documents.
+
+770
+01:10:39,030 --> 01:10:42,750
+Il voulut raconter l’aventure dans toute sa brutalité tragique.
+
+771
+01:10:42,750 --> 01:10:44,900
+Il avait tenu à frapper un coup.
+
+772
+01:10:44,900 --> 01:10:46,520
+Le coup avait porté.
+
+773
+01:10:46,520 --> 01:10:53,400
+On en jugera par cette lettre, simple et digne, qu’un négociant de Dunkerque adressa au directeur de la Revue de Paris :
+
+774
+01:10:53,400 --> 01:10:57,130
+Dunkerque, le 30 juillet 1834.
+
+775
+01:10:57,130 --> 01:10:59,590
+Monsieur le directeur de la Revue de Paris,
+
+776
+01:10:59,590 --> 01:11:09,010
+Claude Gueux, de Victor Hugo, par vous inséré dans votre livraison du 6 courant, est une grande leçon ; aidez-moi, je vous prie, à la faire profiter.
+
+777
+01:11:09,010 --> 01:11:19,160
+Rendez-moi, je vous prie, le service d’en faire tirer à mes frais autant d’exemplaires qu’il y a de députés en France, et de les leur adresser individuellement et bien exactement.
+
+778
+01:11:19,160 --> 01:11:20,820
+J’ai l’honneur de vous saluer.
+
+779
+01:11:20,820 --> 01:11:22,270
+Charles Carlier,
+
+780
+01:11:22,270 --> 01:11:23,620
+Négociant.
+
+781
+01:11:23,620 --> 01:11:28,460
+Nous ne donnerons pas, et pour cause, de Revue de la Critique.
+
+782
+01:11:28,460 --> 01:11:43,680
+Les journaux furent à peu près muets, et la critique trouva sans doute superflu d’attirer l’attention sur cet opuscule déjà trop répandu ; seule la Revue de Paris, qui avait publié Claude Gueux, eut le courage d’apprécier ainsi la lettre de son correspondant :
+
+783
+01:11:43,680 --> 01:11:48,540
+Pour nous, ces quelques lignes constatent un fait immense, le progrès des idées.
+
+784
+01:11:48,540 --> 01:11:55,050
+Ce que tant d’esprits prévenus avaient qualifié jusqu’ici de rêves et d’utopies paraît vouloir se réaliser.
+
+785
+01:11:55,050 --> 01:11:57,550
+Les idées marchent et pénètrent.
+
+786
+01:11:57,550 --> 01:12:03,750
+Nous croyons inutile de faire observer la noble simplicité qui règne dans la lettre de M. Carlier.
+
+787
+01:12:03,750 --> 01:12:06,780
+Il a raison, Claude Gueux est une grande leçon.
+
+788
+01:12:06,780 --> 01:12:19,050
+Mais sa lettre est peut-être une leçon plus grande encore. M. Carlier a mis son titre de négociant au bas d’une sérieuse et digne chose ; il a signé l’alliance de deux forces toutes-puissantes.
+
+789
+01:12:19,050 --> 01:12:26,270
+Le grand poète auteur de Claude Gueux a été justement flatté de cette nouvelle marque de la sympathie qui escorte tous ses travaux.
+
+790
+01:12:26,270 --> 01:12:35,520
+C’est en effet le plus beau triomphe qui soit réservé à l’écrivain que de voir la pensée qu’il sème s’élever aussi vite et porter des fruits aussi inattendus.
+
+791
+01:12:35,520 --> 01:12:43,710
+Tant de théories justement louables ont passé dans ce monde sans obtenir l’attention et, encore moins, les honneurs de la pratique,
+
+792
+01:12:43,710 --> 01:12:55,240
+qu’on doit ne pas considérer comme un médiocre événement l’accueil empressé qui se fait aujourd’hui à toutes les intentions loyales et pures de réformer et d’améliorer, de sauver et de conserver.
+
+793
+01:12:55,240 --> 01:13:08,160
+… Il appartenait à une des classes de la société, qui n’ont pas toujours témoigné une vive sympathie à ces nobles et bienfaisantes ambitions, de donner à cette heure une marque aussi précieuse de son retour vers les intérêts spirituels.
+
+794
+01:13:08,160 --> 01:13:14,520
+La lettre de M. Carlier est véritablement une grande leçon, un avertissement important.
+
+795
+01:13:14,520 --> 01:13:21,480
+Dans ce moment surtout où les membres des deux Chambres se vouent si exclusivement aux intérêts matériels,
+
+796
+01:13:21,480 --> 01:13:33,830
+cette lettre d’un négociant qui montre une si vive et si touchante sollicitude pour une pensée ne saurait manquer de frapper et de faire beaucoup réfléchir ceux qui ont l’œil fixé sur le pays.
+
+797
+01:13:33,830 --> 01:13:44,340
+Ce négociant est électeur sans doute ; et n’est-ce pas un progrès national immense, lorsque ceux qui font les législateurs voient plus loin que les législateurs eux-mêmes ?
+
+798
+01:13:44,340 --> 01:13:50,640
+C’est aussi un symptôme curieux de la haute influence que conquièrent chaque jour les capacités.
+
+799
+01:13:50,640 --> 01:13:56,510
+Si ceux qui gouvernent, et parmi lesquels nous reconnaissons avec plaisir des volontés fortes et intelligentes,
+
+800
+01:13:56,510 --> 01:14:07,160
+daignent y prendre garde, nous ne doutons pas qu’ils ne lisent, comme nous, dans ce simple fait, la nécessité d’ouvrir leurs rangs à des hommes que la France adopte elle-même et si largement.
+
+801
+01:14:07,160 --> 01:14:24,040
+Il ne faut pas oublier que l’intelligence aussi nomme ses députés et qu’il serait plus habile encore que généreux d’absorber dans un centre commun, pour les diriger et les cultiver, ces royautés qui s’exercent au dehors, la plupart du temps dans un but hostile ou individuel.
+
+802
+01:14:24,040 --> 01:14:27,200
+Fin
+de
+Historique de Claude Gueux
+
+803
+01:14:27,200 --> 01:14:29,400
+Lu par Martine
+
+804
+01:14:29,400 --> 01:14:33,460
+Fin
+de
+Claude Gueux
+par
+Victor Hugo
+
+805
+01:14:37,920 --> 01:14:38,920
+
+
