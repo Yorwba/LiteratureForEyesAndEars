@@ -11,6 +11,7 @@ language_codes = {
     'Bulgarian': 'bul',
     'Cantonese Chinese': 'yue',
     'Chinese': 'cmn', # assume Mandarin
+    'Czech': 'ces',
     'Danish': 'dan',
     'Dutch': 'nld',
     'English': 'eng',
