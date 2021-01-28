@@ -1,0 +1,66 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1860",
+          "dod": "1904",
+          "first_name": "Anton",
+          "id": "147",
+          "last_name": "Chekhov"
+        }
+      ],
+      "copyright_year": "1897",
+      "description": "«Предложение» — шутка в одном действии известного русского писателя Антона Павловича Чехова. Завершена данная пьеса была в ноябре 1888 года.<br/>\nДействие происходит в усадьбе Чубукова. Иван Васильевич Ломов приезжает к своему соседу, Степану Степановичу Чубукову, чтобы просить руки его дочери. Казалось бы, что может случиться?<<br/><br/>\n\"The Proposal\" - a joke in one act by famous Russian writer Anton Chekhov. This piece was completed in November 1888.<br/>\nThe action takes place in Chubukov's estate. Ivan Lomov comes to his neighbor Stepan Chubukov to ask for his daughter's hand. So, what could happen? (ShiNeko, Wikipedia)<br/><br/><b>Cast List</b><br/>Сценические ремарки: <a href=\"https://librivox.org/reader/8447\">Anastasiia Solokha</a><br>Степан Степанович Чубуков: <a href=\"https://librivox.org/reader/8169\">tovarisch</a><br>Наталья Степановна: <a href=\"https://librivox.org/reader/9046\">Luiza Karimova</a><br>Иван Васильевич Ломов: <a href=\"https://librivox.org/reader/8086\">Mark Chulsky</a><br><br/>",
+      "genres": [
+        {
+          "id": "57",
+          "name": "Comedy"
+        }
+      ],
+      "id": "8692",
+      "language": "Russian",
+      "num_sections": "1",
+      "sections": [
+        {
+          "file_name": "predlozhenie_01_chekhov_64kb.mp3",
+          "id": "306440",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/predlozhenie_00_chekhov_64kb.mp3",
+          "playtime": "1861",
+          "readers": [
+            {
+              "display_name": "Mark Chulsky",
+              "reader_id": "8086"
+            },
+            {
+              "display_name": "tovarisch",
+              "reader_id": "8169"
+            },
+            {
+              "display_name": "Anastasiia Solokha",
+              "reader_id": "8447"
+            },
+            {
+              "display_name": "Luiza Karimova",
+              "reader_id": "9046"
+            }
+          ],
+          "section_number": "1",
+          "title": "Предложение"
+        }
+      ],
+      "title": "Предложение (Predlozhenie)",
+      "totaltime": "00:31:01",
+      "totaltimesecs": 1861,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/predlozhenie_1404_librivox",
+      "url_librivox": "https://librivox.org/predlozhenie-by-anton-chekhov/",
+      "url_other": null,
+      "url_project": "http://en.wikipedia.org/wiki/A_Marriage_Proposal",
+      "url_rss": "https://librivox.org/rss/8692",
+      "url_text_source": "https://archive.org/details/pesychek00chekuoft",
+      "url_zip_file": "http://www.archive.org/download//predlozhenie_1404_librivox/predlozhenie_1404_librivox_64kb_mp3.zip"
+    }
+  ]
+}
