@@ -11,7 +11,7 @@
         }
       ],
       "copyright_year": "1897",
-      "description": "«Предложение» — шутка в одном действии известного русского писателя Антона Павловича Чехова. Завершена данная пьеса была в ноябре 1888 года.<br/>\nДействие происходит в усадьбе Чубукова. Иван Васильевич Ломов приезжает к своему соседу, Степану Степановичу Чубукову, чтобы просить руки его дочери. Казалось бы, что может случиться?<<br/><br/>\n\"The Proposal\" - a joke in one act by famous Russian writer Anton Chekhov. This piece was completed in November 1888.<br/>\nThe action takes place in Chubukov's estate. Ivan Lomov comes to his neighbor Stepan Chubukov to ask for his daughter's hand. So, what could happen? (ShiNeko, Wikipedia)<br/><br/><b>Cast List</b><br/>Сценические ремарки: <a href=\"https://librivox.org/reader/8447\">Anastasiia Solokha</a><br>Степан Степанович Чубуков: <a href=\"https://librivox.org/reader/8169\">tovarisch</a><br>Наталья Степановна: <a href=\"https://librivox.org/reader/9046\">Luiza Karimova</a><br>Иван Васильевич Ломов: <a href=\"https://librivox.org/reader/8086\">Mark Chulsky</a><br><br/>",
+      "description": "«Предложение» — шутка в одном действии известного русского писателя Антона Павловича Чехова. Завершена данная пьеса была в ноябре 1888 года.<br/>\nДействие происходит в усадьбе Чубукова. Иван Васильевич Ломов приезжает к своему соседу, Степану Степановичу Чубукову, чтобы просить руки его дочери. Казалось бы, что может случиться?<<br/><br/>\n\"The Proposal\" - a joke in one act by famous Russian writer Anton Chekhov. This piece was completed in November 1888.<br/>\nThe action takes place in Chubukov's estate. Ivan Lomov comes to his neighbor Stepan Chubukov to ask for his daughter's hand. So, what could happen? (ShiNeko, Wikipedia)<br/><br/>",
       "genres": [
         {
           "id": "57",
@@ -25,7 +25,6 @@
         {
           "file_name": "predlozhenie_01_chekhov_64kb.mp3",
           "id": "306440",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/predlozhenie_00_chekhov_64kb.mp3",
           "playtime": "1861",
           "readers": [
@@ -50,7 +49,7 @@
           "title": "Предложение"
         }
       ],
-      "title": "Предложение (Predlozhenie)",
+      "title": "Предложение",
       "totaltime": "00:31:01",
       "totaltimesecs": 1861,
       "translators": [],
@@ -59,7 +58,7 @@
       "url_other": null,
       "url_project": "http://en.wikipedia.org/wiki/A_Marriage_Proposal",
       "url_rss": "https://librivox.org/rss/8692",
-      "url_text_source": "https://archive.org/details/pesychek00chekuoft",
+      "url_text_source": "https://ru.wikisource.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BF%D1%8C%D0%B5%D1%81%D0%B0,_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)",
       "url_zip_file": "http://www.archive.org/download//predlozhenie_1404_librivox/predlozhenie_1404_librivox_64kb_mp3.zip"
     }
   ]
