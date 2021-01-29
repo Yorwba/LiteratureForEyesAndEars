@@ -87,6 +87,7 @@ def gutenberg_id(url):
 def gutenberg_plain_text(url):
     number = gutenberg_id(url)
     urls = [
+        'http://www.gutenberg.org/cache/epub/'+number+'/pg'+number+'.txt',
         'http://www.gutenberg.org/files/'+number+'/'+number+'-0.txt',
         'http://www.gutenberg.org/files/'+number+'/'+number+'-8.txt',
         'http://www.gutenberg.org/files/'+number+'/'+number+'.txt',
