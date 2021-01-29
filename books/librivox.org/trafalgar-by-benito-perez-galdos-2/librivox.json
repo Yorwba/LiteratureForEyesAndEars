@@ -1,0 +1,294 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1843",
+          "dod": "1920",
+          "first_name": " Benito",
+          "id": "5244",
+          "last_name": "Pérez Galdós"
+        }
+      ],
+      "copyright_year": "1873",
+      "description": "Gabriel, el protagonista narrador de los Episodios nacionales, asiste, siendo aún un muchacho al servicio de don Alonso Gutiérrez de Cisniega, marino retirado, al primero de los portentosos y fantásticos sucesos que irá narrando a lo largo de la obra: la derrota de la escuadra combinada, francesa y española, ante la imponente armada inglesa al mando del almirante Nelson, frente a las costas de Cádiz y en las inmediaciones del Cabo de Trafalgar. - Summary by Alejandro Castillo",
+      "genres": [
+        {
+          "id": "3",
+          "name": "Action & Adventure Fiction"
+        }
+      ],
+      "id": "16136",
+      "language": "Spanish",
+      "num_sections": "17",
+      "sections": [
+        {
+          "file_name": "trafalgar_01_perezgaldos_64kb.mp3",
+          "id": "524270",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_01_perezgaldos_64kb.mp3",
+          "playtime": "1202",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "1",
+          "title": "Capítulo I"
+        },
+        {
+          "file_name": "trafalgar_02_perezgaldos_64kb.mp3",
+          "id": "524271",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_02_perezgaldos_64kb.mp3",
+          "playtime": "647",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "2",
+          "title": "Capítulo II"
+        },
+        {
+          "file_name": "trafalgar_03_perezgaldos_64kb.mp3",
+          "id": "524272",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_03_perezgaldos_64kb.mp3",
+          "playtime": "634",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "3",
+          "title": "Capítulo III"
+        },
+        {
+          "file_name": "trafalgar_04_perezgaldos_64kb.mp3",
+          "id": "524273",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_04_perezgaldos_64kb.mp3",
+          "playtime": "1954",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "4",
+          "title": "Capítulo IV"
+        },
+        {
+          "file_name": "trafalgar_05_perezgaldos_64kb.mp3",
+          "id": "524274",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_05_perezgaldos_64kb.mp3",
+          "playtime": "1213",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "5",
+          "title": "Capítulo V"
+        },
+        {
+          "file_name": "trafalgar_06_perezgaldos_64kb.mp3",
+          "id": "524275",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_06_perezgaldos_64kb.mp3",
+          "playtime": "1300",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "6",
+          "title": "Capítulo VI"
+        },
+        {
+          "file_name": "trafalgar_07_perezgaldos_64kb.mp3",
+          "id": "524276",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_07_perezgaldos_64kb.mp3",
+          "playtime": "973",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "7",
+          "title": "Capítulo VII"
+        },
+        {
+          "file_name": "trafalgar_08_perezgaldos_64kb.mp3",
+          "id": "524277",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_08_perezgaldos_64kb.mp3",
+          "playtime": "2046",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "8",
+          "title": "Capítulo VIII"
+        },
+        {
+          "file_name": "trafalgar_09_perezgaldos_64kb.mp3",
+          "id": "524278",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_09_perezgaldos_64kb.mp3",
+          "playtime": "1441",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "9",
+          "title": "Capítulo IX"
+        },
+        {
+          "file_name": "trafalgar_10_perezgaldos_64kb.mp3",
+          "id": "524279",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_10_perezgaldos_64kb.mp3",
+          "playtime": "1060",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "10",
+          "title": "Capítulo X"
+        },
+        {
+          "file_name": "trafalgar_11_perezgaldos_64kb.mp3",
+          "id": "524280",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_11_perezgaldos_64kb.mp3",
+          "playtime": "1526",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "11",
+          "title": "Capítulo XI"
+        },
+        {
+          "file_name": "trafalgar_12_perezgaldos_64kb.mp3",
+          "id": "524281",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_12_perezgaldos_64kb.mp3",
+          "playtime": "1886",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "12",
+          "title": "Capítulo XII"
+        },
+        {
+          "file_name": "trafalgar_13_perezgaldos_64kb.mp3",
+          "id": "524282",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_13_perezgaldos_64kb.mp3",
+          "playtime": "1660",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "13",
+          "title": "Capítulo XIII"
+        },
+        {
+          "file_name": "trafalgar_14_perezgaldos_64kb.mp3",
+          "id": "524283",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_14_perezgaldos_64kb.mp3",
+          "playtime": "1471",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "14",
+          "title": "Capítulo XIV"
+        },
+        {
+          "file_name": "trafalgar_15_perezgaldos_64kb.mp3",
+          "id": "524284",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_15_perezgaldos_64kb.mp3",
+          "playtime": "2180",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "15",
+          "title": "Capítulo XV"
+        },
+        {
+          "file_name": "trafalgar_16_perezgaldos_64kb.mp3",
+          "id": "524285",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_16_perezgaldos_64kb.mp3",
+          "playtime": "1148",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "16",
+          "title": "Capítulo XVI"
+        },
+        {
+          "file_name": "trafalgar_17_perezgaldos_64kb.mp3",
+          "id": "524286",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/trafalgar_17_perezgaldos_64kb.mp3",
+          "playtime": "1038",
+          "readers": [
+            {
+              "display_name": "Alexelmagno",
+              "reader_id": "15555"
+            }
+          ],
+          "section_number": "17",
+          "title": "Capítulo XVII"
+        }
+      ],
+      "title": "Trafalgar (Version 2)",
+      "totaltime": "06:29:39",
+      "totaltimesecs": 23379,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/trafalgar_2101_librivox",
+      "url_librivox": "https://librivox.org/trafalgar-by-benito-perez-galdos-2/",
+      "url_other": null,
+      "url_project": "https://es.m.wikipedia.org/wiki/Trafalgar_(episodio_nacional)",
+      "url_rss": "https://librivox.org/rss/16136",
+      "url_text_source": "http://www.gutenberg.org/ebooks/16961",
+      "url_zip_file": "http://www.archive.org/download//trafalgar_2101_librivox/trafalgar_2101_librivox_64kb_mp3.zip"
+    }
+  ]
+}
