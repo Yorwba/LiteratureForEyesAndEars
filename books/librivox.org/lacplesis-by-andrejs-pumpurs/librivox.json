@@ -1,0 +1,174 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1841",
+          "dod": "1902",
+          "first_name": " Andrejs",
+          "id": "4753",
+          "last_name": "Pumpurs"
+        }
+      ],
+      "copyright_year": "1988",
+      "description": "<p>Lāčplēsis is an epic poem by Andrejs Pumpurs, a Latvian poet, who wrote it between 1872-1887 based on local legends. Lāčplēsis is regarded as the Latvian national epic.\n\nThe poem recounts the life of the legendary hero Lāčplēsis, chosen by the gods to become a hero of his people. His name means \"Bear-slayer”. At the castle of Lord Aizkrauklis, he spies on the activities of the witch Spīdola(Spīdala), who is under the control of the Devil, and the holy man Kangars, who is in reality a traitor plotting to replace the old gods with Christianity. Lāčplēsis meets and falls in love with the maiden Laimdota and becomes friends with another hero, Koknesis (\"Wood-bearer\").\nFurther adventures seperate the lovers and bring Laimdota to Germany, but Lāčplēsis becomes lost in the Northern Sea, where he is welcomed by the daughter of the North Wind. In his dangerous journey home from the Northern Sea, he fights monsters and is reunited with Laimdota. They return home and celebrate wedding, but the heroes soon set off to fight the German crusaders. Kangars finds out the secret of Lāčplēsis' strength and treacherously reveals it to the Germans. In a seemingly friendly tournament Lāčplēsis is overpowered by the Black Knight, they both fall into Daugava river and disappear.\n(Summary adapted from Wikipedia by Kristine Bekere)</p>",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        }
+      ],
+      "id": "2022",
+      "language": "Latvian",
+      "num_sections": "9",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "157022",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "584",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "1",
+          "title": "I dziedājums"
+        },
+        {
+          "file_name": null,
+          "id": "157023",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2503",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "2",
+          "title": "II dziedājums"
+        },
+        {
+          "file_name": null,
+          "id": "157024",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1618",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "3",
+          "title": "III dziedājums, I daļa"
+        },
+        {
+          "file_name": null,
+          "id": "157025",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1911",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "4",
+          "title": "III dziedājums, II daļa"
+        },
+        {
+          "file_name": null,
+          "id": "157026",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "930",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "5",
+          "title": "IV dziedājums, I daļa"
+        },
+        {
+          "file_name": null,
+          "id": "157027",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1074",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "6",
+          "title": "IV dziedājums, II daļa"
+        },
+        {
+          "file_name": null,
+          "id": "157028",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1420",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "7",
+          "title": "V dziedājums"
+        },
+        {
+          "file_name": null,
+          "id": "157029",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1073",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "8",
+          "title": "VI dziedājums, I daļa"
+        },
+        {
+          "file_name": null,
+          "id": "157030",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1228",
+          "readers": [
+            {
+              "display_name": "Kristine Bekere",
+              "reader_id": "1593"
+            }
+          ],
+          "section_number": "9",
+          "title": "VI dziedājums, II daļa"
+        }
+      ],
+      "title": "Lāčplēsis",
+      "totaltime": "3:25:41",
+      "totaltimesecs": 12341,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/lacplesis_kb_librivox",
+      "url_librivox": "https://librivox.org/lacplesis-by-andrejs-pumpurs/",
+      "url_other": null,
+      "url_project": "http://en.wikipedia.org/wiki/Lāčplēsis",
+      "url_rss": "https://librivox.org/rss/2022",
+      "url_text_source": "http://www.ailab.lv/teksti/Senie/Pumpurs/lacsat.htm",
+      "url_zip_file": "http://www.archive.org/download/lacplesis_kb_librivox/lacplesis_kb_librivox_64kb_mp3.zip"
+    }
+  ]
+}
