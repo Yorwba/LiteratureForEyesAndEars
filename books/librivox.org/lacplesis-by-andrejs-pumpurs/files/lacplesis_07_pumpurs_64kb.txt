@@ -347,7 +347,6 @@ Gribēja sākt noraut ābolus.
 Bet ir še uz viņiem Lāčplēs's sauca,
 Lai tie neaizskarot ābolus.
 
-Piegājis tas gribēja jau iecirst
 Ābelē ar savu zobenu,
 Kad iz ābeles ar bailēm sauca
 Kāda balss: "Ai necērt, Lāčplēsi!"
@@ -751,5 +750,5 @@ Tumši priežu meži rādījās,
 Krasti cēlās, nāca tuvāk, tuvāk -
 Daugav-grīvā kuģis iebrauca.
 
-Piektā dziedājuma
+Piektā dziedājuma beigas
 
