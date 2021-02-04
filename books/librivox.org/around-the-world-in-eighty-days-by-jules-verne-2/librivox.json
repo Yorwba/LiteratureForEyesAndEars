@@ -1,1 +1,606 @@
-{"books":{"36":{"id":"3666","title":"Around the World in Eighty Days (version 4)","description":"<p>Around the World in Eighty Days (French: Le tour du monde en quatre-vingts jours) is a classic adventure novel by the French writer Jules Verne, first published in 1873. In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a \u00a320,000 wager set by his friends at the Reform Club. (Summary from Wikipedia)<\/p>","url_text_source":"http:\/\/www.gutenberg.org\/etext\/103","language":"English","copyright_year":"1873","num_sections":"37","url_rss":"https:\/\/librivox.org\/rss\/3666","url_zip_file":"http:\/\/www.archive.org\/download\/around_world_rs_1005_librivox\/around_world_rs_1005_librivox_64kb_mp3.zip","url_project":"","url_librivox":"https:\/\/librivox.org\/around-the-world-in-eighty-days-by-jules-verne-2\/","url_other":null,"totaltime":"7:02:15","totaltimesecs":25335,"authors":[{"id":"189","first_name":"Jules","last_name":"Verne","dob":"1828","dod":"1905"}],"url_iarchive":"http:\/\/www.archive.org\/details\/around_world_rs_1005_librivox","sections":[{"id":"17236","section_number":"1","title":"01 - Chapter I","listen_url":"","language":"English","playtime":"618","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17237","section_number":"2","title":"02 - Chapter II","listen_url":"","language":"English","playtime":"496","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17238","section_number":"3","title":"03 - Chapter III","listen_url":"","language":"English","playtime":"804","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17239","section_number":"4","title":"04 - Chapter IV","listen_url":"","language":"English","playtime":"400","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17240","section_number":"5","title":"05 - Chapter V","listen_url":"","language":"English","playtime":"379","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17241","section_number":"6","title":"06 - Chapter VI","listen_url":"","language":"English","playtime":"515","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17242","section_number":"7","title":"07 - Chapter VII","listen_url":"","language":"English","playtime":"324","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17243","section_number":"8","title":"08 - Chapter VIII","listen_url":"","language":"English","playtime":"417","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17244","section_number":"9","title":"09 - Chapter IX","listen_url":"","language":"English","playtime":"627","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17245","section_number":"10","title":"10 - Chapter X","listen_url":"","language":"English","playtime":"648","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17246","section_number":"11","title":"11 - Chapter XI","listen_url":"","language":"English","playtime":"1024","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17247","section_number":"12","title":"12 - Chapter XII","listen_url":"","language":"English","playtime":"848","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17248","section_number":"13","title":"13 - Chapter XIII","listen_url":"","language":"English","playtime":"786","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17249","section_number":"14","title":"14 - Chapter XIV","listen_url":"","language":"English","playtime":"783","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17250","section_number":"15","title":"15 - Chapter XV","listen_url":"","language":"English","playtime":"746","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17251","section_number":"16","title":"16 - Chapter XVI","listen_url":"","language":"English","playtime":"632","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17252","section_number":"17","title":"17 - Chapter XVII","listen_url":"","language":"English","playtime":"691","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17253","section_number":"18","title":"18 - Chapter XVIII","listen_url":"","language":"English","playtime":"550","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17254","section_number":"19","title":"19 - Chapter XIX","listen_url":"","language":"English","playtime":"844","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17255","section_number":"20","title":"20 - Chapter XX","listen_url":"","language":"English","playtime":"727","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17256","section_number":"21","title":"21 - Chapter XXI","listen_url":"","language":"English","playtime":"1008","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17257","section_number":"22","title":"22 - Chapter XXII","listen_url":"","language":"English","playtime":"843","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17258","section_number":"23","title":"23 - Chapter XXIII","listen_url":"","language":"English","playtime":"794","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17259","section_number":"24","title":"24 - Chapter XXIV","listen_url":"","language":"English","playtime":"786","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17260","section_number":"25","title":"25 - Chapter XXV","listen_url":"","language":"English","playtime":"821","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17261","section_number":"26","title":"26 - Chapter XXVI","listen_url":"","language":"English","playtime":"659","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17262","section_number":"27","title":"27 - Chapter XXVII","listen_url":"","language":"English","playtime":"783","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17263","section_number":"28","title":"28 - Chapter XXVIII","listen_url":"","language":"English","playtime":"968","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17264","section_number":"29","title":"29 - Chapter XXIX","listen_url":"","language":"English","playtime":"841","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17265","section_number":"30","title":"30 - Chapter XXX","listen_url":"","language":"English","playtime":"853","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17266","section_number":"31","title":"31 - Chapter XXXI","listen_url":"","language":"English","playtime":"750","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17267","section_number":"32","title":"32 - Chapter XXXII","listen_url":"","language":"English","playtime":"465","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17268","section_number":"33","title":"33 - Chapter XXXIII","listen_url":"","language":"English","playtime":"989","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17269","section_number":"34","title":"34 - Chapter XXXIV","listen_url":"","language":"English","playtime":"395","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17270","section_number":"35","title":"35 - Chapter XXXV","listen_url":"","language":"English","playtime":"647","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17271","section_number":"36","title":"36 - Chapter XXXVI","listen_url":"","language":"English","playtime":"444","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]},{"id":"17272","section_number":"37","title":"37 - Chapter XXXVII","listen_url":"","language":"English","playtime":"430","file_name":null,"readers":[{"reader_id":"2140","display_name":"Ralph Snelson"}]}],"genres":[{"id":"3","name":"Action & Adventure Fiction"},{"id":"20","name":"Literary Fiction"}],"translators":[{"id":"6775","first_name":" George Makepeace","last_name":"Towle","dob":"1841","dod":"1893"}]}}}
+{
+  "books": {
+    "36": {
+      "authors": [
+        {
+          "dob": "1828",
+          "dod": "1905",
+          "first_name": "Jules",
+          "id": "189",
+          "last_name": "Verne"
+        }
+      ],
+      "copyright_year": "1873",
+      "description": "<p>Around the World in Eighty Days (French: Le tour du monde en quatre-vingts jours) is a classic adventure novel by the French writer Jules Verne, first published in 1873. In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a £20,000 wager set by his friends at the Reform Club. (Summary from Wikipedia)</p>",
+      "genres": [
+        {
+          "id": "3",
+          "name": "Action & Adventure Fiction"
+        },
+        {
+          "id": "20",
+          "name": "Literary Fiction"
+        }
+      ],
+      "id": "3666",
+      "language": "English",
+      "num_sections": "37",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "17236",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "618",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "1",
+          "title": "01 - Chapter I"
+        },
+        {
+          "file_name": null,
+          "id": "17237",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "496",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "2",
+          "title": "02 - Chapter II"
+        },
+        {
+          "file_name": null,
+          "id": "17238",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "804",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "3",
+          "title": "03 - Chapter III"
+        },
+        {
+          "file_name": null,
+          "id": "17239",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "400",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "4",
+          "title": "04 - Chapter IV"
+        },
+        {
+          "file_name": null,
+          "id": "17240",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "379",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "5",
+          "title": "05 - Chapter V"
+        },
+        {
+          "file_name": null,
+          "id": "17241",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "515",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "6",
+          "title": "06 - Chapter VI"
+        },
+        {
+          "file_name": null,
+          "id": "17242",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "324",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "7",
+          "title": "07 - Chapter VII"
+        },
+        {
+          "file_name": null,
+          "id": "17243",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "417",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "8",
+          "title": "08 - Chapter VIII"
+        },
+        {
+          "file_name": null,
+          "id": "17244",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "627",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "9",
+          "title": "09 - Chapter IX"
+        },
+        {
+          "file_name": null,
+          "id": "17245",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "648",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "10",
+          "title": "10 - Chapter X"
+        },
+        {
+          "file_name": null,
+          "id": "17246",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1024",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "11",
+          "title": "11 - Chapter XI"
+        },
+        {
+          "file_name": null,
+          "id": "17247",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "848",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "12",
+          "title": "12 - Chapter XII"
+        },
+        {
+          "file_name": null,
+          "id": "17248",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "786",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "13",
+          "title": "13 - Chapter XIII"
+        },
+        {
+          "file_name": null,
+          "id": "17249",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "783",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "14",
+          "title": "14 - Chapter XIV"
+        },
+        {
+          "file_name": null,
+          "id": "17250",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "746",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "15",
+          "title": "15 - Chapter XV"
+        },
+        {
+          "file_name": null,
+          "id": "17251",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "632",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "16",
+          "title": "16 - Chapter XVI"
+        },
+        {
+          "file_name": null,
+          "id": "17252",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "691",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "17",
+          "title": "17 - Chapter XVII"
+        },
+        {
+          "file_name": null,
+          "id": "17253",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "550",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "18",
+          "title": "18 - Chapter XVIII"
+        },
+        {
+          "file_name": null,
+          "id": "17254",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "844",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "19",
+          "title": "19 - Chapter XIX"
+        },
+        {
+          "file_name": null,
+          "id": "17255",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "727",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "20",
+          "title": "20 - Chapter XX"
+        },
+        {
+          "file_name": null,
+          "id": "17256",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1008",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "21",
+          "title": "21 - Chapter XXI"
+        },
+        {
+          "file_name": null,
+          "id": "17257",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "843",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "22",
+          "title": "22 - Chapter XXII"
+        },
+        {
+          "file_name": null,
+          "id": "17258",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "794",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "23",
+          "title": "23 - Chapter XXIII"
+        },
+        {
+          "file_name": null,
+          "id": "17259",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "786",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "24",
+          "title": "24 - Chapter XXIV"
+        },
+        {
+          "file_name": null,
+          "id": "17260",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "821",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "25",
+          "title": "25 - Chapter XXV"
+        },
+        {
+          "file_name": null,
+          "id": "17261",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "659",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "26",
+          "title": "26 - Chapter XXVI"
+        },
+        {
+          "file_name": null,
+          "id": "17262",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "783",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "27",
+          "title": "27 - Chapter XXVII"
+        },
+        {
+          "file_name": null,
+          "id": "17263",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "968",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "28",
+          "title": "28 - Chapter XXVIII"
+        },
+        {
+          "file_name": null,
+          "id": "17264",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "841",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "29",
+          "title": "29 - Chapter XXIX"
+        },
+        {
+          "file_name": null,
+          "id": "17265",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "853",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "30",
+          "title": "30 - Chapter XXX"
+        },
+        {
+          "file_name": null,
+          "id": "17266",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "750",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "31",
+          "title": "31 - Chapter XXXI"
+        },
+        {
+          "file_name": null,
+          "id": "17267",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "465",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "32",
+          "title": "32 - Chapter XXXII"
+        },
+        {
+          "file_name": null,
+          "id": "17268",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "989",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "33",
+          "title": "33 - Chapter XXXIII"
+        },
+        {
+          "file_name": null,
+          "id": "17269",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "395",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "34",
+          "title": "34 - Chapter XXXIV"
+        },
+        {
+          "file_name": null,
+          "id": "17270",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "647",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "35",
+          "title": "35 - Chapter XXXV"
+        },
+        {
+          "file_name": null,
+          "id": "17271",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "444",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "36",
+          "title": "36 - Chapter XXXVI"
+        },
+        {
+          "file_name": null,
+          "id": "17272",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "430",
+          "readers": [
+            {
+              "display_name": "Ralph Snelson",
+              "reader_id": "2140"
+            }
+          ],
+          "section_number": "37",
+          "title": "37 - Chapter XXXVII"
+        }
+      ],
+      "title": "Around the World in Eighty Days (version 4)",
+      "totaltime": "7:02:15",
+      "totaltimesecs": 25335,
+      "translators": [
+        {
+          "dob": "1841",
+          "dod": "1893",
+          "first_name": " George Makepeace",
+          "id": "6775",
+          "last_name": "Towle"
+        }
+      ],
+      "url_iarchive": "http://www.archive.org/details/around_world_rs_1005_librivox",
+      "url_librivox": "https://librivox.org/around-the-world-in-eighty-days-by-jules-verne-2/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/3666",
+      "url_text_source": "http://www.gutenberg.org/etext/103",
+      "url_zip_file": "http://www.archive.org/download/around_world_rs_1005_librivox/around_world_rs_1005_librivox_64kb_mp3.zip"
+    }
+  }
+}
