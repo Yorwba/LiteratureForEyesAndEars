@@ -2,13 +2,14 @@
 
 import csv
 from collections import defaultdict
+import librivox_json
 
 
 def table_to_dicts(table):
     header = table[0]
     return [
         {k: v for k, v in zip(header, row)}
-        for row in table[1:]
+        for row in table[2:]
     ]
 
 
@@ -18,9 +19,9 @@ def lang(row):
 
 def stats_per_language(dicts, keys):
     stats = {k: defaultdict(float) for k in keys}
-    for row in dicts[1:]:
+    for row in dicts:
         for k in keys:
-            stats[k][lang(row)] += float(row[k])
+            stats[k][lang(row)] += float(row[k] or 0)
     return stats
 
 
@@ -32,18 +33,46 @@ def ranking(stats):
         print()
 
 
+def playtime_per_youtube_id(books):
+    playtime = defaultdict(int)
+    for book in books:
+        book_youtube_id = book.get('youtube_id', None)
+        for section in book['sections']:
+            section_youtube_id = section.get('youtube_id', None)
+            youtube_id = book_youtube_id or section_youtube_id
+            if isinstance(youtube_id, list):
+                for y in youtube_id:
+                    playtime[y] += int(section['playtime'])
+            elif isinstance(youtube_id, str):
+                playtime[youtube_id] += int(section['playtime'])
+    return dict(playtime)
+
+
+def add_playtime_to_dicts(dicts, playtime):
+    for d in dicts:
+        d['Available time (hours)'] = playtime[d['Video'].strip()] / (60. * 60.)
+
+
 def bottom_line(stats):
-    print('Languages watched for more than 15 mins, by number of likes + subscribes:')
-    langs = [l for l, t in stats['Watch time (hours)'].items() if t > 15./60.]
-    for l in sorted(langs, key=lambda l: -(stats['Likes'][l] + stats['Subscribers'][l])):
-        print(l)
+    print('Languages watched by watched ratio, with number of likes + subscribes:')
+    langs = [l for l, t in stats['Watch time (hours)'].items()]
+    for l in sorted(langs, key=lambda l: -stats['Watch ratio'][l]):
+        print(l, f"{stats['Watch ratio'][l]:.02}", int(stats['Likes'][l]), int(stats['Subscribers'][l]))
     print()
 
 
 def main(argv):
-    with open(argv[1]) as f: table = list(csv.reader(f))
+    with open(argv[2]) as f: table = list(csv.reader(f))
     dicts = table_to_dicts(table)
-    stats = stats_per_language(dicts, ['Watch time (hours)', 'Likes', 'Subscribers', 'Views', 'Impressions'])
+    add_playtime_to_dicts(
+        dicts,
+        playtime_per_youtube_id(librivox_json.get_all_books(argv[1]))
+    )
+    stats = stats_per_language(dicts, ['Watch time (hours)', 'Available time (hours)', 'Likes', 'Subscribers', 'Views', 'Impressions'])
+    stats['Watch ratio'] = {
+        l:  stats['Watch time (hours)'][l] / stats['Available time (hours)'][l]
+        for l in stats['Watch time (hours)']
+    }
     ranking(stats)
     bottom_line(stats)
     print('Available stats: '+', '.join(table[0]))

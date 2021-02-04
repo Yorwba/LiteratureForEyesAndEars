@@ -49,6 +49,24 @@ def get_info(path):
             else:
                 return None
 
+
+def get_all_librivox_json(path):
+    if os.path.isdir(path):
+        for name in os.listdir(path):
+            subpath = os.path.join(path, name)
+            if name == 'librivox.json':
+                yield subpath
+            else:
+                yield from get_all_librivox_json(subpath)
+
+
+def get_all_books(path):
+    books = []
+    for filename in get_all_librivox_json(path):
+        books += get_books(filename)
+    return books
+
+
 def fix_bitrate(obj):
     if obj is None:
         return obj
