@@ -230,6 +230,9 @@ def runeberg_plain_text(url):
     work = split_url.path.split('/')[1]
     zip_file = 'http://runeberg.org/download.pl?mode=html&work='+work
     text = try_get(zip_file)
+    if '<b>Fel!</b>' in text:
+        ocr_file = 'http://runeberg.org/download.pl?mode=ocrtext&work='+work
+        text = try_get(ocr_file)
     return text
 
 
