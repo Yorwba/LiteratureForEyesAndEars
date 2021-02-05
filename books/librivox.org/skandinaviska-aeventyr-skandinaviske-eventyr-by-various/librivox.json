@@ -38,6 +38,15 @@
           "title": "Elddonet"
         },
         {
+          "authors": [
+            {
+              "dob": "1805",
+              "dod": "1875",
+              "first_name": "Hans Christian",
+              "id": "122",
+              "last_name": "Andersen"
+            }
+          ],
           "file_name": "skandinaviskaeventyr_02_various_64kb.mp3",
           "id": "271419",
           "language": "Danish",
@@ -50,7 +59,8 @@
             }
           ],
           "section_number": "2",
-          "title": "Fyrtøjet"
+          "title": "Fyrtøjet",
+          "url_text_source": "http://runeberg.org/hcaeventyr/0015.html"
         },
         {
           "file_name": "skandinaviskaeventyr_03_various_64kb.mp3",
