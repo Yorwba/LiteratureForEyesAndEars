@@ -7,6 +7,7 @@ import sys
 
 
 language_codes = {
+    'Afrikaans': 'afr',
     'Ancient Greek': 'grc',
     'Bulgarian': 'bul',
     'Cantonese Chinese': 'yue',
