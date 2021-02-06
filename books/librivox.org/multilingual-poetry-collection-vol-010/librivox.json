@@ -23,7 +23,17 @@
       "num_sections": "20",
       "sections": [
         {
-          "file_name": null,
+          "authors": [
+            {
+              "dob": "1880",
+              "dod": "1947",
+              "first_name": "C. Louis",
+              "id": "8200",
+              "last_name": "Leipoldt"
+            }
+          ],
+          "description": "",
+          "file_name": "afrikaans_slampamperliedjies_leipoldt_gr_64kb.mp3",
           "id": "164937",
           "language": "Afrikaans",
           "listen_url": "",
@@ -35,7 +45,8 @@
             }
           ],
           "section_number": "1",
-          "title": "Slampamperliedjies"
+          "title": "Slampamperliedjies",
+          "url_text_source": "http://www.gutenberg.org/ebooks/19729"
         },
         {
           "file_name": null,
