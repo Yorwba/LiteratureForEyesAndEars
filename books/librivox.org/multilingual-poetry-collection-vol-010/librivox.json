@@ -1,0 +1,324 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "In LibriVox’s Multilingual Poetry Collection, LibriVox volunteers read their favourite public-domain poems in languages other than English (or in specific regional accents in English). (Summary by David Barnes).</p>",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        }
+      ],
+      "id": "2448",
+      "language": "Multilingual",
+      "num_sections": "20",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "164937",
+          "language": "Afrikaans",
+          "listen_url": "",
+          "playtime": "934",
+          "readers": [
+            {
+              "display_name": "GerryR",
+              "reader_id": "3054"
+            }
+          ],
+          "section_number": "1",
+          "title": "Slampamperliedjies"
+        },
+        {
+          "file_name": null,
+          "id": "164938",
+          "language": "Chinese",
+          "listen_url": "",
+          "playtime": "71",
+          "readers": [
+            {
+              "display_name": "Dubbo Feng",
+              "reader_id": "3022"
+            }
+          ],
+          "section_number": "2",
+          "title": "Chi Bi Huai Gu"
+        },
+        {
+          "file_name": null,
+          "id": "164939",
+          "language": "Dutch",
+          "listen_url": "",
+          "playtime": "73",
+          "readers": [
+            {
+              "display_name": "Ernst Pattynama",
+              "reader_id": "2825"
+            }
+          ],
+          "section_number": "3",
+          "title": "De laatste zomerroos"
+        },
+        {
+          "file_name": null,
+          "id": "164940",
+          "language": "Dutch",
+          "listen_url": "",
+          "playtime": "166",
+          "readers": [
+            {
+              "display_name": "Ernst Pattynama",
+              "reader_id": "2825"
+            }
+          ],
+          "section_number": "4",
+          "title": "De Wilgen"
+        },
+        {
+          "file_name": null,
+          "id": "164941",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "71",
+          "readers": [
+            {
+              "display_name": "Sergio Baldelli",
+              "reader_id": "1989"
+            }
+          ],
+          "section_number": "5",
+          "title": "L'étranger"
+        },
+        {
+          "file_name": null,
+          "id": "164942",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "57",
+          "readers": [
+            {
+              "display_name": "Sergio Baldelli",
+              "reader_id": "1989"
+            }
+          ],
+          "section_number": "6",
+          "title": "L'heure du berger"
+        },
+        {
+          "file_name": null,
+          "id": "164943",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "953",
+          "readers": [
+            {
+              "display_name": "Ezwa",
+              "reader_id": "123"
+            }
+          ],
+          "section_number": "7",
+          "title": "Le peuple juif"
+        },
+        {
+          "file_name": null,
+          "id": "164944",
+          "language": "French",
+          "listen_url": "",
+          "playtime": "59",
+          "readers": [
+            {
+              "display_name": "Ernst Pattynama",
+              "reader_id": "2825"
+            }
+          ],
+          "section_number": "8",
+          "title": "Le Revenant"
+        },
+        {
+          "file_name": null,
+          "id": "164945",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "110",
+          "readers": [
+            {
+              "display_name": "Joseph Finkberg",
+              "reader_id": "2999"
+            }
+          ],
+          "section_number": "9",
+          "title": "Die schlesischen Weber"
+        },
+        {
+          "file_name": null,
+          "id": "164946",
+          "language": "Italian",
+          "listen_url": "",
+          "playtime": "73",
+          "readers": [
+            {
+              "display_name": "Sergio Baldelli",
+              "reader_id": "1989"
+            }
+          ],
+          "section_number": "10",
+          "title": "Alla luna"
+        },
+        {
+          "file_name": null,
+          "id": "164947",
+          "language": "Italian",
+          "listen_url": "",
+          "playtime": "185",
+          "readers": [
+            {
+              "display_name": "Sergio Baldelli",
+              "reader_id": "1989"
+            }
+          ],
+          "section_number": "11",
+          "title": "La sera del dì di festa"
+        },
+        {
+          "file_name": null,
+          "id": "164948",
+          "language": "Latin",
+          "listen_url": "",
+          "playtime": "69",
+          "readers": [
+            {
+              "display_name": "Daniel W.",
+              "reader_id": "3028"
+            }
+          ],
+          "section_number": "12",
+          "title": "Carmen 101"
+        },
+        {
+          "file_name": null,
+          "id": "164949",
+          "language": "Latin",
+          "listen_url": "",
+          "playtime": "52",
+          "readers": [
+            {
+              "display_name": "Daniel W.",
+              "reader_id": "3028"
+            }
+          ],
+          "section_number": "13",
+          "title": "Carmen 2"
+        },
+        {
+          "file_name": null,
+          "id": "164950",
+          "language": "Portuguese",
+          "listen_url": "",
+          "playtime": "74",
+          "readers": [
+            {
+              "display_name": "Ariane Ribeiro",
+              "reader_id": "3050"
+            }
+          ],
+          "section_number": "14",
+          "title": "A Boneca"
+        },
+        {
+          "file_name": null,
+          "id": "164951",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "93",
+          "readers": [
+            {
+              "display_name": "Lucas M.",
+              "reader_id": "2959"
+            }
+          ],
+          "section_number": "15",
+          "title": "Ela"
+        },
+        {
+          "file_name": null,
+          "id": "164952",
+          "language": "Portuguese",
+          "listen_url": "",
+          "playtime": "49",
+          "readers": [
+            {
+              "display_name": "Daniel Barbosa",
+              "reader_id": "3037"
+            }
+          ],
+          "section_number": "16",
+          "title": "Estátua"
+        },
+        {
+          "file_name": null,
+          "id": "164953",
+          "language": "Portuguese",
+          "listen_url": "",
+          "playtime": "133",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "17",
+          "title": "Marabá"
+        },
+        {
+          "file_name": null,
+          "id": "164954",
+          "language": "Yiddish",
+          "listen_url": "",
+          "playtime": "141",
+          "readers": [
+            {
+              "display_name": "Joseph Finkberg",
+              "reader_id": "2999"
+            }
+          ],
+          "section_number": "18",
+          "title": "Tsu di arbeter froyen"
+        },
+        {
+          "file_name": null,
+          "id": "164955",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "265",
+          "readers": [
+            {
+              "display_name": "Joseph Finkberg",
+              "reader_id": "2999"
+            }
+          ],
+          "section_number": "19",
+          "title": "The Collingham Ghost"
+        }
+      ],
+      "title": "Multilingual Poetry Collection 010",
+      "totaltime": "1:02:45",
+      "totaltimesecs": 3765,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/multilingual_poetry_010_0809_librivox",
+      "url_librivox": "https://librivox.org/multilingual-poetry-collection-vol-010/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/2448",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download/multilingual_poetry_010_0809_librivox/multilingual_poetry_010_0809_librivox_64kb_mp3.zip"
+    }
+  ]
+}
