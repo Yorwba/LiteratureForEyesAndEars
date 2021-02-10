@@ -1,0 +1,242 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1832",
+          "dod": "1898",
+          "first_name": "Lewis",
+          "id": "71",
+          "last_name": "Carroll"
+        }
+      ],
+      "copyright_year": "1910",
+      "description": "La aventuroj de Alicio en Mirlando (angle Alice's Adventures in Wonderland) estas verko de porinfana literaturo de la brita matematikisto kaj verkisto, pastro Charles Lutwidge Dodgson sub plumnomo Lewis Carroll. Ĝi rakontas la historion de knabino nomata Alice [elis] (en esperantlingvaj tradukoj aŭ Alicio, aŭ Alico) kiu falas tra kuniklotruon en fantazian regnon populitan per parolantaj kreaĵoj kaj antropomorfaj ludkartoj. La fabelo estas plenplena de satiraj alludoj al la amikoj de Dodgson kaj al la lecionojn, kiujn la britaj lernantoj devis parkerigi. La Mirlando priskribita en la fabelo ludas kun logiko en maniero tiom speciala, ke ĝi donis al la rakonto longdaŭran popularecon inter infanoj kaj ankaŭ plenkreskuloj. (Summary from Wikipedia)</p>",
+      "genres": [
+        {
+          "id": "37",
+          "name": "Action & Adventure"
+        }
+      ],
+      "id": "2381",
+      "language": "Esperanto",
+      "num_sections": "13",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "4197",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "375",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "0",
+          "title": "Titolo, Antaŭparolo de l’ Tradukinto, Antaŭparolo de la Aŭtoro."
+        },
+        {
+          "file_name": null,
+          "id": "4198",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1222",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "1",
+          "title": "Mirinda falego!"
+        },
+        {
+          "file_name": null,
+          "id": "4199",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1080",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "2",
+          "title": "Lageto farita el larmoj "
+        },
+        {
+          "file_name": null,
+          "id": "4200",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "955",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "3",
+          "title": "Post stranga vetkuro sekvas stranga mus-tejlo"
+        },
+        {
+          "file_name": null,
+          "id": "4201",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1231",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "4",
+          "title": "Ĉefe pri unu lacerto nomata Bil"
+        },
+        {
+          "file_name": null,
+          "id": "4202",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1151",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "5",
+          "title": "Alicio ricevas admonon de la raŭpo"
+        },
+        {
+          "file_name": null,
+          "id": "4203",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1397",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "6",
+          "title": "Pri la porkinfano "
+        },
+        {
+          "file_name": null,
+          "id": "4204",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1456",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "7",
+          "title": "Tetrinkado ĉe frenezuloj "
+        },
+        {
+          "file_name": null,
+          "id": "4205",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1554",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "8",
+          "title": "Kroketludo ĉe la kera damo"
+        },
+        {
+          "file_name": null,
+          "id": "4206",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1506",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "9",
+          "title": "Viv-historio de la falsa kelonio"
+        },
+        {
+          "file_name": null,
+          "id": "4207",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1491",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "10",
+          "title": "La omara kvadrilo"
+        },
+        {
+          "file_name": null,
+          "id": "4208",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1169",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "11",
+          "title": "Kiu forŝtelis la tortojn?"
+        },
+        {
+          "file_name": null,
+          "id": "4209",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1136",
+          "readers": [
+            {
+              "display_name": "Nicholas James Bridgewater",
+              "reader_id": "1618"
+            }
+          ],
+          "section_number": "12",
+          "title": "Alicio atestanto"
+        }
+      ],
+      "title": "Aventuroj de Alicio en Mirlando",
+      "totaltime": "4:22:03",
+      "totaltimesecs": 15723,
+      "translators": [
+        {
+          "dob": "1856",
+          "dod": "1913",
+          "first_name": " E. L.",
+          "id": "6640",
+          "last_name": "Kearney"
+        }
+      ],
+      "url_iarchive": "http://www.archive.org/details/laaventuro_de_alicio0912_librivox",
+      "url_librivox": "https://librivox.org/la-aventuroj-de-alicio-en-mirlando-by-lewis-carroll/",
+      "url_other": null,
+      "url_project": "http://eo.wikipedia.org/wiki/La_aventuroj_de_Alicio_en_Mirlando",
+      "url_rss": "https://librivox.org/rss/2381",
+      "url_text_source": "http://www.gutenberg.org/etext/17482",
+      "url_zip_file": "http://www.archive.org/download/laaventuro_de_alicio0912_librivox/laaventuro_de_alicio0912_librivox_64kb_mp3.zip"
+    }
+  ]
+}
