@@ -5,13 +5,6 @@
         {
           "dob": "1880",
           "dod": "1937",
-          "first_name": "Yordan",
-          "id": "6281",
-          "last_name": "Yovkov"
-        },
-        {
-          "dob": "",
-          "dod": "",
           "first_name": " Йордан",
           "id": "6294",
           "last_name": "Йовков"
@@ -30,9 +23,8 @@
       "num_sections": "10",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_01_yovkov_64kb.mp3",
           "id": "168528",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_01_yovkov.mp3",
           "playtime": "1235",
           "readers": [
@@ -42,12 +34,12 @@
             }
           ],
           "section_number": "1",
-          "title": "Shibil / Шибил"
+          "title": "Shibil / Шибил",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%A8%D0%B8%D0%B1%D0%B8%D0%BB"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_02_yovkov_64kb.mp3",
           "id": "168529",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_02_yovkov.mp3",
           "playtime": "1040",
           "readers": [
@@ -57,12 +49,12 @@
             }
           ],
           "section_number": "2",
-          "title": "Koshuta / Кошута"
+          "title": "Koshuta / Кошута",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%9A%D0%BE%D1%88%D1%83%D1%82%D0%B0"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_03_yovkov_64kb.mp3",
           "id": "168530",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_03_yovkov.mp3",
           "playtime": "2303",
           "readers": [
@@ -72,12 +64,12 @@
             }
           ],
           "section_number": "3",
-          "title": "Nai-viarnata strazha / Най-вярната стража"
+          "title": "Nai-viarnata strazha / Най-вярната стража",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%9D%D0%B0%D0%B9-%D0%B2%D1%8F%D1%80%D0%BD%D0%B0%D1%82%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%B0"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_04_yovkov_64kb.mp3",
           "id": "168531",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_04_yovkov.mp3",
           "playtime": "1516",
           "readers": [
@@ -87,12 +79,12 @@
             }
           ],
           "section_number": "4",
-          "title": "Bozhura / Божура"
+          "title": "Bozhura / Божура",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%91%D0%BE%D0%B6%D1%83%D1%80%D0%B0"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_05_yovkov_64kb.mp3",
           "id": "168532",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_05_yovkov.mp3",
           "playtime": "1613",
           "readers": [
@@ -102,12 +94,12 @@
             }
           ],
           "section_number": "5",
-          "title": "Yunashki glavi / Юнашки глави"
+          "title": "Yunashki glavi / Юнашки глави",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%AE%D0%BD%D0%B0%D1%88%D0%BA%D0%B8_%D0%B3%D0%BB%D0%B0%D0%B2%D0%B8"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_06_yovkov_64kb.mp3",
           "id": "168533",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_06_yovkov.mp3",
           "playtime": "1874",
           "readers": [
@@ -117,12 +109,12 @@
             }
           ],
           "section_number": "6",
-          "title": "Postolovi vodenitsi / Постолови воденици"
+          "title": "Postolovi vodenitsi / Постолови воденици",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8_%D0%B2%D0%BE%D0%B4%D0%B5%D0%BD%D0%B8%D1%86%D0%B8"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_07_yovkov_64kb.mp3",
           "id": "168534",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_07_yovkov.mp3",
           "playtime": "3171",
           "readers": [
@@ -132,12 +124,12 @@
             }
           ],
           "section_number": "7",
-          "title": "Indzhe / Индже"
+          "title": "Indzhe / Индже",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%98%D0%BD%D0%B4%D0%B6%D0%B5"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_08_yovkov_64kb.mp3",
           "id": "168535",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_08_yovkov.mp3",
           "playtime": "782",
           "readers": [
@@ -147,12 +139,12 @@
             }
           ],
           "section_number": "8",
-          "title": "Ovcharova zhalba / Овчарова жалба"
+          "title": "Ovcharova zhalba / Овчарова жалба",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%9E%D0%B2%D1%87%D0%B0%D1%80%D0%BE%D0%B2%D0%B0_%D0%B6%D0%B0%D0%BB%D0%B1%D0%B0"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_09_yovkov_64kb.mp3",
           "id": "168536",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_09_yovkov.mp3",
           "playtime": "1216",
           "readers": [
@@ -162,12 +154,12 @@
             }
           ],
           "section_number": "9",
-          "title": "Prez chumavoto / През чумавото"
+          "title": "Prez chumavoto / През чумавото",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7_%D1%87%D1%83%D0%BC%D0%B0%D0%B2%D0%BE%D1%82%D0%BE"
         },
         {
-          "file_name": null,
+          "file_name": "staroplaninskilegendi_10_yovkov_64kb.mp3",
           "id": "168537",
-          "language": "English",
           "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_10_yovkov.mp3",
           "playtime": "1218",
           "readers": [
@@ -177,7 +169,8 @@
             }
           ],
           "section_number": "10",
-          "title": "Na Iglikina poliana / На игликина поляна"
+          "title": "Na Iglikina poliana / На игликина поляна",
+          "url_text_source": "https://bg.wikisource.org/wiki/%D0%9D%D0%B0_%D0%98%D0%B3%D0%BB%D0%B8%D0%BA%D0%B8%D0%BD%D0%B0_%D0%BF%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0"
         }
       ],
       "title": "Старопланински легенди (Staroplaninski legendi)",
@@ -189,7 +182,7 @@
       "url_other": null,
       "url_project": "",
       "url_rss": "https://librivox.org/rss/2607",
-      "url_text_source": "http://slovo.bg/showwork.php3?AuID=95&WorkID=2290&Level=1",
+      "url_text_source": "https://bg.wikisource.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B8",
       "url_zip_file": "http://www.archive.org/download/staroplaninski_legendi_eu_0812_librivox-1/staroplaninski_legendi_eu_0812_librivox-1_64kb_mp3.zip"
     }
   ]
