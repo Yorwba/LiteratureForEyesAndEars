@@ -1,0 +1,196 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1880",
+          "dod": "1937",
+          "first_name": "Yordan",
+          "id": "6281",
+          "last_name": "Yovkov"
+        },
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": " Йордан",
+          "id": "6294",
+          "last_name": "Йовков"
+        }
+      ],
+      "copyright_year": "1927",
+      "description": "<p>Цикълът разкази \"Старопланински легенди\" съдържа десет творби, в чийто сюжетен център стоят любовта, истината, добротата, нравствеността и красотата. Легендите ни пренасят в стари, хайдушки времена, под величествените върхари на Стара Планина.</p> <p>Ten classical short stories about love, truth, goodness, morality and beauty, taking us back to the days of yore in the bosom of the Old Mountain Balkan, written in 1926-1927 by the Bulgarian writer Yordan Yovkov. <br/>(Summary by Euthymius)</p>",
+      "genres": [
+        {
+          "id": "11",
+          "name": "Myths, Legends & Fairy Tales"
+        }
+      ],
+      "id": "2607",
+      "language": "Bulgarian",
+      "num_sections": "10",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "168528",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_01_yovkov.mp3",
+          "playtime": "1235",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "1",
+          "title": "Shibil / Шибил"
+        },
+        {
+          "file_name": null,
+          "id": "168529",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_02_yovkov.mp3",
+          "playtime": "1040",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "2",
+          "title": "Koshuta / Кошута"
+        },
+        {
+          "file_name": null,
+          "id": "168530",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_03_yovkov.mp3",
+          "playtime": "2303",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "3",
+          "title": "Nai-viarnata strazha / Най-вярната стража"
+        },
+        {
+          "file_name": null,
+          "id": "168531",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_04_yovkov.mp3",
+          "playtime": "1516",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "4",
+          "title": "Bozhura / Божура"
+        },
+        {
+          "file_name": null,
+          "id": "168532",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_05_yovkov.mp3",
+          "playtime": "1613",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "5",
+          "title": "Yunashki glavi / Юнашки глави"
+        },
+        {
+          "file_name": null,
+          "id": "168533",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_06_yovkov.mp3",
+          "playtime": "1874",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "6",
+          "title": "Postolovi vodenitsi / Постолови воденици"
+        },
+        {
+          "file_name": null,
+          "id": "168534",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_07_yovkov.mp3",
+          "playtime": "3171",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "7",
+          "title": "Indzhe / Индже"
+        },
+        {
+          "file_name": null,
+          "id": "168535",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_08_yovkov.mp3",
+          "playtime": "782",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "8",
+          "title": "Ovcharova zhalba / Овчарова жалба"
+        },
+        {
+          "file_name": null,
+          "id": "168536",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_09_yovkov.mp3",
+          "playtime": "1216",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "9",
+          "title": "Prez chumavoto / През чумавото"
+        },
+        {
+          "file_name": null,
+          "id": "168537",
+          "language": "English",
+          "listen_url": "http://slovo.domainbg.com/librivox/yovkov/1927_Legendi/staroplaninskilegendi_10_yovkov.mp3",
+          "playtime": "1218",
+          "readers": [
+            {
+              "display_name": "Euthymius",
+              "reader_id": "1097"
+            }
+          ],
+          "section_number": "10",
+          "title": "Na Iglikina poliana / На игликина поляна"
+        }
+      ],
+      "title": "Старопланински легенди (Staroplaninski legendi)",
+      "totaltime": "4:26:08",
+      "totaltimesecs": 15968,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/staroplaninski_legendi_eu_0812_librivox-1",
+      "url_librivox": "https://librivox.org/staroplaninski-legendi-by-yordan-yovkov-0812/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/2607",
+      "url_text_source": "http://slovo.bg/showwork.php3?AuID=95&WorkID=2290&Level=1",
+      "url_zip_file": "http://www.archive.org/download/staroplaninski_legendi_eu_0812_librivox-1/staroplaninski_legendi_eu_0812_librivox-1_64kb_mp3.zip"
+    }
+  ]
+}
