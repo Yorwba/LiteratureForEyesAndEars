@@ -1,0 +1,174 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1819",
+          "dod": "1898",
+          "first_name": "Theodor",
+          "id": "446",
+          "last_name": "Fontane"
+        }
+      ],
+      "copyright_year": "1887",
+      "description": "Die Geschichte spielt im Berlin der 1870er Jahre. Die hübsche und pflichtbewusste Lene wohnt mit ihrer alten Pflegemutter Nimptsch in einem kleinen Häuschen. Bei einer Bootspartie lernt sie den gesellschaftlich gewandten und unterhaltsamen Baron Botho von Rienäcker kennen. Im Laufe des Sommers kommen sich die beiden näher. Doch der große Standesunterschied erweist sich als Hindernis für ihre Liebe.  - Summary by Wikipedia</p>",
+      "genres": [
+        {
+          "id": "53",
+          "name": "Published 1800 -1900"
+        }
+      ],
+      "id": "8848",
+      "language": "German",
+      "num_sections": "9",
+      "sections": [
+        {
+          "file_name": "irrungen_01_fontane_64kb.mp3",
+          "id": "310501",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_01_fontane_64kb.mp3",
+          "playtime": "2500",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "1",
+          "title": "Kapitel 1-3"
+        },
+        {
+          "file_name": "irrungen_02_fontane_64kb.mp3",
+          "id": "310502",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_02_fontane_64kb.mp3",
+          "playtime": "2959",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "2",
+          "title": "Kapitel 4-6"
+        },
+        {
+          "file_name": "irrungen_03_fontane_64kb.mp3",
+          "id": "310503",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_03_fontane_64kb.mp3",
+          "playtime": "2921",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "3",
+          "title": "Kapitel 7-9"
+        },
+        {
+          "file_name": "irrungen_04_fontane_64kb.mp3",
+          "id": "310504",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_04_fontane_64kb.mp3",
+          "playtime": "3199",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "4",
+          "title": "Kapitel 10-12"
+        },
+        {
+          "file_name": "irrungen_05_fontane_64kb.mp3",
+          "id": "310505",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_05_fontane_64kb.mp3",
+          "playtime": "3308",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "5",
+          "title": "Kapitel 13-14"
+        },
+        {
+          "file_name": "irrungen_06_fontane_64kb.mp3",
+          "id": "310506",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_06_fontane_64kb.mp3",
+          "playtime": "3393",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "6",
+          "title": "Kapitel 15-17"
+        },
+        {
+          "file_name": "irrungen_07_fontane_64kb.mp3",
+          "id": "310507",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_07_fontane_64kb.mp3",
+          "playtime": "3385",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "7",
+          "title": "Kapitel 18-20"
+        },
+        {
+          "file_name": "irrungen_08_fontane_64kb.mp3",
+          "id": "310508",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_08_fontane_64kb.mp3",
+          "playtime": "3136",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "8",
+          "title": "Kapitel 21-23"
+        },
+        {
+          "file_name": "irrungen_09_fontane_64kb.mp3",
+          "id": "310509",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_09_fontane_64kb.mp3",
+          "playtime": "2042",
+          "readers": [
+            {
+              "display_name": "Hans Hafen",
+              "reader_id": "4536"
+            }
+          ],
+          "section_number": "9",
+          "title": "Kapitel 24-26"
+        }
+      ],
+      "title": "Irrungen, Wirrungen",
+      "totaltime": "07:27:23",
+      "totaltimesecs": 26843,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/irrungen_wirrungen_1405_librivox",
+      "url_librivox": "https://librivox.org/irrungen-wirrungen-by-theodor-fontane/",
+      "url_other": null,
+      "url_project": "http://de.wikipedia.org/wiki/Irrungen,_Wirrungen",
+      "url_rss": "https://librivox.org/rss/8848",
+      "url_text_source": "http://www.zeno.org/nid/20004773365",
+      "url_zip_file": "http://www.archive.org/download//irrungen_wirrungen_1405_librivox/irrungen_wirrungen_1405_librivox_64kb_mp3.zip"
+    }
+  ]
+}
