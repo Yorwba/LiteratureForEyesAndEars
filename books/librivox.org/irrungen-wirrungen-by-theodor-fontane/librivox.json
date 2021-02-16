@@ -25,7 +25,6 @@
         {
           "file_name": "irrungen_01_fontane_64kb.mp3",
           "id": "310501",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_01_fontane_64kb.mp3",
           "playtime": "2500",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "irrungen_02_fontane_64kb.mp3",
           "id": "310502",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_02_fontane_64kb.mp3",
           "playtime": "2959",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "irrungen_03_fontane_64kb.mp3",
           "id": "310503",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_03_fontane_64kb.mp3",
           "playtime": "2921",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "irrungen_04_fontane_64kb.mp3",
           "id": "310504",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_04_fontane_64kb.mp3",
           "playtime": "3199",
           "readers": [
@@ -85,7 +81,6 @@
         {
           "file_name": "irrungen_05_fontane_64kb.mp3",
           "id": "310505",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_05_fontane_64kb.mp3",
           "playtime": "3308",
           "readers": [
@@ -100,7 +95,6 @@
         {
           "file_name": "irrungen_06_fontane_64kb.mp3",
           "id": "310506",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_06_fontane_64kb.mp3",
           "playtime": "3393",
           "readers": [
@@ -115,7 +109,6 @@
         {
           "file_name": "irrungen_07_fontane_64kb.mp3",
           "id": "310507",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_07_fontane_64kb.mp3",
           "playtime": "3385",
           "readers": [
@@ -130,7 +123,6 @@
         {
           "file_name": "irrungen_08_fontane_64kb.mp3",
           "id": "310508",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_08_fontane_64kb.mp3",
           "playtime": "3136",
           "readers": [
@@ -145,7 +137,6 @@
         {
           "file_name": "irrungen_09_fontane_64kb.mp3",
           "id": "310509",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/hokuspokus/irrungen_09_fontane_64kb.mp3",
           "playtime": "2042",
           "readers": [
@@ -167,7 +158,7 @@
       "url_other": null,
       "url_project": "http://de.wikipedia.org/wiki/Irrungen,_Wirrungen",
       "url_rss": "https://librivox.org/rss/8848",
-      "url_text_source": "http://www.zeno.org/nid/20004773365",
+      "url_text_source": "https://textgridrep.org/browse/n121_0",
       "url_zip_file": "http://www.archive.org/download//irrungen_wirrungen_1405_librivox/irrungen_wirrungen_1405_librivox_64kb_mp3.zip"
     }
   ]
