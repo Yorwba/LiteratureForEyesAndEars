@@ -1,0 +1,143 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1874",
+          "dod": "1926",
+          "first_name": "Krste Petkov",
+          "id": "15203",
+          "last_name": "Misirkov"
+        }
+      ],
+      "copyright_year": "1903",
+      "description": "<br>„За Македонцките работи“ е најзначајното дело напишано од еден од најголемите македонисти и национални дејци - Крсте Петков Мисирков, а печатена во 1903 година во печатницата на „Либералниот клуб“ во Софија.<br>\nСо над 120 страници, поделена на 5 дела и предговор, книгата претставва политичка анализа на положбата на македонскиот народ и предлог-програма за македонското националноослободително движење. Таа го разоткрива асимилаторските политики на соседните земји насочени против македонскиот јазичен, културен и етнички идентитет, а ја потенцира неопходноста од национална афирмација и ослободување на Македонците како посебен народ со особено значење на улогата за кодифицирање на литературен македонски јазик.\n<br><br>\n\"Za Makedonckite raboti\" is the most important work written by one of the greatest Macedonians and national figures - Krste Petkov Misirkov, and published in 1903 by the \"Liberal Club\" in Sofia.<br>\nWith over 120 pages, divided into 5 parts and a preface, the book is a political analysis of the position of the Macedonian people and a draft program for the Macedonian national liberation movement. It exposes the assimilation policies of neighboring countries directed against the Macedonian linguistic, cultural and ethnic identity, and emphasizes the need for national affirmation and liberation of Macedonians as a separate nation specially stressing the importance of the codification of the literary Macedonian language.  - Summary by AnaNaumoska and Wikipedia<br>",
+      "genres": [
+        {
+          "id": "110",
+          "name": "Writing & Linguistics"
+        }
+      ],
+      "id": "15495",
+      "language": "Macedonian",
+      "num_sections": "7",
+      "sections": [
+        {
+          "file_name": "makedonckiteraboti_00_kpm_64kb.mp3",
+          "id": "506121",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/makedonckiteraboti_00_kpm_64kb.mp3",
+          "playtime": "1276",
+          "readers": [
+            {
+              "display_name": "AnaNaumoska",
+              "reader_id": "14512"
+            }
+          ],
+          "section_number": "0",
+          "title": "Предгоор",
+          "url_text_source": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8/_%D0%9F%D1%80%D0%B5%D0%B4%D0%B3%D0%BE%D0%BE%D1%80"
+        },
+        {
+          "file_name": "makedonckiteraboti_01_kpm_64kb.mp3",
+          "id": "506122",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/makedonckiteraboti_01_kpm_64kb.mp3",
+          "playtime": "2385",
+          "readers": [
+            {
+              "display_name": "AnaNaumoska",
+              "reader_id": "14512"
+            }
+          ],
+          "section_number": "1",
+          "title": "Шчо напрајвме и шчо требит да прајме за однапред? 1/2",
+          "url_text_source": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8/_%D0%A8%D1%87%D0%BE_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B8%D1%84%D0%BC%D0%B5_%D0%B8_%D1%88%D1%87%D0%BE_%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82_%D0%B4%D0%B0_%D0%BF%D1%80%D0%B0%D0%B8%D0%BC%D0%B5_%D0%B7%D0%B0_%D0%BE%D0%B4%D0%BD%D0%B0%D0%BF%D1%80%D0%B5%D0%B4_%3F"
+        },
+        {
+          "file_name": "makedonckiteraboti_02_kpm_64kb.mp3",
+          "id": "506123",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/makedonckiteraboti_02_kpm_64kb.mp3",
+          "playtime": "3053",
+          "readers": [
+            {
+              "display_name": "AnaNaumoska",
+              "reader_id": "14512"
+            }
+          ],
+          "section_number": "2",
+          "title": "Шчо напрајвме и шчо требит да прајме за однапред? 2/2"
+        },
+        {
+          "file_name": "makedonckiteraboti_03_kpm_64kb.mp3",
+          "id": "506124",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/makedonckiteraboti_03_kpm_64kb.mp3",
+          "playtime": "2786",
+          "readers": [
+            {
+              "display_name": "AnaNaumoska",
+              "reader_id": "14512"
+            }
+          ],
+          "section_number": "3",
+          "title": "Имат ли се нужда от македонцки национални научно-литературни другарства?",
+          "url_text_source": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8/_%D0%98%D0%BC%D0%B0%D1%82_%D0%BB%D0%B8_%D1%81%D0%B5_%D0%BD%D1%83%D0%B6%D0%B4%D0%B0_%D0%BE%D1%82_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B8_%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0%3F"
+        },
+        {
+          "file_name": "makedonckiteraboti_04_kpm_64kb.mp3",
+          "id": "506125",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/makedonckiteraboti_04_kpm_64kb.mp3",
+          "playtime": "4015",
+          "readers": [
+            {
+              "display_name": "AnaNaumoska",
+              "reader_id": "14512"
+            }
+          ],
+          "section_number": "4",
+          "title": "Националниот сепаратизам: зејмишчето на које се имат развиено и ќе се развијат за однапред",
+          "url_text_source": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8/_%D0%9Da%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8i%D0%BE%D1%82_%D1%81%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%B8%D0%B7%D0%BC:_%D0%B7%D0%B5%D0%BCi%D1%88%D1%87%D0%B5%D1%82%D0%BE_%D0%BD%D0%B0_%D0%BA%D0%BEi%D0%B5_%D1%81%D0%B5_%D0%B8%D0%BC%D0%B0%D1%82_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8i%D0%B5%D0%BD%D0%BE_%D0%B8_%D0%BA%D0%B5_%D1%81%D0%B5_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8i%D0%B0%D1%82_%D0%B7%D0%B0_%D0%BE%D0%B4%D0%BD%D0%B0%D0%BF%D1%80%D0%B5%D0%B4."
+        },
+        {
+          "file_name": "makedonckiteraboti_05_kpm_64kb.mp3",
+          "id": "506126",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/makedonckiteraboti_05_kpm_64kb.mp3",
+          "playtime": "3755",
+          "readers": [
+            {
+              "display_name": "AnaNaumoska",
+              "reader_id": "14512"
+            }
+          ],
+          "section_number": "5",
+          "title": "Состауала, состауат и можит ли Македонија да состауат от себе одделна етнографцка и политична јединица?",
+          "url_text_source": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8/_%D0%A1%D0%BE%D1%81%D1%82%D0%B0%D1%83%D0%B0%D0%BB%D0%B0,_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D1%83%D0%B0%D1%82_%D0%B8_%D0%BC%D0%BE%D0%B6%D0%B8%D1%82_%D0%BB%D0%B8_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%96%D0%B0_%D0%B4%D0%B0_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D1%83%D0%B0%D1%82_%D0%BE%D1%82_%D1%81%D0%B5%D0%B1%D0%B5_%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%27%D0%BD%D0%B0_%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%86%D0%BA%D0%B0_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%96%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%3F"
+        },
+        {
+          "file_name": "makedonckiteraboti_06_kpm_64kb.mp3",
+          "id": "509764",
+          "listen_url": "https://librivox.org/uploads/rapunzelina/makedonckiteraboti_06_kpm_64kb.mp3",
+          "playtime": "1645",
+          "readers": [
+            {
+              "display_name": "AnaNaumoska",
+              "reader_id": "14512"
+            }
+          ],
+          "section_number": "6",
+          "title": "Неколку зборои за македонцкиот литературен јазик",
+          "url_text_source": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8/_%D0%9D%D0%B5%D0%BA%D0%BE%D0%BB%D0%BA%D1%83_%D0%B7%D0%B1%D0%BE%D1%80%D0%BE%D0%B8_%D0%B7%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8i%D0%BE%D1%82_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B5%D0%BD_i%D0%B0%D0%B7%D0%B8%D0%BA"
+        }
+      ],
+      "title": "За македонцките работи",
+      "totaltime": "05:15:15",
+      "totaltimesecs": 18915,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/zamakedonckiteraboti_2009_librivox",
+      "url_librivox": "https://librivox.org/za-makedonckite-raboti-by-krste-petkov-misirkov/",
+      "url_other": null,
+      "url_project": "https://en.wikipedia.org/wiki/On_Macedonian_Matters",
+      "url_rss": "https://librivox.org/rss/15495",
+      "url_text_source": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8",
+      "url_zip_file": "http://www.archive.org/download//zamakedonckiteraboti_2009_librivox/zamakedonckiteraboti_2009_librivox_64kb_mp3.zip"
+    }
+  ]
+}
