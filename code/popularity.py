@@ -54,10 +54,10 @@ def add_playtime_to_dicts(dicts, playtime):
 
 
 def bottom_line(stats):
-    print('Languages watched by watched ratio, with number of likes + subscribes:')
+    print('Languages watched by watched ratio, with watch time, available time, number of likes and subscribes:')
     langs = [l for l, t in stats['Watch time (hours)'].items()]
     for l in sorted(langs, key=lambda l: -stats['Watch ratio'][l]):
-        print(l, f"{stats['Watch ratio'][l]:.02}", int(stats['Likes'][l]), int(stats['Subscribers'][l]))
+        print(l, f"{stats['Watch ratio'][l]:.02}", f"{stats['Watch time (hours)'][l]:.02}", f"{stats['Available time (hours)'][l]:.02}", int(stats['Likes'][l]), int(stats['Subscribers'][l]))
     print()
 
 
