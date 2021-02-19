@@ -130,7 +130,7 @@ def wikisource_plain_text(url):
         raise Exception("Not a Wikisource URL: "+url)
     query = urllib.parse.urlencode({
         'lang': split_url.netloc.split('.')[0],
-        'page': '/'.join(split_url.path.split('/')[2:]),
+        'page': urllib.parse.unquote('/'.join(split_url.path.split('/')[2:])),
         'format': 'txt',
         'fonts': '',
     })
@@ -248,7 +248,7 @@ def chitanka_plain_text(url):
 
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
-        source = urllib.parse.unquote(book['url_text_source'])
+        source = book['url_text_source']
         handled = False
         for handler in (
                 gutenberg_plain_text,
