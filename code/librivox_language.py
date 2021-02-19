@@ -28,6 +28,7 @@ language_codes = {
     'Korean': 'kor',
     'Latin': 'lat',
     'Latvian': 'lav',
+    'Macedonian': 'mkd',
     'Middle English': 'eng', # Should actually be 'enm'
     'Norwegian': 'nob', # assume Bokmal
     'Polish': 'pol',
