@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1881",
+          "dod": "1936",
+          "first_name": "Xun",
+          "id": "2654",
+          "last_name": "Lu"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "Wandering or Pang Huang was Lu Xun's second collection of stories. It was published near the end of 1925 and included 11 stories written between 1924 and 1925. (Note: The Librivox reading is based on the Gutenberg version which includes only 8 stories, omitting “A Happy Family”, “Soap” and “Brothers”.) The title Lu Xun gave to the collection is Pang Huang, translated as Wandering, but literally means unsettled, agitated or restless. Lu Xun employed points of view in his stories in a way that was novel at the time for Chinese literature, helping readers consider new possibilities about the true nature of the reality around them. Some stories look at the problem of how members of the intellectual class are to live their lives, e.g. In the Tavern, Regret for the Past, whereas others are commentary on traditional customs and institutions, the specific dysfunctions of particular customs and institutions, and also at the general result in which people are discarded, e.g. The New Year Sacrifice and A Public Example.<br><br>《徬徨》是近代文學家魯迅創作的小說集，本版收集了《祝福》、《在酒樓上》、《傷逝》等8篇小說。作品表達了作者徹底的不妥協地反對封建主義的精神，是中國革命思想的鏡子。作品主要包括知識分子和農民兩類題材，前者以《在酒樓上》和《傷逝》為代表，後者以《祝福》和《示眾》為代表。整部小說集貫穿著對生活在封建勢力重壓下的農民及知識分子“哀其不幸，怒其不爭”的關懷，該小說集在深廣的歷史圖景中，對人物命運的敘述滲透著深濃的感情。",
+      "genres": [
+        {
+          "id": "6",
+          "name": "Culture & Heritage Fiction"
+        }
+      ],
+      "id": "14135",
+      "language": "Chinese",
+      "num_sections": "8",
+      "sections": [
+        {
+          "file_name": "panghuang_01_lu_64kb.mp3",
+          "id": "466885",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_01_lu_64kb.mp3",
+          "playtime": "2233",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "1",
+          "title": "祝福 - The New Year Sacrifice"
+        },
+        {
+          "file_name": "panghuang_02_lu_64kb.mp3",
+          "id": "466886",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_02_lu_64kb.mp3",
+          "playtime": "2840",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "2",
+          "title": "傷逝 - Regret for the Past"
+        },
+        {
+          "file_name": "panghuang_03_lu_64kb.mp3",
+          "id": "466887",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_03_lu_64kb.mp3",
+          "playtime": "1562",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "3",
+          "title": "在酒樓上 - In the Tavern"
+        },
+        {
+          "file_name": "panghuang_04_lu_64kb.mp3",
+          "id": "466888",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_04_lu_64kb.mp3",
+          "playtime": "3172",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "4",
+          "title": "孤獨者 - The Misanthrope"
+        },
+        {
+          "file_name": "panghuang_05_lu_64kb.mp3",
+          "id": "466889",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_05_lu_64kb.mp3",
+          "playtime": "753",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "5",
+          "title": "示眾 - A Public Example"
+        },
+        {
+          "file_name": "panghuang_06_lu_64kb.mp3",
+          "id": "466890",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_06_lu_64kb.mp3",
+          "playtime": "1266",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "6",
+          "title": "高老夫子 - Master Gao"
+        },
+        {
+          "file_name": "panghuang_07_lu_64kb.mp3",
+          "id": "466891",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_07_lu_64kb.mp3",
+          "playtime": "1277",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "7",
+          "title": "離婚 - Divorce"
+        },
+        {
+          "file_name": "panghuang_08_lu_64kb.mp3",
+          "id": "466892",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_08_lu_64kb.mp3",
+          "playtime": "1301",
+          "readers": [
+            {
+              "display_name": "Tina Ding",
+              "reader_id": "13339"
+            }
+          ],
+          "section_number": "8",
+          "title": "長明燈 - The Lamp That Was Kept Alight"
+        }
+      ],
+      "title": "徬徨 (Wandering or Pang Huang)",
+      "totaltime": "04:00:04",
+      "totaltimesecs": 14404,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/panghuang_1910_librivox",
+      "url_librivox": "https://librivox.org/wandering-by-xun-lu/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/14135",
+      "url_text_source": "http://www.gutenberg.org/ebooks/24042",
+      "url_zip_file": "http://www.archive.org/download//panghuang_1910_librivox/panghuang_1910_librivox_64kb_mp3.zip"
+    }
+  ]
+}
