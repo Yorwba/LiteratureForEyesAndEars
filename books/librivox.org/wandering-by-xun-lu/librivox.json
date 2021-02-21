@@ -5,9 +5,9 @@
         {
           "dob": "1881",
           "dod": "1936",
-          "first_name": "Xun",
+          "first_name": "",
           "id": "2654",
-          "last_name": "Lu"
+          "last_name": "魯迅"
         }
       ],
       "copyright_year": "0",
@@ -25,7 +25,6 @@
         {
           "file_name": "panghuang_01_lu_64kb.mp3",
           "id": "466885",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_01_lu_64kb.mp3",
           "playtime": "2233",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "panghuang_02_lu_64kb.mp3",
           "id": "466886",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_02_lu_64kb.mp3",
           "playtime": "2840",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "panghuang_03_lu_64kb.mp3",
           "id": "466887",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_03_lu_64kb.mp3",
           "playtime": "1562",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "panghuang_04_lu_64kb.mp3",
           "id": "466888",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_04_lu_64kb.mp3",
           "playtime": "3172",
           "readers": [
@@ -85,7 +81,6 @@
         {
           "file_name": "panghuang_05_lu_64kb.mp3",
           "id": "466889",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_05_lu_64kb.mp3",
           "playtime": "753",
           "readers": [
@@ -100,7 +95,6 @@
         {
           "file_name": "panghuang_06_lu_64kb.mp3",
           "id": "466890",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_06_lu_64kb.mp3",
           "playtime": "1266",
           "readers": [
@@ -115,7 +109,6 @@
         {
           "file_name": "panghuang_07_lu_64kb.mp3",
           "id": "466891",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_07_lu_64kb.mp3",
           "playtime": "1277",
           "readers": [
@@ -130,7 +123,6 @@
         {
           "file_name": "panghuang_08_lu_64kb.mp3",
           "id": "466892",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/panghuang_08_lu_64kb.mp3",
           "playtime": "1301",
           "readers": [
