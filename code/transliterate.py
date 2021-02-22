@@ -30,31 +30,38 @@ class TransNode(object):
             target = lambda c: True
         if not break_tie:
             break_tie = break_tie_manually
-        states = {(self, '')}
+        states = {(self, '')} # invariant: self is always in states
         for i, c in enumerate(read):
             if not target(c):
                 states = {
-                    (node, out+c)
+                    (self, out+c)
                     for (node, out) in states
                     if node == self
                 }
             else:
-                states = {
+                new_states = {
                     (node.reads[c], out)
                     for (node, out) in states
                     if c in node.reads
                 }
-                states = states | {
+                if not new_states:
+                    expected = ''.join(sorted({
+                        r
+                        for (node, out) in states
+                        for r in node.reads
+                    }))
+                    if len(expected) > 20:
+                        expected = expected[:5] + f" ({len(expected)} total)"
+                    try:
+                        name = unicodedata.name(c)
+                    except:
+                        name = hex(ord(c))
+                    raise Exception(f"Could not transliterate '{c}' ({name}) after '{read[:i][-5:]}', expected {expected}")
+                states = new_states | {
                     (self, out+write)
-                    for (node, out) in states
+                    for (node, out) in new_states
                     for write in node.writes
                 }
-            if not states:
-                try:
-                    name = unicodedata.name(c)
-                except:
-                    name = hex(ord(c))
-                raise Exception(f"Could not transliterate '{c}' ({name})")
             min_len = min(len(out) for (node, out) in states)
             prefixes = {out[:min_len] for (node, out) in states}
             if len(prefixes) > 1:
