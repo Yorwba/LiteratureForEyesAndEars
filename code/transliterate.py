@@ -25,9 +25,11 @@ class TransNode(object):
             curr = curr.reads[c]
         curr.writes.add(write)
 
-    def transduce(self, read, target=None):
+    def transduce(self, read, target=None, break_tie=None):
         if not target:
             target = lambda c: True
+        if not break_tie:
+            break_tie = break_tie_manually
         states = {(self, '')}
         for i, c in enumerate(read):
             if not target(c):
@@ -90,12 +92,20 @@ class TransNode(object):
             return next(iter(final_outputs))
 
 
-def break_tie(candidates, future):
+def break_tie_manually(candidates, future):
     candidates = list(candidates)
     max_len = min(10, min(map(len, candidates)))
     for i, candidate in enumerate(candidates):
-        print(i, candidate[-max_len:], future[:10])
-    return candidates[int(input('> '))]
+        print(i, candidate[-max_len:].split('\n')[-1], future[:10].split('\n')[0])
+    while True:
+        choice = input('> ')
+        if choice == 'exit':
+            sys.exit(1)
+        try:
+            return candidates[int(choice)]
+        except:
+            print('Not a valid choice: ', choice)
+            pass
 
 
 def longest_common_prefix(strings):
@@ -139,7 +149,11 @@ def main(argv):
     with open(args.input) as f:
         read = f.read()
 
-    write = dictionary.transduce(read, target=target_functions.get(args.target))
+    target = target_functions.get(args.target)
+    # do a test run first
+    dictionary.transduce(read, target=target, break_tie=lambda candidates, _: candidates[0])
+    # repeat with manual control
+    write = dictionary.transduce(read, target=target)
 
     with open(args.output, 'w') as f:
         f.write(write)
