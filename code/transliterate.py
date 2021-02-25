@@ -143,6 +143,17 @@ target_functions = {
 }
 
 
+def transliterate(read, target):
+    with open(dictionaries[target]) as f:
+        dictionary = load_dictionary(f)
+
+    target = target_functions.get(target)
+    # do a test run first
+    dictionary.transduce(read, target=target, break_tie=lambda candidates, _: candidates[0])
+    # repeat with manual control
+    return dictionary.transduce(read, target=target)
+
+
 def main(argv):
     parser = argparse.ArgumentParser(
         description='Transliteration tool')
@@ -150,17 +161,11 @@ def main(argv):
     parser.add_argument('input')
     parser.add_argument('output')
     args = parser.parse_args(argv[1:])
-    with open(dictionaries[args.target]) as f:
-        dictionary = load_dictionary(f)
 
     with open(args.input) as f:
         read = f.read()
 
-    target = target_functions.get(args.target)
-    # do a test run first
-    dictionary.transduce(read, target=target, break_tie=lambda candidates, _: candidates[0])
-    # repeat with manual control
-    write = dictionary.transduce(read, target=target)
+    write = transliterate(read, args.target)
 
     with open(args.output, 'w') as f:
         f.write(write)
