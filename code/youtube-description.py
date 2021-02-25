@@ -4,6 +4,7 @@ from html_to_plain import html_to_plain_text
 from librivox_json import get_books
 import re
 import sys
+from transliterate import transliterate
 
 
 PAREN = re.compile(r'(.*)\([^)]*\)')
@@ -32,15 +33,18 @@ def by_people(people):
 def title(book):
     title = deparen(book['title'])
     by_authors = by_people(book['authors'])
-    language = book['language']
+    language = book['language_name']
     return f'{title}{by_authors} | {language} audiobook | Literature for Eyes and Ears'
 
 
 def intro(book):
     title = deparen(book['title'])
     by_authors = by_people(book['authors'])
-    language = book['language']
-    return f'Practice and perfect your {language} spelling and pronunciation with this ' \
+    if book['script_name'] == book['speech_name']:
+        skills = f'{book["language"]} spelling and pronuciation'
+    else:
+        skills = f'{book["script_name"]} spelling and {book["speech_name"]} pronunciation'
+    return f'Practice and perfect your {skills} with this ' \
         f'audiobook of {title}{by_authors}. Read and listen at the same time. ' \
         f'Use the translated captions if you need help with difficult vocabulary. ' \
         f"But don't rely on them too much."
@@ -128,18 +132,38 @@ def donations(book):
 
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
-        print(title(book))
-        print()
-        print()
-        print(intro(book))
-        print()
-        print(description(book))
-        print(hashtags(book))
-        print()
-        print(sections(book))
-        print()
-        print(links(book))
-        print()
-        print(readers(book))
-        print()
-        print(donations(book))
+        transliterate_to = None
+        if book['language'] == 'Chinese':
+            if 'cmn-Hans' in sys.argv[1]:
+                transliterate_to = 'cmn-Hans'
+                book['language_name'] = 'Simplified Mandarin Chinese'
+                book['script_name'] = 'Simplified Chinese'
+            else:
+                book['language_name'] = 'Traditional Mandarin Chinese'
+                book['script_name'] = 'Traditional Chinese'
+            book['speech_name'] = 'Mandarin'
+        else:
+            book['language_name'] = book['script_name'] = book['speech_name'] = book['language']
+
+        text = '\n'.join((
+            title(book),
+            '',
+            '',
+            intro(book),
+            '',
+            description(book),
+            hashtags(book),
+            '',
+            sections(book),
+            '',
+            links(book),
+            '',
+            readers(book),
+            '',
+            donations(book),
+        ))
+
+        if transliterate_to is not None:
+            text = transliterate(text, transliterate_to)
+
+        print(text)
