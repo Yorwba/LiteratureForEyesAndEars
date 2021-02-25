@@ -1,0 +1,448 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1853",
+          "dod": "1903",
+          "first_name": "Marian",
+          "id": "14105",
+          "last_name": "Vayreda"
+        }
+      ],
+      "copyright_year": "1904",
+      "description": "La novel·la narra l'enfrontament entre dos joves a l'Alta Garrotxa catalana de mitjans del segle XIX. El conflicte arrossega tota la comarca en un enfrontament civil dins la complicada i abrupta geografia pirinenca. L'Ibo, un personatge maliciós i violent, s'uneix a una partida de bandits itinerants, trabucaires romanents de les guerres carlines. L'Ibo acaba liderant el grup i segresta la Coralí, promesa de l'Albert, que és un modest hereu rural de caràcter més aviat moix i que era antic amic de malifetes de joventut. L'Albert i els seu companys s'alien amb el cap dels mossos d'esquadra per endegar una guerrilla sagnant en persecució del bandoler. A mesura que el conflicte s'allarga per la dificultat del terreny, que permet als trabucaires d'amagar-se o maniobrar per múltiples valls, cingles, boscos i masos remots, l'Albert ens explica el procés que el porta de l'abatiment a la desesperació i a la demència, incapaç de trobar un agafall entre una societat que és tan feréstega i ferotge com el paisatge i els animals que l'envolten. La història l'explica el mateix Albert en primera persona, en forma d'unes memòries que hauria compartit amb l'autor de la novel·la poc abans de morir. <br><br> \n\nThe novel narrates the confrontation between two young men in the Catalan Alta Garrotxa region during the mid-nineteenth century. The conflict drags the whole region into civil strife on the abrupt and bewildering Pyrenean geography. Ibo, a malicious and violent character, joins a pack of marauding bandits, trabucaires from the Carlist wars. Ibo ends up leading the group and kidnaps Coralí, the fiancée of Albert, a modest rural heir of a rather meek character who also was an old accomplice of misdeeds in their youth. Albert and his teammates ally themselves with the local police squadron to start a bloody guerrilla war in the pursuit of the bandits. As the conflict drags on due to the difficulty of the terrain, which allows trabucaires to hide themselves or maneuver through multiple valleys, cliffs, forests and remote farms, Albert tells us his own debasement from despondency to despair and into dementia, as he is unable to find a foothold amidst a society that is as wild and ferocious as the landscape and the animals that surround him. The story is narrated by Albert himself in the first person, in the form of memoirs that he would have shared with the author of the novel shortly before his own death. - Summary by Joan Pujolar",
+      "genres": [
+        {
+          "id": "3",
+          "name": "Action & Adventure Fiction"
+        },
+        {
+          "id": "6",
+          "name": "Culture & Heritage Fiction"
+        }
+      ],
+      "id": "14063",
+      "language": "Catalan",
+      "num_sections": "27",
+      "sections": [
+        {
+          "file_name": "la_punyalada_00_vayreda_64kb.mp3",
+          "id": "464877",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_00_vayreda_64kb.mp3",
+          "playtime": "1342",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "0",
+          "title": "Pròlech"
+        },
+        {
+          "file_name": "la_punyalada_01_vayreda_64kb.mp3",
+          "id": "464878",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_01_vayreda_64kb.mp3",
+          "playtime": "1343",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "1",
+          "title": "Capítol I"
+        },
+        {
+          "file_name": "la_punyalada_02_vayreda_64kb.mp3",
+          "id": "464879",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_02_vayreda_64kb.mp3",
+          "playtime": "1245",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "2",
+          "title": "Capítol II"
+        },
+        {
+          "file_name": "la_punyalada_03_vayreda_64kb.mp3",
+          "id": "464880",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_03_vayreda_64kb.mp3",
+          "playtime": "679",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "3",
+          "title": "Capítol III"
+        },
+        {
+          "file_name": "la_punyalada_04_vayreda_64kb.mp3",
+          "id": "464881",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_04_vayreda_64kb.mp3",
+          "playtime": "925",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "4",
+          "title": "Capítol IV"
+        },
+        {
+          "file_name": "la_punyalada_05_vayreda_64kb.mp3",
+          "id": "464882",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_05_vayreda_64kb.mp3",
+          "playtime": "757",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "5",
+          "title": "Capítol V"
+        },
+        {
+          "file_name": "la_punyalada_06_vayreda_64kb.mp3",
+          "id": "464883",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_06_vayreda_64kb.mp3",
+          "playtime": "681",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "6",
+          "title": "Capítol VI"
+        },
+        {
+          "file_name": "la_punyalada_07_vayreda_64kb.mp3",
+          "id": "464884",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_07_vayreda_64kb.mp3",
+          "playtime": "592",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "7",
+          "title": "Capítol VII"
+        },
+        {
+          "file_name": "la_punyalada_08_vayreda_64kb.mp3",
+          "id": "464885",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_08_vayreda_64kb.mp3",
+          "playtime": "992",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "8",
+          "title": "Capítol VIII"
+        },
+        {
+          "file_name": "la_punyalada_09_vayreda_64kb.mp3",
+          "id": "464886",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_09_vayreda_64kb.mp3",
+          "playtime": "521",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "9",
+          "title": "Capítol IX"
+        },
+        {
+          "file_name": "la_punyalada_10_vayreda_64kb.mp3",
+          "id": "464888",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_11_vayreda_64kb.mp3",
+          "playtime": "984",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "10",
+          "title": "Capítol XI"
+        },
+        {
+          "file_name": "la_punyalada_11_vayreda_64kb.mp3",
+          "id": "464887",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_10_vayreda_64kb.mp3",
+          "playtime": "1012",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "11",
+          "title": "Capítol X"
+        },
+        {
+          "file_name": "la_punyalada_12_vayreda_64kb.mp3",
+          "id": "464889",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_12_vayreda_64kb.mp3",
+          "playtime": "689",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "12",
+          "title": "Capítol XII"
+        },
+        {
+          "file_name": "la_punyalada_13_vayreda_64kb.mp3",
+          "id": "464890",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_13_vayreda_64kb.mp3",
+          "playtime": "1199",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "13",
+          "title": "Capítol XIII"
+        },
+        {
+          "file_name": "la_punyalada_14_vayreda_64kb.mp3",
+          "id": "464891",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_14_vayreda_64kb.mp3",
+          "playtime": "569",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "14",
+          "title": "Capítol XIV"
+        },
+        {
+          "file_name": "la_punyalada_15_vayreda_64kb.mp3",
+          "id": "464893",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_16_vayreda_64kb.mp3",
+          "playtime": "915",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "15",
+          "title": "Capítol XVI"
+        },
+        {
+          "file_name": "la_punyalada_16_vayreda_64kb.mp3",
+          "id": "464892",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_15_vayreda_64kb.mp3",
+          "playtime": "884",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "16",
+          "title": "Capítol XV"
+        },
+        {
+          "file_name": "la_punyalada_17_vayreda_64kb.mp3",
+          "id": "464896",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_17_vayreda_64kb.mp3",
+          "playtime": "720",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "17",
+          "title": "Capítol XVII"
+        },
+        {
+          "file_name": "la_punyalada_18_vayreda_64kb.mp3",
+          "id": "464894",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_18_vayreda_64kb.mp3",
+          "playtime": "703",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "18",
+          "title": "Capítol XVIII"
+        },
+        {
+          "file_name": "la_punyalada_19_vayreda_64kb.mp3",
+          "id": "464895",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_19_vayreda_64kb.mp3",
+          "playtime": "891",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "19",
+          "title": "Capítol XIX"
+        },
+        {
+          "file_name": "la_punyalada_20_vayreda_64kb.mp3",
+          "id": "464897",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_20_vayreda_64kb.mp3",
+          "playtime": "1090",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "20",
+          "title": "Capítol XX"
+        },
+        {
+          "file_name": "la_punyalada_21_vayreda_64kb.mp3",
+          "id": "464899",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_22_vayreda_64kb.mp3",
+          "playtime": "1361",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "21",
+          "title": "Capítol XXII"
+        },
+        {
+          "file_name": "la_punyalada_22_vayreda_64kb.mp3",
+          "id": "464898",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_21_vayreda_64kb.mp3",
+          "playtime": "1269",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "22",
+          "title": "Capítol XXI"
+        },
+        {
+          "file_name": "la_punyalada_23_vayreda_64kb.mp3",
+          "id": "464900",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_23_vayreda_64kb.mp3",
+          "playtime": "544",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "23",
+          "title": "Capítol XXIII"
+        },
+        {
+          "file_name": "la_punyalada_24_vayreda_64kb.mp3",
+          "id": "464901",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_24_vayreda_64kb.mp3",
+          "playtime": "1015",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "24",
+          "title": "Capítol XXIV"
+        },
+        {
+          "file_name": "la_punyalada_25_vayreda_64kb.mp3",
+          "id": "464902",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_25_vayreda_64kb.mp3",
+          "playtime": "1083",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "25",
+          "title": "Capítol XXV"
+        },
+        {
+          "file_name": "la_punyalada_26_vayreda_64kb.mp3",
+          "id": "464903",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/leni/lapunyalada_26_vayreda_64kb.mp3",
+          "playtime": "1195",
+          "readers": [
+            {
+              "display_name": "jpujolar",
+              "reader_id": "13360"
+            }
+          ],
+          "section_number": "26",
+          "title": "Prefaci"
+        }
+      ],
+      "title": "Punyalada. Novela Montanyenca",
+      "totaltime": "07:00:00",
+      "totaltimesecs": 25200,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/la_punyalada_1908_librivox",
+      "url_librivox": "https://librivox.org/la-punyalada-novela-montanyenca-by-marian-vayreda/",
+      "url_other": null,
+      "url_project": "https://es.wikipedia.org/wiki/La_puñalada_(novela)",
+      "url_rss": "https://librivox.org/rss/14063",
+      "url_text_source": "http://www.cervantesvirtual.com/obra-visor/la-punyalada-novela-montanyenca--0/html/ ",
+      "url_zip_file": "http://www.archive.org/download//la_punyalada_1908_librivox/la_punyalada_1908_librivox_64kb_mp3.zip"
+    }
+  ]
+}
