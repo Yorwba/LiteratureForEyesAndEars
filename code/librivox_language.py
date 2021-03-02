@@ -11,6 +11,7 @@ language_codes = {
     'Ancient Greek': 'grc',
     'Bulgarian': 'bul',
     'Cantonese Chinese': 'yue',
+    'Catalan': 'cat',
     'Chinese': 'cmn', # assume Mandarin
     'Czech': 'ces',
     'Danish': 'dan',
