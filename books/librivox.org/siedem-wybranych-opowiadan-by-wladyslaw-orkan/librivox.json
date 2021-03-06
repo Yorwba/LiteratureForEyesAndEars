@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1875",
+          "dod": "1930",
+          "first_name": "Władysław",
+          "id": "2754",
+          "last_name": "Orkan"
+        }
+      ],
+      "copyright_year": "1921",
+      "description": "\"Ukochałem lud biedny ponad miarę,<br />Bom się jego pieśnią wykołysał.<br />Ukochałem zwyczaje i gwarę,<br />którem jako dziecko z piersi matki wyssał.\"<br />- fragment wiersza \"Przygrywka\" Władysława Orkana (1875-1930).<p>Julian Krzyżanowski nazwał go \"pieśniarzem krainy kęp i wiecznej nędzy\". Rzeczywiście, całe życie Orkana, tak jego pisarstwo jak działalność społeczna, poświęcona jest biednym, prostym ludziom z rodzinnej ziemi gorczańskiej.<br />Ale nawet w tej \"wiecznej nędzy\" potrafił Orkan znaleźć uśmiech. Ta kolekcja wybranych opowiadań przedstawia Orkana humorystę. Od obrazka Włoch, widzianych oczami prostego górala, Jędrka (Jak Jędrek śklarz po Włochach jeździł), do rozmowy dwóch przyjaciółek od serca - Błażkowej i jej krowy łysiny (Błażkowa łysina) każdy znajdzie w tej kolekcji coś dla siebie. (Summary by Nina Brown)</p>",
+      "genres": [
+        {
+          "id": "76",
+          "name": "Single Author Collections"
+        }
+      ],
+      "id": "6288",
+      "language": "Polish",
+      "num_sections": "8",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "87429",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2233",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "1",
+          "title": "Jak Jędrek Śklarz po Włochach jeździł - 1"
+        },
+        {
+          "file_name": null,
+          "id": "87430",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2008",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "2",
+          "title": "Jak Jędrek Śklarz po Włochach jeździł - 2"
+        },
+        {
+          "file_name": null,
+          "id": "87431",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1247",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "3",
+          "title": "Herkules nowożytny"
+        },
+        {
+          "file_name": null,
+          "id": "87432",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "958",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "4",
+          "title": "O Wojtku, którego na Szczepana przekręcili"
+        },
+        {
+          "file_name": null,
+          "id": "87433",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1008",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "5",
+          "title": "Niedowiarek"
+        },
+        {
+          "file_name": null,
+          "id": "87434",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "722",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "6",
+          "title": "Kościelny"
+        },
+        {
+          "file_name": null,
+          "id": "87435",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2242",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "7",
+          "title": "Napoleon"
+        },
+        {
+          "file_name": null,
+          "id": "87436",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "733",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "8",
+          "title": "Błażkowa Łysina"
+        }
+      ],
+      "title": "Siedem wybranych opowiadań",
+      "totaltime": "3:05:51",
+      "totaltimesecs": 11151,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/siedem_wybranych_1202_librivox",
+      "url_librivox": "https://librivox.org/siedem-wybranych-opowiadan-by-wladyslaw-orkan/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/6288",
+      "url_text_source": "http://pl.wikisource.org/wiki/Autor:Władysław_Orkan",
+      "url_zip_file": "http://www.archive.org/download/siedem_wybranych_1202_librivox/siedem_wybranych_1202_librivox_64kb_mp3.zip"
+    }
+  ]
+}
