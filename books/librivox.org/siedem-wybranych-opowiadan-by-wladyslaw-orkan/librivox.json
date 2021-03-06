@@ -13,19 +13,14 @@
       "copyright_year": "1921",
       "description": "\"Ukochałem lud biedny ponad miarę,<br />Bom się jego pieśnią wykołysał.<br />Ukochałem zwyczaje i gwarę,<br />którem jako dziecko z piersi matki wyssał.\"<br />- fragment wiersza \"Przygrywka\" Władysława Orkana (1875-1930).<p>Julian Krzyżanowski nazwał go \"pieśniarzem krainy kęp i wiecznej nędzy\". Rzeczywiście, całe życie Orkana, tak jego pisarstwo jak działalność społeczna, poświęcona jest biednym, prostym ludziom z rodzinnej ziemi gorczańskiej.<br />Ale nawet w tej \"wiecznej nędzy\" potrafił Orkan znaleźć uśmiech. Ta kolekcja wybranych opowiadań przedstawia Orkana humorystę. Od obrazka Włoch, widzianych oczami prostego górala, Jędrka (Jak Jędrek śklarz po Włochach jeździł), do rozmowy dwóch przyjaciółek od serca - Błażkowej i jej krowy łysiny (Błażkowa łysina) każdy znajdzie w tej kolekcji coś dla siebie. (Summary by Nina Brown)</p>",
       "genres": [
-        {
-          "id": "76",
-          "name": "Single Author Collections"
-        }
       ],
       "id": "6288",
       "language": "Polish",
       "num_sections": "8",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_1a_orkan_64kb.mp3",
           "id": "87429",
-          "language": "English",
           "listen_url": "",
           "playtime": "2233",
           "readers": [
@@ -35,12 +30,12 @@
             }
           ],
           "section_number": "1",
-          "title": "Jak Jędrek Śklarz po Włochach jeździł - 1"
+          "title": "Jak Jędrek Śklarz po Włochach jeździł - 1",
+          "url_text_source": "https://pl.wikisource.org/wiki/Jak_J%C4%99drek_%C5%9Aklarz_po_W%C5%82ochach_je%C5%BAdzi%C5%82"
         },
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_1b_orkan_64kb.mp3",
           "id": "87430",
-          "language": "English",
           "listen_url": "",
           "playtime": "2008",
           "readers": [
@@ -53,9 +48,8 @@
           "title": "Jak Jędrek Śklarz po Włochach jeździł - 2"
         },
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_3_orkan_64kb.mp3",
           "id": "87431",
-          "language": "English",
           "listen_url": "",
           "playtime": "1247",
           "readers": [
@@ -65,12 +59,13 @@
             }
           ],
           "section_number": "3",
-          "title": "Herkules nowożytny"
+          "title": "Herkules nowożytny",
+          "url_text_source": "https://pl.wikisource.org/wiki/Herkules_nowo%C5%BCytny"
+
         },
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_4_orkan_64kb.mp3",
           "id": "87432",
-          "language": "English",
           "listen_url": "",
           "playtime": "958",
           "readers": [
@@ -80,12 +75,13 @@
             }
           ],
           "section_number": "4",
-          "title": "O Wojtku, którego na Szczepana przekręcili"
+          "title": "O Wojtku, którego na Szczepana przekręcili",
+          "url_text_source": "https://pl.wikisource.org/wiki/O_Wojtku,_kt%C3%B3rego_na_Szczepana_przekr%C4%99cili_(Orkan,_1926)"
+
         },
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_5_orkan_64kb.mp3",
           "id": "87433",
-          "language": "English",
           "listen_url": "",
           "playtime": "1008",
           "readers": [
@@ -95,12 +91,13 @@
             }
           ],
           "section_number": "5",
-          "title": "Niedowiarek"
+          "title": "Niedowiarek",
+          "url_text_source": "https://pl.wikisource.org/wiki/Niedowiarek_(Orkan,_1927)"
+
         },
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_6_orkan_64kb.mp3",
           "id": "87434",
-          "language": "English",
           "listen_url": "",
           "playtime": "722",
           "readers": [
@@ -110,12 +107,13 @@
             }
           ],
           "section_number": "6",
-          "title": "Kościelny"
+          "title": "Kościelny",
+          "url_text_source": "https://pl.wikisource.org/wiki/Ko%C5%9Bcielny"
+
         },
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_7_orkan_64kb.mp3",
           "id": "87435",
-          "language": "English",
           "listen_url": "",
           "playtime": "2242",
           "readers": [
@@ -125,12 +123,13 @@
             }
           ],
           "section_number": "7",
-          "title": "Napoleon"
+          "title": "Napoleon",
+          "url_text_source": "https://pl.wikisource.org/wiki/Napoleon_(Orkan,_1933)"
+
         },
         {
-          "file_name": null,
+          "file_name": "siedemwybranychopowiadan_8_orkan_64kb.mp3",
           "id": "87436",
-          "language": "English",
           "listen_url": "",
           "playtime": "733",
           "readers": [
@@ -140,20 +139,22 @@
             }
           ],
           "section_number": "8",
-          "title": "Błażkowa Łysina"
+          "title": "Błażkowa Łysina",
+          "url_text_source": "https://pl.wikisource.org/wiki/B%C5%82a%C5%BCkowa_%C5%81ysina_(Orkan,_1926)"
+
         }
       ],
       "title": "Siedem wybranych opowiadań",
       "totaltime": "3:05:51",
       "totaltimesecs": 11151,
       "translators": [],
-      "url_iarchive": "http://www.archive.org/details/siedem_wybranych_1202_librivox",
+      "url_iarchive": "https://www.archive.org/details/siedem_wybranych_1202_librivox",
       "url_librivox": "https://librivox.org/siedem-wybranych-opowiadan-by-wladyslaw-orkan/",
       "url_other": null,
       "url_project": "",
       "url_rss": "https://librivox.org/rss/6288",
-      "url_text_source": "http://pl.wikisource.org/wiki/Autor:Władysław_Orkan",
-      "url_zip_file": "http://www.archive.org/download/siedem_wybranych_1202_librivox/siedem_wybranych_1202_librivox_64kb_mp3.zip"
+      "url_text_source": "https://pl.wikisource.org/wiki/Autor:Władysław_Orkan",
+      "url_zip_file": "https://www.archive.org/download/siedem_wybranych_1202_librivox/siedem_wybranych_1202_librivox_64kb_mp3.zip"
     }
   ]
 }
