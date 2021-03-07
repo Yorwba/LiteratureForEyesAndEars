@@ -5,11 +5,17 @@ To jest nagranie LibriVox. Wszystkie nagrania LibriVox należą do domeny public
 
 Napoleon
 
-Bywa, iż człowiek nie czuje siebie samego, nie wie, kim jest i czy jest wogóle. Zauważa, że ktoś je, kładzie się do snu, spaceruje, spełnia jakieś czynności — ale czy to on sam, czy naprzykład stołowe nogi, tego nie może rozróżnić. Aż jakiś wypadek zdarzy (jeśli się wogóle zdarzy), że się człek nagle ocknie, poczuje siebie wyraźnie i nawet wartość swoją naocznie zobaczy, której podotąd nie mógł czy nie umiał dostrzec.
+Bywa, iż człowiek nie czuje siebie samego, nie wie, kim jest i czy jest wogóle. Zauważa, że ktoś je, kładzie się do snu, spaceruje, spełnia jakieś czynności — ale czy to on sam, czy naprzykład stołowe nogi, tego nie może rozróżnić.
+
+Aż jakiś wypadek zdarzy (jeśli się wogóle zdarzy), że się człek nagle ocknie, poczuje siebie wyraźnie i nawet wartość swoją naocznie zobaczy, której podotąd nie mógł czy nie umiał dostrzec.
 
 Taki szczęśliwy wypadek zdarzył się księdzu Łopatce, proboszczowi z Wiórek.
 
-Pewnego razu przyjechał doń „na partyjkę” pan poborca z miasteczka. Przyjeżdżał nieraz i odjeżdżał — rzecz zwyczajna, jak wschód i zachód słońca, po których nic się nie zmienia, co najwyżej wyschnie jakaś butelczyna i jakiś tam grzeszek niewielki przybędzie — ale ta właśnie wizyta miała specjalną dla księdza Łopatki wagę i doniosłość, jak ujrzymy, w skutkach.
+Pewnego razu przyjechał doń „na partyjkę” pan poborca z miasteczka.
+
+Przyjeżdżał nieraz i odjeżdżał — rzecz zwyczajna, jak wschód i zachód słońca, po których nic się nie zmienia, co najwyżej wyschnie jakaś butelczyna i jakiś tam grzeszek niewielki przybędzie —
+
+ale ta właśnie wizyta miała specjalną dla księdza Łopatki wagę i doniosłość, jak ujrzymy, w skutkach.
 
 Z tej racji zdałoby się nieco uwagi panu poborcy poświęcić. Choć o poczciwym wyglądzie, był to człek w gruncie ambitny i nawet o nieśmiertelność (co jest rzadkie u poborcy) usilnie zabiegający.
 
@@ -21,7 +27,9 @@ To bystrym swoim umysłem rozeznawszy, pan poborca na to postanowił kłaść na
 
 Przeczekał moment zdziwienia i nie licząc zbytnio na domyślność ludzką jął pomagać z zapałem.
 
-— Mütze?... — panie, Mütze!... Jak po polsku Mütze?... Czapka! — podpowiadał z uciechą. — Więc jak po polsku Mickiewicz??... Czapkiewicz!! — wybuchnął przed osobą zdumioną tym odkryciem. — Tak, panie, Czapkiewicz!... Teraz pan już nazwisko moje zapamięta. Jakby panu przypadkiem wymknęło się z pamięci, to niech pan tylko pomyśli: Mickiewicz... Mickiewicz po polsku... nic więcej.
+— Mütze?... — panie, Mütze!... Jak po polsku Mütze?... Czapka! — podpowiadał z uciechą. — Więc jak po polsku Mickiewicz??... Czapkiewicz!! — wybuchnął przed osobą zdumioną tym odkryciem. — Tak, panie, Czapkiewicz!... Teraz pan już nazwisko moje zapamięta.
+
+Jakby panu przypadkiem wymknęło się z pamięci, to niech pan tylko pomyśli: Mickiewicz... Mickiewicz po polsku... nic więcej.
 
 I dumny był w sercu pan poborca, przekonany będąc, że póki będzie trwał w pamięci narodu Mickiewicz, będzie obok niego i Czapkiewicz. A nawet napomykał w rozmowie z inspektorem, czyby nie było wskazanym spolszczyć nazwiska Wieszcza.
 
@@ -29,9 +37,13 @@ I dumny był w sercu pan poborca, przekonany będąc, że póki będzie trwał w
 
 Pan poborca stał się etymologiem od czasu, gdy zaczął rozbierać w rozumie swoje nazwisko.
 
-Starał się też pan Czapkiewicz naśladować swego Imiennika. Włosów długich nie mógł zapuścić, bo był łysy, ale za to nosił długi płaszcz i wysokie kołnierzyki. Często, przechodząc stawał na moście i pozował się, jak Tamten na pomniku. Ludzie mijając go szeptali z szacunkiem: „Czapkiewicz...” Mile mu brzmiały w uszach te szepty tłumu.
+Starał się też pan Czapkiewicz naśladować swego Imiennika. Włosów długich nie mógł zapuścić, bo był łysy, ale za to nosił długi płaszcz i wysokie kołnierzyki.
 
-A że sam czuł się już osobą wielką, chcąc się utwierdzić w tym poczuciu (bowiem wątpienie go nachodziło: jak to może być, żeby pan rejent i pan radca byli zwyczajnymi ludźmi, gdy on, poborca tylko...) począł upatrywać w bliźnich swoich szczegółów podobieństwa do ludzi wielkich. I przypatrując się dokładniej ujrzał ze zdziwieniem, że każda z utytułowanych osób, pomijając pewne niedokładności, w jakimś szczególe do znanej z kart wielkości jest podobna.
+Często, przechodząc stawał na moście i pozował się, jak Tamten na pomniku. Ludzie mijając go szeptali z szacunkiem: „Czapkiewicz...” Mile mu brzmiały w uszach te szepty tłumu.
+
+A że sam czuł się już osobą wielką, chcąc się utwierdzić w tym poczuciu (bowiem wątpienie go nachodziło: jak to może być, żeby pan rejent i pan radca byli zwyczajnymi ludźmi, gdy on, poborca tylko...) począł upatrywać w bliźnich swoich szczegółów podobieństwa do ludzi wielkich.
+
+I przypatrując się dokładniej ujrzał ze zdziwieniem, że każda z utytułowanych osób, pomijając pewne niedokładności, w jakimś szczególe do znanej z kart wielkości jest podobna.
 
 — Pan radca ma nos jak Juliusz Cezar — mówił z szacunkiem do sędziego.
 
@@ -63,7 +75,9 @@ Ksiądz Łopatka uczuł, jak wstępują weń nieznane jakieś moce. Uświadomił
 
 Ksiądz Łopatka wiedział już, kim jest. Ściągnął brwi w skupieniu groźnym — prawdziwy wódz przed bitwą — i nie gorączkował się, ważył, czym naprzódy uderzyć... Nagle znienacka spadła jego ciężka dłoń na stół jak piorun.
 
-Pan poborca uczuł się zaskoczony. Nie przypuszczał takiego ataku. — Aż tu raz za razem poczęły padać na stół gromy — rzekłbyś: sam bóg wojny miota z chmur niechybne pociski. Pan poborca, aczkolwiek Czapkiewicz, czuł się tym impetem iście napoleońskim księdza do znaku oszołomiony. Próbował się jeszcze bronić, ale już nie zdzierżył. Przegrał z kretesem. Nie była to klęska, ale pogrom. Wagram — Jena — Austerlitz.
+Pan poborca uczuł się zaskoczony. Nie przypuszczał takiego ataku. — Aż tu raz za razem poczęły padać na stół gromy — rzekłbyś: sam bóg wojny miota z chmur niechybne pociski. Pan poborca, aczkolwiek Czapkiewicz, czuł się tym impetem iście napoleońskim księdza do znaku oszołomiony.
+
+Próbował się jeszcze bronić, ale już nie zdzierżył. Przegrał z kretesem. Nie była to klęska, ale pogrom. Wagram — Jena — Austerlitz.
 
 — Może jeszcze jedną partyjkę? — pytał dyplomatycznie ksiądz Łopatka, bowiem wiedział z historii, że i dyplomatą był Napoleon.
 
@@ -83,27 +97,49 @@ Na pierwszej widział podobiznę swoją, tak niepodobną do swej obecnej postaci
 
 — Kiepska fotografia — zdecydował.
 
-O wiele lepiej wypadł ogląd podobizny drugiej. — Gładko na bok przyczesane włosy, jakoteż czarne opięcie sutanny ze smużką w okół szyi białego kołnierza przydawały już postaci nieco dystynkcji. — Jednak nie było w niej jeszcze tego, co chciał znaleźć. Twarz ułożona do pokory, w oczach przygaszone światła...
+O wiele lepiej wypadł ogląd podobizny drugiej. — Gładko na bok przyczesane włosy, jakoteż czarne opięcie sutanny ze smużką w okół szyi białego kołnierza przydawały już postaci nieco dystynkcji. — Jednak nie było w niej jeszcze tego, co chciał znaleźć.
+
+Twarz ułożona do pokory, w oczach przygaszone światła...
 
 — Za mało dumy — pomyślał z niechęcią.
 
-Dopiero trzecia, znaleziona w albumie podobizna odpowiedziała jego intencji. Była to amatorska fotografia z majówki, z czasu, gdy już był we Wiórkach proboszczem. Na „romantycznym” tle lasu, na spadzistym terenie gruntu rozłożona, widniała cała grupa, przedstawiciele różnych stanów w idylicznej, można rzec: pasterskiej równości — pan aptekarz z żoną, pan sędzia, pan poborca znany nam, nigdy nie zapomniany Czapkiewicz, pan inspektor z powiatu, kilku nauczycieli i nauczycielek, jakiś wolontaryjny akademik i jeszcze parę przypadkowych osób — wszyscy w pozach siedzących i napół leżących, a on stał ponad nimi nad koszem próżnych butelek, stopą o jakiś pień wsparty, z założonymi rękoma na piersiach, z „wielką myślą” w brwiach ściągniętych — istnie jako wódz nad pobojowiskiem.
+Dopiero trzecia, znaleziona w albumie podobizna odpowiedziała jego intencji. Była to amatorska fotografia z majówki, z czasu, gdy już był we Wiórkach proboszczem.
+
+Na „romantycznym” tle lasu, na spadzistym terenie gruntu rozłożona, widniała cała grupa, przedstawiciele różnych stanów w idylicznej, można rzec: pasterskiej równości —
+
+pan aptekarz z żoną, pan sędzia, pan poborca znany nam, nigdy nie zapomniany Czapkiewicz, pan inspektor z powiatu, kilku nauczycieli i nauczycielek, jakiś wolontaryjny akademik i jeszcze parę przypadkowych osób — wszyscy w pozach siedzących i napół leżących,
+
+a on stał ponad nimi nad koszem próżnych butelek, stopą o jakiś pień wsparty, z założonymi rękoma na piersiach, z „wielką myślą” w brwiach ściągniętych — istnie jako wódz nad pobojowiskiem.
 
 Ksiądz Łopatka długo i z lubością wpatrywał się w tę podobiznę swoją. Przypomniał sobie, że widział nawet gdzieś w jakiejś książce sztych, przedstawiający Napoleona w tej samej nieomal pozie. Oczywistością zduszona wątpliwość zgasła do iskry jak niedopałek cygara.
 
 — Ten Czapkiewicz... zdawaćby się mogło — myszki ma w głowie (jak z tym Mickiewiczem), a to zgoła bystry człowiek — pomyślał z uznaniem i począł dalej krążyć wzdłuż salonu.
 
-Dzień ów, jak snadnie domyślić się można, stał się w życiu księdza Łopatki przełomowym. W tym dniu się, można rzec, odrodził. Weszły weń, jakby za czarodziejską sprawą, siły nowe, które wywołały w jego duchu poczucie ważności siebie. Stąd — bo to już tak naturalnie szło — zrodziło się w nim przeświadczenie o wyjątkowym swoim przeznaczeniu.
+Dzień ów, jak snadnie domyślić się można, stał się w życiu księdza Łopatki przełomowym.
 
-Że jednak ksiądz Łopatka, jak się już wspomniało, nie był człowiekiem próżnym, a umysł miał krytyczny, przeto mimo tego przeświadczenia nachodziły go czasem myśli, które by nazwać można niepokojem ducha. Zwłaszcza myśl jedna podstępna: „Czy to tylko nie zewnętrzne podobieństwo?” która go uderzyła raz, gdy się po nocy obudził, nie dawała mu spokoju i zatruwała górne chwile napoleońskich nastrojeń.
+W tym dniu się, można rzec, odrodził. Weszły weń, jakby za czarodziejską sprawą, siły nowe, które wywołały w jego duchu poczucie ważności siebie. Stąd — bo to już tak naturalnie szło — zrodziło się w nim przeświadczenie o wyjątkowym swoim przeznaczeniu.
 
-Postanowił z tym wrogiem raz na zawsze skończyć. — Począł z anonsów gazet, jak i z katalogów księgarń, wypisywać monografie i dzieła traktujące o Napoleonie i sprowadzać je sobie. Z zapartą piersią wziął się do czytania tychże. — Po jakimś czasie odetchnął szeroko. — Już niepewność zdradziecka nie może mieć doń przystępu.
+Że jednak ksiądz Łopatka, jak się już wspomniało, nie był człowiekiem próżnym, a umysł miał krytyczny, przeto mimo tego przeświadczenia nachodziły go czasem myśli, które by nazwać można niepokojem ducha.
+
+Zwłaszcza myśl jedna podstępna: „Czy to tylko nie zewnętrzne podobieństwo?” która go uderzyła raz, gdy się po nocy obudził, nie dawała mu spokoju i zatruwała górne chwile napoleońskich nastrojeń.
+
+Postanowił z tym wrogiem raz na zawsze skończyć. — Począł z anonsów gazet, jak i z katalogów księgarń, wypisywać monografie i dzieła traktujące o Napoleonie i sprowadzać je sobie.
+
+Z zapartą piersią wziął się do czytania tychże. — Po jakimś czasie odetchnął szeroko. — Już niepewność zdradziecka nie może mieć doń przystępu.
 
 Rozczytując się w biografii wielkiego cesarza, napotykał w jego życiu tyle podobieństw ze swoim — że tu nie mogło być dwóch zdań. Zwłaszcza uderzył go aż do wstrząsu jeden identyczny moment...
 
-Gdy Bonaparte był chłopcem i chodził do szkoły wojskowej w Ajaccio, często, idąc do szkoły lub wracając ze szkoły do domu, brał u pewnej przekupki jabłka, które lubił. Nie zawsze miał grosz na zapłacenie — lecz przekupka ufała mu i borgowała chętnie, ile zechciał, Opuściwszy szkołę pozostał jej dłużny sporą sumkę. A nie mając, by oddać, przyrzekł jej żartobliwie, że zwróci dług, gdy zostanie cesarzem. — Wkrótce los wyrwał go na długo z rodzinnego miasta i Bonaparte zajęty ważnymi czynami zapomniał całkiem o swym długu. Wypadki szły coraz ogromniejsze. Napoleon został pod ten czas konsulem, później cesarzem Francuzów.
+Gdy Bonaparte był chłopcem i chodził do szkoły wojskowej w Ajaccio, często, idąc do szkoły lub wracając ze szkoły do domu, brał u pewnej przekupki jabłka, które lubił.
 
-Już jako cesarz przybył do Ajaccio. Gdy na czele swej świty generałów przejeżdżał ulicami rodzinnego miasta, przechodząc w myśli wspomnienia lat tu w dzieciństwie przeżytych, przypomniał sobie z czasów szkoły i ową przekupkę. Skierował tedy konia w uliczkę pamiętną i zatrzymał się przed straganem, który tak dobrze znał. Poznał też siedzącą za nim dobrodziejkę swoją, choć już mocno była podstarzała.
+Nie zawsze miał grosz na zapłacenie — lecz przekupka ufała mu i borgowała chętnie, ile zechciał, Opuściwszy szkołę pozostał jej dłużny sporą sumkę.
+
+A nie mając, by oddać, przyrzekł jej żartobliwie, że zwróci dług, gdy zostanie cesarzem. — Wkrótce los wyrwał go na długo z rodzinnego miasta i Bonaparte zajęty ważnymi czynami zapomniał całkiem o swym długu.
+
+Wypadki szły coraz ogromniejsze. Napoleon został pod ten czas konsulem, później cesarzem Francuzów.
+
+Już jako cesarz przybył do Ajaccio. Gdy na czele swej świty generałów przejeżdżał ulicami rodzinnego miasta, przechodząc w myśli wspomnienia lat tu w dzieciństwie przeżytych, przypomniał sobie z czasów szkoły i ową przekupkę.
+
+Skierował tedy konia w uliczkę pamiętną i zatrzymał się przed straganem, który tak dobrze znał. Poznał też siedzącą za nim dobrodziejkę swoją, choć już mocno była podstarzała.
 
 — Czy mnie poznajecie, matko? — spytał cesarz. Starowina przyłożyła dłoń do czoła i olśniona patrzyła na cesarza, na jego złocistą świtę.
 
@@ -115,15 +151,27 @@ To powiedziawszy ruszył dalej na czele swej świty.
 
 Oto i ksiądz Łopatka tak samo, gdy chodził do szkoły w mieście, kupował często jabłka u przekupki, która mieściła się ze swoim straganem obok żelaznej kraty zamykającej dziedziniec gimnazjalny. Tak samo nieraz nie miał czym zapłacić i ona borgowała mu chętnie — jak i drugim.
 
-— Dobre to było kobiecisko! — rozczulił się wspomnieniem. Iluż to chłopcom głodującym po stancjach zastąpiła śniadanie lub obiad wzięta od niej na bórg bułka i parę jabłek czy śliwek. Iluż chłopcom ułatwiła w ten sposób przetrwanie najcięższych miesięcy głodu. Iluż tą pomocą uchroniła od opuszczenia ław gimnazjalnych i dopomogła im przez to „wyjść na ludzi”. Była ona ważną instytucją przy tej bramie.
+— Dobre to było kobiecisko! — rozczulił się wspomnieniem. Iluż to chłopcom głodującym po stancjach zastąpiła śniadanie lub obiad wzięta od niej na bórg bułka i parę jabłek czy śliwek.
 
-— Oto patrzcie — mówiła im raz (pamięta) skupionym przy jej straganie wskazując na przeciwny trotuar uliczny. — Tam idzie radca Flig. Chudziątko to było takie mizerne, że litość brała; często u mnie, niewyczytając, borgował i dziś jest panem radcą — mówiła z pewną jakby macierzyńską dumą. Po czym ze smutkiem dodała: — Nigdy na ten tu trotuar nie wejdzie, zawdy obchodzi tamtą stroną, wstydzi się widać tych czasów.
+Iluż chłopcom ułatwiła w ten sposób przetrwanie najcięższych miesięcy głodu. Iluż tą pomocą uchroniła od opuszczenia ław gimnazjalnych i dopomogła im przez to „wyjść na ludzi”. Była ona ważną instytucją przy tej bramie.
+
+— Oto patrzcie — mówiła im raz (pamięta) skupionym przy jej straganie wskazując na przeciwny trotuar uliczny. — Tam idzie radca Flig.
+
+Chudziątko to było takie mizerne, że litość brała; często u mnie, niewyczytając, borgował i dziś jest panem radcą — mówiła z pewną jakby macierzyńską dumą.
+
+Po czym ze smutkiem dodała: — Nigdy na ten tu trotuar nie wejdzie, zawdy obchodzi tamtą stroną, wstydzi się widać tych czasów.
 
 Zatrzymał się dłużej ksiądz Łopatka wspomnieniem przy onej bramie, bowiem, mając już umysł znużony latami, nie zawdy prosto zdążać mógł za myślą główną.
 
-Tak więc... gdy opuszczał gimnazjum, tak samo pozostał dłużen przekupce owej sporą kwotę. I tak samo jej przyrzekł żartobliwie, że zwróci dług swój, gdy zostanie proboszczem. Potem wstąpił do seminarium i zapomniał o długu. Lata szły — został niedługo wikarym, później we Wiórkach proboszczem. I oto teraz...
+Tak więc... gdy opuszczał gimnazjum, tak samo pozostał dłużen przekupce owej sporą kwotę.
 
-Wstał poruszony od stołu i trąc dłonie nerwowo począł chodzić szerokim krokiem wzdłuż salonu. — Musi postąpić tak jak Napoleon — z równym efektem... Zatem — jął rozsnuwać w myślach — każe powóz polakierować na nowo, każe zaprząc do powozu cztery konie (tylko siwka coś kuleje — to niechże będą dwa), furmanowi sprawi krakowski strój z pawim piórem (wystarczy pióro ostatecznie) i pojedzie do miasta... Gdy powóz będzie mijał bramę gimnazjum, krzyknie gromko na furmana: „Hou, stój!”... i z wysokości siedzenia spyta zdumionej przekupki:
+I tak samo jej przyrzekł żartobliwie, że zwróci dług swój, gdy zostanie proboszczem. Potem wstąpił do seminarium i zapomniał o długu. Lata szły — został niedługo wikarym, później we Wiórkach proboszczem. I oto teraz...
+
+Wstał poruszony od stołu i trąc dłonie nerwowo począł chodzić szerokim krokiem wzdłuż salonu. — Musi postąpić tak jak Napoleon — z równym efektem...
+
+Zatem — jął rozsnuwać w myślach — każe powóz polakierować na nowo, każe zaprząc do powozu cztery konie (tylko siwka coś kuleje — to niechże będą dwa), furmanowi sprawi krakowski strój z pawim piórem (wystarczy pióro ostatecznie) i pojedzie do miasta...
+
+Gdy powóz będzie mijał bramę gimnazjum, krzyknie gromko na furmana: „Hou, stój!”... i z wysokości siedzenia spyta zdumionej przekupki:
 
 — Poznajecie mnie, matko?
 
@@ -137,13 +185,21 @@ I gestem majestatycznym rzuci jej na stół wypchaną sakiewkę.
 
 Cóż w tej sakiewce być może... jakie piętnaście reńskich... To jej nie zaimponuje. Trzeba inny plan wymyślić.
 
-Krążył jakiś czas po salonie, głęboko się zastanawiając. Nareszcie doszedł... już wie! Każe narznąć indyków, gęsi, kaczek — jest tego spory szałas — naładować na wóz, zawieźć jej i zeprać pod nogi ze słowami: „To ksiądz proboszcz z Wiórek oddaje za dług”. I więcej ani słówka. Tajemniczość...
+Krążył jakiś czas po salonie, głęboko się zastanawiając. Nareszcie doszedł... już wie! Każe narznąć indyków, gęsi, kaczek — jest tego spory szałas — naładować na wóz, zawieźć jej i zeprać pod nogi ze słowami: „To ksiądz proboszcz z Wiórek oddaje za dług”. I więcej ani słówka.
+
+Tajemniczość...
 
 Długo znów krążył po salonie, rozkoszując się tą myślą. W pewnym momencie przystanął.
 
 — Ba, ale co na to powie Józefina?... (Tak od czasu, gdy został w swej myśli Napoleonem, nazywał Kaśkę-kucharkę). Tu tej rządy... Nie, trzeba inny plan wydumać — zadecydował po namyśle; i wobec ważności sprawy odłożył to na czas spokojniejszy.
 
-Im dalej się wczytywał ksiądz Łopatka w księgi o Napoleonie, tym bardziej się utrwalał w przekonaniu o swoim z nim podobieństwie i — co za tym szło — współgenialności. Wspólnie czynił z nim dyplomatyczne zabiegi, przemyśliwał i układał plany, prowadził kampanie i wygrywał bitwy. A w tym wszystkim, co z uznaniem dla jego indywidualności podnieść trzeba, zachował swoje własne, częstokroć odrębne zdanie. W wielu razach nie zgadzał się z Napoleonem I, co do posunięć taktycznych — on, Napoleon II, inaczejby to wykonał — często też w decydujących momentach poprawiać musiał krok nieopatrzny Tamtego. Naprzykład w momencie owym bitwy pod Arcole, gdy się zwycięstwo przechylało na stronę Austriaków, a Bonaparte porwawszy sztandar cofającego się pułku rzucił się na most z impetem i odwrócił szalę losu...
+Im dalej się wczytywał ksiądz Łopatka w księgi o Napoleonie, tym bardziej się utrwalał w przekonaniu o swoim z nim podobieństwie i — co za tym szło — współgenialności.
+
+Wspólnie czynił z nim dyplomatyczne zabiegi, przemyśliwał i układał plany, prowadził kampanie i wygrywał bitwy. A w tym wszystkim, co z uznaniem dla jego indywidualności podnieść trzeba, zachował swoje własne, częstokroć odrębne zdanie.
+
+W wielu razach nie zgadzał się z Napoleonem I, co do posunięć taktycznych — on, Napoleon II, inaczejby to wykonał — często też w decydujących momentach poprawiać musiał krok nieopatrzny Tamtego.
+
+Naprzykład w momencie owym bitwy pod Arcole, gdy się zwycięstwo przechylało na stronę Austriaków, a Bonaparte porwawszy sztandar cofającego się pułku rzucił się na most z impetem i odwrócił szalę losu...
 
 — To nie przystoi wodzowi — mówił podczas obiadu do wikarego pod wrażeniem świeżo przeczytanej rzeczy. — To mógł wykonać pierwszy z kraja oficer. Wódz powinien stać na wzgórku i patrzeć na pole bitwy. Powinien mieć spokój kamienny w obliczu i wydawać rozkazy krótkie, a stanowcze.
 
@@ -161,9 +217,17 @@ Również ostro krytykował taktykę. Napoleona w przeprawie pod Lipskiem.
 
 — Przegrał przez swoją nieopatrzność, oto co jest — zadecydował przy końcu.
 
-Tu trzeba zaznaczyć dla ścisłości, że Napoleon mimo udowodnionych mu błędów nic w oczach księdza Łopatki nie stracił. Obniżając go, tensamem obniżyłby siebie. To nie było w jego zamiarze. Gdy krytykował jego błędy, chciał tylko przez to wykazać, jak on w danych wypadkach by postąpił.
+Tu trzeba zaznaczyć dla ścisłości, że Napoleon mimo udowodnionych mu błędów nic w oczach księdza Łopatki nie stracił. Obniżając go, tensamem obniżyłby siebie.
 
-Z dzieł wyczytanych wyniósł wielką korzyść. Zobaczył Napoleona mniej, niż się sądzić zwykło, niedościgłym, zobaczył go podległym ludzkim zawodom i klęskom — i owo „podobieństwo”, ów „napoleonizm”, co go tak jako coś nadzwyczajnego zrazu zaskoczyło, stało się teraz rzeczą daleko jaśniejszą i na krytycznych podstawach opartą. Teraz już wiedział sam ze siebie, nie od jakiegoś tam Czapkiewicza (choć to zgoła bystry człowiek, jak się okazało), co ma o tym sądzić. — Chodziłoby teraz o to, jak ludziom okazać swoją zatajoną dotąd wielkość, swoją — jakby rzec — napoleońskość.
+To nie było w jego zamiarze. Gdy krytykował jego błędy, chciał tylko przez to wykazać, jak on w danych wypadkach by postąpił.
+
+Z dzieł wyczytanych wyniósł wielką korzyść.
+
+Zobaczył Napoleona mniej, niż się sądzić zwykło, niedościgłym,
+
+zobaczył go podległym ludzkim zawodom i klęskom — i owo „podobieństwo”, ów „napoleonizm”, co go tak jako coś nadzwyczajnego zrazu zaskoczyło, stało się teraz rzeczą daleko jaśniejszą i na krytycznych podstawach opartą.
+
+Teraz już wiedział sam ze siebie, nie od jakiegoś tam Czapkiewicza (choć to zgoła bystry człowiek, jak się okazało), co ma o tym sądzić. — Chodziłoby teraz o to, jak ludziom okazać swoją zatajoną dotąd wielkość, swoją — jakby rzec — napoleońskość.
 
 Problem czynu...
 
@@ -171,17 +235,27 @@ Długo się zmagał z nim w swych myślach ksiądz Łopatka, wreszcie rozwiąza�
 
 — To, że Napoleon prowadził wojny i bitwy wygrywał — to tylko okoliczność. Okoliczności szczęśliwe i nic więcej. Posadzić by go we Wiórkach, a widzielibyśmy, co by zdziałał. Najważniejsza rzecz — w czem jego prawdziwa wielkość była — to postawa. Gest i postawa. O!
 
-Odtąd ksiądz Łopatka baczył pilnie na to, by mieć wzięcie się „napoleońskie”. Sprawił sobie lakierowane buty z cholewkami, sutannę kazał sobie żydowi-krawcowi przyciąć, a do szarego płaszcza przyszyć guziki błyszczące. Wychodząc z domu na spacer, brał zwykle trzcinę do ręki, którą się niedbale z miną wodza uderzać lubił po cholewie. Gdy mówił egzortę w kościele lub przyjmował interesentów w kancelarji plebańskiej, stawał w pozie wyniosłej, wysuwał nogę naprzód, zakładał ręce na piersiach i „miażdżył orlim wzrokiem” spokojnych obywateli. Sposób mówienia przyjął gromki, stanowczy i lakoniczny.
+Odtąd ksiądz Łopatka baczył pilnie na to, by mieć wzięcie się „napoleońskie”.
+
+Sprawił sobie lakierowane buty z cholewkami, sutannę kazał sobie żydowi-krawcowi przyciąć, a do szarego płaszcza przyszyć guziki błyszczące. Wychodząc z domu na spacer, brał zwykle trzcinę do ręki, którą się niedbale z miną wodza uderzać lubił po cholewie.
+
+Gdy mówił egzortę w kościele lub przyjmował interesentów w kancelarji plebańskiej, stawał w pozie wyniosłej, wysuwał nogę naprzód, zakładał ręce na piersiach i „miażdżył orlim wzrokiem” spokojnych obywateli. Sposób mówienia przyjął gromki, stanowczy i lakoniczny.
 
 W taki to naturalny sposób stał się ksiądz Łopatka Napoleonem. Nawet bardziej napoleońskim — w geście, postawie — niż tamten. A o cóż więcej mogło chodzić?
 
 Niebawem zwrócił swój „orli wzrok” na swe otoczenie. Nie może to być — sądził słusznie — żeby jego, Napoleona-Łopatkę, otaczały figury pospolite, zwykłe. Jeżeli On historyczną jest osobą, to tym samym i wszyscy, którzy są w jakimś stosunku do Niego, stają się historycznymi.
 
-Wiemy już, że kucharkę Kaśkę nazywał wdzięcznie Józefiną. Więc na furmana Maćka wołał odtąd: „Te, Ney!”, organistę ochrzcił Talmą, jako że miał miłe podrygi przy ukłonie, a zaś kościelnego, starego dyplomatę, Taylerandem. Malarz Rączka, który pod ten czas malował był właśnie zakrystię, został nadwornym Davidem.
+Wiemy już, że kucharkę Kaśkę nazywał wdzięcznie Józefiną.
 
-I słusznem było wprowadzenie do historii tych osób. Wprawdzie Maciek-Ney był głupi, a Józefina, jak wszystkie zresztą Józefiny, była swarliwa, zazdrosna i nielogiczna w sądach, lecz organista-Talma, malarz-David, zwłaszcza kościelny-Taylerand, byli to zgoła niepospolici mężowie, warci monografii osobnych.
+Więc na furmana Maćka wołał odtąd: „Te, Ney!”, organistę ochrzcił Talmą, jako że miał miłe podrygi przy ukłonie, a zaś kościelnego, starego dyplomatę, Taylerandem. Malarz Rączka, który pod ten czas malował był właśnie zakrystię, został nadwornym Davidem.
 
-W otoczeniu tych już odtąd historycznych osób ksiądz Łopatka-Napoleon wzniósł się jeszcze, ile to możliwym było, w swym samo-napoleońskim poczuciu. Już nie był we Wiórkach proboszczem, lecz władcą. — Wszystkie też rzeczy naokół urosły przybierając barwę historyczną. Gminy do parafii przynależne stały się departamentami, kościół parafialny katedrą, a plebania Wersalem.
+I słusznem było wprowadzenie do historii tych osób.
+
+Wprawdzie Maciek-Ney był głupi, a Józefina, jak wszystkie zresztą Józefiny, była swarliwa, zazdrosna i nielogiczna w sądach, lecz organista-Talma, malarz-David, zwłaszcza kościelny-Taylerand, byli to zgoła niepospolici mężowie, warci monografii osobnych.
+
+W otoczeniu tych już odtąd historycznych osób ksiądz Łopatka-Napoleon wzniósł się jeszcze, ile to możliwym było, w swym samo-napoleońskim poczuciu.
+
+Już nie był we Wiórkach proboszczem, lecz władcą. — Wszystkie też rzeczy naokół urosły przybierając barwę historyczną. Gminy do parafii przynależne stały się departamentami, kościół parafialny katedrą, a plebania Wersalem.
 
 Pewnego dnia wezwał do siebie Davida. Kazał mu robić swój portret. Ten się wymawiać począł, że „dotąd z natury jeszcze nie próbował!” — nic nie pomogło.
 
@@ -203,7 +277,9 @@ Omówiono kwestie: płótna, farb, rozmiaru i oznaczono termin posiedzenia.
 
 — Owszem, można, jeśli rzecz tego wymaga. Ale robota u mnie w gabinecie — i w obecności mojej. To warunek.
 
-Nie opuszczał się ksiądz Łopatka na pojętność malarza, choćby to był i David. I, jak się pokazało, miał uzasadnione racje ku temu. Któż wie, jakby był portret wypadł, gdyby nie jego osobisty dogląd i kontrola. To nos się okazał za mały, to czoło za niskie, to znów podbródek za wielki i wiele jeszcze innych niemniej poważnych uchybień. Wszystko to musiał malarz za jego wskazówkami zmieniać, ujmować lub dociągać, jak z orzeczenia wypadło. — Tak Napoleon poprawiał Davida.
+Nie opuszczał się ksiądz Łopatka na pojętność malarza, choćby to był i David. I, jak się pokazało, miał uzasadnione racje ku temu. Któż wie, jakby był portret wypadł, gdyby nie jego osobisty dogląd i kontrola.
+
+To nos się okazał za mały, to czoło za niskie, to znów podbródek za wielki i wiele jeszcze innych niemniej poważnych uchybień. Wszystko to musiał malarz za jego wskazówkami zmieniać, ujmować lub dociągać, jak z orzeczenia wypadło. — Tak Napoleon poprawiał Davida.
 
 W czasie całego ciągu malowania, a trwało ono dość nie krótko, gorączkował się ksiądz Łopatka — nieraz obiadu nie skończywszy wołał przez sień w stronę kuchni, gdzie było państwo Józefiny:
 
@@ -243,7 +319,9 @@ Dotąd miał tylko poczucie swej napoleońskości, a teraz widzi siebie.
 
 — Portret nie śmie mylić — zapewniał się.
 
-Spływały też nań, można by rzec, z tego portretu nowe siły, ambicje nieograniczone i oczywistość potęgi. Majestatem napełniony kroczył dumnie po swych „apartamentach wersalskich”, a uderzał w jego postaci z daleka główny atrybut wielkości: gest i postawa. Od czasu do czasu wyrzucał z zaciśniętych ust rozkazy krótkie i stanowcze. Na przykład: — Niech się stawi przede mną prefekt departamentu Koninki (to niby wójt z Kominek) dla zdania mi rachunków konkurencji kościelnej.
+Spływały też nań, można by rzec, z tego portretu nowe siły, ambicje nieograniczone i oczywistość potęgi. Majestatem napełniony kroczył dumnie po swych „apartamentach wersalskich”, a uderzał w jego postaci z daleka główny atrybut wielkości: gest i postawa.
+
+Od czasu do czasu wyrzucał z zaciśniętych ust rozkazy krótkie i stanowcze. Na przykład: — Niech się stawi przede mną prefekt departamentu Koninki (to niby wójt z Kominek) dla zdania mi rachunków konkurencji kościelnej.
 
 — Malarzowi Davidowi wydać z kasy pięć złotych forszusu.
 
@@ -263,7 +341,11 @@ Tak mógł tylko rozkazywać Napoleon.
 
 Kazania jego były zwięzłe i apodyktyczne, jak odezwy do narodu. Od czasu do czasu wygłaszał też z ambony nadsyłane mu wojenne manifesty Centrum.
 
-I nicby nie zamącało pewności jego umysłu i wysokiego nastroju, gdyby nie koalicja — jak nazywał dekanat, konsystorz i inne duchowne potęgi. Mimo że gromił w odezwach swoich jakóbinizm, koalicja nie dawała się tym zwieść, lecz następowała nań coraz to zawzięciej. Nadsyłała komisje żądając rozwodu z Józefiną, wyrzeczenia się władczej chimery, trzymania się przepisów kanonnych itp. Bronił się zawzięcie, używał wszelkich dyplomatycznych wybiegów, w dyskursach z księdzem wikarym pokonywał swoich przeciwników — jednak koalicja rosła w siłę i spać mu nie dawała.
+I nicby nie zamącało pewności jego umysłu i wysokiego nastroju, gdyby nie koalicja — jak nazywał dekanat, konsystorz i inne duchowne potęgi.
+
+Mimo że gromił w odezwach swoich jakóbinizm, koalicja nie dawała się tym zwieść, lecz następowała nań coraz to zawzięciej. Nadsyłała komisje żądając rozwodu z Józefiną, wyrzeczenia się władczej chimery, trzymania się przepisów kanonnych itp.
+
+Bronił się zawzięcie, używał wszelkich dyplomatycznych wybiegów, w dyskursach z księdzem wikarym pokonywał swoich przeciwników — jednak koalicja rosła w siłę i spać mu nie dawała.
 
 Aż przyszło jego Waterloo...
 
@@ -271,7 +353,13 @@ Nie koalicja je sprawiła, choć pośrednio przyczyniła się do tego przez zmą
 
 Wiadomo: Napoleon upadł z przyczyny kapliczki. Było to tak:
 
-Już wiele godzin trwała bitwa koło wsi Belle-Alliance, a żadna ze stron walczących nie mogła uzyskać decydującej przewagi. Napoleon, naciskany przemożnymi siłami sprzymierzonych, wytężał cały swój geniusz, aby rozerwać pierścień wojsk nieprzyjacielskich. Losy się długo ważyły. Wreszcie udało się wysiłkom Napoleona przełamać szeregi pruskie. Zwycięstwo zdawało się chylić ku Francuzom. Napoleon, stojąc na wzniesieniu w otoczeniu adjutantów (jak przystało na wodza, podług słów księdza Łopatki), śledził orlą uwagą przebieg walki. Jeszcze jedno posunięcie, jeden wysiłek — i zwycięstwo. Aliści podniosła się mgła dymu z równiny i odkryła lśniący łan piechoty angielskiej, ustawionej w czworobok. — Pułki te nadeszły pod mgłą w czasie bitwy i nie brały dotąd udziału w walce. Napoleon jednym rzutem oka ocenił ważność chwili.
+Już wiele godzin trwała bitwa koło wsi Belle-Alliance, a żadna ze stron walczących nie mogła uzyskać decydującej przewagi. Napoleon, naciskany przemożnymi siłami sprzymierzonych, wytężał cały swój geniusz, aby rozerwać pierścień wojsk nieprzyjacielskich. Losy się długo ważyły.
+
+Wreszcie udało się wysiłkom Napoleona przełamać szeregi pruskie. Zwycięstwo zdawało się chylić ku Francuzom. Napoleon, stojąc na wzniesieniu w otoczeniu adjutantów (jak przystało na wodza, podług słów księdza Łopatki), śledził orlą uwagą przebieg walki.
+
+Jeszcze jedno posunięcie, jeden wysiłek — i zwycięstwo.
+
+Aliści podniosła się mgła dymu z równiny i odkryła lśniący łan piechoty angielskiej, ustawionej w czworobok. — Pułki te nadeszły pod mgłą w czasie bitwy i nie brały dotąd udziału w walce. Napoleon jednym rzutem oka ocenił ważność chwili.
 
 — Ten czworobok mi złamać! — cisnął rozkaz dowódcy kirasjerów, których oszczędzał dotąd, by ich rzucić na szalę w decydującym momencie.
 
@@ -287,7 +375,9 @@ Oto gdy chmura jazdy zrównała się z białym punktem, zniknął pierwszy szere
 
 Napoleon zbladł — zrozumiał.
 
-Tam był wąwóz głęboki, niewidoczny ze wzniesienia, przecinający pochyłość. Nim się końmi i ludźmi wypełnił, chmura stopniała o trzecią część. Reszta przejechała po tym moście krwawym, pognała dalej ku równinie. Lecz już, osłabiona w pędzie i w swej masie, nie zdołała złamać czworoboku. Przyszło następczo Waterloo...
+Tam był wąwóz głęboki, niewidoczny ze wzniesienia, przecinający pochyłość. Nim się końmi i ludźmi wypełnił, chmura stopniała o trzecią część.
+
+Reszta przejechała po tym moście krwawym, pognała dalej ku równinie. Lecz już, osłabiona w pędzie i w swej masie, nie zdołała złamać czworoboku. Przyszło następczo Waterloo...
 
 Kapliczka więc była przyczyną, która sprawiła upadek Napoleona. Gdyby był tę kapliczkę wcześniej zauważył i zbadał, z jakiego powodu tam stoi, nie byłby posyłał swych decydujących pułków na stracenie. Lecz już za późno ją spostrzegł — za późno było wstrzymać wicher jazdy.
 
@@ -297,7 +387,11 @@ Co spotkało Napoleona, mogło spotkać i księdza Łopatkę. Tak się też isto
 
 Było to podczas żniw. Zwożono z pola jęczmień do stodoły. Zrazu robota szła powoli — jak na plebańskim. Lecz na odwieczerz przyspieszono pracę i nawet gorączkowo zaczęto się uwijać, gdyż burza nadciągała.
 
-Sam ksiądz Łopatka, zbudzony odgłosem grzmotu z drzemki poobiedniej, objął dowództwo nad zwózką. Rozkazy jego gromkie i stanowcze ujęły popłoch w pewien ład i nadały robocie tempo bojowych poruszeń. Widać go było, jak stał przy zrzucaniu snopów z wozu na progu boiska i do taktu podawania na stóg wycinał krótko: „raz, dwa — raz, dwa”, a potem, gdy zawracano w pole, wskakiwał na wóz i stojąc niby na rydwanie (widział podobną nawet na sztychu apoteozę Napoleona) przynaglał Maćka-Neya do pośpiechu.
+Sam ksiądz Łopatka, zbudzony odgłosem grzmotu z drzemki poobiedniej, objął dowództwo nad zwózką. Rozkazy jego gromkie i stanowcze ujęły popłoch w pewien ład i nadały robocie tempo bojowych poruszeń.
+
+Widać go było, jak stał przy zrzucaniu snopów z wozu na progu boiska i do taktu podawania na stóg wycinał krótko: „raz, dwa — raz, dwa”, a potem, gdy zawracano w pole,
+
+wskakiwał na wóz i stojąc niby na rydwanie (widział podobną nawet na sztychu apoteozę Napoleona) przynaglał Maćka-Neya do pośpiechu.
 
 Zwieziono już kóp sporo. Wzięto właśnie przedostatnią kopę, gdy burza się zbliżyła. Jeszcze pozostała jedna. — Ksiądz Łopatka w gorączce bojowej sam własnoręcznie pomagał zrzucać snopy na boisko.
 
@@ -307,7 +401,9 @@ Gdy zawrócono, wskoczył na wóz, jak uprzednio i popędził furmana co duchu. 
 
 — Jedź na przełaj — krzyknął ku woźnicy.
 
-Maciek też skręcił z drogi i wziął się na przełaj przez pole. Pole w tej połaci spadziste było — konie ruszyły wartko. Wóz podskakiwał po zbrużdżeniach gruntu. Nie dbał na to ksiądz Łopatka — stał bohatersko na wozie przytrzymując się dłonią letry i śledził oczyma pilnie postęp chmury. To samo zapewne czynić musiał woźnica — gdyż nagle ksiądz Łopatka pojrzawszy przed się, krzyknął:
+Maciek też skręcił z drogi i wziął się na przełaj przez pole. Pole w tej połaci spadziste było — konie ruszyły wartko. Wóz podskakiwał po zbrużdżeniach gruntu.
+
+Nie dbał na to ksiądz Łopatka — stał bohatersko na wozie przytrzymując się dłonią letry i śledził oczyma pilnie postęp chmury. To samo zapewne czynić musiał woźnica — gdyż nagle ksiądz Łopatka pojrzawszy przed się, krzyknął:
 
 — Ney! Nie widzisz ośle..: kapliczka!
 
@@ -329,9 +425,13 @@ Jeżeli odtąd oddzielał jeszcze w myślach lub w uczuciu postać tamtego od si
 
 — Gdybym był tę kapliczkę wcześniej zauważył... nie opuszczał się na Neya... Lecz widać tak chciał los.
 
-— Przypadek, mówicie panowie? — zwracał się w majestacie swej klęski do lekarzy. — Tak, zapewne... Lecz czy panowie zdajecie sobie sprawę jasno z wagi owego przypadku? Z jego następstw i skutków na przyszłość?... Oto gdyby nie ta kapliczka, mapa Europy inaczej by wyglądała. — Czymże jest inny przypadek od losu? Musiało przyjść nasze Waterloo — i przyszło.
+— Przypadek, mówicie panowie? — zwracał się w majestacie swej klęski do lekarzy. — Tak, zapewne... Lecz czy panowie zdajecie sobie sprawę jasno z wagi owego przypadku? Z jego następstw i skutków na przyszłość?...
 
-— Jesteśmy oto na Elbie — mieszał następstwa aktów. — Koalicja tryumfuje. Lew upadł. Komisje obradują, wzywają świadków, śledztwa... Taylerand, szelma, zdradzi. Biedna opuszczona Józefina... Ale tryumf przedwczesny! — wołał z patosem. — Lew się jeszcze podźwignie. Zobaczą wkrótce jego groźną grzywę, jego nieulęknioną królewską postawę. Zadrżą zdrajcy sprzedajni!
+Oto gdyby nie ta kapliczka, mapa Europy inaczej by wyglądała. — Czymże jest inny przypadek od losu? Musiało przyjść nasze Waterloo — i przyszło.
+
+— Jesteśmy oto na Elbie — mieszał następstwa aktów. — Koalicja tryumfuje. Lew upadł. Komisje obradują, wzywają świadków, śledztwa... Taylerand, szelma, zdradzi. Biedna opuszczona Józefina... Ale tryumf przedwczesny! — wołał z patosem. — Lew się jeszcze podźwignie.
+
+Zobaczą wkrótce jego groźną grzywę, jego nieulęknioną królewską postawę. Zadrżą zdrajcy sprzedajni!
 
 Lekarze potakiwali i kiwając głowami znacząco — zapisywali sobie jego ważne słowa.
 
@@ -343,13 +443,19 @@ Lekarze potakiwali i kiwając głowami znacząco — zapisywali sobie jego ważn
 
 Wkrótce dzięki zabiegom lekarskim noga się wygoiła i ksiądz Łopatka, aczkolwiek uchromujący jeszcze na tę nogę, mógł już opuścić szpital — czyli raczej „wyspę Elbę”, jak się wyrażał. — Równocześnie odeszła też odpowiednia opinia lekarzy do konsystorza.
 
-Wróciwszy z „Elby” do Wiórek, ksiądz „Napoleon”- Łopatka zastał ruinację w swym „Wersalu”: biurka poodmykane, księgi porozrzucane, ważne zapiski historyczne zniknione — widocznie koalicja przez szpiegów swych tu pracowała. A nie zastał już biednej Józefiny, która zabrawszy na pamiątkę wiele rzeczy drogich, nie czekając wyroku komisji koalicyjnej, progi wersalskie opuściła.
+Wróciwszy z „Elby” do Wiórek, ksiądz „Napoleon”- Łopatka zastał ruinację w swym „Wersalu”: biurka poodmykane, księgi porozrzucane, ważne zapiski historyczne zniknione — widocznie koalicja przez szpiegów swych tu pracowała.
 
-Ksiądz „Napoleon”-Łopatka zrozumiał rzecz i wpadł we wściekłość. Tayleranda napędził z urzędu, Talmę usunął z kościoła, a za zdrajcą Davidem, który, jak się okazało, wyjechał razem z Józefiną, wysłał gończe listy. To zarządziwszy i połamawszy kilka krzeseł w dodatku, opadł ciężko na fotel.
+A nie zastał już biednej Józefiny, która zabrawszy na pamiątkę wiele rzeczy drogich, nie czekając wyroku komisji koalicyjnej, progi wersalskie opuściła.
+
+Ksiądz „Napoleon”-Łopatka zrozumiał rzecz i wpadł we wściekłość. Tayleranda napędził z urzędu, Talmę usunął z kościoła, a za zdrajcą Davidem, który, jak się okazało, wyjechał razem z Józefiną, wysłał gończe listy.
+
+To zarządziwszy i połamawszy kilka krzeseł w dodatku, opadł ciężko na fotel.
 
 — Oto są skutki przegranej — rzekł do portretu. — Lecz my się jeszcze podźwigniemy! Nie poddamy się słabości. Poczują jeszcze wrogowie moc naszą!
 
-W najbliższą niedzielę wygłosił piorunującą mowę do narodu. — Wskazał na niebezpieczeństwo inwazji wroga i na słabość wewnątrz państwa. Oto zdrada jest dokoła! dowodził. Zdrajcami jest otoczony zewsząd. Napędzeni Talma i Taylerand schronili się pod opiekuńcze skrzydła sprzymierzonych — prefekci departamentów jawnie znoszą się z koalicją — a nawet współwładca wikary spiskuje potajemnie.
+W najbliższą niedzielę wygłosił piorunującą mowę do narodu. — Wskazał na niebezpieczeństwo inwazji wroga i na słabość wewnątrz państwa.
+
+Oto zdrada jest dokoła! dowodził. Zdrajcami jest otoczony zewsząd. Napędzeni Talma i Taylerand schronili się pod opiekuńcze skrzydła sprzymierzonych — prefekci departamentów jawnie znoszą się z koalicją — a nawet współwładca wikary spiskuje potajemnie.
 
 — Obywatele! — wołał. — Musicie odeprzeć te zakusy wrogów, wytępić zdradę jawną i tajemną, dać prawdzie oręż do ręki. Stańcie odważnie, jak jesteście wszyscy — a z taką armią waleczną przejdę śmiało te Alpy fałszu — i zwyciężę!
 
