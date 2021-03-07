@@ -5,7 +5,11 @@ To jest nagranie LibriVox. Wszystkie nagrania LibriVox należą do domeny public
 
 Niedowiarek
 
-Smutno i ciężko w kotlinie podkarpackiej. Słota już dwa tygodnie trwa... Zewsząd, z południa i z zachodu, z dalekich lądów i od morza zleciały się mgły i przysiadły tę ziemię nieszczęsną, tę krainę kęp i wiecznej nędzy; rozścieliły się po mokrych zemniaczyskach, porosłych wcześnie łopuchem i mleczem trującym, i przeganiają się po ugorach i tłokach, gdzie czerwienią się rdzawo rozorane, niczem nie obsiane, zagony.
+Smutno i ciężko w kotlinie podkarpackiej. Słota już dwa tygodnie trwa...
+
+Zewsząd, z południa i z zachodu, z dalekich lądów i od morza zleciały się mgły i przysiadły tę ziemię nieszczęsną, tę krainę kęp i wiecznej nędzy;
+
+rozścieliły się po mokrych zemniaczyskach, porosłych wcześnie łopuchem i mleczem trującym, i przeganiają się po ugorach i tłokach, gdzie czerwienią się rdzawo rozorane, niczem nie obsiane, zagony.
 
 — Dawno już nie było takie wiesny — mówią strapieni ludzie między sobą. — Ani to ziemniaków okopać, ani to dosiać poczciwie, jak się patrzy, bo jakże? Deszcze i psoty bez ustanku... O Boże litościwy i drogi, cóż się to stało, aj co, żeś się tak uwziął na ten naród nieszczęsny?
 
@@ -21,13 +25,17 @@ Smutno i ciężko w kotlinie podkarpackiej. Słota już dwa tygodnie trwa... Zew
 
 Na to już nie ma nikt nic do powiedzenia, jeden tylko Cyrek, co przy samym kościele siedzi, zdaje się powątpiewać, bo chlipie niezrozumiale oczami... Ale ktoby się ta obzierał na takiego niedowiarka? Nie wierzy — to zmierzy i sam się przekona.
 
-W kościele nabożeństwa się odprawiają na uproszenie pogody u Pana Boga. Falami lud zalewa kościół drewniany. Ciżba w świątyni, duszenie, płacz, przekleństwa i krzyki — po sumie: suplikacje przejmujące, organy i jęki. Wszystek lud płacze zmiłowania Bożego. Z dalekich roztok spłynął do ołtarza i pada krzyżem przed wystawioną monstrancją.
+W kościele nabożeństwa się odprawiają na uproszenie pogody u Pana Boga. Falami lud zalewa kościół drewniany. Ciżba w świątyni, duszenie, płacz, przekleństwa i krzyki — po sumie: suplikacje przejmujące, organy i jęki. Wszystek lud płacze zmiłowania Bożego.
+
+Z dalekich roztok spłynął do ołtarza i pada krzyżem przed wystawioną monstrancją.
 
 Po nabożeństwie wylewa się potok głów odkrytych z kościelnego cmentarza i rozpływa się po kamienistym rynku. Widać gromadki, powiększające się z każdą chwilą, gwarzące cicho, trwożliwie, bez krzyku i hałasu.
 
 Na długich ławach, przed karczmą-ratuszem, usiedli rzędem gazdowie i wiekowi. Siedzą z pochylonemi głowami: strączki białych włosów osłoniły im spalone szyje. W siwych chazukach z owczej wełny, zdają się być rzędem karłowatych jałowców, osendziałych śniegiem.
 
-I u wójta, w urzędzie gminnym, nie tak gwarno i hałaśliwie, jak zwykle. Poschodzili się, co prawda, wszyscy radni; nie brak Jędrka z nad miedzy i Józka od Chlipały i Tomka Nieboraka ze Skalistego; jest i pan pisarz, „jedna głowa na cztery wsie dookoła, jeden rozum i jedno orendzie“.
+I u wójta, w urzędzie gminnym, nie tak gwarno i hałaśliwie, jak zwykle.
+
+Poschodzili się, co prawda, wszyscy radni; nie brak Jędrka z nad miedzy i Józka od Chlipały i Tomka Nieboraka ze Skalistego; jest i pan pisarz, „jedna głowa na cztery wsie dookoła, jeden rozum i jedno orendzie“.
 
 Siedzą, bo siedzą, bo ławek nie braknie; piją, bo piją, bo co mają robić na te ciężkie czasy — ale u wszystkich widać zasępienie i utrapienie wieczne, co młyńskim kamieniem sparło się na sumieniu i ani rusz.
 
@@ -45,7 +53,9 @@ I kolejka przeszła rzędem, nie omijając nikogo. Wójt Okpiśny szynkuje raźn
 
 — Jakże chcecie, cobych nie pamiętał?
 
-— O, o, cóż się to dzieje moiściewy, kochani, drodzy... — jęczy Tomek. — Ani ziemniaków ogrześć nieporada, ani nic... Do znaku wszystko skapie i zmarnieje... Matko Najświętsza! Dejże też te pogody jakie, uproś przecie u Pana Jezusa, u synaczka swojego najmilszego... Królowo Niebios, Pani moja... w ręce!
+— O, o, cóż się to dzieje moiściewy, kochani, drodzy... — jęczy Tomek. — Ani ziemniaków ogrześć nieporada, ani nic...
+
+Do znaku wszystko skapie i zmarnieje... Matko Najświętsza! Dejże też te pogody jakie, uproś przecie u Pana Jezusa, u synaczka swojego najmilszego... Królowo Niebios, Pani moja... w ręce!
 
 — Dej Bożej.
 
@@ -55,7 +65,9 @@ I kolejka przeszła rzędem, nie omijając nikogo. Wójt Okpiśny szynkuje raźn
 
 W milczeniu podawali dalej szklankę okopistą, uważając przytem, ażeby nie rozlać, nie sponiewierać daru bożego.
 
-Gdy przyszła kolej na pisarza, ten ujął misternie szklankę dwoma palcami, przejrzał się w niej i wypił; potem nalał drugą i tę już bez namysłu wychylił, podając sturbowanemu sąsiadowi, ktobądź nim był, próżne, zielone szkło. Tak czynił zawdy, odkąd go poznali, więc nikt się temu nie dziwił.
+Gdy przyszła kolej na pisarza, ten ujął misternie szklankę dwoma palcami, przejrzał się w niej i wypił; potem nalał drugą i tę już bez namysłu wychylił, podając sturbowanemu sąsiadowi, ktobądź nim był, próżne, zielone szkło.
+
+Tak czynił zawdy, odkąd go poznali, więc nikt się temu nie dziwił.
 
 — Musiał się już z tem urodzić — powiadali — abo, kto wie...
 
@@ -133,7 +145,9 @@ A gdy wszyscy milczeli, podniósł głos i tak prawił:
 
 — Hej! — potaknęli.
 
-— Ino o tych idzie, co pod dzwonnicę nie zajrzą, a dom Boży obchodzą z daleka... Ci to heretycy, niedowiarki — prawił — co niedzielę świętują w chałupie, wymijają ućciwych ludzi, do spowiedzi nie idą, jak rok długi, ba ino grzeszą i grzeszą... Oni to rozumu uczą się z pism djabelskich i bezbożnych książek, oni to djabłu zaprzedali swą duszę na wieczne zatracenie.
+— Ino o tych idzie, co pod dzwonnicę nie zajrzą, a dom Boży obchodzą z daleka... Ci to heretycy, niedowiarki — prawił — co niedzielę świętują w chałupie, wymijają ućciwych ludzi, do spowiedzi nie idą, jak rok długi, ba ino grzeszą i grzeszą...
+
+Oni to rozumu uczą się z pism djabelskich i bezbożnych książek, oni to djabłu zaprzedali swą duszę na wieczne zatracenie.
 
 Tu odsapnął pan pisarz i wychylił szklankę.
 
@@ -167,7 +181,9 @@ Nie słuchali go. Zajadłość na Cyrka rosła; dopowiadali o nim coraz to nowsz
 
 — Co?
 
-— Kwiczole chyta... „Zjadłeś ty djabła, aj-eś ty zjadł“ — powiadam mu — „toś tu? A któż za ciebie w kościele?“ — „Ja — pada — za siebie najął“... — „Kogo?“ — pytam się. „Błażeja Szczyptę“ — odpowiada. — „Ja mu siekł, a baba mu żęna“... „Poczekaj, hyclu!“ — mówię mu — djabli Szczypty za ciebie do piekła nie najmą; musisz ty sam odsługować“...
+— Kwiczole chyta... „Zjadłeś ty djabła, aj-eś ty zjadł“ — powiadam mu — „toś tu? A któż za ciebie w kościele?“ — „Ja — pada — za siebie najął“... — „Kogo?“ — pytam się. „Błażeja Szczyptę“ — odpowiada. — „Ja mu siekł, a baba mu żęna“...
+
+„Poczekaj, hyclu!“ — mówię mu — djabli Szczypty za ciebie do piekła nie najmą; musisz ty sam odsługować“...
 
 — Siedem roków, jak nie był do spowiedzi...
 
@@ -299,7 +315,9 @@ Rzucili się ku niemu i poczęli go ciągnąć gwałtem; jeden za chazukę, drug
 
 — Twarde macie sumienie — mówili, dysząc.
 
-— Coby robił na świecie bez niego? Ziemia twarda, jak skała, ani je ugryść, to trza twarde uwziątki coby wyżej... Kumie! — zwrócił się do wójta mam do was nieduży interesik... ale to jutro — dodał po namyśle. — Wyciągnijcieno jeszcze flaszczynę!... — szepnął i począł szukać w zanadrzu okrąglaków.
+— Coby robił na świecie bez niego? Ziemia twarda, jak skała, ani je ugryść, to trza twarde uwziątki coby wyżej...
+
+Kumie! — zwrócił się do wójta mam do was nieduży interesik... ale to jutro — dodał po namyśle. — Wyciągnijcieno jeszcze flaszczynę!... — szepnął i począł szukać w zanadrzu okrąglaków.
 
 Radni myśleli, że sobie Cyrek flaszkę do rękawa wsadzi, więc niemałe było ich ździwienie i radość, skoro ją Cyrek na stole postawił.
 
