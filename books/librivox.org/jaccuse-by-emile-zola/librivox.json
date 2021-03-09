@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1840",
+          "dod": "1902",
+          "first_name": "Émile",
+          "id": "1233",
+          "last_name": "Zola"
+        }
+      ],
+      "copyright_year": "1898",
+      "description": "J'accuse est le titre d'un article rédigé par Émile Zola lors de l'affaire Dreyfus et publié dans le journal L'Aurore du 13 janvier 1898 sous forme d'une lettre ouverte au Président de la République Félix Faure. Il s'est inspiré d'un dossier fourni en 1896 par l'écrivain Bernard Lazare. (Résumé de Wikipedia)\n<br /><br />\n\"J'accuse!\" (I accuse!) was published January 13, 1898 in the maiden issue of the newspaper L'Aurore (The Dawn). It had the effect of a bomb. In the words of historian Barbara Tuchman, it was \"one of the great commotions of history.\" Zola's intent was to force his own prosecution for libel so that the emerging facts of the Dreyfus case could be thoroughly aired. In this he succeeded. He was convicted, appealed, was retried, and, before hearing the result, fled to England on the advice of his counsel and friends, returning to Paris in June 1899 when he heard that Dreyfus's trial was to be reviewed. (Summary from Wikipedia)",
+      "genres": [
+        {
+          "id": "84",
+          "name": "Essays & Short Works"
+        },
+        {
+          "id": "90",
+          "name": "Law"
+        }
+      ],
+      "id": "878",
+      "language": "French",
+      "num_sections": "1",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "134453",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "1710",
+          "readers": [
+            {
+              "display_name": "Ezwa",
+              "reader_id": "123"
+            }
+          ],
+          "section_number": "1",
+          "title": "Chapter 1"
+        }
+      ],
+      "title": "J'accuse...!",
+      "totaltime": "0:28:30",
+      "totaltimesecs": 1710,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/jaccuse_librivox",
+      "url_librivox": "https://librivox.org/jaccuse-by-emile-zola/",
+      "url_other": null,
+      "url_project": "http://fr.wikipedia.org/wiki/J'accuse",
+      "url_rss": "https://librivox.org/rss/878",
+      "url_text_source": "http://abu.cnam.fr/cgi-bin/donner?jaccuse3",
+      "url_zip_file": "http://www.archive.org/download/jaccuse_librivox/jaccuse_librivox_64kb_mp3.zip"
+    }
+  ]
+}
