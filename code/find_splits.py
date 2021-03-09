@@ -14,6 +14,34 @@ def num_lines(text, characters_per_line):
         for line in text.rstrip().split('\n')
     )
 
+def strip_end(paragraph):
+    start_time = paragraph['start_time']
+    end_time = paragraph['end_time']
+    span = {
+        'text': align_json.span_text(paragraph),
+        'speech': align_json.span_speech(paragraph),
+    }
+    subs = paragraph['subalignments']
+    if subs:
+        subs[-1] = strip_end(subs[-1])
+        span = {
+            'text': ''.join(align_json.span_text(sub) for sub in subs),
+            'speech': ''.join(align_json.span_speech(sub) for sub in subs),
+        }
+    else:
+        def strip_newline_or_space(text):
+            if text.endswith('\n'):
+                return text.rstrip('\n')
+            else:
+                return text.rstrip()
+        span['text'] = strip_newline_or_space(span['text'])
+        span['speech'] = strip_newline_or_space(span['speech'])
+    return {
+        'start_time': start_time,
+        'end_time': end_time,
+        'span': span,
+        'subalignments': subs,
+    }
 
 def split_paragraph(paragraph, language=None):
     characters_per_line, lines_per_paragraph = defaultdict(
@@ -77,9 +105,14 @@ def split_paragraph(paragraph, language=None):
         paragraph_between_breaks = {
             'start_time': (paragraph if start == 0 else subs[start])['start_time'],
             'end_time': (paragraph if end == len(subs) else subs[end-1])['end_time'],
-            'span': ''.join(align_json.span_text(sub) for sub in subs[start:end]),
+            'span': {
+                'text': ''.join(align_json.span_text(sub) for sub in subs[start:end]),
+                'speech': ''.join(align_json.span_speech(sub) for sub in subs[start:end]),
+            },
             'subalignments': subs[start:end],
         }
+        if end != breaks[-1]:
+            paragraph_between_breaks = strip_end(paragraph_between_breaks)
         broken += split_paragraph(paragraph_between_breaks, language=language)
 
     return broken
@@ -98,9 +131,9 @@ def main(argv):
     for paragraph in alignments:
         splits = split_paragraph(paragraph, language=args.language)
         for split in splits:
-            paragraphs.append(align_json.span_ruby(split).rstrip()+'\n\n')
+            paragraphs.append(align_json.span_ruby(split).rstrip('\n')+'\n\n')
 
-    new_text = ''.join(paragraphs).rstrip()+'\n\n'
+    new_text = ''.join(paragraphs).rstrip('\n')+'\n\n'
 
     with open(args.output, 'r') as f: old_text = f.read()
 
