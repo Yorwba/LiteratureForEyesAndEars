@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1881",
+          "dod": "1958",
+          "first_name": "Juan Ramón",
+          "id": "11397",
+          "last_name": "Jiménez"
+        }
+      ],
+      "copyright_year": "1914",
+      "description": "Platero y Yo es un “diario” en prosa acerca de un tierno burrito llamado Platero. El autor describe su pueblo, Moguer, sus paisajes, sus animales y su gente con una perspectiva de única y refrescante. Al leer cada corta estrofa, o capítulo, nos transportamos a las calles de Moguer, escuchamos sus ruidos, y hasta olemos el pan recién sacado del horno. El poetico estilo de Juan Ramón Jiménez nos inspira a experimentar el mundo de cada uno de nosotros de una manera diferente y a percibir la belleza de la vida ordinaria en todo lo que nos rodea. - Resumen por Joyfull.<br /><br />Platero y Yo is a “diary” in prose about a sweet little donkey named Platero. The author describes his town, Moguer, its landscapes, its animals, and its people in refreshing and unique perspective. When reading each short stanza, or chapter, we transport ourselves to the streets of Moguer, we listen to its sounds, and even smell the bread coming out of the oven! Juan Ramón Jiménez's poetic style inspires us to experience the world around us in a different manner and to perceive the beauty of ordinary life in everything that surrounds us. - Summary by Joyfull</p>",
+      "genres": [
+        {
+          "id": "54",
+          "name": "Published 1900 onward"
+        }
+      ],
+      "id": "9920",
+      "language": "Spanish",
+      "num_sections": "8",
+      "sections": [
+        {
+          "file_name": "plateroyyo_00_jimenez_64kb.mp3",
+          "id": "341111",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_0_jimenez_cb_64kb.mp3",
+          "playtime": "118",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "0",
+          "title": "Prologo"
+        },
+        {
+          "file_name": "plateroyyo_01_jimenez_64kb.mp3",
+          "id": "341112",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_01_jimenez_cb_64kb.mp3",
+          "playtime": "1017",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "1",
+          "title": "Estrofas 1-13"
+        },
+        {
+          "file_name": "plateroyyo_02_jimenez_64kb.mp3",
+          "id": "341113",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_02_jimenez_cb_64kb.mp3",
+          "playtime": "865",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "2",
+          "title": "Estrofas 14-23"
+        },
+        {
+          "file_name": "plateroyyo_03_jimenez_64kb.mp3",
+          "id": "341114",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_03_jimenez_cb_64kb.mp3",
+          "playtime": "1019",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "3",
+          "title": "Estrofas 24-33"
+        },
+        {
+          "file_name": "plateroyyo_04_jimenez_64kb.mp3",
+          "id": "341115",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_04_jimenez_cb_64kb.mp3",
+          "playtime": "905",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "4",
+          "title": "Estrofas 34-43"
+        },
+        {
+          "file_name": "plateroyyo_05_jimenez_64kb.mp3",
+          "id": "341116",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_05_jimenez_cb_64kb.mp3",
+          "playtime": "1012",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "5",
+          "title": "Estrofas 44-53"
+        },
+        {
+          "file_name": "plateroyyo_06_jimenez_64kb.mp3",
+          "id": "341117",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_06_jimenez_cb_64kb.mp3",
+          "playtime": "877",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "6",
+          "title": "Estrofas 54-63"
+        },
+        {
+          "file_name": "plateroyyo_07_jimenez_64kb.mp3",
+          "id": "341120",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/plateroyyo_07_jimenez_cb_64kb.mp3",
+          "playtime": "102",
+          "readers": [
+            {
+              "display_name": "Joyfull",
+              "reader_id": "9972"
+            }
+          ],
+          "section_number": "7",
+          "title": "Platero en el Cielo de Moguer"
+        }
+      ],
+      "title": "Platero y Yo",
+      "totaltime": "01:38:35",
+      "totaltimesecs": 5915,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/plateroyyo_1505_librivox",
+      "url_librivox": "https://librivox.org/platero-y-yo-by-juan-ramon-jimenez/",
+      "url_other": null,
+      "url_project": "http://en.wikipedia.org/wiki/Platero",
+      "url_rss": "https://librivox.org/rss/9920",
+      "url_text_source": "http://www.gutenberg.org/ebooks/39209",
+      "url_zip_file": "http://archive.org/download/plateroyyo_1505_librivox/plateroyyo_1505_librivox_64kb_mp3.zip"
+    }
+  ]
+}
