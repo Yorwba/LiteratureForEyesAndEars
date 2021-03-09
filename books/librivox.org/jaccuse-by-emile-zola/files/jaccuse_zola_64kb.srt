@@ -1,0 +1,949 @@
+1
+00:00:00,360 --> 00:00:02,500
+J’accuse…!
+
+2
+00:00:02,500 --> 00:00:05,360
+Ceci est un enregistrement LibriVox.
+
+3
+00:00:05,360 --> 00:00:08,220
+Tous nos enregistrements appartiennent au domaine public.
+
+4
+00:00:08,220 --> 00:00:13,640
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+5
+00:00:13,640 --> 00:00:15,610
+Enregistré par Ezwa
+
+6
+00:00:15,610 --> 00:00:16,790
+J’accuse…!
+
+7
+00:00:16,790 --> 00:00:23,430
+Lettre au Président de la République paru dans L’Aurore, le 13 janvier 1898, d’Émile Zola.
+
+8
+00:00:23,430 --> 00:00:27,970
+Lettre
+à M. Félix Faure
+Président de la République
+
+9
+00:00:27,970 --> 00:00:29,290
+Monsieur le Président,
+
+10
+00:00:29,290 --> 00:00:44,050
+Me permettez-vous, dans ma gratitude pour le bienveillant accueil que vous m’avez fait un jour, d’avoir le souci de votre juste gloire et de vous dire que votre étoile, si heureuse jusqu’ici, est menacée de la plus honteuse, de la plus ineffaçable des taches ?
+
+11
+00:00:44,050 --> 00:00:48,560
+Vous êtes sorti sain et sauf des basses calomnies, vous avez conquis les cœurs.
+
+12
+00:00:48,560 --> 00:01:04,530
+Vous apparaissez rayonnant dans l’apothéose de cette fête patriotique que l’alliance russe a été pour la France, et vous vous préparez à présider au solennel triomphe de notre Exposition universelle, qui couronnera notre grand siècle de travail, de vérité et de liberté.
+
+13
+00:01:04,530 --> 00:01:11,450
+Mais quelle tache de boue sur votre nom — j’allais dire sur votre règne — que cette abominable affaire Dreyfus !
+
+14
+00:01:11,450 --> 00:01:19,790
+Un conseil de guerre vient, par ordre, d’oser acquitter un Esterhazy, soufflet suprême à toute vérité, à toute justice.
+
+15
+00:01:19,790 --> 00:01:28,860
+Et c’est fini, la France a sur la joue cette souillure, l’histoire écrira que c’est sous votre présidence qu’un tel crime social a pu être commis.
+
+16
+00:01:28,860 --> 00:01:32,590
+Puisqu’ils ont osé, j’oserai aussi, moi.
+
+17
+00:01:32,590 --> 00:01:41,500
+La vérité, je la dirai, car j’ai promis de la dire, si la justice, régulièrement saisie, ne la faisait pas, pleine et entière.
+
+18
+00:01:41,500 --> 00:01:45,360
+Mon devoir est de parler, je ne veux pas être complice.
+
+19
+00:01:45,360 --> 00:01:53,770
+Mes nuits seraient hantées par le spectre de l’innocent qui expie là-bas, dans la plus affreuse des tortures, un crime qu’il n’a pas commis.
+
+20
+00:01:53,770 --> 00:02:00,640
+Et c’est à vous, monsieur le Président, que je la crierai, cette vérité, de toute la force de ma révolte d’honnête homme.
+
+21
+00:02:00,640 --> 00:02:04,690
+Pour votre honneur, je suis convaincu que vous l’ignorez.
+
+22
+00:02:04,690 --> 00:02:12,130
+Et à qui donc dénoncerai-je la tourbe malfaisante des vrais coupables, si ce n’est à vous, le premier magistrat du pays ?
+
+23
+00:02:12,130 --> 00:02:16,740
+La vérité d’abord sur le procès et sur la condamnation de Dreyfus.
+
+24
+00:02:16,740 --> 00:02:23,770
+Un homme néfaste a tout mené, a tout fait, c’est le colonel du Paty de Clam, alors simple commandant.
+
+25
+00:02:23,770 --> 00:02:32,200
+Il est l’affaire Dreyfus tout entière, on ne la connaîtra que lorsqu’une enquête loyale aura établi nettement ses actes et ses responsabilités.
+
+26
+00:02:32,200 --> 00:02:40,240
+Il apparaît comme l’esprit le plus fumeux, le plus compliqué, hanté d’intrigues romanesques, se complaisant aux moyens des romans-feuilletons,
+
+27
+00:02:40,240 --> 00:02:48,830
+les papiers volés, les lettres anonymes, les rendez-vous dans les endroits déserts, les femmes mystérieuses qui colportent, de nuit, des preuves accablantes.
+
+28
+00:02:48,830 --> 00:02:57,270
+C’est lui qui imagina de dicter le bordereau à Dreyfus ; c’est lui qui rêva de l’étudier dans une pièce entièrement revêtue de glaces ;
+
+29
+00:02:57,270 --> 00:03:12,270
+c’est lui que le commandant Forzinetti nous représente armé d’une lanterne sourde, voulant se faire introduire près de l’accusé endormi, pour projeter sur son visage un brusque flot de lumière et surprendre ainsi son crime, dans l’émoi du réveil.
+
+30
+00:03:12,270 --> 00:03:16,550
+Et je n’ai pas à tout dire, qu’on cherche, on trouvera.
+
+31
+00:03:16,550 --> 00:03:31,560
+Je déclare simplement que le commandant du Paty de Clam, chargé d’instruire l’affaire Dreyfus, comme officier judiciaire, est, dans l’ordre des dates et des responsabilités, le premier coupable de l’effroyable erreur judiciaire qui a été commise.
+
+32
+00:03:31,560 --> 00:03:39,840
+Le bordereau était depuis quelque temps déjà entre les mains du colonel Sandherr, directeur du bureau des renseignements, mort depuis de paralysie générale.
+
+33
+00:03:39,840 --> 00:03:55,210
+Des « fuites » avaient lieu, des papiers disparaissaient, comme il en disparaît aujourd’hui encore ; et l’auteur du bordereau était recherché, lorsqu’un a priori se fit peu à peu que cet auteur ne pouvait être qu’un officier de l’état-major, et un officier d’artillerie :
+
+34
+00:03:55,210 --> 00:04:05,750
+double erreur manifeste, qui montre avec quel esprit superficiel on avait étudié ce bordereau, car un examen raisonné démontre qu’il ne pouvait s’agir que d’un officier de troupe.
+
+35
+00:04:05,750 --> 00:04:16,150
+On cherchait donc dans la maison, on examinait les écritures, c’était comme une affaire de famille, un traître à surprendre dans les bureaux mêmes, pour l’en expulser.
+
+36
+00:04:16,150 --> 00:04:25,750
+Et, sans que je veuille refaire ici une histoire connue en partie, le commandant du Paty de Clam entre en scène, dès qu’un premier soupçon tombe sur Dreyfus.
+
+37
+00:04:25,750 --> 00:04:36,330
+À partir de ce moment, c’est lui qui a inventé Dreyfus, l’affaire devient son affaire, il se fait fort de confondre le traître, de l’amener à des aveux complets.
+
+38
+00:04:36,330 --> 00:04:42,190
+Il y a bien le ministre de la guerre, le général Mercier, dont l’intelligence semble médiocre ;
+
+39
+00:04:42,190 --> 00:04:55,130
+il y a bien le chef de l’état-major, le général de Boisdeffre, qui paraît avoir cédé à sa passion cléricale, et le sous-chef de l’état-major, le général Gonse, dont la conscience a pu s’accommoder de beaucoup de choses.
+
+40
+00:04:55,130 --> 00:05:07,860
+Mais, au fond, il n’y a d’abord que le commandant du Paty de Clam, qui les mène tous, qui les hypnotise, car il s’occupe aussi de spiritisme, d’occultisme, il converse avec les esprits.
+
+41
+00:05:07,860 --> 00:05:20,070
+On ne croira jamais les expériences auxquelles il a soumis le malheureux Dreyfus, les pièges dans lesquels il a voulu le faire tomber, les enquêtes folles, les imaginations monstrueuses, toute une démence torturante.
+
+42
+00:05:20,070 --> 00:05:20,990
+Ah !
+
+43
+00:05:20,990 --> 00:05:25,690
+cette première affaire, elle est un cauchemar, pour qui la connaît dans ses détails vrais !
+
+44
+00:05:25,690 --> 00:05:29,980
+Le commandant du Paty de Clam arrête Dreyfus, le met au secret.
+
+45
+00:05:29,980 --> 00:05:36,290
+Il court chez madame Dreyfus, la terrorise, lui dit que, si elle parle, son mari est perdu.
+
+46
+00:05:36,290 --> 00:05:40,930
+Pendant ce temps, le malheureux s’arrachait la chair, hurlait son innocence.
+
+47
+00:05:40,930 --> 00:05:55,680
+Et l’instruction a été faite ainsi, comme dans une chronique du quinzième siècle, au milieu du mystère, avec une complication d’expédients farouches, tout cela basé sur une seule charge enfantine, ce bordereau imbécile, qui n’était pas seulement une trahison vulgaire,
+
+48
+00:05:55,680 --> 00:06:02,630
+qui était aussi la plus impudente des escroqueries, car les fameux secrets livrés se trouvaient presque tous sans valeur.
+
+49
+00:06:02,630 --> 00:06:10,990
+Si j’insiste, c’est que l’œuf est ici, d’où va sortir plus tard le vrai crime, l’épouvantable déni de justice dont la France est malade.
+
+50
+00:06:10,990 --> 00:06:19,410
+Je voudrais faire toucher du doigt comment l’erreur judiciaire a pu être possible, comment elle est née des machinations du commandant du Paty de Clam,
+
+51
+00:06:19,410 --> 00:06:33,560
+comment le général Mercier, les généraux de Boisdeffre et Gonse ont pu s’y laisser prendre, engager peu à peu leur responsabilité dans cette erreur, qu’ils ont cru devoir, plus tard, imposer comme la vérité sainte, une vérité qui ne se discute même pas.
+
+52
+00:06:33,560 --> 00:06:38,470
+Au début, il n’y a donc de leur part que de l’incurie et de l’inintelligence.
+
+53
+00:06:38,470 --> 00:06:44,050
+Tout au plus, les sent-on céder aux passions religieuses du milieu et aux préjugés de l’esprit de corps.
+
+54
+00:06:44,050 --> 00:06:46,490
+Ils ont laissé faire la sottise.
+
+55
+00:06:46,490 --> 00:06:49,680
+Mais voici Dreyfus devant le conseil de guerre.
+
+56
+00:06:49,680 --> 00:06:52,760
+Le huis clos le plus absolu est exigé.
+
+57
+00:06:52,760 --> 00:07:01,640
+Un traître aurait ouvert la frontière à l’ennemi, pour conduire l’empereur allemand jusqu’à Notre-Dame, qu’on ne prendrait pas des mesures de silence et de mystère plus étroites.
+
+58
+00:07:01,640 --> 00:07:11,360
+La nation est frappée de stupeur, on chuchote des faits terribles, de ces trahisons monstrueuses qui indignent l’Histoire, et naturellement la nation s’incline.
+
+59
+00:07:11,360 --> 00:07:21,400
+Il n’y a pas de châtiment assez sévère, elle applaudira à la dégradation publique, elle voudra que le coupable reste sur son rocher d’infamie, dévoré par le remords.
+
+60
+00:07:21,400 --> 00:07:31,080
+Est-ce donc vrai, les choses indicibles, les choses dangereuses, capables de mettre l’Europe en flammes, qu’on a dû enterrer soigneusement derrière ce huis clos ?
+
+61
+00:07:31,080 --> 00:07:32,310
+Non !
+
+62
+00:07:32,310 --> 00:07:38,390
+il n’y a eu, derrière, que les imaginations romanesques et démentes du commandant du Paty de Clam.
+
+63
+00:07:38,390 --> 00:07:42,320
+Tout cela n’a été fait que pour cacher le plus saugrenu des romans-feuilletons.
+
+64
+00:07:42,320 --> 00:07:49,000
+Et il suffit, pour s’en assurer, d’étudier attentivement l’acte d’accusation, lu devant le conseil de guerre.
+
+65
+00:07:49,000 --> 00:07:49,970
+Ah !
+
+66
+00:07:49,970 --> 00:07:52,190
+le néant de cet acte d’accusation !
+
+67
+00:07:52,190 --> 00:07:57,310
+Qu’un homme ait pu être condamné sur cet acte, c’est un prodige d’iniquité.
+
+68
+00:07:57,310 --> 00:08:07,550
+Je défie les honnêtes gens de le lire, sans que leur cœur bondisse d’indignation et crie leur révolte, en pensant à l’expiation démesurée, là-bas, à l’île du Diable.
+
+69
+00:08:07,550 --> 00:08:28,190
+Dreyfus sait plusieurs langues, crime ; on n’a trouvé chez lui aucun papier compromettant, crime ; il va parfois dans son pays d’origine, crime ; il est laborieux, il a le souci de tout savoir, crime ; il ne se trouble pas, crime ; il se trouble, crime.
+
+70
+00:08:28,190 --> 00:08:33,060
+Et les naïvetés de rédaction, les formelles assertions dans le vide !
+
+71
+00:08:33,060 --> 00:08:36,090
+On nous avait parlé de quatorze chefs d’accusation :
+
+72
+00:08:36,090 --> 00:08:50,470
+nous n’en trouvons qu’une seule en fin de compte, celle du bordereau ; et nous apprenons même que les experts n’étaient pas d’accord, qu’un d’eux, M. Gobert, a été bousculé militairement, parce qu’il se permettait de ne pas conclure dans le sens désiré.
+
+73
+00:08:50,470 --> 00:08:55,220
+On parlait aussi de vingt-trois officiers qui étaient venus accabler Dreyfus de leurs témoignages.
+
+74
+00:08:55,220 --> 00:09:05,360
+Nous ignorons encore leurs interrogatoires, mais il est certain que tous ne l’avaient pas chargé ; et il est à remarquer, en outre, que tous appartenaient aux bureaux de la guerre.
+
+75
+00:09:05,360 --> 00:09:16,360
+C’est un procès de famille, on est là entre soi, et il faut s’en souvenir : l’état-major a voulu le procès, l’a jugé, et il vient de le juger une seconde fois.
+
+76
+00:09:16,360 --> 00:09:21,890
+Donc, il ne restait que le bordereau, sur lequel les experts ne s’étaient pas entendus.
+
+77
+00:09:21,890 --> 00:09:26,960
+On raconte que, dans la chambre du conseil, les juges allaient naturellement acquitter.
+
+78
+00:09:26,960 --> 00:09:42,820
+Et, dès lors, comme l’on comprend l’obstination désespérée avec laquelle, pour justifier la condamnation, on affirme aujourd’hui l’existence d’une pièce secrète, accablante, la pièce qu’on ne peut montrer, qui légitime tout, devant laquelle nous devons nous incliner,
+
+79
+00:09:42,820 --> 00:09:45,890
+le bon dieu invisible et inconnaissable.
+
+80
+00:09:45,890 --> 00:09:50,340
+Je la nie, cette pièce, je la nie de toute ma puissance !
+
+81
+00:09:50,340 --> 00:10:02,650
+Une pièce ridicule, oui, peut-être la pièce où il est question de petites femmes, et où il est parlé d’un certain D… qui devient trop exigeant, quelque mari sans doute trouvant qu’on ne lui payait pas sa femme assez cher.
+
+82
+00:10:02,650 --> 00:10:09,880
+Mais une pièce intéressant la défense nationale, qu’on ne saurait produire sans que la guerre fût déclarée demain, non, non !
+
+83
+00:10:09,880 --> 00:10:17,310
+C’est un mensonge ; et cela est d’autant plus odieux et cynique qu’ils mentent impunément sans qu’on puisse les en convaincre.
+
+84
+00:10:17,310 --> 00:10:26,140
+Ils ameutent la France, ils se cachent derrière sa légitime émotion, ils ferment les bouches en troublant les cœurs, en pervertissant les esprits.
+
+85
+00:10:26,140 --> 00:10:28,870
+Je ne connais pas de plus grand crime civique.
+
+86
+00:10:28,870 --> 00:10:39,940
+Voilà donc, monsieur le Président, les faits qui expliquent comment une erreur judiciaire a pu être commise ; et les preuves morales, la situation de fortune de Dreyfus, l’absence de motifs,
+
+87
+00:10:39,940 --> 00:10:52,510
+son continuel cri d’innocence, achèvent de le montrer comme une victime des extraordinaires imaginations du commandant du Paty de Clam, du milieu clérical où il se trouvait, de la chasse aux « sales juifs », qui déshonore notre époque.
+
+88
+00:10:52,510 --> 00:10:55,070
+Et nous arrivons à l’affaire Esterhazy.
+
+89
+00:10:55,070 --> 00:11:04,900
+Trois ans se sont passés, beaucoup de consciences restent troublées profondément, s’inquiètent, cherchent, finissent par se convaincre de l’innocence de Dreyfus.
+
+90
+00:11:04,900 --> 00:11:09,640
+Je ne ferai pas l’historique des doutes, puis de la conviction de M. Scheurer-Kestner.
+
+91
+00:11:09,640 --> 00:11:15,090
+Mais, pendant qu’il fouillait de son côté, il se passait des faits graves à l’état-major même.
+
+92
+00:11:15,090 --> 00:11:21,500
+Le colonel Sandherr était mort, et le lieutenant-colonel Picquart lui avait succédé comme chef du bureau des renseignements.
+
+93
+00:11:21,500 --> 00:11:32,200
+Et c’est à ce titre, dans l’exercice de ses fonctions, que ce dernier eut un jour entre les mains une lettre-télégramme, adressée au commandant Esterhazy, par un agent d’une puissance étrangère.
+
+94
+00:11:32,200 --> 00:11:35,370
+Son devoir strict était d’ouvrir une enquête.
+
+95
+00:11:35,370 --> 00:11:39,790
+La certitude est qu’il n’a jamais agi en dehors de la volonté de ses supérieurs.
+
+96
+00:11:39,790 --> 00:11:49,530
+Il soumit donc ses soupçons à ses supérieurs hiérarchiques, le général Gonse, puis le général de Boisdeffre, puis le général Billot, qui avait succédé au général Mercier comme ministre de la guerre.
+
+97
+00:11:49,530 --> 00:12:02,190
+Le fameux dossier Picquart, dont il a été tant parlé, n’a jamais été que le dossier Billot, j’entends le dossier fait par un subordonné pour son ministre, le dossier qui doit exister encore au ministère de la guerre.
+
+98
+00:12:02,190 --> 00:12:15,920
+Les recherches durèrent de mai à septembre 1896, et ce qu’il faut affirmer bien haut, c’est que le général de Boisdeffre et le général Billot ne mettaient pas en doute que le fameux bordereau fût de l’écriture d’Esterhazy.
+
+99
+00:12:15,920 --> 00:12:21,120
+L’enquête du lieutenant-colonel Picquart avait abouti à cette constatation certaine.
+
+100
+00:12:21,120 --> 00:12:31,670
+Mais l’émoi était grand, car la condamnation d’Esterhazy entraînait inévitablement la révision du procès Dreyfus ; et c’était ce que l’état-major ne voulait à aucun prix.
+
+101
+00:12:31,670 --> 00:12:35,880
+Il dut y avoir là une minute psychologique pleine d’angoisse.
+
+102
+00:12:35,880 --> 00:12:41,900
+Remarquez que le général Billot n’était compromis dans rien, il arrivait tout frais, il pouvait faire la vérité.
+
+103
+00:12:41,900 --> 00:12:53,570
+Il n’osa pas, dans la terreur sans doute de l’opinion publique, certainement aussi dans la crainte de livrer tout l’état-major, le général de Boisdeffre, le général Gonse, sans compter les sous-ordres.
+
+104
+00:12:53,570 --> 00:12:59,590
+Puis, ce ne fut là qu’une minute de combat entre sa conscience et ce qu’il croyait être l’intérêt militaire.
+
+105
+00:12:59,590 --> 00:13:03,580
+Quand cette minute fut passée, il était déjà trop tard.
+
+106
+00:13:03,580 --> 00:13:06,860
+Il s’était engagé, il était compromis.
+
+107
+00:13:06,860 --> 00:13:21,290
+Et, depuis lors, sa responsabilité n’a fait que grandir, il a pris à sa charge le crime des autres, il est aussi coupable que les autres, il est plus coupable qu’eux, car il a été le maître de faire justice, et il n’a rien fait.
+
+108
+00:13:21,290 --> 00:13:23,210
+Comprenez-vous cela !
+
+109
+00:13:23,210 --> 00:13:33,290
+voici un an que le général Billot, que les généraux de Boisdeffre et Gonse savent que Dreyfus est innocent, et ils ont gardé pour eux cette effroyable chose !
+
+110
+00:13:33,290 --> 00:13:37,590
+Et ces gens-là dorment, et ils ont des femmes et des enfants qu’ils aiment !
+
+111
+00:13:37,590 --> 00:13:41,260
+Le colonel Picquart avait rempli son devoir d’honnête homme.
+
+112
+00:13:41,260 --> 00:13:44,910
+Il insistait auprès de ses supérieurs, au nom de la justice.
+
+113
+00:13:44,910 --> 00:13:54,090
+Il les suppliait même, il leur disait combien leurs délais étaient impolitiques, devant le terrible orage qui s’amoncelait, qui devait éclater, lorsque la vérité serait connue.
+
+114
+00:13:54,090 --> 00:14:06,620
+Ce fut, plus tard, le langage que M. Scheurer-Kestner tint également au général Billot, l’adjurant par patriotisme de prendre en main l’affaire, de ne pas la laisser s’aggraver, au point de devenir un désastre public.
+
+115
+00:14:06,620 --> 00:14:07,740
+Non !
+
+116
+00:14:07,740 --> 00:14:12,370
+Le crime était commis, l’état-major ne pouvait plus avouer son crime.
+
+117
+00:14:12,370 --> 00:14:15,840
+Et le lieutenant-colonel Picquart fut envoyé en mission,
+
+118
+00:14:15,840 --> 00:14:27,450
+on l’éloigna de plus en plus loin, jusqu’en Tunisie, où l’on voulut même un jour honorer sa bravoure, en le chargeant d’une mission qui l’aurait sûrement fait massacrer, dans les parages où le marquis de Morès a trouvé la mort.
+
+119
+00:14:27,450 --> 00:14:33,080
+Il n’était pas en disgrâce, le général Gonse entretenait avec lui une correspondance amicale.
+
+120
+00:14:33,080 --> 00:14:37,330
+Seulement, il est des secrets qu’il ne fait pas bon d’avoir surpris.
+
+121
+00:14:37,330 --> 00:14:45,380
+À Paris, la vérité marchait, irrésistible, et l’on sait de quelle façon l’orage attendu éclata.
+
+122
+00:14:45,380 --> 00:14:57,580
+M. Mathieu Dreyfus dénonça le commandant Esterhazy comme le véritable auteur du bordereau, au moment où M. Scheurer-Kestner allait déposer, entre les mains du garde des sceaux, une demande en révision du procès.
+
+123
+00:14:57,580 --> 00:15:00,840
+Et c’est ici que le commandant Esterhazy paraît.
+
+124
+00:15:00,840 --> 00:15:05,290
+Des témoignages le montrent d’abord affolé, prêt au suicide ou à la fuite.
+
+125
+00:15:05,290 --> 00:15:11,290
+Puis, tout d’un coup, il paye d’audace, il étonne Paris par la violence de son attitude.
+
+126
+00:15:11,290 --> 00:15:23,840
+C’est que du secours lui était venu, il avait reçu une lettre anonyme l’avertissant des menées de ses ennemis, une dame mystérieuse s’était même dérangée de nuit pour lui remettre une pièce volée à l’état-major, qui devait le sauver.
+
+127
+00:15:23,840 --> 00:15:31,880
+Et je ne puis m’empêcher de retrouver là le lieutenant-colonel du Paty de Clam, en reconnaissant les expédients de son imagination fertile.
+
+128
+00:15:31,880 --> 00:15:39,440
+Son œuvre, la culpabilité de Dreyfus, était en péril, et il a voulu sûrement défendre son œuvre.
+
+129
+00:15:39,440 --> 00:15:48,860
+La révision du procès, mais c’était l’écroulement du roman-feuilleton si extravagant, si tragique, dont le dénouement abominable a lieu à l’île du Diable !
+
+130
+00:15:48,860 --> 00:15:51,590
+C’est ce qu’il ne pouvait permettre.
+
+131
+00:15:51,590 --> 00:16:02,850
+Dès lors, le duel va avoir lieu entre le lieutenant-colonel Picquart et le lieutenant-colonel du Paty de Clam, l’un le visage découvert, l’autre masqué.
+
+132
+00:16:02,850 --> 00:16:06,560
+On les retrouvera prochainement tous deux devant la justice civile.
+
+133
+00:16:06,560 --> 00:16:13,220
+Au fond, c’est toujours l’état-major qui se défend, qui ne veut pas avouer son crime, dont l’abomination grandit d’heure en heure.
+
+134
+00:16:13,220 --> 00:16:18,790
+On s’est demandé avec stupeur quels étaient les protecteurs du commandant Esterhazy.
+
+135
+00:16:18,790 --> 00:16:25,070
+C’est d’abord, dans l’ombre, le lieutenant-colonel du Paty de Clam qui a tout machiné, qui a tout conduit.
+
+136
+00:16:25,070 --> 00:16:28,100
+Sa main se trahit aux moyens saugrenus.
+
+137
+00:16:28,100 --> 00:16:30,200
+Puis, c’est le général de Boisdeffre,
+
+138
+00:16:30,200 --> 00:16:42,240
+c’est le général Gonse, c’est le général Billot lui-même, qui sont bien obligés de faire acquitter le commandant, puisqu’ils ne peuvent laisser reconnaître l’innocence de Dreyfus, sans que les bureaux de la guerre croulent sous le mépris public.
+
+139
+00:16:42,240 --> 00:16:54,960
+Et le beau résultat de cette situation prodigieuse, c’est que l’honnête homme là-dedans, le lieutenant-colonel Picquart, qui seul a fait son devoir, va être la victime, celui qu’on bafouera et qu’on punira.
+
+140
+00:16:54,960 --> 00:16:59,000
+Ô justice, quelle affreuse désespérance serre le cœur !
+
+141
+00:16:59,000 --> 00:17:05,450
+On va jusqu’à dire que c’est lui le faussaire, qu’il a fabriqué la carte-télégramme pour perdre Esterhazy.
+
+142
+00:17:05,450 --> 00:17:06,700
+Mais, grand Dieu !
+
+143
+00:17:06,700 --> 00:17:07,630
+pourquoi ?
+
+144
+00:17:07,630 --> 00:17:08,850
+dans quel but ?
+
+145
+00:17:08,850 --> 00:17:10,550
+Donnez un motif.
+
+146
+00:17:10,550 --> 00:17:13,830
+Est-ce que celui-là aussi est payé par les juifs ?
+
+147
+00:17:13,830 --> 00:17:17,360
+Le joli de l’histoire est qu’il était justement antisémite.
+
+148
+00:17:17,360 --> 00:17:18,400
+Oui !
+
+149
+00:17:18,400 --> 00:17:27,540
+nous assistons à ce spectacle infâme, des hommes perdus de dettes et de crimes dont on proclame l’innocence, tandis qu’on frappe l’honneur même, un homme à la vie sans tache !
+
+150
+00:17:27,540 --> 00:17:32,100
+Quand une société en est là, elle tombe en décomposition.
+
+151
+00:17:32,100 --> 00:17:38,900
+Voilà donc, monsieur le Président, l’affaire Esterhazy : un coupable qu’il s’agissait d’innocenter.
+
+152
+00:17:38,900 --> 00:17:44,310
+Depuis bientôt deux mois, nous pouvons suivre heure par heure la belle besogne.
+
+153
+00:17:44,310 --> 00:17:51,620
+J’abrège, car ce n’est ici, en gros, que le résumé de l’histoire dont les brûlantes pages seront un jour écrites tout au long.
+
+154
+00:17:51,620 --> 00:18:01,380
+Et nous avons donc vu le général de Pellieux, puis le commandant Ravary, conduire une enquête scélérate d’où les coquins sortent transfigurés et les honnêtes gens salis.
+
+155
+00:18:01,380 --> 00:18:04,720
+Puis, on a convoqué le conseil de guerre.
+
+156
+00:18:04,720 --> 00:18:10,620
+Comment a-t-on pu espérer qu’un conseil de guerre déferait ce qu’un conseil de guerre avait fait ?
+
+157
+00:18:10,620 --> 00:18:13,550
+Je ne parle même pas du choix toujours possible des juges.
+
+158
+00:18:13,550 --> 00:18:21,070
+L’idée supérieure de discipline, qui est dans le sang de ces soldats, ne suffit-elle à infirmer leur pouvoir d’équité ?
+
+159
+00:18:21,070 --> 00:18:23,970
+Qui dit discipline dit obéissance.
+
+160
+00:18:23,970 --> 00:18:37,360
+Lorsque le ministre de la guerre, le grand chef, a établi publiquement, aux acclamations de la représentation nationale, l’autorité de la chose jugée, vous voulez qu’un conseil de guerre lui donne un formel démenti ?
+
+161
+00:18:37,360 --> 00:18:40,310
+Hiérarchiquement, cela est impossible.
+
+162
+00:18:40,310 --> 00:18:47,830
+Le général Billot a suggestionné les juges par sa déclaration, et ils ont jugé comme ils doivent aller au feu, sans raisonner.
+
+163
+00:18:47,830 --> 00:18:53,410
+L’opinion préconçue qu’ils ont apportée sur leur siège, est évidemment celle-ci :
+
+164
+00:18:53,410 --> 00:19:04,400
+« Dreyfus a été condamné pour crime de trahison par un conseil de guerre ; il est donc coupable, et nous, conseil de guerre, nous ne pouvons le déclarer innocent ;
+
+165
+00:19:04,400 --> 00:19:10,620
+or nous savons que reconnaître la culpabilité d’Esterhazy, ce serait proclamer l’innocence de Dreyfus.
+
+166
+00:19:10,620 --> 00:19:11,280
+»
+
+167
+00:19:11,280 --> 00:19:14,540
+Rien ne pouvait les faire sortir de là.
+
+168
+00:19:14,540 --> 00:19:23,390
+Ils ont rendu une sentence inique, qui à jamais pèsera sur nos conseils de guerre, qui entachera désormais de suspicion tous leurs arrêts.
+
+169
+00:19:23,390 --> 00:19:29,750
+Le premier conseil de guerre a pu être inintelligent, le second est forcément criminel.
+
+170
+00:19:29,750 --> 00:19:42,710
+Son excuse, je le répète, est que le chef suprême avait parlé, déclarant la chose jugée inattaquable, sainte et supérieure aux hommes, de sorte que des inférieurs ne pouvaient dire le contraire.
+
+171
+00:19:42,710 --> 00:19:47,310
+On nous parle de l’honneur de l’armée, on veut que nous l’aimions, la respections.
+
+172
+00:19:47,310 --> 00:19:48,090
+Ah !
+
+173
+00:19:48,090 --> 00:19:57,990
+certes, oui, l’armée qui se lèverait à la première menace, qui défendrait la terre française, elle est tout le peuple, et nous n’avons pour elle que tendresse et respect.
+
+174
+00:19:57,990 --> 00:20:03,330
+Mais il ne s’agit pas d’elle, dont nous voulons justement la dignité, dans notre besoin de justice.
+
+175
+00:20:03,330 --> 00:20:07,860
+Il s’agit du sabre, le maître qu’on nous donnera demain peut-être.
+
+176
+00:20:07,860 --> 00:20:11,750
+Et baiser dévotement la poignée du sabre, le dieu, non !
+
+177
+00:20:11,750 --> 00:20:23,920
+Je l’ai démontré d’autre part : l’affaire Dreyfus était l’affaire des bureaux de la guerre, un officier de l’état-major, dénoncé par ses camarades de l’état-major, condamné sous la pression des chefs de l’état-major.
+
+178
+00:20:23,920 --> 00:20:30,000
+Encore une fois, il ne peut revenir innocent, sans que tout l’état-major soit coupable.
+
+179
+00:20:30,000 --> 00:20:42,030
+Aussi les bureaux, par tous les moyens imaginables, par des campagnes de presse, par des communications, par des influences, n’ont-ils couvert Esterhazy que pour perdre une seconde fois Dreyfus.
+
+180
+00:20:42,030 --> 00:20:42,830
+Ah !
+
+181
+00:20:42,830 --> 00:20:49,370
+quel coup de balai le gouvernement républicain devrait donner dans cette jésuitière, ainsi que les appelle le général Billot lui-même !
+
+182
+00:20:49,370 --> 00:20:56,470
+Où est-il, le ministère vraiment fort et d’un patriotisme sage, qui osera tout y refondre et tout y renouveler ?
+
+183
+00:20:56,470 --> 00:21:03,770
+Que de gens je connais qui, devant une guerre possible, tremblent d’angoisse, en sachant dans quelles mains est la défense nationale !
+
+184
+00:21:03,770 --> 00:21:11,970
+et quel nid de basses intrigues, de commérages et de dilapidations, est devenu cet asile sacré, où se décide le sort de la patrie !
+
+185
+00:21:11,970 --> 00:21:20,280
+On s’épouvante devant le jour terrible que vient d’y jeter l’affaire Dreyfus, ce sacrifice humain d’un malheureux, d’un « sale juif » !
+
+186
+00:21:20,280 --> 00:21:21,090
+Ah !
+
+187
+00:21:21,090 --> 00:21:29,500
+tout ce qui s’est agité là de démence et de sottise, des imaginations folles, des pratiques de basse police, des mœurs d’inquisition et de tyrannie,
+
+188
+00:21:29,500 --> 00:21:41,000
+le bon plaisir de quelques galonnés mettant leurs bottes sur la nation, lui rentrant dans la gorge son cri de vérité et de justice, sous le prétexte menteur et sacrilège de la raison d’État !
+
+189
+00:21:41,000 --> 00:21:54,350
+Et c’est un crime encore que de s’être appuyé sur la presse immonde, que de s’être laissé défendre par toute la fripouille de Paris, de sorte que voilà la fripouille qui triomphe insolemment, dans la défaite du droit et de la simple probité.
+
+190
+00:21:54,350 --> 00:22:05,490
+C’est un crime d’avoir accusé de troubler la France ceux qui la veulent généreuse, à la tête des nations libres et justes, lorsqu’on ourdit soi-même l’impudent complot d’imposer l’erreur, devant le monde entier.
+
+191
+00:22:05,490 --> 00:22:13,120
+C’est un crime d’égarer l’opinion, d’utiliser pour une besogne de mort cette opinion qu’on a pervertie jusqu’à la faire délirer.
+
+192
+00:22:13,120 --> 00:22:26,480
+C’est un crime d’empoisonner les petits et les humbles, d’exaspérer les passions de réaction et d’intolérance, en s’abritant derrière l’odieux antisémitisme, dont la grande France libérale des droits de l’homme mourra, si elle n’en est pas guérie.
+
+193
+00:22:26,480 --> 00:22:39,590
+C’est un crime que d’exploiter le patriotisme pour des œuvres de haine, et c’est un crime enfin que de faire du sabre le dieu moderne, lorsque toute la science humaine est au travail pour l’œuvre prochaine de vérité et de justice.
+
+194
+00:22:39,590 --> 00:22:49,550
+Cette vérité, cette justice, que nous avons si passionnément voulues, quelle détresse à les voir ainsi souffletées, plus méconnues et plus obscurcies !
+
+195
+00:22:49,550 --> 00:23:04,200
+Je me doute de l’écroulement qui doit avoir lieu dans l’âme de M. Scheurer-Kestner, et je crois bien qu’il finira par éprouver un remords, celui de n’avoir pas agi révolutionnairement, le jour de l’interpellation au Sénat, en lâchant tout le paquet, pour tout jeter à bas.
+
+196
+00:23:04,200 --> 00:23:14,750
+Il a été le grand honnête homme, l’homme de sa vie loyale, il a cru que la vérité se suffisait à elle-même, surtout lorsqu’elle lui apparaissait éclatante comme le plein jour.
+
+197
+00:23:14,750 --> 00:23:18,590
+À quoi bon tout bouleverser, puisque bientôt le soleil allait luire ?
+
+198
+00:23:18,590 --> 00:23:23,440
+Et c’est de cette sérénité confiante dont il est si cruellement puni.
+
+199
+00:23:23,440 --> 00:23:31,370
+De même pour le lieutenant-colonel Picquart, qui, par un sentiment de haute dignité, n’a pas voulu publier les lettres du général Gonse.
+
+200
+00:23:31,370 --> 00:23:44,360
+Ces scrupules l’honorent d’autant plus, que, pendant qu’il restait respectueux de la discipline, ses supérieurs le faisaient couvrir de boue, instruisaient eux-mêmes son procès, de la façon la plus inattendue et la plus outrageante.
+
+201
+00:23:44,360 --> 00:23:52,590
+Il y a deux victimes, deux braves gens, deux cœurs simples, qui ont laissé faire Dieu, tandis que le diable agissait.
+
+202
+00:23:52,590 --> 00:24:04,500
+Et l’on a même vu, pour le lieutenant-colonel Picquart, cette chose ignoble : un tribunal français, après avoir laissé le rapporteur charger publiquement un témoin, l’accuser de toutes les fautes,
+
+203
+00:24:04,500 --> 00:24:10,040
+a fait le huis clos, lorsque ce témoin a été introduit pour s’expliquer et se défendre.
+
+204
+00:24:10,040 --> 00:24:15,630
+Je dis que cela est un crime de plus et que ce crime soulèvera la conscience universelle.
+
+205
+00:24:15,630 --> 00:24:20,630
+Décidément, les tribunaux militaires se font une singulière idée de la justice.
+
+206
+00:24:20,630 --> 00:24:28,780
+Telle est donc la simple vérité, monsieur le Président, et elle est effroyable, elle restera pour votre présidence une souillure.
+
+207
+00:24:28,780 --> 00:24:35,770
+Je me doute bien que vous n’avez aucun pouvoir en cette affaire, que vous êtes le prisonnier de la Constitution et de votre entourage.
+
+208
+00:24:35,770 --> 00:24:40,960
+Vous n’en avez pas moins un devoir d’homme, auquel vous songerez, et que vous remplirez.
+
+209
+00:24:40,960 --> 00:24:44,930
+Ce n’est pas, d’ailleurs, que je désespère le moins du monde du triomphe.
+
+210
+00:24:44,930 --> 00:24:51,640
+Je le répète avec une certitude plus véhémente : la vérité est en marche, et rien ne l’arrêtera.
+
+211
+00:24:51,640 --> 00:25:06,460
+C’est d’aujourd’hui seulement que l’affaire commence, puisque aujourd’hui seulement les positions sont nettes : d’une part, les coupables qui ne veulent pas que la lumière se fasse ; de l’autre, les justiciers qui donneront leur vie pour qu’elle soit faite.
+
+212
+00:25:06,460 --> 00:25:17,610
+Quand on enferme la vérité sous terre, elle s’y amasse, elle y prend une force telle d’explosion, que, le jour où elle éclate, elle fait tout sauter avec elle.
+
+213
+00:25:17,610 --> 00:25:23,410
+On verra bien si l’on ne vient pas de préparer, pour plus tard, le plus retentissant des désastres.
+
+214
+00:25:23,410 --> 00:25:28,530
+Mais cette lettre est longue, monsieur le Président, et il est temps de conclure.
+
+215
+00:25:28,530 --> 00:25:44,170
+J’accuse le lieutenant-colonel du Paty de Clam d’avoir été l’ouvrier diabolique de l’erreur judiciaire, en inconscient, je veux le croire, et d’avoir ensuite défendu son œuvre néfaste, depuis trois ans, par les machinations les plus saugrenues et les plus coupables.
+
+216
+00:25:44,170 --> 00:25:52,420
+J’accuse le général Mercier de s’être rendu complice, tout au moins par faiblesse d’esprit, d’une des plus grandes iniquités du siècle.
+
+217
+00:25:52,420 --> 00:26:07,380
+J’accuse le général Billot d’avoir eu entre les mains les preuves certaines de l’innocence de Dreyfus et de les avoir étouffées, de s’être rendu coupable de ce crime de lèse-humanité et de lèse-justice, dans un but politique et pour sauver l’état-major compromis.
+
+218
+00:26:07,380 --> 00:26:20,980
+J’accuse le général de Boisdeffre et le général Gonse de s’être rendus complices du même crime, l’un sans doute par passion cléricale, l’autre peut-être par cet esprit de corps qui fait des bureaux de la guerre l’arche sainte, inattaquable.
+
+219
+00:26:20,980 --> 00:26:35,450
+J’accuse le général de Pellieux et le commandant Ravary d’avoir fait une enquête scélérate, j’entends par là une enquête de la plus monstrueuse partialité, dont nous avons, dans le rapport du second, un impérissable monument de naïve audace.
+
+220
+00:26:35,450 --> 00:26:48,270
+J’accuse les trois experts en écritures, les sieurs Belhomme, Varinard et Couard, d’avoir fait des rapports mensongers et frauduleux, à moins qu’un examen médical ne les déclare atteints d’une maladie de la vue et du jugement.
+
+221
+00:26:48,270 --> 00:26:58,760
+J’accuse les bureaux de la guerre d’avoir mené dans la presse, particulièrement dans l’Éclair et dans l’Écho de Paris, une campagne abominable, pour égarer l’opinion et couvrir leur faute.
+
+222
+00:26:58,760 --> 00:27:02,710
+J’accuse enfin le premier conseil de guerre d’avoir violé le droit,
+
+223
+00:27:02,710 --> 00:27:15,250
+en condamnant un accusé sur une pièce restée secrète, et j’accuse le second conseil de guerre d’avoir couvert cette illégalité, par ordre, en commettant à son tour le crime juridique d’acquitter sciemment un coupable.
+
+224
+00:27:15,250 --> 00:27:26,460
+En portant ces accusations, je n’ignore pas que je me mets sous le coup des articles 30 et 31 de la loi sur la presse du 29 juillet 1881, qui punit les délits de diffamation.
+
+225
+00:27:26,460 --> 00:27:29,410
+Et c’est volontairement que je m’expose.
+
+226
+00:27:29,410 --> 00:27:36,830
+Quant aux gens que j’accuse, je ne les connais pas, je ne les ai jamais vus, je n’ai contre eux ni rancune ni haine.
+
+227
+00:27:36,830 --> 00:27:42,170
+Ils ne sont pour moi que des entités, des esprits de malfaisance sociale.
+
+228
+00:27:42,170 --> 00:27:49,490
+Et l’acte que j’accomplis ici n’est qu’un moyen révolutionnaire pour hâter l’explosion de la vérité et de la justice.
+
+229
+00:27:49,490 --> 00:27:56,350
+Je n’ai qu’une passion, celle de la lumière, au nom de l’humanité qui a tant souffert et qui a droit au bonheur.
+
+230
+00:27:56,350 --> 00:28:01,180
+Ma protestation enflammée n’est que le cri de mon âme.
+
+231
+00:28:01,180 --> 00:28:06,140
+Qu’on ose donc me traduire en cour d’assises et que l’enquête ait lieu au grand jour !
+
+232
+00:28:06,140 --> 00:28:07,790
+J’attends.
+
+233
+00:28:07,790 --> 00:28:13,050
+Veuillez agréer, monsieur le Président, l’assurance de mon profond respect.
+
+234
+00:28:13,050 --> 00:28:14,860
+Émile Zola
+
+235
+00:28:15,900 --> 00:28:21,180
+Fin de
+J’accuse…! 
+paru dans L’Aurore
+le 13 janvier 1898
+
+236
+00:28:30,360 --> 00:28:31,360
+
+
