@@ -39,7 +39,9 @@ Estábamos jugando con Platero y con el loro, en el huerto de mi amigo, el médi
 
 —Señorito: ¿está ahí ese médico?
 
-Tras ella venían ya unos chiquillos astrosos, que, a cada instante, jadeando, miraban camino arriba; al fin, varios hombres que traían a otro, lívido y decaído. Era un cazador furtivo de esos que cazan venados en el coto de Doñana. La escopeta, una absurda escopeta vieja amarrada con tomiza, se le había reventado, y el cazador traía el tiro en un brazo.
+Tras ella venían ya unos chiquillos astrosos, que, a cada instante, jadeando, miraban camino arriba; al fin, varios hombres que traían a otro, lívido y decaído. Era un cazador furtivo de esos que cazan venados en el coto de Doñana.
+
+La escopeta, una absurda escopeta vieja amarrada con tomiza, se le había reventado, y el cazador traía el tiro en un brazo.
 
 Mi amigo se llegó, cariñoso, al herido, le levantó unos míseros trapos que le habían puesto, le lavó la sangre y le fué tocando huesos y músculos. De vez en cuando me miraba y me decía:
 
@@ -66,9 +68,15 @@ ANOCHECER
 
 En el recogimiento pacífico y rendido de los crepúsculos del pueblo, ¡qué poesía cobra la adivinación de lo lejano, el confuso recuerdo de lo apenas conocido! Es un encanto contagioso que retiene todo el pueblo como enclavado en la cruz de un triste y largo pensamiento.
 
-Hay un olor al nutrido grano limpio que, bajo las frescas estrellas, amontona en las eras sus vagas colinas amarillentas. Los trabajadores canturrean por lo bajo, en un soñoliento cansancio. Sentadas en los zaguanes, las viudas piensan en los muertos, que duermen tan cerca, detrás de los corrales. Los niños corren, de una sombra a otra, como de un árbol a otro los pájaros...
+Hay un olor al nutrido grano limpio que, bajo las frescas estrellas, amontona en las eras sus vagas colinas amarillentas. Los trabajadores canturrean por lo bajo, en un soñoliento cansancio.
 
-Acaso, entre la luz umbrosa que perdura en las fachadas de cal de las casas humildes, pasan vagas siluetas terrosas, calladas, dolientes—un mendigo nuevo, un portugués que va hacia las rozas, un ladrón acaso—, que contrastan, en su obscura apariencia medrosa, con la mansedumbre que el crepúsculo malva, lento y místico, pone en las cosas conocidas... Los niños se alejan, y en el misterio de las puertas sin luz, se hablan de unos hombres que "sacan el unto para curar a la hija del rey, que está hética..."
+Sentadas en los zaguanes, las viudas piensan en los muertos, que duermen tan cerca, detrás de los corrales. Los niños corren, de una sombra a otra, como de un árbol a otro los pájaros...
+
+Acaso, entre la luz umbrosa que perdura en las fachadas de cal de las casas humildes, pasan vagas siluetas terrosas, calladas, dolientes—un mendigo nuevo, un portugués que va hacia las rozas, un ladrón acaso—,
+
+que contrastan, en su obscura apariencia medrosa, con la mansedumbre que el crepúsculo malva, lento y místico, pone en las cosas conocidas...
+
+Los niños se alejan, y en el misterio de las puertas sin luz, se hablan de unos hombres que "sacan el unto para curar a la hija del rey, que está hética..."
 
 Estrofa cuarenta y ocho
 EL ROCÍO
@@ -79,7 +87,13 @@ Me lo llevé, guapo y lujoso, a que piropeara a las muchachas, por la calle de l
 
 Venían ya, cuesta arriba, las Carretas. La suave llovizna de todos los Rocíos caía sobre las viñas verdes, de una pasajera nube malva. Pero la gente no levantaba siquiera los ojos al agua.
 
-Pasaron, primero, en burros, muías y caballos ataviados a la moruna, las alegres parejas de novios, ellos alegres, valientes ellas. El rico y vivo tropel iba, volvía, se alcanzaba incesantemente en una locura sin sentido. Seguía luego el carro de los borrachos, estrepitoso, agrio y trastornado; detrás, las carretas, como lechos, colgadas de blanco, con las muchachas, morenas y floridas, sentadas bajo el dosel, repicando panderetas y chillando sevillanas. Más caballos, más burros... Y el mayordomo—¡Viva la Virgen del Rocío! Vivaaaaa...!—cano, seco y rojo, con el sombrero ancho a la espalda y la vara de oro descansada en el estribo. Al fin, mansamente tirado por dos grandes bueyes píos, que parecían obispos con sus frontales de colorines y espejos, el Sin Pecado, malva y de plata en su carro blanco, todo en flor, como un cargado jardín mustio.
+Pasaron, primero, en burros, muías y caballos ataviados a la moruna, las alegres parejas de novios, ellos alegres, valientes ellas. El rico y vivo tropel iba, volvía, se alcanzaba incesantemente en una locura sin sentido.
+
+Seguía luego el carro de los borrachos, estrepitoso, agrio y trastornado; detrás, las carretas, como lechos, colgadas de blanco, con las muchachas, morenas y floridas, sentadas bajo el dosel, repicando panderetas y chillando sevillanas.
+
+Más caballos, más burros... Y el mayordomo—¡Viva la Virgen del Rocío! Vivaaaaa...!—cano, seco y rojo, con el sombrero ancho a la espalda y la vara de oro descansada en el estribo.
+
+Al fin, mansamente tirado por dos grandes bueyes píos, que parecían obispos con sus frontales de colorines y espejos, el Sin Pecado, malva y de plata en su carro blanco, todo en flor, como un cargado jardín mustio.
 
 Se oía ya la música, ahogada entre el campaneo, los cohetes, el duro herir de los cascos herrados en las piedras...
 
@@ -90,13 +104,21 @@ LOS GORRIONES
 
 La mañana de Santiago está nublada de blanco y gris, como guardada en algodón. Todos se han ido a misa. Nos hemos quedado en el jardín los gorriones, Platero y yo.
 
-¡Los gorriones! Bajo las redondas nubes, que, a veces, llueven unas gotas finas, ¡cómo entran y salen en la enredadera, cómo chillan, cómo se cogen de los picos! Este cae sobre una rama, se va y la deja temblando; el otro bebe en un charquito del brocal del pozo, que tiene en sí un pedazo de cielo; aquél ha saltado al tejadillo lleno de flores casi secas, que el día pardo aviva.
+¡Los gorriones! Bajo las redondas nubes, que, a veces, llueven unas gotas finas, ¡cómo entran y salen en la enredadera, cómo chillan, cómo se cogen de los picos!
 
-¡Benditos pájaros, sin fiesta fija! Con la libre monotonía de lo nativo, de lo verdadero, nada, a no ser una dicha vaga, les dicen a ellos las campanas. Contentos, sin fatales obligaciones, sin esos olimpos ni esos avernos que extasían o que amedrentan a los pobres hombres esclavos, sin más moral que la suya, son mis hermanos, mis dulces hermanos.
+Este cae sobre una rama, se va y la deja temblando; el otro bebe en un charquito del brocal del pozo, que tiene en sí un pedazo de cielo; aquél ha saltado al tejadillo lleno de flores casi secas, que el día pardo aviva.
 
-Viajan sin dinero y sin maletas; mudan de casa cuando se les antoja; presumen un arroyo, presienten una fronda, y sólo tienen que abrir sus alas para conseguir la felicidad; no saben de lunes ni de sábados; se bañan en todas partes, a cada momento; aman el amor sin nombre, la amada universal.
+¡Benditos pájaros, sin fiesta fija! Con la libre monotonía de lo nativo, de lo verdadero, nada, a no ser una dicha vaga, les dicen a ellos las campanas.
 
-Y cuando las gentes, ¡las pobres gentes!, se van a misa, los domingos, ellos, en un alegre ejemplo, se vienen de pronto, con su algarabía fresca y jovial, al jardín de las casas cerradas, en las que algún poeta, que ya conocen bien, y algún burrillo tierno, los contemplan fraternales.
+Contentos, sin fatales obligaciones, sin esos olimpos ni esos avernos que extasían o que amedrentan a los pobres hombres esclavos, sin más moral que la suya, son mis hermanos, mis dulces hermanos.
+
+Viajan sin dinero y sin maletas; mudan de casa cuando se les antoja; presumen un arroyo, presienten una fronda, y sólo tienen que abrir sus alas para conseguir la felicidad;
+
+no saben de lunes ni de sábados; se bañan en todas partes, a cada momento; aman el amor sin nombre, la amada universal.
+
+Y cuando las gentes, ¡las pobres gentes!, se van a misa, los domingos, ellos, en un alegre ejemplo, se vienen de pronto, con su algarabía fresca y jovial, al jardín de las casas cerradas,
+
+en las que algún poeta, que ya conocen bien, y algún burrillo tierno, los contemplan fraternales.
 
 Estrofa cincuenta
 IDILIO DE NOVIEMBRE
@@ -110,7 +132,9 @@ Una fría dulzura malva lo nimba todo. Y en el campo, que va ya a Diciembre, la 
 Estrofa cincuenta y uno
 EL CANARIO SE MUERE
 
-Mira, Platero; el canario de los niños ha amanecido hoy muerto en su jaula de plata. Es verdad que el pobre estaba ya muy viejo... El invierno, tú te acuerdas bien, lo pasó silencioso, con la cabeza, escondida en el plumón. Y al entrar esta primavera, cuando el sol hacía jardín la estancia abierta y abrían las mejores rosas del patio, él quiso también engalanar la vida nueva, y cantó; pero su voz era quebradiza y asmática, como la voz de una flauta cascada.
+Mira, Platero; el canario de los niños ha amanecido hoy muerto en su jaula de plata. Es verdad que el pobre estaba ya muy viejo... El invierno, tú te acuerdas bien, lo pasó silencioso, con la cabeza, escondida en el plumón.
+
+Y al entrar esta primavera, cuando el sol hacía jardín la estancia abierta y abrían las mejores rosas del patio, él quiso también engalanar la vida nueva, y cantó; pero su voz era quebradiza y asmática, como la voz de una flauta cascada.
 
 El mayor de los niños, que lo cuidaba, viéndolo yerto en el fondo de la jaula, se ha apresurado, lloroso, a decir:
 
@@ -129,7 +153,13 @@ LOS FUEGOS
 
 Para Septiembre, en las noches de velada, nos poníamos en el cabezo que hay detrás de la casa del huerto, a sentir el pueblo en fiesta desde aquella paz fragante que emanaban los nardos de la alberca.
 
-Ya tarde, ardían los fuegos. Primero eran sordos estampidos enanos; luego, cohetes sin cola, que se abrían arriba, en un suspiro, cual un ojo estrellado que viese, un instante, rojo, morado, azul, el campo; y otros cuyo esplendor caía como una doncellez desnuda que se doblara de espaldas, como un sauce de sangre que gotease flores de luz. ¡Oh, qué pavos reales encendidos, qué macizos aéreos de claras rosas, qué faisanes de fuego por jardines de estrellas!
+Ya tarde, ardían los fuegos.
+
+Primero eran sordos estampidos enanos; luego, cohetes sin cola, que se abrían arriba, en un suspiro, cual un ojo estrellado que viese, un instante, rojo, morado, azul, el campo;
+
+y otros cuyo esplendor caía como una doncellez desnuda que se doblara de espaldas, como un sauce de sangre que gotease flores de luz.
+
+¡Oh, qué pavos reales encendidos, qué macizos aéreos de claras rosas, qué faisanes de fuego por jardines de estrellas!
 
 Platero, cada vez que sonaba un estampido, se estremecía, azul, morado, rojo, en el súbito iluminarse del espacio, y en la claridad vacilante yo veía sus grandes ojos negros que me miraban asustados.
 
@@ -138,7 +168,9 @@ Cuando, como remate, entre el lejano vocerío del pueblo, subía al cielo la áu
 Estrofa cincuenta y tres
 EL RACIMO OLVIDADO
 
-Después de las largas lluvias de Octubre, en el oro celeste del día abierto, nos fuimos todos a las viñas. Platero llevaba la merienda y los sombreros de los niños en un cobujón del seroncillo, y en el otro, de contrapeso, tierna, blanca y rosa, como una flor de albérchigo, a Blanca..
+Después de las largas lluvias de Octubre, en el oro celeste del día abierto, nos fuimos todos a las viñas.
+
+Platero llevaba la merienda y los sombreros de los niños en un cobujón del seroncillo, y en el otro, de contrapeso, tierna, blanca y rosa, como una flor de albérchigo, a Blanca..
 
 ¡Qué encanto el del campo renovado! Iban los arroyos rebosantes, estaban blandamente aradas las tierras, y en los chopos marginales, festoneados todavía de amarillo, se veían ya los pájaros, negros.
 
@@ -146,7 +178,9 @@ De pronto, los niños, uno tras otro, corrieron, gritando:
 
 —¡Un racimo! ¡Un racimo!
 
-En una cepa vieja, cuyos largos sarmientos enredados mostraban aún algunas renegridas y rojizas hojas secas, encendía el picante sol un claro y sano racimo de ámbar. ¡Todos lo querían! Victoria, que lo cogió, lo defendía a su espalda. Entonces yo se lo pedí, y ella, con esa dulce obediencia voluntaria que presta al hombre la niña que va para mujer, me lo cedió de buen grado.
+En una cepa vieja, cuyos largos sarmientos enredados mostraban aún algunas renegridas y rojizas hojas secas, encendía el picante sol un claro y sano racimo de ámbar.
+
+¡Todos lo querían! Victoria, que lo cogió, lo defendía a su espalda. Entonces yo se lo pedí, y ella, con esa dulce obediencia voluntaria que presta al hombre la niña que va para mujer, me lo cedió de buen grado.
 
 Tenía el racimo cinco grandes uvas. Le di una a Victoria, una a Blanca, una a Lola, una a Pepe, y la última, entre las risas y las palmas de todos, a Platero, que la cogió, brusco, con sus dientes enormes.
 
