@@ -1,0 +1,3694 @@
+1
+00:00:00,000 --> 00:00:04,920
+Prologo
+de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+2
+00:00:04,920 --> 00:00:07,850
+Esta es una grabación para LibriVox.
+
+3
+00:00:07,850 --> 00:00:12,460
+Todas las grabaciones de LibriVox están en el dominio público.
+
+4
+00:00:12,460 --> 00:00:18,890
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+5
+00:00:18,890 --> 00:00:21,670
+Grabado por Claudia Barrett
+
+6
+00:00:21,670 --> 00:00:25,670
+Platero y yo
+por
+Juan Ramón Jiménez
+
+7
+00:00:25,670 --> 00:00:27,900
+Elegía andaluza
+
+8
+00:00:27,900 --> 00:00:34,240
+Esta edición reproduce el texto de la primera, publicada en 1914.
+
+9
+00:00:34,240 --> 00:00:38,570
+ADVERTENCIA A LOS HOMBRES
+QUE LEAN ESTE LIBRO PARA NIÑOS
+
+10
+00:00:38,570 --> 00:00:51,830
+Este breve libro, en donde la alegría y la pena son gemelas, cual las orejas de Platero, estaba escrito para... ¡qué sé yo para quién!... para quien escribimos los poetas líricos...
+
+11
+00:00:51,830 --> 00:00:55,490
+Ahora que va a los niños, no le quito ni le pongo una coma.
+
+12
+00:00:55,490 --> 00:00:57,000
+¡Qué bien!
+
+13
+00:00:57,000 --> 00:01:03,150
+«Dondequiera que haya niños—dice Nóvalis—, existe una edad de oro.»
+
+14
+00:01:03,150 --> 00:01:18,650
+Pues por esa edad de oro, que es como una isla espiritual caída del cielo, anda el corazón del poeta, y se encuentra allí tan a su gusto, que su mejor deseo sería no tener que abandonarla nunca.
+
+15
+00:01:18,650 --> 00:01:38,150
+¡Isla de gracia, de frescura y de dicha, edad de oro de los niños; siempre te halle yo en mi vida, mar de duelo; y que tu brisa me dé su lira, alta y, a veces, sin sentido, igual que el trino de la alondra en el sol blanco del amanecer!
+
+16
+00:01:38,150 --> 00:01:42,600
+EL POETA
+MADRID, 1914
+
+17
+00:01:42,600 --> 00:01:50,150
+A LA MEMORIA DE AGUEDILLA, LA POBRE LOCA DE LA CALLE DEL SOL, QUE ME MANDABA MORAS Y CLAVELES.
+
+18
+00:01:50,150 --> 00:01:54,480
+Fin
+del
+Prologo
+de
+Platero y yo
+
+19
+00:01:59,700 --> 00:02:05,380
+Primera sección
+de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+20
+00:02:07,220 --> 00:02:09,490
+Esta es una grabación para LibriVox.
+
+21
+00:02:09,490 --> 00:02:13,970
+Todas las grabaciones de LibriVox están en el dominio público.
+
+22
+00:02:13,970 --> 00:02:20,350
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+23
+00:02:20,350 --> 00:02:23,200
+Grabado por Claudia Barrett
+
+24
+00:02:23,200 --> 00:02:25,420
+LA ELEGÍA
+
+25
+00:02:25,420 --> 00:02:28,920
+Primera estrofa
+PLATERO
+
+26
+00:02:28,920 --> 00:02:39,290
+Platero es pequeño, peludo, suave; tan blando por fuera, que se diría todo de algodón, que no lleva huesos.
+
+27
+00:02:39,290 --> 00:02:46,350
+Sólo los espejos de azabache de sus ojos son duros cual dos escarabajos de cristal negro.
+
+28
+00:02:46,350 --> 00:02:57,580
+Lo dejo suelto, y se va al prado, y acaricia tibiamente con su hocico, rozándolas apenas, las florecillas rosas, celestes y gualdas...
+
+29
+00:02:57,580 --> 00:03:06,750
+Lo llamo dulcemente: "¿Platero?", y viene a mí con un trotecillo alegre que parece que se ríe, en no sé qué cascabeleo ideal...
+
+30
+00:03:06,750 --> 00:03:08,740
+Come cuanto le doy.
+
+31
+00:03:08,740 --> 00:03:17,040
+Le gustan las naranjas mandarinas, las uvas moscateles, todas de ámbar, los higos morados, con su cristalina gotita de miel...
+
+32
+00:03:17,040 --> 00:03:25,120
+Es tierno y mimoso igual que un niño, que una niña...; pero fuerte y seco como de piedra.
+
+33
+00:03:25,120 --> 00:03:36,250
+Cuando paso, sobre él, los domingos, por las últimas callejas del pueblo, los hombres del campo, vestidos de limpio y despaciosos, se quedan mirándolo:
+
+34
+00:03:36,250 --> 00:03:37,750
+—Tiene acero...
+
+35
+00:03:37,750 --> 00:03:39,270
+Tiene acero.
+
+36
+00:03:39,270 --> 00:03:43,280
+Acero y plata de luna, al mismo tiempo.
+
+37
+00:03:45,080 --> 00:03:48,810
+Segunda estrofa
+PAISAJE GRANA
+
+38
+00:03:48,810 --> 00:03:50,840
+La cumbre.
+
+39
+00:03:50,840 --> 00:03:59,040
+Ahí está el ocaso, todo empurpurado, herido por sus propios cristales, que le hacen sangre por doquiera.
+
+40
+00:03:59,040 --> 00:04:14,870
+A su esplendor, el pinar verde se agria, vagamente enrojecido; y las hierbas y las florecillas, encendidas y transparentes, embalsaman el instante sereno de una esencia mojada, penetrante y luminosa.
+
+41
+00:04:14,870 --> 00:04:17,880
+Yo me quedo extasiado en el crepúsculo.
+
+42
+00:04:17,880 --> 00:04:37,490
+Platero, granas de ocaso sus ojos negros, se va, manso, a un charco de aguas de carmín, de rosa, de violeta; hunde suavemente su boca en los espejos, que parece que se hacen líquidos al tocarlos él; y hay por su enorme garganta como un pasar profuso de umbrías aguas de sangre.
+
+43
+00:04:37,490 --> 00:04:45,640
+El paraje es conocido, pero el momento lo trastorna y lo hace extraño, ruinoso y monumental.
+
+44
+00:04:45,640 --> 00:04:51,040
+Se dijera, a cada instante, que vamos a descubrir un palacio abandonado...
+
+45
+00:04:51,040 --> 00:05:00,880
+La tarde se prolonga más allá de sí misma, y la hora, contagiada de eternidad, es infinita; pacífica, insondable...
+
+46
+00:05:00,880 --> 00:05:03,040
+—Anda, Platero...
+
+47
+00:05:03,040 --> 00:05:05,250
+Tercera estrofa
+ALEGRÍA
+
+48
+00:05:05,250 --> 00:05:15,080
+Platero juega con Diana, la bella perra blanca que se parece a la luna creciente, con la vieja cabra, gris, con los niños...
+
+49
+00:05:15,080 --> 00:05:22,960
+Salta Diana, ágil y elegante, delante del burro, sonando su leve campanilla, y hace como que le muerde los hocicos.
+
+50
+00:05:22,960 --> 00:05:31,860
+Y Platero, poniendo las orejas en punta, cual dos cuernos de pita, la embiste blandamente y la hace rodar sobre la hierba en flor.
+
+51
+00:05:31,860 --> 00:05:40,150
+La cabra va al lado de Platero, rozándose a sus patas, tirando, con los dientes, de la punta de las espadañas de la carga.
+
+52
+00:05:40,150 --> 00:05:52,030
+Con una clavellina o con una margarita en la boca, se pone frente a él, le topa en el testuz, y brinca luego, y bala alegremente, mimosa igual que una mujer...
+
+53
+00:05:52,030 --> 00:05:54,920
+Entre los niños, platero es de juguete.
+
+54
+00:05:54,920 --> 00:05:57,320
+¡Con qué paciencia sufre sus locuras!
+
+55
+00:05:57,320 --> 00:06:02,990
+¡Cómo va despacito, deteniéndose, haciéndose el tonto, para que ellos no se caigan!
+
+56
+00:06:02,990 --> 00:06:07,280
+¡Cómo los asusta, iniciando, de pronto, un trote falso!
+
+57
+00:06:07,280 --> 00:06:09,860
+¡Claras tardes del otoño moguereño!
+
+58
+00:06:09,860 --> 00:06:21,980
+Cuando el aire puro de Octubre afila los límpidos sonidos, sube del valle un alborozo idílico de balidos, de rebuznos, de risas de niños, de ladridos y de campanillas...
+
+59
+00:06:21,980 --> 00:06:26,030
+Cuarta estrofa
+MARIPOSAS BLANCAS
+
+60
+00:06:26,030 --> 00:06:29,400
+La noche cae, brumosa ya y morada.
+
+61
+00:06:29,400 --> 00:06:33,940
+Vagas claridades malvas y verdes perduran tras la torre de la iglesia.
+
+62
+00:06:33,940 --> 00:06:42,510
+El camino sube, lleno de sombras, de campanillas, de fragancia de hierba, de canciones, de cansancio y de anhelo.
+
+63
+00:06:42,510 --> 00:06:55,880
+De pronto, un hombre obscuro, con una gorra y un pincho, roja un instante la cara fea por la luz del cigarro, baja a nosotros de una casucha miserable, perdida entre sacas de carbón.
+
+64
+00:06:55,880 --> 00:06:58,070
+Platero se amedrenta.
+
+65
+00:06:58,070 --> 00:06:59,470
+—¿Va algo?
+
+66
+00:06:59,470 --> 00:07:00,840
+—Vea usted...
+
+67
+00:07:00,840 --> 00:07:02,460
+Mariposas blancas...
+
+68
+00:07:02,460 --> 00:07:08,480
+El hombre quiere clavar su pincho de hierro en el seroncillo, y yo lo evito.
+
+69
+00:07:08,480 --> 00:07:11,050
+Abro la alforja y él no ve nada.
+
+70
+00:07:11,050 --> 00:07:18,590
+Y el alimento ideal pasa, libre y cándido, sin pagar su tributo a los Consumos...
+
+71
+00:07:18,590 --> 00:07:21,950
+Quinta estrofa
+LA PRIMAVERA
+
+72
+00:07:21,950 --> 00:07:24,670
+¡Ay, qué relumbres y olores!
+
+73
+00:07:24,670 --> 00:07:26,840
+¡Ay, cómo ríen los prados!
+
+74
+00:07:26,840 --> 00:07:28,860
+¡Ay, qué alboradas se oyen!
+
+75
+00:07:28,860 --> 00:07:30,850
+Romance popular.
+
+76
+00:07:30,850 --> 00:07:36,450
+En mi duermevela matinal, me malhumora una endiablada chillería de chiquillos.
+
+77
+00:07:36,450 --> 00:07:41,690
+Por fin, sin poder dormir más, me echo, desesperado, de la cama.
+
+78
+00:07:41,690 --> 00:07:49,030
+Entonces, al mirar el campo por la ventana abierta, me doy cuenta de que los que alborotan son los pájaros.
+
+79
+00:07:49,030 --> 00:07:53,090
+Salgo al huerto y doy gracias al Dios del día azul.
+
+80
+00:07:53,090 --> 00:07:56,880
+¡Libre concierto de picos, fresco y sin fin!
+
+81
+00:07:56,880 --> 00:08:17,800
+La golondrina riza, caprichosa, su canto en el pozo; silba el mirlo sobre la naranja caída; de fuego, la oropéndola charla en el chaparro; el chamariz, ríe larga y menudamente en la cima del eucalipto; y, en el pino grande, los gorriones discuten desaforadamente.
+
+82
+00:08:17,800 --> 00:08:19,850
+¡Cómo está la mañana!
+
+83
+00:08:19,850 --> 00:08:30,140
+El sol pone en la tierra su alegría de plata y de oro; mariposas de cien colores juegan por todas partes, entre las flores, por la casa, en el manantial.
+
+84
+00:08:30,140 --> 00:08:37,920
+Por doquiera, el campo se abre en estallidos, en crujidos, en un hervidero de vida sana y nueva.
+
+85
+00:08:37,920 --> 00:08:47,080
+Parece que estuviéramos dentro de un gran panal de luz, que fuese el interior de una inmensa y, cálida rosa encendida.
+
+86
+00:08:48,260 --> 00:08:52,010
+Sexta estrofa
+¡ANGELUS!
+
+87
+00:08:52,010 --> 00:08:59,960
+Mira, Platero, qué de rosas caen por todas partes: rosas azules, rosas, blancas, sin color...
+
+88
+00:08:59,960 --> 00:09:03,090
+Diríase que el cielo se deshace en rosas.
+
+89
+00:09:03,090 --> 00:09:07,570
+Mira cómo se me llenan de rosas la frente, los hombros, las, manos...
+
+90
+00:09:07,570 --> 00:09:09,740
+¿Qué haré yo con tantas rosas?
+
+91
+00:09:09,740 --> 00:09:28,270
+¿Sabes tú, quizás, de dónde es esta blanda flora, que yo no sé de dónde es, que enternece, cada día, el paisaje y lo deja dulcemente rosado, blanco y celeste—, mas rosas, más rosas—, como un cuadro de Fra Angelico, el que pintaba el cielo de rodillas?
+
+92
+00:09:28,270 --> 00:09:32,670
+De las siete galerías del Paraíso se creyera que tiran rosas a la tierra.
+
+93
+00:09:32,670 --> 00:09:41,170
+Cual en una nevada tibia y vagamente colorida, se quedan las rosas en la torre, en el tejado, en Jos árboles.
+
+94
+00:09:41,170 --> 00:09:45,570
+Mira: todo lo fuerte se hace, con su adorno, delicado.
+
+95
+00:09:45,570 --> 00:09:49,170
+Más rosas, más rosas, más rosas...
+
+96
+00:09:49,170 --> 00:10:08,010
+Parece, Platero, mientras suena el Angelus, que esta vida nuestra pierde su fuerza cotidiana, y que otra fuerza de adentro, más altiva, más constante y más pura, hace que todo, como en surtidores de gracia, suba a las estrellas, que se encienden ya entre las rosas...
+
+97
+00:10:08,010 --> 00:10:09,530
+Más rosas....
+
+98
+00:10:09,530 --> 00:10:17,400
+Tus ojos, que tú no ves, Platero, y que alzas mansamente al cielo, son dos bellas rosas.
+
+99
+00:10:18,600 --> 00:10:21,190
+Séptima estrofa
+EL LOCO
+
+100
+00:10:21,190 --> 00:10:30,860
+Vestido de luto, con mi barba nazarena y mi breve sombrero negro, debo cobrar un extraño aspecto cabalgando en la blandura gris de Platero.
+
+101
+00:10:30,860 --> 00:10:48,790
+Cuando, yendo a las viñas, cruzo las últimas calles, blancas de cal con sol, los chiquillos gitanos, aceitosos y peludos, fuera de los harapos verdes, rojos y amarillos, las tensas barrigas tostadas, corren detrás de nosotros, chillando largamente:
+
+102
+00:10:48,790 --> 00:10:50,160
+—¡El loco!
+
+103
+00:10:50,160 --> 00:10:51,670
+¡El loco!
+
+104
+00:10:51,670 --> 00:10:53,000
+¡El loco!
+
+105
+00:10:53,000 --> 00:10:53,440
+...
+
+106
+00:10:53,440 --> 00:10:55,240
+Delante está ya el campo verde.
+
+107
+00:10:55,240 --> 00:11:10,830
+Frente al cielo inmenso y puro, de un incendiado añil, mis ojos—¡tan lejos de mis oídos!—se abren noblemente, recibiendo en su calma esa placidez sin nombre, esa serenidad armoniosa y divina que vive en el sinfín del horizonte...
+
+108
+00:11:10,830 --> 00:11:21,150
+Y quedan, allá lejos, por las altas eras, unos agudos gritos, velados finamente, entrecortados, jadeantes, aburridos:
+
+109
+00:11:21,150 --> 00:11:23,180
+—¡El lo...co!
+
+110
+00:11:23,180 --> 00:11:26,120
+¡El lo...co!
+
+111
+00:11:28,100 --> 00:11:32,260
+Octava estrofa
+LA FLOR DEL CAMINO
+
+112
+00:11:33,640 --> 00:11:37,150
+Qué pura, Platero, y qué bella es esta flor del camino!
+
+113
+00:11:37,150 --> 00:11:52,990
+Pasan a su lado todos los tropeles—los toros, las cabras, los potros, los hombres—, y ella, tan tierna y tan débil, sigue enhiesta, malva y fina, en su vallado triste, sin contaminarse de impureza alguna.
+
+114
+00:11:52,990 --> 00:11:59,730
+Todos los días, cuando, al empezar la cuesta, tomamos el atajo, tú la has visto en su puesto verde.
+
+115
+00:11:59,730 --> 00:12:15,400
+Ya tiene a su lado un pajarillo, que se levanta—¿por qué?—al acercarnos; o está llena, cual una breve copa, del agua clara de una nube de verano; ya consiente el robo de una abeja o el voluble adorno de una mariposa.
+
+116
+00:12:15,400 --> 00:12:20,860
+Esta flor vivirá pocos días, Platero, pero su recuerdo ha de ser eterno.
+
+117
+00:12:20,860 --> 00:12:25,740
+Será su vivir como un día de tu primavera, como una primavera de mi vida.
+
+118
+00:12:25,740 --> 00:12:26,870
+¡Ay!
+
+119
+00:12:26,870 --> 00:12:36,220
+¿Qué le diera yo al otoño, Platero, a cambio de esta flor divina, para que ella fuese, diariamente, el ejemplo sencillo de la nuestra?
+
+120
+00:12:38,140 --> 00:12:41,440
+Novena estrofa
+RONSARD
+
+121
+00:12:42,660 --> 00:12:58,710
+Libre ya Platero del cabestro, y paciendo entre las castas margaritas del pradecillo, me he echado yo bajo un pino, he sacado de la alforja moruna un breve libro y, abriéndolo por una señal, me he puesto a leer en alta voz:
+
+122
+00:12:58,710 --> 00:13:03,070
+Comme on voit sur la branche au mois de mai la rose
+
+123
+00:13:03,070 --> 00:13:06,440
+En sa belle jeunesse, en sa première fleur,
+
+124
+00:13:06,440 --> 00:13:10,090
+Rendre le ciel jaloux de...
+
+125
+00:13:10,090 --> 00:13:20,010
+Arriba, por las ramas últimas, salta y pía un leve pajarillo, que el sol hace, cual toda la verde cima suspirante, de oro.
+
+126
+00:13:20,010 --> 00:13:26,850
+Entre vuelo y gorjeo, se oye el partirse de las semillas que el pájaro se está almorzando.
+
+127
+00:13:26,850 --> 00:13:29,470
+...jaloux de sa vive couleur...
+
+128
+00:13:29,470 --> 00:13:35,200
+Una cosa enorme y tibia avanza, de pronto, como una proa viva, sobre mi hombro...
+
+129
+00:13:35,200 --> 00:13:42,240
+Es Platero, que, sugestionado, sin duda, por la lira de Orfeo, viene a leer conmigo.
+
+130
+00:13:42,240 --> 00:13:43,710
+Leernos:
+
+131
+00:13:43,710 --> 00:13:49,230
+...vive couleur, Quand l'aube de ses pleurs au point du jour l'a...
+
+132
+00:13:49,230 --> 00:13:56,360
+Pero el pajarillo, que debe digerir aprisa, tapa la palabra con una nota falsa.
+
+133
+00:13:56,360 --> 00:14:00,160
+Ronsard se debe haber reído en el infierno...
+
+134
+00:14:02,620 --> 00:14:03,900
+Décima estrofa
+LA LUNA
+
+135
+00:14:03,900 --> 00:14:17,280
+Platero acababa de beberse dos cubos de agua con estrellas en el pozo del corral, y volvía a la cuadra, lento y distraído entre los altos girasoles.
+
+136
+00:14:17,280 --> 00:14:24,890
+Yo le aguardaba en la puerta, echado en el quicio de cal y envuelto en la tibia fragancia de los heliotropos.
+
+137
+00:14:24,890 --> 00:14:33,510
+Sobre el tejadillo, húmedo de las blanduras de septiembre, dormía el campo lejano, que mandaba un fuerte aliento de pinos.
+
+138
+00:14:33,510 --> 00:14:41,560
+Una gran nube negra, como una gigantesca gallina que hubiese puesto un huevo de oro, puso la luna sobre una colina.
+
+139
+00:14:41,560 --> 00:14:43,660
+Yo le dije a la luna:
+
+140
+00:14:43,660 --> 00:14:44,050
+...
+
+141
+00:14:44,050 --> 00:14:53,360
+Ma sola ha questa luna in ciel, che da nessuno cader fu vista mai se non in sogno.
+
+142
+00:14:53,360 --> 00:14:58,820
+Platero la miraba fijamente y sacudía, con un duro ruido blando, una oreja.
+
+143
+00:14:58,820 --> 00:15:03,060
+Me miraba absorto, y sacudía la otra...
+
+144
+00:15:04,080 --> 00:15:08,010
+Onceava estrofa
+EL CANARIO VUELA
+
+145
+00:15:08,010 --> 00:15:13,800
+Un día, el canario verde, no sé cómo ni por qué, voló de su jaula.
+
+146
+00:15:13,800 --> 00:15:24,320
+Era un canario viejo, recuerdo triste de una muerta, al que yo no había dado libertad por miedo de que se muriera de hambre o de frío, o de que se lo comieran los gatos.
+
+147
+00:15:24,320 --> 00:15:30,680
+Anduvo toda la mañana entre los granados del huerto, en el pino de la puerta, por las lilas.
+
+148
+00:15:30,680 --> 00:15:38,760
+Los niños estuvieron, toda la mañana también, sentados en la galería, absortos en los breves vuelos del pajarillo amarillento.
+
+149
+00:15:38,760 --> 00:15:44,150
+Libre, Platero, holgaba junto a los rosales, jugando con una mariposa.
+
+150
+00:15:44,150 --> 00:15:53,400
+A la tarde, el canario se vino al tejado de la casa grande, y allí se quedó largo tiempo, latiendo en el suave sol que declinaba.
+
+151
+00:15:53,400 --> 00:15:59,910
+De pronto, y sin saber nadie cómo ni por qué, apareció en la jaula, otra vez alegre.
+
+152
+00:15:59,910 --> 00:16:01,830
+¡Qué alborozo en el jardín!
+
+153
+00:16:01,830 --> 00:16:11,930
+Los niños saltaban, tocando las palmas, arrebolados y rientes como auroras; Diana, loca, los seguía, ladrándole a su propia y riente campanilla;
+
+154
+00:16:11,930 --> 00:16:26,820
+Platero, contagiado, en un oleaje de carnes de plata, igual que un chivillo, hacía corvetas, giraba sobre sus patas, en un vals tosco, y, poniéndose en las manos, daba coces al aire claro y tibio...
+
+155
+00:16:28,880 --> 00:16:31,130
+Doceava estrofa
+SUSTO
+
+156
+00:16:31,130 --> 00:16:34,430
+Era la comida de los niños.
+
+157
+00:16:34,430 --> 00:16:47,900
+Soñaba la lámpara su rosada lumbre tibia sobré el mantel de nieve, y los geranios rojos y las pintadas manzanas coloreaban de una áspera alegría aquel sencillo idilio de caras inocentes.
+
+158
+00:16:47,900 --> 00:16:53,520
+Las niñas comían como mujeres; los niños discutían como algunos hombres.
+
+159
+00:16:53,520 --> 00:17:01,140
+Al fondo, dando el pecho a un pequeñuelo, la madre, joven, rubia y bella, los miraba sonriendo.
+
+160
+00:17:01,140 --> 00:17:07,400
+Por la ventana del jardín, la clara noche de estrellas temblaba, dura y fría.
+
+161
+00:17:07,400 --> 00:17:13,490
+De pronto, Blanca huyó, como un débil rayo, a los brazos de la madre.
+
+162
+00:17:13,490 --> 00:17:24,820
+Hubo un súbito silencio, y luego, en un estrépito de sillas caídas, todos corrieron tras de ella, con un raudo alborotar, mirando, espantados, a la ventana.
+
+163
+00:17:24,820 --> 00:17:26,910
+¡El tonto de Platero!
+
+164
+00:17:26,910 --> 00:17:38,040
+Puesta en el cristal su cabezota blanca, agigantada por la sombra, los cristales y el miedo, contemplaba, quieto y triste, el dulce comedor encendido.
+
+165
+00:17:40,780 --> 00:17:43,980
+Decimotercera estrofa
+LA ESPINA
+
+166
+00:17:43,980 --> 00:17:48,220
+Entrando en la dehesa, Platero ha comenzado a cojear.
+
+167
+00:17:48,220 --> 00:17:49,590
+Me he echado al suelo...
+
+168
+00:17:49,590 --> 00:17:51,900
+—Pero, hombre, ¿qué te pasa?
+
+169
+00:17:51,900 --> 00:18:02,310
+Platero ha dejado la mano derecha un poco levantada, mostrando la ranilla, sin fuerza y sin peso, sin tocar casi con el casco la arena ardiente del camino.
+
+170
+00:18:02,310 --> 00:18:11,010
+Con una solicitud mayor, sin duda, que la del viejo Darbón, su médico, le he doblado la mano y le he mirado la ranilla roja.
+
+171
+00:18:11,010 --> 00:18:19,420
+Una espina larga y verde, de naranjo sano, está clavada en ella como un redondo puñalillo de esmeralda.
+
+172
+00:18:19,420 --> 00:18:32,980
+Estremecido del dolor de Platero, he tirado de la espina; y me lo he llevado al pobre al arroyo de los lirios amarillos, para que el agua corriente le lama, con su larga lengua pura, la heridilla.
+
+173
+00:18:32,980 --> 00:18:44,040
+Después, hemos seguido hacia la mar blanca, yo delante, él detrás, cojeando todavía y dándome suaves topadas en la espalda...
+
+174
+00:18:45,700 --> 00:18:48,790
+Fin
+de la
+Primera sección
+de
+Platero y yo
+
+175
+00:18:48,790 --> 00:18:52,820
+Grabado por Claudia Barrett
+
+176
+00:18:57,080 --> 00:19:02,100
+Segunda sección
+de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+177
+00:19:02,100 --> 00:19:04,840
+Esta es una grabación para LibriVox.
+
+178
+00:19:04,840 --> 00:19:08,930
+Todas las grabaciones de LibriVox están en el dominio público.
+
+179
+00:19:08,930 --> 00:19:14,530
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+180
+00:19:14,530 --> 00:19:17,400
+Grabado por Claudia Barrett
+
+181
+00:19:19,120 --> 00:19:23,850
+Platero y yo
+Estrofa catorce
+JUEGOS DEL ANOCHECER
+
+182
+00:19:23,850 --> 00:19:39,770
+Cuando, en el crepúsculo del pueblo, Platero y yo entramos, ateridos, por la obscuridad morada de la calleja miserable que da al río seco, los niños pobres juegan a asustarse, fingiéndose mendigos.
+
+183
+00:19:39,770 --> 00:19:45,650
+Uno se echa un saco a la cabeza, otro dice que no ve, otro se hace el cojo...
+
+184
+00:19:45,650 --> 00:19:58,100
+Después, en ese brusco cambiar de la infancia, como llevan unos zapatos y un vestido, y como sus madres, ellas sabrán cómo, les han dado algo de comer, se creen unos príncipes:
+
+185
+00:19:58,100 --> 00:20:00,830
+—Mi padre tiene un reloj de plata.
+
+186
+00:20:00,830 --> 00:20:02,480
+—Y el mío, un caballo.
+
+187
+00:20:02,480 --> 00:20:04,440
+—Y el mío, una escopeta.
+
+188
+00:20:04,440 --> 00:20:12,060
+Reloj que levantará a la madrugada, escopeta que no matará el hambre, caballo que llevará a la miseria...
+
+189
+00:20:12,060 --> 00:20:13,670
+El corro, luego.
+
+190
+00:20:13,670 --> 00:20:22,780
+Entre tanta negrura, una niña, con voz débil, hilo de cristal acuoso en la sombra, canta entonadamente, cual una princesa:
+
+191
+00:20:22,780 --> 00:20:26,570
+Yo soy la viudita del Conde de Oré...
+
+192
+00:20:26,570 --> 00:20:27,120
+...
+
+193
+00:20:27,120 --> 00:20:28,200
+¡Sí, sí!
+
+194
+00:20:28,200 --> 00:20:31,120
+¡Cantad, soñad, niños pobres!
+
+195
+00:20:31,120 --> 00:20:38,980
+Pronto, al amanecer vuestra adolescencia, la primavera os asustará, como un mendigo, enmascarada de invierno.
+
+196
+00:20:38,980 --> 00:20:42,010
+—Vamos, Platero...
+
+197
+00:20:42,010 --> 00:20:44,930
+Estrofa numero quince
+AMISTAD
+
+198
+00:20:44,930 --> 00:20:46,920
+Nos entendemos bien.
+
+199
+00:20:46,920 --> 00:20:51,480
+Yo lo dejo ir a su antojo, y él me lleva siempre adonde quiero.
+
+200
+00:20:51,480 --> 00:21:02,460
+Sabe Platero que, al llegar al pino de la Corona, me gusta acercarme a su tronco y acariciárselo, y mirar al cielo al través de su enorme y clara copa;
+
+201
+00:21:02,460 --> 00:21:13,990
+sabe que me deleita la veredilla que va, entre céspedes, a la fuente vieja; que es para mí una fiesta ver el río desde la colina de los pinos, evocadora, de un paraje clásico.
+
+202
+00:21:13,990 --> 00:21:22,040
+Como me adormile, seguro, sobre él, mi despertar se abre siempre a uno de tales amables espectáculos.
+
+203
+00:21:22,040 --> 00:21:25,290
+Yo trato a Platero cual si fuese un niño.
+
+204
+00:21:25,290 --> 00:21:30,080
+Si el camino se torna fragoso y le peso un poco, me bajo para aliviarlo.
+
+205
+00:21:30,080 --> 00:21:33,260
+Lo beso, lo engaño, lo hago rabiar...
+
+206
+00:21:33,260 --> 00:21:36,980
+Él comprende bien que lo quiero, y no me guarda rencor.
+
+207
+00:21:36,980 --> 00:21:41,440
+Es tan igual a mí, que he llegado a creer que sueña mis propios sueños.
+
+208
+00:21:41,440 --> 00:21:45,980
+Platero se me ha rendido como una adolescente apasionada.
+
+209
+00:21:45,980 --> 00:21:47,680
+De nada protesta.
+
+210
+00:21:47,680 --> 00:21:49,650
+Sé que soy su felicidad.
+
+211
+00:21:49,650 --> 00:21:53,220
+Hasta huye de los burros y de los hombres...
+
+212
+00:21:53,220 --> 00:21:57,060
+Estrofa dieciséis
+LA NOVIA
+
+213
+00:21:57,060 --> 00:22:13,860
+El claro viento del mar sube por la cuesta roja, llega al prado del cabezo, ríe entre las tiernas florecillas blancas; después, se enreda por los pinetes sin limpiar y mece las encendidas telarañas celestes, rosas, de oro...
+
+214
+00:22:13,860 --> 00:22:16,370
+Toda la tarde es ya viento marino.
+
+215
+00:22:16,370 --> 00:22:20,890
+Y el sol y el viento ¡dan un blando bienestar al corazón!
+
+216
+00:22:20,890 --> 00:22:24,720
+Platero me lleva, contento, ágil, dispuesto.
+
+217
+00:22:24,720 --> 00:22:26,360
+Se dijera que no le peso.
+
+218
+00:22:26,360 --> 00:22:29,690
+Subimos, como si fuésemos cuesta abajo, a la colina.
+
+219
+00:22:29,690 --> 00:22:37,700
+A lo lejos, una cinta brillante, incolora, vibra, entre Los últimos pinos, en un aspecto de paisaje isleño.
+
+220
+00:22:37,700 --> 00:22:43,600
+En los prados verdes, allá abajo, saltan los asnos trabados, de mata en mata.
+
+221
+00:22:43,600 --> 00:22:47,310
+Un estremecimiento primaveral vaga por las cañadas.
+
+222
+00:22:47,310 --> 00:22:58,480
+De pronto, Platero, yergue las orejas, dilata las levantadas narices, replegándolas hasta los ojos y dejando ver las grandes habichuelas de sus dientes amarillos.
+
+223
+00:22:58,480 --> 00:23:06,100
+Está respirando largamente, de los cuatro vientos, no sé qué honda esencia que debe transirle el corazón.
+
+224
+00:23:06,100 --> 00:23:07,200
+Sí.
+
+225
+00:23:07,200 --> 00:23:13,820
+Ahí tiene ya, en otra colina, fina y gris sobre el cielo azul, a la amada.
+
+226
+00:23:13,820 --> 00:23:22,360
+Y dobles rebuznos, sonoros y largos, rompen con su trompetería la hora luminosa y caen luego en gemelas cataratas.
+
+227
+00:23:22,360 --> 00:23:26,520
+He tenido que contrariar los instintos amables de mi pobre Platero.
+
+228
+00:23:26,520 --> 00:23:34,420
+La bella novia del campo lo ve pasar, triste como él, con sus ojazos de azabache cargados de estampas.
+
+229
+00:23:34,420 --> 00:23:39,300
+¡Inútil pregón misterioso, que ruedas brutalmente por las margaritas!
+
+230
+00:23:39,300 --> 00:23:46,930
+Y Platero trota indócil, intentando a cada instante volverse, con un reproche en su trotecillo menudo:
+
+231
+00:23:46,930 --> 00:23:51,900
+—Parece mentira, parece mentira, parece mentira...
+
+232
+00:23:52,980 --> 00:23:55,990
+Estrofa diecisiete
+CALOSFRÍO
+
+233
+00:23:55,990 --> 00:23:59,870
+La luna viene con nosotros, grande, redonda, pura.
+
+234
+00:23:59,870 --> 00:24:06,090
+En los prados soñolientos se ven, vagamente, no sé qué cabras negras, entre las zarzamoras...
+
+235
+00:24:06,090 --> 00:24:09,380
+Alguien se esconde, tácito, a nuestro pasar...
+
+236
+00:24:09,380 --> 00:24:20,130
+Sobre el vallado, un almendro inmenso, níveo de flor y de luna, revuelta la copa con una nube blanca, cobija el camino asaeteado de estrellas de Marzo...
+
+237
+00:24:20,130 --> 00:24:24,570
+Un olor penetrante a naranjas..., humedad y silencio...
+
+238
+00:24:24,570 --> 00:24:27,030
+La cañada de las Brujas...
+
+239
+00:24:27,030 --> 00:24:29,820
+—¡Platero, qué... frío!
+
+240
+00:24:29,820 --> 00:24:38,270
+Platero, no sé si con su miedo o con el mío, trota, entra en el arroyo, pisa la luna y la hace pedazos.
+
+241
+00:24:38,270 --> 00:24:45,310
+Es como si un enjambre de claras rosas de cristal se enredara, queriendo retenerlo, a su trote...
+
+242
+00:24:45,310 --> 00:24:56,500
+Y trota Platero, cuesta arriba, encogida la grupa cual si alguien le fuese a alcanzar, sintiendo ya la tibieza suave del pueblo que se acerca...
+
+243
+00:24:56,500 --> 00:25:00,880
+Estrofa dieciocho
+ELLA Y NOSOTROS
+
+244
+00:25:00,880 --> 00:25:14,130
+Platero; acaso ella se iba—¿adonde?—en aquel tren negro y soleado que, por la vía alta, cortándose sobre los nubarrones blancos, huía hacia el norte.
+
+245
+00:25:14,130 --> 00:25:24,170
+Yo estaba abajo, contigo, en el trigal amarillo y ondeante, goteado todo de sangre de amapolas, que ya Julio coronaba de ceniza.
+
+246
+00:25:24,170 --> 00:25:34,630
+Y las nubecillas de vapor celeste—¿te acuerdas?—entristecían un momento el sol y las flores, rodando vanamente hacia la nada...
+
+247
+00:25:34,630 --> 00:25:38,050
+¡Breve cabeza rubia, velada de negro!
+
+248
+00:25:38,050 --> 00:25:43,050
+Era como el retrato de la ilusión en el marco fugaz de la ventanilla.
+
+249
+00:25:43,050 --> 00:25:49,290
+Tal vez ella pensara:—¿Quiénes serán ese hombre enlutado y ese burrillo de plata?
+
+250
+00:25:49,290 --> 00:25:51,370
+¡Quiénes íbamos a ser!
+
+251
+00:25:51,370 --> 00:25:54,240
+Nosotros... ¿verdad, Platero?
+
+252
+00:25:54,240 --> 00:25:59,110
+Estrofa diecinueve
+LA COZ
+
+253
+00:25:59,110 --> 00:26:03,480
+Íbamos al cortijo de Montemayor, al herradero de los novillos.
+
+254
+00:26:03,480 --> 00:26:18,390
+El patio empedrado, sombrío bajo el inmenso y ardiente cielo azul de la tardecita, vibraba sonoro del relinchar de los caballos pujantes, del reir fresco de las mujeres, de los afilados ladridos inquietos de los perros.
+
+255
+00:26:18,390 --> 00:26:21,520
+Platero, en un rincón, se impacientaba.
+
+256
+00:26:21,520 --> 00:26:27,060
+—Pero, hombre—le dije—, si tú no puedes venir con nosotros; si eres muy chico...
+
+257
+00:26:27,060 --> 00:26:32,590
+Se ponía tan loco, que le pedí al tonto que se subiera en él y lo llevara con nosotros.
+
+258
+00:26:32,590 --> 00:26:35,730
+Por el campo claro, ¡qué alegre cabalgar!
+
+259
+00:26:35,730 --> 00:26:44,730
+Estaban las marismas risueñas y ceñidas de oro, con el sol en sus espejos rotos, que doblaban los molinos cerrados.
+
+260
+00:26:44,730 --> 00:26:56,220
+Entre el redondo trote duro de los caballos, Platero alzaba su raudo trotecillo agudo, que necesitaba multiplicar insistentemente para no quedarse solo en el camino.
+
+261
+00:26:56,220 --> 00:26:59,980
+De pronto, sonó como un tiro de pistola.
+
+262
+00:26:59,980 --> 00:27:09,290
+Platero le había rozado la grupa a un fino potro tordo con su boca, y el potro le había respondido con una rápida coz.
+
+263
+00:27:09,290 --> 00:27:14,750
+Nadie hizo caso, pero yo le vi a Platero una mano corrida de sangre.
+
+264
+00:27:14,750 --> 00:27:20,510
+Eché pie a tierra y, con una espina y una crin, le prendí la vena rota.
+
+265
+00:27:20,510 --> 00:27:23,810
+Luego le dije al tonto que se lo llevara a casa.
+
+266
+00:27:23,810 --> 00:27:32,960
+Se volvieron los dos, lentos y tristes, por el arroyo seco que baja del pueblo, volviendo la cabeza al brillante huir de nuestro tropel.
+
+267
+00:27:32,960 --> 00:27:39,590
+Cuando, de vuelta del cortijo, fuí a ver a Platero, me lo encontré mustio y doloroso.
+
+268
+00:27:39,590 --> 00:27:45,640
+—¿Ves—le suspiré—que tú no puedes ir a ninguna parte con los hombres?
+
+269
+00:27:47,320 --> 00:27:50,930
+Estrofa veinte
+ASNOGRAFÍA
+
+270
+00:27:50,930 --> 00:28:00,150
+Leo en un Diccionario: "Asnografía": s. f.: se dice, irónicamente, por descripción del asno.
+
+271
+00:28:00,150 --> 00:28:01,980
+¡Pobre asno!
+
+272
+00:28:01,980 --> 00:28:05,290
+¡Tan bueno, tan noble, tan agudo como eres!
+
+273
+00:28:05,290 --> 00:28:06,760
+Irónicamente.,..
+
+274
+00:28:06,760 --> 00:28:07,940
+¿Por qué?
+
+275
+00:28:07,940 --> 00:28:14,760
+¿Ni una descripción seria mereces, tú, cuya descripción cierta sería un cuento de primavera?
+
+276
+00:28:14,760 --> 00:28:17,520
+¡Si al hombre que es bueno debieran decirle asno!
+
+277
+00:28:17,520 --> 00:28:21,160
+¡Si al asno que es malo debieran decirle hombre!
+
+278
+00:28:21,160 --> 00:28:22,730
+Irónicamente...
+
+279
+00:28:22,730 --> 00:28:39,260
+De ti, tan intelectual, amigo del viejo y del niño, del arroyo y de la mariposa, del sol y del perro, de la flor y de la luna, paciente y reflexivo, melancólico y amable, Marco Aurelio de los prados...
+
+280
+00:28:39,260 --> 00:28:52,370
+Platero, que sin duda comprende, me mira fijamente con sus ojazos brillantes, de una blanda dureza, en los que el sol brilla, pequeñito y chispeante en un breve y convexo firmamento negro.
+
+281
+00:28:52,370 --> 00:28:53,990
+¡Ay!
+
+282
+00:28:53,990 --> 00:29:04,420
+¡Si su peluda cabezota idílica supiera que yo le hago justicia, que yo soy mejor que esos hombres que escriben Diccionarios, casi tan bueno como él!
+
+283
+00:29:04,420 --> 00:29:17,990
+Y he escrito al margen del libro; "Asnografía: s. f.: se debe decir, con ironía, ¡claro está!, por descripción del hombre imbécil que escribe Diccionarios."
+
+284
+00:29:17,990 --> 00:29:21,930
+Estrofa veintiuno
+EL VERANO
+
+285
+00:29:21,930 --> 00:29:29,010
+Platero va chorreando sangre, una sangre espesa y morada, de las picaduras, de los tábanos.
+
+286
+00:29:29,010 --> 00:29:32,720
+La chicharra sierra un pino, al que nunca se llega...
+
+287
+00:29:32,720 --> 00:29:41,570
+Al abrir los ojos, después de un sueño instantáneo, el paisaje de arena se me torna blanco, frío en su ardor, espectral..
+
+288
+00:29:41,570 --> 00:29:56,440
+Están los jarales bajos constelados de sus grandes flores vagas, rosas de humo, de gasa, de papel de seda, con sus cuatro lágrimas de carmín; y una calina que asfixia, enyesa los pinos chatos.
+
+289
+00:29:56,440 --> 00:30:03,250
+Un pájaro nunca visto, amarillo con lunares negros, se eterniza, mudo, en una rama.
+
+290
+00:30:03,250 --> 00:30:12,500
+Los guardas de los huertos suenan el latón para asustar los rabúos, que vienen, en grandes bandos celestes, por naranjas...
+
+291
+00:30:12,500 --> 00:30:22,200
+Cuando llegamos a la sombra del nogal grande, rajo dos sandías, que abren su escarcha grana y rosa en un largo crujido fresco.
+
+292
+00:30:22,200 --> 00:30:27,670
+Yo me como la mía lentamente, oyendo, a lo lejos, las vísperas del pueblo.
+
+293
+00:30:27,670 --> 00:30:32,870
+Platero se bebe la carne de azúcar de la suya, como si fuese agua.
+
+294
+00:30:32,870 --> 00:30:36,970
+Estrofa veintidós
+DARBÓN
+
+295
+00:30:36,970 --> 00:30:44,650
+Darbón, el médico de Platero, es grande como el buey pío, rojo como una sandía.
+
+296
+00:30:44,650 --> 00:30:46,530
+Pesa once arrobas.
+
+297
+00:30:46,530 --> 00:30:49,630
+Cuenta, según él, tres duros de edad.
+
+298
+00:30:49,630 --> 00:30:57,920
+Cuando habla, le faltan notas, cual a los pianos viejos; otras veces, en lugar de palabra, le sale un escape de aire.
+
+299
+00:30:57,920 --> 00:31:11,380
+Y estas pifias llevan un acompañamiento de inclinaciones de cabeza, de manotadas ponderativas, de vacilaciones chochas, de quejumbres de garganta y salivas en el pañuelo, que no hay más que pedir.
+
+300
+00:31:11,380 --> 00:31:14,090
+Un amable concierto para antes de la cena.
+
+301
+00:31:14,090 --> 00:31:20,180
+No le queda muela ni diente y casi sólo come migajón de pan, que amasa primero en la mano.
+
+302
+00:31:20,180 --> 00:31:22,590
+Hace una bola y ¡a la boca roja!
+
+303
+00:31:22,590 --> 00:31:25,740
+Allí la tiene, revolviéndola, una hora.
+
+304
+00:31:25,740 --> 00:31:27,990
+Luego, otra bola, y otra.
+
+305
+00:31:27,990 --> 00:31:32,860
+Masca con las encías, y la barba le llega a la aguileña nariz.
+
+306
+00:31:32,860 --> 00:31:35,370
+Digo que es grande como el buey pío.
+
+307
+00:31:35,370 --> 00:31:37,930
+En la puerta de la herrería, tapa la casa.
+
+308
+00:31:37,930 --> 00:31:41,490
+Pero se enternece, igual que un niño, con Platero.
+
+309
+00:31:41,490 --> 00:31:50,560
+Y si ve una flor o un pajarillo, se ríe de pronto, abriendo toda su boca, con una gran risa sostenida, que acaba siempre en llanto.
+
+310
+00:31:50,560 --> 00:31:54,900
+Luego, ya sereno, mira del lado del cementerio viejo:
+
+311
+00:31:54,900 --> 00:31:58,690
+—Mi niña, mi pobrecita niña...
+
+312
+00:31:58,690 --> 00:32:03,060
+Estrofa veintitrés
+LA ARRULLADORA
+
+313
+00:32:03,060 --> 00:32:18,760
+La chiquilla del carbonero, guapa y sucia cual una moneda, bruñidos los negros ojos y reventando sangre los labios prietos entre la tizne, está a la puerta de la choza, sentada en una teja, durmiendo al hermanito.
+
+314
+00:32:18,760 --> 00:32:33,970
+Vibra la hora de Mayo, ardiente y clara como un sol por dentro. En la paz brillante, se oye el hervor de la olla que cuece en el campo, la brama de la dehesa, la alegría del viento del mar en la maraña de los eucaliptos.
+
+315
+00:32:33,970 --> 00:32:37,160
+Sentida y dulce, la carbonera canta:
+
+316
+00:32:37,160 --> 00:32:42,970
+Mi niño se va a dormir en gracia de la Pastora...
+
+317
+00:32:42,970 --> 00:32:44,160
+Pausa.
+
+318
+00:32:44,160 --> 00:32:45,520
+El viento...
+
+319
+00:32:45,520 --> 00:32:51,800
+...y por dormirse mi niño, se duerme la arrulladora...
+
+320
+00:32:51,800 --> 00:32:53,150
+El viento...
+
+321
+00:32:53,150 --> 00:32:58,900
+Platero, que anda, manso, entre los pinos quemados, se llega, poco a poco...
+
+322
+00:32:58,900 --> 00:33:07,320
+Luego se echa en la tierra fosca y, a la larga copla de madre, se adormila, igual que un niño.
+
+323
+00:33:08,800 --> 00:33:12,470
+Fin de la
+Segunda sección
+de
+Platero y yo
+
+324
+00:33:12,470 --> 00:33:21,000
+Grabado por Claudia Barrett
+
+325
+00:33:21,000 --> 00:33:26,610
+Tercera sección
+de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+326
+00:33:26,610 --> 00:33:29,420
+Esta es una grabación para LibriVox.
+
+327
+00:33:29,420 --> 00:33:33,250
+Todas las grabaciones de LibriVox están en el dominio público.
+
+328
+00:33:33,250 --> 00:33:38,790
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+329
+00:33:38,790 --> 00:33:41,980
+Grabado por Claudia Barrett
+
+330
+00:33:41,980 --> 00:33:46,110
+Estrofa veinticuatro
+EL CANTO DEL GRILLO
+
+331
+00:33:46,110 --> 00:33:52,050
+Platero y yo conocemos bien, de nuestras correrías nocturnas, el canto del grillo.
+
+332
+00:33:52,050 --> 00:33:58,380
+El primer canto del grillo, en el crepúsculo, es vacilante, bajo y áspero.
+
+333
+00:33:58,380 --> 00:34:10,140
+Muda de tono, aprende de si mismo y, poco a poco, va subiendo, va poniéndose en su sitio, como si fuera buscando la armonía del lugar y de la hora.
+
+334
+00:34:10,140 --> 00:34:19,590
+De pronto, ya las estrellas en el cielo verde y transparente, cobra el canto un dulzor melodioso de cascabel libre.
+
+335
+00:34:19,590 --> 00:34:34,020
+Las frescas brisas moradas van y vienen; se abren del todo las flores de la noche y vaga por el llano una esencia pura y divina, de confundidos prados azules, celestes y terrestres.
+
+336
+00:34:34,020 --> 00:34:40,680
+Y el canto del grillo se exalta, llena todo el campo, es cual la voz de la sombra.
+
+337
+00:34:40,680 --> 00:34:43,400
+No vacila ya, ni se calla.
+
+338
+00:34:43,400 --> 00:34:50,960
+Como surtiendo de sí propio, cada nota es gemela de la otra, en una hermandad de obscuros cristales.
+
+339
+00:34:50,960 --> 00:34:53,080
+Pasan, serenas, las horas.
+
+340
+00:34:53,080 --> 00:34:59,970
+No hay guerra en el mundo y duerme bien el labrador, viendo el cielo en el fondo alto de su sueño.
+
+341
+00:34:59,970 --> 00:35:07,390
+Tal vez el amor, entre las enredaderas de una tapia, anda extasiado, los ojos en los ojos.
+
+342
+00:35:07,390 --> 00:35:17,260
+Los habares mandan al pueblo mensajes de fragancia tierna, cual en una libre adolescencia candorosa y sutil.
+
+343
+00:35:17,260 --> 00:35:26,040
+Y los trigos ondean, verdes de luna, suspirando al viento de las dos, de las tres, de las cuatro...
+
+344
+00:35:26,040 --> 00:35:30,290
+El canto del grillo, de tanto sonar, se ha perdido...
+
+345
+00:35:30,290 --> 00:35:32,070
+¡Aquí está!
+
+346
+00:35:32,070 --> 00:35:41,270
+¡Oh canto del grillo por la madrugada, cuando, corridos de calosfríos, Platero y yo nos vamos a la cama por las sendas blancas de relente!
+
+347
+00:35:41,270 --> 00:35:44,940
+La luna, se cae, rojiza y soñolienta.
+
+348
+00:35:44,940 --> 00:35:52,520
+Ya el canto está borracho de luna, embriagado de estrellas, romántico, misterioso, profuso.
+
+349
+00:35:52,520 --> 00:36:02,700
+Es cuando unas grandes nubes luctuosas, bordeadas de un malva azul y triste, sacan el día de la mar, lentamente...
+
+350
+00:36:02,700 --> 00:36:05,990
+Estrofa veinticinco
+CORPUS
+
+351
+00:36:05,990 --> 00:36:20,520
+Entrando por la calle de la Fuente, de vuelta del huerto, las Campanas, que ya habíamos oído tres veces desde los arroyos, conmueven, con su pregonera coronación de bronce, el blanco pueblecillo.
+
+352
+00:36:20,520 --> 00:36:31,020
+Su repique voltea y voltea entre el chispeante y estruendoso subir de los cohetes y la chillona metalería de la música.
+
+353
+00:36:31,020 --> 00:36:39,280
+La calle, recién encalada y ribeteada de almagra, verdea toda, vestida de chopos y juncias.
+
+354
+00:36:39,280 --> 00:36:51,260
+Lucen las ventanas colgaduras de damasco granate, de seda amarilla, de celeste raso, y, en las casas en que hay luto, de lana cándida, con cintas negras.
+
+355
+00:36:51,260 --> 00:37:04,080
+Por las últimas casas, en la vuelta del Porche, aparece, tarda, la Cruz de los espejos, que, entre los destellos del poniente, recoge ya la luz de los cirios rojos.
+
+356
+00:37:04,080 --> 00:37:06,520
+Lentamente, pasa la procesión.
+
+357
+00:37:06,520 --> 00:37:26,440
+La bandera carmín, y San Roque, patrón de los panaderos, cargado de tiernas roscas; la bandera glauca, y San Telmo, patrón de los marineros, con su navío de plata en las manos; la bandera gualda, y San Isidro, patrón de los labradores, con su yuntita de bueyes,
+
+358
+00:37:26,440 --> 00:37:37,570
+y más banderas de colores, y más Santos, y luego, Santa Ana, dando lección a la Virgen, y San José, pardo, y la Inmaculada, azul...
+
+359
+00:37:37,570 --> 00:37:50,520
+Al fin, entre la guardia civil, la Custodia, ornada de espigas granadas y de esmeraldinas uvas agraces su calada platería, despaciosa en su nube celeste de incienso.
+
+360
+00:37:50,520 --> 00:37:55,850
+En la tarde que cae, se alza, claro, el latín andaluz de los salmos.
+
+361
+00:37:55,850 --> 00:38:06,690
+El sol, ya rosa, quiebra su rayo bajo, que viene por la calle del Río, en la cargazón de oro de las viejas capas pluviales.
+
+362
+00:38:06,690 --> 00:38:18,610
+Arriba, en derredor de la torre escarlata, sobre el ópalo terso de la hora serena de Junio, las palomas tejen sus altas guirnaldas de nieve encendida...
+
+363
+00:38:18,610 --> 00:38:21,110
+Platero, entonces, rebuzna.
+
+364
+00:38:21,110 --> 00:38:36,260
+Y su mansedumbre se asocia, con la campana, con el cohete, con el latín y con la música, al claro misterio del día, y el rebuzno se le endulza, altivo, y, rastrero, se le diviniza...
+
+365
+00:38:38,460 --> 00:38:41,070
+Estrofa veintiséis
+LA CUADRA
+
+366
+00:38:41,070 --> 00:38:54,290
+Cuando, al mediodía, voy a ver a Platero, un transparente rayo del sol de las doce enciende un gran lunar de oro en la plata blanda de su lomo.
+
+367
+00:38:54,290 --> 00:39:02,930
+Bajo su barriga, por el obscuro suelo, vagamente verde, el techo viejo llueve claras monedas de fuego.
+
+368
+00:39:02,930 --> 00:39:13,680
+Diana, que está echada entre las patas de Platero, viene a mí bailando y me pone sus manos en el pecho, anhelando lamerme la boca con su lengua rosa.
+
+369
+00:39:13,680 --> 00:39:23,950
+Subida en lo más alto del pesebre, la cabra me mira curiosa, doblando la fina cabeza de un lado y de otro, con una femenina distinción.
+
+370
+00:39:23,950 --> 00:39:35,900
+Entretanto, Platero, que, antes de entrar yo, me había ya saludado con un levantado rebuzno, quiere romper su cuerda, duro y alegre al mismo tiempo:
+
+371
+00:39:35,900 --> 00:39:45,940
+Por el tragaluz, que trae el irisado tesoro del cenit, me voy un momento, rayo de sol arriba, al cielo, desde aquel idilio.
+
+372
+00:39:45,940 --> 00:39:49,730
+Luego, subiéndome a una piedra, miro el campo.
+
+373
+00:39:49,730 --> 00:40:02,720
+El paisaje verde nada en la lumbrarada florida y soñolienta, y en el azul limpio que encuadra el muro astroso, suena, dejada y dulce, una campana.
+
+374
+00:40:04,200 --> 00:40:09,460
+Estrofa veintisiete
+EL PERRO SARNOSO
+
+375
+00:40:10,940 --> 00:40:15,090
+Venía, a Veces, flaco y anhelante, a la casa del huerto.
+
+376
+00:40:15,090 --> 00:40:21,100
+El pobre andaba siempre huido, acostumbrado a los gritos y a las pedreas.
+
+377
+00:40:21,100 --> 00:40:24,590
+Los mismos perros le enseñaban los colmillos.
+
+378
+00:40:24,590 --> 00:40:29,900
+Y se iba otra vez, en él sol del mediodía, lento y triste, monte abajo.
+
+379
+00:40:29,900 --> 00:40:33,550
+Aquella tarde, llegó detrás de Diana.
+
+380
+00:40:33,550 --> 00:40:41,280
+Cuando yo salía, el guarda, que en un arranque de mal corazón había sacado la escopeta, disparó contra él.
+
+381
+00:40:41,280 --> 00:40:43,390
+No tuve tiempo de evitarlo.
+
+382
+00:40:43,390 --> 00:40:55,860
+El pobre perro, con el tiro en las entrañas, giró vertiginosamente un momento, en un redondo aullido agudo, y cayó muerto bajo una acacia.
+
+383
+00:40:56,860 --> 00:41:00,640
+Platero miraba al perro fijamente, erguida la cabeza.
+
+384
+00:41:00,640 --> 00:41:05,630
+Diana, temerosa, andaba escondiéndose de uno en otro.
+
+385
+00:41:05,630 --> 00:41:15,620
+El guarda, arrepentido quizás, daba largas razones no sabía a quién, indignándose sin poder, queriendo acallar su remordimiento.
+
+386
+00:41:15,620 --> 00:41:26,150
+Un velo parecía enlutecer el sol; un velo grande, como el velo pequeñito que nubló el ojo sano del perro asesinado.
+
+387
+00:41:26,150 --> 00:41:40,100
+Abatidos por el viento del mar, los eucaliptos lloraban más reciamente en el hondo silencio aplastante que la siesta tendía por el campo de oro, sobre el perro muerto.
+
+388
+00:41:41,740 --> 00:41:44,900
+Estrofa veintiocho
+TORMENTA
+
+389
+00:41:45,980 --> 00:41:46,910
+Miedo.
+
+390
+00:41:46,910 --> 00:41:48,790
+Aliento contenido.
+
+391
+00:41:48,790 --> 00:41:50,940
+Sudor frío.
+
+392
+00:41:50,940 --> 00:41:55,300
+El terrible cielo bajo ahoga el amanecer.
+
+393
+00:41:55,300 --> 00:41:57,710
+(No hay por dónde escapar.)
+
+394
+00:41:57,710 --> 00:41:59,380
+Silencio...
+
+395
+00:41:59,380 --> 00:42:01,500
+El amor se para.
+
+396
+00:42:01,500 --> 00:42:03,390
+Tiembla la culpa.
+
+397
+00:42:03,390 --> 00:42:06,250
+El remordimiento cierra los ojos.
+
+398
+00:42:06,250 --> 00:42:08,490
+Más silencio...
+
+399
+00:42:08,490 --> 00:42:20,040
+El trueno, sordo, retumbante, interminable, como una enorme carga de piedra que cayera del cenit al pueblo, recorre, largamente, la mañana desierta.
+
+400
+00:42:20,040 --> 00:42:22,360
+(No hay por dónde huir.)
+
+401
+00:42:22,360 --> 00:42:27,460
+Todo lo débil—flores, pájaros—, desaparece de la vida.
+
+402
+00:42:27,460 --> 00:42:34,910
+Tímido, el espanto mira; por la ventana entreabierta a Dios, que se alumbra trágicamente.
+
+403
+00:42:34,910 --> 00:42:46,370
+Allá en oriente, entre desgarrones de nubes, se ven malvas y rosas tristes, sucios, fríos, que no pueden vencer la negrura.
+
+404
+00:42:46,370 --> 00:42:48,310
+¡Angelus!
+
+405
+00:42:48,310 --> 00:42:53,010
+Un Angelus duro y abandonado, solloza entre el tronido.
+
+406
+00:42:53,010 --> 00:42:55,860
+¿El último Angelus del mundo?
+
+407
+00:42:55,860 --> 00:43:02,830
+Y se quiere que la campana acabe pronto, o que suene más, mucho más, que ahogue la tormenta.
+
+408
+00:43:02,830 --> 00:43:09,360
+Y se va de un lado a otro, y se implora, y no se sabe lo que se quiere...
+
+409
+00:43:09,360 --> 00:43:11,870
+(No hay por dónde escapar.)
+
+410
+00:43:11,870 --> 00:43:14,120
+Los corazones están yertos.
+
+411
+00:43:14,120 --> 00:43:16,100
+Los niños lloran...
+
+412
+00:43:16,100 --> 00:43:22,330
+—¿Qué será de Platero, tan solo allá en la indefensa cuadra del corral?
+
+413
+00:43:22,330 --> 00:43:26,870
+Estrofa veintinueve
+PASAN LOS PATOS
+
+414
+00:43:26,870 --> 00:43:29,390
+He ido a darle agua a Platero.
+
+415
+00:43:29,390 --> 00:43:41,340
+En la noche serena, toda de nubes blancas y de estrellas, se oye, allá arriba, desde el silencio del corral, un incesante pasar de claros silbidos.
+
+416
+00:43:41,340 --> 00:43:43,500
+Son los patos.
+
+417
+00:43:43,500 --> 00:43:47,450
+Van tierra adentro, huyendo de la tempestad marina.
+
+418
+00:43:47,450 --> 00:43:58,650
+De vez en cuando, como si nosotros hubiéramos ascendido o como si ellos hubiesen bajado, se escuchan los ruidos más leves de sus alas, de sus picos...
+
+419
+00:43:58,650 --> 00:44:04,890
+Horas y horas, los silbidos seguirán pasando, en un huir interminable.
+
+420
+00:44:04,890 --> 00:44:15,120
+Platero, de vez en cuando, deja de beber y levanta, como yo, la cabeza a las estrellas, con una blanda nostalgia infinita...
+
+421
+00:44:16,240 --> 00:44:18,920
+Estrofa treinta
+SIESTA
+
+422
+00:44:18,920 --> 00:44:26,490
+Qué triste belleza, amarilla y descolorida, la del sol de la tarde, cuando me despierto bajo la higuera!
+
+423
+00:44:26,490 --> 00:44:33,850
+Una brisa seca, embalsamada de derretida jara, me acaricia el sudoroso despertar.
+
+424
+00:44:33,850 --> 00:44:40,940
+Las grandes hojas, levemente movidas, del blando árbol viejo, me enlutan o me deslumbran.
+
+425
+00:44:40,940 --> 00:44:48,760
+Parece que me mecieran suavemente en una cuna que fuese del sol a la sombra, de la sombra al sol.
+
+426
+00:44:48,760 --> 00:44:57,420
+Lejos, en el pueblo desierto, las campanas de las tres sueñan las vísperas, tras el oleaje de cristal del aire.
+
+427
+00:44:57,420 --> 00:45:08,670
+Oyéndolas, Platero, que me ha robado una gran sandía de dulce escarcha grana, de pie, inmóvil, me mira con sus enormes ojos vacilantes.
+
+428
+00:45:08,670 --> 00:45:14,050
+Frente a sus ojos cansados, mis ojos se me cansan otra vez...
+
+429
+00:45:14,050 --> 00:45:28,140
+Torna la brisa, cual una mariposa que quisiera volar y a la que, de pronto, se le doblaran las alas... las alas... mis párpados flojos, que, de pronto, se cerraran...
+
+430
+00:45:30,280 --> 00:45:33,860
+Estrofa treinta y uno
+LA TÍSICA
+
+431
+00:45:33,860 --> 00:45:44,800
+Estaba derecha en una triste silla, blanca la cara y mate, cual un nardo ajado, enmedio de la encalada y fría alcoba.
+
+432
+00:45:44,800 --> 00:45:51,480
+Le había mandado el médico salir al campo, a que le diera el sol de Marzo; pero la pobre no podía.
+
+433
+00:45:51,480 --> 00:46:02,210
+—Cuando llego al puente—me dijo—, ¡ya ve usted, señorito, ahí al lado que está!, me ahogo...
+
+434
+00:46:02,210 --> 00:46:10,610
+La voz pueril, delgada y rota, se le caía, cansada, como se cae, a veces, la brisa en el estío.
+
+435
+00:46:10,610 --> 00:46:14,060
+Yo le ofrecí a Platero para que diese un paseíto.
+
+436
+00:46:14,060 --> 00:46:22,000
+Subida en él, ¡qué risa la de su aguda cara de muerta, toda ojos negros y dientes blancos!
+
+437
+00:46:23,260 --> 00:46:23,260
+...
+
+438
+00:46:23,260 --> 00:46:26,550
+Las mujeres se asomaban a las puertas a vernos pasar.
+
+439
+00:46:26,550 --> 00:46:32,900
+Iba Platero despacio, como sabiendo que llevaba encima un frágil lirio de cristal.
+
+440
+00:46:32,900 --> 00:46:44,560
+La niña, con su hábito cándido, transfigurada por la fiebre y la alegría, parecía un ángel que entraba en el pueblo, camino del cielo del sur.
+
+441
+00:46:46,480 --> 00:46:50,220
+Estrofa treinta y dos
+PASEO
+
+442
+00:46:51,620 --> 00:46:58,720
+Por los hondos caminos del estío, colgados de tiernas madreselvas, ¡cuan dulcemente vamos!
+
+443
+00:46:58,720 --> 00:47:02,710
+Yo leo, o canto, o digo versos al cielo.
+
+444
+00:47:02,710 --> 00:47:10,820
+Platero mordisquea la hierba escasa de los vallados en sombra, la flor empolvada de las malvas, las vinagreras amarillas.
+
+445
+00:47:10,820 --> 00:47:13,310
+Está parado más tiempo que andando.
+
+446
+00:47:13,310 --> 00:47:14,800
+Yo lo dejo...
+
+447
+00:47:14,800 --> 00:47:28,590
+El cielo azul, azul, azul, asaeteado de mis ojos en arrobamiento, se levanta, sobre los almendros cargados, a sus últimas glorias.
+
+448
+00:47:28,590 --> 00:47:32,930
+Todo el campo, silencioso y ardiente, brilla.
+
+449
+00:47:32,930 --> 00:47:37,710
+En el río, una velita blanca se eterniza, sin viento.
+
+450
+00:47:37,710 --> 00:47:43,770
+Hacia los montes, la compacta humareda de un incendio alza sus redondas nubes negras.
+
+451
+00:47:43,770 --> 00:47:46,680
+Pero nuestro caminar es bien corto.
+
+452
+00:47:46,680 --> 00:47:51,250
+Es como un día suave é indefenso, enmedio de la vida múltiple.
+
+453
+00:47:51,250 --> 00:47:58,510
+¡Ni la apoteosis del cielo, ni el ultramar a que va el río, ni siquiera la tragedia de las llamas!
+
+454
+00:47:58,510 --> 00:48:08,460
+Cuando, entre un olor a naranjas, se oye el hierro alegre y fresco de la noria, Platero rebuzna y retoza alegremente.
+
+455
+00:48:08,460 --> 00:48:11,030
+¡Qué sencillo placer diario!
+
+456
+00:48:11,030 --> 00:48:16,070
+Ya en la alberca, yo lleno mi vaso y bebo aquella nieve líquida.
+
+457
+00:48:16,070 --> 00:48:24,780
+Platero sume en el agua umbría su boca, y bebe, aquí y allá, en lo más limpio, avaramente...
+
+458
+00:48:26,180 --> 00:48:29,270
+Estrofa treinta y tres
+CARNAVAL
+
+459
+00:48:29,270 --> 00:48:32,040
+Qué guapo está hoy Platero!
+
+460
+00:48:32,040 --> 00:48:44,600
+Es lunes de Carnaval, y los niños, que se han vestido de máscara, le han puesto el aparejo moruno, todo bordado en rojo, azul, blanco y amarillo, de cargados arabescos.
+
+461
+00:48:44,600 --> 00:48:47,030
+Agua, sol y frío.
+
+462
+00:48:47,030 --> 00:49:00,180
+Los redondos papelillos de colores van rodando paralelamente por la acera, al viento agudo de la tarde, y las máscaras, ateridas, hacen bolsillos de cualquier cosa para las manos azules.
+
+463
+00:49:00,180 --> 00:49:16,830
+Cuando hemos llegado a la plaza, unas mujeres vestidas de locas, con largas camisas blancas y guirnaldas de hojas verdes en los negros y sueltos cabellos, han cogido a Platero en medio de su corro bullanguero, y han girado alegremente en torno de él.
+
+464
+00:49:16,830 --> 00:49:27,160
+Platero, indeciso, yergue las orejas, alza la cabeza, y, como un alacrán cercado por el fuego, intenta, nervioso, huir por doquiera.
+
+465
+00:49:27,160 --> 00:49:33,710
+Pero, como es tan pequeño, las locas no le temen y siguen girando, cantando y riendo a su alrededor.
+
+466
+00:49:33,710 --> 00:49:39,000
+Los chiquillos, viéndolo cautivo, rebuznan para que él rebuzne.
+
+467
+00:49:39,000 --> 00:49:48,880
+Toda la plaza es ya un concierto altivo de metal amarillo, de rebuznos, de risas, de coplas, de panderetas y de almireces...
+
+468
+00:49:48,880 --> 00:49:58,820
+Por fin, Platero, decidido, igual que un hombre, rompe el corro y se viene a mí trotando y llorando, caído el lujoso aparejo.
+
+469
+00:49:58,820 --> 00:50:02,370
+Como yo, no quiere nada con el Carnaval...
+
+470
+00:50:02,370 --> 00:50:05,500
+No servimos para estas cosas...
+
+471
+00:50:09,080 --> 00:50:12,550
+Fin de la
+Tercera sección
+de
+Platero y yo
+
+472
+00:50:12,550 --> 00:50:14,500
+Grabado por Claudia Barrett
+
+473
+00:50:14,500 --> 00:50:25,290
+Cuarta sección
+de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+474
+00:50:25,290 --> 00:50:29,500
+Esta es una grabación para LibriVox.
+
+475
+00:50:29,500 --> 00:50:33,580
+Todas las grabaciones de LibriVox están en el dominio público.
+
+476
+00:50:33,580 --> 00:50:39,760
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+477
+00:50:39,760 --> 00:50:42,740
+Grabado por Claudia Barrett
+
+478
+00:50:44,300 --> 00:50:47,750
+Estrofa treinta y cuatro
+EL POZO
+
+479
+00:50:47,750 --> 00:50:49,980
+El pozo!
+
+480
+00:50:49,980 --> 00:50:56,640
+Platero, ¡qué palabra tan honda, tan verdinegra, tan fresca, tan sonora!
+
+481
+00:50:56,640 --> 00:51:04,040
+Parece que es la palabra la que taladra, girando, la tierra obscura, hasta llegar al agua.
+
+482
+00:51:04,040 --> 00:51:08,780
+Mira; la higuera adorna y desbarata el brocal.
+
+483
+00:51:08,780 --> 00:51:18,420
+Dentro, al alcance de la mano, ha abierto, entre los ladrillos con verdín, una flor azul de olor penetrante.
+
+484
+00:51:18,420 --> 00:51:22,430
+Una golondrina tiene, más abajo, el nido.
+
+485
+00:51:22,430 --> 00:51:33,380
+Luego, tras un pórtico de sombra fría, hay un palacio de esmeralda, y un lago, que, al arrojarle una piedra a su quietud, se enfada y gruñe.
+
+486
+00:51:33,380 --> 00:51:35,610
+Y el cielo, al fin.
+
+487
+00:51:35,610 --> 00:51:42,950
+(La noche entra, y la luna se inflama allá en el fondo, adornada de volubles estrellas.
+
+488
+00:51:42,950 --> 00:51:44,310
+¡Silencio!
+
+489
+00:51:44,310 --> 00:51:47,540
+Por los caminos se ha ido la vida a lo lejos.
+
+490
+00:51:47,540 --> 00:51:50,850
+Por el pozo se escapa el alma a lo hondo.
+
+491
+00:51:50,850 --> 00:51:55,040
+Se ve por él como el otro lado del crepúsculo.
+
+492
+00:51:55,040 --> 00:52:01,400
+Y parece que va a salir de su boca un gigante, dueño de todos los secretos.
+
+493
+00:52:01,400 --> 00:52:09,860
+¡Oh laberinto quieto y mágico, parque umbrío y fragante, magnético salón encantado!)
+
+494
+00:52:11,180 --> 00:52:20,220
+—Oye, Platero, si algún día me echo a este pozo, no será por matarme, créelo, sino por coger más pronto las estrellas.
+
+495
+00:52:20,220 --> 00:52:23,570
+Platero rebuzna, sediento y anhelante.
+
+496
+00:52:23,570 --> 00:52:28,980
+Del pozo sale, asustada, revuelta y silenciosa, una golondrina.
+
+497
+00:52:30,440 --> 00:52:33,640
+Estrofa treinta y cinco
+NOCTURNO
+
+498
+00:52:35,020 --> 00:52:43,120
+Del pueblo en fiesta, rojamente iluminado hacia el cielo, vienen agrios valses nostálgicos en el viento suave.
+
+499
+00:52:43,120 --> 00:52:51,720
+La torre se ve, lívida, muda y dura, en un errante limbo violeta, azulado, pajizo...
+
+500
+00:52:51,720 --> 00:53:00,900
+Y allá, tras las bodegas obscuras del arrabal, la luna caída, amarilla y soñolienta, se pone, sobre el río.
+
+501
+00:53:00,900 --> 00:53:06,100
+El campo está solo con sus árboles y con la sombra de sus árboles.
+
+502
+00:53:06,100 --> 00:53:17,080
+Hay un canto roto de grillo, una conversación sonámbula de aguas ocultas, una blandura húmeda, como si se deshiciesen las estrellas...
+
+503
+00:53:17,080 --> 00:53:22,420
+Platero, desde la tibieza de su cuadra, rebuzna tristemente.
+
+504
+00:53:22,420 --> 00:53:29,170
+La cabra andará despierta, y su campanilla insiste agitada, dulce luego.
+
+505
+00:53:29,170 --> 00:53:31,000
+Al fin, se calla...
+
+506
+00:53:31,000 --> 00:53:35,240
+A lo lejos, hacia Montemayor, rebuzna otro asno...
+
+507
+00:53:35,240 --> 00:53:37,840
+Otro, luego, por el Vallejuelo...
+
+508
+00:53:37,840 --> 00:53:40,430
+Ladra un perro...
+
+509
+00:53:40,430 --> 00:53:46,370
+Es la noche tan clara, que las flores del jardín se ven de su color, como en el día.
+
+510
+00:53:46,370 --> 00:53:54,640
+Por la última casa de la calle de la Fuente, bajo una roja y vacilante farola, tuerce la esquina un hombre solitario...
+
+511
+00:53:54,640 --> 00:53:55,200
+¿Yo?
+
+512
+00:53:55,200 --> 00:54:09,470
+No, yo, en la fragante penumbra, celeste, móvil y dorada, que hacen la luna, las lilas, la brisa y la sombra, escucho mi hondo corazón sin par...
+
+513
+00:54:09,470 --> 00:54:13,620
+La esfera gira, blandamente...
+
+514
+00:54:14,680 --> 00:54:18,820
+Estrofa treinta y seis
+EL NIÑO TONTO
+
+515
+00:54:20,220 --> 00:54:29,030
+Siempre que volvíamos por la calle de San José, estaba el niño tonto a la puerta de su casa, sentado en su sillita, mirando el pasar de los otros.
+
+516
+00:54:29,030 --> 00:54:42,770
+Era uno de esos pobres niños a quienes no llega nunca el don de la palabra ni el regalo de la gracia; niño alegre él y triste de ver; todo para su madre, nada para los demás.
+
+517
+00:54:42,770 --> 00:54:49,500
+Un día, cuando pasó por la calle blanca aquel mal viento negro, no estaba el niño en su puerta.
+
+518
+00:54:49,500 --> 00:55:02,720
+Cantaba un pájaro en el solitario umbral, y yo me acordé de Curros, padre más que poeta, que, cuando se quedó sin su niño, le preguntó por él a la mariposa gallega:
+
+519
+00:55:02,720 --> 00:55:07,740
+Volvoreta d' aliñas douradas...
+
+520
+00:55:07,740 --> 00:55:14,550
+Ahora que viene la primavera, pienso en el niño tonto, que desde la calle de San José se fué al cielo.
+
+521
+00:55:14,550 --> 00:55:25,520
+Estará sentado en su sillita, al lado de las rosas, viendo con sus ojos, abiertos otra vez, el dorado pasar de los gloriosos.
+
+522
+00:55:27,720 --> 00:55:30,760
+Estrofa treinta y siete
+DOMINGO
+
+523
+00:55:30,760 --> 00:55:42,460
+La pregonera vocinglería de la esquila de vuelta, cercana ya, ya distante, resuena en el cielo de la mañana de fiesta como si todo el azul fuera de cristal.
+
+524
+00:55:42,460 --> 00:55:50,450
+Y el campo, un poco enfermo ya, parece que se dora de las notas caídas del alegre revuelo florido.
+
+525
+00:55:50,450 --> 00:55:55,010
+Todos, hasta el guarda, se han ido al pueblo para ver la procesión.
+
+526
+00:55:55,010 --> 00:55:57,720
+Nos hemos quedado solos Platero y yo.
+
+527
+00:55:57,720 --> 00:55:58,760
+¡Qué paz!
+
+528
+00:55:58,760 --> 00:55:59,680
+¡Qué pureza!
+
+529
+00:55:59,680 --> 00:56:01,180
+¡Qué bienestar!
+
+530
+00:56:01,180 --> 00:56:09,130
+Dejo a Platero en el prado alto, y yo me echo, bajo un pino, lleno de pájaros que no se van, a leer.
+
+531
+00:56:09,130 --> 00:56:11,350
+Omar Khayyam...
+
+532
+00:56:11,350 --> 00:56:19,260
+En el silencio que queda entre los repiques, el hervidero interno de la mañana de Septiembre cobra presencia y sonido.
+
+533
+00:56:19,260 --> 00:56:31,730
+Las avispas orinegras vuelan en torno de la parra cargada de sanos racimos moscateles, y las mariposas, que andan confundidas con las flores, parece que se ríen al revolar.
+
+534
+00:56:31,730 --> 00:56:35,330
+Es la soledad como un gran pensamiento de luz.
+
+535
+00:56:35,330 --> 00:56:46,770
+De vez en cuando, Platero deja de comer, y me mira—Yo, de vez en cuando, dejo de leer, y miro a Platero...
+
+536
+00:56:46,770 --> 00:56:52,090
+Estrofa treinta y ocho
+LA CARRETILLA
+
+537
+00:56:52,090 --> 00:57:04,080
+En el arroyo grande, que la lluvia había dilatado hasta la viña, nos encontramos, atascada, una vieja carretilla, toda perdida bajo su carga de hierba y de naranjas.
+
+538
+00:57:04,080 --> 00:57:14,930
+Una niña, rota y sucia, lloraba sobre una rueda, queriendo ayudar con el empuje de su pecho en flor al borriquillo, más pequeño ¡ay!
+
+539
+00:57:14,930 --> 00:57:17,340
+y más flaco que Platero.
+
+540
+00:57:17,340 --> 00:57:26,970
+Y el borriquillo se destrozaba contra el viento, intentando, inútilmente, arrancar del fango la carreta, al grito sollozante de la chiquilla.
+
+541
+00:57:26,970 --> 00:57:37,140
+Era vano su esfuerzo, como el de los niños valientes, como el vuelo de esas brisas cansadas del verano que se caen, en un desmayo, entre las flores.
+
+542
+00:57:37,140 --> 00:57:43,750
+Acaricié a Platero y, como pude, lo enganché a la carretilla, delante del borrico miserable.
+
+543
+00:57:43,750 --> 00:57:52,860
+Le obligué, entonces, con un cariñoso imperio, y Platero, de un tirón, sacó carretilla y rucio del atolladero, y les subió la cuesta.
+
+544
+00:57:52,860 --> 00:57:55,250
+¡Qué sonreir el de la chiquilla!
+
+545
+00:57:55,250 --> 00:58:05,780
+Fué como si el sol de la tarde, que se rompía, al ponerse entre las nubes de agua, en amarillos cristales, le encendiese una aurora tras sus tiznadas lágrimas.
+
+546
+00:58:05,780 --> 00:58:09,830
+Con su llorosa alegría me ofreció dos escogidas naranjas.
+
+547
+00:58:09,830 --> 00:58:18,330
+Las tomé, agradecido, y le di una al borriquillo débil; como dulce consuelo; otra a Platero, como premio áureo.
+
+548
+00:58:18,330 --> 00:58:22,310
+Estrofa treinta y nueve
+RETORNO
+
+549
+00:58:22,310 --> 00:58:30,230
+Veníamos los dos, cargados, de los montes: Platero, de almoraduj; yo, de lirios amarillos.
+
+550
+00:58:30,230 --> 00:58:31,880
+Caía la tarde de Abril.
+
+551
+00:58:31,880 --> 00:58:41,060
+Todo lo que en el poniente había sido cristal de oro, era luego cristal de plata, una alegoría, lisa y luminosa, de azucenas de cristal.
+
+552
+00:58:41,060 --> 00:58:46,370
+Después el vasto cielo fué cual un zafiro transparente, trocado en esmeralda.
+
+553
+00:58:46,370 --> 00:58:48,370
+Yo volvía triste.
+
+554
+00:58:48,370 --> 00:58:58,750
+Cerca ya, la torre del pueblo, coronada de refulgentes azulejos, cobraba, en el levantamiento de la hora pura, un aspecto monumental.
+
+555
+00:58:58,750 --> 00:59:10,590
+Era, de cerca, como una Giralda vista de lejos, y mi nostalgia de ciudades, aguda con la primavera, encontraba en ella un consuelo melancólico.
+
+556
+00:59:10,590 --> 00:59:15,340
+Retorno... ¿adonde?, ¿de qué?, ¿para qué?...
+
+557
+00:59:15,340 --> 00:59:35,040
+Pero los lirios que venían conmigo olían más en la frescura tibia de la noche que se entraba; olían con un olor más penetrante y, al mismo tiempo, más vago, que salía de la flor sin verse la flor, que embriagaba el cuerpo y el alma desde la sombra solitaria.
+
+558
+00:59:35,040 --> 00:59:38,600
+—¡Alma mía, lirio en la sombra!—dije.
+
+559
+00:59:38,600 --> 00:59:43,940
+Y pensé, de pronto, en Platero, que, aunque iba debajo de mí, se me había olvidado.
+
+560
+00:59:43,940 --> 00:59:49,840
+Estrofa cuarenta
+EL PASTOR
+
+561
+00:59:49,840 --> 01:00:02,580
+En la colina, que la hora morada va tornando obscura y medrosa, el pastorcillo, negro contra el verde ocaso de cristal, silba en su pito, bajo el temblor de Venus.
+
+562
+01:00:02,580 --> 01:00:23,400
+Enredadas en las flores que huelen más y ya no se ven, cuyo aroma las exalta hasta darles forma en la sombra en que están perdidas; tintinean, paradas, las esquilas claras y dulces del rebaño, disperso un momento, antes de entrar al pueblo, en el paraje conocido.
+
+563
+01:00:23,400 --> 01:00:26,690
+—Zeñorito, zi eze burro juera mío...
+
+564
+01:00:26,690 --> 01:00:42,440
+El chiquillo, más moreno y más idílico en la hora dudosa, recogiendo en los ojos rápidos cualquier brillantez del instante, parece uno de aquellos rapaces que pintó Bartolomé Esteban Murillo.
+
+565
+01:00:42,440 --> 01:00:44,060
+Yo le daría el burro...
+
+566
+01:00:44,060 --> 01:00:47,520
+Pero, ¿qué iba yo a hacer sin ti, Platerillo?
+
+567
+01:00:47,520 --> 01:00:54,470
+La luna, que sube, redonda, sobre la ermita de Montemayor, se ha ido derramando suavemente por el prado,
+
+568
+01:00:54,470 --> 01:01:11,190
+donde aún yerran vagas claridades del día; y el suelo florido parece ahora de ensueño, no sé qué encaje primitivo y bello; y las rocas son más grandes y más inminentes y más tristes; y llora más el agua del regato escondido...
+
+569
+01:01:11,190 --> 01:01:14,620
+Y el pastorcillo grita, codicioso, ya lejos:
+
+570
+01:01:14,620 --> 01:01:15,970
+—¡Je!
+
+571
+01:01:15,970 --> 01:01:19,160
+Si ese burro juera mío...
+
+572
+01:01:20,820 --> 01:01:24,520
+Estrofa cuarenta y uno
+CONVALECENCIA
+
+573
+01:01:25,660 --> 01:01:43,060
+Desde la débil iluminación amarilla de mi cuarto de convaleciente, blando de alfombras y tapices, oigo pasar por la calle nocturna, como en un sueño con relente de estrellas, ligeros burros que retornan del campo, niños que juegan y gritan.
+
+574
+01:01:43,060 --> 01:01:53,790
+Se adivinan cabezotas obscuras de asnos, y cabecitas finas de niños, que, entre los rebuznos, cantan, con cristal y plata, coplas de Navidad.
+
+575
+01:01:53,790 --> 01:02:03,830
+El pueblo se siente envuelto en una humareda de castañas tostadas, en un vaho de establos, en un humo de hogares en paz...
+
+576
+01:02:03,830 --> 01:02:13,420
+Y mi alma se derrama, purificadera, como si un raudal de aguas celestes le surtiera de la peña en sombra del corazón.
+
+577
+01:02:13,420 --> 01:02:17,120
+¡Anochecer de redenciones!
+
+578
+01:02:17,120 --> 01:02:23,590
+¡Hora íntima, fría y tibia a un tiempo, llena de claridades infinitas!
+
+579
+01:02:23,590 --> 01:02:29,230
+Las campanas, allá arriba, allá fuera, repican entre las estrellas.
+
+580
+01:02:29,230 --> 01:02:34,560
+Contagiado, Platero rebuzna en su cuadra, que parece que está muy lejos...
+
+581
+01:02:34,560 --> 01:02:40,820
+Yo lloro, débil, conmovido y solo, igual que Fausto...
+
+582
+01:02:42,520 --> 01:02:48,000
+Estrofa cuarenta y dos
+LA NIÑA CHICA
+
+583
+01:02:48,000 --> 01:02:50,950
+La niña chica era la gloria de Platero.
+
+584
+01:02:50,950 --> 01:03:07,700
+En cuanto la veía venir hacia él, entre las lilas, con su vestídillo blanco y su sombrero de arroz, llamándolo, mimosa:—Platero, Platerillo!—, el asnucho quería partir la cuerda, y saltaba, igual que un niño, y rebuznaba loco.
+
+585
+01:03:07,700 --> 01:03:21,160
+Ella, en una confianza ciega, pasaba una vez y otra bajo él, y le pegaba pataditas, y le dejaba la mano, nardo cándido, en aquella bocaza rosa, almenada de grandes dientes amarillos;
+
+586
+01:03:21,160 --> 01:03:29,980
+o, cogiéndole las orejas, que él ponía a su alcance, lo llamaba con todas las variaciones mimosas de su nombre: ¡Platero!
+
+587
+01:03:29,980 --> 01:03:31,330
+¡Platerón!
+
+588
+01:03:31,330 --> 01:03:32,570
+¡Platerillo!
+
+589
+01:03:32,570 --> 01:03:34,560
+¡Platerete!
+
+590
+01:03:34,560 --> 01:03:43,130
+En los largos días en que la niña navegó en su cuna alba, río abajo, hacia la muerte, nadie se acordaba de Platero.
+
+591
+01:03:43,130 --> 01:03:47,760
+Ella, en su delirio, lo llamaba, triste: ¡Platerillo...!
+
+592
+01:03:47,760 --> 01:03:55,520
+Desde la casa obscura y llena de suspiros, se oía, a veces, la lejana llamada lastimera del amigo.
+
+593
+01:03:55,520 --> 01:03:58,280
+¡Oh, estío melancólico!
+
+594
+01:03:58,280 --> 01:04:02,170
+¡Qué lujo puso Dios en ti, tarde del entierro!
+
+595
+01:04:02,170 --> 01:04:06,040
+Septiembre, rosa y oro, declinaba.
+
+596
+01:04:06,040 --> 01:04:12,790
+Desde el cementerio ¡cómo resonaba la campana de vuelta en el ocaso abierto, camino de la gloria!...
+
+597
+01:04:12,790 --> 01:04:24,980
+Volví por las tapias, solo y mustio, entré en la casa por la puerta del corral, y, huyendo de los hombres, me fuí a la cuadra y me senté a llorar con Platero.
+
+598
+01:04:24,980 --> 01:04:29,260
+Estrofa cuarenta y tres
+EL OTOÑO
+
+599
+01:04:30,460 --> 01:04:38,350
+Ya el sol, Platero, empieza a sentir pereza de salir de sus sábanas, y los labradores madrugan más que él.
+
+600
+01:04:38,350 --> 01:04:41,780
+Es verdad que está desnudo y que hace fresco.
+
+601
+01:04:41,780 --> 01:04:43,960
+¡Cómo sopla el Norte!
+
+602
+01:04:43,960 --> 01:04:53,460
+Mira, por el suelo, las ramitas caídas; es el viento tan agudo, tan derecho, que están todas paralelas, apuntadas al Sur.
+
+603
+01:04:53,460 --> 01:05:13,160
+El arado va, como una tosca arma de guerra, a la labor alegre de la paz, Platero; y en la ancha senda húmeda, los árboles amarillos, seguros de verdecer, alumbran, a un lado y otro, vivamente, como suaves hogueras de oro claro, nuestro rápido caminar.
+
+604
+01:05:15,160 --> 01:05:18,010
+Fin de la
+Cuarta sección
+de
+Platero y yo
+
+605
+01:05:18,010 --> 01:05:25,610
+Grabado por Claudia Barrett
+
+606
+01:05:25,610 --> 01:05:29,230
+Quinta sección
+de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+607
+01:05:29,230 --> 01:05:32,880
+Esta es una grabación para LibriVox.
+
+608
+01:05:32,880 --> 01:05:37,140
+Todas las grabaciones de LibriVox están en el dominio público.
+
+609
+01:05:37,140 --> 01:05:43,680
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+610
+01:05:43,680 --> 01:05:48,630
+Grabado por Claudia Barrett
+
+611
+01:05:48,630 --> 01:05:52,400
+Estrofa cuarenta y cuatro
+SARITO
+
+612
+01:05:53,420 --> 01:06:02,430
+Para la vendimia, estando yo una tarde roja en la viña del arroyo, las mujeres me dijeron que un negrito preguntaba por mí.
+
+613
+01:06:02,430 --> 01:06:07,390
+Iba yo hacia la era, cuando él venía ya vereda abajo:
+
+614
+01:06:07,390 --> 01:06:08,440
+—¡Sarito!
+
+615
+01:06:08,440 --> 01:06:14,600
+Era Sarito, el criado de Rosalina, mi novia portorriqueña.
+
+616
+01:06:14,600 --> 01:06:25,440
+Se había escapado de Sevilla para torear por los pueblos, y venía de Niebla, andando, el capote, dos veces grana, al hombro, con hambre y sin dinero.
+
+617
+01:06:25,440 --> 01:06:36,550
+Los vendimiadores lo miraban de reojo, en un mal disimulado desprecio; las mujeres, más por los hombres que por ellas, lo evitaban.
+
+618
+01:06:36,550 --> 01:06:45,950
+Antes, al pasar por el lagar, se había peleado ya con un muchacho que le había partido una oreja de un mordisco.
+
+619
+01:06:45,950 --> 01:06:49,730
+Yo le sonreía y le hablaba afable.
+
+620
+01:06:49,730 --> 01:07:02,070
+Sarito, no atreviéndose a acariciarme a mí mismo, acariciaba a Platero, que andaba por allí comiendo uva, y me miraba, en tanto, noblemente...
+
+621
+01:07:02,070 --> 01:07:06,860
+Estrofa cuarenta y cinco
+TARDE DE OCTUBRE
+
+622
+01:07:08,060 --> 01:07:14,010
+Han pasado las vacaciones, y, con las primeras hojas gualdas, los niños han vuelto al colegio.
+
+623
+01:07:14,010 --> 01:07:15,470
+Soledad.
+
+624
+01:07:15,470 --> 01:07:18,240
+El sol de la casa parece vacío.
+
+625
+01:07:18,240 --> 01:07:22,730
+En la ilusión suenan gritos lejanos y remotas risas...
+
+626
+01:07:22,730 --> 01:07:29,110
+Sobre los rosales, aún con flor, cae la tarde, lentamente.
+
+627
+01:07:29,110 --> 01:07:42,070
+Las lumbres del ocaso prenden las últimas rosas, y el jardín, alzando como una llama de fragancia hacia el incendio del Poniente, huele todo a rosas quemadas.
+
+628
+01:07:42,070 --> 01:07:44,040
+Silencio.
+
+629
+01:07:44,040 --> 01:07:48,660
+Platero, aburrido como yo, no sabe qué hacer.
+
+630
+01:07:48,660 --> 01:07:56,800
+Poco a poco se viene a mí, duda un poco, y, al fin, confiado, se entra conmigo por la casa...
+
+631
+01:07:57,900 --> 01:08:01,470
+Estrofa cuarenta y seis
+EL LORO
+
+632
+01:08:01,470 --> 01:08:15,410
+Estábamos jugando con Platero y con el loro, en el huerto de mi amigo, el médico francés, cuando una mujer joven, desordenada y ansiosa, llegó, cuesta abajo, hasta nosotros.
+
+633
+01:08:15,410 --> 01:08:22,330
+Antes de llegar, avanzando el negro mirar angustiado hasta mí, me había suplicado:
+
+634
+01:08:22,330 --> 01:08:26,060
+—Señorito: ¿está ahí ese médico?
+
+635
+01:08:27,280 --> 01:08:38,150
+Tras ella venían ya unos chiquillos astrosos, que, a cada instante, jadeando, miraban camino arriba; al fin, varios hombres que traían a otro, lívido y decaído.
+
+636
+01:08:38,150 --> 01:08:44,330
+Era un cazador furtivo de esos que cazan venados en el coto de Doñana.
+
+637
+01:08:44,330 --> 01:08:53,160
+La escopeta, una absurda escopeta vieja amarrada con tomiza, se le había reventado, y el cazador traía el tiro en un brazo.
+
+638
+01:08:53,160 --> 01:09:04,470
+Mi amigo se llegó, cariñoso, al herido, le levantó unos míseros trapos que le habían puesto, le lavó la sangre y le fué tocando huesos y músculos.
+
+639
+01:09:04,470 --> 01:09:06,960
+De vez en cuando me miraba y me decía:
+
+640
+01:09:06,960 --> 01:09:08,770
+—Ce n'est rien...
+
+641
+01:09:08,770 --> 01:09:10,800
+La tarde caía.
+
+642
+01:09:10,800 --> 01:09:15,490
+Llegaba de Huelva un olor a marisma, a brea, a pescado...
+
+643
+01:09:15,490 --> 01:09:20,820
+Los naranjos redondeaban, sobre el poniente rosa, sus terciopelos de esmeralda.
+
+644
+01:09:20,820 --> 01:09:30,380
+En una lila, lila y verde, el loro, verde y rojo, iba y venía, curioseándonos con sus ojitos redondos.
+
+645
+01:09:30,380 --> 01:09:38,620
+Al pobre cazador se le llenaban de sol las lágrimas saltadas; a veces, dejaba oir un ahogado grito.
+
+646
+01:09:38,620 --> 01:09:39,670
+Y el loro:
+
+647
+01:09:39,670 --> 01:09:40,940
+—Ce n'est rien...
+
+648
+01:09:40,940 --> 01:09:44,520
+Mi amigo ponía al herido algodones y vendas...
+
+649
+01:09:44,520 --> 01:09:45,760
+El pobre hombre:
+
+650
+01:09:45,760 --> 01:09:46,890
+-¡Ay!
+
+651
+01:09:46,890 --> 01:09:48,970
+Y el loro, entre las lilas:
+
+652
+01:09:48,970 --> 01:09:50,200
+—Ce n'est rien...
+
+653
+01:09:50,200 --> 01:09:52,120
+Ce n'est rien.
+
+654
+01:09:55,380 --> 01:09:59,550
+Estrofa cuarenta y siete
+ANOCHECER
+
+655
+01:09:59,550 --> 01:10:10,810
+En el recogimiento pacífico y rendido de los crepúsculos del pueblo, ¡qué poesía cobra la adivinación de lo lejano, el confuso recuerdo de lo apenas conocido!
+
+656
+01:10:10,810 --> 01:10:18,190
+Es un encanto contagioso que retiene todo el pueblo como enclavado en la cruz de un triste y largo pensamiento.
+
+657
+01:10:18,190 --> 01:10:28,610
+Hay un olor al nutrido grano limpio que, bajo las frescas estrellas, amontona en las eras sus vagas colinas amarillentas.
+
+658
+01:10:28,610 --> 01:10:33,580
+Los trabajadores canturrean por lo bajo, en un soñoliento cansancio.
+
+659
+01:10:33,580 --> 01:10:41,570
+Sentadas en los zaguanes, las viudas piensan en los muertos, que duermen tan cerca, detrás de los corrales.
+
+660
+01:10:41,570 --> 01:10:47,150
+Los niños corren, de una sombra a otra, como de un árbol a otro los pájaros...
+
+661
+01:10:47,150 --> 01:11:03,660
+Acaso, entre la luz umbrosa que perdura en las fachadas de cal de las casas humildes, pasan vagas siluetas terrosas, calladas, dolientes—un mendigo nuevo, un portugués que va hacia las rozas, un ladrón acaso—,
+
+662
+01:11:03,660 --> 01:11:13,940
+que contrastan, en su obscura apariencia medrosa, con la mansedumbre que el crepúsculo malva, lento y místico, pone en las cosas conocidas...
+
+663
+01:11:13,940 --> 01:11:25,940
+Los niños se alejan, y en el misterio de las puertas sin luz, se hablan de unos hombres que "sacan el unto para curar a la hija del rey, que está hética..."
+
+664
+01:11:29,660 --> 01:11:33,140
+Estrofa cuarenta y ocho
+EL ROCÍO
+
+665
+01:11:35,340 --> 01:11:40,530
+Platero—le dije a mi burrillo—; vamos a esperar las Carretas.
+
+666
+01:11:40,530 --> 01:11:52,150
+Traen el rumor del lejano bosque de Doñana, el misterio del pinar de las Animas, la frescura de las Madres y de los dos Frenos, el olor de la Rocina...
+
+667
+01:11:52,150 --> 01:12:05,180
+Me lo llevé, guapo y lujoso, a que piropeara a las muchachas, por la calle de la Fuente, en cuyos aleros de cal se moría, en una alta cinta rosa, el vacilante sol de la tarde.
+
+668
+01:12:05,180 --> 01:12:11,890
+Luego nos pusimos en el vallado de los Hornos, desde donde se ve todo el camino de los Llanos.
+
+669
+01:12:11,890 --> 01:12:15,420
+Venían ya, cuesta arriba, las Carretas.
+
+670
+01:12:15,420 --> 01:12:22,290
+La suave llovizna de todos los Rocíos caía sobre las viñas verdes, de una pasajera nube malva.
+
+671
+01:12:22,290 --> 01:12:27,050
+Pero la gente no levantaba siquiera los ojos al agua.
+
+672
+01:12:27,050 --> 01:12:37,770
+Pasaron, primero, en burros, muías y caballos ataviados a la moruna, las alegres parejas de novios, ellos alegres, valientes ellas.
+
+673
+01:12:37,770 --> 01:12:45,130
+El rico y vivo tropel iba, volvía, se alcanzaba incesantemente en una locura sin sentido.
+
+674
+01:12:45,130 --> 01:13:04,070
+Seguía luego el carro de los borrachos, estrepitoso, agrio y trastornado; detrás, las carretas, como lechos, colgadas de blanco, con las muchachas, morenas y floridas, sentadas bajo el dosel, repicando panderetas y chillando sevillanas.
+
+675
+01:13:04,070 --> 01:13:06,630
+Más caballos, más burros...
+
+676
+01:13:06,630 --> 01:13:11,220
+Y el mayordomo—¡Viva la Virgen del Rocío!
+
+677
+01:13:11,220 --> 01:13:21,670
+Vivaaaaa...!—cano, seco y rojo, con el sombrero ancho a la espalda y la vara de oro descansada en el estribo.
+
+678
+01:13:21,670 --> 01:13:38,720
+Al fin, mansamente tirado por dos grandes bueyes píos, que parecían obispos con sus frontales de colorines y espejos, el Sin Pecado, malva y de plata en su carro blanco, todo en flor, como un cargado jardín mustio.
+
+679
+01:13:38,720 --> 01:13:47,750
+Se oía ya la música, ahogada entre el campaneo, los cohetes, el duro herir de los cascos herrados en las piedras...
+
+680
+01:13:47,750 --> 01:13:55,780
+Platero, entonces, dobló sus manos, y, como una mujer, se arrodilló, blando, humilde y consentido.
+
+681
+01:13:55,780 --> 01:14:03,120
+Estrofa cuarenta y nueve
+LOS GORRIONES
+
+682
+01:14:04,780 --> 01:14:10,230
+La mañana de Santiago está nublada de blanco y gris, como guardada en algodón.
+
+683
+01:14:10,230 --> 01:14:12,290
+Todos se han ido a misa.
+
+684
+01:14:12,290 --> 01:14:16,600
+Nos hemos quedado en el jardín los gorriones, Platero y yo.
+
+685
+01:14:16,600 --> 01:14:18,910
+¡Los gorriones!
+
+686
+01:14:18,910 --> 01:14:29,230
+Bajo las redondas nubes, que, a veces, llueven unas gotas finas, ¡cómo entran y salen en la enredadera, cómo chillan, cómo se cogen de los picos!
+
+687
+01:14:29,230 --> 01:14:46,260
+Este cae sobre una rama, se va y la deja temblando; el otro bebe en un charquito del brocal del pozo, que tiene en sí un pedazo de cielo; aquél ha saltado al tejadillo lleno de flores casi secas, que el día pardo aviva.
+
+688
+01:14:47,440 --> 01:14:50,550
+¡Benditos pájaros, sin fiesta fija!
+
+689
+01:14:50,550 --> 01:14:59,080
+Con la libre monotonía de lo nativo, de lo verdadero, nada, a no ser una dicha vaga, les dicen a ellos las campanas.
+
+690
+01:14:59,080 --> 01:15:15,040
+Contentos, sin fatales obligaciones, sin esos olimpos ni esos avernos que extasían o que amedrentan a los pobres hombres esclavos, sin más moral que la suya, son mis hermanos, mis dulces hermanos.
+
+691
+01:15:15,040 --> 01:15:27,240
+Viajan sin dinero y sin maletas; mudan de casa cuando se les antoja; presumen un arroyo, presienten una fronda, y sólo tienen que abrir sus alas para conseguir la felicidad;
+
+692
+01:15:27,240 --> 01:15:36,770
+no saben de lunes ni de sábados; se bañan en todas partes, a cada momento; aman el amor sin nombre, la amada universal.
+
+693
+01:15:36,770 --> 01:15:50,030
+Y cuando las gentes, ¡las pobres gentes!, se van a misa, los domingos, ellos, en un alegre ejemplo, se vienen de pronto, con su algarabía fresca y jovial, al jardín de las casas cerradas,
+
+694
+01:15:50,030 --> 01:16:00,280
+en las que algún poeta, que ya conocen bien, y algún burrillo tierno, los contemplan fraternales.
+
+695
+01:16:00,280 --> 01:16:02,830
+Estrofa cincuenta
+IDILIO DE NOVIEMBRE
+
+696
+01:16:02,830 --> 01:16:14,680
+Cuando, anochecido, vuelve Platero del campo, con su blanda carga de ramas de pino para el horno, casi desaparece bajo la amplia verdura rendida.
+
+697
+01:16:14,680 --> 01:16:18,030
+Su paso es menudo, fino, juguetón...
+
+698
+01:16:18,030 --> 01:16:19,870
+Parece que no anda.
+
+699
+01:16:19,870 --> 01:16:25,090
+En punta las orejas, se diría un caracol debajo de su casa.
+
+700
+01:16:25,090 --> 01:16:35,490
+Las ramas verdes, ramas que, erguidas, tuvieron en ellas el sol, los chamarices, el viento, la luna, los cuervos—¡qué horror!
+
+701
+01:16:35,490 --> 01:16:43,240
+¡ahí han estado, Platero!—, se caen, pobres, hasta el polvo blanco de las sendas secas del crepúsculo.
+
+702
+01:16:43,240 --> 01:16:47,280
+Una fría dulzura malva lo nimba todo.
+
+703
+01:16:47,280 --> 01:16:56,820
+Y en el campo, que va ya a Diciembre, la tierna humildad del burro, cargado empieza a parecer divina...
+
+704
+01:16:59,420 --> 01:17:04,550
+Estrofa cincuenta y uno
+EL CANARIO SE MUERE
+
+705
+01:17:04,550 --> 01:17:11,440
+Mira, Platero; el canario de los niños ha amanecido hoy muerto en su jaula de plata.
+
+706
+01:17:11,440 --> 01:17:15,220
+Es verdad que el pobre estaba ya muy viejo...
+
+707
+01:17:15,220 --> 01:17:22,050
+El invierno, tú te acuerdas bien, lo pasó silencioso, con la cabeza, escondida en el plumón.
+
+708
+01:17:22,050 --> 01:17:39,020
+Y al entrar esta primavera, cuando el sol hacía jardín la estancia abierta y abrían las mejores rosas del patio, él quiso también engalanar la vida nueva, y cantó; pero su voz era quebradiza y asmática, como la voz de una flauta cascada.
+
+709
+01:17:39,020 --> 01:17:48,360
+El mayor de los niños, que lo cuidaba, viéndolo yerto en el fondo de la jaula, se ha apresurado, lloroso, a decir:
+
+710
+01:17:48,360 --> 01:17:52,460
+—¡Pues no le ha faltado nada; ni comida, ni agua!
+
+711
+01:17:52,460 --> 01:17:53,830
+No.
+
+712
+01:17:53,830 --> 01:17:55,890
+No le ha faltado nada, Platero.
+
+713
+01:17:55,890 --> 01:18:01,430
+Se ha muerto porque sí—diría Campoamor, otro canario viejo...
+
+714
+01:18:01,430 --> 01:18:05,670
+Platero, ¿habrá un paraíso de los pájaros?
+
+715
+01:18:05,670 --> 01:18:15,730
+¿Habrá un vergel verde sobre el cielo azul, todo en flor de rosales áureos, con almas de pájaros blancos, rosas, celestes, amarillos?
+
+716
+01:18:15,730 --> 01:18:21,700
+Oye; a la noche, los niños, tú y yo bajaremos el pájaro muerto al jardín.
+
+717
+01:18:21,700 --> 01:18:32,870
+La luna está ahora llena, y a su pálida plata, el pobre cantor, en la mano cándida de Blanca, parecerá el pétalo mustio de un lirio amarillento.
+
+718
+01:18:32,870 --> 01:18:36,160
+Y lo enterraremos debajo del rosal grande.
+
+719
+01:18:36,160 --> 01:18:42,820
+Esta misma primavera, Platero, hemos de ver al pájaro salir del corazón de una rosa blanca.
+
+720
+01:18:42,820 --> 01:18:55,500
+El aire fragante se pondrá canoro, y habrá por el sol de Abril un errar encantado de alas invisibles y un reguero secreto de trinos claros de oro puro.
+
+721
+01:18:57,840 --> 01:19:01,620
+Estrofa cincuenta y dos
+LOS FUEGOS
+
+722
+01:19:03,080 --> 01:19:16,210
+Para Septiembre, en las noches de velada, nos poníamos en el cabezo que hay detrás de la casa del huerto, a sentir el pueblo en fiesta desde aquella paz fragante que emanaban los nardos de la alberca.
+
+723
+01:19:16,210 --> 01:19:19,110
+Ya tarde, ardían los fuegos.
+
+724
+01:19:19,110 --> 01:19:32,620
+Primero eran sordos estampidos enanos; luego, cohetes sin cola, que se abrían arriba, en un suspiro, cual un ojo estrellado que viese, un instante, rojo, morado, azul, el campo;
+
+725
+01:19:32,620 --> 01:19:42,180
+y otros cuyo esplendor caía como una doncellez desnuda que se doblara de espaldas, como un sauce de sangre que gotease flores de luz.
+
+726
+01:19:42,180 --> 01:19:51,850
+¡Oh, qué pavos reales encendidos, qué macizos aéreos de claras rosas, qué faisanes de fuego por jardines de estrellas!
+
+727
+01:19:51,850 --> 01:20:06,650
+Platero, cada vez que sonaba un estampido, se estremecía, azul, morado, rojo, en el súbito iluminarse del espacio, y en la claridad vacilante yo veía sus grandes ojos negros que me miraban asustados.
+
+728
+01:20:06,650 --> 01:20:24,660
+Cuando, como remate, entre el lejano vocerío del pueblo, subía al cielo la áurea corona giradora del castillo, Platero huía entre las cepas, como alma que lleva el diablo, rebuznando enloquecido, hacia los tranquilos pinos en sombra.
+
+729
+01:20:25,980 --> 01:20:30,320
+Estrofa cincuenta y tres
+EL RACIMO OLVIDADO
+
+730
+01:20:31,780 --> 01:20:38,630
+Después de las largas lluvias de Octubre, en el oro celeste del día abierto, nos fuimos todos a las viñas.
+
+731
+01:20:38,630 --> 01:20:52,900
+Platero llevaba la merienda y los sombreros de los niños en un cobujón del seroncillo, y en el otro, de contrapeso, tierna, blanca y rosa, como una flor de albérchigo, a Blanca..
+
+732
+01:20:52,900 --> 01:20:55,910
+¡Qué encanto el del campo renovado!
+
+733
+01:20:55,910 --> 01:21:07,570
+Iban los arroyos rebosantes, estaban blandamente aradas las tierras, y en los chopos marginales, festoneados todavía de amarillo, se veían ya los pájaros, negros.
+
+734
+01:21:07,570 --> 01:21:11,820
+De pronto, los niños, uno tras otro, corrieron, gritando:
+
+735
+01:21:11,820 --> 01:21:12,990
+—¡Un racimo!
+
+736
+01:21:12,990 --> 01:21:14,640
+¡Un racimo!
+
+737
+01:21:14,640 --> 01:21:27,250
+En una cepa vieja, cuyos largos sarmientos enredados mostraban aún algunas renegridas y rojizas hojas secas, encendía el picante sol un claro y sano racimo de ámbar.
+
+738
+01:21:27,250 --> 01:21:29,110
+¡Todos lo querían!
+
+739
+01:21:29,110 --> 01:21:33,120
+Victoria, que lo cogió, lo defendía a su espalda.
+
+740
+01:21:33,120 --> 01:21:44,700
+Entonces yo se lo pedí, y ella, con esa dulce obediencia voluntaria que presta al hombre la niña que va para mujer, me lo cedió de buen grado.
+
+741
+01:21:46,280 --> 01:21:48,900
+Tenía el racimo cinco grandes uvas.
+
+742
+01:21:48,900 --> 01:22:03,640
+Le di una a Victoria, una a Blanca, una a Lola, una a Pepe, y la última, entre las risas y las palmas de todos, a Platero, que la cogió, brusco, con sus dientes enormes.
+
+743
+01:22:05,780 --> 01:22:09,750
+Fin de la
+Quinta sección
+de
+Platero y yo
+
+744
+01:22:09,750 --> 01:22:17,880
+Grabado por Claudia Barrett
+
+745
+01:22:17,880 --> 01:22:23,050
+Sexta sección
+de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+746
+01:22:23,050 --> 01:22:26,280
+Esta es una grabación para LibriVox.
+
+747
+01:22:26,280 --> 01:22:30,750
+Todas las grabaciones de LibriVox están en el dominio público.
+
+748
+01:22:30,750 --> 01:22:36,730
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+749
+01:22:36,730 --> 01:22:40,350
+Grabado por Claudia Barrett
+
+750
+01:22:40,350 --> 01:22:44,180
+Estrofa cincuenta y cuatro
+NOCHE PURA
+
+751
+01:22:45,680 --> 01:22:52,710
+Las almenadas azoteas blancas se cortan secamente sobre el alegre cielo azul, gélido y estrellado.
+
+752
+01:22:52,710 --> 01:22:57,750
+El Norte silencioso acaricia, vivo, con su pura agudeza.
+
+753
+01:22:57,750 --> 01:23:03,030
+Todos creen que tienen frío y se esconden en las casas, y las cierran.
+
+754
+01:23:03,030 --> 01:23:13,210
+Nosotros, Platero, vamos a ir despacio, tú con tu lana y con mi manta, yo con mi alma, por el limpio pueblo solitario.
+
+755
+01:23:13,210 --> 01:23:20,280
+¡Qué fuerza de adentro me eleva, cual si fuese yo una torre de piedra tosca con remate de plata!
+
+756
+01:23:20,280 --> 01:23:22,330
+¡Mira cuánta estrella!
+
+757
+01:23:22,330 --> 01:23:24,440
+De tantas como son, marean.
+
+758
+01:23:24,440 --> 01:23:30,590
+Se diría que el cielo le está rezando a la tierra un encendido rosario de amor ideal.
+
+759
+01:23:30,590 --> 01:23:33,280
+¡Platero, Platero!
+
+760
+01:23:33,280 --> 01:23:44,520
+Diera yo toda mi vida y anhelara que tú quisieras dar la tuya, por la pureza de esta alta noche de Enero, sola, clara y dura!
+
+761
+01:23:45,860 --> 01:23:49,460
+Estrofa cincuenta y cinco
+EL ALBA
+
+762
+01:23:50,720 --> 01:24:02,370
+En las lentas madrugadas de invierno, cuando los gallos alertas ven las primeras rosas del alba y las saludan, galantes, Platero, harto de dormir, rebuzna largamente.
+
+763
+01:24:02,370 --> 01:24:09,560
+¡Cuan dulce su lejano despertar, en la luz celeste que entra por las rendijas de la alcoba!
+
+764
+01:24:09,560 --> 01:24:16,380
+Yo, deseoso también del día, pienso en el sol desde mi lecho mullido.
+
+765
+01:24:16,380 --> 01:24:32,950
+Y pienso en lo que habría sido del pobre Platero si en vez de caer en mis manos de poeta hubiese caído en las de uno de esos carboneros que van, todavía de noche, por la dura escarcha de los caminos solitarios, a robar los pinos de los montes,
+
+766
+01:24:32,950 --> 01:24:44,800
+o en las de uno de esos gitanos astrosos que pintan los burros y les dan arsénico y les ponen alfileres en las orejas para qué no se les caigan.
+
+767
+01:24:45,940 --> 01:24:47,880
+Platero rebuzna de nuevo.
+
+768
+01:24:47,880 --> 01:24:50,020
+¿Sabrá que pienso en él?
+
+769
+01:24:50,020 --> 01:24:51,770
+¿Qué me importa?
+
+770
+01:24:51,770 --> 01:24:56,280
+En la ternura del amanecer, su recuerdo me es grato como el alba.
+
+771
+01:24:56,280 --> 01:25:04,880
+Y, gracias a Dios, él tiene una cuadra tibia y blanda como una cuna, amable como mi pensamiento.
+
+772
+01:25:06,180 --> 01:25:09,440
+Estrofa cincuenta y seis
+NAVIDAD
+
+773
+01:25:11,000 --> 01:25:12,580
+La candela en el campo!...
+
+774
+01:25:12,580 --> 01:25:22,260
+Es tarde de Nochebuena, y un sol opaco y débil clarea apenas en el cielo crudo, sin nubes, todo gris en vez de todo azul.
+
+775
+01:25:22,260 --> 01:25:38,440
+De pronto, es un estridente crujido de ramas verdes que empiezan a arder; luego, el humo apretado, blanco como armiño, y la llama, al fin, que limpia el humo y puebla el aire de lenguas momentáneas.
+
+776
+01:25:38,440 --> 01:25:41,150
+¡Oh, la llama en el viento!
+
+777
+01:25:41,150 --> 01:25:52,550
+Espíritus rosados, amarillos, malvas, azules, se pierden no sé donde, subiendo a un secreto cielo bajo; ¡y dejan un olor de ascua en el frió!
+
+778
+01:25:52,550 --> 01:25:55,160
+¡Campo, tibio ahora, de Diciembre!
+
+779
+01:25:55,160 --> 01:25:57,290
+¡Invierno con cariño!
+
+780
+01:25:57,290 --> 01:25:59,570
+¡Nochebuena de los felices!
+
+781
+01:25:59,570 --> 01:26:01,910
+Las jaras vecinas se derriten.
+
+782
+01:26:01,910 --> 01:26:08,010
+El paisaje, a través del aire caliente, tiembla y se purifica como si fuese de cristal errante.
+
+783
+01:26:08,010 --> 01:26:22,490
+Y los niños del casero, que no tienen Nacimiento, se vienen alrededor de la candela, pobres y tristes, a calentarse las manos arrecidas, y echan en las brasas bellotas y castañas, que saltan, en un tiro.
+
+784
+01:26:22,490 --> 01:26:29,560
+Y se alegran luego, y saltan sobre el fuego, que ya la noche va enrojeciendo, y cantan:
+
+785
+01:26:29,560 --> 01:26:30,000
+...
+
+786
+01:26:30,000 --> 01:26:34,500
+Camina,: María, camina, José...
+
+787
+01:26:34,500 --> 01:26:38,900
+Yo les traigo a Platero, para que juegue con ellos.
+
+788
+01:26:40,560 --> 01:26:45,140
+Estrofa cincuenta y siete
+EL INVIERNO
+
+789
+01:26:46,480 --> 01:26:49,130
+Dios está en su palacio de cristal.
+
+790
+01:26:49,130 --> 01:26:52,110
+Quiero decir que llueve, Platero.
+
+791
+01:26:52,110 --> 01:26:52,810
+Llueve.
+
+792
+01:26:52,810 --> 01:27:01,430
+Y las últimas flores que el otoño dejó obstinadamente prendidas a sus ramas exangües, se cargan de diamantes.
+
+793
+01:27:01,430 --> 01:27:06,840
+En cada diamante, un cielo, un palacio de cristal, un Dios.
+
+794
+01:27:06,840 --> 01:27:21,030
+Mira, esta rosa; tiene dentro otra rosa de agua; y al sacudirla, ¿ves?, se le cae la nueva flor brillante, como su alma, y se queda mustia y triste, igual que la mía.
+
+795
+01:27:21,030 --> 01:27:24,060
+El agua debe ser tan alegre como el sol.
+
+796
+01:27:24,060 --> 01:27:31,920
+Mira, si no, cuál corren felices, los niños, bajo ella, recios y colorados, con las piernas al aire.
+
+797
+01:27:31,920 --> 01:27:41,560
+Ve cómo los gorriones se entran todos, en bullanguero bando súbito, en la hiedra, en la escuela, Platero, como dice Darbón, tu médico.
+
+798
+01:27:41,560 --> 01:27:43,300
+Llueve.
+
+799
+01:27:43,300 --> 01:27:45,270
+Hoy no vamos al campo.
+
+800
+01:27:45,270 --> 01:27:47,390
+Es día de contemplaciones.
+
+801
+01:27:47,390 --> 01:27:50,110
+Mira cómo corren las canales del tejado.
+
+802
+01:27:50,110 --> 01:27:58,600
+Mira cómo se limpian las hojas verdes, cómo torna a navegar por la cuneta el barquillo de los niños, parado ayer entre la hierba.
+
+803
+01:27:58,600 --> 01:28:10,800
+Mira ahora, en este sol instantáneo y débil, cuan bello el arco iris que sale de la iglesia y muere, en una vaga irisación, a nuestro lado.
+
+804
+01:28:13,000 --> 01:28:16,920
+Estrofa cincuenta y ocho
+IDILIO DE ABRIL
+
+805
+01:28:19,000 --> 01:28:28,020
+Los niños han ido con Platero al arroyo de los chopos, y ahora lo traen trotando, entre juegos y risas, todo cargado de flores amarillas.
+
+806
+01:28:28,020 --> 01:28:36,260
+Allá abajo les ha llovido—aquella nube fugaz que veló el campo verde con sus hilos de oro y plata—.
+
+807
+01:28:36,260 --> 01:28:42,890
+Y sobre la empapada lana del asnucho las mojadas campanillas gotean todavía.
+
+808
+01:28:42,890 --> 01:28:46,630
+¡Idilio fresco, alegre, sentimental!
+
+809
+01:28:46,630 --> 01:28:52,290
+¡Hasta el rebuzno de Platero se hace tierno bajo la dulce carga llovida!
+
+810
+01:28:52,290 --> 01:28:57,280
+De cuando en cuando, vuelve la cabeza y arranca las flores a que su boca alcanza.
+
+811
+01:28:57,280 --> 01:29:07,480
+Las campanillas, níveas y gualdas, le cuelgan, un momento, entre el blanco babear verdoso y luego se le van a la barrigota cinchada.
+
+812
+01:29:07,480 --> 01:29:13,190
+¡Quién, como tú, Platero, pudiera comer flores,... y que no le hicieran daño!
+
+813
+01:29:13,190 --> 01:29:15,710
+¡Tarde equívoca de Abril!...
+
+814
+01:29:15,710 --> 01:29:21,860
+Los ojos brillantes y vivos de Platero copian todo el paisaje de sol y de lluvia.
+
+815
+01:29:21,860 --> 01:29:29,580
+En ocaso, sobre el campo de San Juan, se ve llover, deshilachada, otra nube rosa...
+
+816
+01:29:30,940 --> 01:29:34,400
+Estrofa cincuenta y nueve
+LIBERTAD
+
+817
+01:29:34,400 --> 01:29:46,990
+Llamó mi atención, perdida por las flores de la vereda, un encendido pajarillo que, sobre el húmedo prado verde, abría sin cesar su preso vuelo policromo.
+
+818
+01:29:46,990 --> 01:29:51,440
+Nos acercamos despacio, yo delante, Platero detrás.
+
+819
+01:29:51,440 --> 01:29:59,100
+Había por allí un bebedero sombrío, y unos muchachos traidores le tenían puesta una red a los pájaros.
+
+820
+01:29:59,100 --> 01:30:06,200
+El triste reclamillo se levantaba hasta su pena, llamando, sin querer, a sus hermanos del cielo.
+
+821
+01:30:06,200 --> 01:30:10,400
+La mañana era clara, pura, traspasada de azul.
+
+822
+01:30:10,400 --> 01:30:22,280
+Caía del pinar vecino un leve concierto de trinos exaltados, que venía y se alejaba, sin irse, en el manso y áureo viento playero que ondulaba las copas.
+
+823
+01:30:22,280 --> 01:30:26,650
+¡Pobre concierto inocente, tan cerca del mal corazón!
+
+824
+01:30:26,650 --> 01:30:33,790
+Monté en Platero, y, obligándolo con las piernas, subimos, en un agudo trote, al pinar.
+
+825
+01:30:33,790 --> 01:30:40,420
+En llegando bajo la umbría cúpula frondosa, batí palmas, canté, grité.
+
+826
+01:30:40,420 --> 01:30:44,930
+Platero, contagiado, rebuznaba una vez y otra, rudamente.
+
+827
+01:30:44,930 --> 01:30:51,530
+Y los ecos respondían, secos y sonoros, como en el fondo de un gran pozo.
+
+828
+01:30:51,530 --> 01:30:54,830
+Los pájaros se fueron a otro pinar, cantando.
+
+829
+01:30:54,830 --> 01:31:08,440
+Platero, entre las lejanas maldiciones de los chiquillos violentos, rozaba su cabezota peluda, contra mi corazón, dándome las gracias hasta lastimarme el pecho.
+
+830
+01:31:09,620 --> 01:31:12,880
+Estrofa sesenta
+LA MUERTE
+
+831
+01:31:14,200 --> 01:31:19,200
+Encontré a Platero echado en su cama de paja, blandos los ojos y tristes.
+
+832
+01:31:19,200 --> 01:31:24,300
+Fuí a él, lo acaricié, hablándole, y quise que se levantara...
+
+833
+01:31:24,300 --> 01:31:29,190
+El pobre se removió todo bruscamente, y dejó una mano arrodillada...
+
+834
+01:31:29,190 --> 01:31:30,590
+No podía...
+
+835
+01:31:30,590 --> 01:31:38,360
+Entonces le tendí su mano en el suelo, lo acaricié de nuevo con ternura, y mandé venir a su médico.
+
+836
+01:31:39,400 --> 01:31:52,340
+El viejo Barbón, así que lo hubo visto, sumió la enorme boca desdentada hasta la nuca y meció sobre el pecho la cabeza congestionada, igual que un péndulo.
+
+837
+01:31:52,340 --> 01:31:54,840
+—Nada bueno, ¿eh?
+
+838
+01:31:54,840 --> 01:31:56,920
+No sé qué contestó.-.
+
+839
+01:31:56,920 --> 01:31:58,800
+Que el infeliz seiba...
+
+840
+01:31:58,800 --> 01:31:59,890
+Nada...
+
+841
+01:31:59,890 --> 01:32:01,300
+Que un dolor...
+
+842
+01:32:01,300 --> 01:32:03,620
+Que no sé qué raíz mala...
+
+843
+01:32:03,620 --> 01:32:05,800
+La tierra, entre la hierba...
+
+844
+01:32:05,800 --> 01:32:09,860
+A mediodía, Platero estaba muerto.
+
+845
+01:32:09,860 --> 01:32:18,440
+La barriguilla de algodón se le había hinchado como el mundo, y sus patas, rígidas y descoloridas, se elevaban al cielo.
+
+846
+01:32:18,440 --> 01:32:29,350
+Parecía su pelo rizoso ese pelo de estopa apelillada de las muñecas viejas, que se cae, al pasarle la mano, en una polvorienta tristeza...
+
+847
+01:32:29,350 --> 01:32:41,140
+Por la cuadra en silencio, encendiéndose cada vez que pasaba por el rayo de sol de la ventanilla, revolaba una bella mariposa de tres colores...
+
+848
+01:32:41,140 --> 01:32:46,520
+Estrofa sesenta y uno
+NOSTALGIA
+
+849
+01:32:47,640 --> 01:32:50,310
+Platero, tú nos ves, ¿verdad?
+
+850
+01:32:50,310 --> 01:33:06,250
+¿Verdad que ves cómo se ríe en paz, clara y fría, el agua de la noria el huerto; cuál vuelan, en la luz última, las afanosas abejas, en torno del romero verde y malva, rosa y oro por el sol que aún enciende la colina?
+
+851
+01:33:06,250 --> 01:33:09,430
+Platero, tú nos ves, ¿verdad?
+
+852
+01:33:09,430 --> 01:33:24,140
+¿Verdad que ves pasar por la cuesta roja de la Fuente Vieja los borriquillos de las lavanderas, cansados, cojos, tristes en la inmensa pureza que une tierra y cielo en un solo cristal de esplendor?
+
+853
+01:33:24,140 --> 01:33:27,600
+Platero, tú nos ves, ¿verdad?
+
+854
+01:33:27,600 --> 01:33:41,220
+¿Verdad que ves a los niños corriendo, arrebatados, entre las jaras, que tienen posadas en sus ramas sus propias flores, liviano enjambre de vagas mariposas blancas, goteadas de carmín?
+
+855
+01:33:41,220 --> 01:33:44,400
+Platero, tú nos ves, ¿verdad?
+
+856
+01:33:44,400 --> 01:33:46,940
+Platero, ¿verdad que tú nos ves?
+
+857
+01:33:46,940 --> 01:33:48,710
+Sí, tú me ves.
+
+858
+01:33:48,710 --> 01:33:57,080
+Y yo oigo en el poniente despejado, endulzando todo el valle de las viñas, tu tierno rebuzno lastimero...
+
+859
+01:33:58,380 --> 01:34:03,280
+Estrofa sesenta y dos
+EL BORRIQUETE
+
+860
+01:34:04,800 --> 01:34:17,330
+Puse en el borriquete de madera la silla, el bocado y el ronzal del pobre Platero, y lo llevé todo al granero grande, al rincón en donde están las cunas olvidadas de los niños.
+
+861
+01:34:17,330 --> 01:34:21,280
+El granero es ancho, silencioso, soleado.
+
+862
+01:34:21,280 --> 01:34:42,840
+Desde él se ve todo el campo moguereño: el Molino de viento, rojo, a la izquierda; enfrente, embozado en pinos, Montemayor, con su ermita blanca; tras de la iglesia, el recóndito huerto de la Pina; en el Poniente, el mar, alto y brillante en las mareas del estío.
+
+863
+01:34:42,840 --> 01:34:47,450
+Por las vacaciones, los niños se van a jugar al granero.
+
+864
+01:34:47,450 --> 01:34:56,890
+Hacen coches, con interminables tiros de sillas caídas; hacen teatros, con periódicos pintados de almagra, iglesias, colegios...
+
+865
+01:34:56,890 --> 01:35:06,020
+A veces, se suben en el borriquete sin alma, y con un jaleo inquieto y raudo de pies y manos, trotan por el prado de sus sueños:
+
+866
+01:35:06,020 --> 01:35:07,580
+—¡Arre, Platero!
+
+867
+01:35:07,580 --> 01:35:09,860
+¡Arre, Platero!
+
+868
+01:35:11,620 --> 01:35:16,340
+Estrofa sesenta y tres
+MELANCOLÍA
+
+869
+01:35:17,760 --> 01:35:26,450
+Esta tarde he ido con los niños a visitar la sepultura de Platero, que está en el huerto de la Pina, al pie del pino paternal.
+
+870
+01:35:26,450 --> 01:35:33,760
+En torno, Abril había adornado la tierra húmeda de grandes lirios amarillos.
+
+871
+01:35:33,760 --> 01:35:50,230
+Cantaban los chamarices allá arriba, en la cúpula verde, toda pintada de cenit azul, y su trino menudo, florido y reidor, se iba en el aire de oro de la tarde tibia, como un claro sueño de amor nuevo.
+
+872
+01:35:50,230 --> 01:35:54,530
+Los niños, así que iban llegando, dejaban de gritar.
+
+873
+01:35:54,530 --> 01:36:01,440
+Quietos y serios, sus ojos brillantes en mis ojos, me llenaban de preguntas ansiosas.
+
+874
+01:36:01,440 --> 01:36:17,620
+—¡Platero amigo!—le dije yo a la tierra—; si, como pienso, estás ahora en un prado del cielo y llevas sobre tu lomo peludo a los ángeles adolescentes, ¿me habrás, quizá, olvidado?
+
+875
+01:36:17,620 --> 01:36:22,410
+Platero, dime: ¿te acuerdas aún de mi?
+
+876
+01:36:22,410 --> 01:36:34,880
+Y, cual contestando mi pregunta, una leve mariposa blanca, que antes no había visto, revolaba insistentemente, igual que un alma, de lirio a lirio...
+
+877
+01:36:36,780 --> 01:36:40,020
+MOGUER, 1907
+
+878
+01:36:42,360 --> 01:36:46,530
+Fin de
+Platero y yo
+por
+Juan Ramón Jiménez
+
+879
+01:36:46,530 --> 01:36:49,600
+Grabado por Claudia Barrett
+
+880
+01:36:54,560 --> 01:36:56,930
+Séptima sección
+de
+Platero y yo
+
+881
+01:36:56,930 --> 01:37:01,250
+Esta es una grabación para LibriVox.
+
+882
+01:37:01,250 --> 01:37:05,270
+Todas las grabaciones de LibriVox están en el dominio público.
+
+883
+01:37:05,270 --> 01:37:11,390
+Para más información, o para ser voluntario, visite LibriVox.org.
+
+884
+01:37:11,390 --> 01:37:14,260
+Grabado por Claudia Barrett
+
+885
+01:37:16,460 --> 01:37:19,780
+A PLATERO EN EL CIELO DE MOGUER
+
+886
+01:37:21,320 --> 01:37:39,120
+Dulce Platero trotón, burrillo mío, que llevaste mi alma tantas veces—¡sólo mi alma!—por aquellos hondos caminos de nopales, de malvas y de madreselvas; a ti este libro que habla de ti, ahora que puedes entenderlo.
+
+887
+01:37:40,340 --> 01:38:01,370
+Va a tu alma, que ya pace en el Paraíso, por el alma de aquellos paisajes moguereños, qué también habrá subido al cielo con la tuya; lleva montada en su lomo de papel a la mía, que, caminando entre zarzas en flor a su ascensión, se hace más buena, más pacífica, más pura cada día.
+
+888
+01:38:01,370 --> 01:38:02,730
+Sí.
+
+889
+01:38:02,730 --> 01:38:13,830
+Yo sé que, a la caída de la tarde, cuando, entre las oropéndolas y los azahares, llego, lento y pensativo, por el naranjal solitario, al pino que arrulla tu muerte,
+
+890
+01:38:13,830 --> 01:38:24,440
+tú, Platero, feliz en tu prado de rosas eternas, me verás detenerme ante los lirios amarillos que ha brotado tu descompuesto corazón.
+
+891
+01:38:25,960 --> 01:38:27,820
+Fin de
+Platero y yo
+
+892
+01:38:27,820 --> 01:38:30,760
+Grabado por Claudia Barrett
+
+893
+01:38:36,080 --> 01:38:37,080
+
+
