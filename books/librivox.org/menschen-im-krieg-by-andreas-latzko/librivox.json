@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1876",
+          "dod": "1943",
+          "first_name": "Andreas",
+          "id": "10395",
+          "last_name": "Latzko"
+        }
+      ],
+      "copyright_year": "1918",
+      "description": "6 Novellen über den Krieg. 6 tragische Menschenschicksale. 6 Geschichten über die Auswirkungen des 1. Weltkrieges. Geschichten über Angst, Schuldgefühle, Trauma, Wut ... Sie zeigen die Sinnlosigkeit des Krieges und schildern anschaulich - teils sehr graphisch - die Zustände an der Front und zu Hause und die inneren Beweggründe der Protagonisten. Der Autor richtet gekonnt und ergreifend den Krieg, aber nicht den Menschen - selbst die vermeintlichen Antagonisten sind einfach nur Menschen mit tragischem Schicksal. (Zusammenfassung von Julia Niedermaier)",
+      "genres": [
+        {
+          "id": "34",
+          "name": "War & Military Fiction"
+        }
+      ],
+      "id": "2866",
+      "language": "German",
+      "num_sections": "7",
+      "sections": [
+        {
+          "file_name": "menschenimkrieg_01_latzko_64kb.mp3",
+          "id": "174656",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/availle/menschenimkrieg_01_latzko_64kb.mp3",
+          "playtime": "2456",
+          "readers": [
+            {
+              "display_name": "Julia Niedermaier",
+              "reader_id": "5424"
+            }
+          ],
+          "section_number": "1",
+          "title": "Der Abmarsch"
+        },
+        {
+          "file_name": "menschenimkrieg_02_latzko_64kb.mp3",
+          "id": "174657",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/availle/menschenimkrieg_02_latzko_64kb.mp3",
+          "playtime": "2564",
+          "readers": [
+            {
+              "display_name": "Julia Niedermaier",
+              "reader_id": "5424"
+            }
+          ],
+          "section_number": "2",
+          "title": "Feuertaufe, Teil 1"
+        },
+        {
+          "file_name": "menschenimkrieg_03_latzko_64kb.mp3",
+          "id": "306213",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/availle/menschenimkrieg_03_latzko_64kb.mp3",
+          "playtime": "2671",
+          "readers": [
+            {
+              "display_name": "Julia Niedermaier",
+              "reader_id": "5424"
+            }
+          ],
+          "section_number": "3",
+          "title": "Feuertaufe, Teil 2"
+        },
+        {
+          "file_name": "menschenimkrieg_04_latzko_64kb.mp3",
+          "id": "174658",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/availle/menschenimkrieg_04_latzko_64kb.mp3",
+          "playtime": "2260",
+          "readers": [
+            {
+              "display_name": "Julia Niedermaier",
+              "reader_id": "5424"
+            }
+          ],
+          "section_number": "4",
+          "title": "Der Sieger"
+        },
+        {
+          "file_name": "menschenimkrieg_05_latzko_64kb.mp3",
+          "id": "174671",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/availle/menschenimkrieg_05_latzko_64kb.mp3",
+          "playtime": "2577",
+          "readers": [
+            {
+              "display_name": "Julia Niedermaier",
+              "reader_id": "5424"
+            }
+          ],
+          "section_number": "5",
+          "title": "Der Kamerad"
+        },
+        {
+          "file_name": "menschenimkrieg_06_latzko_64kb.mp3",
+          "id": "174672",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/availle/menschenimkrieg_06_latzko_64kb.mp3",
+          "playtime": "984",
+          "readers": [
+            {
+              "display_name": "Julia Niedermaier",
+              "reader_id": "5424"
+            }
+          ],
+          "section_number": "6",
+          "title": "Heldentod"
+        },
+        {
+          "file_name": "menschenimkrieg_07_latzko_64kb.mp3",
+          "id": "174674",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/availle/menschenimkrieg_07_latzko_64kb.mp3",
+          "playtime": "2734",
+          "readers": [
+            {
+              "display_name": "Julia Niedermaier",
+              "reader_id": "5424"
+            }
+          ],
+          "section_number": "7",
+          "title": "Heimkehr"
+        }
+      ],
+      "title": "Menschen im Krieg",
+      "totaltime": "04:30:46",
+      "totaltimesecs": 16246,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/menschenimkrieg_1403_librivox",
+      "url_librivox": "https://librivox.org/menschen-im-krieg-by-andreas-latzko/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/2866",
+      "url_text_source": "http://www.gutenberg.org/ebooks/35263",
+      "url_zip_file": "http://www.archive.org/download//menschenimkrieg_1403_librivox/menschenimkrieg_1403_librivox_64kb_mp3.zip"
+    }
+  ]
+}
