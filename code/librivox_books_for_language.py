@@ -11,7 +11,6 @@ def good_source(url):
     # Being a bit picky here
     good_sources = [
         'aozora.gr.jp',
-        'archive.org',
         'benyehuda.org',
         'chitanka.info',
         'gutenberg.net.au',
