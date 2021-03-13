@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1861",
+          "dod": "1921",
+          "first_name": "Juhani",
+          "id": "1984",
+          "last_name": "Aho"
+        }
+      ],
+      "copyright_year": "1884",
+      "description": "Juhani Ahon esikoisromaani vuodelta 1884, Rautatie, on kertomus maaseudun ukosta ja akasta, jotka kuulevat naapurikylälle saapuneesta uudesta ihmeestä, ilman hevosia kulkevasta vaunusta, ja päättävät pitkän jahkailun jälkeen lähteä sitä katsomaan.<br /><br />Aho's first novel Rautatie (Railroad), considered one of his main works, is a story of an elderly couple who hear about railroad first time ever and have a hard time imagining carriages with no horses. They eventually get around to trying it out.<br />(Summary by Tuija Aalto)",
+      "genres": [
+        {
+          "id": "15",
+          "name": "General Fiction"
+        }
+      ],
+      "id": "691",
+      "language": "Finnish",
+      "num_sections": "8",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "131437",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "1400",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "1",
+          "title": "Luku 1"
+        },
+        {
+          "file_name": null,
+          "id": "131438",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "1800",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "2",
+          "title": "Luku 2"
+        },
+        {
+          "file_name": null,
+          "id": "131439",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "1185",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "3",
+          "title": "Luku 3"
+        },
+        {
+          "file_name": null,
+          "id": "131440",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "1110",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "4",
+          "title": "Luku 4"
+        },
+        {
+          "file_name": null,
+          "id": "131441",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "1760",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "5",
+          "title": "Luku 5"
+        },
+        {
+          "file_name": null,
+          "id": "131442",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "1975",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "6",
+          "title": "Luku 6"
+        },
+        {
+          "file_name": null,
+          "id": "131443",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "937",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "7",
+          "title": "Luku 7"
+        },
+        {
+          "file_name": null,
+          "id": "131444",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "538",
+          "readers": [
+            {
+              "display_name": "Tuija Aalto",
+              "reader_id": "616"
+            }
+          ],
+          "section_number": "8",
+          "title": "Luku 8"
+        }
+      ],
+      "title": "Rautatie",
+      "totaltime": "2:58:25",
+      "totaltimesecs": 10705,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/rautatie_ta_librivox",
+      "url_librivox": "https://librivox.org/rautatie-by-juhani-aho/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/691",
+      "url_text_source": "http://www.gutenberg.org/etext/10481",
+      "url_zip_file": "http://www.archive.org/download/rautatie_ta_librivox/rautatie_ta_librivox_64kb_mp3.zip"
+    }
+  ]
+}
