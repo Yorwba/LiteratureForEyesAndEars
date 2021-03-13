@@ -10,9 +10,13 @@ Juhani Aho
 
 Kolmas luku
 
-Seuraavana aamuna noustuaan oli Matti jo aivan rauhallisella mielellä ja päätti kertoa Liisalle siitä, mitä oli pappilassa kuullut. Mutta ei Liisa koko aamurupeamalla yhteen kohtaan seisottunut, kulki askareillaan kodassa ja navetassa. Matti paikkaili kenkiään ja ajatteli, että »kerrommahan aamiaista syödessä—ennättäähän se sen sittenkin kuulla». Mutta kun Matti oli alkamaisillaan, lähti Liisa taas liikkeelle, ja Matti ei tahtonut kertoa, ennenkuin Liisa oli yhteen kohtaan asettunut kuulemaan.
+Seuraavana aamuna noustuaan oli Matti jo aivan rauhallisella mielellä ja päätti kertoa Liisalle siitä, mitä oli pappilassa kuullut. Mutta ei Liisa koko aamurupeamalla yhteen kohtaan seisottunut, kulki askareillaan kodassa ja navetassa.
 
-Matti lähti havukasalleen tallin taa ja taivutti aina päätään nurkan taitse katsoakseen, eikö Liisa jo olisi herennyt kävelemästä kodan ja pirtin väliä. Siellä se vain käveli... Eikä pirttikään vielä lämminnyt ... tokkohan se aikoikaan panna sen lämpiämään tänä aamuna? Kylmä oli tuulikin, niin että kyllä olisi sietänyt panna pirtti lämpiämään, että olisi päässyt käsiään lämmittelemään...
+Matti paikkaili kenkiään ja ajatteli, että »kerrommahan aamiaista syödessä—ennättäähän se sen sittenkin kuulla». Mutta kun Matti oli alkamaisillaan, lähti Liisa taas liikkeelle, ja Matti ei tahtonut kertoa, ennenkuin Liisa oli yhteen kohtaan asettunut kuulemaan.
+
+Matti lähti havukasalleen tallin taa ja taivutti aina päätään nurkan taitse katsoakseen, eikö Liisa jo olisi herennyt kävelemästä kodan ja pirtin väliä.
+
+Siellä se vain käveli... Eikä pirttikään vielä lämminnyt ... tokkohan se aikoikaan panna sen lämpiämään tänä aamuna? Kylmä oli tuulikin, niin että kyllä olisi sietänyt panna pirtti lämpiämään, että olisi päässyt käsiään lämmittelemään...
 
 Jo tuli Liisa noutamaan puita pinosta ... jopahan viimeinkin. Sitten kai se kohta rukkinsa ääreenkin istuutuu...
 
@@ -114,7 +118,9 @@ Mutta Liisa ei luullut mitään. Kehräsi ja kuunteli, välistä pilkallisesti M
 
 Matti taas rupesi kiivastumaan...
 
-—Raudasta, raudasta ... jos et usko, niin ole uskomatta ... rautapellistä ... hm! ... niin, niin, rautapellistä ... ja kun siitä tehdään tie, niin pitää olla ajopelit ja vetäjät kanssa sitä myöten... Höyryvenhe, semmoinen masina kuin »Suomela», vedetään maalle ja pannaan pyörien päälle, ja se kulkee tulen voimalla ja vetää perässään vaunuja ... niin isoja kuin tämä pirtti ja vielä isompiakin ... kyllä se jaksaa vaikka minkälaisia ... eikä tie tärise ... semmoinen se on!
+—Raudasta, raudasta ... jos et usko, niin ole uskomatta ... rautapellistä ... hm! ... niin, niin, rautapellistä ... ja kun siitä tehdään tie, niin pitää olla ajopelit ja vetäjät kanssa sitä myöten...
+
+Höyryvenhe, semmoinen masina kuin »Suomela», vedetään maalle ja pannaan pyörien päälle, ja se kulkee tulen voimalla ja vetää perässään vaunuja ... niin isoja kuin tämä pirtti ja vielä isompiakin ... kyllä se jaksaa vaikka minkälaisia ... eikä tie tärise ... semmoinen se on!
 
 —Kuka sinua, Matti parka, on nyt taas narrinaan pitänyt?
 
@@ -202,19 +208,43 @@ Nyt oli Matin aika olla mahtavana...
 
 Mutta Matti oli mielestään hakannut tarpeeksi tupakkia ja lähti taas ulos havutukilleen. Kassarata havutukista irti kiskaistessaan hymähti hän vähän itsekseen... »Uskoipahan ... ja mikäs siinä oikeassa opissa, uskoahan sitä pitää vaikka keisarin...»
 
-Liisa jäi yksin pirttiin. Kehräsi vähän aikaa, polki rukkia niin kiivakasti ja nykki kuontalosta kehrättävää niin vihaisesti, että se aina vähän päästä käsiin katkesi... Ja sitten oli aina tuska sitä liittäissä ... mikä liekään niin hauras kohta kuontaloon sattunut, kun aina vähän päästä katkesi.—Eikä nauhakaan pyörän päällä pysynyt!—Huonosti loukutettuja liinoja nuo pappilan liinat, kun niin pahasti pölisevät ... mitä lienevätkään kaiken maailman liinoja?... Rukki rupesi sitten taas hyrräämään ... yhä kiivakammin, poljin natisi, valkea naarmu pyörässä vilisi yhtenä viivana, ja rihmaa keräytyi vähälle aikaa koko nietos rullaan. Liisa sitä sinne suoltamalla suolti, rulla nieli yhä ahnaammin, kuontalo oli melkein puolilleen kehrättynä ... mutta silloin riipaisi rulla yht'äkkiä kaiken rihman kitaansa ja yhteen menoon kuontalotakin pitkän matkaa. Nauha luiskahti pyörän päältä, ja Liisan piti heretä polkemasta, mutta silloin alkoi poljin laputtaa niin pahalla äänellä, että sen luuli siihen paikkaan halkeavan... Ei, ei ollut koko rukista minnekään, seisokoon nurkassa!... Ja Liisa melkein nakkasi rukkinsa nurkkaan ja meni hiiliä uunista vetämään.—Nekin peijakkaat polttivat ... ih! ... niin että oli silmät päästä palaa...
+Liisa jäi yksin pirttiin. Kehräsi vähän aikaa, polki rukkia niin kiivakasti ja nykki kuontalosta kehrättävää niin vihaisesti, että se aina vähän päästä käsiin katkesi...
+
+Ja sitten oli aina tuska sitä liittäissä ... mikä liekään niin hauras kohta kuontaloon sattunut, kun aina vähän päästä katkesi.—
+
+Eikä nauhakaan pyörän päällä pysynyt!—Huonosti loukutettuja liinoja nuo pappilan liinat, kun niin pahasti pölisevät ... mitä lienevätkään kaiken maailman liinoja?...
+
+Rukki rupesi sitten taas hyrräämään ... yhä kiivakammin, poljin natisi, valkea naarmu pyörässä vilisi yhtenä viivana, ja rihmaa keräytyi vähälle aikaa koko nietos rullaan.
+
+Liisa sitä sinne suoltamalla suolti, rulla nieli yhä ahnaammin, kuontalo oli melkein puolilleen kehrättynä ... mutta silloin riipaisi rulla yht'äkkiä kaiken rihman kitaansa ja yhteen menoon kuontalotakin pitkän matkaa.
+
+Nauha luiskahti pyörän päältä, ja Liisan piti heretä polkemasta, mutta silloin alkoi poljin laputtaa niin pahalla äänellä, että sen luuli siihen paikkaan halkeavan...
+
+Ei, ei ollut koko rukista minnekään, seisokoon nurkassa!... Ja Liisa melkein nakkasi rukkinsa nurkkaan ja meni hiiliä uunista vetämään.—Nekin peijakkaat polttivat ... ih! ... niin että oli silmät päästä palaa...
 
 Liisa sulki lakeisen ja katasti ikkunasta pihalle. Reki siellä oli kumollaan tallin seinämällä, pohjaraudat päivää vasten kiiltäen ... ja Matin kassaran kärki vilkkui silloin tällöin tallin nurkan takaa...
 
-Liisa huokaisi kovin pitkään ... mikähän lie huokaisuttanut ... ei hän sitä itsekään oikein tiennyt. Väkinäisesti hän meni takaisin rukkinsa ääreen ja rupesi selvittelemään sotkuista rullaa. Kovin se oli pahasti sotkeutunut ... ja silloin rupesi aina nenän vartta kutkuttamaan, kun sotkoksesta oli selvän saamaisillaan...
+Liisa huokaisi kovin pitkään ... mikähän lie huokaisuttanut ... ei hän sitä itsekään oikein tiennyt. Väkinäisesti hän meni takaisin rukkinsa ääreen ja rupesi selvittelemään sotkuista rullaa.
 
-Vaan mitäpä noista kehruista ja muista? ... kehräsipä sitä vaikka minkä ennätti, niin ei ne kehruut kuitenkaan perille tule, vaikka kuinka monta kertaa laittaisi... Onko kummempia kuultu?... Lähtee mies viemään kehruita eikä ole sitä älyä, että ottaisi ja antaisi? Kumma, kun jyvänsä muisti maksaa? ... olisi nekin unohtanut yhdellä tiellään!...
+Kovin se oli pahasti sotkeutunut ... ja silloin rupesi aina nenän vartta kutkuttamaan, kun sotkoksesta oli selvän saamaisillaan...
 
-Liisa meni ja sieppasi uunilta kehruunyytyn, joka oli Matilta jäänyt ruustinnalle antamatta. Pani sen penkille viereensä ja aukaisi sen... Siinä ne nyt olivat vyyhdet ja kerät niin hyvässä laitoksessa ... vyyhdet ja kerät ... että oikein tuli sääli, kun ei ollut ruustinna niitä nähnytkään. Olisi ottanut mukaansa edes ... mutta mitäs se mokoma, itse menee eikä kuitenkaan saa asioita toimitetuksi... Mitähän ruustinna nyt ajattelee, kun oli vielä niin tingalle tahtonut? Saattoi kai se ajatella kuinka pahaa tahansa, jos vain tahtoi... Ja Liisasta rupesi tuntumaan ihan siltä, kuin olisi hänen pitänyt lähteä viemään niitä heti paikalla ... ihan vaikka jalan ... saattaisi se Matti toki hevosenkin antaa, ei se liian paljon olisi, jos antaisi ... ruustinnan tähden saattaisi antaa, kun se kuitenkin mahtoi lankojaan odottaa...
+Vaan mitäpä noista kehruista ja muista? ... kehräsipä sitä vaikka minkä ennätti, niin ei ne kehruut kuitenkaan perille tule, vaikka kuinka monta kertaa laittaisi...
 
-Vai oli se käynyt rautatietä katsomassa se hyvä ruustinna ... sen parempaa ihmistä sitä toki ei ole koko maailmassa kuin se ruustinna... Kyllä mahtaa olla rakennus se rautatie ... lieköhän ollut ruustinnasta kumman näköinen?... Ja kun se vielä joulun aikaan varoitti, että kun vain Matti arennin maksuun tulee, niin silloin lähettää kehruut sen mukana ... ja että sitten saa uusia sijaan. Mitä se nyt ajattelee, kun ei lähetettykään? Saattaa kai se ajatella mitä tahansa, jos vain tahtoo!
+Onko kummempia kuultu?... Lähtee mies viemään kehruita eikä ole sitä älyä, että ottaisi ja antaisi? Kumma, kun jyvänsä muisti maksaa? ... olisi nekin unohtanut yhdellä tiellään!...
 
-*       *       *       *       *
+Liisa meni ja sieppasi uunilta kehruunyytyn, joka oli Matilta jäänyt ruustinnalle antamatta. Pani sen penkille viereensä ja aukaisi sen...
+
+Siinä ne nyt olivat vyyhdet ja kerät niin hyvässä laitoksessa ... vyyhdet ja kerät ... että oikein tuli sääli, kun ei ollut ruustinna niitä nähnytkään.
+
+Olisi ottanut mukaansa edes ... mutta mitäs se mokoma, itse menee eikä kuitenkaan saa asioita toimitetuksi... Mitähän ruustinna nyt ajattelee, kun oli vielä niin tingalle tahtonut? Saattoi kai se ajatella kuinka pahaa tahansa, jos vain tahtoi...
+
+Ja Liisasta rupesi tuntumaan ihan siltä, kuin olisi hänen pitänyt lähteä viemään niitä heti paikalla ... ihan vaikka jalan ...
+
+saattaisi se Matti toki hevosenkin antaa, ei se liian paljon olisi, jos antaisi ... ruustinnan tähden saattaisi antaa, kun se kuitenkin mahtoi lankojaan odottaa...
+
+Vai oli se käynyt rautatietä katsomassa se hyvä ruustinna ... sen parempaa ihmistä sitä toki ei ole koko maailmassa kuin se ruustinna... Kyllä mahtaa olla rakennus se rautatie ... lieköhän ollut ruustinnasta kumman näköinen?...
+
+Ja kun se vielä joulun aikaan varoitti, että kun vain Matti arennin maksuun tulee, niin silloin lähettää kehruut sen mukana ... ja että sitten saa uusia sijaan. Mitä se nyt ajattelee, kun ei lähetettykään? Saattaa kai se ajatella mitä tahansa, jos vain tahtoo!
 
 Puolista syödessä oli Liisa hyvin huolissaan olevan näköinen. Sitten hän sanoi yht'äkkiä:
 
@@ -282,11 +312,25 @@ Matti ei puhunut mitään, herkesi syömästä ja rupesi panemaan piippuunsa. Ei
 
 —Joudat kysyä, ajatteli Matti, muttei sitä niin nyt joka paikkaan... Vaan jos hyvinkin ... ajatteli hän sitten, mutta ei hän siitä Liisalle mitään puhunut...
 
-Ja Liisa oli koko sen päivän niin ihmeen hyvällä tuulella, että melkein sydänalassa ahdisti. Ihan oli kohona hypitellä vanhaa ihmistä. Aina vähän väliä tahtoi nauru itsestään hyrähtää, vaikkei tiennyt oikein, mistä syystä se milloinkin ... omista aatoksista useimmiten. Ja kaikin puolin tuntui niin hyvältä olla. Rukkikin pyöri niinkuin ainakin, eikä kertaakaan nauha pyörän päältä luiskahtanut.
+Ja Liisa oli koko sen päivän niin ihmeen hyvällä tuulella, että melkein sydänalassa ahdisti. Ihan oli kohona hypitellä vanhaa ihmistä.
 
-Ja Mattia piti Liisa niin hyvänä, että keitti kahvit, lämmitti saunan, vaikka oli eilenkin lämmittänyt, toi voita pöytään iltaista syödessä ja piti puhetta rautatiestä ja antoi Matin kertoa. Matti ja Liisa vielä pitkän aikaa illallisen jälkeen istuivat, toinen pöydän päässä piippuaan poltellen, toinen sängyn laidalla tukkaansa sukien, ja katselivat, kuinka kissa pankon kulmassa maitonsa lakki, kuppinsa nuoli, kielensä lipoi ja lähti pitkin pirttiä hiipimään. Sitten sitä vuoroon silittelivätkin, Matti otti syliinsäkin ja ruopi kaulan alustaa ja antoi sen ruveta kehräämään. Ja rautatiestä he juttelivat, juttelivat tästä ihan uudesta ihmeestä ja kummasta ... että kaikkia sitä vanhoillaan kuuleekin. Vieläkö hänet nähneekin, arveli Liisa, mutta Matti sanoi, että eikö tuota uskone näkemättäkin, johon ei Liisa virkkanut mitään. Mutta sitten kun kissa oli vähän aikaa uunilla kehrännyt, sammuttivat he päreen ja painautuivat vuoteelleen pitkäkseen...
+Aina vähän väliä tahtoi nauru itsestään hyrähtää, vaikkei tiennyt oikein, mistä syystä se milloinkin ... omista aatoksista useimmiten. Ja kaikin puolin tuntui niin hyvältä olla. Rukkikin pyöri niinkuin ainakin, eikä kertaakaan nauha pyörän päältä luiskahtanut.
 
-Mutta Liisa oli niin kummallisen valpas tänä yönä. Matti jo nukkui, ja kissan rukki yhä hyrisi tasaista hyrinätään uunin päällä, mutta Liisa ei tahtonut saada unta silmiinsä. Kuuli pienimmänkin rasahduksen tuvan seinissä, kuuli, jos russakka vahingossa putosi katosta lattialle, ja kuuli tamman jalan kumeata kopsetta, kun se pilttuussaan liikahti. Erotti muusta seinästä ikkunan valoisamman reiän ja sen läpi jonkun tuikkavan tähden, ja kun veti peitteen korvilleen taikka pani silmänsä kiinni, niin oli kuitenkin kuulevinaan ja näkevinään kaikki. Siitä taas valpastui ja ajatteli, että jos olisi jo aika nousta ja panna evästä huomiseksi, mutta pelkäsi, että jos Matti herää ja kysyy, eikä noussut. Viimein hän nukkui, mutta aamulla ennen kukon laulua jo heräsi ja alkoi lähtöänsä laittaa.
+Ja Mattia piti Liisa niin hyvänä, että keitti kahvit, lämmitti saunan, vaikka oli eilenkin lämmittänyt, toi voita pöytään iltaista syödessä ja piti puhetta rautatiestä ja antoi Matin kertoa.
+
+Matti ja Liisa vielä pitkän aikaa illallisen jälkeen istuivat, toinen pöydän päässä piippuaan poltellen, toinen sängyn laidalla tukkaansa sukien, ja katselivat, kuinka kissa pankon kulmassa maitonsa lakki, kuppinsa nuoli, kielensä lipoi ja lähti pitkin pirttiä hiipimään.
+
+Sitten sitä vuoroon silittelivätkin, Matti otti syliinsäkin ja ruopi kaulan alustaa ja antoi sen ruveta kehräämään. Ja rautatiestä he juttelivat, juttelivat tästä ihan uudesta ihmeestä ja kummasta ... että kaikkia sitä vanhoillaan kuuleekin.
+
+Vieläkö hänet nähneekin, arveli Liisa, mutta Matti sanoi, että eikö tuota uskone näkemättäkin, johon ei Liisa virkkanut mitään. Mutta sitten kun kissa oli vähän aikaa uunilla kehrännyt, sammuttivat he päreen ja painautuivat vuoteelleen pitkäkseen...
+
+Mutta Liisa oli niin kummallisen valpas tänä yönä. Matti jo nukkui, ja kissan rukki yhä hyrisi tasaista hyrinätään uunin päällä, mutta Liisa ei tahtonut saada unta silmiinsä.
+
+Kuuli pienimmänkin rasahduksen tuvan seinissä, kuuli, jos russakka vahingossa putosi katosta lattialle, ja kuuli tamman jalan kumeata kopsetta, kun se pilttuussaan liikahti.
+
+Erotti muusta seinästä ikkunan valoisamman reiän ja sen läpi jonkun tuikkavan tähden, ja kun veti peitteen korvilleen taikka pani silmänsä kiinni, niin oli kuitenkin kuulevinaan ja näkevinään kaikki.
+
+Siitä taas valpastui ja ajatteli, että jos olisi jo aika nousta ja panna evästä huomiseksi, mutta pelkäsi, että jos Matti herää ja kysyy, eikä noussut. Viimein hän nukkui, mutta aamulla ennen kukon laulua jo heräsi ja alkoi lähtöänsä laittaa.
 
 Kolmannen luvun loppu
 
