@@ -12,6 +12,7 @@ import urllib.request
 import zipfile
 
 
+ARCHIVE_REDIRECT = re.compile(b'document.location.href = "(https://web.archive.org/[^"]*)"')
 ARCHIVE_SRC = re.compile(b'<iframe id="playback" src="([^"]*)"')
 ENCODING = re.compile(b'\nCharacter set encoding: (.*)\n')
 def try_get(url, data=None):
@@ -30,43 +31,48 @@ def try_get(url, data=None):
             return try_get('https://web.archive.org/'+url)
         if response.status == 200:
             text = response.read()
+
+            redirect = ARCHIVE_REDIRECT.search(text)
+            if redirect:
+                return try_get(redirect.group(1).decode('ascii'))
+
             src = ARCHIVE_SRC.search(text)
             if src:
                 return try_get(src.group(1).decode('ascii'))
+
+            encoding = ENCODING.search(text)
+            if encoding:
+                encoding = encoding.group(1).decode('ascii')
             else:
-                encoding = ENCODING.search(text)
-                if encoding:
-                    encoding = encoding.group(1).decode('ascii')
+                det = chardet.UniversalDetector()
+                det.feed(text)
+                encoding = det.close()['encoding']
+            if not encoding:
+                as_file = BytesIO(text)
+                if zipfile.is_zipfile(as_file):
+                    with zipfile.ZipFile(as_file) as z:
+                        if 'aozora.gr.jp' in url:
+                            text_files = [n for n in z.namelist() if n.endswith('.txt')]
+                            if len(text_files) != 1:
+                                raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
+                            text = z.read(text_files[0])
+                            encoding = 'shift-jis'
+                        elif 'runeberg.org' in url:
+                            html_files = [n for n in z.namelist() if n.endswith('.html')]
+                            text = '\n'.join(html_to_plain_text(z.read(n)) for n in html_files)
+                            encoding = 'utf-8'
+                            text = text.encode(encoding)
+                        elif 'chitanka.info' in url:
+                            text_files = [n for n in z.namelist() if n.endswith('.txt')]
+                            if len(text_files) != 1:
+                                raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
+                            text = z.read(text_files[0])
+                            encoding = 'utf-8'
+                        else:
+                            raise Exception("Didn't expect to get a ZIP file from URL "+url)
                 else:
-                    det = chardet.UniversalDetector()
-                    det.feed(text)
-                    encoding = det.close()['encoding']
-                if not encoding:
-                    as_file = BytesIO(text)
-                    if zipfile.is_zipfile(as_file):
-                        with zipfile.ZipFile(as_file) as z:
-                            if 'aozora.gr.jp' in url:
-                                text_files = [n for n in z.namelist() if n.endswith('.txt')]
-                                if len(text_files) != 1:
-                                    raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
-                                text = z.read(text_files[0])
-                                encoding = 'shift-jis'
-                            elif 'runeberg.org' in url:
-                                html_files = [n for n in z.namelist() if n.endswith('.html')]
-                                text = '\n'.join(html_to_plain_text(z.read(n)) for n in html_files)
-                                encoding = 'utf-8'
-                                text = text.encode(encoding)
-                            elif 'chitanka.info' in url:
-                                text_files = [n for n in z.namelist() if n.endswith('.txt')]
-                                if len(text_files) != 1:
-                                    raise Exception("Not exactly one .txt in ZIP: "+", ".join(z.namelist()))
-                                text = z.read(text_files[0])
-                                encoding = 'utf-8'
-                            else:
-                                raise Exception("Didn't expect to get a ZIP file from URL "+url)
-                    else:
-                        raise Exception("Unknown file type!")
-                return '\n'.join(text.decode(encoding).splitlines())
+                    raise Exception("Unknown file type!")
+            return '\n'.join(text.decode(encoding).splitlines())
         raise Exception("Couldn't get data at url: "+url)
 
 
