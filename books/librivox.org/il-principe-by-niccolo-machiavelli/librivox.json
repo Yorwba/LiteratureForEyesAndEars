@@ -25,7 +25,6 @@
         {
           "file_name": "ilprincipe_00_machiavelli_64kb.mp3",
           "id": "362052",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_00_machiavelli_64kb.mp3",
           "playtime": "253",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "ilprincipe_01_machiavelli_64kb.mp3",
           "id": "362053",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_01_machiavelli_64kb.mp3",
           "playtime": "1351",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "ilprincipe_02_machiavelli_64kb.mp3",
           "id": "362054",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_02_machiavelli_64kb.mp3",
           "playtime": "1110",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "ilprincipe_03_machiavelli_64kb.mp3",
           "id": "362055",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_03_machiavelli_64kb.mp3",
           "playtime": "1663",
           "readers": [
@@ -85,7 +81,6 @@
         {
           "file_name": "ilprincipe_04_machiavelli_64kb.mp3",
           "id": "362056",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_04_machiavelli_64kb.mp3",
           "playtime": "1171",
           "readers": [
@@ -100,7 +95,6 @@
         {
           "file_name": "ilprincipe_05_machiavelli_64kb.mp3",
           "id": "362057",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_05_machiavelli_64kb.mp3",
           "playtime": "1285",
           "readers": [
@@ -115,7 +109,6 @@
         {
           "file_name": "ilprincipe_06_machiavelli_64kb.mp3",
           "id": "362058",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_06_machiavelli_64kb.mp3",
           "playtime": "945",
           "readers": [
@@ -130,7 +123,6 @@
         {
           "file_name": "ilprincipe_07_machiavelli_64kb.mp3",
           "id": "362059",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_07_machiavelli_64kb.mp3",
           "playtime": "850",
           "readers": [
@@ -145,7 +137,6 @@
         {
           "file_name": "ilprincipe_08_machiavelli_64kb.mp3",
           "id": "362060",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_08_machiavelli_64kb.mp3",
           "playtime": "1447",
           "readers": [
@@ -160,7 +151,6 @@
         {
           "file_name": "ilprincipe_09_machiavelli_64kb.mp3",
           "id": "362061",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_09_machiavelli_64kb.mp3",
           "playtime": "1352",
           "readers": [
@@ -175,7 +165,6 @@
         {
           "file_name": "ilprincipe_10_machiavelli_64kb.mp3",
           "id": "362062",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_10_machiavelli_64kb.mp3",
           "playtime": "1522",
           "readers": [
@@ -197,7 +186,7 @@
       "url_other": null,
       "url_project": "http://it.wikipedia.org/wiki/Il_Principe",
       "url_rss": "https://librivox.org/rss/10624",
-      "url_text_source": "http://archive.org/details/ilprincipedinic00machgoog",
+      "url_text_source": "https://it.wikisource.org/wiki/Il_Principe",
       "url_zip_file": "http://www.archive.org/download//il_principe_1711_librivox/il_principe_1711_librivox_64kb_mp3.zip"
     }
   ]
