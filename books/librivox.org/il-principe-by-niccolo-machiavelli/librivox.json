@@ -1,0 +1,204 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1469",
+          "dod": "1527",
+          "first_name": "Niccolò",
+          "id": "885",
+          "last_name": "Machiavelli"
+        }
+      ],
+      "copyright_year": "1814",
+      "description": "Il Principe (titolo originale in lingua latina: De Principatibus, \"Riguardo i Principati\") è un trattato di dottrina politica scritto da Niccolò Machiavelli nel 1513, nel quale espone le caratteristiche dei principati e dei metodi per mantenerli e conquistarli. Si tratta senza dubbio della sua opera più nota e celebrata, quella dalle cui massime (spesso superficialmente interpretate) sono nati il sostantivo \"machiavellismo\" e l'aggettivo \"machiavellico\". - Summary from http://it.wikipedia.org/wiki/Il_Principe<br /><br />Proof-listeners: <a href=\"https://librivox.org/reader/9185\">mrnmrz72</a> and <a href=\"https://librivox.org/reader/10179\">Sonia</a>",
+      "genres": [
+        {
+          "id": "99",
+          "name": "Political Science"
+        }
+      ],
+      "id": "10624",
+      "language": "Italian",
+      "num_sections": "11",
+      "sections": [
+        {
+          "file_name": "ilprincipe_00_machiavelli_64kb.mp3",
+          "id": "362052",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_00_machiavelli_64kb.mp3",
+          "playtime": "253",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "0",
+          "title": "Il Principe - Dedica"
+        },
+        {
+          "file_name": "ilprincipe_01_machiavelli_64kb.mp3",
+          "id": "362053",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_01_machiavelli_64kb.mp3",
+          "playtime": "1351",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "1",
+          "title": "Il Principe - Cap. 01-03"
+        },
+        {
+          "file_name": "ilprincipe_02_machiavelli_64kb.mp3",
+          "id": "362054",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_02_machiavelli_64kb.mp3",
+          "playtime": "1110",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "2",
+          "title": "Il Principe - Cap. 04-06"
+        },
+        {
+          "file_name": "ilprincipe_03_machiavelli_64kb.mp3",
+          "id": "362055",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_03_machiavelli_64kb.mp3",
+          "playtime": "1663",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "3",
+          "title": "Il Principe - Cap. 07-08"
+        },
+        {
+          "file_name": "ilprincipe_04_machiavelli_64kb.mp3",
+          "id": "362056",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_04_machiavelli_64kb.mp3",
+          "playtime": "1171",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "4",
+          "title": "Il Principe - Cap. 09-11"
+        },
+        {
+          "file_name": "ilprincipe_05_machiavelli_64kb.mp3",
+          "id": "362057",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_05_machiavelli_64kb.mp3",
+          "playtime": "1285",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "5",
+          "title": "Il Principe - Cap. 12-13"
+        },
+        {
+          "file_name": "ilprincipe_06_machiavelli_64kb.mp3",
+          "id": "362058",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_06_machiavelli_64kb.mp3",
+          "playtime": "945",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "6",
+          "title": "Il Principe - Cap. 14-16"
+        },
+        {
+          "file_name": "ilprincipe_07_machiavelli_64kb.mp3",
+          "id": "362059",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_07_machiavelli_64kb.mp3",
+          "playtime": "850",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "7",
+          "title": "Il Principe - Cap. 17-18"
+        },
+        {
+          "file_name": "ilprincipe_08_machiavelli_64kb.mp3",
+          "id": "362060",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_08_machiavelli_64kb.mp3",
+          "playtime": "1447",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "8",
+          "title": "Il Principe - Cap. 19"
+        },
+        {
+          "file_name": "ilprincipe_09_machiavelli_64kb.mp3",
+          "id": "362061",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_09_machiavelli_64kb.mp3",
+          "playtime": "1352",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "9",
+          "title": "Il Principe - Cap. 20-22"
+        },
+        {
+          "file_name": "ilprincipe_10_machiavelli_64kb.mp3",
+          "id": "362062",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/ilprincipe_10_machiavelli_64kb.mp3",
+          "playtime": "1522",
+          "readers": [
+            {
+              "display_name": "Renzo Clerico",
+              "reader_id": "9772"
+            }
+          ],
+          "section_number": "10",
+          "title": "Il Principe - Cap. 23-26"
+        }
+      ],
+      "title": "Il Principe",
+      "totaltime": "03:35:49",
+      "totaltimesecs": 12949,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/il_principe_1711_librivox",
+      "url_librivox": "https://librivox.org/il-principe-by-niccolo-machiavelli/",
+      "url_other": null,
+      "url_project": "http://it.wikipedia.org/wiki/Il_Principe",
+      "url_rss": "https://librivox.org/rss/10624",
+      "url_text_source": "http://archive.org/details/ilprincipedinic00machgoog",
+      "url_zip_file": "http://www.archive.org/download//il_principe_1711_librivox/il_principe_1711_librivox_64kb_mp3.zip"
+    }
+  ]
+}
