@@ -1,0 +1,219 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1881",
+          "dod": "1936",
+          "first_name": "Xun",
+          "id": "2654",
+          "last_name": "Lu"
+        }
+      ],
+      "copyright_year": "1932",
+      "description": "这个集子收录了鲁迅早年“从记忆中抄出来的“记录自己童年往事的散文。这些文章于1926年陆续发表在《莽原》杂志，1927年经鲁迅重新编订，加上小引和后记，于1928年在广州以《朝花夕拾》为名结集出版。这十篇散文长短不一，秉承鲁迅一贯隽永辛辣的文风，于生动刻画民俗众生的同时针砭时事，嘲骂文敌，是鲁迅早期的重要作品。<br><br>\n\nChao Hua Si She (Dawn Blossoms Plucked at Dusk) is a collection of essays on Chinese culture and society by Lu Xun, the most influential writer in 20th century China. (Summary by Jing Li)",
+      "genres": [
+        {
+          "id": "84",
+          "name": "Essays & Short Works"
+        }
+      ],
+      "id": "6026",
+      "language": "Chinese",
+      "num_sections": "12",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "79824",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "209",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "0",
+          "title": "小引 (xiao yin)"
+        },
+        {
+          "file_name": null,
+          "id": "79825",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1196",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "1",
+          "title": "狗 猫 鼠 (gou mao shu)"
+        },
+        {
+          "file_name": null,
+          "id": "79826",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "756",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "2",
+          "title": "阿长与《山海经》 (a chang yu shan hai jing)"
+        },
+        {
+          "file_name": null,
+          "id": "79827",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "845",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "3",
+          "title": "《二十四孝图》 (er shi si xiao tu)"
+        },
+        {
+          "file_name": null,
+          "id": "79828",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "548",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "4",
+          "title": "五猖会 (wu chang hui)"
+        },
+        {
+          "file_name": null,
+          "id": "79829",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "938",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "5",
+          "title": "无常 (wu chang)"
+        },
+        {
+          "file_name": null,
+          "id": "79830",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "634",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "6",
+          "title": "从百草园到三味书屋 (cong bai cao yuan dao san wei shu wu)"
+        },
+        {
+          "file_name": null,
+          "id": "79831",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "703",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "7",
+          "title": "父亲的病 (fu qin de bing)"
+        },
+        {
+          "file_name": null,
+          "id": "79832",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "948",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "8",
+          "title": "琐记 (suo ji)"
+        },
+        {
+          "file_name": null,
+          "id": "79833",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "801",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "9",
+          "title": "藤野先生 (teng ye xian sheng)"
+        },
+        {
+          "file_name": null,
+          "id": "79834",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1000",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "10",
+          "title": "范爱农 (fan ai nong)"
+        },
+        {
+          "file_name": null,
+          "id": "79835",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1352",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "11",
+          "title": "后记 (hou ji)"
+        }
+      ],
+      "title": "朝花夕拾 (Chao Hua Si She)",
+      "totaltime": "2:45:30",
+      "totaltimesecs": 9930,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/chao_hua_si_she_jl_librivox",
+      "url_librivox": "https://librivox.org/chao-hua-si-she-by-lu-xun/",
+      "url_other": null,
+      "url_project": "http://zh.wikipedia.org/wiki/朝花夕拾_(鲁迅)",
+      "url_rss": "https://librivox.org/rss/6026",
+      "url_text_source": "http://www.xys.org/xys/classics/Lu-Xun/Zhaohua/",
+      "url_zip_file": "http://www.archive.org/download/chao_hua_si_she_jl_librivox/chao_hua_si_she_jl_librivox_64kb_mp3.zip"
+    }
+  ]
+}
