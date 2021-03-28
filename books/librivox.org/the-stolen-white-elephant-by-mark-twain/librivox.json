@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1835",
+          "dod": "1910",
+          "first_name": "Mark",
+          "id": "9",
+          "last_name": "Twain"
+        }
+      ],
+      "copyright_year": "1882",
+      "description": "In this Mark Twain short story an Indian elephant, en route from India to Britain as a gift to Queen, disappears in New Jersey. The local police department goes into high gear to solve the mystery but it all comes to a tragic end.<br />\n(Summary written by Kristen McQuillin)",
+      "genres": [
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "414",
+      "language": "English",
+      "num_sections": "1",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "126815",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "2336",
+          "readers": [
+            {
+              "display_name": "Kristen McQuillin",
+              "reader_id": "89"
+            }
+          ],
+          "section_number": "1",
+          "title": "The Stolen White Elephant"
+        }
+      ],
+      "title": "Stolen White Elephant",
+      "totaltime": "00:38:56",
+      "totaltimesecs": 2336,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/twainwhiteelephant",
+      "url_librivox": "https://librivox.org/the-stolen-white-elephant-by-mark-twain/",
+      "url_other": null,
+      "url_project": "https://en.wikipedia.org/wiki/The_Stolen_White_Elephant",
+      "url_rss": "https://librivox.org/rss/414",
+      "url_text_source": "http://www.gutenberg.org/etext/3181",
+      "url_zip_file": "https://archive.org/download/twainwhiteelephant/twainwhiteelephant_64kb_mp3.zip"
+    }
+  ]
+}
