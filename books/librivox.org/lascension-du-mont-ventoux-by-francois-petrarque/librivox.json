@@ -27,9 +27,8 @@
       "num_sections": "1",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "ascensionmontventoux_petrarque_64kb.mp3",
           "id": "157918",
-          "language": "English",
           "listen_url": null,
           "playtime": "1341",
           "readers": [
@@ -59,7 +58,7 @@
       "url_other": null,
       "url_project": "",
       "url_rss": "https://librivox.org/rss/2084",
-      "url_text_source": "http://www.gelahn.asso.fr/docs95.html",
+      "url_text_source": "https://fr.wikisource.org/wiki/L%E2%80%99Ascension_du_mont_Ventoux_(trad._V._Develay,_1880)",
       "url_zip_file": "http://www.archive.org/download/lascensiondumontventoux_a_librivox/lascensiondumontventoux_a_librivox_64kb_mp3.zip"
     }
   ]
