@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1873",
+          "dod": "1934",
+          "first_name": "Jakob",
+          "id": "3262",
+          "last_name": "Wassermann"
+        }
+      ],
+      "copyright_year": "1921",
+      "description": "Die Autobiographie \"Mein Weg als Deutscher und Jude\" skizziert die Lebens- und Sinnsuche des Schriftstellers Jakob Wassermanns. Die Schilderung ist geprägt von der Alltagserfahrung des mehr oder weniger latenten Antisemitismus seiner Zeit und dem Aufbegehren gegen Grenzen und Vorurteile.  - Summary by Rebecca Braunert-Plunkett",
+      "genres": [
+        {
+          "id": "111",
+          "name": "Memoirs"
+        }
+      ],
+      "id": "8321",
+      "language": "German",
+      "num_sections": "7",
+      "sections": [
+        {
+          "file_name": "meinweg_01_wassermann_64kb.mp3",
+          "id": "296993",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/meinweg_01_wassermann.mp3",
+          "playtime": "2691",
+          "readers": [
+            {
+              "display_name": "Rebecca Braunert-Plunkett",
+              "reader_id": "8470"
+            }
+          ],
+          "section_number": "1",
+          "title": "1-4"
+        },
+        {
+          "file_name": "meinweg_02_wassermann_64kb.mp3",
+          "id": "296994",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/meinweg_02_wassermann.mp3",
+          "playtime": "2217",
+          "readers": [
+            {
+              "display_name": "Rebecca Braunert-Plunkett",
+              "reader_id": "8470"
+            }
+          ],
+          "section_number": "2",
+          "title": "5-8"
+        },
+        {
+          "file_name": "meinweg_03_wassermann_64kb.mp3",
+          "id": "296995",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/meinweg_03_wassermann.mp3",
+          "playtime": "2443",
+          "readers": [
+            {
+              "display_name": "Rebecca Braunert-Plunkett",
+              "reader_id": "8470"
+            }
+          ],
+          "section_number": "3",
+          "title": "9-11"
+        },
+        {
+          "file_name": "meinweg_04_wassermann_64kb.mp3",
+          "id": "296996",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/meinweg_04_wassermann.mp3",
+          "playtime": "2200",
+          "readers": [
+            {
+              "display_name": "Rebecca Braunert-Plunkett",
+              "reader_id": "8470"
+            }
+          ],
+          "section_number": "4",
+          "title": "12-14"
+        },
+        {
+          "file_name": "meinweg_05_wassermann_64kb.mp3",
+          "id": "296997",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/meinweg_05_wassermann.mp3",
+          "playtime": "2064",
+          "readers": [
+            {
+              "display_name": "Rebecca Braunert-Plunkett",
+              "reader_id": "8470"
+            }
+          ],
+          "section_number": "5",
+          "title": "15-17"
+        },
+        {
+          "file_name": "meinweg_06_wassermann_64kb.mp3",
+          "id": "296998",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/meinweg_06_wassermann.mp3",
+          "playtime": "2058",
+          "readers": [
+            {
+              "display_name": "Rebecca Braunert-Plunkett",
+              "reader_id": "8470"
+            }
+          ],
+          "section_number": "6",
+          "title": "18-21"
+        },
+        {
+          "file_name": "meinweg_07_wassermann_64kb.mp3",
+          "id": "296999",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/meinweg_07_wassermann.mp3",
+          "playtime": "1589",
+          "readers": [
+            {
+              "display_name": "Rebecca Braunert-Plunkett",
+              "reader_id": "8470"
+            }
+          ],
+          "section_number": "7",
+          "title": "22-26"
+        }
+      ],
+      "title": "Mein Weg als Deutscher und Jude",
+      "totaltime": "04:14:22",
+      "totaltimesecs": 15262,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/mein_weg_als_deutscher_und_jude_1312_librivox",
+      "url_librivox": "https://librivox.org/mein-weg-als-deutscher-und-jude-by-jakob-wassermann/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/8321",
+      "url_text_source": "http://www.gutenberg.org/ebooks/17413",
+      "url_zip_file": "http://www.archive.org/download//mein_weg_als_deutscher_und_jude_1312_librivox/mein_weg_als_deutscher_und_jude_1312_librivox_64kb_mp3.zip"
+    }
+  ]
+}
