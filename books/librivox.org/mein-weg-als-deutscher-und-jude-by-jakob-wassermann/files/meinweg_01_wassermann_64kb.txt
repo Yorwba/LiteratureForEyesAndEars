@@ -17,13 +17,25 @@ Lucrez, [[III.||Drei]] 498
 
 Ferruccio Busoni, dem Freund, dem Künstler gewidmet
 
-Ohne Rücksicht auf die Gewöhnung meines Geistes, sich in Bildern und Figuren zu bewegen, will ich mir – gedrängt von innerer Not und Not der Zeit – Rechenschaft ablegen über den problematischsten Teil meines Lebens, den, der mein Judentum und meine Existenz als Jude betrifft, nicht als Jude schlechthin, sondern als deutscher Jude, zwei Begriffe, die auch dem Unbefangenen Ausblick auf Fülle von Missverständnissen, Tragik, Widersprüchen, Hader und Leiden eröffnen.
+Ohne Rücksicht auf die Gewöhnung meines Geistes, sich in Bildern und Figuren zu bewegen, will ich mir – gedrängt von innerer Not und Not der Zeit – Rechenschaft ablegen über den problematischsten Teil meines Lebens, den, der mein Judentum und meine Existenz als Jude betrifft,
+
+nicht als Jude schlechthin, sondern als deutscher Jude, zwei Begriffe, die auch dem Unbefangenen Ausblick auf Fülle von Missverständnissen, Tragik, Widersprüchen, Hader und Leiden eröffnen.
 
 Heikel war das Thema stets, ob es nun mit Scham, mit Freiheit oder Herausforderung behandelt wurde, schönfärbend von der einen, gehässig von der anderen Seite. Heute ist es ein Brandherd.
 
 Es verlangt mich, Anschauung zu geben. Da darf denn nichts mehr gelten, was mir schon einmal als bewiesen gegolten hat. Auf Beweis und Verteidigung verzichte ich somit überhaupt, auf Anklage und jede Art konstruktiver Beredsamkeit. Ich stütze mich auf das Erlebnis.
 
-Unabweisbar trieb es mich, Klarheit zu gewinnen über das Wesen jener Disharmonie, die durch mein ganzes Tun und Sein zieht und mir mit den Jahren immer schmerzlicher fühlbar und bewusst worden ist. Der unreife Mensch ist gewissen Verwirrungen viel weniger ausgesetzt als der reife. Dieser, sofern er an eine Sache hingegeben ist oder an eine Idee, was im Grunde dasselbe besagt, entringt sich nach und nach der Besessenheit, in der das Ich den Zauber des Unbedingten hat, und Welt und Menschheit kraft einer angenehmen und halbfreiwilligen Täuschung dem gebundenen Willen in den Transformationen der Leidenschaften zu dienen scheinen. In dem Maße, in dem die eigene Person aufhört, Wunder und Zweck zu sein, bis sie zuletzt ein kaum gespürtes Zwischenelement wird, gleichsam Schatten eines Körpers, den man nicht kennt, noch erkennen kann, in dem Maße wächst die Schwierigkeit und Gefährlichkeit des Lebens mit und unter den Menschen, sowie der geheimnisvolle Charakter alles dessen, was man Realität und Erfahrung nennt.
+Unabweisbar trieb es mich, Klarheit zu gewinnen über das Wesen jener Disharmonie, die durch mein ganzes Tun und Sein zieht und mir mit den Jahren immer schmerzlicher fühlbar und bewusst worden ist.
+
+Der unreife Mensch ist gewissen Verwirrungen viel weniger ausgesetzt als der reife.
+
+Dieser, sofern er an eine Sache hingegeben ist oder an eine Idee, was im Grunde dasselbe besagt, entringt sich nach und nach der Besessenheit, in der das Ich den Zauber des Unbedingten hat,
+
+und Welt und Menschheit kraft einer angenehmen und halbfreiwilligen Täuschung dem gebundenen Willen in den Transformationen der Leidenschaften zu dienen scheinen.
+
+In dem Maße, in dem die eigene Person aufhört, Wunder und Zweck zu sein, bis sie zuletzt ein kaum gespürtes Zwischenelement wird, gleichsam Schatten eines Körpers, den man nicht kennt, noch erkennen kann,
+
+in dem Maße wächst die Schwierigkeit und Gefährlichkeit des Lebens mit und unter den Menschen, sowie der geheimnisvolle Charakter alles dessen, was man Realität und Erfahrung nennt.
 
 Weg- und Merkzeichen bleiben letzten Endes wenige, auch bei der genialsten Rezeption. Es hängt von der Breite des Schicksals ab, wieviel unvergess- und unverwischbare Spuren es in der Seele hinterlässt.
 
@@ -31,93 +43,407 @@ Eins
 
 Ich bin in Fürth geboren und aufgewachsen, einer vorwiegend protestantischen Fabrikstadt des mittleren Franken, in der es eine zahlreiche Gemeinde gewerbs- und handelstreibender Juden gab. Das Verhältnis der Zahl der Juden zur übrigen Bevölkerung war etwa 1:12.
 
-Der Überlieferung nach ist es eine der ältesten Judengemeinden Deutschlands. Schon im neunten Jahrhundert sollen dort jüdische Siedlungen bestanden haben. Vermehrung und Blüte trat wahrscheinlich erst zu Ende des fünfzehnten Jahrhunderts ein, als die Juden aus dem benachbarten Nürnberg vertrieben wurden. Später wendete sich auch vom Rhein her ein Flüchtlingsstrom der aus Spanien verjagten Juden nach Franken, und unter ihnen vermute ich meine Vorfahren mütterlicherseits, die im Maintal in der Nähe von Würzburg seit Jahrhunderten dorfansässig waren, so wie die von väterlicher Seite in Fürth, Roth am Sand, Schwabach, Bamberg und Zirndorf.
+Der Überlieferung nach ist es eine der ältesten Judengemeinden Deutschlands. Schon im neunten Jahrhundert sollen dort jüdische Siedlungen bestanden haben.
 
-Beziehung zu Boden, Klima und Volk muss also den Generationen, die durch dreißig oder vierzig Jahrzehnte hier hausten, in Fleisch und Bein übergegangen sein, obgleich sie diesen Einflüssen entgegenstrebten und als Fremdkörper vom Volksorganismus ausgeschieden waren. Drückende Beschränkungen, wie das Matrikelgesetz, das Verbot der Freizügigkeit und der freien Berufswahl waren noch bis in die Mitte des neunzehnten Jahrhunderts in Kraft. Der Vater meiner Mutter, ein Mann von Bildung und edler Anlage, verblutete an ihnen. Dass finsterer Sektengeist, Ghettotrotz und Ghettoangst dadurch immer frische Nahrung erhielten, versteht sich am Rande.
+Vermehrung und Blüte trat wahrscheinlich erst zu Ende des fünfzehnten Jahrhunderts ein, als die Juden aus dem benachbarten Nürnberg vertrieben wurden.
 
-Als ich geboren wurde, zwei Jahre nach dem Deutsch-Französischen Krieg, war für die deutschen Juden der bürgerliche Tag längst angebrochen. Im Parlament kämpfte die liberale Partei bereits für die Zulassung der Juden zu den Staatsämtern, eine Anmaßung, die auch bei den aufgeklärtesten Deutschen Entrüstung hervorrief. »Ich liebe die Juden, aber regieren will ich mich von ihnen nicht lassen«, schrieb zum Beispiel ein Mann wie Theodor Fontane damals an einen Freund.
+Später wendete sich auch vom Rhein her ein Flüchtlingsstrom der aus Spanien verjagten Juden nach Franken, und unter ihnen vermute ich meine Vorfahren mütterlicherseits, die im Maintal in der Nähe von Würzburg seit Jahrhunderten dorfansässig waren,
 
-Von Pferch und Helotentum spürte ich also in meiner Jugend nichts mehr. Auf der einen Seite hatte man sich eingelebt, auf der andern sich gewöhnt. Wirtschaftlicher Aufschwung begünstigte die Duldsamkeit. Ich erinnere mich, dass mein Vater bei irgendeiner Gelegenheit mit freudiger Genugtuung sagte: »Wir leben im Zeitalter der Toleranz!« Das Wort Toleranz machte mir in Gedanken viel zu schaffen; es flößte mir Respekt ein, und ich beargwöhnte es, ohne dass ich seine Bedeutung begriff.
+so wie die von väterlicher Seite in Fürth, Roth am Sand, Schwabach, Bamberg und Zirndorf.
 
-In Kleidung, Sprache und Lebensform war die Anpassung durchaus vollzogen. Die Schule, die ich besuchte, war staatlich und öffentlich. Man wohnte unter Christen, verkehrte mit Christen, und für die fortgeschrittenen Juden, zu denen mein Vater sich zählte, gab es eine jüdische Gemeinde nur im Sinn des Kultus und der Tradition; jener wich vor dem verführerischen und mächtigen modernen Wesen mehr und mehr ins Konventikelhafte zurück, in heimliche, abgekehrte, frenetische Gruppen; diese wurde Sage, schließlich nur Wort und leere Hülse.
+Beziehung zu Boden, Klima und Volk muss also den Generationen, die durch dreißig oder vierzig Jahrzehnte hier hausten, in Fleisch und Bein übergegangen sein, obgleich sie diesen Einflüssen entgegenstrebten und als Fremdkörper vom Volksorganismus ausgeschieden waren.
 
-Mein Vater war kleiner Kaufmann, dem es auf keine Weise wie den meisten seiner Glaubens- und Altersgenossen gelingen wollte, Reichtümer zu erwerben. Er hatte in Geschäften eine unglückliche Hand. Er war ein wenig Fantast und hatte immer seine fixe Idee, die ihn der Biegsamkeit der Geldmacher beraubte. Er träumte von großen Spekulationen und großen Unternehmungen, aber was er angriff, schlug fehl. Seine Geistesrichtung war die sentimental-freiheitliche, laues Nachzüglertum der Märzrevolution, das seine verwässerten Tendenzen ins neue Reich getragen hatte. Ich entsinne mich aus meiner Kindheit eines leidenschaftlichen Disputs zwischen ihm und einem seiner Vettern über Ferdinand Lassalle, von dem er wie vom Gottseibeiuns sprach; aber ich entsinne mich auch, dass er manchmal am Abend rührende Lieder zur Gitarre sang. Das war noch in der guten Zeit, als ihn die Sorgen noch nicht gebrochen hatten. Er liebte Schiller und sprach mit Hochachtung von Gutzkow. Auf einer seiner Reisen hatte er in einem thüringischen Badeort zusammen mit Gutzkow an der Gästetafel gespeist; er erzählte oft mit Stolz davon, und in späteren Jahren, als meine Kämpfe um den Schriftstellerberuf ihn erbitterten, sagte er mir einmal, um vermessene Ambitionen zurückzuweisen, als deren Beute er mich sah: »Was bildest du dir ein? Einen Gutzkow kannst du doch nie erreichen!«
+Drückende Beschränkungen, wie das Matrikelgesetz, das Verbot der Freizügigkeit und der freien Berufswahl waren noch bis in die Mitte des neunzehnten Jahrhunderts in Kraft.
 
-Mitte der achtziger Jahre gründete er eine Fabrik in kleinem Stil, mit geringem Kapital, das er mühselig zusammengeborgt hatte, aber mit großen Hoffnungen. Nach wenigen Jahren machte er Bankrott und wurde dann Versicherungsagent, eine Tätigkeit, die trotz unermüdlicher Anstrengung ihn mit den Seinen kaum über Wasser hielt und ihn außerdem mit dem Gefühl einer gescheiterten Existenz belud. Er hat sein ganzes Leben lang schwer gearbeitet; als ich, dreißigjährig, den Sechsundfünfzigjährigen für einige Wochen zu Gast bitten konnte, zeigte er eine beständige stumme Verwunderung, und beim Abschied sagte er zu mir: »Es waren die ersten Ferien meines Lebens!« Nach Hause zurückgekehrt, starb er, acht Tage nachher.
+Der Vater meiner Mutter, ein Mann von Bildung und edler Anlage, verblutete an ihnen. Dass finsterer Sektengeist, Ghettotrotz und Ghettoangst dadurch immer frische Nahrung erhielten, versteht sich am Rande.
 
-Meine Mutter starb, als ich neun Jahre alt war. Sie war eine Schönheit, von blondem Typus, sehr sanft, sehr schweigsam. Es wurde mir oft erzählt, dass Fremde, die sich in der Stadt aufhielten, durch den Ruf ihrer Schönheit neugierig gemacht, sie zu sehen begehrten. Es wurde mir auch erzählt, dass ihre Jugendliebe ein Christ gewesen sei, ein Maschinenmeister aus Ulm. Es sind noch Briefe von ihr vorhanden, in denen eine kindlich-volkshafte Schwermut atmet, Poesie der Traurigkeit. Ich entsinne mich noch gut, welche Bestürzung ihr unerwarteter Tod hervorrief, und wie die halbe Stadt ihrem Sarg zum Friedhof folgte.
+Als ich geboren wurde, zwei Jahre nach dem Deutsch-Französischen Krieg, war für die deutschen Juden der bürgerliche Tag längst angebrochen.
 
-Beide Menschen, mein Vater und meine Mutter, obwohl gegeneinander sehr verschieden geartet, hatten ein Gemeinsames darin, dass sie ihrer Zeit nicht gemäß waren. Sie kamen von der Romantik her, der Vater als geistiger Spätling, die Mutter im Gemüt davon verdunkelt und beschwert. Bei der Mutter äußerte es sich naturhaft und führte eine tragische Lebensstimmung herbei, beim Vater drang es in das Motorische und war von einem grundlosen, alle Sachverhalte verhängnisvoll verschleiernden Optimismus begleitet, der ihm Enttäuschung über Enttäuschung brachte und seinen Mut und seine Kraft zerstörte.
+Im Parlament kämpfte die liberale Partei bereits für die Zulassung der Juden zu den Staatsämtern, eine Anmaßung, die auch bei den aufgeklärtesten Deutschen Entrüstung hervorrief.
+
+»Ich liebe die Juden, aber regieren will ich mich von ihnen nicht lassen«, schrieb zum Beispiel ein Mann wie Theodor Fontane damals an einen Freund.
+
+Von Pferch und Helotentum spürte ich also in meiner Jugend nichts mehr. Auf der einen Seite hatte man sich eingelebt, auf der andern sich gewöhnt. Wirtschaftlicher Aufschwung begünstigte die Duldsamkeit.
+
+Ich erinnere mich, dass mein Vater bei irgendeiner Gelegenheit mit freudiger Genugtuung sagte: »Wir leben im Zeitalter der Toleranz!«
+
+Das Wort Toleranz machte mir in Gedanken viel zu schaffen; es flößte mir Respekt ein, und ich beargwöhnte es, ohne dass ich seine Bedeutung begriff.
+
+In Kleidung, Sprache und Lebensform war die Anpassung durchaus vollzogen. Die Schule, die ich besuchte, war staatlich und öffentlich.
+
+Man wohnte unter Christen, verkehrte mit Christen, und für die fortgeschrittenen Juden, zu denen mein Vater sich zählte, gab es eine jüdische Gemeinde nur im Sinn des Kultus und der Tradition;
+
+jener wich vor dem verführerischen und mächtigen modernen Wesen mehr und mehr ins Konventikelhafte zurück, in heimliche, abgekehrte, frenetische Gruppen; diese wurde Sage, schließlich nur Wort und leere Hülse.
+
+Mein Vater war kleiner Kaufmann, dem es auf keine Weise wie den meisten seiner Glaubens- und Altersgenossen gelingen wollte, Reichtümer zu erwerben.
+
+Er hatte in Geschäften eine unglückliche Hand. Er war ein wenig Fantast und hatte immer seine fixe Idee, die ihn der Biegsamkeit der Geldmacher beraubte.
+
+Er träumte von großen Spekulationen und großen Unternehmungen, aber was er angriff, schlug fehl. Seine Geistesrichtung war die sentimental-freiheitliche, laues Nachzüglertum der Märzrevolution, das seine verwässerten Tendenzen ins neue Reich getragen hatte.
+
+Ich entsinne mich aus meiner Kindheit eines leidenschaftlichen Disputs zwischen ihm und einem seiner Vettern über Ferdinand Lassalle, von dem er wie vom Gottseibeiuns sprach; aber ich entsinne mich auch, dass er manchmal am Abend rührende Lieder zur Gitarre sang.
+
+Das war noch in der guten Zeit, als ihn die Sorgen noch nicht gebrochen hatten. Er liebte Schiller und sprach mit Hochachtung von Gutzkow.
+
+Auf einer seiner Reisen hatte er in einem thüringischen Badeort zusammen mit Gutzkow an der Gästetafel gespeist; er erzählte oft mit Stolz davon,
+
+und in späteren Jahren, als meine Kämpfe um den Schriftstellerberuf ihn erbitterten, sagte er mir einmal, um vermessene Ambitionen zurückzuweisen, als deren Beute er mich sah: »Was bildest du dir ein?
+
+Einen Gutzkow kannst du doch nie erreichen!«
+
+Mitte der achtziger Jahre gründete er eine Fabrik in kleinem Stil, mit geringem Kapital, das er mühselig zusammengeborgt hatte, aber mit großen Hoffnungen.
+
+Nach wenigen Jahren machte er Bankrott und wurde dann Versicherungsagent, eine Tätigkeit, die trotz unermüdlicher Anstrengung ihn mit den Seinen kaum über Wasser hielt und ihn außerdem mit dem Gefühl einer gescheiterten Existenz belud.
+
+Er hat sein ganzes Leben lang schwer gearbeitet; als ich, dreißigjährig, den Sechsundfünfzigjährigen für einige Wochen zu Gast bitten konnte, zeigte er eine beständige stumme Verwunderung, und beim Abschied sagte er zu mir: »Es waren die ersten Ferien meines Lebens!«
+
+Nach Hause zurückgekehrt, starb er, acht Tage nachher.
+
+Meine Mutter starb, als ich neun Jahre alt war. Sie war eine Schönheit, von blondem Typus, sehr sanft, sehr schweigsam. Es wurde mir oft erzählt, dass Fremde, die sich in der Stadt aufhielten, durch den Ruf ihrer Schönheit neugierig gemacht, sie zu sehen begehrten.
+
+Es wurde mir auch erzählt, dass ihre Jugendliebe ein Christ gewesen sei, ein Maschinenmeister aus Ulm.
+
+Es sind noch Briefe von ihr vorhanden, in denen eine kindlich-volkshafte Schwermut atmet, Poesie der Traurigkeit. Ich entsinne mich noch gut, welche Bestürzung ihr unerwarteter Tod hervorrief, und wie die halbe Stadt ihrem Sarg zum Friedhof folgte.
+
+Beide Menschen, mein Vater und meine Mutter, obwohl gegeneinander sehr verschieden geartet, hatten ein Gemeinsames darin, dass sie ihrer Zeit nicht gemäß waren. Sie kamen von der Romantik her, der Vater als geistiger Spätling, die Mutter im Gemüt davon verdunkelt und beschwert.
+
+Bei der Mutter äußerte es sich naturhaft und führte eine tragische Lebensstimmung herbei,
+
+beim Vater drang es in das Motorische und war von einem grundlosen, alle Sachverhalte verhängnisvoll verschleiernden Optimismus begleitet, der ihm Enttäuschung über Enttäuschung brachte und seinen Mut und seine Kraft zerstörte.
 
 Zwei
 
-Die meinem Judentum geltenden Anfeindungen, die ich in der Kindheit und ersten Jugend erfuhr, gingen mir, wie mich dünkt, nicht besonders nahe, da ich herausfühlte, dass sie weniger die Person als die Gemeinschaft trafen. Ein höhnischer Zuruf von Gassenjungen, ein giftiger Blick, abschätzige Miene, gewisse wiederkehrende Verächtlichkeit, das war alltäglich. Aber ich merkte, dass meine Person, sobald sie außerhalb der Gemeinschaft auftrat, das heißt sobald die Beziehung nicht mehr gewusst wurde, von Sticheleien und Feindseligkeit fast völlig verschont blieb. Mit den Jahren immer mehr. Mein Gesichtstypus bezichtigte mich nicht als Jude, mein Gehaben nicht, mein Idiom nicht. Ich hatte eine gerade Nase und war still und bescheiden. Das klingt als Argument primitiv, aber der diesen Erfahrungen Fernstehende kann schwerlich ermessen, wie primitiv Nichtjuden in der Beurteilung dessen sind, was jüdisch ist, und was sie für jüdisch halten. Wo ihnen nicht das Zerrbild entgegentritt, schweigt ihr Instinkt, und ich habe immer gefunden, dass der Rassenhass, den sie sich einreden oder einreden lassen, von den gröbsten Äußerlichkeiten genährt wird, und dass sie infolgedessen über die wirkliche Gefahr in einer ganz falschen Richtung orientiert sind. Die Gehässigsten waren darin die Stumpfesten.
+Die meinem Judentum geltenden Anfeindungen, die ich in der Kindheit und ersten Jugend erfuhr, gingen mir, wie mich dünkt, nicht besonders nahe, da ich herausfühlte, dass sie weniger die Person als die Gemeinschaft trafen.
 
-Das zunächst nur als Andeutung. Was die Gemeinschaft anlangt, so fühlte ich mit ihr keinerlei tieferen Zusammenhang. Religion war eine Disziplin und keine erfreuliche. Sie wurde von einem seelenlosen Manne seelenlos gelehrt. Sein böses, eitles, altes Gesicht erscheint mir noch jetzt bisweilen im Traum. Sonderbarerweise habe ich selten von einem humanen oder liebenswürdigen jüdischen Religionslehrer gehört, die meisten sind kalte Eiferer und halb lächerliche Figuren. Dieser, wie alle, bläute Formeln ein, antiquierte hebräische Gebete, die ohne eigentliche Kenntnis der Sprache mechanisch übersetzt wurden, Abseitiges, Unlebendiges, Mumien von Begriffen. Positiven Ertrag gab nur die Lektüre des Alten Testaments, aber auch da fehlte die Erleuchtung, vom Gegenstand wie vom Interpreten her. Vorgang und Gestalt wirkten im Einzelnen, Episodischen, das Ganze zeigte sich starr, oft absurd, ja unmenschlich und war durch keine höhere Anschauung geläutert. Vom Neuen Testament brach bisweilen ein Strahl herüber wie Lichtschein durch eine verschlossene Tür, und Neugier mischte sich mit unbestimmtem Grauen. Jene ewigen Bilder und Mythen befruchteten meine Fantasie erst, als ich in ein privates, sozusagen psychologisches Verhältnis zu ihnen treten konnte, ein Prozess, der sie individualisierte, im Sinne der Aufklärung geistig machte, oder im Sinne der Romantik stofflich, je nachdem, in jedem Falle von der Religion ablöste.
+Ein höhnischer Zuruf von Gassenjungen, ein giftiger Blick, abschätzige Miene, gewisse wiederkehrende Verächtlichkeit, das war alltäglich.
 
-Um den Gottesdienst war es noch übler bestellt. Er war lediglich Betrieb, Versammlung ohne Weihe, geräuschvolle Übung eingefleischter Gebräuche ohne Symbolik, Drill. Der fortgeschrittene Teil der Gemeinde hatte eine moderne Synagoge gebaut, eines jener Häuser im quasi-byzantinischen Stil, wie man in den meisten deutschen Städten eines findet, und deren parvenühafte Prächtigkeit über die fehlende Gemütsmacht des religiösen Kultus nicht hinwegtäuschen kann. Mir war da alles hohler Lärm, Ertötung der Andacht, Missbrauch großer Worte, unbegründete Lamentation, unbegründet, weil im Widerspruch mit sichtbarem Wohlleben und herzhafter Weltlichkeit stehend; Überhebung, Pfafferei und Zelotismus. Die einzige Erquickung waren die deutschen Predigten eines sehr stattlichen blonden Rabbiners, den ich verehrte.
+Aber ich merkte, dass meine Person, sobald sie außerhalb der Gemeinschaft auftrat, das heißt sobald die Beziehung nicht mehr gewusst wurde, von Sticheleien und Feindseligkeit fast völlig verschont blieb.
 
-Die Konservativen und Altgläubigen hielten ihren Dienst in den sogenannten Schulen ab, kleinen Gotteshäusern, oft nur Stuben in einer entlegenen Winkelgasse. Da sah man noch Köpfe und Gestalten, wie sie Rembrandt gezeichnet hat, fanatische Gesichter, Augen voll Askese und glühend im Gedächtnis unvergessener Verfolgungen. Auf ihren Lippen wurden die strengen Gebete, Anruf und Verfluchung, wirklich, die lastbeladenen Schultern sprachen von generationenalter Demut und Entbehrung, die ehrwürdigen Gebräuche wurden in entschlossener Hingabe buchstabentreu erfüllt, die Erwartung des Messias war ungebrochener, wenn auch dumpfer Glaube. Aufschwung war auch unter ihnen nicht, Trost oder Innigkeit, oder Glanz oder Menschlichkeit, oder Freude, aber Überzeugung und Leidenschaft war unerbittliche Regel und Gemeinschaft.
+Mit den Jahren immer mehr. Mein Gesichtstypus bezichtigte mich nicht als Jude, mein Gehaben nicht, mein Idiom nicht.
 
-In eine solche Schule musste ich nach dem Tode meiner Mutter, als neunjähriger Knabe, jeden Morgen mit Sonnenaufgang, jeden Abend mit Sonnenuntergang, am Sabbat und an Feiertagen auch nachmittags ein Jahr hindurch gehen, um als Erstgeborener vor der Gebetsgemeinde das Kaddisch zu sagen. Zehn männliche Personen über dreizehn Jahren mussten zu dem Zweck versammelt sein, doch waren es meist alte, uralte Leute, die Übriggebliebenen einer früheren Welt. Es war hart, an Wintermorgen bei Schnee und Kälte, im Sommer um fünf Uhr und früher noch, eine Pflicht zu üben, die aufgenötigt und befohlen war, deren Bedeutung ich nicht begriff oder begreifen mochte. Es gab sich niemand die Mühe, sie dem Geist zu verklären und so die Gefahr zu bannen, dass durch die Befolgung eines als grausam empfundenen Brauches das Bild der Mutter, obschon nur vorübergehend, getrübt wurde. Dazu kam, dass im väterlichen Hause, besonders nach der zweiten Verheiratung des Vaters, von einer religiösen Bindung und Erziehung nicht die Rede war. Gewisse äußerliche Vorschriften wurden eingehalten, mehr aus Rücksicht auf Ruf und Verwandte, aus Furcht und Gewöhnung, als aus Trieb und Zugehörigkeit. Fest- und Fasttage galten als heilig. Der Sabbat hatte noch einen Rest seines urtümlichen Gehalts, die Gesetze für die Küche wurden noch geachtet. Aber mit der wachsenden Schwere des Brotkampfes und dem Eindringen der neuen Zeit verloren sich auch diese Gebote einer von der Andersgläubigen unterschiedenen Führung. Man wagte die Fessel nicht ganz abzustreifen; man bekannte sich zu den Religionsgenossen, obwohl von Genossenschaft wie von Religion kaum noch Spuren geblieben waren. Genau betrachtet war man Jude nur dem Namen nach und durch die Feindseligkeit, Fremdheit oder Ablehnung der christlichen Umwelt, die sich ihrerseits hierzu auch nur auf ein Wort, auf Phrase, auf falschen Tatbestand stützte. Wozu war man also noch Jude, und was war der Sinn davon? Diese Frage wurde immer unabweisbarer für mich, und niemand konnte sie beantworten.
+Ich hatte eine gerade Nase und war still und bescheiden. Das klingt als Argument primitiv, aber der diesen Erfahrungen Fernstehende kann schwerlich ermessen, wie primitiv Nichtjuden in der Beurteilung dessen sind, was jüdisch ist, und was sie für jüdisch halten.
 
-Es war ein trübes Medium zwischen mir und allen geistigen und bürgerlichen Dingen. Bei jedem Schritt nach vorwärts stieß ich auf Hemmnisse und Verschleierungen, nach keiner Richtung hin war offener Weg. Wenn ich sagte, dass ich von Pferch und Helotentum nichts spürte, so bezieht sich das natürlich nur auf die rechtliche Konstruktion des Lebens, auf das individuelle Sicherheitsgefühl, innerhalb dessen sich das Tun und Lassen des einzelnen Menschen reguliert. Sind diese beiden Faktoren einmal gegeben und zugestanden, so wird von ungleich höherer Wichtigkeit für ihn die Frage, wie er sich zur Allgemeinheit verhält und wie die Allgemeinheit zu ihm. Daraus erwächst ihm die Erkenntnis seiner Lebensaufgabe und, je nach der Entscheidung, die Kraft zu ihrer Erfüllung. An diesem Punkt begann denn auch mein Leiden.
+Wo ihnen nicht das Zerrbild entgegentritt, schweigt ihr Instinkt, und ich habe immer gefunden, dass der Rassenhass, den sie sich einreden oder einreden lassen, von den gröbsten Äußerlichkeiten genährt wird,
+
+und dass sie infolgedessen über die wirkliche Gefahr in einer ganz falschen Richtung orientiert sind.
+
+Die Gehässigsten waren darin die Stumpfesten.
+
+Das zunächst nur als Andeutung. Was die Gemeinschaft anlangt, so fühlte ich mit ihr keinerlei tieferen Zusammenhang. Religion war eine Disziplin und keine erfreuliche. Sie wurde von einem seelenlosen Manne seelenlos gelehrt.
+
+Sein böses, eitles, altes Gesicht erscheint mir noch jetzt bisweilen im Traum. Sonderbarerweise habe ich selten von einem humanen oder liebenswürdigen jüdischen Religionslehrer gehört, die meisten sind kalte Eiferer und halb lächerliche Figuren.
+
+Dieser, wie alle, bläute Formeln ein, antiquierte hebräische Gebete, die ohne eigentliche Kenntnis der Sprache mechanisch übersetzt wurden, Abseitiges, Unlebendiges, Mumien von Begriffen.
+
+Positiven Ertrag gab nur die Lektüre des Alten Testaments, aber auch da fehlte die Erleuchtung, vom Gegenstand wie vom Interpreten her.
+
+Vorgang und Gestalt wirkten im Einzelnen, Episodischen, das Ganze zeigte sich starr, oft absurd, ja unmenschlich und war durch keine höhere Anschauung geläutert.
+
+Vom Neuen Testament brach bisweilen ein Strahl herüber wie Lichtschein durch eine verschlossene Tür, und Neugier mischte sich mit unbestimmtem Grauen.
+
+Jene ewigen Bilder und Mythen befruchteten meine Fantasie erst, als ich in ein privates, sozusagen psychologisches Verhältnis zu ihnen treten konnte,
+
+ein Prozess, der sie individualisierte, im Sinne der Aufklärung geistig machte, oder im Sinne der Romantik stofflich, je nachdem, in jedem Falle von der Religion ablöste.
+
+Um den Gottesdienst war es noch übler bestellt. Er war lediglich Betrieb, Versammlung ohne Weihe, geräuschvolle Übung eingefleischter Gebräuche ohne Symbolik, Drill.
+
+Der fortgeschrittene Teil der Gemeinde hatte eine moderne Synagoge gebaut, eines jener Häuser im quasi-byzantinischen Stil, wie man in den meisten deutschen Städten eines findet,
+
+und deren parvenühafte Prächtigkeit über die fehlende Gemütsmacht des religiösen Kultus nicht hinwegtäuschen kann.
+
+Mir war da alles hohler Lärm, Ertötung der Andacht, Missbrauch großer Worte, unbegründete Lamentation, unbegründet, weil im Widerspruch mit sichtbarem Wohlleben und herzhafter Weltlichkeit stehend; Überhebung, Pfafferei und Zelotismus.
+
+Die einzige Erquickung waren die deutschen Predigten eines sehr stattlichen blonden Rabbiners, den ich verehrte.
+
+Die Konservativen und Altgläubigen hielten ihren Dienst in den sogenannten Schulen ab, kleinen Gotteshäusern, oft nur Stuben in einer entlegenen Winkelgasse.
+
+Da sah man noch Köpfe und Gestalten, wie sie Rembrandt gezeichnet hat, fanatische Gesichter, Augen voll Askese und glühend im Gedächtnis unvergessener Verfolgungen.
+
+Auf ihren Lippen wurden die strengen Gebete, Anruf und Verfluchung, wirklich, die lastbeladenen Schultern sprachen von generationenalter Demut und Entbehrung,
+
+die ehrwürdigen Gebräuche wurden in entschlossener Hingabe buchstabentreu erfüllt, die Erwartung des Messias war ungebrochener, wenn auch dumpfer Glaube.
+
+Aufschwung war auch unter ihnen nicht, Trost oder Innigkeit, oder Glanz oder Menschlichkeit, oder Freude, aber Überzeugung und Leidenschaft war unerbittliche Regel und Gemeinschaft.
+
+In eine solche Schule musste ich nach dem Tode meiner Mutter, als neunjähriger Knabe, jeden Morgen mit Sonnenaufgang, jeden Abend mit Sonnenuntergang, am Sabbat und an Feiertagen auch nachmittags ein Jahr hindurch gehen,
+
+um als Erstgeborener vor der Gebetsgemeinde das Kaddisch zu sagen.
+
+Zehn männliche Personen über dreizehn Jahren mussten zu dem Zweck versammelt sein, doch waren es meist alte, uralte Leute, die Übriggebliebenen einer früheren Welt.
+
+Es war hart, an Wintermorgen bei Schnee und Kälte, im Sommer um fünf Uhr und früher noch, eine Pflicht zu üben, die aufgenötigt und befohlen war, deren Bedeutung ich nicht begriff oder begreifen mochte.
+
+Es gab sich niemand die Mühe, sie dem Geist zu verklären und so die Gefahr zu bannen, dass durch die Befolgung eines als grausam empfundenen Brauches das Bild der Mutter, obschon nur vorübergehend, getrübt wurde.
+
+Dazu kam, dass im väterlichen Hause, besonders nach der zweiten Verheiratung des Vaters, von einer religiösen Bindung und Erziehung nicht die Rede war.
+
+Gewisse äußerliche Vorschriften wurden eingehalten, mehr aus Rücksicht auf Ruf und Verwandte, aus Furcht und Gewöhnung, als aus Trieb und Zugehörigkeit.
+
+Fest- und Fasttage galten als heilig.
+
+Der Sabbat hatte noch einen Rest seines urtümlichen Gehalts, die Gesetze für die Küche wurden noch geachtet. Aber mit der wachsenden Schwere des Brotkampfes und dem Eindringen der neuen Zeit verloren sich auch diese Gebote einer von der Andersgläubigen unterschiedenen Führung.
+
+Man wagte die Fessel nicht ganz abzustreifen; man bekannte sich zu den Religionsgenossen, obwohl von Genossenschaft wie von Religion kaum noch Spuren geblieben waren.
+
+Genau betrachtet war man Jude nur dem Namen nach und durch die Feindseligkeit, Fremdheit oder Ablehnung der christlichen Umwelt, die sich ihrerseits hierzu auch nur auf ein Wort, auf Phrase, auf falschen Tatbestand stützte.
+
+Wozu war man also noch Jude, und was war der Sinn davon? Diese Frage wurde immer unabweisbarer für mich, und niemand konnte sie beantworten.
+
+Es war ein trübes Medium zwischen mir und allen geistigen und bürgerlichen Dingen. Bei jedem Schritt nach vorwärts stieß ich auf Hemmnisse und Verschleierungen, nach keiner Richtung hin war offener Weg.
+
+Wenn ich sagte, dass ich von Pferch und Helotentum nichts spürte, so bezieht sich das natürlich nur auf die rechtliche Konstruktion des Lebens, auf das individuelle Sicherheitsgefühl, innerhalb dessen sich das Tun und Lassen des einzelnen Menschen reguliert.
+
+Sind diese beiden Faktoren einmal gegeben und zugestanden, so wird von ungleich höherer Wichtigkeit für ihn die Frage, wie er sich zur Allgemeinheit verhält und wie die Allgemeinheit zu ihm.
+
+Daraus erwächst ihm die Erkenntnis seiner Lebensaufgabe und, je nach der Entscheidung, die Kraft zu ihrer Erfüllung. An diesem Punkt begann denn auch mein Leiden.
 
 Drei
 
-Der jüdische Gott war Schemen für mich, sowohl in seiner alttestamentarischen Gestalt, unversöhnlicher Zürner und Züchtiger, als auch in der opportunistisch abgeklärten der modernen Synagoge. Erschreckend sein Bild in den Köpfen der Strenggläubigen, nichtssagend in den Andeutungen der Halbrenegaten und Verlegenheitsbekenner.
+Der jüdische Gott war Schemen für mich, sowohl in seiner alttestamentarischen Gestalt, unversöhnlicher Zürner und Züchtiger, als auch in der opportunistisch abgeklärten der modernen Synagoge.
 
-Wenn meine kindlich-philosophischen Spekulationen den Gottesbegriff zu fassen versuchten, einsames Denken und später Gespräche mit einem Freund, entstand ein pantheistisches Wesen ohne Gesicht, ohne Charakter, ohne Tiefe, Resultat von Zeitphrasen, beschworen allein durch das Verlangen nach einer tragenden Idee. In dem Maß, wie diese Idee sich als unbefriedigend erwies, sei es durch ihre Mittelmäßigkeit, sei es durch ihre geahnte Verbrauchtheit, geriet ich in einen nicht minder billigen und flüssigen Atheismus, der der Epoche noch gemäßer war, dieser Zeit heilloser Verflachung und Verdünnung, die mit verstandener wie mit missverstandener Wissenschaft Idolatrie trieb und ihre ganze Gedankensphäre durch Bildung verfälschte.
+Erschreckend sein Bild in den Köpfen der Strenggläubigen, nichtssagend in den Andeutungen der Halbrenegaten und Verlegenheitsbekenner.
 
-Es war keine leitende Hand für mich da, kein Führer, kein Lehrer. Ich verlor mich in mannigfacher Hinsicht, auch indem ich nach Halt und Gewicht dort suchte, wo der wahrhafte Mensch ihrer entraten kann. Ich hatte mich in einer sowohl entseelten wie auch entsinnlichten Ordnung zurechtzufinden. Ein derartiger Zustand der Welt bedingt entweder die Zweckhaftigkeit bis in den kalten Rausch der Hirne hinein, oder die Fantasie gerät in überschwellende Bewegung, und das Gemüt verliert den Mittelpunkt. Wäre ich nicht als fragender Mensch in sehr frühen Jahren nachhaltig eingeschüchtert worden, so hätte ich Brücken und Übergänge finden können. Konventionen wären wichtig gewesen, leichte und respektierte Formen. Die Mutter war zu bald aus dem Kreis geschwunden, den Vater beraubten Tagesplage und Existenzangst immer mehr des Aufblicks. Er ertrug kaum die auf ihn gerichteten Augen seiner Kinder, denn der Umstand, dass die unablässige Plage ihm, ihm allein, wie er wähnte, keinen Erfolg brachte, erfüllte ihn mit Scham, und er sah immer aus wie vom bösen Gewissen gequält. Es war uns geradezu verboten zu fragen, und Übertretung wurde zuweilen streng geahndet. Daher auch wuchs inneres Unkraut ohne Schranke bei mir. Ich erinnere mich, dass ich in krankhafter Weise an Gespensterfurcht litt, an Menschenfurcht, an Dingfurcht, an Traumfurcht, dass in allem, was mich umgab, eine dunkle Bezauberungsmacht wirkte, stets unheilvoll, stets dem Verhängnis zugekehrt, stets darin bestärkt. Ich war oft in einem alten Hause Gast bei einem alten Ehepaare; der Mann war ein Gelehrter; im Zimmer stand ein Bücherschrank, hinter dessen Glastüre die Werke Spinozas in zahlreichen Ausgaben eigentümliche Verlockung auf mich ausübten. Als ich eines Tages die Frau bat, mir einen Band zu geben, sagte sie mit sibyllenhafter Düsterkeit, wer diese Bücher lese, werde wahnsinnig. Lange noch behielt der Name Spinoza in meinem Gedächtnis den Klang und Sinn dieser Worte. So ähnlich war es auch mit allem Frohen, Spielmäßigen, Festlichen, das zu mir wollte, zu dem ich wollte. Es wurde abgedrängt, verdächtigt, verfinstert. Lust durfte nicht sein.
+Wenn meine kindlich-philosophischen Spekulationen den Gottesbegriff zu fassen versuchten, einsames Denken und später Gespräche mit einem Freund, entstand ein pantheistisches Wesen ohne Gesicht, ohne Charakter, ohne Tiefe, Resultat von Zeitphrasen,
 
-Wir hatten in der Zeit nach dem Tode der Mutter eine treue Magd, die mich gern hatte. Des Abends kauerte sie gewöhnlich vor der Herdstelle und erzählte uns Geschichten. Ich entsinne mich, dass sie einmal, als ich ihr besonders ergriffen gelauscht hatte, mich in den Arm nahm und sagte: »Aus dir könnt’ ein guter Christ werden, du hast ein christliches Herz!« Ich entsinne mich auch, dass mir dieses Wort Schrecken erregte. Erstens, weil es eine stumme Verurteilung des Judeseins enthielt und damit Nahrung für bereits vorhandene Grübeleien wurde, zweitens, weil der Begriff Christ damals noch ein unheimlicher für mich war, halb atavistisch, halb lebensbang Brennpunkt feindlicher Elemente.
+beschworen allein durch das Verlangen nach einer tragenden Idee.
 
-In demselben Gefühl befangen ging ich an Kirchen vorbei, an Bildern des Gekreuzigten, an Kirchhöfen und christlichen Priestern. Uneingestandenen Anziehungen strebten ungewusste Bluterfahrungen entgegen. Dazu kam das erhorchte Wort eines Erwachsenen, Wort der Klage, der Kritik, der Verfemung, Ausdruck wiederkehrender typischer Erlebnisse, warnend und signalgebend in Redensarten wie im täglichen Geschehen. Von der andern Seite wieder genügte ein prüfender Blick, ein Achselzucken, ein geringschätziges Lächeln, abwartende Geste und Haltung sogar, um Vorsicht zu gebieten und an Unüberbrückbares zu mahnen.
+In dem Maß, wie diese Idee sich als unbefriedigend erwies, sei es durch ihre Mittelmäßigkeit, sei es durch ihre geahnte Verbrauchtheit, geriet ich in einen nicht minder billigen und flüssigen Atheismus, der der Epoche noch gemäßer war,
 
-Worin aber das Unüberbrückbare bestand, konnte ich nicht ergründen. Auch als ich später das Wesentliche daran erfasste, wies ich es für meine Person fürs erste zurück. In der Kindheit waren ich und meine Geschwister so verwirkt in das Alltagsleben der christlichen Handwerker- und Kleinbürgerwelt, dass wir dort unsere Gespielen hatten, unsere Gönner, Zuflucht in Stunden der Verlassenheit; in Wohnungen der Goldschläger, der Schreiner, der Schuster, der Bäcker gingen wir aus und ein, am Christfestabend durften wir zur Bescherung kommen und wurden mitbeschenkt. Aber Wachsamkeit und Fremdheit blieben. Ich war Gast, und sie feierten Feste, an denen ich keinen Teil hatte.
+dieser Zeit heilloser Verflachung und Verdünnung, die mit verstandener wie mit missverstandener Wissenschaft Idolatrie trieb und ihre ganze Gedankensphäre durch Bildung verfälschte.
 
-Nun war aber das Bestreben meiner Natur gerade darauf gerichtet, nicht Gast zu sein, nicht als Gast betrachtet zu werden. Als gerufener nicht, als aus Mitleid und Gutmütigkeit geduldeter noch weniger, als einer, der aufgenommen wird, weil man seine Art und Herkunft zu ignorieren sich entschließt, erst recht nicht. Angeboren war mir das Verlangen, in einer gewissen Fülle des mich umgebenden Menschlichen aufzugehen.
+Es war keine leitende Hand für mich da, kein Führer, kein Lehrer. Ich verlor mich in mannigfacher Hinsicht, auch indem ich nach Halt und Gewicht dort suchte, wo der wahrhafte Mensch ihrer entraten kann.
 
-Da aber dies Verlangen nicht nur nicht gestillt, sondern mit zunehmenden Jahren der Riss immer klaffender wurde zwischen meiner ungestümen Forderung und ihrer Gewährung, so hätte ich mich verlieren, schließlich mich selbst aufgeben müssen, wenn nicht zwei Phänomene rettend in mein Leben getreten wären: die Landschaft und das Wort.
+Ich hatte mich in einer sowohl entseelten wie auch entsinnlichten Ordnung zurechtzufinden.
+
+Ein derartiger Zustand der Welt bedingt entweder die Zweckhaftigkeit bis in den kalten Rausch der Hirne hinein, oder die Fantasie gerät in überschwellende Bewegung, und das Gemüt verliert den Mittelpunkt.
+
+Wäre ich nicht als fragender Mensch in sehr frühen Jahren nachhaltig eingeschüchtert worden, so hätte ich Brücken und Übergänge finden können. Konventionen wären wichtig gewesen, leichte und respektierte Formen.
+
+Die Mutter war zu bald aus dem Kreis geschwunden, den Vater beraubten Tagesplage und Existenzangst immer mehr des Aufblicks.
+
+Er ertrug kaum die auf ihn gerichteten Augen seiner Kinder, denn der Umstand, dass die unablässige Plage ihm, ihm allein, wie er wähnte, keinen Erfolg brachte, erfüllte ihn mit Scham, und er sah immer aus wie vom bösen Gewissen gequält.
+
+Es war uns geradezu verboten zu fragen, und Übertretung wurde zuweilen streng geahndet.
+
+Daher auch wuchs inneres Unkraut ohne Schranke bei mir.
+
+Ich erinnere mich, dass ich in krankhafter Weise an Gespensterfurcht litt, an Menschenfurcht, an Dingfurcht, an Traumfurcht, dass in allem, was mich umgab, eine dunkle Bezauberungsmacht wirkte, stets unheilvoll, stets dem Verhängnis zugekehrt, stets darin bestärkt.
+
+Ich war oft in einem alten Hause Gast bei einem alten Ehepaare; der Mann war ein Gelehrter; im Zimmer stand ein Bücherschrank, hinter dessen Glastüre die Werke Spinozas in zahlreichen Ausgaben eigentümliche Verlockung auf mich ausübten.
+
+Als ich eines Tages die Frau bat, mir einen Band zu geben, sagte sie mit sibyllenhafter Düsterkeit, wer diese Bücher lese, werde wahnsinnig. Lange noch behielt der Name Spinoza in meinem Gedächtnis den Klang und Sinn dieser Worte.
+
+So ähnlich war es auch mit allem Frohen, Spielmäßigen, Festlichen, das zu mir wollte, zu dem ich wollte. Es wurde abgedrängt, verdächtigt, verfinstert. Lust durfte nicht sein.
+
+Wir hatten in der Zeit nach dem Tode der Mutter eine treue Magd, die mich gern hatte. Des Abends kauerte sie gewöhnlich vor der Herdstelle und erzählte uns Geschichten.
+
+Ich entsinne mich, dass sie einmal, als ich ihr besonders ergriffen gelauscht hatte, mich in den Arm nahm und sagte: »Aus dir könnt’ ein guter Christ werden, du hast ein christliches Herz!« Ich entsinne mich auch, dass mir dieses Wort Schrecken erregte.
+
+Erstens, weil es eine stumme Verurteilung des Judeseins enthielt und damit Nahrung für bereits vorhandene Grübeleien wurde, zweitens, weil der Begriff Christ damals noch ein unheimlicher für mich war, halb atavistisch, halb lebensbang Brennpunkt feindlicher Elemente.
+
+In demselben Gefühl befangen ging ich an Kirchen vorbei, an Bildern des Gekreuzigten, an Kirchhöfen und christlichen Priestern.
+
+Uneingestandenen Anziehungen strebten ungewusste Bluterfahrungen entgegen. Dazu kam das erhorchte Wort eines Erwachsenen, Wort der Klage, der Kritik, der Verfemung, Ausdruck wiederkehrender typischer Erlebnisse, warnend und signalgebend in Redensarten wie im täglichen Geschehen.
+
+Von der andern Seite wieder genügte ein prüfender Blick, ein Achselzucken, ein geringschätziges Lächeln, abwartende Geste und Haltung sogar, um Vorsicht zu gebieten und an Unüberbrückbares zu mahnen.
+
+Worin aber das Unüberbrückbare bestand, konnte ich nicht ergründen. Auch als ich später das Wesentliche daran erfasste, wies ich es für meine Person fürs erste zurück.
+
+In der Kindheit waren ich und meine Geschwister so verwirkt in das Alltagsleben der christlichen Handwerker- und Kleinbürgerwelt, dass wir dort unsere Gespielen hatten,
+
+unsere Gönner, Zuflucht in Stunden der Verlassenheit; in Wohnungen der Goldschläger, der Schreiner, der Schuster, der Bäcker gingen wir aus und ein, am Christfestabend durften wir zur Bescherung kommen und wurden mitbeschenkt.
+
+Aber Wachsamkeit und Fremdheit blieben. Ich war Gast, und sie feierten Feste, an denen ich keinen Teil hatte.
+
+Nun war aber das Bestreben meiner Natur gerade darauf gerichtet, nicht Gast zu sein, nicht als Gast betrachtet zu werden.
+
+Als gerufener nicht, als aus Mitleid und Gutmütigkeit geduldeter noch weniger, als einer, der aufgenommen wird, weil man seine Art und Herkunft zu ignorieren sich entschließt, erst recht nicht.
+
+Angeboren war mir das Verlangen, in einer gewissen Fülle des mich umgebenden Menschlichen aufzugehen.
+
+Da aber dies Verlangen nicht nur nicht gestillt, sondern mit zunehmenden Jahren der Riss immer klaffender wurde zwischen meiner ungestümen Forderung und ihrer Gewährung, so hätte ich mich verlieren,
+
+schließlich mich selbst aufgeben müssen, wenn nicht zwei Phänomene rettend in mein Leben getreten wären: die Landschaft und das Wort.
 
 Vier
 
-Erstickend in ihrer Engigkeit und Öde die gartenlose Stadt, Stadt des Rußes, der tausend Schlöte, des Maschinen- und Hämmergestampfes, der Bierwirtschaften, der verbissenen Betriebs- und Erwerbsgier, des Dichtbeieinander kleiner und kleinlicher Leute, der Luft der Armut und Lieblosigkeit im väterlichen Haus.
+Erstickend in ihrer Engigkeit und Öde die gartenlose Stadt, Stadt des Rußes, der tausend Schlöte, des Maschinen- und Hämmergestampfes, der Bierwirtschaften, der verbissenen Betriebs- und Erwerbsgier,
+
+des Dichtbeieinander kleiner und kleinlicher Leute, der Luft der Armut und Lieblosigkeit im väterlichen Haus.
 
 Im Umkreis dürre Sandebene, schmutzige Fabrikwässer, der trübe, träge Fluss, der geradlinige Kanal, schüttere Wälder, triste Dörfer, hässliche Steinbrüche, Staub, Lehm, Ginster.
 
-Eine Wegstunde nach Osten: Nürnberg, Denkmal großer Geschichte. Mit uralten Häusern, Höfen, Gassen, Domen, Brücken, Brunnen und Mauern, für mich dennoch nie Kulisse oder Gepränge, oder leerer, romantischer Schauplatz, sondern durch vielfache Beziehung in das persönliche Schicksal verflochten, in der Kindheit schon und später gewichtiger noch.
+Eine Wegstunde nach Osten: Nürnberg, Denkmal großer Geschichte.
 
-Wenige Bahnfahrtstunden nach Süden: das hügelige Franken, Tal der Altmühl, wo ich in Gunzenhausen bei Ansbach alle Ferien bei der Schwester meiner Mutter verbringen durfte, alle Sommerwochen des Jahres, oft auch herbst- und winterliche. Die Landschaft von zarter Linienführung, mit Wäldern, die gehegtes inneres Bild nicht so beschämten wie jene anderen; Blumengärten, Obstgärten, Weiher, verlassene Schlösser, umsponnene Ruinen, dörfliche Kirmessen, einfache Menschen. Es ergab sich freie Wechselbeziehung zu Tier und Pflanze; Wasser, Gras und Baum wurden mir wesenhaft vertraut; und so der Bauer, der Händler, der Wirt, der Landstreicher, der Jäger, der Förster, der Amtmann, der Türmer, der Soldat. Hier sah ich sie in reinen Verhältnissen zu ihrer Welt, die auch die meine war, wenigstens nie mich ausstieß. Ich konnte ein Entgegenkommen wagen, weil das organisch Gestimmte und Gestufte arglos macht. Ich lebte gewissermaßen in zwei abgetrennten Kontinenten, mit der Gabe, im lichteren zu vergessen, was mich der finstere hatte erfahren lassen. Dort sozial angeschmiedet, sozial erinnert, an die Kaste gepresst, Parteiung erkennend, Unbill wissend, im Hässlichen verwoben oder in Altes, Uraltes, Ahnenhaftes, krampfig, scheu, isoliert, meidend und oft gemieden; hier der Natur gegeben, in freundlicher Nähe zu ihr, durch ihren Einfluss, wenn auch immer nur vorübergehend, losgesprochen von nicht abzuwälzender Schuld und Anklagebürde, die sonst lähmend, ja zermalmend hätte wirken müssen.
+Mit uralten Häusern, Höfen, Gassen, Domen, Brücken, Brunnen und Mauern, für mich dennoch nie Kulisse oder Gepränge, oder leerer, romantischer Schauplatz, sondern durch vielfache Beziehung in das persönliche Schicksal verflochten, in der Kindheit schon und später gewichtiger noch.
 
-Über diese beiden Erlebnisgebiete hinaus, als Drittes dann die innere Landschaft, die die Seele aus ihrem Zustand vor der Geburt mit in die Welt bringt, die das Wesen und die Farbe des Traumes bestimmt, des Traumes in der weitesten Bedeutung, wie überhaupt die heimlichen und unbewussten Richtwege des Geistes, die sein Klima sind, seine eigentliche Heimat. Nicht etwa nur Fantasiegestaltung von Meer und Gebirge, Höhle, Park, Urwald, das paradiesisch Ideale der unreifen Sehnsucht, der Aus- und Zuflucht alles Ungenügens an der Gegenwart ist unter der inneren Landschaft zu verstehen, vielmehr ist sie der Kristall des wahren Lebens selbst, der Ort, wo seine Gesetze diktiert werden, und wo sein wirkliches Schicksal erzeugt wird, von dem das in der sogenannten Wirklichkeit sich abspielende vielleicht bloß Spiegelung ist.
+Wenige Bahnfahrtstunden nach Süden: das hügelige Franken, Tal der Altmühl, wo ich in Gunzenhausen bei Ansbach alle Ferien bei der Schwester meiner Mutter verbringen durfte, alle Sommerwochen des Jahres, oft auch herbst- und winterliche.
 
-In diesem Punkt sich auf Erfahrungen zu berufen, ohne zu flunkern oder zu dichten, ist fast unmöglich. Es handelt sich um Gefühlsintensitäten und um Bilder von unfassbarer Flüchtigkeit. Beinahe alles zu Äußernde muss sich auf ein »ich glaube« beschränken. Man tastet hin, man ahnt zurück; jede Erinnerung ist ja ein Stück Konstruktion. Es scheint mir zweifellos, dass alle innere Landschaft atavistische Bestandteile enthält, und ebenso zweifellos dünkt mich, dass sie bei den meisten Menschen zu einem gewissen Zeitpunkt zwischen der Pubertät und dem Eintritt in das sogenannte praktische Leben verwelkt, verdorrt, schließlich abstirbt und untergeht.
+Die Landschaft von zarter Linienführung, mit Wäldern, die gehegtes inneres Bild nicht so beschämten wie jene anderen; Blumengärten, Obstgärten, Weiher, verlassene Schlösser, umsponnene Ruinen, dörfliche Kirmessen, einfache Menschen.
 
-Ich war sehr naiv in meiner Abhängigkeit von Traum und Vision. Vision darf ich es wohl nennen, da sich mir unerlebte Zustände, unwahrnehmbare Dinge und Figuren in Greifbarkeit zeigten. Im Alter zwischen zehn und zwanzig Jahren lebte ich in beständigem Rausch, in einer Fernheit oft, die den Mitmirgehenden und -seienden bisweilen nur eine empfindungslose Hülle ließ. Es ist mir später berichtet worden, dass man mich anschreien musste, um mich als Wachenden zu wecken. Ich hatte Anfälle von Verzückung, von wilder, stiller Verlorenheit, und in der Regel war die Abtrennung so gewaltsam und jäh, dass die Verbindungen rissen, und dass ich wie gespalten blieb, auch ohne Wissen, was dort mit mir geschehen war. In beiden Sphären lebte ich mit geschärfter Aufmerksamkeit, wie überhaupt Aufmerksamkeit ein Grundzug meines Wesens ist, aber es waren keine Brücken da; ich konnte hier völlig nüchtern, dort völlig außer mir sein, auch umgekehrt, und es fehlte dabei alle Mitteilung, alle Botschaft. Das erhielt mich in einer außerordentlichen, mich quälenden und erregenden, für die Menschen um mich meist unverständlichen Spannung. Staunen und Verzweiflung waren die Gemütsbewegungen, die mich vornehmlich beherrschten; Staunen über Gesehenes, Geschautes, Empfundenes; Verzweiflung darüber, dass es nicht mitteilbar war. Vermutlich war meine Verfassung die: ich wusste, dass Unerhörtes oder Merkwürdiges mit mir, an mir, in mir geschah, war aber durchaus nicht imstande, mir oder anderen davon Rechenschaft zu geben. Ich war gewissermaßen ein Moses, der vom Berge Sinai kommt, aber vergessen hat, was er dort erblickt, und was Gott mit ihm geredet hat. Noch heute wüsste ich nicht im geringsten zu sagen, worin eigentlich dies Verborgene, verborgen Flammende, geheimnisvoll Jenseitige bestanden hat; ich muss es für ewig unerforschbar halten, trotzdem es mir lockend erscheint, einiges davon zu ergründen; es müsste dann auch zu ergründen sein, was zu den Ahnen gehört und was zur Erde, was vom Blute kam und was vom Auge, und aus welcher Tiefe das Individuum in den ihm gewiesenen Kreis emporwächst.
+Es ergab sich freie Wechselbeziehung zu Tier und Pflanze; Wasser, Gras und Baum wurden mir wesenhaft vertraut; und so der Bauer, der Händler, der Wirt, der Landstreicher, der Jäger, der Förster, der Amtmann, der Türmer, der Soldat.
 
-Mit der Darstellung dieser Kämpfe und Exaltationen ist ein Verhältnis zum Wort bereits angedeutet und seine Entstehung aus der Not und Notwendigkeit heraus zu erklären. Und wie sehr das Wort Surrogat und Behelf ist, erweist sich in meinem Fall nicht minder offensichtlich, da doch das Ding und Sein, worauf es sich bezog, unbekannt geworden und hinter nicht zu entriegelnder Pforte lag. Ich glaube, dass alle Schöpfung von Bild und Form auf einen solchen Prozess zurückzuführen ist. Ich glaube, dass alle Produktion im Grunde der Versuch einer Reproduktion ist, Annäherung an Geschautes, Gehörtes, Gefühltes, das durch einen jenseitigen Trakt des Bewusstseins gegangen ist und in Stücken, Trümmern und Fragmenten ausgegraben werden muss. Ich wenigstens habe mein Geschaffenes zeitlebens nie als etwas anderes betrachtet, das sogenannte Schaffen selbst nie anders als das ununterbrochene schmerzliche Bemühen eines manischen Schatzgräbers.
+Hier sah ich sie in reinen Verhältnissen zu ihrer Welt, die auch die meine war, wenigstens nie mich ausstieß.
 
-Doch: Kunde zu geben, davon hing für mich alles ab, schon im frühesten Alter. Obgleich die entschwundenen Gesichte mich stumm, geblendet und mit Vergessen geschlagen in die niedrige Wirklichkeit verstießen, wollte ich doch Kunde geben, denn trotz ihrer Ungreifbarkeit war ich bis zum Rande von ihnen gefüllt. Bereits als Knabe von sieben oder acht Jahren geriet ich zuzeiten, meine gewohnte Scheu und Schweigsamkeit überwindend, in zusammenhangloses Erzählen, das von Angehörigen, von Hausgenossen und Mitschülern als halb gefährliches, halb lächerliches Lügenwesen aufgenommen und dem mit Zurechtweisung, Spott und Züchtigung begegnet wurde. An Winterabenden halfen wir Kinder oft der Mutter beim Linsenlesen, und es kam vor, dass ich dabei plötzlich zu fantasieren anfing, in den Linsenhaufen hinein Schrecken, Unbill und Abenteuer dichtete, Gespenstergraus und Wunder, harmlose Nachbarn als Zeugen sonderbarer Begegnungen anführte, mir selbst die höchsten Ehren, höchsten Ruhm prophezeite. Die Mutter, ihre Arbeit ruhen lassend, schaute mich ängstlich verwundert an, ein Blick, der mich noch trotziger in das unsinnig Verworrene trieb. Nicht selten nahm sie mich beiseite und beschwor mich mit Tränen, dass ich nicht der Schlechtigkeit verfallen möge.
+Ich konnte ein Entgegenkommen wagen, weil das organisch Gestimmte und Gestufte arglos macht. Ich lebte gewissermaßen in zwei abgetrennten Kontinenten, mit der Gabe, im lichteren zu vergessen, was mich der finstere hatte erfahren lassen.
+
+Dort sozial angeschmiedet, sozial erinnert, an die Kaste gepresst, Parteiung erkennend, Unbill wissend, im Hässlichen verwoben oder in Altes, Uraltes, Ahnenhaftes, krampfig, scheu, isoliert, meidend und oft gemieden; hier der Natur gegeben,
+
+in freundlicher Nähe zu ihr, durch ihren Einfluss, wenn auch immer nur vorübergehend, losgesprochen von nicht abzuwälzender Schuld und Anklagebürde, die sonst lähmend, ja zermalmend hätte wirken müssen.
+
+Über diese beiden Erlebnisgebiete hinaus, als Drittes dann die innere Landschaft, die die Seele aus ihrem Zustand vor der Geburt mit in die Welt bringt, die das Wesen und die Farbe des Traumes bestimmt,
+
+des Traumes in der weitesten Bedeutung, wie überhaupt die heimlichen und unbewussten Richtwege des Geistes, die sein Klima sind, seine eigentliche Heimat.
+
+Nicht etwa nur Fantasiegestaltung von Meer und Gebirge, Höhle, Park, Urwald, das paradiesisch Ideale der unreifen Sehnsucht, der Aus- und Zuflucht alles Ungenügens an der Gegenwart ist unter der inneren Landschaft zu verstehen,
+
+vielmehr ist sie der Kristall des wahren Lebens selbst, der Ort, wo seine Gesetze diktiert werden, und wo sein wirkliches Schicksal erzeugt wird, von dem das in der sogenannten Wirklichkeit sich abspielende vielleicht bloß Spiegelung ist.
+
+In diesem Punkt sich auf Erfahrungen zu berufen, ohne zu flunkern oder zu dichten, ist fast unmöglich. Es handelt sich um Gefühlsintensitäten und um Bilder von unfassbarer Flüchtigkeit. Beinahe alles zu Äußernde muss sich auf ein »ich glaube« beschränken.
+
+Man tastet hin, man ahnt zurück; jede Erinnerung ist ja ein Stück Konstruktion.
+
+Es scheint mir zweifellos, dass alle innere Landschaft atavistische Bestandteile enthält,
+
+und ebenso zweifellos dünkt mich, dass sie bei den meisten Menschen zu einem gewissen Zeitpunkt zwischen der Pubertät und dem Eintritt in das sogenannte praktische Leben verwelkt, verdorrt, schließlich abstirbt und untergeht.
+
+Ich war sehr naiv in meiner Abhängigkeit von Traum und Vision. Vision darf ich es wohl nennen, da sich mir unerlebte Zustände, unwahrnehmbare Dinge und Figuren in Greifbarkeit zeigten.
+
+Im Alter zwischen zehn und zwanzig Jahren lebte ich in beständigem Rausch, in einer Fernheit oft, die den Mitmirgehenden und -seienden bisweilen nur eine empfindungslose Hülle ließ.
+
+Es ist mir später berichtet worden, dass man mich anschreien musste, um mich als Wachenden zu wecken.
+
+Ich hatte Anfälle von Verzückung, von wilder, stiller Verlorenheit, und in der Regel war die Abtrennung so gewaltsam und jäh, dass die Verbindungen rissen, und dass ich wie gespalten blieb, auch ohne Wissen, was dort mit mir geschehen war.
+
+In beiden Sphären lebte ich mit geschärfter Aufmerksamkeit, wie überhaupt Aufmerksamkeit ein Grundzug meines Wesens ist, aber es waren keine Brücken da;
+
+ich konnte hier völlig nüchtern, dort völlig außer mir sein, auch umgekehrt, und es fehlte dabei alle Mitteilung, alle Botschaft.
+
+Das erhielt mich in einer außerordentlichen, mich quälenden und erregenden, für die Menschen um mich meist unverständlichen Spannung.
+
+Staunen und Verzweiflung waren die Gemütsbewegungen, die mich vornehmlich beherrschten; Staunen über Gesehenes, Geschautes, Empfundenes; Verzweiflung darüber, dass es nicht mitteilbar war.
+
+Vermutlich war meine Verfassung die: ich wusste, dass Unerhörtes oder Merkwürdiges mit mir, an mir, in mir geschah, war aber durchaus nicht imstande, mir oder anderen davon Rechenschaft zu geben.
+
+Ich war gewissermaßen ein Moses, der vom Berge Sinai kommt, aber vergessen hat, was er dort erblickt, und was Gott mit ihm geredet hat.
+
+Noch heute wüsste ich nicht im geringsten zu sagen, worin eigentlich dies Verborgene, verborgen Flammende, geheimnisvoll Jenseitige bestanden hat; ich muss es für ewig unerforschbar halten, trotzdem es mir lockend erscheint, einiges davon zu ergründen;
+
+es müsste dann auch zu ergründen sein, was zu den Ahnen gehört und was zur Erde, was vom Blute kam und was vom Auge, und aus welcher Tiefe das Individuum in den ihm gewiesenen Kreis emporwächst.
+
+Mit der Darstellung dieser Kämpfe und Exaltationen ist ein Verhältnis zum Wort bereits angedeutet und seine Entstehung aus der Not und Notwendigkeit heraus zu erklären.
+
+Und wie sehr das Wort Surrogat und Behelf ist, erweist sich in meinem Fall nicht minder offensichtlich, da doch das Ding und Sein, worauf es sich bezog, unbekannt geworden und hinter nicht zu entriegelnder Pforte lag.
+
+Ich glaube, dass alle Schöpfung von Bild und Form auf einen solchen Prozess zurückzuführen ist.
+
+Ich glaube, dass alle Produktion im Grunde der Versuch einer Reproduktion ist, Annäherung an Geschautes, Gehörtes, Gefühltes, das durch einen jenseitigen Trakt des Bewusstseins gegangen ist und in Stücken, Trümmern und Fragmenten ausgegraben werden muss.
+
+Ich wenigstens habe mein Geschaffenes zeitlebens nie als etwas anderes betrachtet, das sogenannte Schaffen selbst nie anders als das ununterbrochene schmerzliche Bemühen eines manischen Schatzgräbers.
+
+Doch: Kunde zu geben, davon hing für mich alles ab, schon im frühesten Alter.
+
+Obgleich die entschwundenen Gesichte mich stumm, geblendet und mit Vergessen geschlagen in die niedrige Wirklichkeit verstießen, wollte ich doch Kunde geben, denn trotz ihrer Ungreifbarkeit war ich bis zum Rande von ihnen gefüllt.
+
+Bereits als Knabe von sieben oder acht Jahren geriet ich zuzeiten, meine gewohnte Scheu und Schweigsamkeit überwindend, in zusammenhangloses Erzählen, das von Angehörigen, von Hausgenossen und Mitschülern als halb gefährliches,
+
+halb lächerliches Lügenwesen aufgenommen und dem mit Zurechtweisung, Spott und Züchtigung begegnet wurde.
+
+An Winterabenden halfen wir Kinder oft der Mutter beim Linsenlesen, und es kam vor, dass ich dabei plötzlich zu fantasieren anfing,
+
+in den Linsenhaufen hinein Schrecken, Unbill und Abenteuer dichtete, Gespenstergraus und Wunder, harmlose Nachbarn als Zeugen sonderbarer Begegnungen anführte, mir selbst die höchsten Ehren, höchsten Ruhm prophezeite.
+
+Die Mutter, ihre Arbeit ruhen lassend, schaute mich ängstlich verwundert an, ein Blick, der mich noch trotziger in das unsinnig Verworrene trieb. Nicht selten nahm sie mich beiseite und beschwor mich mit Tränen, dass ich nicht der Schlechtigkeit verfallen möge.
 
 Wie ich aber aus eigenem Antrieb und wiederum durch eine Not zum Erzähler von Geschichten mit handelnden Figuren und geschlossener Fabel wurde, muss ich festhalten, weil es weit über den kindlichen Bezirk hinaus auf meinen Weg, auf meine Wurzeln wies.
 
-Die zweite Frau meines Vaters war uns Kindern aus erster Ehe nicht wohlgesinnt und ließ uns ihre Abneigung auf jede Weise spüren. Abgesehen von ungerechten und überharten Züchtigungen, steten Klagen, die sie vor dem Vater führte, schränkte sie die Nahrung aufs äußerste ein, versah die Brotlaibe mit Zeichen, so dass sie erkennen konnte, wenn einer von uns sich zu Unrecht ein Stück abgeschnitten hatte, und trug Sorge, dass das Vergehen schwer bestraft wurde. Freilich hatte sie Mühe, mit dem ihr zugeteilten Gelde zu wirtschaften, so wie mein Vater Mühe hatte, es aufzubringen; desungeachtet glaube ich, dass die Kinder von Bettlern es in dieser Hinsicht besser hatten. Als nun mein Onkel, der Bruder meiner Mutter, ein wohlhabender Mann, der in Wien als Fabrikant lebte, erfuhr, wie übel es uns erging, deponierte er bei einem Bekannten in der Stadt eine gewisse Summe für die Bestreitung dringender Auslagen, und ich als Ältester erhielt wöchentlich eine Mark mit der Erlaubnis, dafür Esswaren für mich und meine Geschwister zu kaufen. Es war eine bedeutende Summe in meinen Augen, und da es zu gefährlich war, das Geld bei mir zu tragen, war ich bemüht, ein Versteck ausfindig zu machen. Mein Bruder nun, der um fünf Jahre jünger war als ich, also ungefähr sechs, hatte keinen andern Gedanken, als dieses Versteck zu erspähen, denn er war unzufrieden mit der Verteilung, misstraute mir, verlangte bei jedem Anlass mehr, als ich ihm bewilligte, und bestand darauf, dass ich ihm zeige, wieviel ich besaß. War der Zank einmal im Gang, so artete er gewöhnlich bis zu Drohungen aus, und ich musste täglich gewärtig sein, dass der gierige Rebell mich bei der Stiefmutter denunzierte, eine Verräterei, deren Folgen ich mehr als alles fürchtete. Insofern war mein Bruder im Recht, als ich nicht den ganzen, mir zugewiesenen Betrag für Brot, Obst, Wurst und Käse ausgab, sondern mir außerdem noch billige Bücher anschaffte, die ich heimlich und hastig verschlang. Mein Bruder und ich schliefen in einer Art Verschlag in demselben Bett, und in meiner Bedrängnis verfiel ich nun auf den Ausweg, ihm vor dem Einschlafen Geschichten zu erzählen. Wider Erwarten fand ich an ihm den aufmerksamsten Zuhörer, und ich nützte den Vorteil aus, indem ich jeden Abend meine Geschichte an der spannendsten Stelle abbrach. Zeigte er sich dann während des folgenden Tages ungebärdig, so hatte ich meinerseits eine wirksame Waffe und Drohung: ich erklärte einfach, dass ich die Geschichte nicht weitererzählen würde. Je verwickelter, spannender, aufregender die von mir ersonnene Begebenheit war, je erpichter war er natürlich, die jedesmalige Fortsetzung zu hören, und ebenso natürlich musste ich, um ihn im Zaum zu halten und nach meinem Willen lenken zu können, alle Geistes- und Kombinationskraft zu Hilfe rufen. Es war keineswegs leicht; ich hatte einen unerbittlichen Forderer, und ich durfte nicht langweilig und nicht flüchtig werden. So erzählte ich wochen- ja monatelang an einer einzigen Geschichte, im Finstern, mit leiser Stimme, bis wir beide müde waren, und bis ich im Durcheinanderwirbeln der Figuren zu der Situation gelangt war, von der ich selbst noch nicht wusste, wie sie zu lösen sei, die aber den atemlosen Lauscher wieder für vierundzwanzig Stunden in meine Gewalt gab.
+Die zweite Frau meines Vaters war uns Kindern aus erster Ehe nicht wohlgesinnt und ließ uns ihre Abneigung auf jede Weise spüren.
 
-Ich sagte, dass mich dies auf den Weg und auf die Wurzeln wies. Auf den Weg, weil ich die wichtige Erfahrung machte, dass ein Mensch zu binden ist, zu »fesseln«, wie der verbrauchte Tropus lautet, indem man sich seiner Einbildungskraft bemächtigt, dass man ihn sogar vom Schlechten abbringen kann, wenn man seine Sinne auf unwirkliche, aber eine Wirklichkeit vortäuschende Begebenheiten und Schicksalsverkettungen richtet; dass man Freude, Furcht, Überraschung, Rührung, Lächeln und Lachen in ihm zu erregen vermag, und zwar um so stärker, je freier das Spiel, je absichtsloser und je mehr vom Zweck befreit die Täuschung ist. Der beständige Augenschein aller Wirkung hielt mich selbst in Atem, weckte meinen Ehrgeiz, zwang mich zu immer neuen Erfindungen und zur Vervollkommnung meiner Mittel.
+Abgesehen von ungerechten und überharten Züchtigungen, steten Klagen, die sie vor dem Vater führte, schränkte sie die Nahrung aufs äußerste ein, versah die Brotlaibe mit Zeichen, so dass sie erkennen konnte, wenn einer von uns sich zu Unrecht ein Stück abgeschnitten hatte,
 
-Auf die Wurzeln: es lag mir sicherlich als ein orientalischer Trieb im Blute. Es war das Verfahren der Schehrasade ins Kleinbürgerliche übertragen; schlummernder Keim, befruchtet durch Zufall und Gefahr. Schehrasade erzählt, um ihr Leben zu retten, und während sie erzählt, wird sie zum Genius der Erzählung schlechthin; ich – nun, um mein Leben ging es nicht, aber das Fieber des Fabulierens ergriff auch mich ganz und gar und bestimmte Denken und Sein.
+und trug Sorge, dass das Vergehen schwer bestraft wurde.
 
-Es dauerte nicht lange, bis es mir Bedürfnis wurde, die eine oder andere der nächtlich erzählten Geschichten aufzuschreiben. Dies musste in größter Heimlichkeit geschehen, und es begann damit schon der Kampf. Dass mein Treiben allmählich ruchbar wurde, war nicht zu verhindern; die Stiefmutter sah die pure Tagedieberei darin und warf alle beschriebenen Blätter, deren sie habhaft werden konnte, ins Feuer; Verwandte, Lehrer, Kameraden stellten sich feindselig dagegen, beinahe derart, als ob ich sie durch mein Unterfangen geradezu beleidigt hätte, und der zum erstenmal bekundete Vorsatz, mich dem Schriftstellerberuf zu widmen, rief bei den Bekannten Gelächter, beim Vater den heftigsten Unwillen hervor.
+Freilich hatte sie Mühe, mit dem ihr zugeteilten Gelde zu wirtschaften, so wie mein Vater Mühe hatte, es aufzubringen; desungeachtet glaube ich, dass die Kinder von Bettlern es in dieser Hinsicht besser hatten.
 
-Die Sache war die, dass ich dem Onkel, jenem Bruder meiner Mutter, der in kinderloser Ehe lebte, gleichsam versprochen war. Darauf hatte mein Vater seine ganze Hoffnung gesetzt; was ihm fehlgeschlagen war, sollte mir gelingen: reich zu werden; mich in einer großen Laufbahn als Nachfolger des bewunderten Schwagers zu sehen, war seine Lieblingsvorstellung. Meine abgeirrte Neigung zu unterdrücken, ließ er deshalb nichts unversucht.
+Als nun mein Onkel, der Bruder meiner Mutter, ein wohlhabender Mann, der in Wien als Fabrikant lebte, erfuhr, wie übel es uns erging, deponierte er bei einem Bekannten in der Stadt eine gewisse Summe für die Bestreitung dringender Auslagen,
 
-Damals war literarische Bildung und literarischer Zuschnitt in der bürgerlichen Gesellschaft weder so häufig noch so erstrebt wie heute, und das hatte sein Gutes. Seit die Kunst aufgehört hat, das seltene und kostbare Vergnügen weniger Erlesener zu sein, ist sie für die Vielen Luxus, Ausrede und Gemeinplatz geworden, schließlich Betrieb, wie jeder andere. Keiner will mehr hören und empfangen, alle wollen selber reden und selber den Geber spielen.
+und ich als Ältester erhielt wöchentlich eine Mark mit der Erlaubnis, dafür Esswaren für mich und meine Geschwister zu kaufen.
 
-In meinem fünfzehnten Jahr hatte ich einen Roman geschrieben, ein unsäglich dürftiges und abgeschmacktes Ding, und das Manuskript trug ich eines Tages in die Redaktion des Tageblattes. Ein dicker Redakteur saß verschlafen am Schreibtisch und musterte mich erstaunt, als ich mein Anliegen vorbrachte. Kurz darauf erschien der Anfang des Elaborats unter meinem Namen, gespickt mit Druckfehlern, in der Unterhaltungsbeilage der Zeitung. Ich weiß es noch, es war ein Winterabend, wie mein Vater nach dem Essen das Blatt zur Hand nahm, das ich so aufgefaltet neben seinen Teller gelegt hatte, dass sein Blick auf mein Produkt fallen musste, wie ich klopfenden Herzens wartete. Ich sehe noch, wie der versorgte, müde Ausdruck seines Gesichtes sich jäh veränderte, wie in seinen Augen zuerst ein Aufblitzen von Stolz war, das aber bald dem Zorn, der Angst, der Ratlosigkeit wich.
+Es war eine bedeutende Summe in meinen Augen, und da es zu gefährlich war, das Geld bei mir zu tragen, war ich bemüht, ein Versteck ausfindig zu machen.
 
-Es gab schlimme Szenen, Vorwürfe, Drohungen, Beschimpfungen, Hohn. Auch in der Schule wurde ich zur Rechenschaft verhalten, vor den Rektor zitiert und wegen verbotener Publikation zu zwölfstündigem Karzer verurteilt. Der Vater aber wurde mein unerbittlicher Verfolger, und die Frau war seine getreue Spionin, so dass ich keine ruhige Arbeitsstunde mehr fand und des Nachts bisweilen bei Mondschein das Bett verließ und am Fenster, in einem leidenschaftlichen inneren Zustand, Blatt um Blatt vollschrieb. In einer solchen Nacht brach in der hofseitig gelegenen Fabrik meines Vaters Feuer aus. Ich bemerkte die Flamme zuerst, schlug Lärm, und als ich den Vater mit entsetzten Mienen, halb angekleidet, die Stiegen hinuntereilen sah, bildete ich mir ein, er werde durch dieses Unglück für seine Härte gegen mich bestraft.
+Mein Bruder nun, der um fünf Jahre jünger war als ich, also ungefähr sechs, hatte keinen andern Gedanken, als dieses Versteck zu erspähen, denn er war unzufrieden mit der Verteilung,
+
+misstraute mir, verlangte bei jedem Anlass mehr, als ich ihm bewilligte, und bestand darauf, dass ich ihm zeige, wieviel ich besaß.
+
+War der Zank einmal im Gang, so artete er gewöhnlich bis zu Drohungen aus, und ich musste täglich gewärtig sein, dass der gierige Rebell mich bei der Stiefmutter denunzierte, eine Verräterei, deren Folgen ich mehr als alles fürchtete.
+
+Insofern war mein Bruder im Recht, als ich nicht den ganzen, mir zugewiesenen Betrag für Brot, Obst, Wurst und Käse ausgab, sondern mir außerdem noch billige Bücher anschaffte, die ich heimlich und hastig verschlang.
+
+Mein Bruder und ich schliefen in einer Art Verschlag in demselben Bett, und in meiner Bedrängnis verfiel ich nun auf den Ausweg, ihm vor dem Einschlafen Geschichten zu erzählen.
+
+Wider Erwarten fand ich an ihm den aufmerksamsten Zuhörer, und ich nützte den Vorteil aus, indem ich jeden Abend meine Geschichte an der spannendsten Stelle abbrach.
+
+Zeigte er sich dann während des folgenden Tages ungebärdig, so hatte ich meinerseits eine wirksame Waffe und Drohung: ich erklärte einfach, dass ich die Geschichte nicht weitererzählen würde.
+
+Je verwickelter, spannender, aufregender die von mir ersonnene Begebenheit war,
+
+je erpichter war er natürlich, die jedesmalige Fortsetzung zu hören, und ebenso natürlich musste ich, um ihn im Zaum zu halten und nach meinem Willen lenken zu können, alle Geistes- und Kombinationskraft zu Hilfe rufen.
+
+Es war keineswegs leicht; ich hatte einen unerbittlichen Forderer, und ich durfte nicht langweilig und nicht flüchtig werden.
+
+So erzählte ich wochen- ja monatelang an einer einzigen Geschichte, im Finstern, mit leiser Stimme, bis wir beide müde waren, und bis ich im Durcheinanderwirbeln der Figuren zu der Situation gelangt war, von der ich selbst noch nicht wusste, wie sie zu lösen sei,
+
+die aber den atemlosen Lauscher wieder für vierundzwanzig Stunden in meine Gewalt gab.
+
+Ich sagte, dass mich dies auf den Weg und auf die Wurzeln wies.
+
+Auf den Weg, weil ich die wichtige Erfahrung machte, dass ein Mensch zu binden ist, zu »fesseln«, wie der verbrauchte Tropus lautet, indem man sich seiner Einbildungskraft bemächtigt,
+
+dass man ihn sogar vom Schlechten abbringen kann, wenn man seine Sinne auf unwirkliche, aber eine Wirklichkeit vortäuschende Begebenheiten und Schicksalsverkettungen richtet;
+
+dass man Freude, Furcht, Überraschung, Rührung, Lächeln und Lachen in ihm zu erregen vermag, und zwar um so stärker, je freier das Spiel, je absichtsloser und je mehr vom Zweck befreit die Täuschung ist.
+
+Der beständige Augenschein aller Wirkung hielt mich selbst in Atem, weckte meinen Ehrgeiz, zwang mich zu immer neuen Erfindungen und zur Vervollkommnung meiner Mittel.
+
+Auf die Wurzeln: es lag mir sicherlich als ein orientalischer Trieb im Blute.
+
+Es war das Verfahren der Schehrasade ins Kleinbürgerliche übertragen; schlummernder Keim, befruchtet durch Zufall und Gefahr.
+
+Schehrasade erzählt, um ihr Leben zu retten, und während sie erzählt, wird sie zum Genius der Erzählung schlechthin; ich – nun, um mein Leben ging es nicht, aber das Fieber des Fabulierens ergriff auch mich ganz und gar und bestimmte Denken und Sein.
+
+Es dauerte nicht lange, bis es mir Bedürfnis wurde, die eine oder andere der nächtlich erzählten Geschichten aufzuschreiben. Dies musste in größter Heimlichkeit geschehen, und es begann damit schon der Kampf.
+
+Dass mein Treiben allmählich ruchbar wurde, war nicht zu verhindern; die Stiefmutter sah die pure Tagedieberei darin und warf alle beschriebenen Blätter, deren sie habhaft werden konnte, ins Feuer; Verwandte, Lehrer, Kameraden stellten sich feindselig dagegen,
+
+beinahe derart, als ob ich sie durch mein Unterfangen geradezu beleidigt hätte, und der zum erstenmal bekundete Vorsatz, mich dem Schriftstellerberuf zu widmen, rief bei den Bekannten Gelächter, beim Vater den heftigsten Unwillen hervor.
+
+Die Sache war die, dass ich dem Onkel, jenem Bruder meiner Mutter, der in kinderloser Ehe lebte, gleichsam versprochen war. Darauf hatte mein Vater seine ganze Hoffnung gesetzt; was ihm fehlgeschlagen war, sollte mir gelingen:
+
+reich zu werden; mich in einer großen Laufbahn als Nachfolger des bewunderten Schwagers zu sehen, war seine Lieblingsvorstellung.
+
+Meine abgeirrte Neigung zu unterdrücken, ließ er deshalb nichts unversucht.
+
+Damals war literarische Bildung und literarischer Zuschnitt in der bürgerlichen Gesellschaft weder so häufig noch so erstrebt wie heute, und das hatte sein Gutes.
+
+Seit die Kunst aufgehört hat, das seltene und kostbare Vergnügen weniger Erlesener zu sein, ist sie für die Vielen Luxus, Ausrede und Gemeinplatz geworden, schließlich Betrieb, wie jeder andere.
+
+Keiner will mehr hören und empfangen, alle wollen selber reden und selber den Geber spielen.
+
+In meinem fünfzehnten Jahr hatte ich einen Roman geschrieben, ein unsäglich dürftiges und abgeschmacktes Ding, und das Manuskript trug ich eines Tages in die Redaktion des Tageblattes.
+
+Ein dicker Redakteur saß verschlafen am Schreibtisch und musterte mich erstaunt, als ich mein Anliegen vorbrachte. Kurz darauf erschien der Anfang des Elaborats unter meinem Namen, gespickt mit Druckfehlern, in der Unterhaltungsbeilage der Zeitung.
+
+Ich weiß es noch, es war ein Winterabend, wie mein Vater nach dem Essen das Blatt zur Hand nahm, das ich so aufgefaltet neben seinen Teller gelegt hatte, dass sein Blick auf mein Produkt fallen musste, wie ich klopfenden Herzens wartete.
+
+Ich sehe noch, wie der versorgte, müde Ausdruck seines Gesichtes sich jäh veränderte, wie in seinen Augen zuerst ein Aufblitzen von Stolz war, das aber bald dem Zorn, der Angst, der Ratlosigkeit wich.
+
+Es gab schlimme Szenen, Vorwürfe, Drohungen, Beschimpfungen, Hohn. Auch in der Schule wurde ich zur Rechenschaft verhalten, vor den Rektor zitiert und wegen verbotener Publikation zu zwölfstündigem Karzer verurteilt.
+
+Der Vater aber wurde mein unerbittlicher Verfolger, und die Frau war seine getreue Spionin, so dass ich keine ruhige Arbeitsstunde mehr fand und des Nachts bisweilen bei Mondschein das Bett verließ und am Fenster, in einem leidenschaftlichen inneren Zustand,
+
+Blatt um Blatt vollschrieb. In einer solchen Nacht brach in der hofseitig gelegenen Fabrik meines Vaters Feuer aus.
+
+Ich bemerkte die Flamme zuerst, schlug Lärm, und als ich den Vater mit entsetzten Mienen, halb angekleidet, die Stiegen hinuntereilen sah, bildete ich mir ein, er werde durch dieses Unglück für seine Härte gegen mich bestraft.
 
 Ende
 von
