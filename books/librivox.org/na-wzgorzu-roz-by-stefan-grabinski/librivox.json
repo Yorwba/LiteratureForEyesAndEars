@@ -1,0 +1,137 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1887",
+          "dod": "1936",
+          "first_name": "Stefan",
+          "id": "2731",
+          "last_name": "Grabiński"
+        }
+      ],
+      "copyright_year": "1918",
+      "description": "Drugi zbiór opowiadań przedwojennego pisarza specjalizującego się w opowieściach niesamowitych.\nTym razem czytelnik otrzymuje 6 historii, które udzielą zaskakujących odpowiedzi na takie pytania jak: co to za dziwny zapach unosi się w miejscu pełnym róż? czy miejsce może przesiąknąć szaleństwem? co oznacza niezwykła scena widziana w oknie pewnego domu? a także kilka innych. (Summary by Piotr Nater)",
+      "genres": [
+        {
+          "id": "15",
+          "name": "General Fiction"
+        },
+        {
+          "id": "16",
+          "name": "Horror & Supernatural Fiction"
+        },
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "6161",
+      "language": "Polish",
+      "num_sections": "6",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "83995",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1294",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "1",
+          "title": "Na wzgórzu róż"
+        },
+        {
+          "file_name": null,
+          "id": "83996",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "996",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "2",
+          "title": "Szalona zagroda"
+        },
+        {
+          "file_name": null,
+          "id": "83997",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1402",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "3",
+          "title": "Po stycznej"
+        },
+        {
+          "file_name": null,
+          "id": "83998",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "1414",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "4",
+          "title": "Zez"
+        },
+        {
+          "file_name": null,
+          "id": "83999",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2305",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "5",
+          "title": "Cień"
+        },
+        {
+          "file_name": null,
+          "id": "84000",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "2284",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "6",
+          "title": "W willi nad morzem"
+        }
+      ],
+      "title": "Na wzgórzu róż",
+      "totaltime": "2:41:35",
+      "totaltimesecs": 9695,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/na_wzgorzu_roz_1202_librivox",
+      "url_librivox": "https://librivox.org/na-wzgorzu-roz-by-stefan-grabinski/",
+      "url_other": null,
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/6161",
+      "url_text_source": "http://pl.wikisource.org/wiki/Na_wzgórzu_róż_(zbiór)",
+      "url_zip_file": "http://www.archive.org/download/na_wzgorzu_roz_1202_librivox/na_wzgorzu_roz_1202_librivox_64kb_mp3.zip"
+    }
+  ]
+}
