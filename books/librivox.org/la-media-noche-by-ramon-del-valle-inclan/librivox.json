@@ -25,7 +25,6 @@
         {
           "file_name": "medianoche_00_valle-inclan_64kb.mp3",
           "id": "512240",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_00_valle-inclan_64kb.mp3",
           "playtime": "321",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "medianoche_01_valle-inclan_64kb.mp3",
           "id": "512241",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_01_valle-inclan_64kb.mp3",
           "playtime": "508",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "medianoche_02_valle-inclan_64kb.mp3",
           "id": "512242",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_02_valle-inclan_64kb.mp3",
           "playtime": "903",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "medianoche_03_valle-inclan_64kb.mp3",
           "id": "512243",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_03_valle-inclan_64kb.mp3",
           "playtime": "525",
           "readers": [
@@ -85,7 +81,6 @@
         {
           "file_name": "medianoche_04_valle-inclan_64kb.mp3",
           "id": "512244",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_04_valle-inclan_64kb.mp3",
           "playtime": "915",
           "readers": [
@@ -100,7 +95,6 @@
         {
           "file_name": "medianoche_05_valle-inclan_64kb.mp3",
           "id": "512245",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_05_valle-inclan_64kb.mp3",
           "playtime": "623",
           "readers": [
@@ -115,7 +109,6 @@
         {
           "file_name": "medianoche_06_valle-inclan_64kb.mp3",
           "id": "512246",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_06_valle-inclan_64kb.mp3",
           "playtime": "664",
           "readers": [
@@ -130,7 +123,6 @@
         {
           "file_name": "medianoche_07_valle-inclan_64kb.mp3",
           "id": "512247",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_07_valle-inclan_64kb.mp3",
           "playtime": "697",
           "readers": [
@@ -145,7 +137,6 @@
         {
           "file_name": "medianoche_08_valle-inclan_64kb.mp3",
           "id": "512248",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_08_valle-inclan_64kb.mp3",
           "playtime": "840",
           "readers": [
@@ -158,7 +149,7 @@
           "title": "Capítulos XXXVI-XL"
         }
       ],
-      "title": "media noche: visión estelar de un momento de guerra",
+      "title": "La media noche",
       "totaltime": "01:39:56",
       "totaltimesecs": 5996,
       "translators": [],
