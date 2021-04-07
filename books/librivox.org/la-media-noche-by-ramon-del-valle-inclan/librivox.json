@@ -1,0 +1,174 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1866",
+          "dod": "1936",
+          "first_name": "Ramón del",
+          "id": "12507",
+          "last_name": "Valle-Inclán"
+        }
+      ],
+      "copyright_year": "1916",
+      "description": "Crónicas de la Primera Guerra Mundial: 40 breves capítulos, a modo de estampas o fogonazos desde el punto de vista de distintos personajes en diversos lugares y ocupaciones. Probablemente uno de los textos menos conocidos y más innovadores de su autor. En esta obra, Ramón María del Valle-Inclán pretende intentar reflejar una visión coral del crudo conflicto, proyecto que nació de sus vivencias como testigo y periodista cubriendo la Gran Guerra. Leído a dúo por Monste Gonzalez y Epachuko (Summary by Epachuko)",
+      "genres": [
+        {
+          "id": "73",
+          "name": "War & Military"
+        }
+      ],
+      "id": "15700",
+      "language": "Spanish",
+      "num_sections": "9",
+      "sections": [
+        {
+          "file_name": "medianoche_00_valle-inclan_64kb.mp3",
+          "id": "512240",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_00_valle-inclan_64kb.mp3",
+          "playtime": "321",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "0",
+          "title": "Prólogo - Breve Noticia"
+        },
+        {
+          "file_name": "medianoche_01_valle-inclan_64kb.mp3",
+          "id": "512241",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_01_valle-inclan_64kb.mp3",
+          "playtime": "508",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "1",
+          "title": "Capítulos I-V"
+        },
+        {
+          "file_name": "medianoche_02_valle-inclan_64kb.mp3",
+          "id": "512242",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_02_valle-inclan_64kb.mp3",
+          "playtime": "903",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "2",
+          "title": "Capítulos VI-X"
+        },
+        {
+          "file_name": "medianoche_03_valle-inclan_64kb.mp3",
+          "id": "512243",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_03_valle-inclan_64kb.mp3",
+          "playtime": "525",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "3",
+          "title": "Capítulos XI-XV"
+        },
+        {
+          "file_name": "medianoche_04_valle-inclan_64kb.mp3",
+          "id": "512244",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_04_valle-inclan_64kb.mp3",
+          "playtime": "915",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "4",
+          "title": "Capítulos XVI-XX"
+        },
+        {
+          "file_name": "medianoche_05_valle-inclan_64kb.mp3",
+          "id": "512245",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_05_valle-inclan_64kb.mp3",
+          "playtime": "623",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "5",
+          "title": "Capítulos XXI-XXV"
+        },
+        {
+          "file_name": "medianoche_06_valle-inclan_64kb.mp3",
+          "id": "512246",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_06_valle-inclan_64kb.mp3",
+          "playtime": "664",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "6",
+          "title": "Capítulos XXVI-XXX"
+        },
+        {
+          "file_name": "medianoche_07_valle-inclan_64kb.mp3",
+          "id": "512247",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_07_valle-inclan_64kb.mp3",
+          "playtime": "697",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "7",
+          "title": "Capítulos XXXI-XXXV"
+        },
+        {
+          "file_name": "medianoche_08_valle-inclan_64kb.mp3",
+          "id": "512248",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/medianoche_08_valle-inclan_64kb.mp3",
+          "playtime": "840",
+          "readers": [
+            {
+              "display_name": "Epachuko",
+              "reader_id": "12367"
+            }
+          ],
+          "section_number": "8",
+          "title": "Capítulos XXXVI-XL"
+        }
+      ],
+      "title": "media noche: visión estelar de un momento de guerra",
+      "totaltime": "01:39:56",
+      "totaltimesecs": 5996,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/medianoche_2011_librivox",
+      "url_librivox": "https://librivox.org/la-media-noche-by-ramon-del-valle-inclan/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/15700",
+      "url_text_source": "http://www.gutenberg.org/ebooks/55448",
+      "url_zip_file": "http://www.archive.org/download//medianoche_2011_librivox/medianoche_2011_librivox_64kb_mp3.zip"
+    }
+  ]
+}
