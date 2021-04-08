@@ -1,0 +1,3463 @@
+1
+00:00:00,100 --> 00:00:06,560
+Prólogo
+de
+La media noche: 
+Visión estelar de un momento de guerra
+
+2
+00:00:06,560 --> 00:00:09,190
+Esta es una grabación de LibriVox.
+
+3
+00:00:09,190 --> 00:00:13,520
+Todas las grabaciones de LibriVox están en el dominio público.
+
+4
+00:00:13,520 --> 00:00:20,770
+Para más información, o para ser voluntario, por favor visite LibriVox.org.
+
+5
+00:00:20,770 --> 00:00:27,940
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+6
+00:00:27,940 --> 00:00:31,590
+Prólogo
+Breve noticia
+
+7
+00:00:31,590 --> 00:00:39,020
+Era mi propósito condensar en un libro los varios y diversos lances de un día de guerra en Francia.
+
+8
+00:00:39,020 --> 00:00:57,240
+Acontece que, al escribir de la guerra, el narrador que antes fué testigo, da a los sucesos un enlace cronológico puramente accidental, nacido de la humana y geométrica limitación que nos veda ser a la vez en varias partes.
+
+9
+00:00:57,240 --> 00:01:13,880
+Y como quiera que para recorrer este enorme frente de batalla, que desde los montes alsacianos baja a la costa del mar, son muchas las jornadas, el narrador ajusta la guerra y sus accidentes a la medida de su caminar:
+
+10
+00:01:13,880 --> 00:01:26,480
+Las batallas comienzan cuando sus ojos llegan a mirarlas: El terrible rumor de la guerra se apaga cuando se aleja de los parajes trágicos, y vuelve cuando se acerca a ellos.
+
+11
+00:01:26,480 --> 00:01:31,330
+Todos los relatos están limitados por la posición geométrica del narrador.
+
+12
+00:01:31,330 --> 00:01:48,310
+Pero aquel que pudiese ser a la vez en diversos lugares, como los teósofos dicen de algunos fakires, y las gentes novelescas de Cagliostro, que, desterrado de París, salió a la misma hora por todas las puertas de la ciudad,
+
+13
+00:01:48,310 --> 00:02:03,640
+de cierto tendría de la guerra una visión, una emoción y una concepción en todo distinta de la que puede tener el mísero testigo, sujeto a las leyes geométricas de la materia corporal y mortal.
+
+14
+00:02:03,640 --> 00:02:17,560
+Entre uno y otro modo habría la misma diferencia que media entre la visión del soldado que se bate sumido en la trinchera, y la del general que sigue los accidentes de la batalla encorvado sobre el plano.
+
+15
+00:02:17,560 --> 00:02:36,380
+Esta intuición taumatúrgica de los parajes y los sucesos, esta comprensión que parece fuera del espacio y del tiempo, no es sin embargo ajena a la literatura, y aun puede asegurarse que es la engendradora de los viejos poemas primitivos,
+
+16
+00:02:36,380 --> 00:02:53,980
+vasos religiosos donde dispersas voces y dispersos relatos se han juntado, al cabo de los siglos, en un relato máximo, cifra de todos, en una visión suprema, casi infinita, de infinitos ojos que cierran el círculo.
+
+17
+00:02:53,980 --> 00:03:10,310
+Cuando los soldados de Francia vuelvan a sus pueblos, y los ciegos vayan por las veredas con sus lazarillos, y los que no tienen piernas pidan limosna a la puerta de las iglesias, y los mancos corran de una parte a otra con alegre oficio de terceros;
+
+18
+00:03:10,310 --> 00:03:30,170
+cuando en el fondo de los hogares se nombre a los muertos y se rece por ellos, cada boca tendrá un relato distinto, y serán cientos de miles los relatos, expresión de otras tantas visiones, que al cabo habrán de resumirse en una visión, cifra de todas.
+
+19
+00:03:30,170 --> 00:03:43,940
+Desaparecerá entonces la pobre mirada del soldado, para crear la visión colectiva, la visión de todo el pueblo que estuvo en la guerra, y vió a la vez desde todos los parajes todos los sucesos.
+
+20
+00:03:43,940 --> 00:03:55,250
+El círculo, al cerrarse, engendra el centro, y de esta visión cíclica nace el poeta, que vale tanto como decir el Adivino.
+
+21
+00:03:55,250 --> 00:04:11,410
+Yo, torpe y vano de mí, quise ser centro y tener de la guerra una visión astral, fuera de la geometría y de cronología, como si el alma, desencarnada ya, mirase a la tierra desde su estrella.
+
+22
+00:04:11,410 --> 00:04:15,800
+Mi droga en esta ocasión me negó su efluvio maravilloso.
+
+23
+00:04:15,800 --> 00:04:22,200
+Estas páginas que ahora salen a la luz no son más que un balbuceo del ideal soñado.
+
+24
+00:04:22,200 --> 00:04:36,520
+Volveré a Francia y al frente de batalla para acendrar mi emoción, y quién sabe si aun podré realizar aquel orgulloso propósito de escribir las visiones y las emociones de UN DÍA DE GUERRA.
+
+25
+00:04:36,520 --> 00:04:39,650
+Firma, Valle-Inclán
+
+26
+00:04:39,650 --> 00:04:43,590
+Filo de media noche encendí la lámpara.
+
+27
+00:04:43,590 --> 00:04:47,880
+Me puse delante, y mi sombra cubría el muro.
+
+28
+00:04:47,880 --> 00:04:56,030
+Abrí el libro y deletreé las palabras con que se desencarna el alma que quiere mirar el mundo fuera de geometría.
+
+29
+00:04:56,030 --> 00:05:13,100
+Después apagué la lámpara y me acosté sobre la tierra con los brazos en cruz como el libro previene. Artephius, astrólogo siracusano, escribió este libro, que se llama en latín CLAVIS MAYORES SAPIENTÆ.
+
+30
+00:05:14,420 --> 00:05:17,020
+Fin
+del
+Prólogo
+
+31
+00:05:22,180 --> 00:05:28,150
+Sección una
+de
+La media noche: 
+Visión estelar de un momento de guerra
+
+32
+00:05:28,150 --> 00:05:32,750
+Esta grabación de LibriVox es del dominio público.
+
+33
+00:05:32,750 --> 00:05:38,320
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+34
+00:05:38,320 --> 00:05:40,720
+Capítulo uno
+
+35
+00:05:41,760 --> 00:05:43,800
+SON LAS DOCE DE LA NOCHE.
+
+36
+00:05:43,800 --> 00:05:50,970
+La luna navega por cielos de claras estrellas, por cielos azules, por cielos nebulosos.
+
+37
+00:05:50,970 --> 00:06:06,060
+Desde los bosques montañeros de la región alsaciana, hasta la costa brava del mar norteño, se acechan dos ejércitos agazapados en los fosos de su atrincheramiento, donde hiede a muerto como en la jaula de las hienas.
+
+38
+00:06:06,060 --> 00:06:15,000
+El francés, hijo de la loba latina, y el bárbaro germano, espurio de toda tradición, están otra vez en guerra.
+
+39
+00:06:15,000 --> 00:06:24,290
+Doscientas leguas alcanza la línea de sus defensas desde los cantiles del mar hasta los montes que dominan la verde plana del Rhin.
+
+40
+00:06:24,290 --> 00:06:41,700
+Son cientos de miles, y solamente los ojos de las estrellas pueden verlos combatir al mismo tiempo, en los dos cabos de esta línea tan larga, a toda hora llena del relampagueo de la pólvora y con el trueno del cañón rodante por su cielo.
+
+41
+00:06:41,700 --> 00:06:44,450
+Capítulo dos
+
+42
+00:06:44,450 --> 00:06:48,170
+Las trincheras son zanjas barrosas y angostas.
+
+43
+00:06:48,170 --> 00:06:52,410
+Amarillentas aguas de lluvias y avenidas las encharcan.
+
+44
+00:06:52,410 --> 00:06:54,290
+Se resbala al andar.
+
+45
+00:06:54,290 --> 00:07:04,940
+Los ratones corren vivaces por los taludes, las ratas aguaneras por el fondo cenagoso, y ráfagas de viento traen frías pestilencias de carroña.
+
+46
+00:07:04,940 --> 00:07:22,430
+En el talud de las trincheras los zapadores han cavado hondos abrigos donde se guarecen escuadras de soldados, y en los lugares más propicios para las escuchas y centinelas, silos con miraderos disimulados entre pedruscos y ramajes.
+
+47
+00:07:22,430 --> 00:07:38,510
+Desde estas atalayas se hace la descubierta de las líneas enemigas, y los artilleros, comunicándose por sus teléfonos, regulan el tiro de los cañones, siempre emplazados más atrás que las primeras defensas.
+
+48
+00:07:38,510 --> 00:07:54,120
+Ante los dos fosos enemigos se tienden campos de espinosas alambradas, y hay esguevas donde los muertos de las últimas jornadas se pudren sobre los huesos ya mondos de aquellos que cayeron en los primeros días de la invasión.
+
+49
+00:07:54,120 --> 00:07:57,400
+La tierra en torno está como arada.
+
+50
+00:07:57,400 --> 00:08:01,400
+La metralla taló los árboles y abrasó la yerba.
+
+51
+00:08:01,400 --> 00:08:14,990
+Del fondo de las trincheras surgen cohetes de luces rojas, verdes y blancas, que se abren en los aires de la noche oscura, esclareciendo brevemente aquel vasto campo de batallas.
+
+52
+00:08:14,990 --> 00:08:22,780
+Corre un alerta desde los cantiles del mar norteño, hasta los bosques montañeros que divisan el Rhin.
+
+53
+00:08:22,780 --> 00:08:25,730
+Capítulo tres
+
+54
+00:08:25,730 --> 00:08:34,440
+En las sombras de la noche, largos convoyes que llevan municiones al frente de batalla, ruedan por los caminos.
+
+55
+00:08:34,440 --> 00:08:46,300
+Los cohetes de las trincheras abren sus rosas en el aire, los reflectores exploran la campaña y la esclarecen hasta el confín lejano de bosques y montes.
+
+56
+00:08:46,300 --> 00:08:59,800
+Se muestra de pronto el espectro de un pueblo en ruinas, quemado y saqueado, mientras por la carretera, en el lostrego del reflector, corre cojeando algún perro sin dueño.
+
+57
+00:08:59,800 --> 00:09:13,710
+Al abrigo de los bosques, filas y filas de carros esperan inmóviles la orden de ruta, con los soldados de la escolta descansando al borde del camino y fumando una pipa de tabaco belga.
+
+58
+00:09:13,710 --> 00:09:25,640
+Se oye el cañón, cuándo lento, cuándo en vivo fuego de ráfagas, y los soldados hacen conjeturas con palabras breves, casi indiferentes.
+
+59
+00:09:25,640 --> 00:09:36,400
+Llega un ciclista sonando el timbre tercamente: Trae la orden de ruta que el sargento deletrea a la luz de una linterna, y el convoy se pone en marcha.
+
+60
+00:09:36,400 --> 00:09:47,250
+Todos los caminos de la retaguardia sienten el peso de los carros de municiones, que, escoltados por veteranos, se bambolean con estridente son de hierros.
+
+61
+00:09:47,250 --> 00:10:01,440
+Ruedan con los faroles apagados, informes bajo las estrellas, sumidos unas veces en la sombra de las arboledas, y otras destacando su línea negra por alguna carretera blanquecina y desnuda.
+
+62
+00:10:01,440 --> 00:10:06,610
+Son tantos que no se pueden contar, son cientos y cientos.
+
+63
+00:10:06,610 --> 00:10:10,310
+Ruedan hacia las trincheras lentamente, pesadamente.
+
+64
+00:10:10,310 --> 00:10:17,300
+Cuando pasan cerca de alguna aldea, ladran los perros y alborean los gallos.
+
+65
+00:10:18,340 --> 00:10:20,350
+Capítulo cuatro
+
+66
+00:10:20,350 --> 00:10:27,530
+Y la luna navega por cielos de claras estrellas, por cielos azules, por cielos de borrasca:
+
+67
+00:10:27,530 --> 00:10:45,130
+Sobre las doscientas leguas de foso cenagoso, los cohetes abren sus rosas, tiembla la luz de los reflectores, y en la tiniebla del cielo bordonean los aviones que llevan su carga de explosivos para destruir, para incendiar, para matar...
+
+68
+00:10:45,130 --> 00:10:55,250
+Ocupan la carlinga alegres oficiales, locos del vértigo del aire, como los héroes de la tragedia antigua del vértigo erótico.
+
+69
+00:10:55,250 --> 00:11:07,300
+Vestidos de pieles, con grandes gafas redondas, y redondos cascos de cuero, tienen una forma embrionaria y una evocación oscura de monstruos científicos.
+
+70
+00:11:07,300 --> 00:11:13,530
+Vuelan contra el viento y a favor del viento, les dicen su camino las estrellas.
+
+71
+00:11:13,530 --> 00:11:26,630
+Unos van perdidos atravesando cóncavos nublados, otros planean sobre el humo y las llamas de los incendios, otros van en la luz de la luna, tendidos en escuadrilla.
+
+72
+00:11:26,630 --> 00:11:34,140
+Aquel que zozobra entre ráfagas de agua y viento del mar, es de un aerodromo inglés, en la Picardia.
+
+73
+00:11:34,140 --> 00:11:48,880
+Y estos que retornan y aterrizan en silencio, son franceses: Partieron en el anochecido, eran siete y no son más que cinco: Tras ellos queda ardiendo un tren de soldados alemanes.
+
+74
+00:11:48,880 --> 00:12:03,380
+Los pilotos saltan sobre la yerba, y se alejan entumecidos, mientras algunos soldados con linternas, empujan los aviones bajo los cobertizos, y vierten cubos de agua en los motores recalentados.
+
+75
+00:12:03,380 --> 00:12:11,760
+Es un campo de aviación a retaguardia de las líneas donde se batalla, en un paraje llano revestido de céspedes.
+
+76
+00:12:11,760 --> 00:12:29,800
+Ligeras tiendas, grandes cobertizos, alpendes y galpones, hacen ruedo sobre la yerba, tienen el color de la noche y se desvanecen en ella: Sólo realza sus siluetas la luna cuando navega por claros cielos estrellados.
+
+77
+00:12:29,800 --> 00:12:32,540
+Capítulo cinco
+
+78
+00:12:32,540 --> 00:12:40,610
+Granizos y ventiscas en los montes alsacianos y en los Vosgos.—Ya cantó dos veces el gallo.—
+
+79
+00:12:40,610 --> 00:12:55,620
+Las trincheras tienen una cresta blanca, y, soterrados en ellas, vestidos de pieles como pastores, los centinelas acechan el campo enemigo, asomando apenas tras el parapeto cubierto de nieve.
+
+80
+00:12:55,620 --> 00:13:00,960
+Hay un cañoneo lento, que tiene largas y encadenadas resonancias.
+
+81
+00:13:00,960 --> 00:13:07,170
+La luz de los reflectores vuela sobre las cumbres, llega al fondo de las selvas,
+
+82
+00:13:07,170 --> 00:13:27,230
+ilumina el tronco de los abetos y el albo talud de las zanjas, por donde corren en fila india los soldados que acuden a reforzar las defensas del Hartmanwillerkopf.—El Viejo Armando, en la jerga de los peludos.—Sobre el sudario de la nieve, los cohetes abren sus rosas de colores.
+
+83
+00:13:27,230 --> 00:13:39,020
+Entre Thann y Metzeral se ha iniciado un fuego de ráfagas, y en los puestos de escucha, los canes, agazapados a la vera de los soldados, se avizoran.
+
+84
+00:13:40,040 --> 00:13:42,560
+Fin
+de la
+Sección una
+
+85
+00:13:42,560 --> 00:13:45,660
+Narrado por Monste González
+
+86
+00:13:50,520 --> 00:13:58,100
+Sección dos
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+87
+00:13:58,100 --> 00:14:02,300
+Esta grabación de LibriVox es del dominio público.
+
+88
+00:14:02,300 --> 00:14:04,800
+Sección dos
+
+89
+00:14:04,800 --> 00:14:07,370
+Capítulo seis
+
+90
+00:14:07,370 --> 00:14:20,980
+El sargento de un retén, en lo alto de la montaña, destaca dos centinelas de pérdida: Salen cautelosos, arrastrándose sobre la nieve, se sumen en la noche.
+
+91
+00:14:20,980 --> 00:14:32,360
+La trinchera alemana, toda bardelada y defendida por espinosa red de alambre, está al otro lado de un calvero, no más lejos de cien pasos.
+
+92
+00:14:32,360 --> 00:14:41,920
+Las grandes balas cruzan silbando, y, de tiempo en tiempo, un abeto viene a tierra con sordo rumor de marejada.
+
+93
+00:14:41,920 --> 00:14:49,030
+Los soldados corren en pequeños grupos, la cabeza vuelta, los hombros levantados.
+
+94
+00:14:49,030 --> 00:14:51,370
+Cruje otro tronco.
+
+95
+00:14:51,370 --> 00:14:58,220
+La metralla está segando el bosque: Donde cae una bomba fulmina una llama.
+
+96
+00:14:58,220 --> 00:15:16,690
+Los dos centinelas de pérdida se arrastran cautelosos, y, cuando el lostrego de los reflectores explora y revela el campo, quédanse aplastados: Con las carnes estremecidas, pisan sobre un montón de cadáveres medio enterrados en la nieve:
+
+97
+00:15:16,690 --> 00:15:22,060
+Al pisar, parece que se les incorporan bajo los calcañares.
+
+98
+00:15:22,060 --> 00:15:35,870
+Los dos centinelas pasan sobre los muertos llevándose su olor: Ya tocan las alambradas, y en aquel momento una violenta sacudida los echa por los aires con las ropas encendidas:
+
+99
+00:15:35,870 --> 00:15:46,560
+El repuesto de cartuchos que llevan en las cananas estalla como una cohetada: Caen ardiendo, simulan dos peleles.
+
+100
+00:15:46,560 --> 00:15:50,320
+De los cascos sale una llama azul.
+
+101
+00:15:50,320 --> 00:15:56,570
+Los soldados franceses, desde sus trincheras, miran el suceso con pena.
+
+102
+00:15:56,570 --> 00:16:03,120
+En el Observatorio de Langenfeldkopf, un teniente murmura hablando con su compañero:
+
+103
+00:16:03,120 --> 00:16:11,040
+—Los boches han reforzado sus defensas con un cable eléctrico, imitando lo que hicimos nosotros en la Indo-China.
+
+104
+00:16:11,040 --> 00:16:13,540
+Capítulo siete
+
+105
+00:16:13,540 --> 00:16:23,550
+Los alemanes, aprovechando la oscuridad de la noche, salen de sus trincheras y llegan a las defensas avanzadas de los franceses.
+
+106
+00:16:23,550 --> 00:16:36,300
+De pronto el ladrido de un perro da el alerta, y la luz de un reflector los descubre arrastrándose sobre la nieve, rota la formación y muy dispersos.
+
+107
+00:16:36,300 --> 00:16:39,230
+Los franceses abren el fuego.
+
+108
+00:16:39,230 --> 00:16:48,470
+Los alemanes, con impulso unánime, se incorporan y corren hacia las líneas enemigas arrojando granadas de mano.
+
+109
+00:16:48,470 --> 00:16:56,940
+Cuando unos caen, otros los secundan: Suben arrastrándose, combaten en oleadas.
+
+110
+00:16:56,940 --> 00:17:02,780
+Los franceses, al abrigo de sus defensas, hacen fuego de fusil.
+
+111
+00:17:02,780 --> 00:17:11,090
+Es una avanzada de veteranos alpinos, y en pocos instantes sólo quedan setenta hombres ilesos.
+
+112
+00:17:11,090 --> 00:17:14,610
+Las granadas caen dentro de la trinchera.
+
+113
+00:17:14,610 --> 00:17:33,930
+Están rotos los hilos del teléfono, y dos soldados se destacan voluntarios para reparar la avería: Estalla una granada, y dobla al uno sobre el otro: Quedan en un escorzo blando, sin horror, como dos hermanos que se besan.
+
+114
+00:17:33,930 --> 00:17:41,240
+El teniente de la segunda compañía, metido en la garita del teléfono, escribe un parte.
+
+115
+00:17:41,240 --> 00:17:46,000
+Se oyen los gritos de los alemanes al penetrar en la trinchera.
+
+116
+00:17:46,000 --> 00:17:57,440
+El teniente dobla el papel y lo sujeta bajo el collar de un perro que espera moviendo la cola: Le halaga, le saca fuera y lo hace rastrear.
+
+117
+00:17:57,440 --> 00:18:00,760
+Parte el can como una centella.
+
+118
+00:18:00,760 --> 00:18:08,060
+El teniente da algunos pasos y tropieza con un herido que se queja caído en el fondo de la trinchera.
+
+119
+00:18:08,060 --> 00:18:12,110
+Otro se venda la frente algo más lejos.
+
+120
+00:18:12,110 --> 00:18:16,650
+El Teniente Breal los anima con una gran voz:
+
+121
+00:18:16,650 --> 00:18:18,230
+—¡Viva la Francia!
+
+122
+00:18:18,230 --> 00:18:20,530
+¡Arriba los muertos!
+
+123
+00:18:20,530 --> 00:18:29,760
+Y los muertos se levantan, y hay una gran basculada dentro de aquel foso lleno de oscuridad, de fango y de tumulto.
+
+124
+00:18:29,760 --> 00:18:37,090
+Dos ametralladoras francesas rompen el fuego sobre el árido descampado por donde avanzan los alemanes.
+
+125
+00:18:37,090 --> 00:18:44,940
+Sus tiros se cruzan metódicamente como una expresión matemática, indiferente y cruel a los hombres.
+
+126
+00:18:44,940 --> 00:18:56,340
+A través de la selva nevada huye la sombra del can: Corre al flanco de un foso, entra por una senda donde están detenidos muchos carros en fila:
+
+127
+00:18:56,340 --> 00:19:11,820
+Aparece y desaparece: Salva de un salto el ramaje de los abetos caídos sobre el camino: Corre con el ijar sobre la tierra: Bajo la luz de los reflectores se agacha igual que hacen los soldados.
+
+128
+00:19:11,820 --> 00:19:24,820
+Vuelve a vérsele sobre la orilla del foso, rastrea, desciende por el talud, se mete por el fondo y, moviendo la cola, entra en una casamata.
+
+129
+00:19:24,820 --> 00:19:36,680
+Dos oficiales escriben a la luz puntiaguda de un quinqué, y el can, haciendo corcovos, se coloca entre ellos, de manos sobre la mesa.
+
+130
+00:19:36,680 --> 00:19:43,080
+El Teniente Rousell le halaga y saca el parte que lleva sujeto en el collar.
+
+131
+00:19:43,080 --> 00:19:50,210
+Comienza a leerlo, y el otro oficial lo va silabeando delante del teléfono:
+
+132
+00:19:50,210 --> 00:20:06,260
+—Comandancia de brigada.—Transmito parte del Teniente Breal.—2.ª Compañía de Cazadores Alpinos.—Fuerzas alemanas, con un golpe de mano, han conseguido penetrar en nuestras defensas.
+
+133
+00:20:06,260 --> 00:20:12,900
+Me sostengo con los hombres que me quedan, pero necesito ser auxiliado urgentemente.
+
+134
+00:20:12,900 --> 00:20:20,140
+Tengo el mando por desaparición del Capitán Douchesne.—TENIENTE BREAL.
+
+135
+00:20:22,400 --> 00:20:24,250
+Capítulo ocho
+
+136
+00:20:24,250 --> 00:20:35,220
+Entre Thann y Metzeral el cañoneo de tarde en tarde se enrabia, pero luego decae en su terca y lenta medida.
+
+137
+00:20:36,360 --> 00:20:45,270
+Los dos fosos enemigos galguean por negros bosques y resonantes quebradas, cuándo despeñados, cuándo cimeros.
+
+138
+00:20:45,270 --> 00:20:55,140
+Cruje astillado el tronco de los abetos, y al doblarse bajo la tempestad de nieve y de metralla, el ramaje ciega los caminos.
+
+139
+00:20:55,140 --> 00:21:12,670
+Metzeral está ardiendo, y la vislumbre de las llamas corre sobre las aguas del río: A una y otra orilla, las casas muestran sus esqueletos rojos y humeantes: Caen sordamente los muros y las techumbres.
+
+140
+00:21:12,670 --> 00:21:17,980
+Desde el comienzo de la guerra resplandecen todas las noches las hogueras de Metzeral.
+
+141
+00:21:17,980 --> 00:21:25,810
+En los pórticos de las iglesias, bajo las rotas arcadas, se guarecen mujeres y niños.
+
+142
+00:21:25,810 --> 00:21:30,880
+Las vacas de un establo andan perdidas sonando las esquilas.
+
+143
+00:21:30,880 --> 00:21:37,320
+En las calles abandonadas, se amontonan huchas, camas y ropas.
+
+144
+00:21:37,320 --> 00:21:45,050
+Un matrimonio con dos niños mira arder su casa, acurrucado al abrigo de otras casas en ruinas.
+
+145
+00:21:45,050 --> 00:21:53,060
+El hombre tiene en brazos al más pequeño, y la mujer llora con los dedos enredados en la mata despeinada.
+
+146
+00:21:53,060 --> 00:22:01,560
+El infante se queja con un balido, y el padre le contempla sin hablar, llenos de tristeza los ojos.
+
+147
+00:22:01,560 --> 00:22:15,650
+A su lado, con la cabeza sobre un cesto boca abajo, duerme una niña: El padre la ha cubierto con su chaquetón, y asómanle los pies calzados con zuecos y medias azules.
+
+148
+00:22:15,650 --> 00:22:22,000
+La madre se levanta con un repente, y descubre el rostro pálido del pequeño:
+
+149
+00:22:22,000 --> 00:22:23,560
+—¡Se muere!
+
+150
+00:22:23,560 --> 00:22:24,530
+¡Se muere!
+
+151
+00:22:24,530 --> 00:22:25,820
+¿No ves que se muere?
+
+152
+00:22:25,820 --> 00:22:27,850
+¡Ya no tenemos hijo!
+
+153
+00:22:27,850 --> 00:22:32,330
+El hombre calla, y la mujer mira al marido:
+
+154
+00:22:32,330 --> 00:22:35,660
+—No puede ser que le tengas constantemente...
+
+155
+00:22:35,660 --> 00:22:36,730
+Debes estar muerto...
+
+156
+00:22:36,730 --> 00:22:38,180
+¡Dámele!
+
+157
+00:22:38,180 --> 00:22:40,860
+El hombre mueve la cabeza.
+
+158
+00:22:40,860 --> 00:22:43,470
+Entonces la mujer llora:
+
+159
+00:22:43,470 --> 00:22:45,580
+—¡Qué horror de guerra!
+
+160
+00:22:45,580 --> 00:22:48,010
+¡Éramos tan felices!
+
+161
+00:22:48,010 --> 00:22:54,800
+La pequeña se revuelve bajo el chaquetón, se incorpora sobresaltada, dando gritos:
+
+162
+00:22:54,800 --> 00:22:56,870
+—¡Se murió nuestro bebé!
+
+163
+00:22:56,870 --> 00:22:59,240
+¡Se murió nuestro bebé!
+
+164
+00:22:59,240 --> 00:23:02,340
+El padre murmura sombriamente:
+
+165
+00:23:02,340 --> 00:23:04,180
+—¡Aun no!
+
+166
+00:23:04,180 --> 00:23:07,200
+También responde el balido triste.
+
+167
+00:23:07,200 --> 00:23:20,190
+La madre arrebata al niño de los brazos del padre: El niño tuerce los ojos, tiene una sacudida, y de la nariz afilada le afluye un hilo escaso de sangre negra.
+
+168
+00:23:20,190 --> 00:23:21,640
+La hermana sigue gritando:
+
+169
+00:23:21,640 --> 00:23:23,570
+—¡Se murió nuestro bebé!
+
+170
+00:23:23,570 --> 00:23:26,030
+¡Se murió nuestro bebé!
+
+171
+00:23:26,030 --> 00:23:31,300
+El padre la toma en brazos y pega su rostro contra el rostro de ella:
+
+172
+00:23:31,300 --> 00:23:32,790
+—¡Calla, hija mía!
+
+173
+00:23:32,790 --> 00:23:34,250
+¡Calla!
+
+174
+00:23:34,250 --> 00:23:42,130
+La pequeña comprende, y, sofocando los sollozos, besa suave, suavemente, la barba del padre.
+
+175
+00:23:42,130 --> 00:23:45,720
+Pero luego torna a suspirar:
+
+176
+00:23:45,720 --> 00:23:47,840
+—¡Se murió nuestro bebé!
+
+177
+00:23:47,840 --> 00:23:50,940
+Y comienza la madre:
+
+178
+00:23:50,940 --> 00:23:52,370
+—¡Se lo llevó Dios!
+
+179
+00:23:52,370 --> 00:23:53,590
+¡Se lo llevó Dios!
+
+180
+00:23:53,590 --> 00:23:55,820
+¡Se lo llevó Dios!
+
+181
+00:23:55,820 --> 00:23:59,650
+Tiene el gesto obstinado, y los ojos secos.
+
+182
+00:23:59,650 --> 00:24:04,260
+Con dos dedos oprime los párpados rígidos de su niño muerto.
+
+183
+00:24:04,260 --> 00:24:12,710
+Los cazadores alpinos desfilan hacia las trincheras, pasan sin verlos, encorvados bajo la borrasca de nieve.
+
+184
+00:24:12,710 --> 00:24:23,530
+Se hunde el techo de una casa, y en las calles desiertas resuena el galope de las vacas perdidas, con el tolón, tolón de los cencerros.
+
+185
+00:24:23,530 --> 00:24:31,760
+El cañoneo, terco y lento, no cesa entre las dos hogueras de Thann y Metzeral.
+
+186
+00:24:32,820 --> 00:24:34,390
+Capítulo nueve
+
+187
+00:24:34,390 --> 00:24:40,440
+¡Los ecos de la guerra se enlazan desde la costa norteña hasta los montes alsacianos!
+
+188
+00:24:40,440 --> 00:24:53,940
+Al estampido de las bombas surgen las llamas de los incendios: Arden las mieses, y las sobrecogidas aldeas, y las ciudades que lloran al derrumbarse las torres de sus catedrales.
+
+189
+00:24:53,940 --> 00:25:03,590
+Caen miles y miles de soldados en la gran batalla nocturna, y quedan rígidos y fríos bajo el temblor de las estrellas.
+
+190
+00:25:03,590 --> 00:25:19,290
+Las escuadras se aclaran de pronto: A veces, rompiéndose por el centro para buscar el ataque de flanco, a veces bajo una bomba que estalla y abre en ellas brecha como en el fuerte muro de un castillo.
+
+191
+00:25:19,290 --> 00:25:30,500
+Las ametralladoras cruzan sus fuegos haciendo raya, desgranan sus tiros sobre anchos espacios, arrasan las líneas de soldados:
+
+192
+00:25:30,500 --> 00:25:44,840
+Unos, caen al modo de peleles recogiendo grotescamente las piernas; otros, abren los brazos y quedan aplastados sobre la tierra; otros, se doblan muy despacio sobre el hombro del camarada.
+
+193
+00:25:44,840 --> 00:26:01,990
+Y entre tan diversos modos de morir, se arrastran los heridos oprimiéndose las carnes desgarradas, sintiendo fluir por entre los dedos la sangre tibia, dilatados los ojos con el horror de ser hechos prisioneros.
+
+194
+00:26:01,990 --> 00:26:14,150
+Miles de cañones hacen fuego en batería, y bajo el impulso de los grandes proyectiles, se abre el aire con aquella queja dilatada y profunda que tienen las gatas al parir.
+
+195
+00:26:14,150 --> 00:26:22,900
+Por caminos que cavaron los zapadores, y alcanzan hasta la línea de fuego, los camilleros conducen a los heridos.
+
+196
+00:26:22,900 --> 00:26:34,590
+El primer socorro se les prestó en la trinchera al amparo de profundas casamatas que tienen charcos de sangre en el piso terreño, y el aire impregnado de olor a cloroformo.
+
+197
+00:26:34,590 --> 00:26:46,190
+Sobre la cuneta de las carreteras, procurando el socaire de bosques y colinas, esperan inmóviles, en largas hileras, los carros de la Cruz Roja.
+
+198
+00:26:46,190 --> 00:27:03,080
+Las ambulancias están en la retaguardia, repartidas por los graneros y establos de las quintas, en las salas de los castillos, en los cafés con espejos rayados y tules para las moscas, en las cuevas de los pueblos aun ardiendo.
+
+199
+00:27:03,080 --> 00:27:08,400
+¡El dolor de la guerra estremece y conforta el alma de Francia!
+
+200
+00:27:10,140 --> 00:27:11,920
+Capítulo diez
+
+201
+00:27:11,920 --> 00:27:24,110
+Nieblas espesas en la costa del mar.—Ya cantó dos veces el gallo.—Las estrellas tiemblan sobre la gran plana inundada de las Flandes.
+
+202
+00:27:24,110 --> 00:27:31,680
+Cerca de Furnes, en un estero, la marinería desembarcada de la escuadra forma la vanguardia.
+
+203
+00:27:31,680 --> 00:27:48,660
+Sopla el viento del mar, y la resaca arrastra hacia la orilla los cadáveres amoratados e hidrópicos de algunos soldados alemanes: Flotan entre aguas: Una ola los levanta en la espumosa cresta, otra ola los anega.
+
+204
+00:27:48,660 --> 00:27:57,640
+Sus botas negras y encharcadas se entierran en la arena, sus grandes cuerpos hinchados tumban sordamente.
+
+205
+00:27:57,640 --> 00:28:06,000
+La escuadra de marineros que acordona la playa permanece silenciosa, mirando al horizonte rizado y sin fondo.
+
+206
+00:28:06,000 --> 00:28:20,140
+Son pescadores de Normandía y de Bretaña, mozos crédulos, de claros ojos, almas infantiles valientes para el mar, abiertas al milagro, y temerosas de los muertos.
+
+207
+00:28:20,140 --> 00:28:35,510
+Muchos rezan en voz baja, acordándose de las apariciones en los cementerios y en los pinares de sus aldeas; otros trincan aguardiente y humean la pipa; tal vez alguno prueba a cantar.
+
+208
+00:28:35,510 --> 00:28:45,520
+La luna navega en cerco de nieblas, y los cuerpos hidrópicos de los soldados alemanes vienen y van con la resaca.
+
+209
+00:28:46,620 --> 00:28:49,580
+Fin
+de la
+Sección dos
+
+210
+00:28:53,320 --> 00:29:01,160
+Sección tres
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+211
+00:29:01,160 --> 00:29:05,220
+Esta grabación de LibriVox es del dominio público.
+
+212
+00:29:05,220 --> 00:29:07,150
+Sección tres
+
+213
+00:29:07,150 --> 00:29:09,700
+Capítulo once
+
+214
+00:29:11,000 --> 00:29:17,480
+Un teniente de navío, acompañado de un condestable, baja por la ribera redoblando las guardias.
+
+215
+00:29:17,480 --> 00:29:28,360
+Saluda la marinería, y todos, como niños, sienten que se disipa en presencia del jefe aquel miedo a los difuntos que les hace rezar y cantar.
+
+216
+00:29:28,360 --> 00:29:35,820
+Un cabo de cañón sale de la fila y se destaca sobre el camino, la mano a la altura de la sien:
+
+217
+00:29:35,820 --> 00:29:38,820
+—Con licencia, mi teniente.
+
+218
+00:29:38,820 --> 00:29:42,570
+¿Nos autoriza usía para ponerles velas?...
+
+219
+00:29:42,570 --> 00:29:47,440
+Y señalaba los cadáveres de los boches embarrancados en la playa.
+
+220
+00:29:47,440 --> 00:29:50,290
+El teniente comprende y sonríe:
+
+221
+00:29:50,290 --> 00:29:53,070
+—¿No será mejor enterrarlos?
+
+222
+00:29:53,070 --> 00:29:59,440
+—Salvo su parecer, mi teniente, mejor es ponerlos velas, y que se los lleve el viento.
+
+223
+00:29:59,440 --> 00:30:03,760
+De un grupo de marineros salen diferentes voces:
+
+224
+00:30:03,760 --> 00:30:05,850
+—¡Que se los lleve el viento!
+
+225
+00:30:05,850 --> 00:30:08,100
+¡Que se los lleve el viento!...
+
+226
+00:30:08,100 --> 00:30:14,660
+Son voces graves, temerosas y atónitas: Su murmullo tiene algo de rezo.
+
+227
+00:30:14,660 --> 00:30:18,070
+Un marinero de la costa bretona se santigua:
+
+228
+00:30:18,070 --> 00:30:21,940
+—¡Los vivos y los muertos no deben dormir juntos!
+
+229
+00:30:21,940 --> 00:30:24,990
+El oficial hace un gesto de indiferencia:
+
+230
+00:30:24,990 --> 00:30:27,840
+—Pues que se los lleve el viento.
+
+231
+00:30:27,840 --> 00:30:30,740
+—¡A la orden, mi teniente!
+
+232
+00:30:30,740 --> 00:30:38,450
+El grupo de marineros se dispersa por la playa, y los unos a los otros se van diciendo de quedo:
+
+233
+00:30:38,450 --> 00:30:39,730
+—¡Hala!
+
+234
+00:30:39,730 --> 00:30:41,680
+A ponerles velas.
+
+235
+00:30:41,680 --> 00:30:43,670
+Alguno pregunta:
+
+236
+00:30:43,670 --> 00:30:45,520
+—¿Y el teniente?
+
+237
+00:30:45,520 --> 00:30:48,580
+—Es el teniente quien lo manda.
+
+238
+00:30:48,580 --> 00:30:51,200
+Capítulo doce
+
+239
+00:30:51,200 --> 00:30:57,800
+La marinería se arremanga y entra chapoteando por el agua llena de fosforescencias.
+
+240
+00:30:57,800 --> 00:31:04,560
+A lo largo de la playa flotan más de cien cadáveres alemanes inflados y tumefactos.
+
+241
+00:31:04,560 --> 00:31:13,150
+Uno hay que no tiene cabeza; otros descubren en el vientre y en las piernas lacras amoratadas, casi negras.
+
+242
+00:31:13,150 --> 00:31:18,990
+Comienza la faena de ponerles velachos con las pértigas y lienzos de las tiendas.
+
+243
+00:31:18,990 --> 00:31:27,510
+Valiéndose de los bicheros, les hacen brechas en la carne hidrópica, y clavan los astiles donde van las lonas.
+
+244
+00:31:27,510 --> 00:31:40,800
+Luego, supersticiosos y diestros, los empujan hasta encontrar calado: Sesgan la vela buscando que la llene el viento, y, al tobillo o al cuello, les amarran las escotas.
+
+245
+00:31:40,800 --> 00:31:56,030
+Los muertos se alejan de la playa como una escuadrilla de faluchos: Se les ve alinearse bajo la luna, y partir hacia el horizonte marino empujados por la fresca brisa que sopla del tercer cuadrante.
+
+246
+00:31:56,030 --> 00:32:01,450
+Pasa un aliento de alegría sobre aquellas almas infantiles y crédulas.
+
+247
+00:32:01,450 --> 00:32:11,010
+Un grumete, con la gorra en la mano, y las luces de las estrellas en los ojos fervorosos, clama en su vieja lengua céltica:
+
+248
+00:32:11,010 --> 00:32:12,940
+—¡Madre del Señor!
+
+249
+00:32:12,940 --> 00:32:16,260
+¡Ya no tengo miedo a los muertos!
+
+250
+00:32:16,260 --> 00:32:18,950
+Capítulo trece
+
+251
+00:32:18,950 --> 00:32:21,860
+Lento cañoneo del lado de Ipres.
+
+252
+00:32:21,860 --> 00:32:37,340
+Por el fondo de la trinchera corre un arroyo de fango; los centinelas se agazapan con los fusiles apoyados sobre el talud; pequeñas escuadras de soldados dormitan en los abrigos cavados a lo largo del foso.
+
+253
+00:32:37,340 --> 00:32:44,270
+De tiempo en tiempo, los pasos del oficial que recorre la línea se detienen a la entrada:
+
+254
+00:32:44,270 --> 00:32:46,510
+—¡Ánimo, muchachos!
+
+255
+00:32:46,510 --> 00:32:56,180
+Los soldados se remueven en la sombra haciendo marea, responden runflando, palpan a tientas los fusiles.
+
+256
+00:32:56,180 --> 00:33:00,290
+El oficial se aleja, sigue recorriendo las avanzadas.
+
+257
+00:33:00,290 --> 00:33:11,570
+Muchos peludos, cubiertos con encerados, descansan echados en el fondo de la trinchera, y sobre las cajas de granadas de mano reclinan la cabeza.
+
+258
+00:33:11,570 --> 00:33:17,030
+El oficial pasa entre ellos despacio y tentando con el bastón.
+
+259
+00:33:17,030 --> 00:33:24,200
+De pronto, algún centinela que dormita, se despierta sobresaltado y dispara su fusil.
+
+260
+00:33:24,200 --> 00:33:25,990
+Corre la alarma.
+
+261
+00:33:25,990 --> 00:33:37,170
+Hay fusiladas caprichosas; vuelan los cohetes, y los peludos que reposan en el fondo de la trinchera se incorporan, metiendo la mano en las cajas de granadas.
+
+262
+00:33:37,170 --> 00:33:49,750
+El fuego se extingue lentamente; la línea vuelve a quedar en sombra, estremecida y vigilante, en una espera tensa, que agota más que la lucha.
+
+263
+00:33:49,750 --> 00:33:52,440
+Capítulo catorce
+
+264
+00:33:52,440 --> 00:34:05,280
+No tiene término en la noche la lívida llanura, y, en medio de la bruma, al claro lunar, se revela el espectro de una ciudad bombardeada: La ciudad de Arras.
+
+265
+00:34:05,280 --> 00:34:23,160
+Negras y destripadas humean las casas; la catedral es un montón de piedras; los sillares desbordan por las bocas de cuatro calles y las ciegan: Rosetones y cruces, gárgolas y capiteles mutilados asoman entre los escombros.
+
+266
+00:34:23,160 --> 00:34:40,910
+Las bombas caen abriendo grandes hoyos sobre la plaza de los porches, llena del recuerdo español, y muchas casas, con las puertas abiertas y las ventanas batiendo al viento, muestran la hondura tenebrosa del zaguán, donde se amontonan los ajuares.
+
+267
+00:34:40,910 --> 00:34:49,040
+Se aleja un carromato: Bambolea su carga de huchas, cacerolas y colchones: En lo alto va una cuna.
+
+268
+00:34:49,040 --> 00:35:08,030
+La ciudad parece abandonada: Hay parajes donde las casas se aplastaron y esparramaron por tierra como los castilletes que levantan los niños, y calles enteras donde los esqueletos permanecen en pie, con las fachadas en escombros, mostrando los interiores burgueses,
+
+269
+00:35:08,030 --> 00:35:16,380
+en una angustia de abandono, llena de gritos de mujeres y llanto de niños asustados que se agarran a las faldas.
+
+270
+00:35:16,380 --> 00:35:22,190
+En una costanilla, al abrigo del bombardeo, cargan otro carromato.
+
+271
+00:35:22,190 --> 00:35:24,770
+Hay un grupo de mujeres que se besan.
+
+272
+00:35:24,770 --> 00:35:38,490
+El mayoral pone prisa, y al cabo montan en el carro los que se van: Una viuda con dos hijas, dos muchachas pálidas, el cabello despeinado, los ojos llorosos.
+
+273
+00:35:38,490 --> 00:35:41,850
+Llegaron poco hace huídas de Combles.
+
+274
+00:35:41,850 --> 00:35:48,720
+El padre se fué a la guerra, y las dos muchachas están encintas de un soldado alemán.
+
+275
+00:35:48,720 --> 00:35:51,380
+Capítulo quince
+
+276
+00:35:51,380 --> 00:35:56,350
+El carro comienza a rodar, y las tres mujeres se santiguan.
+
+277
+00:35:56,350 --> 00:35:59,070
+Poco después la madre dormita.
+
+278
+00:35:59,070 --> 00:36:15,790
+El carro rueda por una carretera toda en claro de luna: Las muchachas miran con recelo al camino, levantan las lonas, y sus ojos tristes siguen la luz roja de los aviones, que cruzan el cielo como estrellas errantes.
+
+279
+00:36:15,790 --> 00:36:22,050
+Se oye lejano bombardeo, y se siente en torno la fragancia húmeda del heno.
+
+280
+00:36:22,050 --> 00:36:35,770
+De tiempo en tiempo, al borde de la carretera, aparece confusamente una gran mancha de ganado que acampa en el fondo de las praderas; otras veces es una aldea en ruinas.
+
+281
+00:36:35,770 --> 00:36:49,310
+La carretera se alarga sobre la llanura, se alarga infinitamente: Grandes molinos de viento, con las aspas quietas, la miran desde lejos enhiestos sobre los alcores.
+
+282
+00:36:49,310 --> 00:37:01,550
+Se columbran las granjas entre ramajes de un negro vaporoso, rayos de luz se filtran por los resquicios de los postigos, y se adivina el interior lleno de soldados.
+
+283
+00:37:01,550 --> 00:37:10,390
+Una de las muchachas asoma la cabeza por entre las lonas del carro, e interroga al mayoral con la voz llena de pena:
+
+284
+00:37:10,390 --> 00:37:12,870
+—¿Falta mucho, amigo?
+
+285
+00:37:12,870 --> 00:37:18,010
+El mayoral responde confusamente, con la pipa entre los dientes:
+
+286
+00:37:18,010 --> 00:37:20,630
+—Menos que al principio.
+
+287
+00:37:20,630 --> 00:37:26,240
+La niña sonríe apenas, cierra los ojos y se oprime la cintura:
+
+288
+00:37:26,240 --> 00:37:29,470
+—¡Se me abre el cuerpo de dolor!
+
+289
+00:37:29,470 --> 00:37:33,600
+Fin
+de la
+Sección tres
+
+290
+00:37:38,320 --> 00:37:45,720
+Sección cuatro
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+291
+00:37:45,720 --> 00:37:50,430
+Esta grabación de LibriVox es del dominio público.
+
+292
+00:37:50,430 --> 00:37:52,990
+Sección cuatro
+
+293
+00:37:52,990 --> 00:37:55,890
+Capítulo dieciséis
+
+294
+00:37:55,890 --> 00:38:02,310
+De pronto el carro se detiene bamboleante, y el mayoral salta a tierra.
+
+295
+00:38:02,310 --> 00:38:10,830
+Vacía la pipa, renegando la golpea contra la llanta de una rueda, y se la guarda en la zamarra.
+
+296
+00:38:10,830 --> 00:38:14,980
+Las tres mujeres se miran asustadas.
+
+297
+00:38:14,980 --> 00:38:17,730
+La madre interroga a las muchachas:
+
+298
+00:38:17,730 --> 00:38:20,150
+—¿Qué sucede, hijas mías?
+
+299
+00:38:20,150 --> 00:38:21,590
+¡Ay, qué sueño malo!
+
+300
+00:38:21,590 --> 00:38:23,250
+¡Qué sueño malo!
+
+301
+00:38:23,250 --> 00:38:25,400
+¿Pero qué sucede?
+
+302
+00:38:25,400 --> 00:38:31,290
+El mayoral levanta la lona y saca una pértiga del fondo del carro:
+
+303
+00:38:31,290 --> 00:38:33,940
+—¡No hay que asustarse, señoras!
+
+304
+00:38:33,940 --> 00:38:36,050
+Es un caballo muerto.
+
+305
+00:38:36,050 --> 00:38:46,030
+Estaba tendido en medio de la carretera, casi llenándola de lado a lado, rígido, negro, enorme.
+
+306
+00:38:46,030 --> 00:38:52,540
+Tenía rasgado el vientre, y el bamdullo fuera, en un charco de sangre pegajosa.
+
+307
+00:38:52,540 --> 00:39:01,500
+El mayoral, metiéndole la pértiga y apalancándola por debajo del costillar, le arrumba a un lado del camino.
+
+308
+00:39:01,500 --> 00:39:08,160
+Queda medio enterrado en la cuneta, con el cuello torcido y las cuatro patas en alto:
+
+309
+00:39:08,160 --> 00:39:10,140
+—¡Lástima de bestia!
+
+310
+00:39:10,140 --> 00:39:16,570
+El mayoral salta al pescante y empuña de nuevo las riendas.
+
+311
+00:39:16,570 --> 00:39:22,860
+Las tres mujeres, como al comienzo del viaje, se santiguan y rezan.
+
+312
+00:39:22,860 --> 00:39:30,570
+Cruza una tropa de jinetes indios, los rostros oscuros, los turbantes blancos.
+
+313
+00:39:30,570 --> 00:39:41,170
+Hay largas hileras de carros inmóviles sobre un lado del camino, carros de ametralladoras, carros de municiones, carros de forraje.
+
+314
+00:39:41,170 --> 00:39:44,880
+Son tantos que no se pueden contar.
+
+315
+00:39:44,880 --> 00:39:54,570
+Dos automóviles pasan veloces; dejan un rastro de polvo y gasolina; conducen oficiales del Estado Mayor.
+
+316
+00:39:54,570 --> 00:40:13,760
+Nueva tropa de jinetes indios, nuevos carros inmóviles a lo largo del camino, y una difusa fila de infantes, nebulosos, encorvados, taciturnos: Se apoyan en herrados bastones y llevan la mochila a la espalda.
+
+317
+00:40:13,760 --> 00:40:18,870
+Al atravesar una aldea se oye una gaita de escoceses.
+
+318
+00:40:18,870 --> 00:40:30,050
+Dos viejos rurales detienen el carro; el mayoral les entrega la orden de ruta, y se la devuelven tras de leerla a la luz de un farol.
+
+319
+00:40:30,050 --> 00:40:33,290
+El carro torna a rodar.
+
+320
+00:40:33,290 --> 00:40:37,250
+Una de las muchachas no cesa en su queja:
+
+321
+00:40:37,250 --> 00:40:39,120
+—¡Ay, Virgen Santa!...
+
+322
+00:40:39,120 --> 00:40:42,320
+¡Se me rompe el cuerpo de dolor!
+
+323
+00:40:43,920 --> 00:40:46,100
+Capítulo diecisiete
+
+324
+00:40:47,300 --> 00:41:02,630
+Ahora, a uno y otro lado del camino, aparecen campos cubiertos de cruces: Se agrandan sus brazos en el vaho de bruma que llena los ámbitos de la noche, y toda su forma se difunde en un halo.
+
+325
+00:41:02,630 --> 00:41:13,880
+Sobre el talud de la carretera reposa larga fila de muertos: Cavan cuatro azadones y se percibe el olor de la tierra removida.
+
+326
+00:41:13,880 --> 00:41:24,110
+Anda un grupo de soldados identificando los cadáveres, y los rostros lívidos surgen de pronto bajo el cono de luz de las linternas.
+
+327
+00:41:24,110 --> 00:41:26,930
+Habla una voz en la sombra:
+
+328
+00:41:26,930 --> 00:41:30,620
+—¡Aquí hay quien no tiene cabeza!
+
+329
+00:41:32,680 --> 00:41:34,940
+Y otra voz lejana interroga:
+
+330
+00:41:34,940 --> 00:41:36,750
+—¿Es un zuavo?
+
+331
+00:41:36,750 --> 00:41:38,270
+—Un zuavo.
+
+332
+00:41:38,270 --> 00:41:40,110
+—Le habrá rodado...
+
+333
+00:41:40,110 --> 00:41:43,520
+Yo recuerdo que se la puse sobre la tripa.
+
+334
+00:41:43,520 --> 00:41:53,900
+Entre la niebla y las estrellas, las figuras, las luces y las voces, guardan el acorde remoto que enlaza la vida y los sueños.
+
+335
+00:41:53,900 --> 00:42:03,040
+Un camillero que pasea la luz de su linterna cateando por la cuneta de la carretera, da una voz hablando a los del otro cabo:
+
+336
+00:42:03,040 --> 00:42:05,910
+—¡Ya pareció aquello!
+
+337
+00:42:05,910 --> 00:42:11,070
+Y levanta la cabeza trunca manchada de tierra y de sangre.
+
+338
+00:42:11,070 --> 00:42:19,200
+Otro soldado clava el zapapico en el borde de una cueva que casi le cubre, y salta fuera:
+
+339
+00:42:19,200 --> 00:42:22,950
+—¡Está abierta la cama para otros tres boches!
+
+340
+00:42:22,950 --> 00:42:25,090
+Responden del camino:
+
+341
+00:42:25,090 --> 00:42:27,080
+—¡Allá van!
+
+342
+00:42:27,080 --> 00:42:37,410
+Los llevan suspendidos por pies y por hombros; los brazos, les cuelgan rígidos; las manos, arañan el suelo.
+
+343
+00:42:37,410 --> 00:42:46,330
+Descansan los azadones, cantan los sapos en el fondo de los prados, y los muertos van al fondo de la fosa.
+
+344
+00:42:46,330 --> 00:42:50,320
+Un capellán castrense bendice la tierra.
+
+345
+00:42:50,320 --> 00:42:54,660
+La tropa se descubre y hace la señal de la cruz.
+
+346
+00:42:54,660 --> 00:43:09,270
+Entre la niebla y la luna danzan las siluetas confusas de dos soldados que apisonan la tierra, y el camillero que ha recogido la cabeza trunca, se limpia en la yerba las manos pegajosas de sangre.
+
+347
+00:43:09,270 --> 00:43:18,700
+Luego, para disipar las ideas tristes, todos trincan aguardiente esparcidos sobre la orilla del camino.
+
+348
+00:43:20,940 --> 00:43:23,140
+Capítulo dieciocho
+
+349
+00:43:24,360 --> 00:43:32,590
+El carro se detiene delante de un hospital con tres hileras de ventanas iguales, a la entrada de la villa de San Dionisio.
+
+350
+00:43:32,590 --> 00:43:51,990
+Muchas casas tienen hundida la techumbre; otras, derribado algún esquinal; las acacias de la plaza también muestran las huellas del bombardeo, y son tantas las ramas desgajadas, que cubren el camino como una alfombra.
+
+351
+00:43:51,990 --> 00:43:56,250
+En el hospital, todas las ventanas están sin cristales.
+
+352
+00:43:56,250 --> 00:44:09,550
+Las tres mujeres penetran tímidamente en el zaguán, y una monja halduda, con grandes tocas y gran rosario pendulando de la cintura, les sale al encuentro.
+
+353
+00:44:09,550 --> 00:44:24,050
+Las dos hermanas, al verla, comienzan a sollozar con extrema congoja, y la monja las toma de las manos y las lleva por un corredor blanco, alumbrado, a grandes trechos, por lamparillas de petróleo.
+
+354
+00:44:24,050 --> 00:44:34,940
+Sobre el muro se desenvuelve un vía crucis, y en el vasto silencio de la santa casa, resuena el alarido de una mujer doliente.
+
+355
+00:44:34,940 --> 00:44:45,690
+Las dos niñas, con el pañuelo sobre el rostro, sofocan su congoja, y la monjita habla consolándolas con una voz balsámica.
+
+356
+00:44:45,690 --> 00:44:52,190
+La madre va detrás, atónita, deshecha, agotada.
+
+357
+00:44:52,190 --> 00:44:56,390
+Pasa presurosa una mandadera con ropa blanca:
+
+358
+00:44:56,390 --> 00:44:58,370
+—¡Ave María Purísima!
+
+359
+00:44:58,370 --> 00:45:00,900
+—¡Sin pecado concebida!
+
+360
+00:45:00,900 --> 00:45:13,630
+Empuja la puerta que hay entornada hacia el final del corredor, y brevemente se ve a otra monja vieja, sentada en una silla baja, poniendo los pañales a un recién nacido.
+
+361
+00:45:13,630 --> 00:45:20,770
+Las dos hermanas vuelven los ojos a la madre y se abrazan a ella crispadas y dando gritos.
+
+362
+00:45:20,770 --> 00:45:31,960
+La profesa las empuja suavemente, las lleva a una sala grande, blanca, cuadrada, fría en fuerza de limpia y desnuda.
+
+363
+00:45:34,740 --> 00:45:36,830
+Capítulo diecinueve
+
+364
+00:45:36,830 --> 00:45:45,920
+Cuando entra el médico, la monjita se retira a la puerta y espera allí, bajos los ojos y las manos en cruz.
+
+365
+00:45:45,920 --> 00:45:53,000
+El médico es un viejo enjuto, con el gesto apasionado y expresivo de los grandes habladores.
+
+366
+00:45:53,000 --> 00:45:55,420
+Saluda al entrar:
+
+367
+00:45:55,420 --> 00:45:58,200
+—¿Qué tienen estas niñas?
+
+368
+00:45:58,200 --> 00:46:04,540
+Luego, viéndolas afligirse, murmura con la voz conciliadora y simpática:
+
+369
+00:46:04,540 --> 00:46:07,320
+—¡Bueno, ya sé lo que tienen!
+
+370
+00:46:07,320 --> 00:46:09,840
+¡No se apuren, hijas mías!
+
+371
+00:46:09,840 --> 00:46:12,700
+Se sienta cerca de la madre:
+
+372
+00:46:12,700 --> 00:46:17,880
+—Primero será bien que nosotros dos celebremos consejo.
+
+373
+00:46:17,880 --> 00:46:23,630
+La madre mira obstinadamente sus manos cruzadas, y alza las cejas:
+
+374
+00:46:23,630 --> 00:46:25,790
+—Sí, señor, sí...
+
+375
+00:46:25,790 --> 00:46:28,510
+¿Usted ya está enterado...?
+
+376
+00:46:28,510 --> 00:46:31,330
+—De todo, hijas, de todo...
+
+377
+00:46:31,330 --> 00:46:33,510
+Dicen que es la guerra...
+
+378
+00:46:33,510 --> 00:46:34,510
+¡Mentira!
+
+379
+00:46:34,510 --> 00:46:39,470
+Nunca el quemar y el violar ha sido una necesidad de la guerra.
+
+380
+00:46:39,470 --> 00:46:43,010
+Es la barbarie atávica que se impone...
+
+381
+00:46:43,010 --> 00:46:50,890
+Todavía esos hombres tienen muy próximo el abuelo de las selvas, y en estos grandes momentos revive en ellos.
+
+382
+00:46:50,890 --> 00:46:59,840
+Es su verdadera personalidad que la guerra ha determinado y puesto de relieve, como hace el vino con los borrachos.
+
+383
+00:46:59,840 --> 00:47:03,230
+Una de las muchachas murmura crispada:
+
+384
+00:47:03,230 --> 00:47:06,000
+—¡Es el odio a Francia!
+
+385
+00:47:06,000 --> 00:47:10,640
+El médico la mira lleno de simpatía y le estrecha la mano:
+
+386
+00:47:10,640 --> 00:47:14,080
+—Es el odio al mundo clásico, hija mía.
+
+387
+00:47:14,080 --> 00:47:18,030
+Odio de incluseros a los que tienen abolengo.
+
+388
+00:47:18,030 --> 00:47:32,620
+Aquel viejo enjuto, de ojos hundidos, velados por largos párpados como las águilas, tenía en la voz una sinceridad apasionada que comenzaba a ganar el corazón de las tres pobres mujeres.
+
+389
+00:47:32,620 --> 00:47:45,140
+La madre es blanca, pesada, con el rostro enrojecido por las lágrimas: Hace recordar esas muñeconas ajadas y maltratadas que deshechan los niños.
+
+390
+00:47:45,140 --> 00:47:50,320
+De las dos hijas, sólo la más pequeña tiene los rasgos de la madre.
+
+391
+00:47:50,320 --> 00:48:00,470
+Carolina, la mayor, es alta, delgada, con una palidez lunaria, y los ojos negros, cargados de tristeza.
+
+392
+00:48:00,470 --> 00:48:07,810
+Aun no ha desaparecido por completo la sonrisa de su boca, que debió ser llena de gracia.
+
+393
+00:48:07,810 --> 00:48:15,310
+Tiene el cabello fosco, y cuando lo aparta de la frente, descubre sobre las sienes dos rincones de locura.
+
+394
+00:48:15,310 --> 00:48:27,020
+Enriqueta, la menor, es rubia, muy infantil, y tan blanca y fina de tez, que toda la cara tiene escaldada de llorar.
+
+395
+00:48:27,020 --> 00:48:37,220
+El médico se levanta, mira de cerca el rostro de las dos muchachas, las pulsa, y, finalmente, las ruega que se pongan en pie.
+
+396
+00:48:37,220 --> 00:48:42,320
+Con una mirada seria y profunda las recorre de arriba abajo:
+
+397
+00:48:42,320 --> 00:48:43,890
+—¡Bueno!
+
+398
+00:48:43,890 --> 00:48:45,840
+Ya estoy enterado...
+
+399
+00:48:45,840 --> 00:48:49,050
+Ahora no conviene molestarlas más.
+
+400
+00:48:49,050 --> 00:48:51,610
+Ahora que descansen.
+
+401
+00:48:51,610 --> 00:48:55,230
+Mañana haremos un reconocimiento detenido...
+
+402
+00:48:55,230 --> 00:49:02,090
+La mayor de las muchachas se dejó caer en la silla, tapándose la cara con las manos:
+
+403
+00:49:02,090 --> 00:49:06,260
+—¡Doctor, yo no quiero tener un hijo de los bárbaros!...
+
+404
+00:49:06,260 --> 00:49:08,980
+¡No quiero llevar este contagio conmigo!
+
+405
+00:49:08,980 --> 00:49:13,600
+¡Si usted no me liberta de esta cadena, yo me mataré!
+
+406
+00:49:14,680 --> 00:49:28,430
+Acabó en una crisis nerviosa, torciendo los ojos, rechinando los dientes, y levantándose con grandes botes de la silla, entre los brazos de la madre y la hermana, que habían acudido a sostenerla.
+
+407
+00:49:28,430 --> 00:49:41,560
+Salió de aquel estado pálida, ojerosa, contrita, hablando en voz muy tenue, con una expresión de dolor desvalido, de vida miserable que se acaba:
+
+408
+00:49:41,560 --> 00:49:44,110
+—¡Haber nacido para esto!
+
+409
+00:49:44,110 --> 00:49:46,740
+¡Haber vivido para esto!
+
+410
+00:49:48,860 --> 00:49:50,570
+Capítulo veinte
+
+411
+00:49:50,570 --> 00:49:55,050
+Cerca del amanecer llega un convoy de heridos.
+
+412
+00:49:55,050 --> 00:50:00,890
+Bajo las acacias desmochadas se tienden cuarenta carros de la Cruz Roja.
+
+413
+00:50:00,890 --> 00:50:15,050
+Falta sitio, y las monjitas belgas, refugiadas en aquel hospital de una villa francesa, ofrecen sus celdas y sus lechos, blancos como altares, para los soldados de la República.
+
+414
+00:50:15,050 --> 00:50:18,550
+Los corredores rebosan de heridos.
+
+415
+00:50:18,550 --> 00:50:27,860
+Yacen las camillas a uno y otro rumbo del muro, formando una vía dolorosa llena de quejas y largos ayes.
+
+416
+00:50:27,860 --> 00:50:38,360
+Algunos heridos leves, pálidos y soñolientos, con los vendajes salpicados de sangre y de barro, descansan en los bancos del locutorio.
+
+417
+00:50:38,360 --> 00:51:00,530
+La escalera está llena de soldados dormidos, con las mochilas por cabezal: Se arrebujaban en pardas mantas, exhalaban un vaho húmedo: Son bisoños aspeados, y tan rendidos de fatiga, que, al entrar bajo techado, tiran la mochila por delante y se tumban.—
+
+418
+00:51:00,530 --> 00:51:06,160
+Los corredores están llenos de movimiento, de voces y de lodo.
+
+419
+00:51:06,160 --> 00:51:14,180
+En el camino que forman las dos hileras de camillas, los clavos de las fuertes botas militares dejan su impronta.
+
+420
+00:51:14,180 --> 00:51:23,980
+Al ruido de los pasos, una mano, que muestra su lividez bajo la suciedad del barro y de la pólvora, levanta el hule del cabecero:
+
+421
+00:51:23,980 --> 00:51:25,810
+—¡Me muero de sed!
+
+422
+00:51:25,810 --> 00:51:27,220
+¡Me muero de sed!
+
+423
+00:51:27,220 --> 00:51:30,990
+Es una voz sofocada.
+
+424
+00:51:30,990 --> 00:51:40,280
+Se ve la frente envuelta en vendajes de gasa con roeles de sangre fresca, y todo el rostro desaparece bajo los vendajes.
+
+425
+00:51:40,280 --> 00:51:56,190
+De otras camillas se escapa una queja débil, de otras palabras acalenturadas, estertores, gritos de delirio, también hay algunas en silencio profundo, como féretros.
+
+426
+00:51:56,190 --> 00:52:03,410
+Los gritos, las suplicaciones, las frases caóticas devanadas sin tregua, hacen babel.
+
+427
+00:52:03,410 --> 00:52:06,320
+Un herido no cesa de gritar:
+
+428
+00:52:06,320 --> 00:52:07,680
+—¡Los ingleses!
+
+429
+00:52:07,680 --> 00:52:09,450
+¡Los ingleses!
+
+430
+00:52:09,450 --> 00:52:14,740
+Retiembla la camilla, saca los brazos agitando las manos:
+
+431
+00:52:14,740 --> 00:52:16,290
+—¡Los ingleses!
+
+432
+00:52:16,290 --> 00:52:17,970
+¡Los ingleses!
+
+433
+00:52:17,970 --> 00:52:28,010
+Y siempre lo mismo, el mismo sopor inexpresivo en el grito, el mismo pensamiento oscuro dando vueltas como la piedra de un molino.
+
+434
+00:52:28,010 --> 00:52:32,070
+Era más angustioso de oír que una queja desgarrada.
+
+435
+00:52:32,070 --> 00:52:38,160
+Otro herido da voces heroicas; otro, ríe con gran jolgorio:
+
+436
+00:52:38,160 --> 00:52:40,460
+—¡No te vayas, Juana!
+
+437
+00:52:40,460 --> 00:52:41,910
+¡Escucha, Juanita!...
+
+438
+00:52:41,910 --> 00:52:42,590
+¡Ja, ja, ja!...
+
+439
+00:52:42,590 --> 00:52:45,030
+¡Si no te pellizco!
+
+440
+00:52:45,030 --> 00:52:52,220
+Fin
+de la
+Sección cuatro
+
+441
+00:52:53,280 --> 00:53:00,420
+Sección cinco
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+442
+00:53:00,420 --> 00:53:05,240
+Esta grabación de LibriVox es del dominio público.
+
+443
+00:53:05,240 --> 00:53:07,100
+Sección cinco
+
+444
+00:53:07,100 --> 00:53:09,800
+Capítulo veintiuno
+
+445
+00:53:11,100 --> 00:53:22,600
+En la sala de operaciones, blanca e iluminada, médicos y enfermeros con delantales, no se dan reposo lavando heridas, restañando la sangre, rasgando vendajes.
+
+446
+00:53:22,600 --> 00:53:37,380
+Sobre los tableros de mármol, las lámparas de alcohol levantan sus lenguas azules; los ayudantes desinfectan tijeras y pinzas; el olor del cloroformo, olor a manzanas, satura el aire.
+
+447
+00:53:37,380 --> 00:53:41,730
+El Doctor Verdier murmura mientras desnudan a un herido:
+
+448
+00:53:41,730 --> 00:53:44,690
+—Me temo que seamos desbordados...
+
+449
+00:53:44,690 --> 00:53:49,850
+Habrá que ver de habilitar la iglesia, porque aquí pronto nos faltará sitio.
+
+450
+00:53:49,850 --> 00:53:51,370
+¿Y paja?
+
+451
+00:53:51,370 --> 00:53:54,720
+¿Tendremos paja para hacer camastros?
+
+452
+00:53:54,720 --> 00:54:00,750
+Está librándose una gran batalla; se oye el bombardeo lejano y constante.
+
+453
+00:54:00,750 --> 00:54:16,240
+Patrullas de caballería, carros de ametralladoras, convoyes de municiones escoltados por tropas de infantes, desfilan sin intervalo por la única calle de la villa, para ir a perderse en la bruma del Suroeste.
+
+454
+00:54:17,460 --> 00:54:19,440
+Capítulo veintidós
+
+455
+00:54:19,440 --> 00:54:29,820
+Desde hace muchos días, ingleses y franceses bombardean sin tregua las líneas alemanas, en tierras de Flandes y Picardía.
+
+456
+00:54:29,820 --> 00:54:38,660
+Todos los caminos de la retaguardia están llenos de carros y de tropas: No cesan de cruzar automóviles del Estado Mayor.
+
+457
+00:54:38,660 --> 00:54:47,350
+En algunos parajes el barro es tanto, que los soldados se entierran hasta la cintura, y los carros no pueden rodar.
+
+458
+00:54:47,350 --> 00:54:56,610
+Largos convoyes quedan horas y horas detenidos sobre la cuneta de las carreteras, al socaire de los árboles que desmocha la metralla:
+
+459
+00:54:56,610 --> 00:55:13,860
+Horas y horas, hasta que llega una orden con el cambio de ruta.—La vasta línea del horizonte se abre con el relámpago de los cañones, son tantos, que su claridad se enlaza, y parece un enorme pestañeo de la tierra en tinieblas.
+
+460
+00:55:13,860 --> 00:55:29,290
+Desaparecen los ejércitos en el silo de sus parapetos, y en la negra llanura sin hombres, el estruendo de las bocas de fuego tiene la resonancia religiosa y magnífica de las voces elementarias en los cataclismos.
+
+461
+00:55:29,290 --> 00:55:46,260
+Las tropas acantonadas en la retaguardia, sienten el impulso unánime de correr hacia delante: Los soldados abren el corazón a la victoria, y los caballos saludan con sensuales relinchos el caliente olor de la pólvora.
+
+462
+00:55:46,260 --> 00:55:53,670
+En medio del horror y de la muerte, una vena profunda de alegría recorre los ejércitos de Francia.
+
+463
+00:55:53,670 --> 00:56:09,380
+Es la conciencia de la resurrección.—Los artilleros, enterrados en sus casamatas, regulan el tiro de los cañones con un sentido matemático y devoto, como artífices que labrasen las piedras de un templo.
+
+464
+00:56:09,380 --> 00:56:21,530
+Es la religión de la guerra, y como las almas tienen hermandad, sus palabras son breves: Por la virtud de la sonrisa y la luz de los ojos se comunican en el silencio:
+
+465
+00:56:21,530 --> 00:56:33,540
+Cuando asomados a las troneras, contemplan el incendio de las granadas, cobran aquella expresión radiante que las santas apariciones ponían en el rostro de los místicos.
+
+466
+00:56:34,820 --> 00:56:36,790
+Capítulo veintitrés
+
+467
+00:56:36,790 --> 00:56:47,130
+Las bombas caen en lluvia sobre las trincheras alemanas, las desmoronan, las escombran, las arrasan: Es un ciclón de fuego.
+
+468
+00:56:47,130 --> 00:56:58,330
+Y la artillería teutona, si responde rabiosa en unos parajes, en otros calla impotente para cubrir la extensa línea que los aliados atacan.
+
+469
+00:56:58,330 --> 00:57:13,610
+Sus parapetos están llenos de muertos, y los soldados atónitos, huraños a los jefes, esperan el ataque de la infantería enemiga, sin una idea en la mente, ajenos a la victoria, ajenos a la esperanza.
+
+470
+00:57:13,610 --> 00:57:24,690
+Eran los dueños de la fuerza, y advierten oscuramente que otra fuerza superior ha nacido contraria a ellos, contraria a los destinos de Alemania.
+
+471
+00:57:24,690 --> 00:57:32,070
+Una sima profunda se abre en aquellas almas ingenuas y bárbaras, otro tiempo llenas de fe.
+
+472
+00:57:32,070 --> 00:57:42,160
+Los jefes sienten la muda repulsa del soldado, el desasimiento de la tierra invadida, el anhelo pacífico por volver a los hogares:
+
+473
+00:57:42,160 --> 00:58:00,320
+Y a los que están en las trincheras se les emborracha para darle bríos, y a los que sirven las ametralladoras se les trinca con ellas porque no puedan desertar, y el látigo de los oficiales que recorren la línea de vanguardia, pasa siempre azotando.
+
+474
+00:58:01,440 --> 00:58:03,540
+Capítulo veinticuatro
+
+475
+00:58:03,540 --> 00:58:08,820
+El grito enorme de la batalla estremece toda la tierra picarda.
+
+476
+00:58:08,820 --> 00:58:15,150
+Las aldeas están llenas de soldados, de caballos, de carros de municiones:
+
+477
+00:58:15,150 --> 00:58:34,760
+En las esquinas hay puestos de café caliente, y los ventorrillos de las carreteras, iluminados por una luz de petróleo, rebosan de uniformes: La lumbre de las pipas abre rojos reflejos en las caras que gesticulan en un vaho de humo, y se enraciman delante del mostrador.
+
+478
+00:58:34,760 --> 00:58:43,730
+De tarde en tarde un soldado sale a la puerta, mira al cielo y tiende la mano para cerciorarse de la lluvia.
+
+479
+00:58:43,730 --> 00:58:54,760
+A lo largo del camino, carros de ametralladoras, carros de forrajes, carros de municiones, carros de artillería, esperan la orden de ruta:
+
+480
+00:58:54,760 --> 00:59:11,660
+Cruzan automóviles con oficiales, y se pierden rápidamente en la niebla: Cruzan ciclistas con el fusil en banderola, jadeantes, obstinados sobre los pedales, y patrullas de caballería, y escuadras de infantes.
+
+481
+00:59:11,660 --> 00:59:26,400
+Canta en la noche una gaita de escoceses; los cohetes abren sus rosas en el aire; los reflectores exploran la campaña, y los carros vuelven a rodar deshaciendo las carreteras.
+
+482
+00:59:26,400 --> 00:59:37,020
+Tres hogueras, tres grandes hogueras, rojean sobre la llanura: Tres aldeas que los alemanes, al retirarse, han puesto en llamas.
+
+483
+00:59:38,020 --> 00:59:40,170
+Capítulo veinticinco
+
+484
+00:59:40,170 --> 00:59:48,790
+Algunos artilleros duermen sobre el heno, en el establo de una granja, y el imaginaria da voces golpeando en la puerta:
+
+485
+00:59:48,790 --> 00:59:50,450
+—¡Orden de partir!
+
+486
+00:59:50,450 --> 00:59:52,600
+¡Orden de partir!
+
+487
+00:59:52,600 --> 00:59:57,620
+Se saca el ganado tirando de las colleras, y se engancha a tientas.
+
+488
+00:59:57,620 --> 00:59:58,860
+Llueve.
+
+489
+00:59:58,860 --> 01:00:04,370
+Los artilleros, malhumorados, van de una parte a otra como sombras:
+
+490
+01:00:04,370 --> 01:00:06,650
+—¡Cochino tiempo!
+
+491
+01:00:06,650 --> 01:00:13,810
+Se tropiezan, se injurian, hacen estallar los látigos sobre las ancas de los caballos.
+
+492
+01:00:13,810 --> 01:00:15,860
+Una voz interroga:
+
+493
+01:00:15,860 --> 01:00:18,210
+—¿Se sabe adónde vamos?
+
+494
+01:00:18,210 --> 01:00:20,560
+Y otra voz responde:
+
+495
+01:00:20,560 --> 01:00:22,920
+—¡Al baile de las peladillas!
+
+496
+01:00:22,920 --> 01:00:25,420
+—¡Qué noche de aguas!
+
+497
+01:00:25,420 --> 01:00:30,560
+Los caballos alargan el cuello sacudiendo las orejas bajo la lluvia.
+
+498
+01:00:30,560 --> 01:00:38,230
+En la oscuridad, los hombres y las bestias con su halo de niebla, tienen una lentitud incorpórea.
+
+499
+01:00:38,230 --> 01:00:46,340
+No puede distinguirse quien habla, y las voces están llenas de vaguedad, como si viniesen de muy lejos:
+
+500
+01:00:46,340 --> 01:00:50,060
+—¡Cochino tiempo y cochina guerra!
+
+501
+01:00:50,060 --> 01:00:52,140
+¡Cuándo acabará esto!
+
+502
+01:00:52,140 --> 01:00:54,670
+—¡Esto no acaba nunca!
+
+503
+01:00:54,670 --> 01:00:57,480
+Un soldado grita enfurecido:
+
+504
+01:00:57,480 --> 01:00:58,730
+—¡Sooo!...
+
+505
+01:00:58,730 --> 01:01:00,870
+¡El diablo tiene este ladrón!
+
+506
+01:01:00,870 --> 01:01:03,070
+¡Sooo, Fanfan!
+
+507
+01:01:03,070 --> 01:01:09,740
+Los conductores en el pescante de los carros, templan las bridas y restallan el látigo.
+
+508
+01:01:09,740 --> 01:01:13,400
+La batería está formada sobre la carretera fangosa.
+
+509
+01:01:13,400 --> 01:01:26,240
+En una esquina, al abrigo de la iglesia, brilla el anafre de una vieja que vende café y aguardiente a los soldados, que, inclinados sobre el cuello de sus caballos, le tienden los vasos.
+
+510
+01:01:26,240 --> 01:01:33,490
+La vieja va de unos en otros con la mano puesta sobre la faltriquera llena de calderilla:
+
+511
+01:01:33,490 --> 01:01:36,310
+—¡Buena suerte, mocines!
+
+512
+01:01:36,310 --> 01:01:45,780
+La batería rueda por la carretera llena de baches, entre ráfagas de lluvia, y ráfagas de viento que aborrasca la crin de los caballos.
+
+513
+01:01:45,780 --> 01:01:59,530
+La oscuridad es tan densa, que los artilleros, sentados sobre los armones, no alcanzan a ver el tiro delantero, y la silueta del guía aparece apenas como una sombra indecisa y movediza.
+
+514
+01:01:59,530 --> 01:02:05,280
+Los soldados guardan silencio, entumecidos y desalentados.
+
+515
+01:02:05,280 --> 01:02:07,780
+De tarde en tarde, un gruñido:
+
+516
+01:02:07,780 --> 01:02:09,400
+—¡Cochino tiempo!
+
+517
+01:02:09,400 --> 01:02:11,880
+—¡Cochina guerra!
+
+518
+01:02:11,880 --> 01:02:14,320
+—¡Y esto no acaba nunca!
+
+519
+01:02:14,320 --> 01:02:17,600
+—Esto lo acabarán las mujeres.
+
+520
+01:02:17,600 --> 01:02:24,590
+Un soldado destapa la cantimplora del aguardiente, y se la ofrece al que va a su vera en el armón.
+
+521
+01:02:24,590 --> 01:02:26,410
+El otro trinca:
+
+522
+01:02:26,410 --> 01:02:28,560
+—¡Es un viaje de recreo!
+
+523
+01:02:28,560 --> 01:02:31,310
+¿Y adónde nos llevarán los señores?
+
+524
+01:02:31,310 --> 01:02:33,440
+—Adonde no hagamos falta.
+
+525
+01:02:33,440 --> 01:02:36,200
+En llegando, nos mandarán retirarnos.
+
+526
+01:02:36,200 --> 01:02:40,310
+—¡Si tuvieran goteras los autos del Estado Mayor!
+
+527
+01:02:40,310 --> 01:02:43,540
+Los armones rebotan en los baches.
+
+528
+01:02:43,540 --> 01:02:47,120
+El barro salpica la espalda de los artilleros.
+
+529
+01:02:47,120 --> 01:02:56,840
+El látigo estalla sobre las grupas de los caballos que galopan contra el viento y la lluvia, levantada la ola de la crin.
+
+530
+01:02:56,840 --> 01:03:00,610
+A lo largo de las líneas hay un silencio lleno de recelos.
+
+531
+01:03:00,610 --> 01:03:07,590
+Se oye el resoplar de un tren que derrama su cabellera de chispas en la cerrazón de la noche.
+
+532
+01:03:07,590 --> 01:03:11,820
+Fin
+de la
+Sección cinco
+
+533
+01:03:16,640 --> 01:03:24,100
+Sección seis
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+534
+01:03:24,100 --> 01:03:29,500
+Esta grabación de LibriVox es del dominio público.
+
+535
+01:03:30,560 --> 01:03:32,790
+Capítulo veintiséis
+
+536
+01:03:32,790 --> 01:03:34,780
+¡Las Argonas!
+
+537
+01:03:34,780 --> 01:03:36,330
+¡Lluvia y viento!
+
+538
+01:03:36,330 --> 01:03:39,550
+¡Lluvia y viento a todo dar de Dios!
+
+539
+01:03:39,550 --> 01:03:45,990
+Una silenciosa escuadra de peludos avanza en fila india chapoteando en el barro de la trinchera.
+
+540
+01:03:45,990 --> 01:03:54,190
+El cabo explora el camino con una linterna sorda que abre ráfagas de luz en la negrura del foso.
+
+541
+01:03:54,190 --> 01:04:02,400
+Son diez y seis hombres tristes y entumecidos, diez y seis voluntades sumisas al destino de Francia.
+
+542
+01:04:02,400 --> 01:04:15,070
+Avanzan por la trinchera anegada, resbalando, cayendo, levantándose cubiertos de cieno, resignados al viento, a la lluvia y a la muerte.
+
+543
+01:04:15,070 --> 01:04:23,520
+De tiempo en tiempo, entre el sordo rumor de su marcha, se percibe el entrechoque de palas y zapapicos.
+
+544
+01:04:23,520 --> 01:04:29,890
+En algunos parajes, la tufarada de podredumbre escalofría las carnes.
+
+545
+01:04:29,890 --> 01:04:44,180
+En otros, el fuego de los cañones alemanes ha removido la tierra a tal extremo, que de la trinchera no queda el más leve vestigio, y los soldados se extravían en un lago de barro.
+
+546
+01:04:44,180 --> 01:04:52,920
+Tomin, el cabo de la escuadra, explora el campo, y en voz baja da órdenes para abrir el desagüe.
+
+547
+01:04:52,920 --> 01:05:01,850
+Los soldados trabajan con una resignación sombría, y un poso de odio para aquellos que invaden la tierra francesa:
+
+548
+01:05:01,850 --> 01:05:15,740
+¡Aquellos soldados chatos y brutales que cantan como salvajes, que combaten borrachos, que soportan el látigo de los oficiales, que son esclavos en una tierra donde aun hay castas y reyes!
+
+549
+01:05:15,740 --> 01:05:23,730
+Para los soldados franceses, el sentimiento de la dignidad humana se enraíza con el odio a las jerarquías:
+
+550
+01:05:23,730 --> 01:05:38,080
+La Marsellesa les conmueve hasta las lágrimas, y tienen de sus viejas revoluciones la idea sentimental de un melodrama casi olvidado, donde son siempre los traidores, príncipes y reyes.
+
+551
+01:05:38,080 --> 01:05:40,730
+Capítulo veintisiete
+
+552
+01:05:40,730 --> 01:05:58,040
+Los diez y seis hombres de la escuadra trabajan en silencio: Están a pocos pasos de las líneas alemanas y el más leve rumor puede descubrirles: Abren una zanja que en pocos momentos se atuye de agua fangosa.
+
+553
+01:05:58,040 --> 01:06:07,240
+Las alambradas rotas y retorcidas salen de entre el barro desgarrándoles la carne, y cavan enredados en ellas.
+
+554
+01:06:07,240 --> 01:06:15,130
+Cuando los cohetes se encienden en el aire, los peludos franceses quedan inmóviles en el lago de cieno.
+
+555
+01:06:15,130 --> 01:06:21,700
+De tarde en tarde una ametralladora perdida en la noche, desgrana sus truenos:
+
+556
+01:06:21,700 --> 01:06:39,430
+El sonido se esfuma a intervalos en las ráfagas del viento y la lluvia, tiene repliegues profundos como si tomase la forma quebrada del terreno: Se revela de pronto, y de pronto se amengua, en una línea llena de dramatismo.
+
+557
+01:06:39,430 --> 01:06:47,080
+Los soldados prolongan la zanja hasta un barranco, y el agua se precipita haciendo torrente.
+
+558
+01:06:47,080 --> 01:06:51,310
+Comienza a perfilarse la forma de la trinchera.
+
+559
+01:06:51,310 --> 01:07:01,330
+Aparecen algunos muertos enracimados en el fondo, y los soldados van sacándolos de entre el cieno y alineándolos sobre el talud.
+
+560
+01:07:01,330 --> 01:07:06,120
+Desentierran dos ametralladoras retorcidas como virutas.
+
+561
+01:07:06,120 --> 01:07:22,950
+El cabo mete su linterna por la boca de los abrigos: La luz tiembla sobre el agua dormida, las ratas trepan asustadizas por el muro de tierra, y unas botas negras e hinchadas rompen el haz de la charca.
+
+562
+01:07:22,950 --> 01:07:26,100
+Las aguas hacen un círculo en torno.
+
+563
+01:07:26,100 --> 01:07:28,870
+Los pies del muerto tienen un ligero vaiven.
+
+564
+01:07:28,870 --> 01:07:32,140
+El cabo murmura:
+
+565
+01:07:32,140 --> 01:07:35,650
+—Dejaremos para mañana achicar el agua.
+
+566
+01:07:35,650 --> 01:07:41,270
+Un peludo se acerca, y mete la cabeza atisbando por detrás del cabo:
+
+567
+01:07:41,270 --> 01:07:45,240
+—¡Aquí parece que no se ha salvado ninguno!
+
+568
+01:07:45,240 --> 01:07:48,540
+El cabo le mira por encima del hombro:
+
+569
+01:07:48,540 --> 01:07:50,570
+—¡Las ratas!
+
+570
+01:07:50,570 --> 01:07:53,020
+—¡Esos ya descansan!
+
+571
+01:07:53,020 --> 01:07:56,100
+—Pues tú no te cambiarías por ellos...
+
+572
+01:07:56,100 --> 01:08:01,720
+Y al cabo, si no hoy, mañana, todos estaremos así.
+
+573
+01:08:01,720 --> 01:08:05,390
+Se alejan encorvados bajo el temporal.
+
+574
+01:08:05,390 --> 01:08:10,030
+Se oye el rumor del agua que baja al barranco.
+
+575
+01:08:10,030 --> 01:08:11,680
+El soldado murmura:
+
+576
+01:08:11,680 --> 01:08:14,280
+—¡Si la guerra acabase!...
+
+577
+01:08:14,280 --> 01:08:17,620
+—¿Tú, qué gente tienes allá abajo?
+
+578
+01:08:17,620 --> 01:08:19,660
+—Mujer y tres hijos.
+
+579
+01:08:19,660 --> 01:08:20,600
+¿Y tú?
+
+580
+01:08:20,600 --> 01:08:21,960
+—¡Nadie!
+
+581
+01:08:21,960 --> 01:08:23,630
+—¿Eres soltero?
+
+582
+01:08:23,630 --> 01:08:25,770
+—Soy divorciado.
+
+583
+01:08:25,770 --> 01:08:29,890
+El cabo mete la linterna por la boca de otro abrigo.
+
+584
+01:08:29,890 --> 01:08:32,870
+La luz tiembla sobre el agua negra.
+
+585
+01:08:32,870 --> 01:08:38,550
+Un perro de lanas nada teniendo en los dientes el brazo de un cuerpo que se hunde.
+
+586
+01:08:38,550 --> 01:08:40,930
+Se ve la mano lívida.
+
+587
+01:08:40,930 --> 01:08:44,420
+El perro nada hacia la luz.
+
+588
+01:08:45,640 --> 01:08:47,470
+Capítulo veintiocho
+
+589
+01:08:47,470 --> 01:08:54,590
+Palidecen las estrellas del alba, y comienza el relevo de tropas en todo el frente de batalla.
+
+590
+01:08:54,590 --> 01:08:59,440
+Las columnas de soldados avanzan por cientos de caminos.
+
+591
+01:08:59,440 --> 01:09:12,270
+Los que van a las trincheras fuman ahincadamente la pipa, y distraen los ojos sobre la campaña, hablan con ingenua sonrisa, tienen el rostro encendido del frío, y el mirar sereno.
+
+592
+01:09:12,270 --> 01:09:29,490
+Por las carreteras se perfilan los largos convoyes: Unas veces, inmóviles, tendidos a lo largo de los pueblos bombardeados; otras, rodantes; otras, descansando a la sombra de las alamedas.
+
+593
+01:09:29,490 --> 01:09:44,270
+Los soldados que tornan de las trincheras caminan en silencio, dispersos, rezagados, cubiertos de barro, el rostro en gran palidez, y los ojos atónitos bajo el ceño obstinado.
+
+594
+01:09:44,270 --> 01:09:49,080
+Las formas de las cosas se revelan en la luz indecisa del alba.
+
+595
+01:09:49,080 --> 01:10:03,560
+Negros trenes cargados de tropas cruzan sobre puentes de bruma, con gran estrépito de hierros: Huyen por las llanuras, aparecen y desaparecen entre boscajes, jadean por altos terraplenes.
+
+596
+01:10:03,560 --> 01:10:14,340
+A retaguardia del enorme foso que ondula desde el mar a los montes alsacianos, los pueblos bombardeados salen de la noche con la expresión trágica de la guerra.
+
+597
+01:10:14,340 --> 01:10:25,600
+Ciudades cercadas por serenos ríos, villas sobre provinciales carreteras, aldeas entre prados, levantan sus ruinas frente al campo de batalla.
+
+598
+01:10:25,600 --> 01:10:38,670
+Las casas, negras del incendio, con la techumbre hundida entre los cuatro paredones, y desmoronándose las tripas de cascote, son ruinas de una emoción árida y acongojada.
+
+599
+01:10:38,670 --> 01:10:43,450
+Muchas ya tienen su recinto lleno de ortigas y lagartos.
+
+600
+01:10:43,450 --> 01:11:01,720
+Los cementerios militares se tienden a la vera de los caminos, entre los pueblos quemados y saqueados.—¡Campos de cruces, húmedos campos de aquel verde triste y cristalino que tiene la emoción remota y musical del divino sollozo con que se ama!—
+
+601
+01:11:01,720 --> 01:11:10,830
+Los cementerios marcan la línea de las batallas, y las tumbas francesas y las alemanas están cavadas a la par.
+
+602
+01:11:10,830 --> 01:11:30,600
+La bruma del alba se sutiliza sobre las ruinas, se desgarra en las cruces, vuela ingrávida sobre el enorme foso desde los montes alsacianos a las marinas flamencas, y en este lívido tránsito de la noche al día comienzan a perfilarse las formas de los muertos.
+
+603
+01:11:30,600 --> 01:11:40,180
+Hay parajes donde se amontonan, y otros de muchas leguas llenos del canto de los pájaros, como olvidados de la matanza.
+
+604
+01:11:40,180 --> 01:11:56,350
+Este momento frío y gris, en que el soldado al salir de las tinieblas de la noche, mira en torno suyo los compañeros muertos, las ametralladoras rotas, la trinchera desmoronada, es el más deprimente de la guerra.
+
+605
+01:11:56,350 --> 01:12:03,230
+Las tropas vuelven de las trincheras a sus alojamientos con una expresión de trágica demencia.
+
+606
+01:12:03,230 --> 01:12:22,650
+Y al ventero, delante de la puerta donde se detienen a beber un vaso de vino; y a los viejos que labran los campos; y a las mujeres que guían un carricoche; a todos cuantos preguntan de la batalla, responden con el mismo gesto obstinado, con la misma voz apasionada:
+
+607
+01:12:22,650 --> 01:12:25,220
+—¡No pasarán!
+
+608
+01:12:26,960 --> 01:12:29,090
+Capítulo veintinueve
+
+609
+01:12:29,090 --> 01:12:39,650
+Esta misma hora es de nieve y ventisca en los montes alsacianos, de niebla espesa en el mar, de fría lividez en la Champaña...
+
+610
+01:12:39,650 --> 01:13:00,210
+Pero en las doscientas leguas de foso cenagoso, lleno de ratas y de resplandores, donde el peludo tirita con las manos doloridas sobre el fusil, estallan las bombas desmoronando los parapetos, desgranan las ametralladoras sus truenos, se abre el eco profundo de las minas.
+
+611
+01:13:00,210 --> 01:13:11,300
+Hay parajes llenos de ardor, de ira y de tumulto, que repentinamente quedan en silencio con sus largas hileras de muertos aplastados sobre la tierra.
+
+612
+01:13:11,300 --> 01:13:15,970
+Grandes vuelos de cuervos se abaten bajo el cielo del alba.
+
+613
+01:13:15,970 --> 01:13:34,660
+Se queja el herido oculto en la maleza, y el que se arrastra por el borde del camino, y el otro cubierto de sangre, que se recuesta sobre el talud de la trinchera, y aquellos tan pálidos, con la frente vendada, que abren los ojos sobre el cabezal de las camillas.
+
+614
+01:13:34,660 --> 01:13:44,390
+Las patrullas exploran el campo, y por las mil trochas que arriban a la línea de fuego, van los soldados en difuso deslayo.
+
+615
+01:13:44,390 --> 01:13:51,800
+Para no resbalar en el lodo se apoyan en fuertes maquilas, y por distintas trochas los camilleros vienen y van.
+
+616
+01:13:51,800 --> 01:14:01,640
+En alguna casamata, a la redonda de la estufa donde hierve el agua del café, los oficiales conversan de guerra y de mujeres.
+
+617
+01:14:01,640 --> 01:14:11,720
+Son jóvenes, y para la vida y para la muerte tienen una sonrisa llena de gracia inconsciente, como en el tiempo de la gran Revolución.
+
+618
+01:14:12,740 --> 01:14:15,960
+Fin
+de la
+Sección seis
+
+619
+01:14:20,960 --> 01:14:28,500
+Sección siete
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+620
+01:14:28,500 --> 01:14:32,350
+Esta grabación de LibriVox es del dominio público.
+
+621
+01:14:32,350 --> 01:14:34,200
+Sección siete
+
+622
+01:14:34,200 --> 01:14:36,880
+Capítulo treinta y uno
+
+623
+01:14:38,120 --> 01:14:41,600
+Sobre la gran llanura picarda, la batalla se encrespa.
+
+624
+01:14:41,600 --> 01:14:59,190
+Por el laberinto de zanjas cavado a retaguardia de la primera línea de trincheras, y camino para llegar a ellas, avanzan escuadras de infantes ingleses y franceses, que corren en fila india, resbalando y chapoteando en el barro, anhelantes por llegar.
+
+625
+01:14:59,190 --> 01:15:08,660
+Las bombas alemanas ruedan, encendiendo los aires en el caos gris de la niebla, y estallan, desmoronando los taludes.
+
+626
+01:15:08,660 --> 01:15:18,050
+En algunas ocasiones queda cegado el paso, y la tropa desfila bajo la descubierta del fuego enemigo, ligera y dispersa.
+
+627
+01:15:18,050 --> 01:15:29,250
+El vasto campo de la batalla se les aparece de pronto, nebuloso y profundo, estremecido de instante en instante por las lumbres y el trueno de los cañones.
+
+628
+01:15:29,250 --> 01:15:39,500
+Agazapándose, entran otra vez en el laberinto de zanjas, y caminan enterrados en el barro hasta las corvas, pero con un aliento nuevo.
+
+629
+01:15:39,500 --> 01:15:50,410
+Pelotones de infantes arriban a la primera línea de trincheras por diversos caminos y en distantes parajes; el laberinto de zanjas es un hormiguero de hombres.
+
+630
+01:15:50,410 --> 01:15:58,560
+Sobre el talud que da vista al campo enemigo, las escuadras alínean sus fusiles, y hacen fuego por descargas.
+
+631
+01:15:58,560 --> 01:16:11,110
+Los torpedos, al estallar, destruyen los parapetos y sepultan a los hombres; trazan en el cielo su lenta curva; caen humeantes; abren hoyos profundos.
+
+632
+01:16:11,110 --> 01:16:26,290
+Y, en el fondo de la llanura, flamea sobre el cielo negro el resplandor de tres aldeas en llamas, rodeadas de clamores:—Un cerco de mujeres trágicas que abrazan a sus hijos, y de viejos que levantan los brazos.
+
+633
+01:16:26,290 --> 01:16:29,240
+Capítulo treinta y dos
+
+634
+01:16:29,240 --> 01:16:38,410
+Filo del amanecer, la infantería de los aliados se lanzó fuera de sus trincheras, asaltando las defensas alemanas.
+
+635
+01:16:38,410 --> 01:16:53,090
+Los soldados, tendidos en ala, corren con la cabeza baja, alentados por el fuego de la artillería; resbalan, caen, chapotean, salvan las zanjas, se desgarran en las alambradas.
+
+636
+01:16:53,090 --> 01:17:03,240
+Alguna vez, en los socavones de las balas desaparecen, sumiéndose lentamente, y el agua fangosa hace remolino en torno de los cascos.
+
+637
+01:17:03,240 --> 01:17:08,830
+Sólo las manos asoman pidiendo auxilio, tan hondo cavaron las balas en la tierra.
+
+638
+01:17:08,830 --> 01:17:13,070
+Hay parajes que son verdaderos tremedales.
+
+639
+01:17:13,070 --> 01:17:20,600
+Las ametralladoras alemanas cruzan sus fuegos, y filas enteras caen como si se doblasen.
+
+640
+01:17:20,600 --> 01:17:28,980
+En medio de la humareda, algunos soldados, muy destacados, siguen avanzando a la carrera, la granada en el puño.
+
+641
+01:17:28,980 --> 01:17:41,840
+Las columnas de asalto se suceden en oleadas: Los muertos quedan atrás, aplastados sobre la tierra, medio desnudos, desgarradas las ropas por las explosiones:
+
+642
+01:17:41,840 --> 01:17:52,050
+Los heridos se arrastran por las esguevas, buscan dónde cobijarse, y, hallado el seguro, levantan sus clamores pidiendo socorro:
+
+643
+01:17:52,050 --> 01:17:53,960
+—¡Nadie me vale!
+
+644
+01:17:53,960 --> 01:17:55,850
+¡Nadie me vale!
+
+645
+01:17:55,850 --> 01:17:58,190
+—¡Una gota de agua!
+
+646
+01:17:58,190 --> 01:17:59,640
+—¡Camilleros!
+
+647
+01:17:59,640 --> 01:18:00,890
+¡Camilleros!
+
+648
+01:18:00,890 --> 01:18:02,420
+¡Camilleros!
+
+649
+01:18:02,420 --> 01:18:05,100
+—¡Y me dejáis morir!
+
+650
+01:18:05,100 --> 01:18:06,510
+—¡Ah!
+
+651
+01:18:06,510 --> 01:18:06,990
+¡Ah!
+
+652
+01:18:06,990 --> 01:18:08,270
+¡Ah!
+
+653
+01:18:08,270 --> 01:18:10,140
+—¡Nadie me vale!
+
+654
+01:18:10,140 --> 01:18:12,530
+¡Nadie me vale!
+
+655
+01:18:12,530 --> 01:18:32,280
+La niebla está llena de estas voces perdidas, empañadas de dolor; pero las olas de soldados siguen atravesando la llanura, corren de cara a las trincheras alemanas atuídas de muertos, y arrojan sus granadas, y dan voces con la dramática alegría de la guerra.
+
+656
+01:18:32,280 --> 01:18:42,990
+La llamarada de las aldeas, flameando sobre el cielo negro, pasa sobre sus ojos, y les cubre el alma de un impulso de ira resplandeciente.
+
+657
+01:18:42,990 --> 01:18:44,660
+—¡Boches!
+
+658
+01:18:44,660 --> 01:18:47,140
+¡Bárbaros boches!
+
+659
+01:18:47,140 --> 01:18:50,200
+Capítulo treinta y tres
+
+660
+01:18:50,200 --> 01:18:52,420
+¡Qué cólera magnífica!
+
+661
+01:18:52,420 --> 01:18:58,270
+¡Qué chocar y rebotar, qué mítica pujanza tiene el asalto de las trincheras!
+
+662
+01:18:58,270 --> 01:19:02,120
+¡Y qué ciego impulso de vida sobre el fondo del dolor y de la muerte!
+
+663
+01:19:02,120 --> 01:19:20,930
+¡Cómo la gran batalla se quiebra y disloca en acciones parciales, en marchas, en flanqueos, en sorpresas, hasta desvanecer por completo su visión estelar en el tumulto del cuerpo a cuerpo, y acabar en un grito que es como el canto victorioso del gallo!
+
+664
+01:19:20,930 --> 01:19:35,520
+Pero el pensamiento matemático, más fuerte que las vidas y las muertes, permanece inmutable en todas las formas de la batalla; es una ley en el tumulto de la trinchera, como en el tiro de la artillería.
+
+665
+01:19:35,520 --> 01:19:44,050
+Todas las acciones diversas e imprevistas que sobrevienen, hallan un enlace armonioso en este formidable acorde.
+
+666
+01:19:44,050 --> 01:19:54,750
+La guerra tiene una arquitectura ideal, que sólo los ojos del iniciado pueden alcanzar, y así está llena de misterio telúrico y de luz.
+
+667
+01:19:54,750 --> 01:20:04,310
+En ninguna creación de los hombres se revela mejor el sentido profundo del paisaje, y se religa mejor con los humanos destinos.
+
+668
+01:20:04,310 --> 01:20:08,090
+Por la guerra es eterna el alma de los pueblos.
+
+669
+01:20:08,090 --> 01:20:14,300
+La lujuria creadora se aviva por ella, como la antorcha en el viento que la quiere apagar.
+
+670
+01:20:14,300 --> 01:20:22,670
+Sólo la amenaza de morir perpetúa las formas terrenales, sólo la muerte hace al mundo divino.
+
+671
+01:20:22,670 --> 01:20:34,540
+Si en las claras entrañas de los cristales no se engendran hijos es por su ilusión de eternidad, y las entrañas de la mujer son fecundas porque son mortales.
+
+672
+01:20:34,540 --> 01:20:46,510
+Los monstruos gigantescos que rugieron ante la caverna del adamita, y fueron amenaza para todos los seres vivos, perecieron porque la lujuria se enfrió en ellos.
+
+673
+01:20:46,510 --> 01:20:57,260
+Como eran llenos de fuerza y de dominio, estaban libres del terror de la muerte, y ninguna voz de la naturaleza pudo advertirles que no eran eternos.
+
+674
+01:20:57,260 --> 01:21:01,280
+La muerte es la divina causalidad del mundo.
+
+675
+01:21:01,280 --> 01:21:07,420
+¡Y qué mística iniciación de esta verdad tan vieja se desvela en la guerra!
+
+676
+01:21:07,420 --> 01:21:16,170
+Aquella ciega voluntad genesíaca que arrastra a los héroes de la tragedia antigua, ruge en las batallas.
+
+677
+01:21:16,170 --> 01:21:19,540
+Capítulo treinta y cuatro
+
+678
+01:21:19,540 --> 01:21:30,300
+La infantería avanza en negras oleadas; retiembla la tierra bajo el golpe uniforme de las ferradas botas; hay un coro de voces profundas:
+
+679
+01:21:30,300 --> 01:21:31,650
+—¡Adelante!
+
+680
+01:21:31,650 --> 01:21:32,860
+¡Adelante!
+
+681
+01:21:32,860 --> 01:21:34,520
+¡Adelante!
+
+682
+01:21:34,520 --> 01:21:41,050
+Una convulsión recorre la trinchera, y perdura vibrante en el tintineo de las bayonetas.
+
+683
+01:21:41,050 --> 01:21:42,820
+Los alemanes gritan:
+
+684
+01:21:42,820 --> 01:21:43,940
+—¡Hurra!
+
+685
+01:21:43,940 --> 01:21:45,330
+¡Hurra!
+
+686
+01:21:45,330 --> 01:21:47,040
+¡Hurra!
+
+687
+01:21:47,040 --> 01:21:49,360
+Son miles de voces.
+
+688
+01:21:49,360 --> 01:21:56,160
+Asoman apenas las puntas de los cascos, y los franceses las aplastan a golpes de granada.
+
+689
+01:21:56,160 --> 01:22:03,110
+Al abrigo de la trinchera, desmoronada y llena de muertos, los alemanes hacen fuego de repetición.
+
+690
+01:22:03,110 --> 01:22:08,350
+Acompasados, se echan los fusiles a la cara, y disparan.
+
+691
+01:22:08,350 --> 01:22:12,680
+Innumerables lagartijas de llama rasgan las tinieblas.
+
+692
+01:22:12,680 --> 01:22:21,040
+La ola de asaltantes, zuavos y legionarios extranjeros, penetra en la trinchera, y un bramido bestial los acoge.
+
+693
+01:22:21,040 --> 01:22:33,210
+Las granadas ponen fuego en las yacijas de paja y en los capotes de los muertos, y el humo y el olor de la carne chamuscada sirve de fondo al clamor de los heridos.
+
+694
+01:22:33,210 --> 01:22:38,820
+Un soldado alemán, envuelto en llamas, corre a través del campo dando gritos.
+
+695
+01:22:38,820 --> 01:22:53,220
+El incendio, que rampa solapado por el fondo de la trinchera, a momentos, bajo el golpe de las granadas, se aviva y surge, llenando de reflejos las puntas de los cascos y el acero de las bayonetas.
+
+696
+01:22:53,220 --> 01:23:02,950
+Se revela el rostro de los soldados, pálidos, salpicados de sangre, cubiertos de lodo, con los ojos agudos como puñales.—
+
+697
+01:23:02,950 --> 01:23:15,690
+La artillería de los aliados bombardea el campo que se extiende a retaguardia de la trinchera, y su fuego de cortina cierra el paso a las reservas que acuden a reforzar la primera línea.
+
+698
+01:23:15,690 --> 01:23:19,710
+Los heridos alemanes se incorporan suplicantes:
+
+699
+01:23:19,710 --> 01:23:21,100
+—¡Franceses!
+
+700
+01:23:21,100 --> 01:23:22,350
+¡Franceses!
+
+701
+01:23:22,350 --> 01:23:24,180
+¡Camaradas!
+
+702
+01:23:24,180 --> 01:23:29,450
+Los que restan ilesos arrojan los fusiles y levantan los brazos:
+
+703
+01:23:29,450 --> 01:23:30,870
+—¡Camaradas!
+
+704
+01:23:30,870 --> 01:23:32,590
+¡Camaradas!
+
+705
+01:23:32,590 --> 01:23:38,950
+Forman grupos sombríos, atónitos, con una torva expresión de desamparo.
+
+706
+01:23:38,950 --> 01:23:42,030
+La derrota los embrutece y envilece:
+
+707
+01:23:42,030 --> 01:23:43,990
+—¡No somos prusianos!
+
+708
+01:23:43,990 --> 01:23:45,820
+¡Somos bávaros!
+
+709
+01:23:45,820 --> 01:23:50,670
+Y otro grupo, arrodillado en el fango, con los brazos en alto:
+
+710
+01:23:50,670 --> 01:23:53,430
+—¡Los bávaros no queríamos la guerra!
+
+711
+01:23:53,430 --> 01:23:54,740
+¡Franceses!
+
+712
+01:23:54,740 --> 01:23:55,990
+¡Franceses!
+
+713
+01:23:55,990 --> 01:23:57,880
+¡Camaradas!
+
+714
+01:23:57,880 --> 01:24:06,430
+Perdida la esperanza de vencer, ciega como un instinto, ingenua y brutal, parecen bueyes desalentados.
+
+715
+01:24:06,430 --> 01:24:12,320
+Los franceses les conceden cuartel con el gesto orgulloso de la victoria.
+
+716
+01:24:13,360 --> 01:24:15,730
+Capítulo treinta y cinco
+
+717
+01:24:15,730 --> 01:24:20,190
+Las tropas inglesas atacan en la izquierda del Ancre.
+
+718
+01:24:20,190 --> 01:24:29,840
+Cientos de cañones, tronando al mismo tiempo, abren sus rojas golas en la bruma del amanecer, y tiembla sobre la tierra un arco de luz.
+
+719
+01:24:29,840 --> 01:24:36,520
+Dura hace tres días el bombardeo, dominador y tenaz como el alma de la vieja Inglaterra.
+
+720
+01:24:36,520 --> 01:24:52,110
+Las tropas acantonadas en la retaguardia, duermen pesadamente en un sopor de olvido, y, cuando llega la hora, el silbato de los sargentos las despierta: Se incorporan con rumor de ganado, los ojos cargados de visiones:
+
+721
+01:24:52,110 --> 01:25:01,600
+Antes de partir, a la redonda de los bagajes, beben su taza de café caliente, el fusil al hombro, la mochila a la espalda.
+
+722
+01:25:01,600 --> 01:25:13,730
+Con paso uniforme van por las carreteras en columna de a cuatro; los capotes mojados despiden un vaho acre, y, a poco de iniciada la marcha, ninguno habla.
+
+723
+01:25:13,730 --> 01:25:28,400
+Las jornadas parecen interminables para el soldado cuando camina así, encerrado en la fila, viendo de continuo la espalda del que marcha delante, sintiendo escurrir por la carne el agua que gotea del casco.
+
+724
+01:25:28,400 --> 01:25:39,970
+Es un deseo de llegar a la línea de batalla, de estrechar entre las manos el fusil que adormece el hombro dolorido, de sentirlo caliente y palpitante como una vida.
+
+725
+01:25:39,970 --> 01:25:44,750
+Produce la angustia del mareo el monótono compás de los pasos: ¡Toc!
+
+726
+01:25:44,750 --> 01:25:45,930
+¡Toc!
+
+727
+01:25:45,930 --> 01:25:47,660
+¡Toc!
+
+728
+01:25:49,880 --> 01:25:53,200
+Fin
+de la
+Sección siete
+
+729
+01:25:57,960 --> 01:26:06,060
+Sección ocho
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+730
+01:26:06,060 --> 01:26:10,410
+Esta grabación de LibriVox es del dominio público.
+
+731
+01:26:10,410 --> 01:26:13,400
+Capítulo treinta y seis
+
+732
+01:26:13,400 --> 01:26:22,210
+Al amparo de nieblas y tinieblas, las tropas alemanas abandonan las trincheras que la artillería enemiga desmorona y aplasta.
+
+733
+01:26:22,210 --> 01:26:35,130
+Inician una retirada sigilosa, y aun cuando para encubrirla sostienen el fuego en algunos sectores, las patrullas inglesas, que mantienen el contacto, descubren la maniobra.
+
+734
+01:26:35,130 --> 01:26:40,300
+Los cañones alargan sus tiros, y comienza el bombardeo de la segunda línea.
+
+735
+01:26:40,300 --> 01:26:48,870
+Los reflectores esclarecen el campo, y, bajo el cielo nebuloso del alba, pasa un vuelo de aviones.
+
+736
+01:26:48,870 --> 01:27:00,360
+Los alemanes se tienden en tierra, cercados por una cortina de fuego; los aviones los descubren, y las granadas comienzan a caer sobre ellos.
+
+737
+01:27:00,360 --> 01:27:06,540
+Entre nubes de humo y turbonadas de tierra, vuelan los cuerpos deshechos:
+
+738
+01:27:06,540 --> 01:27:22,420
+Brazos arrancados de los hombros, negros garabatos que son piernas, cascos puntiagudos sosteniendo las cabezas en la carrillera, redaños y mondongos que caen sobre los vivos llenándolos de sangre y de inmundicias.
+
+739
+01:27:22,420 --> 01:27:27,310
+Los alemanes, viéndose descubiertos, comienzan a gritar:
+
+740
+01:27:27,310 --> 01:27:28,660
+—¡Ingleses!
+
+741
+01:27:28,660 --> 01:27:29,710
+¡Ingleses!
+
+742
+01:27:29,710 --> 01:27:30,610
+¡Piedad!
+
+743
+01:27:30,610 --> 01:27:33,090
+¡Piedad, que somos hombres!
+
+744
+01:27:33,090 --> 01:27:39,220
+Es un mugir de espanto como en los eclipses de sol tienen los toros en la dehesa.
+
+745
+01:27:39,220 --> 01:27:50,480
+Sobre el horizonte tiembla de continuo el resplandor de la batalla, y el tronar de la artillería parece una voz que saliese de los abismos de la tierra.
+
+746
+01:27:51,760 --> 01:27:54,160
+Capítulo treinta y siete
+
+747
+01:27:55,180 --> 01:28:07,300
+La caballería india, distribuída en fuertes escuadras, espera tras la línea de ataque; un estremecimiento la recorre; espuelas y sables se entrechocan.
+
+748
+01:28:07,300 --> 01:28:18,430
+Los caballos levantan las orejas y abren la nariz al viento, alguno se encabrita y corre por la campaña rebotando al jinete entre los dos borrenes.
+
+749
+01:28:18,430 --> 01:28:28,680
+En la media luz del alba blanquean los turbantes, y se mueven las siluetas, llenas de armonía bélica como figuras de un friso.
+
+750
+01:28:28,680 --> 01:28:36,260
+Palidecen las estrellas, y el rojo resplandor de los incendios se levanta sobre el horizonte.
+
+751
+01:28:36,260 --> 01:28:43,030
+Es el momento en que la caballería india se lanza, con la rienda suelta, para hacer prisioneros.
+
+752
+01:28:43,030 --> 01:28:50,470
+El galope de los caballos sacude la tierra con un vasto rumor lleno de evocaciones antiguas.
+
+753
+01:28:50,470 --> 01:29:00,880
+Los jinetes corren con los sables en alto, los ojos ardientes, la boca estremecida por una sonrisa blanca que descubre los dientes.
+
+754
+01:29:00,880 --> 01:29:05,520
+Los alemanes, viéndoles llegar, levantan los brazos:
+
+755
+01:29:05,520 --> 01:29:06,440
+—¡Piedad!
+
+756
+01:29:06,440 --> 01:29:08,010
+¡Piedad!
+
+757
+01:29:08,010 --> 01:29:15,200
+Los jinetes indios pasan acuchillándolos, y revuelven los caballos con los sables siempre en alto.
+
+758
+01:29:15,200 --> 01:29:19,330
+El corvo tajo fulgura feroz sobre los turbantes.
+
+759
+01:29:19,330 --> 01:29:22,370
+Resuena un grito de asombro y de cólera:
+
+760
+01:29:22,370 --> 01:29:23,850
+—¡No dan cuartel!
+
+761
+01:29:23,850 --> 01:29:25,720
+¡No dan cuartel!
+
+762
+01:29:25,720 --> 01:29:37,680
+Los alemanes retroceden empuñando los fusiles; miran llegar a los jinetes entre nubes de humo, y, parapetados en los socavones de las granadas, hacen fuego.
+
+763
+01:29:37,680 --> 01:29:48,420
+Se encabritan los caballos, y corren por el campo con largo relincho, el belfo palpitante, afrontados los ojos, levantada la crin.
+
+764
+01:29:48,420 --> 01:30:03,000
+Una montura, con la rienda suelta, galopa espantada arrastrando al jinete, que va caído sobre la grupa, sin turbante, flotando la melena negra como el ala del cuervo, y un borbotón de sangre sobre el pecho.
+
+765
+01:30:03,000 --> 01:30:08,970
+Los alemanes, entre descarga y descarga, levantan un terrible grito:
+
+766
+01:30:08,970 --> 01:30:11,360
+—¡Muera Inglaterra!
+
+767
+01:30:11,360 --> 01:30:18,570
+Los jinetes indios revuelven los caballos y sonríen crueles bajo el resplandor de los sables.
+
+768
+01:30:18,570 --> 01:30:24,660
+Dan la última galopada sobre un campo de muertos, y se tornan a su real.
+
+769
+01:30:26,620 --> 01:30:28,980
+Capítulo treinta y ocho
+
+770
+01:30:28,980 --> 01:30:40,790
+El Cuartel General de Sir Francisco Murray, veterano de las guerras coloniales, está en un palacio de estilo neoclásico, en el fondo de la Picardia.
+
+771
+01:30:40,790 --> 01:30:45,300
+Al Cuartel General llegan de continuo las nuevas de la batalla.
+
+772
+01:30:45,300 --> 01:30:51,050
+Bajo la gran avenida de álamos se cruzan los automóviles del Estado Mayor.
+
+773
+01:30:51,050 --> 01:30:59,590
+Los ordenanzas hablan con los soldados ciclistas que, prontos a partir, esperan al pie de la escalinata.
+
+774
+01:30:59,590 --> 01:31:05,790
+En las vastas salas, apagadas y desiertas, resuena el timbre de los teléfonos.
+
+775
+01:31:05,790 --> 01:31:17,910
+Cuatro oficiales trabajan en la biblioteca, que tiene las paredes cubiertas de planos militares, y en una estancia inmediata termina la conferencia de dos generales.
+
+776
+01:31:17,910 --> 01:31:24,630
+Aparecen en la puerta de la biblioteca con los habanos encendidos y una sonrisa jovial.
+
+777
+01:31:24,630 --> 01:31:32,030
+El más viejo tiene grandes bigotes canos y ojos de claro azul infantil enfoscados bajo las cejas.
+
+778
+01:31:32,030 --> 01:31:39,430
+La frente, de una gran blancura, contrasta con las mejillas atezadas y llenas de arrugas.
+
+779
+01:31:39,430 --> 01:31:48,320
+El otro es alto, fuerte, encendido, con anteojos de oro y un gesto de imperio en la boca rasurada.
+
+780
+01:31:48,320 --> 01:31:50,440
+El viejo, interroga:
+
+781
+01:31:50,440 --> 01:31:53,400
+—¿Hay noticias de los franceses?
+
+782
+01:31:53,400 --> 01:31:58,800
+Uno de los oficiales revuelve los papeles que tiene delante, y le alarga una hoja:
+
+783
+01:31:58,800 --> 01:32:01,800
+—Aquí está el comunicado, mi general.
+
+784
+01:32:01,800 --> 01:32:03,080
+—¡Bueno!
+
+785
+01:32:03,080 --> 01:32:04,500
+¿Qué dice?
+
+786
+01:32:04,500 --> 01:32:08,420
+—Entre ayer y hoy han hecho seis mil prisioneros.
+
+787
+01:32:08,420 --> 01:32:11,050
+El general joven interrumpe:
+
+788
+01:32:11,050 --> 01:32:13,800
+—Nosotros no habremos hecho ninguno...
+
+789
+01:32:13,800 --> 01:32:17,040
+No haremos prisioneros en muchos días.
+
+790
+01:32:17,040 --> 01:32:21,200
+Los oficiales se miraron, y uno aventuró:
+
+791
+01:32:21,200 --> 01:32:27,040
+—Sin embargo, ayer y hoy nosotros también hemos tenido un gran triunfo.
+
+792
+01:32:27,040 --> 01:32:31,130
+El General Murray hizo un gesto de asentimiento:
+
+793
+01:32:31,130 --> 01:32:33,900
+—Pero sin prisioneros.
+
+794
+01:32:33,900 --> 01:32:43,190
+Sir Guillermo Scott, el general viejo, reía con risa cascada, al mismo tiempo que se llenaba una copa de whisky:
+
+795
+01:32:43,190 --> 01:32:45,310
+—¡Sin prisioneros!
+
+796
+01:32:45,310 --> 01:32:50,580
+¿Verdad, señores, que los partes sin prisioneros son poco decorativos?
+
+797
+01:32:50,580 --> 01:32:55,200
+Sir Francisco Murray le miró como se mira a un niño:
+
+798
+01:32:55,200 --> 01:32:58,350
+—Dejemos lo teatral para los alemanes.
+
+799
+01:32:58,350 --> 01:33:01,350
+Nuestros partes son partes ingleses.
+
+800
+01:33:01,350 --> 01:33:15,400
+En muchos días no haremos prisioneros, porque es preciso castigar la felonía de aquellos prusianos que se acercaron gritando que se rendían, y a mansalva, seguros de que los ingleses no pueden tirar contra el enemigo que se entrega,
+
+801
+01:33:15,400 --> 01:33:19,000
+atacaron nuestras trincheras con granadas de mano.
+
+802
+01:33:19,000 --> 01:33:24,760
+Sir Francisco Murray hablaba despacio, con un dejo de disgusto.
+
+803
+01:33:24,760 --> 01:33:27,650
+Uno de los oficiales interrogó:
+
+804
+01:33:27,650 --> 01:33:33,240
+—Mi general, ¿y cuánto tiempo durará la orden de no conceder cuartel?
+
+805
+01:33:33,240 --> 01:33:37,160
+—Debía durar hasta el fin.
+
+806
+01:33:37,160 --> 01:33:45,070
+El Imperio Alemán ha faltado a sus pactos, ha faltado a las leyes de la guerra, ha faltado a todos los usos del Derecho de Gentes...
+
+807
+01:33:45,070 --> 01:33:59,890
+Pero ahora han sido los soldados quienes olvidaron y mancillaron el honor militar como una tribu salvaje, y hemos de imponerles el castigo impuesto tantas veces por nosotros en África y Oceanía.
+
+808
+01:33:59,890 --> 01:34:05,080
+Sonaba el timbre del teléfono, y uno de los oficiales se levantó.
+
+809
+01:34:05,080 --> 01:34:08,150
+En la biblioteca todos callaban.
+
+810
+01:34:08,150 --> 01:34:18,430
+La luz del alba rayaba en los postigos de las ventanas, y parpadeaban las luces: Se advertía en todos los semblantes la huella del insomnio.
+
+811
+01:34:18,430 --> 01:34:23,120
+El oficial que había acudido al teléfono apareció en la puerta:
+
+812
+01:34:23,120 --> 01:34:25,640
+—Se confirma nuestro avance.
+
+813
+01:34:25,640 --> 01:34:28,940
+¡Una gran victoria sin prisioneros!
+
+814
+01:34:30,020 --> 01:34:32,010
+Capítulo treinta y nueve
+
+815
+01:34:32,010 --> 01:34:39,820
+En el ápice de la noche y el día, sutiles nieblas vuelan sobre los ateridos Campos Cataláunicos.
+
+816
+01:34:39,820 --> 01:34:44,190
+Tras las nieblas se perfila la masa de un ejército.
+
+817
+01:34:44,190 --> 01:34:56,200
+Ruedan los cañones y galopan los caballos con rumor sonoro, que se difunde por la vasta plana endurecida de la helada, y limitada en su lejanía por azulados bosques.
+
+818
+01:34:56,200 --> 01:35:05,600
+Los oficiales de órdenes caracolean sus caballos al detenerlos frente a los batallones, tendidos en línea bajo las banderas desplegadas.
+
+819
+01:35:05,600 --> 01:35:12,400
+El General Goureaud revista las tropas, y decora las banderas con la Legión de Honor.
+
+820
+01:35:12,400 --> 01:35:23,550
+Tiene un brazo cercenado, y el rostro curtido por todos los soles, la mirada exaltada y mística, con una luz azul de audacia sagrada.
+
+821
+01:35:23,550 --> 01:35:34,140
+Besa las banderas al imponerles la cruz, y las banderas, rasgadas por la metralla enemiga, flamean sus jirones sobre la figura mutilada del General.
+
+822
+01:35:34,140 --> 01:35:42,000
+Son de una emoción hermana y ejemplar las banderas desgarradas y aquel soldado manco estropeado en la guerra.
+
+823
+01:35:42,000 --> 01:35:56,510
+Cantan los clarines con claras voces, desfilan al galope los jinetes, hacen salvas los cañones, y adelantan las escuadras de infantes acompasando el paso al redoble de los tambores.
+
+824
+01:35:56,510 --> 01:36:07,960
+Una emoción religiosa cubre la vasta plana, y las sombras antiguas ofrecen sus laureles a los héroes jóvenes de la divina Francia.
+
+825
+01:36:09,780 --> 01:36:10,850
+Capítulo cuarenta
+
+826
+01:36:10,850 --> 01:36:20,560
+Ipres y Arras, Verdun y Reims, Thann y Metzeral, son grandes campamentos.
+
+827
+01:36:20,560 --> 01:36:33,870
+A lo largo de las carreteras, bajo los árboles desmochados, en la puerta de los ventorros, por los establos de las granjas, todo a la redonda de las heroicas ciudades, está lleno de soldados.
+
+828
+01:36:33,870 --> 01:36:42,320
+Patrullas de caballería, con grande y sonoro estrépito, galopan por las carreteras y atraviesan los dormidos burgos.
+
+829
+01:36:42,320 --> 01:36:49,120
+En el fondo de los bosques, soldados con el torso desnudo sacrifican vacas y novillos.
+
+830
+01:36:49,120 --> 01:36:58,580
+Las reses muertas cuelgan de las fuertes ramas, y las que van a morir rebullen acobardadas, dando tirones al ronzal.
+
+831
+01:36:58,580 --> 01:37:04,340
+Por los verdosos y nebulosos ríos bajan los barcos hospitales.
+
+832
+01:37:04,340 --> 01:37:11,340
+Atracan en los remansos para sepultar a los muertos, y vuelven a navegar, sonando una campana.
+
+833
+01:37:11,340 --> 01:37:23,060
+Grupos de soldados, a la puerta de los alojamientos, limpian las armas, almohazan los caballos, aparejan los tiros y estiban las municiones en los carros.
+
+834
+01:37:23,060 --> 01:37:27,410
+Escuadras de infantes vivaquean en el lindero de los bosques:
+
+835
+01:37:27,410 --> 01:37:47,070
+Algunos se bañan en los arroyos: Otros, a la puerta de los albergues, entre los carros y las yuntas, fuman sus negras pipas, mientras los fuertes frisones de redondos cascos, trituran el pienso de avena, sepultado el hocico en un talego, y humillada la cerviz.
+
+836
+01:37:47,070 --> 01:37:54,030
+Ruedan los convoyes en la niebla del amanecer, despacio, con un vaivén pesado.
+
+837
+01:37:54,030 --> 01:38:07,210
+Bajo la lona sucia se perfila la forma rígida de los cañones, y en el izquierdo del tiro cabalga algún soldado veterano, de rojo mostacho partido en dos pábilos, y ojos aldeanos,
+
+838
+01:38:07,210 --> 01:38:15,770
+claros ojos acostumbrados a mirar muy lejos, como los del marino, pero menos bruscos, y más llenos del amor de las cosas.
+
+839
+01:38:15,770 --> 01:38:29,640
+Por todos los caminos que conducen al frente de batalla desfilan los largos convoyes, y, para disimularlos a la escudriña de los aviones enemigos, los carros van cubiertos de ramajes:
+
+840
+01:38:29,640 --> 01:38:38,600
+Desfilan abriendo hondas rodadas, y las escoltas, repartidas a uno y otro lado, marchan en silencio.
+
+841
+01:38:38,600 --> 01:38:50,730
+Los carros verdeantes de las ametralladoras tienen un vivo traqueteo, y entre unos y otros ruedan los que conducen las pesadas y plomizas cajas de municiones.
+
+842
+01:38:50,730 --> 01:39:03,950
+En la retaguardia de las trincheras se tienden bosques quemados por los gases asfixiantes, granjas saqueadas, aldeas en escombros, iglesias con el campanario mocho...
+
+843
+01:39:03,950 --> 01:39:11,950
+Es una sucesión de imágenes desoladas que no se interrumpe desde la costa norteña a los montes de Alsacia.
+
+844
+01:39:11,950 --> 01:39:29,390
+En los atrios de las viejas ciudades estallan las granadas, caen las piedras de las catedrales, los pórticos coronados de santos tiemblan en sus cimientos, se rompen los rosetones, y las golondrinas vuelan asustadas por las naves desiertas.
+
+845
+01:39:29,390 --> 01:39:40,830
+En la luz del día que comienza, la tierra, mutilada por la guerra, tiene una expresión dolorosa, reconcentrada y terrible.
+
+846
+01:39:40,830 --> 01:39:44,430
+Fin
+de la
+Sección ocho
+
+847
+01:39:44,430 --> 01:39:52,520
+Fin
+de
+La media noche: 
+Visión estelar de un momento de guerra
+de
+Ramón del Valle-Inclán
+
+848
+01:39:57,280 --> 01:39:58,280
+
+
