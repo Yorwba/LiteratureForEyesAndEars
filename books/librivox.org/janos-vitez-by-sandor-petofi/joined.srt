@@ -1,0 +1,6484 @@
+1
+00:00:00,000 --> 00:00:03,830
+János Vitéz
+Első fejezet
+
+2
+00:00:03,830 --> 00:00:06,470
+Ez egy LibriVox felvétel.
+
+3
+00:00:06,470 --> 00:00:08,960
+Minden LibriVox-felvétel közkincs.
+
+4
+00:00:08,960 --> 00:00:15,240
+További információért vagy önkéntes részvételért látogasson el a LibriVox.org címre.
+
+5
+00:00:15,240 --> 00:00:18,840
+Felolvassa Majlinger Diana
+
+6
+00:00:19,940 --> 00:00:23,380
+János Vitéz
+írta
+Petőfi Sándor
+
+7
+00:00:23,380 --> 00:00:26,060
+Első fejezet
+
+8
+00:00:27,340 --> 00:00:29,410
+Tüzesen süt le a nyári nap sugárra
+
+9
+00:00:29,410 --> 00:00:32,150
+Az ég tetejéről a juhászbojtárra.
+
+10
+00:00:32,150 --> 00:00:35,310
+Fölösleges dolog sütnie oly nagyon,
+
+11
+00:00:35,310 --> 00:00:37,580
+A juhásznak úgyis nagy melege vagyon.
+
+12
+00:00:37,580 --> 00:00:40,570
+Szerelem tüze ég fiatal szívében,
+
+13
+00:00:40,570 --> 00:00:43,370
+Úgy legelteti a nyájt a faluvégen.
+
+14
+00:00:43,370 --> 00:00:46,400
+Faluvégen nyája míg szerte legelész,
+
+15
+00:00:46,400 --> 00:00:49,080
+Ő addig subáján a fűben heverész.
+
+16
+00:00:49,080 --> 00:00:51,510
+Tenger virág nyílik tarkán körülötte,
+
+17
+00:00:51,510 --> 00:00:54,890
+De ő a virágra szemét nem vetette;
+
+18
+00:00:54,890 --> 00:00:57,800
+Egy kőhajtásnyira foly tőle a patak,
+
+19
+00:00:57,800 --> 00:01:00,680
+Bámuló szemei odatapadtanak.
+
+20
+00:01:00,680 --> 00:01:03,680
+De nem ám a patak csillámló habjára,
+
+21
+00:01:03,680 --> 00:01:06,150
+Hanem a patakban egy szőke kislyányra,
+
+22
+00:01:06,150 --> 00:01:09,600
+A szőke kislyánynak karcsu termetére,
+
+23
+00:01:09,600 --> 00:01:12,290
+Szép hosszú hajára, gömbölyű keblére.
+
+24
+00:01:12,290 --> 00:01:15,920
+Kisleány szoknyája térdig föl van hajtva,
+
+25
+00:01:15,920 --> 00:01:18,760
+Mivelhogy ruhákat mos a fris patakba’;
+
+26
+00:01:18,760 --> 00:01:21,940
+Kilátszik a vízből két szép térdecskéje
+
+27
+00:01:21,940 --> 00:01:24,850
+Kukoricza Jancsi gyönyörűségére.
+
+28
+00:01:24,850 --> 00:01:27,820
+Mert a pázsit fölött heverésző juhász
+
+29
+00:01:27,820 --> 00:01:30,470
+Kukoricza Jancsi, ki is lehetne más?
+
+30
+00:01:30,470 --> 00:01:33,300
+Ki pedig a vízben a ruhát tisztázza,
+
+31
+00:01:33,300 --> 00:01:36,730
+Iluska az, Jancsi szívének gyöngyháza.
+
+32
+00:01:36,730 --> 00:01:39,760
+„Szívemnek gyöngyháza, lelkem Iluskája!”
+
+33
+00:01:39,760 --> 00:01:42,900
+Kukoricza Jancsi így szólott hozzája:
+
+34
+00:01:42,900 --> 00:01:45,010
+„Pillants ide, hiszen ezen a világon
+
+35
+00:01:45,010 --> 00:01:47,650
+Csak te vagy énnekem minden mulatságom.
+
+36
+00:01:47,650 --> 00:01:50,330
+Vesd reám sugarát kökényszemeidnek,
+
+37
+00:01:50,330 --> 00:01:52,960
+Gyere ki a vízből, hadd öleljelek meg;
+
+38
+00:01:52,960 --> 00:01:55,460
+Gyere ki a partra csak egy pillanatra,
+
+39
+00:01:55,460 --> 00:01:58,810
+Rácsókolom lelkem piros ajakadra!”
+
+40
+00:01:58,810 --> 00:02:01,790
+„Tudod, Jancsi szívem, örömest kimennék,
+
+41
+00:02:01,790 --> 00:02:04,500
+Ha a mosással oly igen nem sietnék;
+
+42
+00:02:04,500 --> 00:02:07,690
+Sietek, mert másképp velem rosszul bánnak,
+
+43
+00:02:07,690 --> 00:02:10,830
+Mostoha gyermeke vagyok én anyámnak.”
+
+44
+00:02:10,830 --> 00:02:13,970
+Ezeket mondotta szőke szép Iluska,
+
+45
+00:02:13,970 --> 00:02:16,990
+S a ruhákat egyre nagy serényen mosta.
+
+46
+00:02:16,990 --> 00:02:19,690
+De a juhászbojtár fölkel subájáról,
+
+47
+00:02:19,690 --> 00:02:23,150
+Közelebb megy hozzá, s csalogatva így szól:
+
+48
+00:02:23,150 --> 00:02:24,690
+„Gyere ki, galambom!
+
+49
+00:02:24,690 --> 00:02:25,960
+gyere ki, gerlicém!
+
+50
+00:02:25,960 --> 00:02:28,720
+A csókot, ölelést mindjárt elvégzem én;
+
+51
+00:02:28,720 --> 00:02:31,390
+Aztán a mostohád sincs itt a közelben,
+
+52
+00:02:31,390 --> 00:02:34,420
+Ne hagyd, hogy szeretőd halálra epedjen.”
+
+53
+00:02:34,420 --> 00:02:37,480
+Kicsalta a leányt édes beszédével,
+
+54
+00:02:37,480 --> 00:02:40,160
+Átfogta derekát mind a két kezével,
+
+55
+00:02:40,160 --> 00:02:43,470
+Megcsókolta száját nem egyszer sem százszor,
+
+56
+00:02:43,470 --> 00:02:47,580
+Ki mindeneket tud: az tudja csak, hányszor.
+
+57
+00:02:49,640 --> 00:02:52,450
+Vége az első fejezetnek
+
+58
+00:02:52,450 --> 00:02:55,460
+Második fejezet
+
+59
+00:02:56,960 --> 00:02:58,970
+Az idő aközben haladott sietve,
+
+60
+00:02:58,970 --> 00:03:01,920
+A patak habjain piroslott az este.
+
+61
+00:03:01,920 --> 00:03:04,770
+Dúlt-fúlt Iluskának gonosz mostohája;
+
+62
+00:03:04,770 --> 00:03:07,080
+Hol marad, hol lehet oly soká leánya?
+
+63
+00:03:07,080 --> 00:03:10,550
+A rosz vén mostoha ekképp gondolkodott;
+
+64
+00:03:10,550 --> 00:03:12,980
+Követték ezek a szók a gondolatot:
+
+65
+00:03:12,980 --> 00:03:16,480
+(S nem mondhatni, hogy jókedvvel ejtette ki.)
+
+66
+00:03:16,480 --> 00:03:17,760
+„Megnézem, mit csinál?
+
+67
+00:03:17,760 --> 00:03:18,880
+ha henyél: jaj neki!”
+
+68
+00:03:18,880 --> 00:03:22,650
+Jaj neked Iluska, szegény árva kislyány!
+
+69
+00:03:22,650 --> 00:03:25,600
+Hátad mögött van már a dühös boszorkány;
+
+70
+00:03:25,600 --> 00:03:28,640
+Nagy szája megnyílik, tüdeje kitágul,
+
+71
+00:03:28,640 --> 00:03:32,090
+S ily módon riaszt föl szerelem álmábul:
+
+72
+00:03:32,090 --> 00:03:33,960
+„Becstelen teremtés!
+
+73
+00:03:33,960 --> 00:03:35,470
+gyalázatos pára!
+
+74
+00:03:35,470 --> 00:03:38,410
+Ilyet mersz te tenni világnak csúfjára?
+
+75
+00:03:38,410 --> 00:03:41,330
+Lopod a napot, és istentelenkedel...
+
+76
+00:03:41,330 --> 00:03:44,580
+Nézze meg az ember... hogy tüstént vigyen el —”
+
+77
+00:03:44,580 --> 00:03:47,460
+„Hanem most már elég, hallja-e kend, anyjuk?
+
+78
+00:03:47,460 --> 00:03:50,040
+Fogja be a száját, vagy majd betapasztjuk.
+
+79
+00:03:50,040 --> 00:03:52,430
+Úgy merje kend Ilust egy szóval bántani,
+
+80
+00:03:52,430 --> 00:03:55,310
+Hogy kihullanak még meglevő fogai.”
+
+81
+00:03:55,310 --> 00:03:58,100
+Reszkető kedvese védelmezésére
+
+82
+00:03:58,100 --> 00:04:00,780
+Ekkép fakadt ki a nyáj bátor őrzője;
+
+83
+00:04:00,780 --> 00:04:03,250
+Azután haragos szemmel fenyegetve
+
+84
+00:04:03,250 --> 00:04:05,820
+Az elmondottakhoz e szavakat tette:
+
+85
+00:04:05,820 --> 00:04:08,060
+„Ha nem akarja, hogy felgyujtsam a házát,
+
+86
+00:04:08,060 --> 00:04:10,530
+Meg ne illesse kend ezt a szegény árvát.
+
+87
+00:04:10,530 --> 00:04:13,020
+Úgyis töri magát, dolgozik eleget,
+
+88
+00:04:13,020 --> 00:04:16,090
+És mégsem kap száraz kenyérnél egyebet.
+
+89
+00:04:16,090 --> 00:04:17,770
+Most eredj Iluskám.
+
+90
+00:04:17,770 --> 00:04:18,850
+Megvan még a nyelved,
+
+91
+00:04:18,850 --> 00:04:21,330
+Hogy elpanaszold, ha roszúl bánik veled. —
+
+92
+00:04:21,330 --> 00:04:24,600
+S kend ne akadjon fönn azon, mit más csinál,
+
+93
+00:04:24,600 --> 00:04:27,900
+Hisz kend sem volt jobb a deákné vásznánál.”
+
+94
+00:04:27,900 --> 00:04:30,550
+Kukoricza Jancsi fölkapta subáját,
+
+95
+00:04:30,550 --> 00:04:33,700
+S sebes lépésekkel ment keresni nyáját,
+
+96
+00:04:33,700 --> 00:04:36,600
+Nagy megszeppenéssel most vette csak észre,
+
+97
+00:04:36,600 --> 00:04:39,860
+Hogy imitt-amott van egy-kettő belőle.
+
+98
+00:04:42,120 --> 00:04:44,950
+Vége a második fejezetnek
+
+99
+00:04:44,950 --> 00:04:48,040
+Harmadik fejezet
+
+100
+00:04:49,360 --> 00:04:51,510
+A nap akkor már a földet érintette,
+
+101
+00:04:51,510 --> 00:04:54,210
+Mikor Jancsi a nyájt félig összeszedte;
+
+102
+00:04:54,210 --> 00:04:56,610
+Nem tudja, hol lehet annak másik fele:
+
+103
+00:04:56,610 --> 00:04:59,470
+Tolvaj-e vagy farkas, ami elment vele?
+
+104
+00:04:59,470 --> 00:05:02,510
+Akárhová lett az, csakhogy már odavan;
+
+105
+00:05:02,510 --> 00:05:05,620
+Búsulás, keresés, minden haszontalan.
+
+106
+00:05:05,620 --> 00:05:07,120
+Most hát mihez fogjon?
+
+107
+00:05:07,120 --> 00:05:08,980
+nekiszánva magát,
+
+108
+00:05:08,980 --> 00:05:11,920
+Hazafelé hajtja a megmaradt falkát.
+
+109
+00:05:11,920 --> 00:05:15,360
+„Majd lesz neked Jancsi... no hiszen lesz neked!”
+
+110
+00:05:15,360 --> 00:05:18,370
+Szomorún kullogva gondolta ezeket,
+
+111
+00:05:18,370 --> 00:05:20,800
+„Gazduramnak ugyis rossz a csillagzatja,
+
+112
+00:05:20,800 --> 00:05:25,040
+Hát még... de legyen meg isten akaratja.”
+
+113
+00:05:25,040 --> 00:05:28,520
+Ezt gondolta, többet nem is gondolhatott;
+
+114
+00:05:28,520 --> 00:05:30,930
+Mert ekkor a nyájjal elérte a kaput.
+
+115
+00:05:30,930 --> 00:05:33,400
+Kapu előtt állt az indulatos gazda,
+
+116
+00:05:33,400 --> 00:05:36,350
+Szokás szerint a nyájt olvasni akarta.
+
+117
+00:05:36,350 --> 00:05:39,600
+„Sose olvassa biz azt kelmed, gazduram!
+
+118
+00:05:39,600 --> 00:05:40,930
+Mi tagadás benne?
+
+119
+00:05:40,930 --> 00:05:42,290
+igen nagy híja van;
+
+120
+00:05:42,290 --> 00:05:45,930
+Szánom, bánom, de már nem tehetek róla,”
+
+121
+00:05:45,930 --> 00:05:48,960
+Kukoricza Jancsi e szavakat szólta.
+
+122
+00:05:48,960 --> 00:05:51,970
+Gazdája meg ezt a feleletet adta,
+
+123
+00:05:51,970 --> 00:05:55,890
+S megkapta bajszát, és egyet pödrött rajta:
+
+124
+00:05:55,890 --> 00:05:58,620
+„Ne bolondozz Jancsi, a tréfát nem értem;
+
+125
+00:05:58,620 --> 00:06:01,780
+Amíg jól van dolgod, föl ne gerjeszd mérgem.”
+
+126
+00:06:01,780 --> 00:06:05,020
+Kisült, hogy korántsem tréfaság a beszéd,
+
+127
+00:06:05,020 --> 00:06:07,840
+Jancsi gazdájának majd elvette eszét;
+
+128
+00:06:07,840 --> 00:06:10,890
+Jancsi gazdája bőg, mint aki megbőszült:
+
+129
+00:06:10,890 --> 00:06:13,950
+„Vasvillát, vasvillát!... hadd szúrjam keresztül!
+
+130
+00:06:13,950 --> 00:06:15,210
+Jaj, a zsivány!
+
+131
+00:06:15,210 --> 00:06:16,660
+jaj, az akasztani való!
+
+132
+00:06:16,660 --> 00:06:19,290
+Hogy ássa ki mind a két szemét a holló!...
+
+133
+00:06:19,290 --> 00:06:20,630
+Ezért tartottalak?
+
+134
+00:06:20,630 --> 00:06:22,000
+ezért etettelek?
+
+135
+00:06:22,000 --> 00:06:24,590
+Sohase kerüld ki a hóhérkötelet.
+
+136
+00:06:24,590 --> 00:06:27,790
+Elpusztulj előlem, többé ne lássalak!”
+
+137
+00:06:27,790 --> 00:06:30,770
+Jancsi gazdájából így dőltek a szavak;
+
+138
+00:06:30,770 --> 00:06:33,610
+Fölkapott hirtelen egy petrencés rudat,
+
+139
+00:06:33,610 --> 00:06:36,430
+A petrencés rúddal Jancsi után szaladt.
+
+140
+00:06:36,430 --> 00:06:39,050
+Kukoricza Jancsi elfutott előle,
+
+141
+00:06:39,050 --> 00:06:42,060
+De koránsem azért, mintha talán félne,
+
+142
+00:06:42,060 --> 00:06:45,500
+Markos gyerek volt ő, husz legényen kitett,
+
+143
+00:06:45,500 --> 00:06:48,450
+Noha nem érte meg még husszor a telet.
+
+144
+00:06:48,450 --> 00:06:51,210
+Csak azért futott, mert világosan látta,
+
+145
+00:06:51,210 --> 00:06:53,820
+Hogy méltán haragszik oly nagyon gazdája;
+
+146
+00:06:53,820 --> 00:06:56,450
+S ha ütlegre kerül a dolog, azt verje,
+
+147
+00:06:56,450 --> 00:06:59,550
+Ki félig apja volt, ki őt fölnevelte?
+
+148
+00:06:59,550 --> 00:07:02,670
+Futott, míg a szuszból gazdája kifogyott;
+
+149
+00:07:02,670 --> 00:07:05,520
+Azután ballagott, megállt, meg ballagott
+
+150
+00:07:05,520 --> 00:07:09,190
+Jobbra is, balra is; s mindevvel mit akar?
+
+151
+00:07:09,190 --> 00:07:12,500
+Nem tudta, mert nagy volt fejében a zavar.
+
+152
+00:07:14,100 --> 00:07:16,830
+Vége a harmadik fejezetnek
+
+153
+00:07:16,830 --> 00:07:19,680
+Negyedik fejezet
+
+154
+00:07:20,840 --> 00:07:22,980
+Mikorra a patak vize tükörré lett,
+
+155
+00:07:22,980 --> 00:07:25,850
+Melybe ezer csillag ragyogása nézett:
+
+156
+00:07:25,850 --> 00:07:28,470
+Jancsi Iluskáék kertje alatt vala;
+
+157
+00:07:28,470 --> 00:07:31,460
+Maga sem tudta, hogy mikép jutott oda.
+
+158
+00:07:31,460 --> 00:07:35,000
+Megállt, elővette kedves furulyáját,
+
+159
+00:07:35,000 --> 00:07:38,200
+Kezdte rajta fújni legbúsabb nótáját;
+
+160
+00:07:38,200 --> 00:07:41,590
+A harmat, mely ekkor ellepett fűt, bokort,
+
+161
+00:07:41,590 --> 00:07:44,970
+Tán a szánakozó csillagok könnye volt.
+
+162
+00:07:44,970 --> 00:07:47,070
+Iluska már aludt.
+
+163
+00:07:47,070 --> 00:07:48,370
+A pitvar eleje
+
+164
+00:07:48,370 --> 00:07:51,190
+Volt nyár idejében rendes fekvőhelye.
+
+165
+00:07:51,190 --> 00:07:53,750
+Fekvőhelyéről a jól ismert nótára
+
+166
+00:07:53,750 --> 00:07:57,480
+Fölkelt, lesietett Jancsi látására.
+
+167
+00:07:57,480 --> 00:08:00,510
+Jancsinak látása nem esett kedvére,
+
+168
+00:08:00,510 --> 00:08:04,040
+Mert megijedt tőle, s ily szót csalt nyelvére:
+
+169
+00:08:04,040 --> 00:08:06,240
+„Jancsi lelkem, mi lelt?
+
+170
+00:08:06,240 --> 00:08:07,850
+mért vagy oly halovány,
+
+171
+00:08:07,850 --> 00:08:11,150
+Mint az elfogyó hold bús őszi éjszakán?”
+
+172
+00:08:11,150 --> 00:08:12,650
+„Hej, Iluskám!
+
+173
+00:08:12,650 --> 00:08:14,410
+hogyne volnék én halovány,
+
+174
+00:08:14,410 --> 00:08:18,580
+Mikor szép orcádat utószor látom tán...”
+
+175
+00:08:18,580 --> 00:08:21,250
+„Jancsikám, látásod ugyis megrémített:
+
+176
+00:08:21,250 --> 00:08:24,370
+Hagyd el az istenért az ilyen beszédet!”
+
+177
+00:08:24,370 --> 00:08:28,080
+„Utószor látlak én, szívem szép tavasza!
+
+178
+00:08:28,080 --> 00:08:31,450
+Utószor szólt itten furulyám panasza;
+
+179
+00:08:31,450 --> 00:08:34,850
+Utószor ölellek, utószor csókollak,
+
+180
+00:08:34,850 --> 00:08:38,280
+Örökre elmegyek, örökre itt hagylak!”
+
+181
+00:08:38,280 --> 00:08:41,550
+Most a boldogtalan mindent elbeszéle,
+
+182
+00:08:41,550 --> 00:08:44,740
+Ráborúlt zokogó kedvese keblére,
+
+183
+00:08:44,740 --> 00:08:49,130
+Ráborúlt, ölelte, de képpel elfordult:
+
+184
+00:08:49,130 --> 00:08:52,890
+Ne lássa a leány, hogy könnye kicsordult.
+
+185
+00:08:52,890 --> 00:08:55,310
+„Most hát, szép Iluskám!
+
+186
+00:08:55,310 --> 00:08:57,000
+Most hát, édes rózsám!
+
+187
+00:08:57,000 --> 00:08:59,820
+Az isten áldjon meg, gondolj néha reám.
+
+188
+00:08:59,820 --> 00:09:03,350
+Ha látsz száraz kórót szélvésztől kergetve,
+
+189
+00:09:03,350 --> 00:09:06,860
+Bujdosó szeretőd jusson majd eszedbe.”
+
+190
+00:09:06,860 --> 00:09:11,100
+„Most hát, Jancsi lelkem, eredj, ha menned kell!
+
+191
+00:09:11,100 --> 00:09:14,350
+A jóisten legyen minden lépéseddel.
+
+192
+00:09:14,350 --> 00:09:17,740
+Ha látsz tört virágot útközepre vetve,
+
+193
+00:09:17,740 --> 00:09:21,300
+Hervadó szeretőd jusson majd eszedbe.”
+
+194
+00:09:21,300 --> 00:09:25,000
+Elváltak egymástól, mint ágtól a levél;
+
+195
+00:09:25,000 --> 00:09:28,520
+Mindkettejök szíve lett puszta, hideg tél.
+
+196
+00:09:28,520 --> 00:09:31,920
+Könnyeit Iluska hullatta nagy számmal,
+
+197
+00:09:31,920 --> 00:09:35,150
+Jancsi letörölte inge bő ujjával.
+
+198
+00:09:35,150 --> 00:09:39,980
+Indult; nem nézte egy szemmel sem, hol az ut?
+
+199
+00:09:39,980 --> 00:09:43,230
+Neki úgyis mindegy volt, akárhova jut.
+
+200
+00:09:43,230 --> 00:09:46,000
+Fütyörésztek pásztorgyermekek mellette,
+
+201
+00:09:46,000 --> 00:09:51,230
+Kolompolt a gulya... ő észre sem vette.
+
+202
+00:09:51,230 --> 00:09:54,510
+A falu messzire volt már háta megett,
+
+203
+00:09:54,510 --> 00:09:57,570
+Nem látta lobogni a pásztortüzeket;
+
+204
+00:09:57,570 --> 00:10:01,060
+Mikor utójára megállt s visszanézett,
+
+205
+00:10:01,060 --> 00:10:04,230
+A torony bámult rá, mint sötét kisértet.
+
+206
+00:10:04,230 --> 00:10:06,840
+Ha ekkor mellette lett volna valaki,
+
+207
+00:10:06,840 --> 00:10:09,890
+Hallotta volna őt nagyot sóhajtani;
+
+208
+00:10:09,890 --> 00:10:13,110
+A levegőeget daruk hasították,
+
+209
+00:10:13,110 --> 00:10:16,850
+Magasan röpűltek, azok sem hallották.
+
+210
+00:10:16,850 --> 00:10:20,310
+Ballagott, ballagott a halk éjszakában,
+
+211
+00:10:20,310 --> 00:10:23,410
+Csak nehéz subája suhogott nyakában;
+
+212
+00:10:23,410 --> 00:10:26,800
+Ő ugyan subáját gondolta nehéznek,
+
+213
+00:10:26,800 --> 00:10:30,560
+Pedig a szíve volt oly nehéz szegénynek.
+
+214
+00:10:32,220 --> 00:10:35,060
+Vége a negyedik fejezetnek
+
+215
+00:10:40,020 --> 00:10:43,700
+János Vitéz
+Ötödik fejezet
+
+216
+00:10:43,700 --> 00:10:47,000
+Ez a Librivox-felvétel közkincs.
+
+217
+00:10:47,000 --> 00:10:50,380
+Felolvassa Majlinger Diana
+
+218
+00:10:50,380 --> 00:10:54,350
+János Vitéz
+írta
+Petőfi Sándor
+
+219
+00:10:54,350 --> 00:10:56,330
+Ötödik fejezet
+
+220
+00:10:56,330 --> 00:11:01,910
+Mikor a nap fölkelt, s a holdat elküldte,
+
+221
+00:11:01,910 --> 00:11:04,790
+A puszta, mint tenger, feküdt körülötte;
+
+222
+00:11:04,790 --> 00:11:07,650
+A nap fölkeltétől a nap enyésztéig
+
+223
+00:11:07,650 --> 00:11:11,030
+Egyenes rónaság nyujtózkodott végig.
+
+224
+00:11:11,030 --> 00:11:14,400
+Nem volt virág, nem volt fa, nem volt bokor ott,
+
+225
+00:11:14,400 --> 00:11:17,610
+A harmat apró gyér füveken csillogott;
+
+226
+00:11:17,610 --> 00:11:20,380
+Oldalvást a napnak első sugarára
+
+227
+00:11:20,380 --> 00:11:23,770
+Fölpiroslott egy tó; környékezte káka.
+
+228
+00:11:23,770 --> 00:11:26,490
+A tónak szélénél a káka közepett
+
+229
+00:11:26,490 --> 00:11:29,560
+Egy hosszú nyakú gém eledelt keresett,
+
+230
+00:11:29,560 --> 00:11:32,450
+És a tó közepén gyors halászmadarak
+
+231
+00:11:32,450 --> 00:11:35,760
+Hosszú szárnyaikkal le s föl szállongtanak.
+
+232
+00:11:35,760 --> 00:11:38,850
+Jancsi csak ballagott sötét árnyékával
+
+233
+00:11:38,850 --> 00:11:42,000
+S elméjének sötét gondolkozásával;
+
+234
+00:11:42,000 --> 00:11:45,260
+Az egész pusztában széjjel sütött a nap,
+
+235
+00:11:45,260 --> 00:11:48,760
+De az ő szívében éjek éje maradt.
+
+236
+00:11:48,760 --> 00:11:51,940
+Mikor a nap elért az ég tetejére,
+
+237
+00:11:51,940 --> 00:11:54,780
+Eszébe jutott, hogy falatozni kéne,
+
+238
+00:11:54,780 --> 00:11:57,830
+Tennap ilyen tájban evett utójára,
+
+239
+00:11:57,830 --> 00:12:01,140
+Meg alig is bírta már lankadó lába.
+
+240
+00:12:01,140 --> 00:12:04,660
+Letelepűlt, elővette tarisznyáját,
+
+241
+00:12:04,660 --> 00:12:07,500
+Megette maradék kevés szalonnáját.
+
+242
+00:12:07,500 --> 00:12:11,230
+Nézte őt a kék ég, a fényes nap... alább
+
+243
+00:12:11,230 --> 00:12:13,460
+Ragyogó szemével a tündér délibáb.
+
+244
+00:12:13,460 --> 00:12:16,660
+A kis ebéd neki jóízűen esett,
+
+245
+00:12:16,660 --> 00:12:19,100
+Megszomjazott rá, a tóhoz közeledett,
+
+246
+00:12:19,100 --> 00:12:22,220
+Kalapjának belemártá karimáját,
+
+247
+00:12:22,220 --> 00:12:25,290
+Ekkép enyhítette égő szomjuságát.
+
+248
+00:12:25,290 --> 00:12:28,550
+A tónak partjáról nem távozott messze:
+
+249
+00:12:28,550 --> 00:12:31,640
+Az álom szemének pilláját ellepte;
+
+250
+00:12:31,640 --> 00:12:34,750
+Vakondokturásra bocsátotta fejét,
+
+251
+00:12:34,750 --> 00:12:37,300
+Hogy visszanyerhesse elfogyott erejét.
+
+252
+00:12:37,300 --> 00:12:41,050
+Az álom őt odavitte, ahonnan jött,
+
+253
+00:12:41,050 --> 00:12:43,890
+Iluskája pihent hű karjai között,
+
+254
+00:12:43,890 --> 00:12:46,490
+Mikor a kisleányt csókolni akarta,
+
+255
+00:12:46,490 --> 00:12:49,970
+Hatalmas mennydörgés álmát elzavarta.
+
+256
+00:12:49,970 --> 00:12:53,600
+Szétnézett a puszta hosszában, széltében;
+
+257
+00:12:53,600 --> 00:12:56,770
+Nagy égiháború volt keletkezőben.
+
+258
+00:12:56,770 --> 00:12:59,730
+Oly hamar támadott az égiháború,
+
+259
+00:12:59,730 --> 00:13:02,870
+Mily hamar Jancsinak sorsa lett szomorú.
+
+260
+00:13:02,870 --> 00:13:05,820
+A világ sötétbe öltözködött vala,
+
+261
+00:13:05,820 --> 00:13:09,510
+Szörnyen zengett az ég, hullt az istennyila;
+
+262
+00:13:09,510 --> 00:13:12,830
+Végtére megnyílt a felhők csatornája,
+
+263
+00:13:12,830 --> 00:13:16,280
+S a tó vize sűrű buborékot hánya.
+
+264
+00:13:16,280 --> 00:13:19,720
+Jó hosszú botjára Jancsi támaszkodott,
+
+265
+00:13:19,720 --> 00:13:22,320
+Lekonyította a karimás kalapot,
+
+266
+00:13:22,320 --> 00:13:25,480
+Nagyszőrű subáját meg kifordította,
+
+267
+00:13:25,480 --> 00:13:28,640
+Úgy tekintett bele a vad zivatarba.
+
+268
+00:13:28,640 --> 00:13:31,310
+De a vihar ami hamar keletkezett,
+
+269
+00:13:31,310 --> 00:13:34,190
+Oly hamar is hagyta el megint az eget.
+
+270
+00:13:34,190 --> 00:13:37,200
+Megindult a felhő könnyü szélnek szárnyán,
+
+271
+00:13:37,200 --> 00:13:40,590
+Ragyogott keleten a tarka szivárvány.
+
+272
+00:13:40,590 --> 00:13:43,800
+Subájáról Jancsi lerázta a vizet,
+
+273
+00:13:43,800 --> 00:13:46,710
+Miután lerázta, ujra utnak eredt.
+
+274
+00:13:46,710 --> 00:13:49,410
+Mikor a nap leszállt pihenni ágyába,
+
+275
+00:13:49,410 --> 00:13:52,870
+Kukoricza Jancsit még vitte két lába.
+
+276
+00:13:52,870 --> 00:13:56,280
+Vitte őt két lába erdő közepébe,
+
+277
+00:13:56,280 --> 00:13:59,460
+Sűrű zöld erdőnek sötét közepébe;
+
+278
+00:13:59,460 --> 00:14:02,710
+Ott őt köszöntötte holló károgása,
+
+279
+00:14:02,710 --> 00:14:06,270
+Mely épen egy esett vadnak szemét ásta.
+
+280
+00:14:06,270 --> 00:14:09,860
+Sem erdő, sem holló őt nem háborgatván,
+
+281
+00:14:09,860 --> 00:14:12,780
+Kukoricza Jancsi ment a maga utján;
+
+282
+00:14:12,780 --> 00:14:15,960
+Erdő közepében sötét ösvényére
+
+283
+00:14:15,960 --> 00:14:19,400
+Leküldte világát a hold sárga fénye.
+
+284
+00:14:20,540 --> 00:14:24,360
+Vége az ötödik fejezetnek
+
+285
+00:14:25,640 --> 00:14:28,710
+Hatodik fejezet
+
+286
+00:14:28,710 --> 00:14:31,440
+Az idő járása éjfél lehetett már,
+
+287
+00:14:31,440 --> 00:14:34,570
+Mikor szemébe tünt egy pislogó sugár.
+
+288
+00:14:34,570 --> 00:14:38,180
+Amint közelebb ért, látta, hogy ez a fény
+
+289
+00:14:38,180 --> 00:14:40,480
+Ablakból világít az erdő legmélyén.
+
+290
+00:14:40,480 --> 00:14:44,760
+Jancsi e látványra ekkép okoskodék:
+
+291
+00:14:44,760 --> 00:14:47,600
+„Ez a világ aligha csárdában nem ég;
+
+292
+00:14:47,600 --> 00:14:50,550
+Bizonyára úgy lesz — hál’ a jóistennek!
+
+293
+00:14:50,550 --> 00:14:53,260
+Bemegyek az éjre, benne megpihenek.”
+
+294
+00:14:53,260 --> 00:14:56,630
+Csalatkozott Jancsi, mert az nem volt csárda,
+
+295
+00:14:56,630 --> 00:14:59,480
+Hanem volt tizenkét zsiványnak tanyája.
+
+296
+00:14:59,480 --> 00:15:02,410
+Nem állott üresen a ház, a zsiványok
+
+297
+00:15:02,410 --> 00:15:05,100
+Mind a tizenketten odabenn valának.
+
+298
+00:15:05,100 --> 00:15:08,950
+Éjszaka, zsiványok, csákányok, pisztolyok...
+
+299
+00:15:08,950 --> 00:15:11,530
+Ha jól megfontoljuk, ez nem tréfadolog;
+
+300
+00:15:11,530 --> 00:15:14,270
+De az én Jancsimnak helyén állt a szíve,
+
+301
+00:15:14,270 --> 00:15:17,470
+Azért is közéjük nagy bátran belépe.
+
+302
+00:15:17,470 --> 00:15:20,750
+„Adjon az úristen szerencsés jó estét!”
+
+303
+00:15:20,750 --> 00:15:23,650
+Mondott nekik Jancsi ilyen megköszöntést:
+
+304
+00:15:23,650 --> 00:15:26,270
+Erre a zsiványok fegyverhez kapának,
+
+305
+00:15:26,270 --> 00:15:29,390
+Jancsinak rohantak, s szólt a kapitányok:
+
+306
+00:15:29,390 --> 00:15:32,330
+„Szerencsétlenségnek embere, ki vagy te?
+
+307
+00:15:32,330 --> 00:15:34,830
+Hogy lábadat mered tenni e küszöbre.
+
+308
+00:15:34,830 --> 00:15:36,150
+Vannak-e szüleid?
+
+309
+00:15:36,150 --> 00:15:37,420
+van-e feleséged?
+
+310
+00:15:37,420 --> 00:15:40,360
+Akármid van, nem fog többé látni téged.”
+
+311
+00:15:40,360 --> 00:15:43,010
+Jancsinak sem szíve nem vert sebesebben
+
+312
+00:15:43,010 --> 00:15:46,800
+E szókra, sem nem lett haloványabb színben;
+
+313
+00:15:46,800 --> 00:15:49,310
+A zsiványkapitány fenyegetésire
+
+314
+00:15:49,310 --> 00:15:51,850
+Meg nem ijedt hangon ily módon felele:
+
+315
+00:15:51,850 --> 00:15:54,440
+„Akinek életét van miért félteni,
+
+316
+00:15:54,440 --> 00:15:57,440
+Ha e tájt kerüli, nagyon bölcsen teszi.
+
+317
+00:15:57,440 --> 00:16:00,430
+Nekem nem kedves az élet, hát közétek,
+
+318
+00:16:00,430 --> 00:16:03,830
+Bárkik vagytok, egész bátorsággal lépek.
+
+319
+00:16:03,830 --> 00:16:06,670
+Azért, ha úgy tetszik, hagyjatok életben,
+
+320
+00:16:06,670 --> 00:16:09,220
+Hagyjatok ez éjjel itten megpihennem;
+
+321
+00:16:09,220 --> 00:16:11,900
+Ha nem akarjátok ezt: üssetek agyon,
+
+322
+00:16:11,900 --> 00:16:14,470
+Hitvány életemet védeni nem fogom.”
+
+323
+00:16:14,470 --> 00:16:17,610
+Ezt mondta, nyugodtan a jövendőt várva,
+
+324
+00:16:17,610 --> 00:16:20,300
+A tizenkét zsivány csodálkozására.
+
+325
+00:16:20,300 --> 00:16:23,180
+A kapitány ilyen szókat váltott véle:
+
+326
+00:16:23,180 --> 00:16:26,070
+„Egyet mondok, öcsém, kettő lesz belőle;
+
+327
+00:16:26,070 --> 00:16:29,140
+Te derék legény vagy, azt a bátor szented!
+
+328
+00:16:29,140 --> 00:16:31,490
+Téged az isten is zsiványnak teremtett.
+
+329
+00:16:31,490 --> 00:16:34,340
+Éltedet megveted, a halált nem féled...
+
+330
+00:16:34,340 --> 00:16:37,360
+Te kellesz minekünk... kezet csapunk véled!
+
+331
+00:16:37,360 --> 00:16:40,640
+Rablás, fosztogatás, ölés nekünk tréfa,
+
+332
+00:16:40,640 --> 00:16:43,800
+E derék tréfának díja gazdag préda.
+
+333
+00:16:43,800 --> 00:16:46,980
+Ez a hordó ezüst, ez meg arany, látod?...
+
+334
+00:16:46,980 --> 00:16:49,530
+Nos hát elfogadod a cimboraságot?”
+
+335
+00:16:49,530 --> 00:16:52,540
+Furcsa dolgok jártak Jancsi elméjében,
+
+336
+00:16:52,540 --> 00:16:55,720
+S tettetett jókedvvel szólt ilyeténképen:
+
+337
+00:16:55,720 --> 00:16:58,670
+„Cimborátok vagyok, itt a kezem rája!
+
+338
+00:16:58,670 --> 00:17:01,430
+Rút életemnek ez a legszebb órája.”
+
+339
+00:17:01,430 --> 00:17:04,900
+„No, hogy még szebb legyen,” felelt a kapitány,
+
+340
+00:17:04,900 --> 00:17:07,650
+„Lássunk, embereim, az áldomás után;
+
+341
+00:17:07,650 --> 00:17:10,410
+Papok pincéjéből van jó borunk elég,
+
+342
+00:17:10,410 --> 00:17:13,200
+Nézzük meg a kancsók mélységes fenekét!”
+
+343
+00:17:13,200 --> 00:17:16,130
+S a kancsók mélységes fenekére néztek,
+
+344
+00:17:16,130 --> 00:17:18,950
+S lett eltemetése fejükben az észnek;
+
+345
+00:17:18,950 --> 00:17:21,860
+Maga volt csak Jancsi, ki mértéket tartott,
+
+346
+00:17:21,860 --> 00:17:25,320
+Kinálgatták, de ő aprókat kortyantott.
+
+347
+00:17:25,320 --> 00:17:28,920
+Álmot hozott a bor latrok pillájára...
+
+348
+00:17:28,920 --> 00:17:31,670
+Jancsinak sem kellett több, ő csak ezt várta.
+
+349
+00:17:31,670 --> 00:17:34,470
+Mikor a zsiványok jobbra, balra dőltek,
+
+350
+00:17:34,470 --> 00:17:37,140
+Jancsi a beszédet ilyformán kezdé meg:
+
+351
+00:17:37,140 --> 00:17:40,430
+„Jó éjszakát!... nem kelt föl titeket sem más,
+
+352
+00:17:40,430 --> 00:17:43,240
+Majd csak az itéletnapi trombitálás!
+
+353
+00:17:43,240 --> 00:17:45,870
+Élete gyertyáját soknak eloltátok,
+
+354
+00:17:45,870 --> 00:17:48,670
+Küldök én örökös éjszakát reátok.
+
+355
+00:17:48,670 --> 00:17:50,590
+Most a kincses kádhoz!
+
+356
+00:17:50,590 --> 00:17:51,940
+Megtöltöm tarisznyám,
+
+357
+00:17:51,940 --> 00:17:54,340
+Hazaviszem neked, szerelmes Iluskám!
+
+358
+00:17:54,340 --> 00:17:57,620
+Cudar mostohádnak nem lész többé rabja,
+
+359
+00:17:57,620 --> 00:18:01,220
+Feleségül veszlek... isten is akarja.
+
+360
+00:18:01,220 --> 00:18:04,090
+Házat építtetek a falu közepén,
+
+361
+00:18:04,090 --> 00:18:06,910
+Ékes menyecskének odavezetlek én;
+
+362
+00:18:06,910 --> 00:18:09,630
+Ottan éldegélünk mi ketten boldogan,
+
+363
+00:18:09,630 --> 00:18:13,340
+Mint Ádám és Éva a paradicsomban...
+
+364
+00:18:13,340 --> 00:18:14,860
+Istenem teremtőm!
+
+365
+00:18:14,860 --> 00:18:16,230
+mit beszélek én itt?
+
+366
+00:18:16,230 --> 00:18:19,010
+Zsiványoknak vigyem el átkozott pénzit?
+
+367
+00:18:19,010 --> 00:18:22,270
+Tán minden darabhoz vérfoltok ragadtak.
+
+368
+00:18:22,270 --> 00:18:25,670
+S én ilyen kincsekkel legyek boldog, gazdag?
+
+369
+00:18:25,670 --> 00:18:29,320
+Hozzájok sem nyúlok... azt én nem tehetem,
+
+370
+00:18:29,320 --> 00:18:32,080
+Nincs elromolva a lelkiismeretem. —
+
+371
+00:18:32,080 --> 00:18:35,040
+Édes szép Iluskám, csak viseld terhedet,
+
+372
+00:18:35,040 --> 00:18:38,090
+Bízd a jóistenre árva életedet!”
+
+373
+00:18:38,090 --> 00:18:41,030
+Mikor elvégezte Jancsi a beszédet,
+
+374
+00:18:41,030 --> 00:18:43,520
+Az égő gyertyával a házból kilépett,
+
+375
+00:18:43,520 --> 00:18:46,260
+Meggyujtá födelét mind a négy szögleten,
+
+376
+00:18:46,260 --> 00:18:49,230
+Elharapózott a mérges láng sebesen.
+
+377
+00:18:49,230 --> 00:18:52,440
+Egy láng lett a födél szempillantás alatt,
+
+378
+00:18:52,440 --> 00:18:55,390
+A láng piros nyelve az ég felé szaladt,
+
+379
+00:18:55,390 --> 00:18:58,280
+Feketévé vált a tisztakék égi bolt,
+
+380
+00:18:58,280 --> 00:19:01,190
+Elhaloványodott a teljes fényü hold.
+
+381
+00:19:01,190 --> 00:19:03,860
+A szokatlan világ amint elterjedett,
+
+382
+00:19:03,860 --> 00:19:06,620
+Fölriasztotta a baglyot, bőregeret;
+
+383
+00:19:06,620 --> 00:19:09,360
+Kiterjesztett szárnyak sebes susogása
+
+384
+00:19:09,360 --> 00:19:12,070
+A falombozatok nyugalmát fölrázta.
+
+385
+00:19:12,070 --> 00:19:14,830
+A föltámadó nap legelső sugára
+
+386
+00:19:14,830 --> 00:19:17,790
+Lesütött a háznak füstölgő romjára,
+
+387
+00:19:17,790 --> 00:19:20,780
+Pusztult ablakán át benézett a házba,
+
+388
+00:19:20,780 --> 00:19:24,340
+Ott a haramjáknak csontvázait látta.
+
+389
+00:19:25,980 --> 00:19:28,640
+Vége a hatodik fejezetnek
+
+390
+00:19:28,640 --> 00:19:31,410
+Hetedik fejezet
+
+391
+00:19:31,410 --> 00:19:34,900
+Jancsi már hetedhét országon túl jára,
+
+392
+00:19:34,900 --> 00:19:37,580
+Nem is igen gondolt a zsiványtanyára;
+
+393
+00:19:37,580 --> 00:19:39,840
+Egyszerre valami csillámlott előtte,
+
+394
+00:19:39,840 --> 00:19:42,960
+Hát sugarát a nap fegyverekre lőtte.
+
+395
+00:19:42,960 --> 00:19:46,550
+Katonák jövének, gyönyörű huszárok,
+
+396
+00:19:46,550 --> 00:19:49,480
+A nap fénye ezek fegyverén csillámlott;
+
+397
+00:19:49,480 --> 00:19:52,730
+Alattok a lovak tomboltak, prüsszögtek,
+
+398
+00:19:52,730 --> 00:19:55,750
+Kényesen rázták szép sörényes fejöket.
+
+399
+00:19:55,750 --> 00:19:58,960
+Mikor őket Jancsi közeledni látta,
+
+400
+00:19:58,960 --> 00:20:01,570
+Alig fért meg szíve a bal oldalába’
+
+401
+00:20:01,570 --> 00:20:04,910
+Mert így gondolkodott: „Ha befogadnának,
+
+402
+00:20:04,910 --> 00:20:08,050
+Be örömest mennék én is katonának!”
+
+403
+00:20:08,050 --> 00:20:11,070
+Amint a katonák közelébe értek,
+
+404
+00:20:11,070 --> 00:20:13,760
+Ily szavát hallotta Jancsi a vezérnek:
+
+405
+00:20:13,760 --> 00:20:15,070
+„Vigyázz, földi!
+
+406
+00:20:15,070 --> 00:20:17,000
+bizony rálépsz a fejedre...
+
+407
+00:20:17,000 --> 00:20:19,420
+Mi ördögért vagy úgy a búnak eredve?”
+
+408
+00:20:19,420 --> 00:20:22,560
+Jancsi pedig szólott fohászkodva nagyot:
+
+409
+00:20:22,560 --> 00:20:25,360
+„Én a kerek világ bujdosója vagyok;
+
+410
+00:20:25,360 --> 00:20:28,200
+Ha kegyelmetekkel egy sorba lehetnék,
+
+411
+00:20:28,200 --> 00:20:31,380
+A ragyogó nappal farkasszemet néznék.”
+
+412
+00:20:31,380 --> 00:20:34,970
+Szólt megint a vezér: „Jól meggondold, földi!
+
+413
+00:20:34,970 --> 00:20:37,760
+Nem mulatni megyünk, megyünk öldökölni.
+
+414
+00:20:37,760 --> 00:20:40,320
+Rárontott a török a francia népre;
+
+415
+00:20:40,320 --> 00:20:43,360
+Franciáknak megyünk mi segedelmére.”
+
+416
+00:20:43,360 --> 00:20:46,660
+„Hát hisz akkor én meg még jobban szeretném,
+
+417
+00:20:46,660 --> 00:20:49,110
+Ha magamat lóra, nyeregbe vethetném;
+
+418
+00:20:49,110 --> 00:20:53,030
+Mert ha én nem ölök, engem öl meg a bú —
+
+419
+00:20:53,030 --> 00:20:55,990
+Nagyon kivánt dolog nekem a háború.
+
+420
+00:20:55,990 --> 00:20:58,610
+Igaz, hogy eddig csak szamarat ismértem,
+
+421
+00:20:58,610 --> 00:21:01,530
+Mivelhogy juhászság volt a mesterségem.
+
+422
+00:21:01,530 --> 00:21:04,600
+De magyar vagyok, s a magyar lóra termett,
+
+423
+00:21:04,600 --> 00:21:07,960
+Magyarnak teremt az isten lovat, nyerget.”
+
+424
+00:21:07,960 --> 00:21:10,990
+Sokat mondott Jancsi megeredt nyelvével,
+
+425
+00:21:10,990 --> 00:21:13,900
+De még többet mondott sugárzó szemével;
+
+426
+00:21:13,900 --> 00:21:16,520
+Nagyon természetes hát, hogy a vezérnek
+
+427
+00:21:16,520 --> 00:21:19,760
+Megtetszett, és be is vette közlegénynek.
+
+428
+00:21:19,760 --> 00:21:22,350
+Cifra beszéd kéne azt elősorolni,
+
+429
+00:21:22,350 --> 00:21:24,940
+A vörös nadrágban mit érezett Jancsi,
+
+430
+00:21:24,940 --> 00:21:27,890
+Mit érezett, mikor a mentét fölkapta,
+
+431
+00:21:27,890 --> 00:21:31,190
+S villogó kardját a napnak megmutatta.
+
+432
+00:21:31,190 --> 00:21:34,130
+Csillagokat rúgott szilaj paripája,
+
+433
+00:21:34,130 --> 00:21:36,890
+Mikor Jancsi magát fölvetette rája,
+
+434
+00:21:36,890 --> 00:21:39,650
+De ő keményen űlt rajta, mint a cövek,
+
+435
+00:21:39,650 --> 00:21:42,650
+A földindulás sem rázhatta volna meg.
+
+436
+00:21:42,650 --> 00:21:45,610
+Bámulói lettek katonapajtási,
+
+437
+00:21:45,610 --> 00:21:48,720
+Nem győzték szépségét, erejét csodálni,
+
+438
+00:21:48,720 --> 00:21:51,980
+És amerre mentek, s beszállásozának,
+
+439
+00:21:51,980 --> 00:21:55,170
+Induláskor gyakran sírtak a leányok.
+
+440
+00:21:55,170 --> 00:21:58,070
+Lyányokra nézve ami Jancsit illeti,
+
+441
+00:21:58,070 --> 00:22:00,930
+Egyetlenegy leány sem tetszett őneki,
+
+442
+00:22:00,930 --> 00:22:03,660
+Az igaz, hogy noha sok földet bejára,
+
+443
+00:22:03,660 --> 00:22:07,180
+Sehol sem akadt ő Iluska párjára.
+
+444
+00:22:08,620 --> 00:22:11,660
+Vége a hetedik fejezetnek
+
+445
+00:22:15,920 --> 00:22:19,310
+János Vitéz
+Nyolcadik fejezet
+
+446
+00:22:19,310 --> 00:22:22,480
+Ez a Librivox-felvétel közkincs.
+
+447
+00:22:22,480 --> 00:22:25,710
+Felolvassa Majlinger Diana
+
+448
+00:22:25,710 --> 00:22:29,570
+János Vitéz
+írta
+Petőfi Sándor
+
+449
+00:22:29,570 --> 00:22:32,220
+Nyolcadik fejezet
+
+450
+00:22:33,420 --> 00:22:36,210
+Nos hát ment a sereg, csak ment, csak mendegélt,
+
+451
+00:22:36,210 --> 00:22:38,920
+Tatárországnak már elérte közepét;
+
+452
+00:22:38,920 --> 00:22:41,630
+De itten reája nagy veszedelem várt:
+
+453
+00:22:41,630 --> 00:22:44,120
+Látott érkezni sok kutyafejű tatárt.
+
+454
+00:22:44,120 --> 00:22:47,020
+Kutyafejű tatár népek fejedelme
+
+455
+00:22:47,020 --> 00:22:49,630
+A magyar sereget ekkép idvezelte:
+
+456
+00:22:49,630 --> 00:22:52,460
+„Hogy mikép mertek ti szembeszállni vélünk?
+
+457
+00:22:52,460 --> 00:22:55,470
+Tudjátok-e, hogy mi emberhússal élünk?”
+
+458
+00:22:55,470 --> 00:22:58,460
+Nagy volt ijedtsége szegény magyaroknak,
+
+459
+00:22:58,460 --> 00:23:01,140
+Minthogy a tatárok ezerannyin voltak;
+
+460
+00:23:01,140 --> 00:23:03,470
+Jó, hogy akkor azon a vidéken jára
+
+461
+00:23:03,470 --> 00:23:06,290
+Szerecsenországnak jószívű királya.
+
+462
+00:23:06,290 --> 00:23:09,280
+Ez a magyaroknak mindjárt pártját fogta,
+
+463
+00:23:09,280 --> 00:23:11,980
+Mert Magyarországot egyszer beutazta,
+
+464
+00:23:11,980 --> 00:23:14,920
+S ekkor Magyarország jámbor lelkü népe
+
+465
+00:23:14,920 --> 00:23:17,860
+Igen becsületes módon bánt ővéle.
+
+466
+00:23:17,860 --> 00:23:20,870
+El sem feledte ezt a szerecsen király:
+
+467
+00:23:20,870 --> 00:23:23,370
+Azért a magyarok védelmére kiáll,
+
+468
+00:23:23,370 --> 00:23:26,430
+S a tatár császárral, kivel jóbarát volt,
+
+469
+00:23:26,430 --> 00:23:29,570
+Kiengesztelésűl ily szavakat váltott:
+
+470
+00:23:29,570 --> 00:23:32,520
+„Kedves jóbarátom, ne bántsd e sereget,
+
+471
+00:23:32,520 --> 00:23:35,240
+Legkisebbet sem fog ez ártani neked,
+
+472
+00:23:35,240 --> 00:23:38,030
+Igen jól ismerem én a magyar népet,
+
+473
+00:23:38,030 --> 00:23:41,290
+Kedvemért bocsásd át országodon őket.”
+
+474
+00:23:41,290 --> 00:23:44,890
+„A kedvedért, pajtás, hát csak már megteszem.”
+
+475
+00:23:44,890 --> 00:23:47,690
+Szólt kibékülve a tatár fejedelem,
+
+476
+00:23:47,690 --> 00:23:50,190
+De még meg is írta az úti levelet,
+
+477
+00:23:50,190 --> 00:23:52,950
+Hogy senki se bántsa a magyar sereget.
+
+478
+00:23:52,950 --> 00:23:56,090
+Az igaz, hogy nem is lett semmi bántása,
+
+479
+00:23:56,090 --> 00:23:58,760
+De mégis örűlt, hogy elért a határra,
+
+480
+00:23:58,760 --> 00:24:00,340
+Hogyne örűlt volna?
+
+481
+00:24:00,340 --> 00:24:01,670
+ez a szegény vidék
+
+482
+00:24:01,670 --> 00:24:05,300
+Egyebet se’ terem: medvehúst meg fügét.
+
+483
+00:24:06,360 --> 00:24:08,570
+Vége a nyolcadik fejezetnek
+
+484
+00:24:08,570 --> 00:24:12,290
+Kilencedik fejezet
+
+485
+00:24:12,290 --> 00:24:15,650
+Tatárország hegyes-völgyes tartománya
+
+486
+00:24:15,650 --> 00:24:18,280
+Messziről nézett a seregnek utána,
+
+487
+00:24:18,280 --> 00:24:21,650
+Mert jól bent vala már nagy Taljánországban,
+
+488
+00:24:21,650 --> 00:24:24,960
+Rozmárínfa-erdők sötét árnyékában.
+
+489
+00:24:24,960 --> 00:24:28,060
+Itt semmi különös nem történt népünkkel,
+
+490
+00:24:28,060 --> 00:24:31,010
+Csakhogy küszködnie kellett a hideggel,
+
+491
+00:24:31,010 --> 00:24:34,140
+Mert Taljánországban örökös tél vagyon;
+
+492
+00:24:34,140 --> 00:24:37,430
+Mentek katonáink csupa havon, fagyon.
+
+493
+00:24:37,430 --> 00:24:40,440
+No de a magyarság erős természete,
+
+494
+00:24:40,440 --> 00:24:43,280
+Bármi nagy hideg volt, megbirkózott vele;
+
+495
+00:24:43,280 --> 00:24:46,570
+Aztán meg, ha fáztak, hát kapták magokat,
+
+496
+00:24:46,570 --> 00:24:50,120
+Leszálltak s hátokra vették a lovokat.
+
+497
+00:24:51,120 --> 00:24:54,240
+Vége a kilencedik fejezetnek
+
+498
+00:24:55,260 --> 00:24:57,020
+Tizedik fejezet
+
+499
+00:24:57,020 --> 00:24:59,930
+Ékképen jutottak át Lengyelországba,
+
+500
+00:24:59,930 --> 00:25:02,840
+Lengyelek földéről pedig Indiába;
+
+501
+00:25:02,840 --> 00:25:05,600
+Franciaország és India határos,
+
+502
+00:25:05,600 --> 00:25:08,690
+De köztök az út nem nagyon mulatságos.
+
+503
+00:25:08,690 --> 00:25:11,820
+India közepén még csak dombok vannak,
+
+504
+00:25:11,820 --> 00:25:14,310
+De aztán a dombok mindig magasabbak,
+
+505
+00:25:14,310 --> 00:25:17,250
+S mikor a két ország határát elérik,
+
+506
+00:25:17,250 --> 00:25:20,210
+Már akkor a hegyek fölnyúlnak az égig.
+
+507
+00:25:20,210 --> 00:25:23,100
+Tudni való, hogy itt a sereg izzadott,
+
+508
+00:25:23,100 --> 00:25:27,190
+Le is hányt magáról dolmányt, nyakravalót...
+
+509
+00:25:27,190 --> 00:25:27,960
+Hogyne az istenért?
+
+510
+00:25:27,960 --> 00:25:29,190
+a nap fejök felett
+
+511
+00:25:29,190 --> 00:25:31,720
+Valami egy óra-járásra lehetett.
+
+512
+00:25:31,720 --> 00:25:34,760
+Enni nem ettek mást, mint levegőeget;
+
+513
+00:25:34,760 --> 00:25:37,680
+Ez olyan sürü ott, hogy harapni lehet.
+
+514
+00:25:37,680 --> 00:25:40,680
+Hanem még italhoz is furcsán jutottak:
+
+515
+00:25:40,680 --> 00:25:44,230
+Ha szomjaztak, vizet felhőből facsartak.
+
+516
+00:25:44,230 --> 00:25:47,230
+Elérték végtére tetejét a hegynek;
+
+517
+00:25:47,230 --> 00:25:50,810
+Itt már oly meleg volt, hogy csak éjjel mentek.
+
+518
+00:25:50,810 --> 00:25:53,670
+Lassacskán mehettek; nagy akadály volt ott:
+
+519
+00:25:53,670 --> 00:25:56,730
+Hát a csillagokban a ló meg-megbotlott.
+
+520
+00:25:56,730 --> 00:25:59,710
+Amint ballagtak a csillagok közepett,
+
+521
+00:25:59,710 --> 00:26:02,390
+Kukoricza Jancsi ekkép elmélkedett:
+
+522
+00:26:02,390 --> 00:26:05,460
+„Azt mondják, ahányszor egy csillag leszalad,
+
+523
+00:26:05,460 --> 00:26:08,450
+A földön egy ember élete megszakad.
+
+524
+00:26:08,450 --> 00:26:11,310
+Ezer a szerencséd, te gonosz mostoha,
+
+525
+00:26:11,310 --> 00:26:13,860
+Hogy nem tudom, melyik kinek a csillaga;
+
+526
+00:26:13,860 --> 00:26:16,970
+Nem kínzanád tovább az én galambomat —
+
+527
+00:26:16,970 --> 00:26:20,110
+Mert lehajítanám mostan csillagodat.”
+
+528
+00:26:20,110 --> 00:26:23,470
+Eztán nem sokára lejtősen haladtak,
+
+529
+00:26:23,470 --> 00:26:26,500
+Alacsonyodtak már a hegyek alattok,
+
+530
+00:26:26,500 --> 00:26:29,390
+A szörnyű forróság szinte szűnni kezdett,
+
+531
+00:26:29,390 --> 00:26:33,340
+Mentül beljebb érték a francia földet.
+
+532
+00:26:34,900 --> 00:26:38,400
+Vége a tizedik fejezetnek
+
+533
+00:26:38,400 --> 00:26:40,690
+Tizenegyedik fejezet
+
+534
+00:26:40,690 --> 00:26:43,970
+A franciák földje gyönyörű tartomány,
+
+535
+00:26:43,970 --> 00:26:47,060
+Egész paradicsom, egész kis Kánaán,
+
+536
+00:26:47,060 --> 00:26:49,850
+Azért is vásott rá a törökök foga,
+
+537
+00:26:49,850 --> 00:26:53,160
+Pusztitó szándékkal azért törtek oda.
+
+538
+00:26:53,160 --> 00:26:56,190
+Mikor a magyarság beért az országba,
+
+539
+00:26:56,190 --> 00:26:58,920
+A törökök ott már raboltak javába’;
+
+540
+00:26:58,920 --> 00:27:02,260
+Kirabolták a sok gazdag templom kincsét,
+
+541
+00:27:02,260 --> 00:27:05,440
+És üresen hagytak minden borospincét.
+
+542
+00:27:05,440 --> 00:27:08,440
+Látni lehetett sok égő város lángját,
+
+543
+00:27:08,440 --> 00:27:12,690
+Kivel szemközt jöttek, azt kardjokra hányták,
+
+544
+00:27:12,690 --> 00:27:15,720
+Magát a királyt is kiűzték várából,
+
+545
+00:27:15,720 --> 00:27:19,310
+S megfosztották kedves egyetlen lyányától.
+
+546
+00:27:19,310 --> 00:27:22,290
+Így találta népünk a francia királyt,
+
+547
+00:27:22,290 --> 00:27:26,060
+Széles országában föl s le bujdosva járt;
+
+548
+00:27:26,060 --> 00:27:29,190
+Amint őt meglátták a magyar huszárok,
+
+549
+00:27:29,190 --> 00:27:32,320
+Sorsán szánakozó könnyet hullatának.
+
+550
+00:27:32,320 --> 00:27:35,360
+A bujdosó király ily szókat hallatott:
+
+551
+00:27:35,360 --> 00:27:38,180
+„Ugye, barátim, hogy keserves állapot?
+
+552
+00:27:38,180 --> 00:27:41,450
+Kincsem vetélkedett Dárius kincsével,
+
+553
+00:27:41,450 --> 00:27:45,070
+S most küszködnöm kell a legnagyobb ínséggel.”
+
+554
+00:27:45,070 --> 00:27:48,370
+A vezér azt mondá vigasztalására:
+
+555
+00:27:48,370 --> 00:27:51,520
+„Ne busúlj, franciák fölséges királya!
+
+556
+00:27:51,520 --> 00:27:54,300
+Megtáncoltatjuk mi ezt a gonosz népet,
+
+557
+00:27:54,300 --> 00:27:57,460
+Ki ily méltatlanul mert bánni tevéled.
+
+558
+00:27:57,460 --> 00:28:00,370
+Ez éjjelen által kipihenjük magunk,
+
+559
+00:28:00,370 --> 00:28:03,650
+Mert hosszú volt az út, kissé elfáradtunk.
+
+560
+00:28:03,650 --> 00:28:06,370
+De holnap azután, mihelyt fölkel a nap,
+
+561
+00:28:06,370 --> 00:28:09,430
+Visszafoglaljuk mi vesztett országodat.”
+
+562
+00:28:09,430 --> 00:28:12,720
+„Hát szegény leányom, hát édes leányom?”
+
+563
+00:28:12,720 --> 00:28:16,240
+Jajdult föl a király, „őtet hol találom?
+
+564
+00:28:16,240 --> 00:28:19,390
+Elrabolta tőlem törökök vezére...
+
+565
+00:28:19,390 --> 00:28:22,650
+Aki visszahozza, számolhat kezére.”
+
+566
+00:28:22,650 --> 00:28:25,820
+Nagy buzditás volt ez a magyar seregnek;
+
+567
+00:28:25,820 --> 00:28:28,740
+Minden ember szívét reménység szállta meg.
+
+568
+00:28:28,740 --> 00:28:31,610
+Ez volt mindenkinek fejében föltéve:
+
+569
+00:28:31,610 --> 00:28:34,540
+„Vagy visszakerítem, vagy meghalok érte.”
+
+570
+00:28:34,540 --> 00:28:37,380
+Kukoricza Jancsi tán egymaga volt csak
+
+571
+00:28:37,380 --> 00:28:40,060
+Meg nem hallója az elmondott dolognak;
+
+572
+00:28:40,060 --> 00:28:42,880
+Jancsinak az esze más egyeben jára:
+
+573
+00:28:42,880 --> 00:28:46,420
+Visszaemlékezett szép Iluskájára.
+
+574
+00:28:47,480 --> 00:28:50,640
+Vége a tizenegyedik fejezetnek
+
+575
+00:28:51,800 --> 00:28:54,190
+Tizenkettedik fejezet
+
+576
+00:28:54,190 --> 00:28:57,880
+Másnap reggel a nap szokás szerint fölkelt,
+
+577
+00:28:57,880 --> 00:29:00,650
+De nem lát és nem hall olyat minden reggel,
+
+578
+00:29:00,650 --> 00:29:03,110
+Mint amilyet hallott, mint amilyet látott
+
+579
+00:29:03,110 --> 00:29:05,940
+Mindjárt, mihelyest a föld szélére hágott.
+
+580
+00:29:05,940 --> 00:29:08,910
+Megszólalt a sereg harsány trombitája,
+
+581
+00:29:08,910 --> 00:29:12,230
+Minden legény talpon termett szózatára;
+
+582
+00:29:12,230 --> 00:29:15,480
+Jól kiköszörülték acélszablyáikat,
+
+583
+00:29:15,480 --> 00:29:18,440
+Azután nyergelték gyorsan a lovakat.
+
+584
+00:29:18,440 --> 00:29:21,120
+A király erőnek erejével rajt volt,
+
+585
+00:29:21,120 --> 00:29:23,950
+Hogy ő is elmegy, s a többiekkel harcol;
+
+586
+00:29:23,950 --> 00:29:26,370
+Hanem a huszárok bölcs eszű vezére
+
+587
+00:29:26,370 --> 00:29:29,060
+A királyhoz ilyen tanácsot intéze:
+
+588
+00:29:29,060 --> 00:29:30,990
+„Nem, kegyelmes király!
+
+589
+00:29:30,990 --> 00:29:32,600
+csak maradj te hátra,
+
+590
+00:29:32,600 --> 00:29:35,330
+A te karjaid már gyöngék a csatára;
+
+591
+00:29:35,330 --> 00:29:38,270
+Tudom, meghagyta az idő bátorságod,
+
+592
+00:29:38,270 --> 00:29:39,330
+De mi haszna?
+
+593
+00:29:39,330 --> 00:29:41,260
+hogyha erőd vele szállott.
+
+594
+00:29:41,260 --> 00:29:43,710
+Bízd az isten után mireánk ügyedet;
+
+595
+00:29:43,710 --> 00:29:46,240
+Fogadást teszünk, hogy mire a nap lemegy,
+
+596
+00:29:46,240 --> 00:29:49,070
+Országodból tova űzzük ellenséged,
+
+597
+00:29:49,070 --> 00:29:52,380
+S elfoglalhatd újra a királyi széket.”
+
+598
+00:29:52,380 --> 00:29:55,090
+Erre a magyarság lóra kerekedett,
+
+599
+00:29:55,090 --> 00:29:57,630
+S keresni indult a rabló törököket;
+
+600
+00:29:57,630 --> 00:30:00,500
+Nem soká kereste, mindjárt rájok akadt,
+
+601
+00:30:00,500 --> 00:30:03,480
+És egy követ által izent nekik hadat.
+
+602
+00:30:03,480 --> 00:30:06,420
+Visszajött a követ, harsog a trombita,
+
+603
+00:30:06,420 --> 00:30:09,210
+Rémséges zugással kezdődik a csata;
+
+604
+00:30:09,210 --> 00:30:12,130
+Acélok csengése, torkok kurjantása
+
+605
+00:30:12,130 --> 00:30:14,240
+Volt a magyaroknál harci jel adása.
+
+606
+00:30:14,240 --> 00:30:18,120
+A sarkantyút vágták lovak oldalába,
+
+607
+00:30:18,120 --> 00:30:21,010
+Dobogott a földön lovak patkós lába,
+
+608
+00:30:21,010 --> 00:30:23,760
+Vagy talán a földnek dobbant meg a szíve,
+
+609
+00:30:23,760 --> 00:30:26,580
+E vészt jövendölő zajra megijedve.
+
+610
+00:30:26,580 --> 00:30:29,460
+Törökök vezére hétlófarkú basa,
+
+611
+00:30:29,460 --> 00:30:32,430
+Ötakós hordónak elég volna hasa;
+
+612
+00:30:32,430 --> 00:30:35,340
+A sok boritaltól piroslik az orra,
+
+613
+00:30:35,340 --> 00:30:38,300
+Azt hinné az ember, hogy érett uborka.
+
+614
+00:30:38,300 --> 00:30:41,210
+A török csapatnak nagy hasú vezére
+
+615
+00:30:41,210 --> 00:30:43,570
+Rendbe szedte népét a harcnak jelére;
+
+616
+00:30:43,570 --> 00:30:47,080
+A rendbe szedett nép ugyancsak megállott,
+
+617
+00:30:47,080 --> 00:30:50,110
+Amint megrohanták a magyar huszárok.
+
+618
+00:30:50,110 --> 00:30:53,140
+De nem volt gyerekség ez a megrohanás,
+
+619
+00:30:53,140 --> 00:30:56,270
+Lett is nemsokára szörnyű rendzavarás;
+
+620
+00:30:56,270 --> 00:30:59,140
+Izzadott a török véres verítéket,
+
+621
+00:30:59,140 --> 00:31:02,140
+Tőle a zöld mező vörös tengerré lett.
+
+622
+00:31:02,140 --> 00:31:03,780
+Hej csinálom-adta!
+
+623
+00:31:03,780 --> 00:31:05,340
+meleg egy nap volt ez,
+
+624
+00:31:05,340 --> 00:31:08,570
+Heggyé emelkedett már a török holttest.
+
+625
+00:31:08,570 --> 00:31:11,620
+De a basa még él mennykő nagy hasával,
+
+626
+00:31:11,620 --> 00:31:14,610
+S Kukoricza Jancsit célozza vasával.
+
+627
+00:31:14,610 --> 00:31:17,530
+Kukoricza Jancsi nem veszi tréfának;
+
+628
+00:31:17,530 --> 00:31:20,320
+S ily szóval megy neki a török basának:
+
+629
+00:31:20,320 --> 00:31:21,190
+„Atyafi!
+
+630
+00:31:21,190 --> 00:31:23,010
+te úgyis sok vagy egy legénynek;
+
+631
+00:31:23,010 --> 00:31:25,790
+Megállj, én majd kettőt csinálok belőled.”
+
+632
+00:31:25,790 --> 00:31:28,720
+S akként cselekedett, amint megfogadta,
+
+633
+00:31:28,720 --> 00:31:31,640
+Szegény török basát kettéhasította,
+
+634
+00:31:31,640 --> 00:31:34,520
+Jobbra-balra hullott izzadó lováról,
+
+635
+00:31:34,520 --> 00:31:37,670
+Igy múlt ki őkelme ebből a világból.
+
+636
+00:31:37,670 --> 00:31:40,490
+Mikor ezt látta a gyáva török sereg,
+
+637
+00:31:40,490 --> 00:31:41,010
+Uccu!
+
+638
+00:31:41,010 --> 00:31:43,280
+hátat fordít és futásnak ered,
+
+639
+00:31:43,280 --> 00:31:46,140
+Futott, futott s talán mostanság is futna,
+
+640
+00:31:46,140 --> 00:31:48,820
+Hogyha a huszárok el nem érték volna.
+
+641
+00:31:48,820 --> 00:31:51,630
+De bezzeg elérték, le is kaszabolták;
+
+642
+00:31:51,630 --> 00:31:54,370
+Hullottak a fejek előttök, mint a mák.
+
+643
+00:31:54,370 --> 00:31:57,060
+Egyetlenegy nyargal még lóhalálába’,
+
+644
+00:31:57,060 --> 00:31:59,860
+Ennek Kukoricza Jancsi ment nyomába.
+
+645
+00:31:59,860 --> 00:32:02,830
+Hát a török basa fia vágtatott ott,
+
+646
+00:32:02,830 --> 00:32:05,800
+Ölében valami fehérféle látszott.
+
+647
+00:32:05,800 --> 00:32:08,560
+A fehérség volt a francia királylyány;
+
+648
+00:32:08,560 --> 00:32:11,610
+Nem tudott magáról semmit, elájulván.
+
+649
+00:32:11,610 --> 00:32:14,750
+Soká nyargalt Jancsi, amíg utolérte,
+
+650
+00:32:14,750 --> 00:32:16,170
+„Megállj, a hitedet!”
+
+651
+00:32:16,170 --> 00:32:17,590
+kiáltott feléje,
+
+652
+00:32:17,590 --> 00:32:20,530
+„Állj meg, vagy testeden mindjárt nyitok kaput,
+
+653
+00:32:20,530 --> 00:32:23,420
+Melyen által hitvány lelked pokolba fut.”
+
+654
+00:32:23,420 --> 00:32:25,980
+De a basa fia meg nem állott volna,
+
+655
+00:32:25,980 --> 00:32:28,560
+Ha a ló alatta össze nem omolna.
+
+656
+00:32:28,560 --> 00:32:31,770
+Összeomlott, ki is fújta ott páráját,
+
+657
+00:32:31,770 --> 00:32:34,640
+Basa fia ilyen szóra nyitá száját:
+
+658
+00:32:34,640 --> 00:32:37,710
+„Kegyelem, kegyelem, nemes lelkű vitéz!
+
+659
+00:32:37,710 --> 00:32:41,090
+Ha semmi másra nem: ifjuságomra nézz;
+
+660
+00:32:41,090 --> 00:32:44,070
+Ifjú vagyok még, az életet szeretem...
+
+661
+00:32:44,070 --> 00:32:47,470
+Vedd el mindenemet, csak hagyd meg életem!”
+
+662
+00:32:47,470 --> 00:32:50,590
+„Tartsd meg mindenedet, gyáva élhetetlen!
+
+663
+00:32:50,590 --> 00:32:53,380
+Kezem által halni vagy te érdemetlen.
+
+664
+00:32:53,380 --> 00:32:56,290
+Hordd el magad innen, vidd hírűl hazádnak,
+
+665
+00:32:56,290 --> 00:32:59,250
+Haramja fiai hogy és mikép jártak.”
+
+666
+00:32:59,250 --> 00:33:02,410
+Leszállott lováról, királylyányhoz lépe,
+
+667
+00:33:02,410 --> 00:33:05,200
+És beletekintett gyönyörű szemébe,
+
+668
+00:33:05,200 --> 00:33:08,020
+Melyet a királylyány épen most nyita ki,
+
+669
+00:33:08,020 --> 00:33:10,840
+Mialatt ily szókat mondanak ajaki:
+
+670
+00:33:10,840 --> 00:33:12,670
+„Kedves szabadítóm!
+
+671
+00:33:12,670 --> 00:33:14,170
+nem kérdezem, ki vagy?
+
+672
+00:33:14,170 --> 00:33:17,140
+Csak annyit mondok, hogy hálám irántad nagy.
+
+673
+00:33:17,140 --> 00:33:20,040
+Háladatosságból én mindent megteszek,
+
+674
+00:33:20,040 --> 00:33:23,370
+Hogyha kedved tartja, feleséged leszek.”
+
+675
+00:33:23,370 --> 00:33:26,430
+Jancsi ereiben nem folyt víz vér helyett,
+
+676
+00:33:26,430 --> 00:33:29,310
+Szívében hatalmas tusa keletkezett;
+
+677
+00:33:29,310 --> 00:33:32,350
+De lecsillapítá szíve nagy tusáját,
+
+678
+00:33:32,350 --> 00:33:35,300
+Emlékezetébe hozván Iluskáját.
+
+679
+00:33:35,300 --> 00:33:38,550
+Nyájasdadon így szólt a szép királylyányhoz:
+
+680
+00:33:38,550 --> 00:33:41,690
+„Menjünk, rózsám, elébb az édesatyádhoz.
+
+681
+00:33:41,690 --> 00:33:44,430
+Ott majd közelebbről vizsgáljuk a dolgot.”
+
+682
+00:33:44,430 --> 00:33:48,060
+S ló előtt a lyánnyal lassacskán ballagott.
+
+683
+00:33:49,500 --> 00:33:52,820
+Vége a tizenkettedik fejezetnek
+
+684
+00:33:57,460 --> 00:34:00,850
+János Vitéz
+Tizenharmadik fejezet
+
+685
+00:34:00,850 --> 00:34:03,980
+Ez a Librivox-felvétel közkincs.
+
+686
+00:34:03,980 --> 00:34:07,240
+Felolvassa Majlinger Diana
+
+687
+00:34:07,240 --> 00:34:11,030
+János Vitéz
+írta
+Petőfi Sándor
+
+688
+00:34:11,030 --> 00:34:13,790
+Tizenharmadik fejezet
+
+689
+00:34:13,790 --> 00:34:16,620
+Kukoricza Jancsi meg a királyleány
+
+690
+00:34:16,620 --> 00:34:19,080
+Csatahelyre értek a nap alkonyatán.
+
+691
+00:34:19,080 --> 00:34:21,550
+A leáldozó nap utósó sugára
+
+692
+00:34:21,550 --> 00:34:24,450
+Vörös szemmel nézett a siralmas tájra.
+
+693
+00:34:24,450 --> 00:34:27,390
+Nem látott egyebet, csak a véres halált,
+
+694
+00:34:27,390 --> 00:34:30,470
+S hollósereget, mely a halottakra szállt;
+
+695
+00:34:30,470 --> 00:34:33,080
+Nemigen telt benne nagy gyönyörüsége,
+
+696
+00:34:33,080 --> 00:34:35,440
+Le is ereszkedett tenger mélységébe.
+
+697
+00:34:35,440 --> 00:34:39,080
+A csatahely mellett volt egy jókora tó,
+
+698
+00:34:39,080 --> 00:34:42,030
+Tiszta szőke vizet magába foglaló.
+
+699
+00:34:42,030 --> 00:34:45,390
+De piros volt az most, mert a magyar sereg
+
+700
+00:34:45,390 --> 00:34:48,850
+Török vértől magát vizében mosta meg.
+
+701
+00:34:48,850 --> 00:34:51,070
+Miután megmosdott az egész legénység,
+
+702
+00:34:51,070 --> 00:34:53,810
+A francia királyt várába kisérték;
+
+703
+00:34:53,810 --> 00:34:56,380
+A csatamezőtől az nem messzire állt...
+
+704
+00:34:56,380 --> 00:34:59,280
+Idekisérték hát a francia királyt.
+
+705
+00:34:59,280 --> 00:35:01,950
+Alighogy bevonult a várba a sereg,
+
+706
+00:35:01,950 --> 00:35:04,850
+Kukoricza Jancsi szinte megérkezett.
+
+707
+00:35:04,850 --> 00:35:07,860
+Olyan volt mellette az ékes királylyány,
+
+708
+00:35:07,860 --> 00:35:10,780
+Mint felhő mellett a tündöklő szivárvány.
+
+709
+00:35:10,780 --> 00:35:13,580
+Hogy az öreg király leányát meglátta,
+
+710
+00:35:13,580 --> 00:35:16,090
+Reszkető örömmel borult a nyakába,
+
+711
+00:35:16,090 --> 00:35:18,410
+S csak azután mondta a következőket,
+
+712
+00:35:18,410 --> 00:35:21,500
+Mikor a lyány ajkán tőle sok csók égett:
+
+713
+00:35:21,500 --> 00:35:24,630
+„Most már örömömnek nincsen semmi híja;
+
+714
+00:35:24,630 --> 00:35:27,570
+Szaladjon valaki, s a szakácsot híja,
+
+715
+00:35:27,570 --> 00:35:30,310
+Készítsen, ami jó, mindent vacsorára,
+
+716
+00:35:30,310 --> 00:35:33,460
+Az én győzedelmes vitézim számára.”
+
+717
+00:35:33,460 --> 00:35:34,780
+„Király uram!
+
+718
+00:35:34,780 --> 00:35:36,520
+nem kell híni a szakácsot,”
+
+719
+00:35:36,520 --> 00:35:39,290
+A király mellett egy hang ekkép rikácsolt,
+
+720
+00:35:39,290 --> 00:35:42,160
+„Elkészítettem már mindent hamarjában,
+
+721
+00:35:42,160 --> 00:35:45,320
+Föl is van tálalva a szomszéd szobában.”
+
+722
+00:35:45,320 --> 00:35:48,080
+A szakács szavai kedvesen hangzottak
+
+723
+00:35:48,080 --> 00:35:50,440
+Füleiben a jó magyar huszároknak;
+
+724
+00:35:50,440 --> 00:35:52,780
+Nemigen sokáig hívatták magokat,
+
+725
+00:35:52,780 --> 00:35:55,990
+Körülülték a megterhelt asztalokat.
+
+726
+00:35:55,990 --> 00:35:58,760
+Amily kegyetlenűl bántak a törökkel,
+
+727
+00:35:58,760 --> 00:36:01,700
+Csak úgy bántak ők most a jó ételekkel;
+
+728
+00:36:01,700 --> 00:36:04,620
+Nem is csoda biz az, mert megéhezének
+
+729
+00:36:04,620 --> 00:36:07,100
+A nagy öldöklésben a derék vitézek.
+
+730
+00:36:07,100 --> 00:36:09,820
+Járta már a kancsó isten igazába’,
+
+731
+00:36:09,820 --> 00:36:12,480
+Ekkor a királynak ily szó jött szájába:
+
+732
+00:36:12,480 --> 00:36:15,350
+„Figyelmezzetek rám, ti nemes vitézek,
+
+733
+00:36:15,350 --> 00:36:18,420
+Mert nagy fontosságu, amit majd beszélek.”
+
+734
+00:36:18,420 --> 00:36:21,530
+S a magyar huszárok mind figyelmezének,
+
+735
+00:36:21,530 --> 00:36:24,590
+Fölfogni értelmét király beszédének,
+
+736
+00:36:24,590 --> 00:36:27,270
+Aki egyet ivott, azután köhhentett,
+
+737
+00:36:27,270 --> 00:36:30,490
+S végre ily szavakkal törte meg a csendet:
+
+738
+00:36:30,490 --> 00:36:33,050
+„Mindenekelőtt is mondd meg a nevedet,
+
+739
+00:36:33,050 --> 00:36:35,470
+Bátor vitéz, aki lyányom megmentetted.”
+
+740
+00:36:35,470 --> 00:36:38,710
+„Kukoricza Jancsi becsületes nevem:
+
+741
+00:36:38,710 --> 00:36:41,650
+Egy kicsit parasztos, de én nem szégyenlem.”
+
+742
+00:36:41,650 --> 00:36:44,440
+Kukoricza Jancsi ekképen felele,
+
+743
+00:36:44,440 --> 00:36:47,420
+Azután a király ily szót váltott vele:
+
+744
+00:36:47,420 --> 00:36:50,220
+„Én a te nevedet másnak keresztelem,
+
+745
+00:36:50,220 --> 00:36:53,060
+Mától fogva neved János vitéz legyen.
+
+746
+00:36:53,060 --> 00:36:56,080
+Derék János vitéz halld most beszédemet:
+
+747
+00:36:56,080 --> 00:36:58,910
+Minthogy megmentetted kedves gyermekemet,
+
+748
+00:36:58,910 --> 00:37:01,700
+Vedd el feleségül, legyen ő a tied,
+
+749
+00:37:01,700 --> 00:37:04,720
+És vele foglald el királyi székemet.
+
+750
+00:37:04,720 --> 00:37:06,770
+A királyi széken én sokáig ültem,
+
+751
+00:37:06,770 --> 00:37:10,220
+Rajta megvénültem, rajta megőszültem.
+
+752
+00:37:10,220 --> 00:37:12,480
+Nehezek nekem már a királyi gondok,
+
+753
+00:37:12,480 --> 00:37:14,990
+Annakokáért én azokról lemondok.
+
+754
+00:37:14,990 --> 00:37:17,380
+Homlokodra teszem a fényes koronát,
+
+755
+00:37:17,380 --> 00:37:19,810
+Fényes koronámért nem is kívánok mást,
+
+756
+00:37:19,810 --> 00:37:22,710
+Csak hogy e várban egy szobát rendelj nékem,
+
+757
+00:37:22,710 --> 00:37:25,680
+Melyben hátralevő napjaimat éljem.”
+
+758
+00:37:25,680 --> 00:37:28,480
+A király szavai ím ezek valának,
+
+759
+00:37:28,480 --> 00:37:31,260
+Nagy csodálkozással hallák a huszárok.
+
+760
+00:37:31,260 --> 00:37:33,590
+János vitéz pedig e szíves beszédet
+
+761
+00:37:33,590 --> 00:37:35,600
+Alázatos hangon ekkép köszöné meg:
+
+762
+00:37:35,600 --> 00:37:38,400
+„Köszönöm szépen a kelmed jó’karatját,
+
+763
+00:37:38,400 --> 00:37:41,060
+Amely reám nézve nem érdemlett jóság;
+
+764
+00:37:41,060 --> 00:37:44,020
+Egyszersmind azt is ki kell nyilatkoztatnom,
+
+765
+00:37:44,020 --> 00:37:46,760
+Hogy én e jóságot el nem fogadhatom.
+
+766
+00:37:46,760 --> 00:37:49,560
+Hosszú históriát kéne elbeszélnem,
+
+767
+00:37:49,560 --> 00:37:52,500
+Miért e jósággal lehetetlen élnem;
+
+768
+00:37:52,500 --> 00:37:55,760
+De attól tartok, hogy megunnák kelmetek;
+
+769
+00:37:55,760 --> 00:37:58,770
+S én másnak terhére lenni nem szeretek.”
+
+770
+00:37:58,770 --> 00:38:01,710
+„De csak beszélj, fiam, meghallgatjuk biz azt;
+
+771
+00:38:01,710 --> 00:38:04,420
+Hiábavalóság, ami téged aggaszt.”
+
+772
+00:38:04,420 --> 00:38:07,220
+Így biztatta őt a jó francia király,
+
+773
+00:38:07,220 --> 00:38:11,140
+S János vitéz beszélt, amint itt írva áll:
+
+774
+00:38:12,660 --> 00:38:16,330
+Vége a tizenharmadik fejezetnek
+
+775
+00:38:16,330 --> 00:38:19,090
+Tizennegyedik fejezet
+
+776
+00:38:19,090 --> 00:38:21,290
+„Hogy is kezdjem csak hát?...
+
+777
+00:38:21,290 --> 00:38:22,530
+Mindennek előtte
+
+778
+00:38:22,530 --> 00:38:25,100
+Hogyan tettem szert a Kukoricza névre?
+
+779
+00:38:25,100 --> 00:38:27,720
+Kukorica között találtak engemet,
+
+780
+00:38:27,720 --> 00:38:30,380
+Úgy ruházták rám a Kukoricza nevet.
+
+781
+00:38:30,380 --> 00:38:33,000
+Egy gazdaember jólelkü felesége
+
+782
+00:38:33,000 --> 00:38:35,370
+— Amint ő nekem ezt sokszor elmesélte —
+
+783
+00:38:35,370 --> 00:38:37,850
+Egyszer kinézett a kukoricaföldre,
+
+784
+00:38:37,850 --> 00:38:40,900
+S ott egy barázdában lelt engem heverve.
+
+785
+00:38:40,900 --> 00:38:44,730
+Szörnyen sikítottam, sorsomat megszánta,
+
+786
+00:38:44,730 --> 00:38:47,490
+Nem hagyott a földön, felvett a karjára,
+
+787
+00:38:47,490 --> 00:38:50,270
+És hazafelé ezt gondolta mentiben:
+
+788
+00:38:50,270 --> 00:38:53,810
+„Fölnevelem szegényt, hisz úgy sincs gyermekem.”
+
+789
+00:38:53,810 --> 00:38:56,730
+Hanem volt ám neki haragos vad férje,
+
+790
+00:38:56,730 --> 00:38:59,290
+Akinek én sehogy sem voltam ínyére.
+
+791
+00:38:59,290 --> 00:39:02,000
+Hej, amikor engem az ottan meglátott,
+
+792
+00:39:02,000 --> 00:39:04,830
+Ugyancsak járták a cifra káromlások.
+
+793
+00:39:04,830 --> 00:39:07,860
+Engesztelte a jó asszony ily szavakkal:
+
+794
+00:39:07,860 --> 00:39:10,910
+„Hagyjon kend föl, apjok, azzal a haraggal.
+
+795
+00:39:10,910 --> 00:39:14,030
+Hiszen ott kinn csak nem hagyhattam vesztére,
+
+796
+00:39:14,030 --> 00:39:17,050
+Tarthatnék-e számot isten kegyelmére?
+
+797
+00:39:17,050 --> 00:39:19,830
+Aztán nem lesz ez a háznál haszontalan,
+
+798
+00:39:19,830 --> 00:39:22,980
+Kednek gazdasága, ökre és juha van,
+
+799
+00:39:22,980 --> 00:39:25,630
+Ha felcsuporodik a kis istenadta,
+
+800
+00:39:25,630 --> 00:39:28,870
+Nem kell kednek bérest, juhászt fogadnia.”
+
+801
+00:39:28,870 --> 00:39:31,510
+Valahogy, valahogy csakugyan engedett;
+
+802
+00:39:31,510 --> 00:39:34,020
+De azért rám soha jó szemet nem vetett.
+
+803
+00:39:34,020 --> 00:39:36,600
+Hogyha nem ment a dolgom maga rendiben,
+
+804
+00:39:36,600 --> 00:39:39,380
+Meg-meghusángolt ő amugy istenesen.
+
+805
+00:39:39,380 --> 00:39:42,620
+Munka s ütleg között ekkép nevelkedtem,
+
+806
+00:39:42,620 --> 00:39:45,090
+Részesűltem nagyon kevés örömekben;
+
+807
+00:39:45,090 --> 00:39:47,710
+Az egész örömem csak annyiból állott,
+
+808
+00:39:47,710 --> 00:39:50,560
+Hogy a faluban egy szép kis szőke lyány volt.
+
+809
+00:39:50,560 --> 00:39:53,430
+Ennek édesanyja jókor a síré lett,
+
+810
+00:39:53,430 --> 00:39:56,120
+Édesapja pedig vett más feleséget;
+
+811
+00:39:56,120 --> 00:39:58,780
+Hanem az apja is elhalt nemsokára,
+
+812
+00:39:58,780 --> 00:40:01,440
+Így jutott egyedűl mostohaanyjára.
+
+813
+00:40:01,440 --> 00:40:04,040
+Ez a kis leányzó volt az én örömem,
+
+814
+00:40:04,040 --> 00:40:06,570
+Az egyetlen rózsa tüskés életemen.
+
+815
+00:40:06,570 --> 00:40:08,980
+Be tudtam is őt szeretni, csodálni!
+
+816
+00:40:08,980 --> 00:40:12,130
+Úgy hítak minket, hogy: a falu árvái.
+
+817
+00:40:12,130 --> 00:40:14,900
+Már gyerekkoromban hogyha őt láthattam,
+
+818
+00:40:14,900 --> 00:40:17,760
+Egy turós lepényért látását nem adtam;
+
+819
+00:40:17,760 --> 00:40:20,350
+Örültem is, mikor a vasárnap eljött,
+
+820
+00:40:20,350 --> 00:40:23,140
+És vele játszhattam a gyerekek között.
+
+821
+00:40:23,140 --> 00:40:26,160
+Hát mikor még aztán sihederré lettem,
+
+822
+00:40:26,160 --> 00:40:28,920
+S izegni-mozogni elkezdett a szívem!
+
+823
+00:40:28,920 --> 00:40:31,650
+Csak úgyis voltam ám, mikor megcsókoltam,
+
+824
+00:40:31,650 --> 00:40:34,470
+Hogy a világ összedőlhetett miattam.
+
+825
+00:40:34,470 --> 00:40:37,900
+Sokszor megbántotta gonosz mostohája...
+
+826
+00:40:37,900 --> 00:40:40,240
+Isten neki azt soha meg ne bocsássa!
+
+827
+00:40:40,240 --> 00:40:42,790
+És ki tudja, még mit el nem követ rajta,
+
+828
+00:40:42,790 --> 00:40:45,850
+Ha fenyegetésem zabolán nem tartja.
+
+829
+00:40:45,850 --> 00:40:48,980
+Magamnak is ugyan kutyául lett dolga,
+
+830
+00:40:48,980 --> 00:40:51,570
+Belefektettük a jó asszonyt a sírba,
+
+831
+00:40:51,570 --> 00:40:53,900
+Aki engem talált, és aki, mondhatom,
+
+832
+00:40:53,900 --> 00:40:57,130
+Mint tulajdon anyám, úgy viselte gondom.
+
+833
+00:40:57,130 --> 00:40:59,990
+Kemény az én szívem, teljes életemben
+
+834
+00:40:59,990 --> 00:41:02,770
+Nem sokszor esett meg, hogy könnyet ejtettem,
+
+835
+00:41:02,770 --> 00:41:05,450
+De nevelőanyám sírjának halmára
+
+836
+00:41:05,450 --> 00:41:08,170
+Hullottak könnyeim zápornak módjára.
+
+837
+00:41:08,170 --> 00:41:11,480
+Iluska is, az a szép kis szőke leány,
+
+838
+00:41:11,480 --> 00:41:14,600
+Nem tettetett bútól fakadt sírva halmán;
+
+839
+00:41:14,600 --> 00:41:15,530
+Hogyne?
+
+840
+00:41:15,530 --> 00:41:17,430
+az istenben boldogult jó lélek’
+
+841
+00:41:17,430 --> 00:41:20,300
+Kedvezett, amiben lehetett, szegénynek.
+
+842
+00:41:20,300 --> 00:41:23,240
+Nem egyszer mondta, hogy: „várakozzatok csak!
+
+843
+00:41:23,240 --> 00:41:25,800
+Én még benneteket összeházasítlak;
+
+844
+00:41:25,800 --> 00:41:28,090
+Olyan pár válik is ám tibelőletek,
+
+845
+00:41:28,090 --> 00:41:31,020
+Hogy még!... várjatok csak, várjatok, gyerekek!”
+
+846
+00:41:31,020 --> 00:41:33,500
+Hát hiszen vártunk is egyre keservesen;
+
+847
+00:41:33,500 --> 00:41:36,440
+Meg is tette volna, hiszem az egy istent,
+
+848
+00:41:36,440 --> 00:41:39,010
+(Mert szavának állott ő minden időbe’)
+
+849
+00:41:39,010 --> 00:41:41,890
+Ha le nem szállt volna a föld mélységébe.
+
+850
+00:41:41,890 --> 00:41:44,650
+Azután hát aztán, hogy meghalálozott,
+
+851
+00:41:44,650 --> 00:41:47,180
+A mi reménységünk végképp megszakadott:
+
+852
+00:41:47,180 --> 00:41:49,610
+Mindazonáltal a reménytelenségbe’
+
+853
+00:41:49,610 --> 00:41:52,460
+Úgy szerettük egymást, mint annakelőtte.
+
+854
+00:41:52,460 --> 00:41:55,190
+De az úristennek más volt akaratja,
+
+855
+00:41:55,190 --> 00:41:58,030
+Szívünknek ezt a bús örömet sem hagyta.
+
+856
+00:41:58,030 --> 00:42:00,840
+Egyszer én valahogy nyájam elszalasztám,
+
+857
+00:42:00,840 --> 00:42:03,680
+Annak következtén elcsapott a gazdám.
+
+858
+00:42:03,680 --> 00:42:06,530
+Búcsut mondtam az én édes Iluskámnak,
+
+859
+00:42:06,530 --> 00:42:09,240
+Keserű érzéssel mentem a világnak.
+
+860
+00:42:09,240 --> 00:42:12,080
+Bujdosva jártam a világot széltére,
+
+861
+00:42:12,080 --> 00:42:15,100
+Mígnem katonának csaptam föl végtére.
+
+862
+00:42:15,100 --> 00:42:18,130
+Nem mondtam én neki, az én Iluskámnak,
+
+863
+00:42:18,130 --> 00:42:21,040
+Hogy ne adja szívét soha senki másnak,
+
+864
+00:42:21,040 --> 00:42:23,530
+Ő sem mondta nekem, hogy hűséges legyek —
+
+865
+00:42:23,530 --> 00:42:26,510
+Tudtuk, hogy hűségünk ugysem szegjük mi meg.
+
+866
+00:42:26,510 --> 00:42:29,760
+Azért szép királylyány ne tarts reám számot;
+
+867
+00:42:29,760 --> 00:42:32,250
+Mert ha nem bírhatom kedves Iluskámat:
+
+868
+00:42:32,250 --> 00:42:34,540
+Nem is fogok bírni senkit e világon,
+
+869
+00:42:34,540 --> 00:42:37,640
+Ha elfelejtkezik is rólam halálom.”
+
+870
+00:42:37,640 --> 00:42:41,510
+Vége a tizennegyedik fejezetnek
+
+871
+00:42:41,510 --> 00:42:44,010
+Tizenötödik fejezet
+
+872
+00:42:44,010 --> 00:42:47,090
+János vitéz ekkép végzé történetét,
+
+873
+00:42:47,090 --> 00:42:49,270
+Nem hagyta hidegen a hallgatók szívét;
+
+874
+00:42:49,270 --> 00:42:52,540
+A királylyány arcát mosta könnyhullatás,
+
+875
+00:42:52,540 --> 00:42:55,580
+Melynek kútfeje volt bánat s szánakozás.
+
+876
+00:42:55,580 --> 00:42:58,710
+A király e szókat intézte hozzája:
+
+877
+00:42:58,710 --> 00:43:01,570
+„Nem erőtetlek hát, fiam, házasságra;
+
+878
+00:43:01,570 --> 00:43:04,470
+Hanem amit nyujtok hálámnak fejében,
+
+879
+00:43:04,470 --> 00:43:07,360
+Elfogadását nem tagadod meg tőlem.”
+
+880
+00:43:07,360 --> 00:43:10,330
+Erre kinyitotta kincstárát a király:
+
+881
+00:43:10,330 --> 00:43:12,840
+Parancsolatjára egy legény előáll,
+
+882
+00:43:12,840 --> 00:43:15,460
+S arannyal tölti meg a legnagyobb zsákot,
+
+883
+00:43:15,460 --> 00:43:18,400
+János ennyi kincset még csak nem is látott.
+
+884
+00:43:18,400 --> 00:43:21,910
+„Nos hát János vitéz, lyányom megmentője,”
+
+885
+00:43:21,910 --> 00:43:24,650
+Beszélt a király, „ez legyen tetted bére.
+
+886
+00:43:24,650 --> 00:43:27,350
+Vidd el mindenestül ezt a teli zsákot,
+
+887
+00:43:27,350 --> 00:43:30,330
+És boldogítsd vele magadat s mátkádat.
+
+888
+00:43:30,330 --> 00:43:33,620
+Tartóztatnálak, de tudom, nem maradnál,
+
+889
+00:43:33,620 --> 00:43:36,480
+Kivánkozol lenni máris galambodnál,
+
+890
+00:43:36,480 --> 00:43:39,130
+Eredj tehát — hanem társid maradjanak;
+
+891
+00:43:39,130 --> 00:43:42,190
+Éljenek itt néhány mulatságos napnak.”
+
+892
+00:43:42,190 --> 00:43:44,610
+Úgy volt biz az, amint mondotta a király,
+
+893
+00:43:44,610 --> 00:43:47,450
+János vitéz kivánt lenni galambjánál.
+
+894
+00:43:47,450 --> 00:43:50,210
+Búcsuzott a királylyánytól érzékenyűl;
+
+895
+00:43:50,210 --> 00:43:53,420
+Aztán a tengerhez ment és gályára űlt.
+
+896
+00:43:53,420 --> 00:43:56,350
+A király s a sereg elkisérte oda.
+
+897
+00:43:56,350 --> 00:43:59,480
+Tőlök sok „szerencsés jó utat” hallháta,
+
+898
+00:43:59,480 --> 00:44:02,360
+S szemeikkel néztek mindaddig utána,
+
+899
+00:44:02,360 --> 00:44:05,740
+Míg a nagy messzeség ködöt nem vont rája.
+
+900
+00:44:05,740 --> 00:44:10,660
+Vége a tizenötödik fejezetnek
+
+901
+00:44:14,200 --> 00:44:17,320
+János Vitéz
+Tizenhatodik fejezet
+
+902
+00:44:17,320 --> 00:44:20,200
+Ez a Librivox-felvétel közkincs.
+
+903
+00:44:20,200 --> 00:44:23,300
+Felolvassa Majlinger Diana
+
+904
+00:44:23,300 --> 00:44:26,640
+János Vitéz
+írta
+Petőfi Sándor
+
+905
+00:44:26,640 --> 00:44:29,170
+Tizenhatodik fejezet
+
+906
+00:44:29,170 --> 00:44:32,480
+Ment János vitézzel a megindult gálya,
+
+907
+00:44:32,480 --> 00:44:35,280
+Szélbe kapaszkodott széles vitorlája,
+
+908
+00:44:35,280 --> 00:44:38,080
+De sebesebben ment János gondolatja,
+
+909
+00:44:38,080 --> 00:44:41,130
+Utjában semmi sem akadályozhatta.
+
+910
+00:44:41,130 --> 00:44:44,020
+János gondolatja ilyenforma vala:
+
+911
+00:44:44,020 --> 00:44:47,100
+„Hej Iluskám, lelkem szépséges angyala!
+
+912
+00:44:47,100 --> 00:44:49,970
+Sejted-e te mostan, milyen öröm vár rád?
+
+913
+00:44:49,970 --> 00:44:53,180
+Hogy hazatart kinccsel bővelkedő mátkád.
+
+914
+00:44:53,180 --> 00:44:55,980
+Hazatartok én, hogy végre valahára
+
+915
+00:44:55,980 --> 00:44:58,930
+Sok küszködés után legyünk egymás párja.
+
+916
+00:44:58,930 --> 00:45:02,160
+Egymás párja leszünk, boldogok, gazdagok;
+
+917
+00:45:02,160 --> 00:45:05,060
+Senki fiára is többé nem szorulok.
+
+918
+00:45:05,060 --> 00:45:08,060
+Gazduram ugyan nem legszebben bánt velem;
+
+919
+00:45:08,060 --> 00:45:10,370
+Hanem én őneki mindazt elengedem.
+
+920
+00:45:10,370 --> 00:45:13,240
+S igazság szerint ő oka szerencsémnek:
+
+921
+00:45:13,240 --> 00:45:16,080
+Meg is jutalmazom, mihelyt hazaérek.”
+
+922
+00:45:16,080 --> 00:45:19,530
+Ezt gondolta János s több ízben gondolta,
+
+923
+00:45:19,530 --> 00:45:22,190
+Mialatt a gálya ment sebes haladva;
+
+924
+00:45:22,190 --> 00:45:25,280
+De jó messze volt még szép Magyarországtól,
+
+925
+00:45:25,280 --> 00:45:28,020
+Mert Franciaország esik tőle távol.
+
+926
+00:45:28,020 --> 00:45:30,210
+Egyszer János vitéz a hajófödélen
+
+927
+00:45:30,210 --> 00:45:33,280
+Sétált föl s alá az est szürkületében.
+
+928
+00:45:33,280 --> 00:45:36,150
+A kormányos ekkép szólt legényeihez:
+
+929
+00:45:36,150 --> 00:45:39,300
+„Piros az ég alja: aligha szél nem lesz.”
+
+930
+00:45:39,300 --> 00:45:42,150
+Hanem János vitéz nem figyelt a szóra,
+
+931
+00:45:42,150 --> 00:45:44,900
+Feje fölött repült egy nagy sereg gólya;
+
+932
+00:45:44,900 --> 00:45:47,360
+Őszre járt az idő: ezek a madarak
+
+933
+00:45:47,360 --> 00:45:50,150
+Bizonyosan szülőföldéről szálltanak.
+
+934
+00:45:50,150 --> 00:45:53,080
+Szelíd epedéssel tekintett utánok,
+
+935
+00:45:53,080 --> 00:45:55,670
+Mintha azok neki jó hírt mondanának,
+
+936
+00:45:55,670 --> 00:45:58,930
+Jó hírt Iluskáról, szép Iluskájáról,
+
+937
+00:45:58,930 --> 00:46:02,700
+S oly régen nem látott kedves hazájáról.
+
+938
+00:46:04,000 --> 00:46:07,250
+Vége a tizenhatodik fejezetnek
+
+939
+00:46:07,250 --> 00:46:10,530
+Tizenhetedik fejezet
+
+940
+00:46:10,530 --> 00:46:13,810
+Másnap, amint az ég alja jövendölte,
+
+941
+00:46:13,810 --> 00:46:16,690
+Csakugyan szél támadt, mégpedig nem gyönge.
+
+942
+00:46:16,690 --> 00:46:19,420
+Zokogott a tenger hánykodó hulláma
+
+943
+00:46:19,420 --> 00:46:22,020
+A zugó fergeteg korbácsolására.
+
+944
+00:46:22,020 --> 00:46:25,010
+Volt a hajó népe nagy megijedésben,
+
+945
+00:46:25,010 --> 00:46:27,780
+Amint szokott lenni olyan vad szélvészben.
+
+946
+00:46:27,780 --> 00:46:30,640
+Hiába volt minden erőmegfeszítés,
+
+947
+00:46:30,640 --> 00:46:33,530
+Nem látszott sehonnan érkezni menekvés.
+
+948
+00:46:33,530 --> 00:46:36,700
+Sötét felhő is jön; a világ elborúl,
+
+949
+00:46:36,700 --> 00:46:39,430
+Egyszerre megdördül az égiháború,
+
+950
+00:46:39,430 --> 00:46:42,760
+Villámok cikáznak, hullnak szanaszerte;
+
+951
+00:46:42,760 --> 00:46:46,100
+Egy villám a hajót izről porrá törte.
+
+952
+00:46:46,100 --> 00:46:48,950
+Látszik a hajónak diribje-darabja,
+
+953
+00:46:48,950 --> 00:46:51,620
+A holttesteket a tenger elsodorja.
+
+954
+00:46:51,620 --> 00:46:54,730
+Hát János vitéznek milyetén sors jutott?
+
+955
+00:46:54,730 --> 00:46:58,130
+Őt is elsodorták a lelketlen habok?
+
+956
+00:46:58,130 --> 00:47:01,150
+Hej biz a haláltól ő sem volt már messze,
+
+957
+00:47:01,150 --> 00:47:03,880
+De mentő kezét az ég kiterjesztette,
+
+958
+00:47:03,880 --> 00:47:06,520
+S csodálatos módon szabadította meg,
+
+959
+00:47:06,520 --> 00:47:09,160
+Hogy koporsója a habok ne legyenek.
+
+960
+00:47:09,160 --> 00:47:12,070
+Ragadta őt a víz magasra, magasra,
+
+961
+00:47:12,070 --> 00:47:15,250
+Hogy tetejét érte már a felhő rojtja;
+
+962
+00:47:15,250 --> 00:47:18,140
+Ekkor János vitéz nagy hirtelenséggel
+
+963
+00:47:18,140 --> 00:47:20,780
+Megkapta a felhőt mind a két kezével.
+
+964
+00:47:20,780 --> 00:47:23,740
+Belekapaszkodott, el sem szalasztotta,
+
+965
+00:47:23,740 --> 00:47:26,560
+S nagy erőlködéssel addig függött rajta,
+
+966
+00:47:26,560 --> 00:47:29,130
+Mígnem a felhő a tengerparthoz ére,
+
+967
+00:47:29,130 --> 00:47:32,050
+Itten rálépett egy szikla tetejére.
+
+968
+00:47:32,050 --> 00:47:34,810
+Először is hálát adott az istennek,
+
+969
+00:47:34,810 --> 00:47:37,360
+Hogy életét ekkép szabadította meg;
+
+970
+00:47:37,360 --> 00:47:40,250
+Nem gondolt vele, hogy kincsét elvesztette,
+
+971
+00:47:40,250 --> 00:47:43,040
+Csakhogy el nem veszett a kinccsel élete.
+
+972
+00:47:43,040 --> 00:47:45,910
+Azután a szikla tetején szétnézett,
+
+973
+00:47:45,910 --> 00:47:48,860
+Nem látott mást, csupán egy grifmadár-fészket.
+
+974
+00:47:48,860 --> 00:47:51,400
+A grifmadár épen fiait etette,
+
+975
+00:47:51,400 --> 00:47:53,930
+Jánosnak valami jutott az eszébe.
+
+976
+00:47:53,930 --> 00:47:56,650
+Odalopózkodott a fészekhez lassan
+
+977
+00:47:56,650 --> 00:47:59,080
+És a grifmadárra hirtelen rápattan,
+
+978
+00:47:59,080 --> 00:48:01,580
+Oldalába vágja hegyes sarkantyúját,
+
+979
+00:48:01,580 --> 00:48:04,680
+S furcsa paripája hegyen-völgyön túlszállt.
+
+980
+00:48:04,680 --> 00:48:07,370
+Hányta volna le a madár nyakra-főre,
+
+981
+00:48:07,370 --> 00:48:09,650
+Lehányta volna ám, ha bírt volna véle,
+
+982
+00:48:09,650 --> 00:48:12,370
+Csakhogy János vitéz nem engedte magát.
+
+983
+00:48:12,370 --> 00:48:15,200
+Jól átszorította derekát és nyakát.
+
+984
+00:48:15,200 --> 00:48:18,530
+Ment, tudj’ az isten hány országon keresztül;
+
+985
+00:48:18,530 --> 00:48:21,180
+Egyszer, hogy épen a nap az égre kerül:
+
+986
+00:48:21,180 --> 00:48:23,720
+Hát a viradatnak legelső sugára
+
+987
+00:48:23,720 --> 00:48:26,600
+Rásütött egyenest faluja tornyára.
+
+988
+00:48:26,600 --> 00:48:27,870
+Szent isten!
+
+989
+00:48:27,870 --> 00:48:29,840
+hogy örült ennek János vitéz,
+
+990
+00:48:29,840 --> 00:48:32,020
+Az öröm szemébe könnycseppeket idéz;
+
+991
+00:48:32,020 --> 00:48:35,130
+A madár is, mivel szörnyen elfáradt már,
+
+992
+00:48:35,130 --> 00:48:38,000
+Vele a föld felé mindinkább közel jár.
+
+993
+00:48:38,000 --> 00:48:40,540
+Le is szállott végre egy halom tetején,
+
+994
+00:48:40,540 --> 00:48:43,200
+Alig tudott venni lélekzetet szegény,
+
+995
+00:48:43,200 --> 00:48:45,950
+János leszállt róla és magára hagyta,
+
+996
+00:48:45,950 --> 00:48:49,130
+És ment, elmerűlve mély gondolatokba.
+
+997
+00:48:49,130 --> 00:48:52,080
+„Nem hozok aranyat, nem hozok kincseket,
+
+998
+00:48:52,080 --> 00:48:54,800
+De meghozom régi hűséges szívemet,
+
+999
+00:48:54,800 --> 00:48:57,210
+És ez elég neked, drága szép Iluskám!
+
+1000
+00:48:57,210 --> 00:48:59,840
+Tudom, hogy nehezen vársz te is már reám.”
+
+1001
+00:48:59,840 --> 00:49:02,430
+Ily gondolatokkal ért a faluvégre,
+
+1002
+00:49:02,430 --> 00:49:05,010
+Érintette fülét kocsiknak zörgése,
+
+1003
+00:49:05,010 --> 00:49:08,110
+Kocsiknak zörgése, hordóknak kongása;
+
+1004
+00:49:08,110 --> 00:49:10,830
+Szüretre készűlt a falu lakossága.
+
+1005
+00:49:10,830 --> 00:49:13,540
+Nem figyelmezett ő szüretre menőkre,
+
+1006
+00:49:13,540 --> 00:49:16,140
+Azok sem ismertek a megérkezőre;
+
+1007
+00:49:16,140 --> 00:49:18,290
+A falu hosszában ekképen haladott
+
+1008
+00:49:18,290 --> 00:49:20,930
+A ház felé, ahol Iluskája lakott.
+
+1009
+00:49:20,930 --> 00:49:23,630
+A pitvarajtónál be reszketett keze,
+
+1010
+00:49:23,630 --> 00:49:26,640
+S mellében csakhogy el nem állt lélekzete;
+
+1011
+00:49:26,640 --> 00:49:29,510
+Benyitott végtére — de Iluska helyett
+
+1012
+00:49:29,510 --> 00:49:32,120
+Látott a pitvarban idegen népeket.
+
+1013
+00:49:32,120 --> 00:49:35,220
+„Tán rosz helyen járok” gondolta magában,
+
+1014
+00:49:35,220 --> 00:49:38,440
+És a kilincs megint volt már a markában...
+
+1015
+00:49:38,440 --> 00:49:40,050
+„Kit keres kegyelmed?”
+
+1016
+00:49:40,050 --> 00:49:41,230
+nyájasan kérdezte
+
+1017
+00:49:41,230 --> 00:49:44,060
+János vitézt egy kis takaros menyecske.
+
+1018
+00:49:44,060 --> 00:49:47,410
+Elmondotta János, hogy kit és mit keres...
+
+1019
+00:49:47,410 --> 00:49:50,420
+„Jaj, eszem a szívét, a naptól oly veres!
+
+1020
+00:49:50,420 --> 00:49:53,110
+Bizony-bizony alighogy reáismértem,”
+
+1021
+00:49:53,110 --> 00:49:56,060
+Szólott a menyecske meglepetésében.
+
+1022
+00:49:56,060 --> 00:49:58,890
+„Jőjön be már no, hogy az isten áldja meg,
+
+1023
+00:49:58,890 --> 00:50:01,740
+Odabenn majd aztán többet is beszélek.”
+
+1024
+00:50:01,740 --> 00:50:04,660
+Bevezette Jánost, karszékbe ültette,
+
+1025
+00:50:04,660 --> 00:50:07,840
+S így folytatta ismét beszédét mellette:
+
+1026
+00:50:07,840 --> 00:50:09,740
+„Ismer-e még engem?
+
+1027
+00:50:09,740 --> 00:50:10,910
+nem is ismer talán?
+
+1028
+00:50:10,910 --> 00:50:13,380
+Tudja, én vagyok az a kis szomszédlány,
+
+1029
+00:50:13,380 --> 00:50:16,590
+Itt Iluskáéknál gyakran megfordúltam...”
+
+1030
+00:50:16,590 --> 00:50:19,380
+„Hanem hát beszéljen csak: Iluska hol van?”
+
+1031
+00:50:19,380 --> 00:50:22,220
+Szavaiba vágott kérdezőleg János,
+
+1032
+00:50:22,220 --> 00:50:24,680
+A menyecske szeme könnytől lett homályos.
+
+1033
+00:50:24,680 --> 00:50:26,260
+„Hol van Iluska, hol?”
+
+1034
+00:50:26,260 --> 00:50:27,630
+felelt a menyecske,
+
+1035
+00:50:27,630 --> 00:50:31,260
+„Szegény Jancsi bácsi!... hát el van temetve.”
+
+1036
+00:50:31,260 --> 00:50:34,490
+Jó, hogy nem állt János, hanem űlt a széken,
+
+1037
+00:50:34,490 --> 00:50:36,940
+Mert lerogyott volna kínos érzésében;
+
+1038
+00:50:36,940 --> 00:50:40,200
+Nem tudott mást tenni, a szívéhez kapott,
+
+1039
+00:50:40,200 --> 00:50:42,740
+Mintha ki akarná tépni a bánatot.
+
+1040
+00:50:42,740 --> 00:50:45,380
+Igy űlt egy darabig némán merevedve,
+
+1041
+00:50:45,380 --> 00:50:49,200
+Azután szólt, mintha álmából ébredne:
+
+1042
+00:50:49,200 --> 00:50:51,650
+„Mondjatok igazat, ugye hogy férjhez ment?
+
+1043
+00:50:51,650 --> 00:50:54,780
+Inkább legyen férjnél, mintsem hogy odalent.
+
+1044
+00:50:54,780 --> 00:50:57,830
+Akkor legalább még egyszer megláthatom,
+
+1045
+00:50:57,830 --> 00:51:00,570
+S édes lesz nekem e keserű jutalom.”
+
+1046
+00:51:00,570 --> 00:51:03,480
+De a menyecskének orcáján láthatta,
+
+1047
+00:51:03,480 --> 00:51:06,880
+Hogy nem volt hazugság előbbi szózata.
+
+1048
+00:51:08,100 --> 00:51:11,110
+Vége a tizenhetedik fejezetnek
+
+1049
+00:51:11,110 --> 00:51:14,490
+Tizennyolcadik fejezet
+
+1050
+00:51:14,490 --> 00:51:17,600
+János reáborult az asztal sarkára,
+
+1051
+00:51:17,600 --> 00:51:20,770
+S megeredt könnyének bőséges forrása,
+
+1052
+00:51:20,770 --> 00:51:24,010
+Amit mondott, csak úgy töredezve mondta,
+
+1053
+00:51:24,010 --> 00:51:27,150
+El-elakadt a nagy fájdalomtól hangja:
+
+1054
+00:51:27,150 --> 00:51:30,180
+„Miért nem estem el háború zajában?
+
+1055
+00:51:30,180 --> 00:51:32,960
+Miért a tengerben sírom nem találtam?
+
+1056
+00:51:32,960 --> 00:51:35,680
+Miért, miért lettem e világra, miért?
+
+1057
+00:51:35,680 --> 00:51:38,230
+Ha ily mennykőcsapás, ilyen gyötrelem ért!”
+
+1058
+00:51:38,230 --> 00:51:42,280
+Kifáradt végre őt kínozni fájdalma,
+
+1059
+00:51:42,280 --> 00:51:45,170
+Mintha munkájában elszenderűlt volna,
+
+1060
+00:51:45,170 --> 00:51:46,880
+„Hogy halt meg galambom?
+
+1061
+00:51:46,880 --> 00:51:47,990
+mi baj lett halála?”
+
+1062
+00:51:47,990 --> 00:51:51,380
+Kérdé, s a menyecske ezt felelte rája:
+
+1063
+00:51:51,380 --> 00:51:54,200
+„Sok baja volt biz a szegény teremtésnek;
+
+1064
+00:51:54,200 --> 00:51:56,970
+Kivált mostohája kinzása töré meg.
+
+1065
+00:51:56,970 --> 00:51:59,580
+De meg is lakolt ám érte a rosz pára,
+
+1066
+00:51:59,580 --> 00:52:02,820
+Mert jutott inséges koldusok botjára.
+
+1067
+00:52:02,820 --> 00:52:05,880
+Aztán meg magát is szörnyen emlegette,
+
+1068
+00:52:05,880 --> 00:52:08,700
+Jancsi bácsi; ez volt végső lehellete:
+
+1069
+00:52:08,700 --> 00:52:11,640
+Jancsikám, Jancsikám, az isten áldjon meg.
+
+1070
+00:52:11,640 --> 00:52:14,860
+Másvilágon, ha még szeretsz, tied leszek.
+
+1071
+00:52:14,860 --> 00:52:17,890
+Ezek után kimult az árnyékvilágból;
+
+1072
+00:52:17,890 --> 00:52:20,470
+A temetőhelye nincsen innen távol.
+
+1073
+00:52:20,470 --> 00:52:23,290
+A falu népsége nagy számmal kisérte;
+
+1074
+00:52:23,290 --> 00:52:26,140
+Minden kisérője könnyet ejtett érte.”
+
+1075
+00:52:26,140 --> 00:52:28,770
+Kérelemszavára a szíves menyecske
+
+1076
+00:52:28,770 --> 00:52:31,490
+Jánost Iluskája sírjához vezette;
+
+1077
+00:52:31,490 --> 00:52:34,360
+Ottan vezetője őt magára hagyta,
+
+1078
+00:52:34,360 --> 00:52:37,440
+Lankadtan borúlt a kedves sírhalomra.
+
+1079
+00:52:37,440 --> 00:52:40,310
+Végiggondolta a régi szép időket,
+
+1080
+00:52:40,310 --> 00:52:42,980
+Mikor még Iluska tiszta szíve égett,
+
+1081
+00:52:42,980 --> 00:52:46,370
+Szíve és orcája — s most a hideg földben
+
+1082
+00:52:46,370 --> 00:52:49,660
+Hervadtan, hidegen vannak mind a ketten.
+
+1083
+00:52:49,660 --> 00:52:52,470
+Leáldozott a nap piros verőfénye,
+
+1084
+00:52:52,470 --> 00:52:55,180
+Halovány hold lépett a napnak helyébe,
+
+1085
+00:52:55,180 --> 00:52:57,930
+Szomorún nézett ki az őszi homályból,
+
+1086
+00:52:57,930 --> 00:53:01,050
+János eltántorgott kedvese hantjától.
+
+1087
+00:53:01,050 --> 00:53:03,140
+Még egyszer visszatért.
+
+1088
+00:53:03,140 --> 00:53:04,510
+A sírhalom felett
+
+1089
+00:53:04,510 --> 00:53:07,180
+Egyszerű kis rózsabokor nevelkedett.
+
+1090
+00:53:07,180 --> 00:53:09,920
+Leszakította a virágszálat róla,
+
+1091
+00:53:09,920 --> 00:53:13,210
+Elindult s mentében magában így szóla:
+
+1092
+00:53:13,210 --> 00:53:16,620
+„Ki porából nőttél, árva kis virágszál,
+
+1093
+00:53:16,620 --> 00:53:19,960
+Légy hűséges társam vándorlásaimnál;
+
+1094
+00:53:19,960 --> 00:53:23,550
+Vándorlok, vándorlok, a világ végeig,
+
+1095
+00:53:23,550 --> 00:53:26,860
+Míg kivánt halálom napja megérkezik.”
+
+1096
+00:53:27,880 --> 00:53:31,140
+Vége a tizennyolcadik fejezetnek
+
+1097
+00:53:32,300 --> 00:53:34,520
+Tizenkilencedik fejezet
+
+1098
+00:53:34,520 --> 00:53:37,900
+János vitéznek volt utjában két társa:
+
+1099
+00:53:37,900 --> 00:53:41,090
+Egyik a búbánat, amely szívét rágta,
+
+1100
+00:53:41,090 --> 00:53:44,020
+Másik a kardja volt, bedugva hüvelybe,
+
+1101
+00:53:44,020 --> 00:53:46,980
+Ezt a török vértől rozsda emésztette.
+
+1102
+00:53:46,980 --> 00:53:50,140
+Bizonytalan úton ezekkel vándorolt.
+
+1103
+00:53:50,140 --> 00:53:53,810
+Már sokszor telt s fogyott a változékony hold,
+
+1104
+00:53:53,810 --> 00:53:56,770
+S váltott a téli föld szép tavaszi ruhát,
+
+1105
+00:53:56,770 --> 00:53:59,490
+Mikor így szólítá meg szíve bánatát:
+
+1106
+00:53:59,490 --> 00:54:01,950
+„Mikor unod már meg örökös munkádat,
+
+1107
+00:54:01,950 --> 00:54:04,560
+Te a kínozásban telhetetlen bánat!
+
+1108
+00:54:04,560 --> 00:54:07,080
+Ha nem tudsz megölni, ne gyötörj hiába;
+
+1109
+00:54:07,080 --> 00:54:09,570
+Eredj máshova, tán akadsz jobb tanyára.
+
+1110
+00:54:09,570 --> 00:54:13,200
+Látom, nem te vagy az, ki nekem halált hoz,
+
+1111
+00:54:13,200 --> 00:54:16,350
+Látom, a halálért kell fordulnom máshoz.
+
+1112
+00:54:16,350 --> 00:54:19,530
+Máshoz fordulok hát; ti viszontagságok!
+
+1113
+00:54:19,530 --> 00:54:22,850
+Ohajtott halálom tán ti meghozzátok.”
+
+1114
+00:54:22,850 --> 00:54:26,280
+Ezeket gondolta s elhagyta bánatát.
+
+1115
+00:54:26,280 --> 00:54:29,200
+Ez szívéhez vissza most már csak néha szállt,
+
+1116
+00:54:29,200 --> 00:54:32,800
+Hanem ismét eltünt; (mert be volt az zárva,
+
+1117
+00:54:32,800 --> 00:54:35,830
+S csak egy könnycseppet tett szeme pillájára.)
+
+1118
+00:54:35,830 --> 00:54:38,660
+Utóbb a könnyel is végkép számot vetett,
+
+1119
+00:54:38,660 --> 00:54:41,300
+Csupán magát vitte a megunt életet,
+
+1120
+00:54:41,300 --> 00:54:44,290
+Vitte, vitte, vitte egy sötét erdőbe,
+
+1121
+00:54:44,290 --> 00:54:47,210
+Ott szekeret látott, amint belelépe.
+
+1122
+00:54:47,210 --> 00:54:50,440
+Fazekasé volt a szekér, melyet látott;
+
+1123
+00:54:50,440 --> 00:54:53,110
+Kereke tengelyig a nagy sárba vágott;
+
+1124
+00:54:53,110 --> 00:54:55,810
+Ütötte lovait a fazekas, szegény,
+
+1125
+00:54:55,810 --> 00:54:59,180
+A szekér azt mondta: nem mozdulok biz én.
+
+1126
+00:54:59,180 --> 00:55:02,500
+„Adj’ isten jó napot” szólott János vitéz;
+
+1127
+00:55:02,500 --> 00:55:05,040
+A fazekas rútul a szeme közé néz,
+
+1128
+00:55:05,040 --> 00:55:07,770
+S nagy bosszankodással im ezeket mondja:
+
+1129
+00:55:07,770 --> 00:55:11,010
+„Nem nekem... van biz az ördögnek jó napja.”
+
+1130
+00:55:11,010 --> 00:55:14,290
+„Be rosz kedvben vagyunk” felelt neki János.
+
+1131
+00:55:14,290 --> 00:55:15,120
+„Hogyne?
+
+1132
+00:55:15,120 --> 00:55:17,150
+mikor ez az út olyan posványos.
+
+1133
+00:55:17,150 --> 00:55:19,890
+Nógatom lovamat már reggeltől kezdve;
+
+1134
+00:55:19,890 --> 00:55:22,660
+De csak úgy van, mintha le volna enyvezve.”
+
+1135
+00:55:22,660 --> 00:55:25,590
+„Segíthetünk azon... de mondja meg kend csak,
+
+1136
+00:55:25,590 --> 00:55:28,010
+Ezen az úton itt vajjon hova jutnak?”
+
+1137
+00:55:28,010 --> 00:55:30,590
+Kérdé János vitéz egy útra mutatva,
+
+1138
+00:55:30,590 --> 00:55:33,630
+Mely az erdőt jobbra végighasította.
+
+1139
+00:55:33,630 --> 00:55:35,440
+„Ezen az úton itt?
+
+1140
+00:55:35,440 --> 00:55:36,600
+dejsz erre ne menjen,
+
+1141
+00:55:36,600 --> 00:55:39,160
+Nem mondok egyebet;... odavesz különben.
+
+1142
+00:55:39,160 --> 00:55:41,570
+Óriások lakják ott azt a vidéket,
+
+1143
+00:55:41,570 --> 00:55:44,270
+Nem jött ki még onnan, aki odalépett.”
+
+1144
+00:55:44,270 --> 00:55:48,020
+Felelt János vitéz: „Bízza kend azt csak rám.
+
+1145
+00:55:48,020 --> 00:55:50,750
+Mostan a szekérhez lássunk egymás után.”
+
+1146
+00:55:50,750 --> 00:55:53,480
+Így szólott, aztán a rúd végét megkapta,
+
+1147
+00:55:53,480 --> 00:55:56,600
+S csak tréfamódra a sárból kiragadta.
+
+1148
+00:55:56,600 --> 00:55:59,300
+Volt a fazekasnak jó nagy szeme, szája,
+
+1149
+00:55:59,300 --> 00:56:02,110
+De mégis kicsiny volt az álmélkodásra;
+
+1150
+00:56:02,110 --> 00:56:04,840
+Amire föleszmélt, hogy köszönjön szépen,
+
+1151
+00:56:04,840 --> 00:56:07,770
+János vitéz már jól benn járt az erdőben.
+
+1152
+00:56:07,770 --> 00:56:10,480
+János vitéz ment és elért nemsokára
+
+1153
+00:56:10,480 --> 00:56:13,210
+Az óriásföldnek félelmes tájára.
+
+1154
+00:56:13,210 --> 00:56:16,020
+Egy vágtató patak folyt a határ mellett:
+
+1155
+00:56:16,020 --> 00:56:18,680
+Hanem folyónak is jóformán beillett.
+
+1156
+00:56:18,680 --> 00:56:21,400
+A pataknál állt az óriásföld csősze;
+
+1157
+00:56:21,400 --> 00:56:23,920
+Mikor János vitéz a szemébe néze,
+
+1158
+00:56:23,920 --> 00:56:26,500
+Oly magasra kellett emelnie fejét,
+
+1159
+00:56:26,500 --> 00:56:29,450
+Mintha nézné holmi toronynak tetejét.
+
+1160
+00:56:29,450 --> 00:56:32,200
+Óriások csősze őt érkezni látta.
+
+1161
+00:56:32,200 --> 00:56:35,350
+S mintha mennykő volna, igy dörgött reája:
+
+1162
+00:56:35,350 --> 00:56:38,220
+„Ha jól látom, ott a fűben ember mozog; —
+
+1163
+00:56:38,220 --> 00:56:41,520
+Talpam úgyis viszket, várj, majd rád gázolok.”
+
+1164
+00:56:41,520 --> 00:56:44,230
+De az óriás amint rálépett volna,
+
+1165
+00:56:44,230 --> 00:56:47,160
+János feje fölött kardját föltartotta,
+
+1166
+00:56:47,160 --> 00:56:49,810
+Belelépett a nagy kamasz és elbődült,
+
+1167
+00:56:49,810 --> 00:56:53,650
+S hogy lábát felkapta: a patakba szédült.
+
+1168
+00:56:53,650 --> 00:56:56,700
+„Éppen úgy esett ez, amint csak kivántam.”
+
+1169
+00:56:56,700 --> 00:56:59,440
+János vitéznek ez járt gondolatában;
+
+1170
+00:56:59,440 --> 00:57:01,960
+Amint ezt gondolta, szaladni is kezdett,
+
+1171
+00:57:01,960 --> 00:57:04,460
+S az óriás felett átmente a vizet.
+
+1172
+00:57:04,460 --> 00:57:07,310
+Az óriás még föl nem tápászkodhatott,
+
+1173
+00:57:07,310 --> 00:57:10,090
+Amint János vitéz a túlpartra jutott,
+
+1174
+00:57:10,090 --> 00:57:12,580
+Átjutott és nekisuhintva szablyáját,
+
+1175
+00:57:12,580 --> 00:57:14,850
+Végigmetszette a csősz nyaka csigáját.
+
+1176
+00:57:14,850 --> 00:57:17,840
+Nem kelt föl többé az óriások csősze,
+
+1177
+00:57:17,840 --> 00:57:20,860
+Hogy a rábizott tájt őrző szemmel nézze;
+
+1178
+00:57:20,860 --> 00:57:23,740
+Napfogyatkozás jött szeme világára,
+
+1179
+00:57:23,740 --> 00:57:26,430
+Melynek elmulását hasztalanul várta.
+
+1180
+00:57:26,430 --> 00:57:29,270
+Keresztülfutott a patak vize testén;
+
+1181
+00:57:29,270 --> 00:57:32,300
+Veres lett hulláma vértől befestetvén. —
+
+1182
+00:57:32,300 --> 00:57:36,010
+Hát Jánost mi érte, szerencse vagy ínség?
+
+1183
+00:57:36,010 --> 00:57:39,700
+Majd meghalljuk azt is, várjunk csak kicsinyég.
+
+1184
+00:57:41,260 --> 00:57:44,700
+Vége a tizenkilencedik fejezetnek
+
+1185
+00:57:50,280 --> 00:57:53,510
+János Vitéz
+Huszadik fejezet
+
+1186
+00:57:53,510 --> 00:57:56,590
+Ez a Librivox-felvétel közkincs.
+
+1187
+00:57:56,590 --> 00:57:59,670
+Felolvassa Majlinger Diana
+
+1188
+00:57:59,670 --> 00:58:03,410
+János Vitéz
+írta
+Petőfi Sándor
+
+1189
+00:58:03,410 --> 00:58:05,980
+Huszadik fejezet
+
+1190
+00:58:07,680 --> 00:58:09,930
+János az erdőben mindig beljebb haladt;
+
+1191
+00:58:09,930 --> 00:58:12,650
+Sokszor meg-megállt a csodálkozás miatt,
+
+1192
+00:58:12,650 --> 00:58:15,160
+Mert nem látott minden léptében-nyomában
+
+1193
+00:58:15,160 --> 00:58:18,100
+Olyat, amit látott Óriásországban.
+
+1194
+00:58:18,100 --> 00:58:20,760
+Volt ennek a tájnak sok akkora fája,
+
+1195
+00:58:20,760 --> 00:58:23,380
+Hogy a tetejöket János nem is látta.
+
+1196
+00:58:23,380 --> 00:58:26,160
+Aztán olyan széles volt a fák levele,
+
+1197
+00:58:26,160 --> 00:58:28,580
+Hogy szűrnek is untig elég volna fele.
+
+1198
+00:58:28,580 --> 00:58:31,740
+A szunyogok itten akkorákra nőttek,
+
+1199
+00:58:31,740 --> 00:58:34,400
+Hogy ökrök gyanánt is máshol elkelnének.
+
+1200
+00:58:34,400 --> 00:58:37,140
+Volt is mit aprítni János szablyájának;
+
+1201
+00:58:37,140 --> 00:58:40,120
+Minthogy feléje nagy mennyiségben szálltak.
+
+1202
+00:58:40,120 --> 00:58:43,170
+Hát még meg a varjúk!... hú, azok voltak ám!
+
+1203
+00:58:43,170 --> 00:58:45,740
+Látott egyet űlni egyik fa sudarán,
+
+1204
+00:58:45,740 --> 00:58:48,440
+Lehetett valami két mérföldre tőle,
+
+1205
+00:58:48,440 --> 00:58:51,820
+Mégis akkora volt, hogy felhőnek vélte.
+
+1206
+00:58:51,820 --> 00:58:55,230
+Így ballagott János bámulva mód nélkül.
+
+1207
+00:58:55,230 --> 00:58:58,120
+Egyszerre előtte valami sötétül.
+
+1208
+00:58:58,120 --> 00:59:00,390
+Az óriás király nagy fekete vára
+
+1209
+00:59:00,390 --> 00:59:03,520
+Volt, ami sötéten szeme előtt álla.
+
+1210
+00:59:03,520 --> 00:59:06,490
+Nem hazudok, de volt akkora kapuja,
+
+1211
+00:59:06,490 --> 00:59:10,480
+Hogy, hogy... biz én nem is tudom, hogy mekkora,
+
+1212
+00:59:10,480 --> 00:59:13,550
+Csakhogy nagy volt biz az, képzelni is lehet;
+
+1213
+00:59:13,550 --> 00:59:16,100
+Az óriás király kicsit nem építtet.
+
+1214
+00:59:16,100 --> 00:59:19,500
+Hát odaért János s ekkép elmélkedék:
+
+1215
+00:59:19,500 --> 00:59:22,550
+„A külsejét látom, megnézem belsejét;”
+
+1216
+00:59:22,550 --> 00:59:25,750
+S nem törődve azon, hogy majd megugratják,
+
+1217
+00:59:25,750 --> 00:59:28,530
+Megnyitotta a nagy palota ajtaját.
+
+1218
+00:59:28,530 --> 00:59:31,410
+No hanem, hisz ugyan volt is mit látnia!
+
+1219
+00:59:31,410 --> 00:59:34,510
+Ebédelt a király s tudj’ isten hány fia.
+
+1220
+00:59:34,510 --> 00:59:37,500
+Hanem mit ebédelt, ki nem találjátok;
+
+1221
+00:59:37,500 --> 00:59:39,040
+Gondolnátok-e, mit?
+
+1222
+00:59:39,040 --> 00:59:40,990
+csupa kősziklákat.
+
+1223
+00:59:40,990 --> 00:59:43,920
+Mikor János vitéz a házba belépett,
+
+1224
+00:59:43,920 --> 00:59:46,510
+Nemigen kivánta meg ezt az ebédet;
+
+1225
+00:59:46,510 --> 00:59:48,710
+De az óriások jószívű királya
+
+1226
+00:59:48,710 --> 00:59:51,370
+Az ebéddel őt ily szépen megkinálta:
+
+1227
+00:59:51,370 --> 00:59:54,060
+„Ha már itt vagy, jöszte és ebédelj velünk,
+
+1228
+00:59:54,060 --> 00:59:57,440
+Ha nem nyelsz kősziklát, mi majd téged nyelünk;
+
+1229
+00:59:57,440 --> 01:00:00,110
+Fogadd el, különben száraz ebédünket
+
+1230
+01:00:00,110 --> 01:00:03,440
+Ízről porrá morzsolt testeddel sózzuk meg.”
+
+1231
+01:00:03,440 --> 01:00:05,890
+Az óriás király ezt nem úgy mondotta,
+
+1232
+01:00:05,890 --> 01:00:08,450
+Hogy János tréfára gondolhatta volna;
+
+1233
+01:00:08,450 --> 01:00:11,340
+Hát egész készséggel ilyen szókkal felelt:
+
+1234
+01:00:11,340 --> 01:00:14,200
+„Megvallom, nem szoktam még meg ez eledelt;
+
+1235
+01:00:14,200 --> 01:00:16,950
+De ha kivánjátok, megteszem, miért ne?
+
+1236
+01:00:16,950 --> 01:00:19,430
+Társaságotokba beállok ebédre,
+
+1237
+01:00:19,430 --> 01:00:22,520
+Csupán egyre kérlek, s azt megtehetitek,
+
+1238
+01:00:22,520 --> 01:00:25,170
+Számomra előbb kis darabot törjetek.”
+
+1239
+01:00:25,170 --> 01:00:27,610
+Letört a sziklából valami öt fontot
+
+1240
+01:00:27,610 --> 01:00:30,890
+A király, s amellett ily szavakat mondott:
+
+1241
+01:00:30,890 --> 01:00:33,390
+„Nesze, galuskának elég lesz e darab,
+
+1242
+01:00:33,390 --> 01:00:36,280
+Aztán gombócot kapsz, hanem összeharapd.”
+
+1243
+01:00:36,280 --> 01:00:39,180
+„Harapod bizony te, a kínos napodat!
+
+1244
+01:00:39,180 --> 01:00:41,410
+De fogadom, bele is törik a fogad!”
+
+1245
+01:00:41,410 --> 01:00:44,340
+Kiáltott fel János haragos beszéddel,
+
+1246
+01:00:44,340 --> 01:00:47,360
+S meglódította a követ jobb kezével.
+
+1247
+01:00:47,360 --> 01:00:50,280
+A kő úgy a király homlokához koppant,
+
+1248
+01:00:50,280 --> 01:00:53,170
+Hogy az agyveleje azonnal kiloccsant.
+
+1249
+01:00:53,170 --> 01:00:56,210
+„Igy híj meg máskor is kőszikla-ebédre,”
+
+1250
+01:00:56,210 --> 01:01:00,030
+Szólt s kacagott János „ráforrt a gégédre!”
+
+1251
+01:01:00,030 --> 01:01:02,350
+És az óriások elszomorodának
+
+1252
+01:01:02,350 --> 01:01:04,750
+Keserves halálán a szegény királynak,
+
+1253
+01:01:04,750 --> 01:01:08,320
+S szomorúságokban elfakadtak sírva...
+
+1254
+01:01:08,320 --> 01:01:10,460
+Minden csepp könnyök egy dézsa víz lett volna.
+
+1255
+01:01:10,460 --> 01:01:14,130
+A legöregebbik szólt János vitézhez:
+
+1256
+01:01:14,130 --> 01:01:17,380
+„Urunk és királyunk, kegyelmezz, kegyelmezz!
+
+1257
+01:01:17,380 --> 01:01:19,990
+Mert mi téged ime királynak fogadunk,
+
+1258
+01:01:19,990 --> 01:01:23,290
+Csak ne bánts minket is, jobbágyaid vagyunk!”
+
+1259
+01:01:23,290 --> 01:01:26,240
+„Amit bátyánk mondott, közös akaratunk,
+
+1260
+01:01:26,240 --> 01:01:29,390
+Csak ne bánts minket is, jobbágyaid vagyunk!”
+
+1261
+01:01:29,390 --> 01:01:31,860
+A többi óriás ekképen esengett,
+
+1262
+01:01:31,860 --> 01:01:34,780
+„Fogadj el örökös jobbágyidúl minket.”
+
+1263
+01:01:34,780 --> 01:01:37,730
+Felelt János vitéz: „Elfogadom tehát
+
+1264
+01:01:37,730 --> 01:01:40,160
+Egy kikötéssel a kendtek ajánlatát.
+
+1265
+01:01:40,160 --> 01:01:42,920
+Én itt nem maradok, mert tovább kell mennem,
+
+1266
+01:01:42,920 --> 01:01:45,550
+Itt hagyok valakit királynak helyettem.
+
+1267
+01:01:45,550 --> 01:01:48,800
+Már akárki lesz is, az mindegy énnekem.
+
+1268
+01:01:48,800 --> 01:01:51,320
+Kendtektől csupán ez egyet követelem:
+
+1269
+01:01:51,320 --> 01:01:53,850
+Amidőn a szükség úgy hozza magával,
+
+1270
+01:01:53,850 --> 01:01:57,120
+Nálam teremjenek kendtek teljes számmal.”
+
+1271
+01:01:57,120 --> 01:02:00,070
+„Vidd, kegyelmes urunk, magaddal e sípot,
+
+1272
+01:02:00,070 --> 01:02:03,080
+S ott leszünk, mihelyest jobbágyidat hívod.”
+
+1273
+01:02:03,080 --> 01:02:05,540
+Az öreg óriás ezeket mondotta,
+
+1274
+01:02:05,540 --> 01:02:08,520
+S János vitéznek a sípot általadta.
+
+1275
+01:02:08,520 --> 01:02:11,390
+János bedugta a sípot tarsolyába,
+
+1276
+01:02:11,390 --> 01:02:13,940
+Kevélyen gondolva nagy diadalmára,
+
+1277
+01:02:13,940 --> 01:02:16,580
+És számos szerencse-kivánások között
+
+1278
+01:02:16,580 --> 01:02:19,630
+Az óriásoktól aztán elköltözött.
+
+1279
+01:02:19,630 --> 01:02:23,500
+Vége a huszadik fejezetnek
+
+1280
+01:02:24,960 --> 01:02:27,190
+Huszonegyedik fejezet
+
+1281
+01:02:27,190 --> 01:02:30,340
+Nem bizonyos, mennyi ideig haladott,
+
+1282
+01:02:30,340 --> 01:02:33,030
+De annyi bizonyos, mennél tovább jutott,
+
+1283
+01:02:33,030 --> 01:02:35,370
+Annál sötétebb lett előtte a világ,
+
+1284
+01:02:35,370 --> 01:02:38,600
+S egyszerre csak annyit vesz észre, hogy nem lát.
+
+1285
+01:02:38,600 --> 01:02:41,660
+„Éj van-e vagy szemem világa veszett ki?”
+
+1286
+01:02:41,660 --> 01:02:44,950
+János vitéz ekkép kezdett gondolkodni.
+
+1287
+01:02:44,950 --> 01:02:48,020
+Nem volt éj, nem veszett ki szeme világa,
+
+1288
+01:02:48,020 --> 01:02:51,200
+Hanem hogy ez volt a sötétség országa.
+
+1289
+01:02:51,200 --> 01:02:54,950
+Nem sütött az égen itt sem nap, sem csillag;
+
+1290
+01:02:54,950 --> 01:02:57,590
+János vitéz csak úgy tapogatva ballag,
+
+1291
+01:02:57,590 --> 01:03:00,330
+Néha feje fölött elreppent valami,
+
+1292
+01:03:00,330 --> 01:03:03,600
+Szárnysuhogás-formát lehetett hallani.
+
+1293
+01:03:03,600 --> 01:03:06,920
+Nem szárnysuhogás volt az tulajdonképen,
+
+1294
+01:03:06,920 --> 01:03:09,960
+Boszorkányok szálltak arra seprőnyélen.
+
+1295
+01:03:09,960 --> 01:03:12,800
+Boszorkányoknak a sötétség országa
+
+1296
+01:03:12,800 --> 01:03:15,910
+Rég ideje a, hogy birtoka, tanyája.
+
+1297
+01:03:15,910 --> 01:03:19,430
+Ország gyülését őkelmök itt tartanak,
+
+1298
+01:03:19,430 --> 01:03:22,050
+Éjfél idejében idelovaglanak.
+
+1299
+01:03:22,050 --> 01:03:24,770
+Most is gyülekeznek ország gyülésére
+
+1300
+01:03:24,770 --> 01:03:27,860
+A sötét tartomány kellő közepére.
+
+1301
+01:03:27,860 --> 01:03:30,890
+Egy mélységes barlang fogadta be őket,
+
+1302
+01:03:30,890 --> 01:03:33,780
+A barlang közepén üst alatt tűz égett.
+
+1303
+01:03:33,780 --> 01:03:36,310
+Ajtó nyilásakor meglátta a tüzet
+
+1304
+01:03:36,310 --> 01:03:39,290
+János vitéz s annak irányán sietett.
+
+1305
+01:03:39,290 --> 01:03:42,370
+Mikor János vitéz odaért: valának
+
+1306
+01:03:42,370 --> 01:03:44,910
+Egybegyülekezve mind a boszorkányok.
+
+1307
+01:03:44,910 --> 01:03:47,760
+Halkan lábujjhegyen a kulcslyukhoz mene,
+
+1308
+01:03:47,760 --> 01:03:50,540
+Furcsa dolgokon is akadt meg a szeme.
+
+1309
+01:03:50,540 --> 01:03:53,930
+A sok vén szipirtyó benn csak úgy hemzsegett.
+
+1310
+01:03:53,930 --> 01:03:56,530
+Hánytak a nagy üstbe békát, patkányfejet,
+
+1311
+01:03:56,530 --> 01:03:58,860
+Akasztófa tövén nőtt füvet, virágot,
+
+1312
+01:03:58,860 --> 01:04:01,770
+Macskafarkat, kigyót, emberkoponyákat.
+
+1313
+01:04:01,770 --> 01:04:04,530
+De ki tudná sorra mind előszámlálni?
+
+1314
+01:04:04,530 --> 01:04:07,490
+Csakhogy János mindjárt át kezdette látni,
+
+1315
+01:04:07,490 --> 01:04:10,400
+Hogy a barlang nem más, mint boszorkánytanya.
+
+1316
+01:04:10,400 --> 01:04:12,940
+Erre egy gondolat agyán átvillana.
+
+1317
+01:04:12,940 --> 01:04:16,000
+Tarsolyához nyúlt, hogy sípját elővegye,
+
+1318
+01:04:16,000 --> 01:04:18,650
+Az óriásoknak hogy jőjön serege,
+
+1319
+01:04:18,650 --> 01:04:21,020
+Hanem megakadt a keze valamiben,
+
+1320
+01:04:21,020 --> 01:04:24,140
+Közelebb vizsgálta s látta, hogy mi legyen.
+
+1321
+01:04:24,140 --> 01:04:27,370
+A seprők voltak ott egymás mellé rakva,
+
+1322
+01:04:27,370 --> 01:04:30,140
+Miken a boszorkány-nép odalovagla.
+
+1323
+01:04:30,140 --> 01:04:33,500
+Fölnyalábolta és messzire elhordá,
+
+1324
+01:04:33,500 --> 01:04:36,430
+Hogy a boszorkányok ne akadjanak rá.
+
+1325
+01:04:36,430 --> 01:04:40,030
+Ekkor visszatért és sípjával füttyentett
+
+1326
+01:04:40,030 --> 01:04:42,660
+És az óriások rögtön megjelentek.
+
+1327
+01:04:42,660 --> 01:04:45,590
+„Rajta, törjetek be szaporán, legények!”
+
+1328
+01:04:45,590 --> 01:04:48,980
+Parancsolá János, s azok betörének.
+
+1329
+01:04:48,980 --> 01:04:51,710
+No hisz keletkezett cifra zenebona;
+
+1330
+01:04:51,710 --> 01:04:54,410
+A boszorkánysereg gyorsan kirohana;
+
+1331
+01:04:54,410 --> 01:04:57,510
+Keresték a seprőt kétségbeeséssel,
+
+1332
+01:04:57,510 --> 01:05:00,300
+De nem találták, s így nem repülhettek el.
+
+1333
+01:05:00,300 --> 01:05:03,630
+Az óriások sem pihentek azalatt,
+
+1334
+01:05:03,630 --> 01:05:06,210
+Mindenikök egy-egy boszorkányt megragadt,
+
+1335
+01:05:06,210 --> 01:05:08,820
+S úgy vágta a földhöz dühös haragjába’,
+
+1336
+01:05:08,820 --> 01:05:11,930
+Hogy széjjellapultak lepények módjára.
+
+1337
+01:05:11,930 --> 01:05:14,690
+Legnevezetesebb a dologban az volt,
+
+1338
+01:05:14,690 --> 01:05:17,520
+Hogy valahányszor egy-egy boszorkány megholt,
+
+1339
+01:05:17,520 --> 01:05:19,890
+Mindannyiszor oszlott az égnek homálya,
+
+1340
+01:05:19,890 --> 01:05:23,340
+S derűlt lassanként a sötétség országa.
+
+1341
+01:05:23,340 --> 01:05:26,340
+Már csaknem egészen nap volt a vidéken,
+
+1342
+01:05:26,340 --> 01:05:29,110
+Az utolsó banya volt a soron épen...
+
+1343
+01:05:29,110 --> 01:05:31,300
+Kire ismert János ebbe’ a banyába’?
+
+1344
+01:05:31,300 --> 01:05:34,240
+Hát Iluskájának mostohaanyjára.
+
+1345
+01:05:34,240 --> 01:05:38,420
+„De, kiáltott János, ezt magam döngetem.”
+
+1346
+01:05:38,420 --> 01:05:40,910
+S óriás kezéből kivette hirtelen,
+
+1347
+01:05:40,910 --> 01:05:43,660
+Hanem a boszorkány kicsusszant markából,
+
+1348
+01:05:43,660 --> 01:05:44,230
+Uccu!
+
+1349
+01:05:44,230 --> 01:05:46,440
+szaladni kezd, és volt már jó távol.
+
+1350
+01:05:46,440 --> 01:05:50,050
+„A keserves voltát, rugaszkodj utána!”
+
+1351
+01:05:50,050 --> 01:05:52,600
+Kiáltott most János egyik óriásra.
+
+1352
+01:05:52,600 --> 01:05:56,150
+Szót fogadott ez, és a banyát elkapta,
+
+1353
+01:05:56,150 --> 01:05:58,710
+És a levegőbe magasra hajtotta.
+
+1354
+01:05:58,710 --> 01:06:01,270
+Igy találták meg az utolsó boszorkányt
+
+1355
+01:06:01,270 --> 01:06:03,780
+Halva, János vitéz faluja határán;
+
+1356
+01:06:03,780 --> 01:06:07,130
+S minthogy minden ember gyülölte, utálta,
+
+1357
+01:06:07,130 --> 01:06:10,090
+Mégcsak a varju sem károgott utána.
+
+1358
+01:06:10,090 --> 01:06:13,450
+Sötétség országa kiderült végképen,
+
+1359
+01:06:13,450 --> 01:06:15,670
+Örökös homálynak napfény lett helyében,
+
+1360
+01:06:15,670 --> 01:06:19,340
+János vitéz pedig rakatott nagy tüzet,
+
+1361
+01:06:19,340 --> 01:06:22,410
+A tűz minden seprőt hamuvá égetett.
+
+1362
+01:06:22,410 --> 01:06:24,910
+Az óriásoktól azután bucsút vett,
+
+1363
+01:06:24,910 --> 01:06:27,740
+Szivükre kötvén a jobbágyi hűséget.
+
+1364
+01:06:27,740 --> 01:06:30,700
+Ezek igérték, hogy hűségesek lesznek,
+
+1365
+01:06:30,700 --> 01:06:35,620
+S János vitéz jobbra és ők balra mentek...
+
+1366
+01:06:35,620 --> 01:06:39,250
+Vége a huszonegyedik fejezetnek
+
+1367
+01:06:39,250 --> 01:06:42,430
+Huszonkettedik fejezet
+
+1368
+01:06:42,430 --> 01:06:45,550
+Vándorolgatott az én János vitézem,
+
+1369
+01:06:45,550 --> 01:06:48,770
+Meggyógyult már szíve a bútól egészen,
+
+1370
+01:06:48,770 --> 01:06:51,750
+Mert mikor keblén a rózsaszálra nézett,
+
+1371
+01:06:51,750 --> 01:06:54,890
+Nem volt az többé bú, amit akkor érzett.
+
+1372
+01:06:54,890 --> 01:06:57,720
+Ott állott a rózsa mellére akasztva,
+
+1373
+01:06:57,720 --> 01:07:00,580
+Melyet Iluskája sírjáról szakaszta,
+
+1374
+01:07:00,580 --> 01:07:03,330
+Valami édesség volt érezésében,
+
+1375
+01:07:03,330 --> 01:07:06,430
+Ha János elmerült annak nézésében.
+
+1376
+01:07:06,430 --> 01:07:08,580
+Igy ballagott egyszer.
+
+1377
+01:07:08,580 --> 01:07:10,120
+A nap lehanyatlott,
+
+1378
+01:07:10,120 --> 01:07:12,750
+Hagyva maga után piros alkonyatot;
+
+1379
+01:07:12,750 --> 01:07:15,530
+A piros alkony is eltűnt a világról,
+
+1380
+01:07:15,530 --> 01:07:18,680
+Követve fogyó hold sárga világától.
+
+1381
+01:07:18,680 --> 01:07:22,200
+János még ballagott; amint a hold leszállt,
+
+1382
+01:07:22,200 --> 01:07:24,760
+Ő fáradottan a sötétségben megállt,
+
+1383
+01:07:24,760 --> 01:07:27,120
+S valami halomra fejét lehajtotta,
+
+1384
+01:07:27,120 --> 01:07:29,780
+Hogy fáradalmát az éjben kinyugodja.
+
+1385
+01:07:29,780 --> 01:07:33,040
+Ledőlt, el is aludt, észre nem is véve,
+
+1386
+01:07:33,040 --> 01:07:35,970
+Hogy nem nyugszik máshol, hanem temetőbe’;
+
+1387
+01:07:35,970 --> 01:07:39,070
+Temetőhely volt ez, ócska temetőhely,
+
+1388
+01:07:39,070 --> 01:07:42,140
+Harcoltak hantjai a rontó idővel.
+
+1389
+01:07:42,140 --> 01:07:45,200
+Mikor az éjfélnek jött rémes órája,
+
+1390
+01:07:45,200 --> 01:07:48,190
+A száját mindenik sírhalom feltátja,
+
+1391
+01:07:48,190 --> 01:07:50,970
+S fehér lepedőben halvány kisértetek
+
+1392
+01:07:50,970 --> 01:07:53,760
+A sírok torkából kiemelkedtenek.
+
+1393
+01:07:53,760 --> 01:07:56,990
+Táncot és éneket kezdettek meg legott,
+
+1394
+01:07:56,990 --> 01:07:59,680
+Lábok alatt a föld reszketve dobogott;
+
+1395
+01:07:59,680 --> 01:08:02,090
+Hanem János vitéz álmai közepett
+
+1396
+01:08:02,090 --> 01:08:04,930
+Sem énekszóra, sem táncra nem ébredett.
+
+1397
+01:08:04,930 --> 01:08:07,710
+Amint egy kisértet őt megpillantotta,
+
+1398
+01:08:07,710 --> 01:08:09,460
+„Ember, élő ember!”
+
+1399
+01:08:09,460 --> 01:08:11,330
+e szót kiáltotta,
+
+1400
+01:08:11,330 --> 01:08:13,030
+„Kapjuk fel, vigyük el!
+
+1401
+01:08:13,030 --> 01:08:14,340
+mért olyan vakmerő,
+
+1402
+01:08:14,340 --> 01:08:17,230
+Tartományunkba belépni mikép mer ő?”
+
+1403
+01:08:17,230 --> 01:08:20,190
+És odasuhantak mind a kisértetek,
+
+1404
+01:08:20,190 --> 01:08:22,710
+És körülötte már karéjt képeztenek,
+
+1405
+01:08:22,710 --> 01:08:25,810
+És nyultak utána, de a kakas szólal,
+
+1406
+01:08:25,810 --> 01:08:29,230
+S a kisértet mind eltűnt a kakasszóval.
+
+1407
+01:08:29,230 --> 01:08:32,000
+János is felébredt a kakas szavára,
+
+1408
+01:08:32,000 --> 01:08:34,730
+Testét a hidegtől borzadás átjárta;
+
+1409
+01:08:34,730 --> 01:08:37,440
+Csipős szél lengette a síri füveket,
+
+1410
+01:08:37,440 --> 01:08:41,360
+Lábra szedte magát s útra kerekedett.
+
+1411
+01:08:41,360 --> 01:08:45,560
+Vége a huszonkettedik fejezetnek
+
+1412
+01:08:50,580 --> 01:08:53,600
+János Vitéz
+Huszonharmadik fejezet
+
+1413
+01:08:53,600 --> 01:08:56,520
+Ez a Librivox-felvétel közkincs.
+
+1414
+01:08:56,520 --> 01:08:59,750
+Felolvassa Majlinger Diana
+
+1415
+01:08:59,750 --> 01:09:03,270
+János Vitéz
+írta
+Petőfi Sándor
+
+1416
+01:09:03,270 --> 01:09:06,080
+Huszonharmadik fejezet
+
+1417
+01:09:07,320 --> 01:09:09,770
+János vitéz egy nagy hegy tetején jára,
+
+1418
+01:09:09,770 --> 01:09:12,550
+Hogy a kelő hajnal rásütött arcára.
+
+1419
+01:09:12,550 --> 01:09:15,440
+Gyönyörűséges volt, amit ekkor látott,
+
+1420
+01:09:15,440 --> 01:09:18,320
+Meg is állt, hogy körülnézze a világot.
+
+1421
+01:09:18,320 --> 01:09:21,250
+Haldoklófélben volt a hajnali csillag,
+
+1422
+01:09:21,250 --> 01:09:24,300
+Halovány sugára már csak alig csillog,
+
+1423
+01:09:24,300 --> 01:09:27,350
+Mint gyorsan kiröppent fohász, eltünt végre,
+
+1424
+01:09:27,350 --> 01:09:30,270
+Mikor a fényes nap föllépett az égre.
+
+1425
+01:09:30,270 --> 01:09:33,110
+Föllépett aranyos szekeren ragyogva,
+
+1426
+01:09:33,110 --> 01:09:35,940
+Nyájasan nézett a sík tengerhabokra,
+
+1427
+01:09:35,940 --> 01:09:39,180
+Mik, úgy tetszett, mintha még szenderegnének,
+
+1428
+01:09:39,180 --> 01:09:42,080
+Elfoglalva térét a végtelenségnek.
+
+1429
+01:09:42,080 --> 01:09:44,640
+Nem mozdult a tenger, de fickándoztanak
+
+1430
+01:09:44,640 --> 01:09:47,280
+Sima hátán néha apró tarka halak,
+
+1431
+01:09:47,280 --> 01:09:50,000
+S ha napsugár érte pikkelyes testöket,
+
+1432
+01:09:50,000 --> 01:09:53,070
+Tündöklő gyémántnak fényeként reszketett.
+
+1433
+01:09:53,070 --> 01:09:56,060
+A tengerparton kis halászkunyhó álla;
+
+1434
+01:09:56,060 --> 01:09:59,130
+Öreg volt a halász, térdig ért szakálla,
+
+1435
+01:09:59,130 --> 01:10:02,120
+Épen mostan akart hálót vetni vízbe,
+
+1436
+01:10:02,120 --> 01:10:05,620
+János odament és tőle ezt kérdezte:
+
+1437
+01:10:05,620 --> 01:10:08,700
+„Ha szépen megkérem kendet, öreg bátya,
+
+1438
+01:10:08,700 --> 01:10:11,640
+Átszállít-e engem tenger más partjára?
+
+1439
+01:10:11,640 --> 01:10:14,650
+Örömest fizetnék, hanem nincsen pénzem,
+
+1440
+01:10:14,650 --> 01:10:17,770
+Tegye meg kend ingyen, köszönettel vészem.”
+
+1441
+01:10:17,770 --> 01:10:21,200
+„Fiam, ha volna, sem kéne pénzed nékem,”
+
+1442
+01:10:21,200 --> 01:10:24,240
+Felelt a jó öreg nyájasan, szelíden.
+
+1443
+01:10:24,240 --> 01:10:27,050
+„Megtermi mindenkor a tenger mélysége,
+
+1444
+01:10:27,050 --> 01:10:29,770
+Ami kevésre van éltemnek szüksége.
+
+1445
+01:10:29,770 --> 01:10:32,000
+De micsoda járat vetett téged ide?
+
+1446
+01:10:32,000 --> 01:10:34,410
+Az óperenciás tenger ez, tudod-e?
+
+1447
+01:10:34,410 --> 01:10:37,040
+Azért semmi áron által nem vihetlek,
+
+1448
+01:10:37,040 --> 01:10:40,480
+Se vége, se hossza ennek a tengernek.”
+
+1449
+01:10:40,480 --> 01:10:42,500
+„Az óperenciás?”
+
+1450
+01:10:42,500 --> 01:10:44,080
+kiáltott fel János,
+
+1451
+01:10:44,080 --> 01:10:46,960
+„Annál inkább vagyok hát kiváncsiságos;
+
+1452
+01:10:46,960 --> 01:10:49,710
+De már igy átmegyek, akárhová jutok.
+
+1453
+01:10:49,710 --> 01:10:52,700
+Van még egy mód hátra... a sípomba fuvok.”
+
+1454
+01:10:52,700 --> 01:10:54,370
+És megfújta sípját.
+
+1455
+01:10:54,370 --> 01:10:55,560
+A sípnak szavára
+
+1456
+01:10:55,560 --> 01:10:58,010
+Egy óriás mindjárt előtte is álla.
+
+1457
+01:10:58,010 --> 01:11:00,630
+„Át tudsz-e gázolni ezen a tengeren?”
+
+1458
+01:11:00,630 --> 01:11:04,010
+Kérdi János vitéz „gázolj által velem.”
+
+1459
+01:11:04,010 --> 01:11:05,750
+„Át tudok-e?”
+
+1460
+01:11:05,750 --> 01:11:07,680
+szól az óriás és nevet,
+
+1461
+01:11:07,680 --> 01:11:10,410
+„Meghiszem azt; foglalj a vállamon helyet.
+
+1462
+01:11:10,410 --> 01:11:13,330
+Így ni, most kapaszkodj meg jól a hajamba.”
+
+1463
+01:11:13,330 --> 01:11:16,840
+És már meg is indult, amint ezt kimondta.
+
+1464
+01:11:16,840 --> 01:11:20,840
+Vége a huszonharmadik fejezetnek
+
+1465
+01:11:22,140 --> 01:11:24,380
+Huszonnegyedik fejezet
+
+1466
+01:11:24,380 --> 01:11:27,720
+Vitte az óriás János vitézünket;
+
+1467
+01:11:27,720 --> 01:11:30,730
+Nagy lába egyszerre fél mérföldet lépett,
+
+1468
+01:11:30,730 --> 01:11:33,720
+Három hétig vitte szörnyü sebességgel,
+
+1469
+01:11:33,720 --> 01:11:37,060
+De a tulsó partot csak nem érhették el.
+
+1470
+01:11:37,060 --> 01:11:40,230
+Egyszer a távolság kékellő ködében,
+
+1471
+01:11:40,230 --> 01:11:42,840
+Jánosnak valami akad meg szemében.
+
+1472
+01:11:42,840 --> 01:11:44,760
+„Nini, ott már a part!”
+
+1473
+01:11:44,760 --> 01:11:46,620
+szólt megörvendezve.
+
+1474
+01:11:46,620 --> 01:11:50,030
+„Biz az csak egy sziget,” felelt, aki vitte.
+
+1475
+01:11:50,030 --> 01:11:53,720
+János ezt kérdezte: „És micsoda sziget?”
+
+1476
+01:11:53,720 --> 01:11:56,610
+„Tündérország, róla hallhattál eleget.
+
+1477
+01:11:56,610 --> 01:11:59,130
+Tündérország; ott van a világnak vége,
+
+1478
+01:11:59,130 --> 01:12:02,740
+A tenger azon túl tűnik semmiségbe.”
+
+1479
+01:12:02,740 --> 01:12:05,840
+„Vigy oda hát engem, hűséges jobbágyom,
+
+1480
+01:12:05,840 --> 01:12:09,010
+Mert én azt meglátni fölötte kivánom.”
+
+1481
+01:12:09,010 --> 01:12:11,810
+„Elvihetlek,” felelt az óriás neki,
+
+1482
+01:12:11,810 --> 01:12:14,210
+„De ott életedet veszély fenyegeti.
+
+1483
+01:12:14,210 --> 01:12:16,630
+Nem olyan könnyű ám a bejárás oda,
+
+1484
+01:12:16,630 --> 01:12:20,260
+Őrizi kapuját sok iszonyú csoda...”
+
+1485
+01:12:20,260 --> 01:12:22,800
+„Ne gondolj te azzal, csak vigy el odáig;
+
+1486
+01:12:22,800 --> 01:12:26,020
+Hogy bemehetek-e vagy nem, majd elválik.”
+
+1487
+01:12:26,020 --> 01:12:29,010
+Szófogadásra igy inté az óriást,
+
+1488
+01:12:29,010 --> 01:12:31,700
+Aki tovább nem is tett semmi kifogást,
+
+1489
+01:12:31,700 --> 01:12:34,510
+Hanem vitte őtet és a partra tette,
+
+1490
+01:12:34,510 --> 01:12:37,880
+És azután utját visszafelé vette.
+
+1491
+01:12:39,340 --> 01:12:42,400
+Vége a huszonnegyedik fejezetnek
+
+1492
+01:12:42,400 --> 01:12:45,310
+Huszonötödik fejezet
+
+1493
+01:12:45,310 --> 01:12:48,600
+Tündérország első kapuját őrzötte
+
+1494
+01:12:48,600 --> 01:12:51,690
+Félrőfös körmökkel három szilaj medve.
+
+1495
+01:12:51,690 --> 01:12:54,470
+De fáradságosan János keze által
+
+1496
+01:12:54,470 --> 01:12:57,010
+Mind a három medve egy lett a halállal.
+
+1497
+01:12:57,010 --> 01:13:01,190
+„Ez elég lesz mára,” János ezt gondolta,
+
+1498
+01:13:01,190 --> 01:13:03,910
+Nagy munkája után egy padon nyugodva.
+
+1499
+01:13:03,910 --> 01:13:06,220
+„Ma ezen a helyen kissé megpihenek,
+
+1500
+01:13:06,220 --> 01:13:08,990
+Holnap egy kapuval ismét beljebb megyek.”
+
+1501
+01:13:08,990 --> 01:13:11,870
+És amint gondolta, akkép cselekedett,
+
+1502
+01:13:11,870 --> 01:13:14,290
+Második kapuhoz másnap közeledett.
+
+1503
+01:13:14,290 --> 01:13:16,920
+De már itt keményebb munka várt ám rája,
+
+1504
+01:13:16,920 --> 01:13:19,840
+Itt őrzőnek három vad oroszlán álla.
+
+1505
+01:13:19,840 --> 01:13:22,710
+Hát nekigyűrközik; a fenevadakra
+
+1506
+01:13:22,710 --> 01:13:25,760
+Ráront hatalmasan, kardját villogtatva;
+
+1507
+01:13:25,760 --> 01:13:28,790
+Védelmezték azok csunyául magokat,
+
+1508
+01:13:28,790 --> 01:13:31,660
+De csak mind a három élete megszakadt.
+
+1509
+01:13:31,660 --> 01:13:34,110
+Igen feltüzelte ez a győzedelem,
+
+1510
+01:13:34,110 --> 01:13:37,540
+Azért, mint tennap, most még csak meg sem pihen,
+
+1511
+01:13:37,540 --> 01:13:40,040
+De letörölve a sűrü verítéket,
+
+1512
+01:13:40,040 --> 01:13:42,560
+A harmadik kapu közelébe lépett.
+
+1513
+01:13:42,560 --> 01:13:44,150
+Uram ne hagyj el!
+
+1514
+01:13:44,150 --> 01:13:46,290
+itt volt ám szörnyű strázsa;
+
+1515
+01:13:46,290 --> 01:13:49,920
+Vért jéggé fagyasztó volt rémes látása.
+
+1516
+01:13:49,920 --> 01:13:52,970
+Egy nagy sárkánykígyó áll itt a kapuban;
+
+1517
+01:13:52,970 --> 01:13:55,780
+Elnyelne hat ökröt, akkora szája van.
+
+1518
+01:13:55,780 --> 01:13:58,870
+Bátorság dolgában helyén állott János,
+
+1519
+01:13:58,870 --> 01:14:01,990
+Találós ész sem volt őnála hiányos,
+
+1520
+01:14:01,990 --> 01:14:05,100
+Látta, hogy kardjával nem boldogúl itten,
+
+1521
+01:14:05,100 --> 01:14:07,950
+Más módot keresett hát, hogy bemehessen.
+
+1522
+01:14:07,950 --> 01:14:11,730
+A sárkánykígyó nagy száját feltátotta,
+
+1523
+01:14:11,730 --> 01:14:14,430
+Hogy Jánost egyszerre szerteszét harapja;
+
+1524
+01:14:14,430 --> 01:14:17,240
+S mit tesz ez, a dolog ilyen állásába’?
+
+1525
+01:14:17,240 --> 01:14:20,340
+Hirtelen beugrik a sárkány torkába.
+
+1526
+01:14:20,340 --> 01:14:23,330
+Sárkány derekában kereste a szívet,
+
+1527
+01:14:23,330 --> 01:14:25,990
+Ráakadt és bele kardvasat merített.
+
+1528
+01:14:25,990 --> 01:14:28,850
+A sárkány azonnal széjjelterpeszkedett,
+
+1529
+01:14:28,850 --> 01:14:31,970
+S kinyögte magából a megtört életet.
+
+1530
+01:14:31,970 --> 01:14:34,830
+Hej János vitéznek került sok bajába,
+
+1531
+01:14:34,830 --> 01:14:37,620
+Míg lyukat fúrhatott sárkány oldalába.
+
+1532
+01:14:37,620 --> 01:14:40,510
+Végtére kifurta, belőle kimászott,
+
+1533
+01:14:40,510 --> 01:14:44,220
+Kaput nyit, és látja szép Tündérországot.
+
+1534
+01:14:44,220 --> 01:14:48,280
+Vége a huszonötödik fejezetnek
+
+1535
+01:14:49,300 --> 01:14:51,390
+Huszonhatodik fejezet
+
+1536
+01:14:51,390 --> 01:14:54,630
+Tündérországban csak híre sincs a télnek,
+
+1537
+01:14:54,630 --> 01:14:57,490
+Ott örökös tavasz pompájában élnek;
+
+1538
+01:14:57,490 --> 01:15:00,760
+S nincsen ott nap kelte, nap lenyugovása,
+
+1539
+01:15:00,760 --> 01:15:03,950
+Örökös hajnalnak játszik pirossága.
+
+1540
+01:15:03,950 --> 01:15:06,720
+Benne tündérfiak és tündérleányok
+
+1541
+01:15:06,720 --> 01:15:10,020
+Halált nem ismerve élnek boldogságnak;
+
+1542
+01:15:10,020 --> 01:15:12,880
+Nem szükséges nekik sem étel, sem ital,
+
+1543
+01:15:12,880 --> 01:15:16,210
+Élnek a szerelem édes csókjaival.
+
+1544
+01:15:16,210 --> 01:15:18,910
+Nem sír ott a bánat, de a nagy örömtül
+
+1545
+01:15:18,910 --> 01:15:21,840
+Gyakran a tündérek szeméből könny gördül;
+
+1546
+01:15:21,840 --> 01:15:24,930
+Leszivárog a könny a föld mélységébe,
+
+1547
+01:15:24,930 --> 01:15:28,250
+És ennek méhében gyémánt lesz belőle.
+
+1548
+01:15:28,250 --> 01:15:31,160
+Szőke tündérlyányok sárga hajaikat
+
+1549
+01:15:31,160 --> 01:15:34,200
+Szálanként keresztülhúzzák a föld alatt;
+
+1550
+01:15:34,200 --> 01:15:36,810
+E szálakból válik az aranynak érce,
+
+1551
+01:15:36,810 --> 01:15:39,960
+Kincsleső emberek nem kis örömére.
+
+1552
+01:15:39,960 --> 01:15:42,750
+A tündérgyerekek ott szivárványt fonnak
+
+1553
+01:15:42,750 --> 01:15:45,510
+Szemsugarából a tündérleányoknak;
+
+1554
+01:15:45,510 --> 01:15:48,200
+Mikor a szivárványt jó hosszúra fonták,
+
+1555
+01:15:48,200 --> 01:15:51,280
+Ékesítik vele a felhős ég boltját.
+
+1556
+01:15:51,280 --> 01:15:54,250
+Van a tündéreknek virágnyoszolyája,
+
+1557
+01:15:54,250 --> 01:15:57,060
+Örömtől ittasan heverésznek rája;
+
+1558
+01:15:57,060 --> 01:16:00,150
+Illatterhes szellők lanyha fuvallatja
+
+1559
+01:16:00,150 --> 01:16:03,030
+Őket a nyoszolyán álomba ringatja.
+
+1560
+01:16:03,030 --> 01:16:05,910
+És amely világot álmaikban látnak,
+
+1561
+01:16:05,910 --> 01:16:08,780
+Tündérország még csak árnya e világnak.
+
+1562
+01:16:08,780 --> 01:16:11,690
+Ha a földi ember először lyányt ölel,
+
+1563
+01:16:11,690 --> 01:16:15,160
+Ennek az álomnak gyönyöre tölti el.
+
+1564
+01:16:16,780 --> 01:16:19,910
+Vége a huszonhatodik fejezetnek
+
+1565
+01:16:19,910 --> 01:16:22,860
+Huszonhetedik fejezet
+
+1566
+01:16:22,860 --> 01:16:26,120
+Hogy belépett János vitéz ez országba,
+
+1567
+01:16:26,120 --> 01:16:28,710
+Mindent, amit látott, csodálkozva láta.
+
+1568
+01:16:28,710 --> 01:16:32,050
+A rózsaszín fénytől kápráztak szemei,
+
+1569
+01:16:32,050 --> 01:16:35,030
+Alighogy merészelt körültekinteni.
+
+1570
+01:16:35,030 --> 01:16:37,970
+Meg nem futamodtak tőle a tündérek,
+
+1571
+01:16:37,970 --> 01:16:40,980
+Gyermekszelídséggel hozzá közelgének,
+
+1572
+01:16:40,980 --> 01:16:44,300
+Illeték őt nyájas enyelgő beszéddel,
+
+1573
+01:16:44,300 --> 01:16:47,480
+És a szigetbe őt mélyen vezették el.
+
+1574
+01:16:47,480 --> 01:16:50,480
+Amint János vitéz mindent megszemléle,
+
+1575
+01:16:50,480 --> 01:16:53,070
+S végtére álmából mintegy föleszméle:
+
+1576
+01:16:53,070 --> 01:16:56,340
+Kétségbeesés szállt szívének tájára,
+
+1577
+01:16:56,340 --> 01:16:59,450
+Mert eszébe jutott kedves Iluskája.
+
+1578
+01:16:59,450 --> 01:17:02,850
+„Itt hát, hol országa van a szerelemnek,
+
+1579
+01:17:02,850 --> 01:17:05,630
+Az életen által én egyedül menjek?
+
+1580
+01:17:05,630 --> 01:17:08,210
+Amerre tekintek, azt mutassa minden,
+
+1581
+01:17:08,210 --> 01:17:11,400
+Hogy boldogság csak az én szívemben nincsen?”
+
+1582
+01:17:11,400 --> 01:17:14,520
+Tündérországnak egy tó állott közepén,
+
+1583
+01:17:14,520 --> 01:17:17,360
+János vitéz búsan annak partjára mén,
+
+1584
+01:17:17,360 --> 01:17:20,520
+S a rózsát, mely sírján termett kedvesének,
+
+1585
+01:17:20,520 --> 01:17:23,670
+Levette kebléről, s ekkép szólítá meg:
+
+1586
+01:17:23,670 --> 01:17:25,410
+„Te egyetlen kincsem!
+
+1587
+01:17:25,410 --> 01:17:27,100
+hamva kedvesemnek!
+
+1588
+01:17:27,100 --> 01:17:29,880
+Mutasd meg az utat, én is majd követlek.”
+
+1589
+01:17:29,880 --> 01:17:32,730
+S beveté a rózsát a tónak habjába;
+
+1590
+01:17:32,730 --> 01:17:36,260
+Nem sok híja volt, hogy ő is ment utána...
+
+1591
+01:17:36,260 --> 01:17:37,170
+De csodák csodája!
+
+1592
+01:17:37,170 --> 01:17:38,760
+mit látott, mit látott!
+
+1593
+01:17:38,760 --> 01:17:41,380
+Látta Iluskává válni a virágot.
+
+1594
+01:17:41,380 --> 01:17:43,890
+Eszeveszettséggel rohant a habokba,
+
+1595
+01:17:43,890 --> 01:17:46,870
+S a föltámadt leányt kiszabadította.
+
+1596
+01:17:46,870 --> 01:17:49,820
+Hát az élet vize volt ez a tó itten,
+
+1597
+01:17:49,820 --> 01:17:53,000
+Mindent föltámasztó, ahova csak cseppen.
+
+1598
+01:17:53,000 --> 01:17:55,790
+Iluska porából nőtt ki az a rózsa,
+
+1599
+01:17:55,790 --> 01:17:58,220
+Igy halottaiból őt föltámasztotta.
+
+1600
+01:17:58,220 --> 01:18:01,970
+Mindent el tudnék én beszélni ékesen,
+
+1601
+01:18:01,970 --> 01:18:04,930
+Csak János vitéznek akkori kedvét nem,
+
+1602
+01:18:04,930 --> 01:18:07,600
+Mikor Iluskáját a vizből kihozta,
+
+1603
+01:18:07,600 --> 01:18:10,880
+S rég szomjas ajakán égett első csókja.
+
+1604
+01:18:10,880 --> 01:18:12,840
+Be szép volt Iluska!
+
+1605
+01:18:12,840 --> 01:18:13,930
+a tündérleányok
+
+1606
+01:18:13,930 --> 01:18:16,630
+Gyönyörködő szemmel mind rábámulának;
+
+1607
+01:18:16,630 --> 01:18:19,620
+Őt királynéjoknak meg is választották,
+
+1608
+01:18:19,620 --> 01:18:22,340
+A tündérfiak meg Jánost királyokká.
+
+1609
+01:18:22,340 --> 01:18:24,790
+A tündérnemzetség gyönyörű körében
+
+1610
+01:18:24,790 --> 01:18:27,620
+S kedves Iluskája szerető ölében
+
+1611
+01:18:27,620 --> 01:18:29,810
+Mai napig János vitéz őkegyelme
+
+1612
+01:18:29,810 --> 01:18:33,420
+Szép Tündérországnak boldog fejedelme.
+
+1613
+01:18:34,900 --> 01:18:37,180
+Vége a huszonhetedik fejezetnek
+
+1614
+01:18:37,180 --> 01:18:41,800
+Vége a
+János Vitéznek
+írta
+Petőfi Sándor
+
+1615
+01:18:45,820 --> 01:18:46,820
+
+
