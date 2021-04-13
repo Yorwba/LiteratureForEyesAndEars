@@ -11,7 +11,7 @@
         }
       ],
       "copyright_year": "1925",
-      "description": "《热风》是鲁迅的第一本杂文集，收录了41篇他于1918－1924年间发表的短文。这些文章长短不一，题材广泛，灵活多变，风格辛辣尖锐，大大发展重塑了杂文这一文学体裁，在新文化运动中起了重要作用。<BR><BR>\nThis is the first collection of short essays/commentaries by Lu Xun. It contains 41 articles he published between 1918-1924. Sharp, poignant, varying vastly on their topic, length, and style, these articles redefined the genre of \"essay\" in Chinese literature, as well as played an important part in the new cultural movement.  (Summary by Jing Li)",
+      "description": "《熱風》是魯迅的第一本雜文集，收錄了41篇他於1918－1924年間發表的短文。這些文章長短不一，題材廣泛，靈活多變，風格辛辣尖銳，大大發展重塑了雜文這一文學體裁，在新文化運動中起了重要作用。<BR><BR>\nThis is the first collection of short essays/commentaries by Lu Xun. It contains 41 articles he published between 1918-1924. Sharp, poignant, varying vastly on their topic, length, and style, these articles redefined the genre of \"essay\" in Chinese literature, as well as played an important part in the new cultural movement.  (Summary by Jing Li)",
       "genres": [
         {
           "id": "84",
@@ -23,9 +23,8 @@
       "num_sections": "42",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "hotwind_01_lu_64kb.mp3",
           "id": "85780",
-          "language": "English",
           "listen_url": "",
           "playtime": "259",
           "readers": [
@@ -35,12 +34,12 @@
             }
           ],
           "section_number": "1",
-          "title": "ti ji (题记)"
+          "title": "題記",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%A1%8C%E8%A8%98"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_02_lu_64kb.mp3",
           "id": "85781",
-          "language": "English",
           "listen_url": "",
           "playtime": "228",
           "readers": [
@@ -50,12 +49,12 @@
             }
           ],
           "section_number": "2",
-          "title": "sui gan lu 25 (随感录二十五)"
+          "title": "隨感錄二十五",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E9%9A%A8%E6%84%9F%E9%8C%84%E4%BA%8C%E5%8D%81%E4%BA%94"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_03_lu_64kb.mp3",
           "id": "85782",
-          "language": "English",
           "listen_url": "",
           "playtime": "578",
           "readers": [
@@ -65,12 +64,12 @@
             }
           ],
           "section_number": "3",
-          "title": "sui gan lu 33 (随感录三十三)"
+          "title": "隨感錄三十三",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%B8%89%E5%8D%81%E4%B8%89"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_04_lu_64kb.mp3",
           "id": "85783",
-          "language": "English",
           "listen_url": "",
           "playtime": "151",
           "readers": [
@@ -80,12 +79,12 @@
             }
           ],
           "section_number": "4",
-          "title": "sui gan lu 35 (随感录三十五)"
+          "title": "隨感錄三十五",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%B8%89%E5%8D%81%E4%BA%94"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_05_lu_64kb.mp3",
           "id": "85784",
-          "language": "English",
           "listen_url": "",
           "playtime": "91",
           "readers": [
@@ -95,12 +94,12 @@
             }
           ],
           "section_number": "5",
-          "title": "sui gan lu 36 (随感录三十六)"
+          "title": "隨感錄三十六",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%B8%89%E5%8D%81%E5%85%AD"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_06_lu_64kb.mp3",
           "id": "85785",
-          "language": "English",
           "listen_url": "",
           "playtime": "139",
           "readers": [
@@ -110,12 +109,12 @@
             }
           ],
           "section_number": "6",
-          "title": "sui gan lu 37 (随感录三十七)"
+          "title": "隨感錄三十七",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%B8%89%E5%8D%81%E4%B8%83"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_07_lu_64kb.mp3",
           "id": "85786",
-          "language": "English",
           "listen_url": "",
           "playtime": "459",
           "readers": [
@@ -125,12 +124,12 @@
             }
           ],
           "section_number": "7",
-          "title": "sui gan lu 38 (随感录三十八)"
+          "title": "隨感錄三十八",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%B8%89%E5%8D%81%E5%85%AB"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_08_lu_64kb.mp3",
           "id": "85787",
-          "language": "English",
           "listen_url": "",
           "playtime": "282",
           "readers": [
@@ -140,12 +139,12 @@
             }
           ],
           "section_number": "8",
-          "title": " sui gan lu 39 (随感录三十九)"
+          "title": "隨感錄三十九",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%B8%89%E5%8D%81%E4%B9%9D"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_09_lu_64kb.mp3",
           "id": "85788",
-          "language": "English",
           "listen_url": "",
           "playtime": "239",
           "readers": [
@@ -155,12 +154,12 @@
             }
           ],
           "section_number": "9",
-          "title": "sui gan lu 40 (随感录四十)"
+          "title": "隨感錄四十",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_10_lu_64kb.mp3",
           "id": "85789",
-          "language": "English",
           "listen_url": "",
           "playtime": "251",
           "readers": [
@@ -170,12 +169,12 @@
             }
           ],
           "section_number": "10",
-          "title": "sui gan lu 41 (随感录四十一)"
+          "title": "隨感錄四十一",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81%E4%B8%80"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_11_lu_64kb.mp3",
           "id": "85790",
-          "language": "English",
           "listen_url": "",
           "playtime": "190",
           "readers": [
@@ -185,12 +184,12 @@
             }
           ],
           "section_number": "11",
-          "title": "sui gan lu 42 (随感录四十二)"
+          "title": "隨感錄四十二",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81%E4%BA%8C"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_12_lu_64kb.mp3",
           "id": "85791",
-          "language": "English",
           "listen_url": "",
           "playtime": "142",
           "readers": [
@@ -200,12 +199,12 @@
             }
           ],
           "section_number": "12",
-          "title": "sui gan lu 43  (随感录四十三)"
+          "title": "隨感錄四十三",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81%E4%B8%89"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_13_lu_64kb.mp3",
           "id": "85792",
-          "language": "English",
           "listen_url": "",
           "playtime": "189",
           "readers": [
@@ -215,12 +214,12 @@
             }
           ],
           "section_number": "13",
-          "title": "sui gan lu 46 (随感录四十六)"
+          "title": "隨感錄四十六",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81%E5%85%AD"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_14_lu_64kb.mp3",
           "id": "85793",
-          "language": "English",
           "listen_url": "",
           "playtime": "90",
           "readers": [
@@ -230,12 +229,12 @@
             }
           ],
           "section_number": "14",
-          "title": "sui gan lu 47 (随感录四十七)"
+          "title": "隨感錄四十七",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81%E4%B8%83"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_15_lu_64kb.mp3",
           "id": "85794",
-          "language": "English",
           "listen_url": "",
           "playtime": "151",
           "readers": [
@@ -245,12 +244,12 @@
             }
           ],
           "section_number": "15",
-          "title": "sui gan lu 48 (随感录四十八)"
+          "title": "隨感錄四十八",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81%E5%85%AB"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_16_lu_64kb.mp3",
           "id": "85795",
-          "language": "English",
           "listen_url": "",
           "playtime": "165",
           "readers": [
@@ -260,12 +259,12 @@
             }
           ],
           "section_number": "16",
-          "title": " sui gan lu 49 (随感录四十九)"
+          "title": "隨感錄四十九",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%9B%9B%E5%8D%81%E4%B9%9D"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_17_lu_64kb.mp3",
           "id": "85796",
-          "language": "English",
           "listen_url": "",
           "playtime": "251",
           "readers": [
@@ -275,12 +274,12 @@
             }
           ],
           "section_number": "17",
-          "title": "sui gan lu 53 (随感录五十三）"
+          "title": "隨感錄五十三",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%BA%94%E5%8D%81%E4%B8%89"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_18_lu_64kb.mp3",
           "id": "85797",
-          "language": "English",
           "listen_url": "",
           "playtime": "195",
           "readers": [
@@ -290,12 +289,12 @@
             }
           ],
           "section_number": "18",
-          "title": "sui gan lu 54 (随感录五十四)"
+          "title": "隨感錄五十四",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%BA%94%E5%8D%81%E5%9B%9B"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_19_lu_64kb.mp3",
           "id": "85798",
-          "language": "English",
           "listen_url": "",
           "playtime": "150",
           "readers": [
@@ -305,12 +304,12 @@
             }
           ],
           "section_number": "19",
-          "title": "sui gan lu 56 \"lai le\" (随感录五十六  “来了”)"
+          "title": "隨感錄五十六  “來了”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%BA%94%E5%8D%81%E5%85%AD"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_20_lu_64kb.mp3",
           "id": "85799",
-          "language": "English",
           "listen_url": "",
           "playtime": "88",
           "readers": [
@@ -320,12 +319,12 @@
             }
           ],
           "section_number": "20",
-          "title": "sui gan lu 57 xian zai de tu sha zhe (随感录五十七 现在的屠杀者)"
+          "title": "隨感錄五十七 現在的屠殺者",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%BA%94%E5%8D%81%E4%B8%83"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_21_lu_64kb.mp3",
           "id": "85800",
-          "language": "English",
           "listen_url": "",
           "playtime": "172",
           "readers": [
@@ -335,12 +334,12 @@
             }
           ],
           "section_number": "21",
-          "title": "sui gan lu 58 ren xin hen gu (随感录五十八 人心很古)"
+          "title": "隨感錄五十八 人心很古",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%BA%94%E5%8D%81%E5%85%AB"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_22_lu_64kb.mp3",
           "id": "85801",
-          "language": "English",
           "listen_url": "",
           "playtime": "325",
           "readers": [
@@ -350,12 +349,12 @@
             }
           ],
           "section_number": "22",
-          "title": "sui gan lu 59 \"sheng wu\" (随感录五十九 “圣武”)"
+          "title": "隨感錄五十九 “聖武”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E4%BA%94%E5%8D%81%E4%B9%9D"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_23_lu_64kb.mp3",
           "id": "85802",
-          "language": "English",
           "listen_url": "",
           "playtime": "156",
           "readers": [
@@ -365,12 +364,12 @@
             }
           ],
           "section_number": "23",
-          "title": "sui gan lu 61 bu man (随感录六十一 不满)"
+          "title": "隨感錄六十一 不滿",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%85%AD%E5%8D%81%E4%B8%80"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_24_lu_64kb.mp3",
           "id": "85803",
-          "language": "English",
           "listen_url": "",
           "playtime": "123",
           "readers": [
@@ -380,12 +379,12 @@
             }
           ],
           "section_number": "24",
-          "title": "sui gan lu 62 hen hen er si （随感录六十二 恨恨而死）"
+          "title": "隨感錄六十二 恨恨而死",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%85%AD%E5%8D%81%E4%BA%8C"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_25_lu_64kb.mp3",
           "id": "85804",
-          "language": "English",
           "listen_url": "",
           "playtime": "166",
           "readers": [
@@ -395,12 +394,12 @@
             }
           ],
           "section_number": "25",
-          "title": "sui gan lu 63 \"yu you zhe\" （随感录六十三 “与幼者”）"
+          "title": "隨感錄六十三 “與幼者”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%85%AD%E5%8D%81%E4%B8%89"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_26_lu_64kb.mp3",
           "id": "85805",
-          "language": "English",
           "listen_url": "",
           "playtime": "104",
           "readers": [
@@ -410,12 +409,12 @@
             }
           ],
           "section_number": "26",
-          "title": "sui gan lu 64 you wu xiang tong （随感录六十四 有无相通）"
+          "title": "隨感錄六十四 有無相通",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%85%AD%E5%8D%81%E5%9B%9B"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_27_lu_64kb.mp3",
           "id": "85806",
-          "language": "English",
           "listen_url": "",
           "playtime": "84",
           "readers": [
@@ -425,12 +424,12 @@
             }
           ],
           "section_number": "27",
-          "title": "sui gan lu 65 bao jun de chen min （随感录六十五 暴君的臣民）"
+          "title": "隨感錄六十五 暴君的臣民",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%85%AD%E5%8D%81%E4%BA%94"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_28_lu_64kb.mp3",
           "id": "85807",
-          "language": "English",
           "listen_url": "",
           "playtime": "108",
           "readers": [
@@ -440,12 +439,12 @@
             }
           ],
           "section_number": "28",
-          "title": "sui gan lu 66 sheng ming de lu （随感录六十六 生命的路）"
+          "title": "隨感錄六十六 生命的路",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8/%E9%9A%A8%E6%84%9F%E9%8C%84/%E5%85%AD%E5%8D%81%E5%85%AD"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_29_lu_64kb.mp3",
           "id": "85808",
-          "language": "English",
           "listen_url": "",
           "playtime": "410",
           "readers": [
@@ -455,12 +454,12 @@
             }
           ],
           "section_number": "29",
-          "title": "zhi shi ji zui e （智识即罪恶）"
+          "title": "智識即罪惡",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E6%99%BA%E8%AD%98%E5%8D%B3%E7%BD%AA%E6%83%A1"
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_30_lu_64kb.mp3",
           "id": "85809",
-          "language": "English",
           "listen_url": "",
           "playtime": "74",
           "readers": [
@@ -470,12 +469,13 @@
             }
           ],
           "section_number": "30",
-          "title": "shi shi sheng yu xiong bian (事实胜于雄辩）"
+          "title": "事實勝於雄辯",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E4%BA%8B%E5%AF%A6%E5%8B%9D%E6%96%BC%E9%9B%84%E8%BE%AF"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_31_lu_64kb.mp3",
           "id": "85810",
-          "language": "English",
           "listen_url": "",
           "playtime": "393",
           "readers": [
@@ -485,12 +485,13 @@
             }
           ],
           "section_number": "31",
-          "title": "gu \"xue heng\" (估《学衡》）"
+          "title": "估《學衡》",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E4%BC%B0%E3%80%8A%E5%AD%B8%E8%A1%A1%E3%80%8B"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_32_lu_64kb.mp3",
           "id": "85811",
-          "language": "English",
           "listen_url": "",
           "playtime": "169",
           "readers": [
@@ -500,12 +501,13 @@
             }
           ],
           "section_number": "32",
-          "title": "wei \"e guo ge ju tuan\" (为“俄国歌剧团”）"
+          "title": "為“俄國歌劇團”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%82%BA%E3%80%8C%E4%BF%84%E5%9C%8B%E6%AD%8C%E5%8A%87%E5%9C%98%E3%80%8D"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_33_lu_64kb.mp3",
           "id": "85812",
-          "language": "English",
           "listen_url": "",
           "playtime": "142",
           "readers": [
@@ -515,12 +517,13 @@
             }
           ],
           "section_number": "33",
-          "title": "wu ti (无题）"
+          "title": "無題",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E7%84%A1%E9%A1%8C_(%E3%80%8A%E7%86%B1%E9%A2%A8%E3%80%8B)"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_34_lu_64kb.mp3",
           "id": "85813",
-          "language": "English",
           "listen_url": "",
           "playtime": "124",
           "readers": [
@@ -530,12 +533,13 @@
             }
           ],
           "section_number": "34",
-          "title": "\"yi zhen qi jian shen\" (“以震其艰深”）"
+          "title": "“以震其艱深”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E3%80%8C%E4%BB%A5%E9%9C%87%E5%85%B6%E8%89%B1%E6%B7%B1%E3%80%8D"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_35_lu_64kb.mp3",
           "id": "85814",
-          "language": "English",
           "listen_url": "",
           "playtime": "173",
           "readers": [
@@ -545,12 +549,13 @@
             }
           ],
           "section_number": "35",
-          "title": "suo wei \"guo xue\" (所谓“国学”）"
+          "title": "所謂“國學”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E6%89%80%E8%AC%82%E3%80%8C%E5%9C%8B%E5%AD%B8%E3%80%8D"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_36_lu_64kb.mp3",
           "id": "85815",
-          "language": "English",
           "listen_url": "",
           "playtime": "86",
           "readers": [
@@ -560,12 +565,13 @@
             }
           ],
           "section_number": "36",
-          "title": "er ge de \"fan dong\" (儿歌的“反动”）"
+          "title": "兒歌的“反動”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E5%85%92%E6%AD%8C%E7%9A%84%E3%80%8C%E5%8F%8D%E5%8B%95%E3%80%8D"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_37_lu_64kb.mp3",
           "id": "85816",
-          "language": "English",
           "listen_url": "",
           "playtime": "266",
           "readers": [
@@ -575,12 +581,13 @@
             }
           ],
           "section_number": "37",
-          "title": "\"yi shi zhi xue shuo\" (“一是之学说”）"
+          "title": "“一是之學說”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E3%80%8C%E4%B8%80%E6%98%AF%E4%B9%8B%E5%AD%B8%E8%AA%AA%E3%80%8D"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_38_lu_64kb.mp3",
           "id": "85817",
-          "language": "English",
           "listen_url": "",
           "playtime": "375",
           "readers": [
@@ -590,12 +597,13 @@
             }
           ],
           "section_number": "38",
-          "title": "bu dong de yin yi (不懂的音译）"
+          "title": "不懂的音譯",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E4%B8%8D%E6%87%82%E7%9A%84%E9%9F%B3%E8%AD%AF"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_39_lu_64kb.mp3",
           "id": "85818",
-          "language": "English",
           "listen_url": "",
           "playtime": "207",
           "readers": [
@@ -605,12 +613,13 @@
             }
           ],
           "section_number": "39",
-          "title": "dui yu pi ping jia de xi wang (对于批评家的希望）"
+          "title": "對於批評家的希望",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E5%B0%8D%E4%BA%8E%E6%89%B9%E8%A9%95%E5%AE%B6%E7%9A%84%E5%B8%8C%E6%9C%9B"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_40_lu_64kb.mp3",
           "id": "85819",
-          "language": "English",
           "listen_url": "",
           "playtime": "288",
           "readers": [
@@ -620,12 +629,13 @@
             }
           ],
           "section_number": "40",
-          "title": "fan dui \"han lei\" de pi ping jia (反对“含泪”的批评家）"
+          "title": "反對“含淚”的批評家",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E5%8F%8D%E5%B0%8D%E3%80%8C%E5%90%AB%E6%B7%9A%E3%80%8D%E7%9A%84%E6%89%B9%E8%A9%95%E5%AE%B6"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_41_lu_64kb.mp3",
           "id": "85820",
-          "language": "English",
           "listen_url": "",
           "playtime": "208",
           "readers": [
@@ -635,12 +645,13 @@
             }
           ],
           "section_number": "41",
-          "title": "wang wu \"jiu zheng\" (望勿“纠正”）"
+          "title": "望勿“糾正”",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E6%9C%9B%E5%8B%BF%E3%80%8C%E7%B3%BE%E6%AD%A3%E3%80%8D"
+
         },
         {
-          "file_name": null,
+          "file_name": "hotwind_42_lu_64kb.mp3",
           "id": "85821",
-          "language": "English",
           "listen_url": "",
           "playtime": "84",
           "readers": [
@@ -650,10 +661,12 @@
             }
           ],
           "section_number": "42",
-          "title": "ji xiao jian da (即小见大）"
+          "title": "即小見大",
+          "url_text_source": "https://zh.wikisource.org/wiki/%E5%8D%B3%E5%B0%8F%E8%A6%8B%E5%A4%A7"
+
         }
       ],
-      "title": "热风 (Hot Wind)",
+      "title": "熱風",
       "totaltime": "2:22:05",
       "totaltimesecs": 8525,
       "translators": [],
@@ -662,7 +675,7 @@
       "url_other": "",
       "url_project": "",
       "url_rss": "https://librivox.org/rss/6224",
-      "url_text_source": "http://www.xys.org/pages/luxun.html",
+      "url_text_source": "https://zh.wikisource.org/wiki/%E7%86%B1%E9%A2%A8",
       "url_zip_file": "http://www.archive.org/download/hot_wind_1204_librivox/hot_wind_1204_librivox_64kb_mp3.zip"
     }
   ]
