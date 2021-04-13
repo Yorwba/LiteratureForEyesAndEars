@@ -1,0 +1,669 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1881",
+          "dod": "1936",
+          "first_name": "Xun",
+          "id": "2654",
+          "last_name": "Lu"
+        }
+      ],
+      "copyright_year": "1925",
+      "description": "《热风》是鲁迅的第一本杂文集，收录了41篇他于1918－1924年间发表的短文。这些文章长短不一，题材广泛，灵活多变，风格辛辣尖锐，大大发展重塑了杂文这一文学体裁，在新文化运动中起了重要作用。<BR><BR>\nThis is the first collection of short essays/commentaries by Lu Xun. It contains 41 articles he published between 1918-1924. Sharp, poignant, varying vastly on their topic, length, and style, these articles redefined the genre of \"essay\" in Chinese literature, as well as played an important part in the new cultural movement.  (Summary by Jing Li)",
+      "genres": [
+        {
+          "id": "84",
+          "name": "Essays & Short Works"
+        }
+      ],
+      "id": "6224",
+      "language": "Chinese",
+      "num_sections": "42",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "85780",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "259",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "1",
+          "title": "ti ji (题记)"
+        },
+        {
+          "file_name": null,
+          "id": "85781",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "228",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "2",
+          "title": "sui gan lu 25 (随感录二十五)"
+        },
+        {
+          "file_name": null,
+          "id": "85782",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "578",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "3",
+          "title": "sui gan lu 33 (随感录三十三)"
+        },
+        {
+          "file_name": null,
+          "id": "85783",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "151",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "4",
+          "title": "sui gan lu 35 (随感录三十五)"
+        },
+        {
+          "file_name": null,
+          "id": "85784",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "91",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "5",
+          "title": "sui gan lu 36 (随感录三十六)"
+        },
+        {
+          "file_name": null,
+          "id": "85785",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "139",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "6",
+          "title": "sui gan lu 37 (随感录三十七)"
+        },
+        {
+          "file_name": null,
+          "id": "85786",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "459",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "7",
+          "title": "sui gan lu 38 (随感录三十八)"
+        },
+        {
+          "file_name": null,
+          "id": "85787",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "282",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "8",
+          "title": " sui gan lu 39 (随感录三十九)"
+        },
+        {
+          "file_name": null,
+          "id": "85788",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "239",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "9",
+          "title": "sui gan lu 40 (随感录四十)"
+        },
+        {
+          "file_name": null,
+          "id": "85789",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "251",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "10",
+          "title": "sui gan lu 41 (随感录四十一)"
+        },
+        {
+          "file_name": null,
+          "id": "85790",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "190",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "11",
+          "title": "sui gan lu 42 (随感录四十二)"
+        },
+        {
+          "file_name": null,
+          "id": "85791",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "142",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "12",
+          "title": "sui gan lu 43  (随感录四十三)"
+        },
+        {
+          "file_name": null,
+          "id": "85792",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "189",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "13",
+          "title": "sui gan lu 46 (随感录四十六)"
+        },
+        {
+          "file_name": null,
+          "id": "85793",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "90",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "14",
+          "title": "sui gan lu 47 (随感录四十七)"
+        },
+        {
+          "file_name": null,
+          "id": "85794",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "151",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "15",
+          "title": "sui gan lu 48 (随感录四十八)"
+        },
+        {
+          "file_name": null,
+          "id": "85795",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "165",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "16",
+          "title": " sui gan lu 49 (随感录四十九)"
+        },
+        {
+          "file_name": null,
+          "id": "85796",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "251",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "17",
+          "title": "sui gan lu 53 (随感录五十三）"
+        },
+        {
+          "file_name": null,
+          "id": "85797",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "195",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "18",
+          "title": "sui gan lu 54 (随感录五十四)"
+        },
+        {
+          "file_name": null,
+          "id": "85798",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "150",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "19",
+          "title": "sui gan lu 56 \"lai le\" (随感录五十六  “来了”)"
+        },
+        {
+          "file_name": null,
+          "id": "85799",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "88",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "20",
+          "title": "sui gan lu 57 xian zai de tu sha zhe (随感录五十七 现在的屠杀者)"
+        },
+        {
+          "file_name": null,
+          "id": "85800",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "172",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "21",
+          "title": "sui gan lu 58 ren xin hen gu (随感录五十八 人心很古)"
+        },
+        {
+          "file_name": null,
+          "id": "85801",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "325",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "22",
+          "title": "sui gan lu 59 \"sheng wu\" (随感录五十九 “圣武”)"
+        },
+        {
+          "file_name": null,
+          "id": "85802",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "156",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "23",
+          "title": "sui gan lu 61 bu man (随感录六十一 不满)"
+        },
+        {
+          "file_name": null,
+          "id": "85803",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "123",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "24",
+          "title": "sui gan lu 62 hen hen er si （随感录六十二 恨恨而死）"
+        },
+        {
+          "file_name": null,
+          "id": "85804",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "166",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "25",
+          "title": "sui gan lu 63 \"yu you zhe\" （随感录六十三 “与幼者”）"
+        },
+        {
+          "file_name": null,
+          "id": "85805",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "104",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "26",
+          "title": "sui gan lu 64 you wu xiang tong （随感录六十四 有无相通）"
+        },
+        {
+          "file_name": null,
+          "id": "85806",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "84",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "27",
+          "title": "sui gan lu 65 bao jun de chen min （随感录六十五 暴君的臣民）"
+        },
+        {
+          "file_name": null,
+          "id": "85807",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "108",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "28",
+          "title": "sui gan lu 66 sheng ming de lu （随感录六十六 生命的路）"
+        },
+        {
+          "file_name": null,
+          "id": "85808",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "410",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "29",
+          "title": "zhi shi ji zui e （智识即罪恶）"
+        },
+        {
+          "file_name": null,
+          "id": "85809",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "74",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "30",
+          "title": "shi shi sheng yu xiong bian (事实胜于雄辩）"
+        },
+        {
+          "file_name": null,
+          "id": "85810",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "393",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "31",
+          "title": "gu \"xue heng\" (估《学衡》）"
+        },
+        {
+          "file_name": null,
+          "id": "85811",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "169",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "32",
+          "title": "wei \"e guo ge ju tuan\" (为“俄国歌剧团”）"
+        },
+        {
+          "file_name": null,
+          "id": "85812",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "142",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "33",
+          "title": "wu ti (无题）"
+        },
+        {
+          "file_name": null,
+          "id": "85813",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "124",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "34",
+          "title": "\"yi zhen qi jian shen\" (“以震其艰深”）"
+        },
+        {
+          "file_name": null,
+          "id": "85814",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "173",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "35",
+          "title": "suo wei \"guo xue\" (所谓“国学”）"
+        },
+        {
+          "file_name": null,
+          "id": "85815",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "86",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "36",
+          "title": "er ge de \"fan dong\" (儿歌的“反动”）"
+        },
+        {
+          "file_name": null,
+          "id": "85816",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "266",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "37",
+          "title": "\"yi shi zhi xue shuo\" (“一是之学说”）"
+        },
+        {
+          "file_name": null,
+          "id": "85817",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "375",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "38",
+          "title": "bu dong de yin yi (不懂的音译）"
+        },
+        {
+          "file_name": null,
+          "id": "85818",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "207",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "39",
+          "title": "dui yu pi ping jia de xi wang (对于批评家的希望）"
+        },
+        {
+          "file_name": null,
+          "id": "85819",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "288",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "40",
+          "title": "fan dui \"han lei\" de pi ping jia (反对“含泪”的批评家）"
+        },
+        {
+          "file_name": null,
+          "id": "85820",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "208",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "41",
+          "title": "wang wu \"jiu zheng\" (望勿“纠正”）"
+        },
+        {
+          "file_name": null,
+          "id": "85821",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "84",
+          "readers": [
+            {
+              "display_name": "Jing Li",
+              "reader_id": "6865"
+            }
+          ],
+          "section_number": "42",
+          "title": "ji xiao jian da (即小见大）"
+        }
+      ],
+      "title": "热风 (Hot Wind)",
+      "totaltime": "2:22:05",
+      "totaltimesecs": 8525,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/hot_wind_1204_librivox",
+      "url_librivox": "https://librivox.org/hot-wind-by-lu-xun/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/6224",
+      "url_text_source": "http://www.xys.org/pages/luxun.html",
+      "url_zip_file": "http://www.archive.org/download/hot_wind_1204_librivox/hot_wind_1204_librivox_64kb_mp3.zip"
+    }
+  ]
+}
