@@ -124,28 +124,32 @@ def longest_common_prefix(strings):
         i += 1
 
 
-def load_dictionary(lines):
+def load_dictionary(lines, reverse=False):
     dictionary = TransNode()
     for line in lines:
         if line.startswith('#'):
             continue
         read, write, _ = line.split(' ', 2)
+        if reverse:
+            read, write = write, read
         dictionary.add_entry(read, write)
     return dictionary
 
 
 dictionaries = {
-    'cmn-Hans': 'data/cc-cedict.txt',
+    'cmn-Hans': {'file': 'data/cc-cedict.txt', 'reverse': False},
+    'cmn-Hant': {'file': 'data/cc-cedict.txt', 'reverse': True },
 }
 
 target_functions = {
     'cmn-Hans': re.compile('[\u3005-\u3007\u3021-\u3029\u3031-\u3035\u3038-\u303C\u3220-\u3229\u3248-\u324F\u3251-\u325F\u3280-\u3289\u32B1-\u32BF\u3400-\u4DB5\u4E00-\u9FEA\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002CEB0-\U0002EBE0\U0002F800-\U0002FA1D]').fullmatch, # CJK according to https://stackoverflow.com/a/48673340
+    'cmn-Hant': re.compile('[\u3005-\u3007\u3021-\u3029\u3031-\u3035\u3038-\u303C\u3220-\u3229\u3248-\u324F\u3251-\u325F\u3280-\u3289\u32B1-\u32BF\u3400-\u4DB5\u4E00-\u9FEA\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002CEB0-\U0002EBE0\U0002F800-\U0002FA1D]').fullmatch, # CJK according to https://stackoverflow.com/a/48673340
 }
 
 
 def transliterate(read, target):
-    with open(dictionaries[target]) as f:
-        dictionary = load_dictionary(f)
+    with open(dictionaries[target]['file']) as f:
+        dictionary = load_dictionary(f, reverse=dictionaries[target]['reverse'])
 
     target = target_functions.get(target)
     # do a test run first
