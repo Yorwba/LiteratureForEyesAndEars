@@ -1,0 +1,343 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "This is a collection of short pieces, poetry or prose, fiction and non-fiction, in several different languages (except standard English). All chosen and recorded by Librivox volunteers. \n<br><br>\n01 -  Brazilian Portuguese - A Camões - key words: poetry, fiction, creator of the Ultra-Romanticism in Portugal <br>\n02 - French - A quoi bon entendre - key words: poetry, love <br>\n03 - French - A quoi je songe - key words: poetry <br>\n04 - German - Psalm der Freude - key words: poetry <br>\n05 - German - Waldeinsamkeit - key words: poem <br>\n06 - Italian - Adelchi, Coro dell'atto I <br>\n07 - Italian - La dama bianca - key words: prose, Sardinian short novel, supernatural, fantastic story based on real facts and dreams, Sardinian landscape <br>\n08 - Italian - L'assiuolo - key words: poetry, symbolism <br>\n09 - Italian - Sestina 1 - key words: poem <br>\n10 - Luxembourgish - Hir Usîcht, séng Aussîcht - key words: poem, relationship, marriage, satire <br>\n11 - Polish - Kruk - key words: poezja <br>\n12 - Romanian - Apolon în Delos - key words: legends, Greek mythology, Apollo <br>\n13 - Romanian - Clăcașii - key words: poetry <br>\n14 - Romanian - Dimineața - key words: poetry <br>\n15 - Romanian - Epimeteu și Pandora - key words: legends, Greek mythology, Zeus, Pandora, Epimetheus <br>\n16 - Romanian - Lăutarul - key words: poetry <br>\n17 - Romanian - Posidon și Atena - key words: legends, Greek mythology, Poseidon, Athena <br>\n18 - Romanian - Tinerețe fără bătrânețe și viață fără de moarte - key words: prose, fairy tale, fantastic fiction <br>\n19 - Spanish - Los ojos de Judas - key words: Los ojos de judas, Abraham Valdelomar, Pisco, Semana santa <br>\n20 - Ukrainian - Contra spem spero - key words: poetry",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        },
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "12467",
+      "language": "Multilingual",
+      "num_sections": "20",
+      "sections": [
+        {
+          "file_name": "msw019_01_acamoes_passos_as_64kb.mp3",
+          "id": "419154",
+          "language": "Portuguese",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_acamoes_passos_as_64kb.mp3",
+          "playtime": "520",
+          "readers": [
+            {
+              "display_name": "Adriana Sacciotto",
+              "reader_id": "12249"
+            }
+          ],
+          "section_number": "1",
+          "title": "Brazilian Portuguese - A Camões"
+        },
+        {
+          "file_name": "msw019_02_aquoibonentendre_hugo_adr_64kb.mp3",
+          "id": "419159",
+          "language": "French",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_aquoibonentendre_hugo_adr_64kb.mp3",
+          "playtime": "57",
+          "readers": [
+            {
+              "display_name": "April6090",
+              "reader_id": "10995"
+            }
+          ],
+          "section_number": "2",
+          "title": "French - A quoi bon entendre"
+        },
+        {
+          "file_name": "msw019_03_aquoijesonge_hugo_ms_64kb.mp3",
+          "id": "419166",
+          "language": "French",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_aquoijesonge_hugo_ms_64kb.mp3",
+          "playtime": "162",
+          "readers": [
+            {
+              "display_name": "Martine",
+              "reader_id": "12541"
+            }
+          ],
+          "section_number": "3",
+          "title": "French - A quoi je songe"
+        },
+        {
+          "file_name": "msw019_04_psalmderfreude_henckell_loa_64kb.mp3",
+          "id": "419150",
+          "language": "German",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_psalmderfreude_henckell_loa_64kb.mp3",
+          "playtime": "72",
+          "readers": [
+            {
+              "display_name": "lorda",
+              "reader_id": "11927"
+            }
+          ],
+          "section_number": "4",
+          "title": "German - Psalm der Freude"
+        },
+        {
+          "file_name": "msw019_05_waldeinsamkeit_heine_alp_64kb.mp3",
+          "id": "419169",
+          "language": "German",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_waldeinsamkeit_heine_alp_64kb.mp3",
+          "playtime": "570",
+          "readers": [
+            {
+              "display_name": "Algy Pug",
+              "reader_id": "4705"
+            }
+          ],
+          "section_number": "5",
+          "title": "German - Waldeinsamkeit"
+        },
+        {
+          "file_name": "msw019_06_coroadelchi_manzoni_f_64kb.mp3",
+          "id": "419162",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_coroadelchi_manzoni_f_64kb.mp3",
+          "playtime": "232",
+          "readers": [
+            {
+              "display_name": "Fabiola",
+              "reader_id": "10362"
+            }
+          ],
+          "section_number": "6",
+          "title": "Italian - Adelchi, Coro dell'atto I"
+        },
+        {
+          "file_name": "msw019_07_damabianca_deledda_fc_64kb.mp3",
+          "id": "419158",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_damabianca_deledda_fc_64kb.mp3",
+          "playtime": "1640",
+          "readers": [
+            {
+              "display_name": "Francesco Carzedda",
+              "reader_id": "12360"
+            }
+          ],
+          "section_number": "7",
+          "title": "Italian - La dama bianca"
+        },
+        {
+          "file_name": "msw019_08_assiuolo_pascoli_f_64kb.mp3",
+          "id": "419163",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_assiuolo_pascoli_f_64kb.mp3",
+          "playtime": "75",
+          "readers": [
+            {
+              "display_name": "Fabiola",
+              "reader_id": "10362"
+            }
+          ],
+          "section_number": "8",
+          "title": "Italian - L'assiuolo"
+        },
+        {
+          "file_name": "msw019_09_sestina1_alighieri_alp_64kb.mp3",
+          "id": "419168",
+          "language": "Italian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_sestina1_alighieri_alp_64kb.mp3",
+          "playtime": "188",
+          "readers": [
+            {
+              "display_name": "Algy Pug",
+              "reader_id": "4705"
+            }
+          ],
+          "section_number": "9",
+          "title": "Italian - Sestina 1"
+        },
+        {
+          "file_name": "msw019_10_hirusichtsengaussicht_lentz_ss_64kb.mp3",
+          "id": "419152",
+          "language": "Luxembourgish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_hirusichtsengaussicht_lentz_ss_64kb.mp3",
+          "playtime": "68",
+          "readers": [
+            {
+              "display_name": "Sonia",
+              "reader_id": "10179"
+            }
+          ],
+          "section_number": "10",
+          "title": "Luxembourgish - Hir Usîcht, séng Aussîcht"
+        },
+        {
+          "file_name": "msw019_11_kruk_poe_pn_64kb.mp3",
+          "id": "419165",
+          "language": "Polish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019__kruk_poe_pn_64kb.mp3",
+          "playtime": "574",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "11",
+          "title": "Polish - Kruk"
+        },
+        {
+          "file_name": "msw019_12_apolonindelos_cox_lf_64kb.mp3",
+          "id": "419164",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_apolonindelos_cox_lf_64kb.mp3",
+          "playtime": "354",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "12",
+          "title": "Romanian - Apolon în Delos"
+        },
+        {
+          "file_name": "msw019_13_clacasii_goga_lf_64kb.mp3",
+          "id": "419157",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_clacasii_goga_lf_64kb.mp3",
+          "playtime": "486",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "13",
+          "title": "Romanian - Clăcașii"
+        },
+        {
+          "file_name": "msw019_14_dimineata_goga_lf_64kb.mp3",
+          "id": "419155",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_dimineata_goga_lf_64kb.mp3",
+          "playtime": "170",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "14",
+          "title": "Romanian - Dimineața"
+        },
+        {
+          "file_name": "msw019_15_epimeteusipandora_cox_lf_64kb.mp3",
+          "id": "419160",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_epimeteusipandora_cox_lf_64kb.mp3",
+          "playtime": "542",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "15",
+          "title": "Romanian - Epimeteu și Pandora"
+        },
+        {
+          "file_name": "msw019_16_lautarul_goga_lf_64kb.mp3",
+          "id": "419156",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_lautarul_goga_lf_64kb.mp3",
+          "playtime": "163",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "16",
+          "title": "Romanian - Lăutarul"
+        },
+        {
+          "file_name": "msw019_17_posidonsiatena_cox_lf_64kb.mp3",
+          "id": "419161",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_posidonsiatena_cox_lf_64kb.mp3",
+          "playtime": "679",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "17",
+          "title": "Romanian - Posidon și Atena"
+        },
+        {
+          "file_name": "msw019_18_tineretefarabatranetesiviatafarademoarte_ispirescu_lf_64kb.mp3",
+          "id": "419153",
+          "language": "Romanian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_tineretefarabatranetesiviatafarademoarte_ispirescu_lf_64kb.mp3",
+          "playtime": "1989",
+          "readers": [
+            {
+              "display_name": "Livia F.",
+              "reader_id": "10307"
+            }
+          ],
+          "section_number": "18",
+          "title": "Romanian - Tinerețe fără bătrânețe și viață fără de moarte"
+        },
+        {
+          "file_name": "msw019_19_losojosdejudas_valdelomar_kr_64kb.mp3",
+          "id": "419167",
+          "language": "Spanish",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw19_losojosdejudas_valdelomar_kr_64kb.mp3",
+          "playtime": "1680",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "19",
+          "title": "Spanish - Los ojos de Judas"
+        },
+        {
+          "file_name": "msw019_20_contra_ukrainka_ovv_64kb.mp3",
+          "id": "419151",
+          "language": "Ukrainian",
+          "listen_url": "https://librivox.org/uploads/icequeen/msw019_contra_ukrainka_ovv_64kb.mp3",
+          "playtime": "184",
+          "readers": [
+            {
+              "display_name": "Olha Varfolomieieva",
+              "reader_id": "12060"
+            }
+          ],
+          "section_number": "20",
+          "title": "Ukrainian - Contra spem spero"
+        }
+      ],
+      "title": "Multilingual Short Works Collection 019 - Poetry & Prose",
+      "totaltime": "02:53:25",
+      "totaltimesecs": 10405,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/multilingual_short_works_collection_019_-_poetry_prose__librivox",
+      "url_librivox": "https://librivox.org/multilingual-short-works-collection-019-poetry-prose-by-various/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/12467",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download//multilingual_short_works_collection_019_-_poetry_prose__librivox/multilingual_short_works_collection_019_-_poetry_prose__librivox_64kb_mp3.zip"
+    }
+  ]
+}
