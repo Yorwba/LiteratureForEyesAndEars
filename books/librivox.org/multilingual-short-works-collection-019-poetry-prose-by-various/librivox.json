@@ -117,7 +117,23 @@
           "title": "Italian - Adelchi, Coro dell'atto I"
         },
         {
+          "authors": [
+            {
+              "dob": "1871",
+              "dod": "1936",
+              "first_name": "Grazia",
+              "id": "11379",
+              "last_name": "Deledda"
+            }
+          ],
+          "description": "",
           "file_name": "msw019_07_damabianca_deledda_fc_64kb.mp3",
+          "genres": [
+            {
+              "id": "31",
+              "name": "Short Stories"
+            }
+          ],
           "id": "419158",
           "language": "Italian",
           "listen_url": "https://librivox.org/uploads/icequeen/msw019_damabianca_deledda_fc_64kb.mp3",
@@ -129,7 +145,8 @@
             }
           ],
           "section_number": "7",
-          "title": "Italian - La dama bianca"
+          "title": "La dama bianca",
+          "url_text_source": "https://it.wikisource.org/wiki/Racconti_sardi/La_dama_bianca"
         },
         {
           "file_name": "msw019_08_assiuolo_pascoli_f_64kb.mp3",
