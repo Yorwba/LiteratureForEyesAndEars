@@ -1,0 +1,742 @@
+1
+00:00:00,000 --> 00:00:03,070
+La dama bianca
+di
+Grazia Deledda
+
+2
+00:00:03,070 --> 00:00:06,790
+Questa è una registrazione LibriVox.
+
+3
+00:00:06,790 --> 00:00:11,330
+Tutte le registrazioni LibriVox sono di dominio pubblico.
+
+4
+00:00:11,330 --> 00:00:20,240
+Per maggiori informazioni o per diventare volontari visitate il sito LibriVox.org.
+
+5
+00:00:20,240 --> 00:00:25,580
+Registrazione di Francesco Carzedda, Siniscola
+
+6
+00:00:25,580 --> 00:00:27,660
+La dama bianca
+
+7
+00:00:27,660 --> 00:00:36,990
+Vicino ad uno dei più pittoreschi villaggi del Nuorese, noi abbiamo un podere coltivato da una famiglia dello stesso villaggio.
+
+8
+00:00:36,990 --> 00:00:48,490
+Il capo di questa famiglia, già vecchio, ma ancora forte e vigoroso, — strano tipo di sardo con una soave e bianca testa di santo, degna del Perugino, —
+
+9
+00:00:48,490 --> 00:00:59,590
+viene ogni tanto a Nuoro per recarci i fitti ed i prodotti del podere, e ogni volta ci racconta bizzarre storie che sembrano leggende, —
+
+10
+00:00:59,590 --> 00:01:10,880
+invece accadute in realtà tra i monti, i greppi, e le pianure misteriose ove egli ha trascorso la sua vita errabonda, e a molte delle quali egli ha preso parte..
+
+11
+00:01:10,880 --> 00:01:14,240
+Egli si chiama zio Salvatore.
+
+12
+00:01:14,240 --> 00:01:30,050
+Ecco dunque l’ultima storia che egli ci ha raccontato, che molti non crederanno, e che pure è realmente avvenuta in questa terra delle leggende, delle storie cruente e sovranaturali, delle avventure inverosimili.
+
+13
+00:01:30,050 --> 00:01:34,790
+Era una notte di maggio del 1873.
+
+14
+00:01:34,790 --> 00:01:45,440
+In una capanna perduta nelle cussorgias solitarie del villaggio di zio Salvatore, due giovani pastori dormivano accanto al fuoco semi-spento.
+
+15
+00:01:45,440 --> 00:02:08,730
+Fuori, vicino alla capanna, le vacche dormivano nell’ovile di pietre e di siepe, e la luna d’aprile, tramontando sull’occidente di un bel roseo flavo, illuminava la campagna sterminata, nera, chiusa da montagne nude, a picco. — A un certo punto uno dei pastori si svegliò,
+
+16
+00:02:08,730 --> 00:02:12,920
+e rizzandosi a sedere guardò se albeggiava.
+
+17
+00:02:12,920 --> 00:02:25,730
+Visto che la notte era ancora alta ravvivò il fuoco, e, a gambe in croce restò un momento muto, immobile, tormentato da un pensiero; poi svegliò il compagno.
+
+18
+00:02:25,730 --> 00:02:44,990
+Erano entrambi bruni, simpatici e forti, ma il primo svegliato, che si chiamava Bellia, cioè Giommaria, era più alto e ben fatto, con una testa signorile che colpiva, e faceva chiedere se a chi apparteneva non era figlio di qualche ricco Don.
+
+19
+00:02:44,990 --> 00:02:50,420
+— Antonio? — chiamò, scuotendo il compagno per svegliarlo.
+
+20
+00:02:50,420 --> 00:02:52,590
+— Che c’è?
+
+21
+00:02:52,590 --> 00:03:00,850
+Cosa accade?... — rispose Antonio, balzando a sedere inquieto e con gli occhi spalancati. — Che cosa c’è?..
+
+22
+00:03:00,850 --> 00:03:02,360
+— Nulla.
+
+23
+00:03:02,360 --> 00:03:05,070
+Ti ho svegliato per dirti una cosa.
+
+24
+00:03:05,070 --> 00:03:06,630
+Senti.
+
+25
+00:03:06,630 --> 00:03:10,150
+È la terza notte che sogno il medesimo sogno.
+
+26
+00:03:10,150 --> 00:03:19,330
+Io non credo ai sogni, ma perdio, quando si sogna per tre notti di seguito sempre la stessa cosa, c’è da pensare.
+
+27
+00:03:19,330 --> 00:03:32,140
+— Mi hai svegliato per ciò? — chiese l’altro con un sorriso scettico e di compassione. — Hai forse tu sognato che ti portavano alla forca?
+
+28
+00:03:32,140 --> 00:03:37,670
+— Nò, — esclamò Bellia senza scomporsi. — Senti.
+
+29
+00:03:37,670 --> 00:03:51,110
+Mi appare sempre in sogno una signora vestita all’antica, così credo io perchè le signore ora son vestite diversamente, con un mantello di velluto bianco che la copre da capo a piedi.
+
+30
+00:03:51,110 --> 00:04:04,670
+Ha il volto bianco come il suo manto, e gli occhi neri, enormi, con sopracciglia arcuate, folte e congiunte, e i capelli, pure neri, attortigliati intorno alle orecchie...
+
+31
+00:04:04,670 --> 00:04:05,180
+— Bè!
+
+32
+00:04:05,180 --> 00:04:16,150
+come le Olianesi! — esclamò Antonio con ironia, che si interessava poco a quel sogno e aveva molta voglia di riaddormentarsi.
+
+33
+00:04:16,150 --> 00:04:21,070
+— È sempre la stessa... tre notti di seguito, comprendi?
+
+34
+00:04:21,070 --> 00:04:22,890
+— Cosa diavolo ti fa?
+
+35
+00:04:22,890 --> 00:04:25,700
+Sognare delle dame, perdio!
+
+36
+00:04:25,700 --> 00:04:27,470
+— Aspetta.
+
+37
+00:04:27,470 --> 00:04:36,100
+Mi guarda a lungo, con quegli occhi severi bellissimi che mi fanno paura e meraviglia, e mi dice: Bellia, cammina, cammina!
+
+38
+00:04:36,100 --> 00:04:41,150
+Va nei campi di San Matteo, presso il bosco, vicino al torrente.
+
+39
+00:04:41,150 --> 00:04:50,260
+Troverai una pietra di granito, a dieci passi dal torrente, presso il primo albero del bosco, il più grosso che c’è.
+
+40
+00:04:50,260 --> 00:04:54,820
+Leva la pietra: troverai un’altra pietra fissa al suolo.
+
+41
+00:04:54,820 --> 00:05:00,670
+Leva anche questa e vedrai una croce di ferro posta attraverso ad un buco.
+
+42
+00:05:00,670 --> 00:05:11,700
+Bellia, cammina cammina, arriva oggi stesso: altrimenti i tuoi passi saranno perduti e il demonio s’impossesserà della tua fortuna.
+
+43
+00:05:11,700 --> 00:05:16,000
+— Accidenti, che bel sogno! — gridò Antonio.
+
+44
+00:05:16,000 --> 00:05:22,050
+Ma, nonostante la sua scettica ironia, egli sentì un brivido serpeggiargli per le reni.
+
+45
+00:05:22,050 --> 00:05:38,560
+Nella sua infanzia aveva udito tante storie di tesori nascosti, custoditi dal diavolo che se ne impossessava, se dopo un certo tempo non venivano ritrovati, e nella sua prima giovinezza gli era accaduto un fatto strano di quel genere:
+
+46
+00:05:38,560 --> 00:05:50,410
+una notte, fuggendo attraverso un bosco, inseguito dai carabinieri, perchè allora egli latitava, imputato di un omicidio di cui più tardi era stato assolto,
+
+47
+00:05:50,410 --> 00:06:09,860
+aveva veduto, al chiaro della luna, un mucchio di splendide stoffe, broccati, panni fini e sete, e due vasi pieni d’oro, e aveva chiaramente sentito una voce, uscente dal prezioso mucchio, dirgli: Fermati, tutto è tuo, fermati!
+
+48
+00:06:09,860 --> 00:06:19,080
+Ma, poco distante, egli udiva il passo dei carabinieri e gli era impossibile fermarsi: quindi proseguì la sua corsa.
+
+49
+00:06:19,080 --> 00:06:32,770
+Scampato il pericolo, l’indomani tornò a quel sito, ma invece di stoffe trovò grandi pietre di granito nero in forma di pezze, e due tronchi bruciati che conservavano la figura di vasi.
+
+50
+00:06:32,770 --> 00:06:49,150
+Ad onta di tutto ciò egli, che credeva solo alla realtà delle cose, derise il proponimento di Bellia di recarsi, appena fatto giorno, al piano di San Matteo per cercare la pietra indicata dalla bianca dama del sogno.
+
+51
+00:06:49,150 --> 00:07:03,810
+Ma l’altro, che non prestava anch’esso molta fede ai sogni, ma che ad ogni modo voleva assicurarsi, restò nella sua decisione per tutto il resto della notte e sarebbe senza alcun dubbio partito, se all’albeggiare,
+
+52
+00:07:03,810 --> 00:07:20,440
+entrato nell’ovile, non avesse trovato una delle sue migliori vacche, ammalata: era una bella vacca grigia, alta e intelligente, a cui Bellia voleva bene più che al resto delle sue vacche, e che chiamava col dolce nome di Bella mia.
+
+53
+00:07:20,440 --> 00:07:29,580
+L’improvviso malore di Bella mia gli fece scordare lo strano sogno e il progetto di recarsi al sito indicatogli dalla dama.
+
+54
+00:07:29,580 --> 00:07:38,520
+Andò invece al villaggio e condusse con sè un vecchio pastore che conosceva e curava ogni più grave malattia del bestiame.
+
+55
+00:07:38,520 --> 00:07:44,570
+Ma neppure zio Lallanu potè conoscere che razza di male fosse quello di Bella mia.
+
+56
+00:07:44,570 --> 00:07:52,600
+Era un mistero: si sarebbe detto che la vacca era avvelenata o che avesse qualche spirito maligno in corpo.
+
+57
+00:07:52,600 --> 00:07:57,600
+Neppure il veterinario, neppure il medico condotto seppero dirne nulla.
+
+58
+00:07:57,600 --> 00:08:05,890
+Tuttavia dopo qualche giorno Bella mia guarì improvvisamente, misteriosamente, come si era ammalata,
+
+59
+00:08:05,890 --> 00:08:21,840
+e riprese a vagare tranquilla con le compagne, attraverso i campi freschi, tra i fieni odorosi di margheritine, con grande contentezza di Bellia che, naturalmente, non pensava più di andare lassù, nei piani rocciosi di San Matteo.
+
+60
+00:08:21,840 --> 00:08:31,660
+Qualche tempo dopo, però, Bellia e Antonio, cambiando le vacche da un pascolo all’altro, passarono per caso lassù.
+
+61
+00:08:31,660 --> 00:08:48,280
+Era un lembo bizzarro di paesaggio: campi deserti e selvaggi di montagna, pieni di roccie e di felci, circoscritti da boschi di elci secolari e chiamati campi di San Matteo da una chiesetta pisana distrutta, là vicina.
+
+62
+00:08:48,280 --> 00:09:00,540
+I due pastori ricordarono il sogno o i sogni di Bellia, e Antonio fu il primo a proporre di guardare se c’era la pietra e l’albero sognato.
+
+63
+00:09:00,540 --> 00:09:09,010
+Costeggiarono la riva del torrente asciutto, e arrivati vicinissimi al bosco, Bellia cambiò in volto di colore.
+
+64
+00:09:09,010 --> 00:09:18,510
+Egli vedeva l’albero, il più grosso che si scorgesse, e vedeva la pietra di granito precisamente eguali come nel suo sogno!
+
+65
+00:09:18,510 --> 00:09:19,800
+— Perdio!
+
+66
+00:09:19,800 --> 00:09:24,310
+perdio! — disse, bianco in viso e con gli occhi scintillanti.
+
+67
+00:09:24,310 --> 00:09:42,950
+Si slanciò sulla pietra ma da solo non potè smuoverla, Antonio lo aiutò e, dopo molti sforzi, riuscirono a scostarla: sotto Bellia vide l’altra pietra, più piccola fissa al suolo, come la dama bianca del sogno aveva detto!
+
+68
+00:09:42,950 --> 00:09:55,850
+Allora anche Antonio si turbò, e senza dir nulla, continuò ad aiutare il compagno che, livido, con le labbra frementi, smuoveva la terra con le mani, intorno alla pietra.
+
+69
+00:09:55,850 --> 00:10:09,370
+Riuscirono a trar via anche questa, e si guardarono in viso, muti, stupiti, spaventati: là sotto c’era la croce di ferro del sogno, posta attraverso di un buco.
+
+70
+00:10:09,370 --> 00:10:11,020
+Bellia gridò:
+
+71
+00:10:11,020 --> 00:10:11,970
+— Lo vedi?
+
+72
+00:10:11,970 --> 00:10:24,710
+lo vedi?.. — Con uno sforzo supremo sradicò la croce dal suolo e introdusse il braccio tremante nel buco, e ne trasse un gran vaso di ferro arruginito.
+
+73
+00:10:24,710 --> 00:10:31,220
+Non è possibile descrivere la commozione dei due pastori, e specialmente quella di Bellia.
+
+74
+00:10:31,220 --> 00:10:35,430
+Senza dubbio il vaso era pieno di oro e di perle, Dio santissimo...
+
+75
+00:10:35,430 --> 00:10:37,400
+Dio santissimo!...
+
+76
+00:10:37,400 --> 00:10:52,350
+Con la leppa, specie di grossissimo pugnale a una lama, che i pastori nel Logudoro tengono quasi sempre infilata nella cintura, Bellia fece saltare il coperchio del vaso, e allora ricordò le ultime parole della dama:
+
+77
+00:10:52,350 --> 00:10:58,640
+Arriva oggi stesso altrimenti il demonio s’impossesserà della tua fortuna.
+
+78
+00:10:58,640 --> 00:11:03,520
+Il vaso era pieno di carbone e di cenere, sino in fondo!...
+
+79
+00:11:03,520 --> 00:11:09,090
+Inutile ripetere i commenti la meraviglia, il terrore dei due giovani pastori.
+
+80
+00:11:09,090 --> 00:11:28,220
+Restarono convinti che là esisteva un tesoro e che il demonio secondo la tradizione e la leggenda sarda, se lo era appropriato giacchè al giorno preciso indicato da chi l’aveva nascosto, (la dama bianca, di certo) Bellia non lo aveva levato di là.
+
+81
+00:11:29,220 --> 00:11:31,950
+Ricordarono allora lo strano malore di Bella mia.
+
+82
+00:11:31,950 --> 00:11:42,710
+Sì certamente era stato lo spirito dell’inferno a far ammalare la vacca prediletta di Bellia per impedirgli di recarsi a San Matteo.
+
+83
+00:11:42,710 --> 00:12:01,670
+I due giovinotti dalla fantasia calda e immaginosa come tutti i forti sardi della montagna, credettero fermamente a ciò, e ripresero melanconici la loro via, dietro le vacche viaggianti, rimpiangendo il tesoro perduto, terrorizzati dal soprannaturale;
+
+84
+00:12:01,670 --> 00:12:13,650
+e non dissero mai a nessuno questa arcana avventura, finchè un fatto accaduto più tardi, non li convinse più fermamente nella loro credenza.
+
+85
+00:12:13,650 --> 00:12:15,820
+Passarono cinque anni.
+
+86
+00:12:15,820 --> 00:12:33,600
+Bellia, ammogliato e già padre di una graziosa bambina, viveva tranquillamente, modestamente, sempre facendo il pastore, quando un bel giorno di maggio del 1878 fu avvisato dal pievano che si recasse in casa sua.
+
+87
+00:12:33,600 --> 00:12:43,580
+Bellia, che aveva poca relazione col vecchio pievano andò subito a trovarlo, pieno di curiosità su ciò che poteva dirgli.
+
+88
+00:12:43,580 --> 00:12:49,050
+Il pievano, di cui è inutile precisare il nome, morto dieci anni fa,
+
+89
+00:12:49,050 --> 00:13:06,830
+l’attendeva nella sua piccola camera da letto, pulita e piena di luce; lo fece sedere vicino al suo seggiolone verde, poi andò egli stesso a chiudere la porta della stanzetta precedente, perchè, ad ogni caso... le sue piccole nipoti erano così curiose...
+
+90
+00:13:06,830 --> 00:13:08,770
+Maria specialmente.
+
+91
+00:13:08,770 --> 00:13:10,330
+Basta.
+
+92
+00:13:10,330 --> 00:13:21,360
+Prese tutte le precauzioni possibili, il pievano andò a sedersi nel suo seggiolone si accomodò gli occhiali e spiegò sul tavolo una carta gialla, vecchissima.
+
+93
+00:13:21,360 --> 00:13:33,380
+Bellia provava un vago sentimento di timore, davanti a tutti i solenni preparativi del vecchio pievano, e sussultò quando esso, tutto ad un tratto, gli disse con serietà:
+
+94
+00:13:33,380 --> 00:13:37,220
+— Questo foglio ti riguarda!
+
+95
+00:13:37,220 --> 00:13:45,060
+Il pastore cercò una risposta adeguata, ma non trovandola credette bene di star zitto.
+
+96
+00:13:45,060 --> 00:13:52,600
+— Io ho novant’anni, — proseguì il pievano, che pareva, sì, molto vecchio, ma che non dimostrava quell’età,
+
+97
+00:13:52,600 --> 00:14:07,610
+levandosi gli occhiali e fissando Bellia coi suoi occhi chiari, che sembravano più buoni e lattei, sotto le sopracciglia bianche, io ho novant’anni, figlio mio, e da circa settanta servo il Signore nel nostro villaggio.
+
+98
+00:14:07,610 --> 00:14:12,080
+Non avevo ancora vent’anni quando celebrai la prima messa.
+
+99
+00:14:12,080 --> 00:14:15,220
+— Iddio lo faccia arrivare a cento!
+
+100
+00:14:15,220 --> 00:14:17,050
+esclamò Bellia.
+
+101
+00:14:17,050 --> 00:14:35,210
+— ... lo stesso anno morì, vecchio esso pure, l’antico rettore della nostra chiesa, e pochi giorni prima di render l’anima al nostro Santissimo Creatore, mi disse: dopo la mia morte vi faranno senza dubbio pievano, quindi io devo affidarvi una grave missione.
+
+102
+00:14:35,210 --> 00:14:48,640
+Sedete, che prima devo raccontarvi una storia. — Io mi assisi al suo capezzale e, rimasti soli, il mio vecchio e venerato rettore mi narrò questo fatto:
+
+103
+00:14:48,640 --> 00:15:02,670
+«Trentacinque o trentasei anni fa, cioè verso il 1773 ci era quì, in questo villaggio, un giovinotto della famiglia M. la quale vive tutt’ora.
+
+104
+00:15:02,670 --> 00:15:11,700
+Era un giovine ricco, bello, notaio laureato, sposatosi poco prima a una damigella della città di Sassari, dove egli aveva studiato.
+
+105
+00:15:11,700 --> 00:15:22,820
+La moglie si chiamava donna Maria Croce M***; figlia di un gentiluomo genovese e di una dama sarda, molto ricchi, stabiliti a Sassari, dove essa era nata.
+
+106
+00:15:22,820 --> 00:15:39,520
+Poteva avere un venticinque anni, ed era molto bella, ma di una bellezza piuttosto severa con grandi occhi neri e soppraciglia arcuate, e i capelli attortigliati intorno alle orecchie, alla fiamminga come diceva essa.
+
+107
+00:15:39,520 --> 00:15:47,880
+Inoltre andava sempre riccamente vestita e usava portare un manto di velluto bianco.
+
+108
+00:15:47,880 --> 00:16:05,500
+«Forse a causa del suo strano vestire, che la rassomigliava a una fata, e perchè sapevasi che suo padre si dilettava di fisica e di astrologia e che essa pigliava parte ai suoi esperimenti, appena arrivò qui si sparse subito la voce che malignamente diceva:
+
+109
+00:16:05,500 --> 00:16:17,770
+donna Maria Croce se la intende con gli spiriti; donna Maria Croce ha stregato don Gavino, il marito, e lo ha costretto per forza di una magia a sposarla, e simili cose dell’altro mondo.
+
+110
+00:16:17,770 --> 00:16:31,300
+«Fatto sta che don Gavino, prima di ammogliarsi con essa, faceva l’amore con un’altra ragazza del villaggio, di buona famiglia, sì, e anche bellina, ma povera come Gesù Cristo, chiamata Rosanna.
+
+111
+00:16:31,300 --> 00:16:40,870
+Anzi, per non perder tempo, essendoci solenne promessa di matrimonio, Rosanna e don Gavino si erano regalati una bella bambina.
+
+112
+00:16:40,870 --> 00:16:50,150
+Fatto per cui la ragazza fu scacciata da casa sua, benchè Gavino giurasse e spergiurasse di sposarla appena finiti gli studi.
+
+113
+00:16:50,150 --> 00:17:02,860
+«Invece l’ultimo anno che passò a Sassari conobbe donna Maria Croce: e vederla, innamorarsene, chiederla in isposa, sposarla e portarla quaggiù, fu tutt’uno.
+
+114
+00:17:03,860 --> 00:17:08,950
+«Rosanna ne fece una grave malattia, ma non disse una sola parola di lamento.
+
+115
+00:17:08,950 --> 00:17:21,360
+Ma erano passati appena sei mesi che don Gavino si era sposato, allorchè una notte rientrando a casa sua un uomo lo afferrò e nel buio della via lo uccise a stoccate.
+
+116
+00:17:21,360 --> 00:17:42,310
+Toccò allora a donna Maria Croce ad ammalarsi: e appena guarita, data di anima e corpo a cercare chi fosse l’assassino del marito, riuscì a scoprirlo in un giovinotto innamorato perdutamente di Rosanna, che gli aveva promesso la mano di sposa purchè uccidesse don Gavino.
+
+117
+00:17:42,310 --> 00:17:54,280
+Donna Maria Croce lo accusò: fu arrestato, ma mancando le prove materiali del delitto, non ostante il denaro e la potenza della bella vedova, fu rilasciato libero.
+
+118
+00:17:54,280 --> 00:18:03,640
+«Tuttavia la dama era sicura del fatto suo, e giacchè la giustizia umana non la vendicava, decise di far vendetta da sè.
+
+119
+00:18:03,640 --> 00:18:15,340
+«Un anno era passato dalla morte di don Gavino, e in questo frattempo moriva anche il padre di donna Maria Croce, lasciandola erede di un grosso patrimonio.
+
+120
+00:18:15,340 --> 00:18:20,210
+Essa partì a Sassari, vendette tutto, poi ritornò qui.
+
+121
+00:18:20,210 --> 00:18:23,500
+Il giorno di Pasqua Rosanna sposò.
+
+122
+00:18:23,500 --> 00:18:38,120
+La chiesa era affollata, e tra la moltitudine spiccava donna Maria Croce, vestita di nero, col manto bianco, e uno stilletto d’argento nella cintura, inginocchiata dietro la balaustrata dell’altare.
+
+123
+00:18:38,120 --> 00:18:46,980
+«Quando diedi la benedizione agli sposi, la vidi alzarsi ritta, bianchissima in viso e gli occhi fiammeggianti.
+
+124
+00:18:46,980 --> 00:19:02,000
+Rosanna e lo sposo erano appena scesi dai gradini dell’altare, allorchè essa si slanciò su loro, e col suo stilletto pugnalò il giovine dicendo: Vi rendo il vostro!..
+
+125
+00:19:02,000 --> 00:19:09,220
+«Figuratevi il parapiglia, la confusione, le grida del popolo, e la scena che seguì.
+
+126
+00:19:09,220 --> 00:19:20,440
+Rosanna svenne, poi si ammalò dallo spavento e morì dopo qualche mese, fra i più atroci rimorsi, giacchè per causa sua erano morti due uomini.
+
+127
+00:19:20,440 --> 00:19:32,700
+Donna Maria Croce fu arrestata, e benchè a quei tempi la giustizia si facesse come si sia, non valse nè l’oro, nè le pratiche dei parenti, per diminuire la sua pena.
+
+128
+00:19:32,700 --> 00:19:37,690
+«Fu condannata ad essere impiccata, — e così fu.
+
+129
+00:19:37,690 --> 00:19:41,700
+«Prima di morire mi fece avvisare e si confessò.
+
+130
+00:19:41,700 --> 00:19:52,620
+Poi mi disse di aver nascosto tutto l’oro tratto, dalla vendita del suo patrimonio, nel bosco di San Matteo, presso la chiesetta, in un vaso di ferro a piè di un albero.
+
+131
+00:19:52,620 --> 00:20:08,330
+E mi confidò di voler lasciare questo tesoro alla terza generazione di Rosannedda, la figlia di Rosanna e di don Gavino, affinchè ciò servisse di qualche alleviamento ai suoi peccati, dinanzi alla misericordia di Dio.
+
+132
+00:20:08,330 --> 00:20:19,840
+«— Questo è il mio testamento, mi disse porgendomi una carta, conservatela e alla vostra morte consegnatela al vostro successore, perchè faccia altrettanto.
+
+133
+00:20:19,840 --> 00:20:25,280
+Così dunque fino alla terza generazione di Rosannedda.
+
+134
+00:20:25,280 --> 00:20:36,520
+Allora colui che avrà questa carta la consegni, pochi giorni prima della data indicatavi, al pronipote della fanciulla, ed egli vedrà il da farsi.
+
+135
+00:20:36,520 --> 00:20:44,180
+Lo avverta però di recarsi il giorno preciso, perchè se tarderà un’ora sola tutto sarà invano...
+
+136
+00:20:45,680 --> 00:21:03,490
+«Pregai la dama di spiegarmi questa frase, ma essa non volle dirmi nulla a proposito, epperò quel giorno, Dio mi perdoni, credetti anch’io che essa avesse qualche relazione col mondo soprannaturale, perchè quando le chiesi: E se Rosannedda muore senza erede?
+
+137
+00:21:03,490 --> 00:21:04,630
+mi rispose:
+
+138
+00:21:04,630 --> 00:21:05,410
+«— No!
+
+139
+00:21:05,410 --> 00:21:12,090
+si mariterà ed avrà una figlia che anch’essa piglierà marito dal quale avrà numerosa famiglia.
+
+140
+00:21:12,090 --> 00:21:17,650
+Il figlio maggiore, in ultimo, avrà un figliuolo nei cui nomi ci sarà uno dei nomi miei.
+
+141
+00:21:17,650 --> 00:21:20,230
+Questo è il destinato...
+
+142
+00:21:20,230 --> 00:21:26,870
+«— E se, — domandai, — qualche altro cerca impossessarsi del tesoro?...
+
+143
+00:21:26,870 --> 00:21:28,470
+«Invano!
+
+144
+00:21:28,470 --> 00:21:34,420
+Solo colui che voglio io lo troverà, purchè anch’esso arrivi in tempo.
+
+145
+00:21:35,640 --> 00:21:44,450
+«Donna Maria Croce non mi disse altro; mi consegnò la carta e da quel momento sino all’ora della morte non fece che pregare.
+
+146
+00:21:44,450 --> 00:21:50,760
+Morì coraggiosamente, da buona cristiana, ed io la piansi come una figliuola.
+
+147
+00:21:50,760 --> 00:22:03,850
+«Come essa aveva predetto Rosannedda, dopo molti anni, si maritò ed ebbe una figlia che vive tutt’ora, ed è una bella ragazza anch’essa che voi senza dubbio conoscete.
+
+148
+00:22:03,850 --> 00:22:16,470
+«Io conservai il testamento di donna Maria Croce, religiosamente, e mai mi venne il pensiero di accertarmi sulla verità di ciò che essa mi aveva confidato.
+
+149
+00:22:16,470 --> 00:22:28,020
+Ora lo consegno a voi, secondo l’ordine suo, e voi farete altrettanto se, Dio nol voglia, non arriverete a conoscere l’erede.»
+
+150
+00:22:28,020 --> 00:22:37,460
+— Ciò detto, — continuò il vecchio pievano — il mio venerato precessore mi consegnò la carta che tu vedi quì, o Bellia.
+
+151
+00:22:37,460 --> 00:22:47,670
+Poco dopo esso morì, ed io, a mia volta, custodî per ben settanta anni questo prezioso segreto che nessuno conosce.
+
+152
+00:22:47,670 --> 00:22:57,620
+Sempre secondo la predizione di Donna Maria Croce, anche io vidi la bella figlia di Rosannedda maritarsi e procreare una numerosa famiglia.
+
+153
+00:22:57,620 --> 00:23:08,720
+Il maggior figlio giunto il suo turno, si ammogliò, e suo figlio sei tu, Bellia, o Giovanni Maria, che infatti hai uno dei nomi di Donna Maria Croce.
+
+154
+00:23:08,720 --> 00:23:10,330
+Ecco giunto il tempo.
+
+155
+00:23:10,330 --> 00:23:18,920
+Io ti consegno il testamento e tu, senza l’aiuto di nessuno, puoi benissimo metterlo in esecuzione!... —
+
+156
+00:23:18,920 --> 00:23:37,630
+— Io credo che sia troppo tardi! — esclamò Bellia, che durante il racconto aveva riflesso tutti i colori dell’arcobaleno, morsicandosi più di una volta le labbra per non dare in esclamazioni e per non mancare di rispetto al pievano, interrompendolo;
+
+157
+00:23:37,630 --> 00:23:40,890
+— anzi è troppo tardi davvero!..
+
+158
+00:23:40,890 --> 00:23:46,800
+— Come lo sai tu? — chiese il vecchio stupefatto.
+
+159
+00:23:46,800 --> 00:23:51,300
+Bellia raccontò la sua avventura di cinque anni prima.
+
+160
+00:23:51,300 --> 00:24:04,970
+Al pievano sembrò di sognare; aggrottò le placide sopracciglia bianche, inforcò nuovamente gli occhiali e lesse per la centesima volta il testamento, poi esclamò:
+
+161
+00:24:04,970 --> 00:24:08,820
+— Gesummio, Gesummio, cosa vuol dir ciò?
+
+162
+00:24:08,820 --> 00:24:16,070
+Ecco che io ho seguito tutte le norme datemi; e qui c’entra senza dubbio il demonio.
+
+163
+00:24:16,070 --> 00:24:24,440
+Senti il testamento: non è a dire che sia scritto in latino, nè ispagnuolo e neppure in Italiano.
+
+164
+00:24:24,440 --> 00:24:27,460
+È scritto proprio in sardo, in logudorese.
+
+165
+00:24:27,460 --> 00:24:30,990
+Leggilo tu stesso...
+
+166
+00:24:30,990 --> 00:24:33,270
+Bellia prese tremando la carta.
+
+167
+00:24:33,270 --> 00:24:39,090
+Era un foglio di carta giallognola, grossissima, fregiata a ghirigori dorati.
+
+168
+00:24:39,090 --> 00:24:56,770
+In un angolo c’era il sigillo del padre di Donna Maria Croce, con una corona da cavaliere e un D. un E. e un M. intrecciate a una piccola spada, una specie di stocco: il tutto in oro vecchio, un po’ sbiadito dal tempo.
+
+169
+00:24:56,770 --> 00:25:12,260
+Il bizzarro testamento era davvero scritto in logudorese, con una calligrafia antica, grossa, incerta, tuttavia leggibile, e Bellia lo lesse a voce alta, sillabando, con l’accento che gli tremolava un poco:
+
+170
+00:25:12,260 --> 00:25:14,310
+Diceva così:
+
+171
+00:25:14,310 --> 00:25:21,100
+«Deo, sutta-iscritta, donna Maria Rughe M***, viuda de don Gavinu M***,
+
+172
+00:25:21,100 --> 00:25:38,630
+declaro de lasciare in testamentu a su nepode de sa fiza de Rosannedda R***, fiza de Rosanna R*** e de su biadu de maridu meu, su tesoro cuadu sutta s’alveru pius mannu de su buscu de Santu Matteu, su primu chi si aghatat a deghe passos dae su riu;
+
+173
+00:25:38,630 --> 00:25:54,100
+e chi andet a lu reguglire sa die 20 de maiu de s’annu 1878, poite si no non bi aghattat nudda, e chi preghet prò s’anima mea, e faghat narrer missas de suffragiu.
+
+174
+00:25:54,100 --> 00:26:00,360
+Donna Maria Rughe M*** viuda de Don Gavinu M***».
+
+175
+00:26:00,360 --> 00:26:06,190
+Sarebbe troppo lungo riferire tutti i commenti e le ciarle che Bellia e il pievano fecero.
+
+176
+00:26:06,190 --> 00:26:15,830
+Per accertarsi meglio Bellia, il venti maggio, tornò a San Matteo e rifrugò sotto a tutti gli alberi, ma non trovò nulla.
+
+177
+00:26:15,830 --> 00:26:26,050
+Per spiegare il mistero diabolico, il pievano mandò il testamento a tutti i suoi amici letterati, sacerdoti e laici, ma nessuno seppe dirne nulla.
+
+178
+00:26:26,050 --> 00:26:39,860
+Finalmente la bizzarra carta capitò a un giovinotto del villaggio, nipote di zio Salvatore, che studiava nel seminario di Nuoro, e che, oltre le altre doti, era un eccellente calligrafo.
+
+179
+00:26:39,860 --> 00:26:42,660
+Ed egli spiegò l’enigma.
+
+180
+00:26:42,660 --> 00:26:51,350
+L’ultimo otto del 1878 del testamento, non era già un otto, ma un tre.
+
+181
+00:26:51,350 --> 00:27:04,280
+Le lineette del davanti erano fatte in modo da rassomigliarlo ad un otto, e così il vecchio pievano si era sbagliato di cinque anni nel dar l’avviso a Bellia!
+
+182
+00:27:05,900 --> 00:27:10,370
+Fine
+di
+La dama bianca
+di
+Grazia Deledda
+
+183
+00:27:10,370 --> 00:27:15,860
+Registrazione di Francesco Carzedda, Siniscola
+
+184
+00:27:19,880 --> 00:27:20,880
+
+
