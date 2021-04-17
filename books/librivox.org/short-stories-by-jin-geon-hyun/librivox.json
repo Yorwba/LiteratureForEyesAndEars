@@ -5,17 +5,17 @@
         {
           "dob": "1900",
           "dod": "1943",
-          "first_name": "Jin-geon",
+          "first_name": "",
           "id": "10923",
-          "last_name": "Hyun"
+          "last_name": "현진건"
         }
       ],
       "copyright_year": "1922",
       "description": "한국 소설가 현진건이 쓴 소설들 중 3개를 뽑은 모음집. (요약: 윤지수) <br><br>\n\n3 short stories by Hyun Jin-geon.\n",
       "genres": [
         {
-          "id": "76",
-          "name": "Single Author Collections"
+          "id": "31",
+          "name": "Short Stories"
         }
       ],
       "id": "7758",
@@ -25,7 +25,6 @@
         {
           "file_name": "short_stories_01_hyun_64kb.mp3",
           "id": "281610",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/availle/shortstories_1_hyun.mp3",
           "playtime": "403",
           "readers": [
@@ -35,12 +34,12 @@
             }
           ],
           "section_number": "1",
-          "title": "피아노"
+          "title": "피아노",
+          "url_text_source": "https://ko.wikisource.org/wiki/%ED%94%BC%EC%95%84%EB%85%B8"
         },
         {
           "file_name": "short_stories_02_hyun_64kb.mp3",
           "id": "281611",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/availle/shortstories_2_hyun.mp3",
           "playtime": "878",
           "readers": [
@@ -50,12 +49,12 @@
             }
           ],
           "section_number": "2",
-          "title": "술 권하는 사회 Part 1"
+          "title": "술 권하는 사회 Part 1",
+          "url_text_source": "https://ko.wikisource.org/wiki/%EC%88%A0_%EA%B6%8C%ED%95%98%EB%8A%94_%EC%82%AC%ED%9A%8C"
         },
         {
           "file_name": "short_stories_03_hyun_64kb.mp3",
           "id": "281612",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/availle/shortstories_3_hyun.mp3",
           "playtime": "750",
           "readers": [
@@ -70,7 +69,6 @@
         {
           "file_name": "short_stories_04_hyun_64kb.mp3",
           "id": "281613",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/availle/shortstories_4_hyun.mp3",
           "playtime": "1220",
           "readers": [
@@ -80,12 +78,12 @@
             }
           ],
           "section_number": "4",
-          "title": "빈처 Part 1"
+          "title": "빈처 Part 1",
+          "url_text_source": "https://ko.wikisource.org/wiki/%EB%B9%88%EC%B2%98"
         },
         {
           "file_name": "short_stories_05_hyun_64kb.mp3",
           "id": "281614",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/availle/shortstories_5_hyun.mp3",
           "playtime": "973",
           "readers": [
