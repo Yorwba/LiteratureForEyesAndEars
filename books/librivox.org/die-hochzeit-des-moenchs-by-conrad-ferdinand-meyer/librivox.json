@@ -25,7 +25,6 @@
         {
           "file_name": "hochzeitdesmoenchs_01_meyer_64kb.mp3",
           "id": "429404",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_01_meyer_64kb.mp3",
           "playtime": "830",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "hochzeitdesmoenchs_02_meyer_64kb.mp3",
           "id": "429405",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_02_meyer_64kb.mp3",
           "playtime": "819",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "hochzeitdesmoenchs_03_meyer_64kb.mp3",
           "id": "429406",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_03_meyer_64kb.mp3",
           "playtime": "834",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "hochzeitdesmoenchs_04_meyer_64kb.mp3",
           "id": "429407",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_04_meyer_64kb.mp3",
           "playtime": "1040",
           "readers": [
@@ -85,7 +81,6 @@
         {
           "file_name": "hochzeitdesmoenchs_05_meyer_64kb.mp3",
           "id": "429408",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_05_meyer_64kb.mp3",
           "playtime": "1220",
           "readers": [
@@ -100,7 +95,6 @@
         {
           "file_name": "hochzeitdesmoenchs_06_meyer_64kb.mp3",
           "id": "429409",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_06_meyer_64kb.mp3",
           "playtime": "1290",
           "readers": [
@@ -115,7 +109,6 @@
         {
           "file_name": "hochzeitdesmoenchs_07_meyer_64kb.mp3",
           "id": "429410",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_07_meyer_64kb.mp3",
           "playtime": "856",
           "readers": [
@@ -130,7 +123,6 @@
         {
           "file_name": "hochzeitdesmoenchs_08_meyer_64kb.mp3",
           "id": "429411",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_08_meyer_64kb.mp3",
           "playtime": "1256",
           "readers": [
@@ -145,7 +137,6 @@
         {
           "file_name": "hochzeitdesmoenchs_09_meyer_64kb.mp3",
           "id": "429412",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_09_meyer_64kb.mp3",
           "playtime": "1222",
           "readers": [
@@ -160,7 +151,6 @@
         {
           "file_name": "hochzeitdesmoenchs_10_meyer_64kb.mp3",
           "id": "429413",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_10_meyer_64kb.mp3",
           "playtime": "938",
           "readers": [
@@ -175,7 +165,6 @@
         {
           "file_name": "hochzeitdesmoenchs_11_meyer_64kb.mp3",
           "id": "429414",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_11_meyer_64kb.mp3",
           "playtime": "679",
           "readers": [
@@ -190,7 +179,6 @@
         {
           "file_name": "hochzeitdesmoenchs_12_meyer_64kb.mp3",
           "id": "429416",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_12_meyer_64kb.mp3",
           "playtime": "854",
           "readers": [
@@ -205,7 +193,6 @@
         {
           "file_name": "hochzeitdesmoenchs_13_meyer_64kb.mp3",
           "id": "429415",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_13_meyer_64kb.mp3",
           "playtime": "1055",
           "readers": [
@@ -218,7 +205,7 @@
           "title": "Abschnitt 13"
         }
       ],
-      "title": "Hochzeit des Mönchs",
+      "title": "Die Hochzeit des Mönchs",
       "totaltime": "03:34:53",
       "totaltimesecs": 12893,
       "translators": [],
@@ -227,7 +214,7 @@
       "url_other": "",
       "url_project": "https://de.wikipedia.org/wiki/Die_Hochzeit_des_Mönchs",
       "url_rss": "https://librivox.org/rss/12818",
-      "url_text_source": "https://www.e-rara.ch/doi/10.3931/e-rara-26036",
+      "url_text_source": "http://www.gutenberg.org/ebooks/9495",
       "url_zip_file": "http://www.archive.org/download//hochzeit_des_monchs_1806_librivox/hochzeit_des_monchs_1806_librivox_64kb_mp3.zip"
     }
   ]
