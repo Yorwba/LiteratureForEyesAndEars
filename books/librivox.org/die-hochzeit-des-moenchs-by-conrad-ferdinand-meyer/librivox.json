@@ -1,0 +1,234 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1825",
+          "dod": "1898",
+          "first_name": "Conrad Ferdinand",
+          "id": "805",
+          "last_name": "Meyer"
+        }
+      ],
+      "copyright_year": "1889",
+      "description": "Kein geringerer als Dante Alighieri wird hier zum Erzähler. Am Fürstenhof in Verona gibt er seine Geschichte über den Mönch Astorre zum Besten, der, um seinem sterbenden Vater den letzten Willen zu gewähren, sein Mönchsgelübde bricht und heiratet, obwohl er dazu im Inneren keineswegs bereit ist. Er glaubt, einen richtigen Entschluss gefasst zu haben, als er sich mit Diana, der Witwe seines Bruders, verlobt. Doch das für ihn völlig neue weltliche Leben stellt ihn vor Bewährungsproben... - Summary by Eva K.",
+      "genres": [
+        {
+          "id": "15",
+          "name": "General Fiction"
+        }
+      ],
+      "id": "12818",
+      "language": "German",
+      "num_sections": "13",
+      "sections": [
+        {
+          "file_name": "hochzeitdesmoenchs_01_meyer_64kb.mp3",
+          "id": "429404",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_01_meyer_64kb.mp3",
+          "playtime": "830",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "1",
+          "title": "Abschnitt 1"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_02_meyer_64kb.mp3",
+          "id": "429405",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_02_meyer_64kb.mp3",
+          "playtime": "819",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "2",
+          "title": "Abschnitt 2"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_03_meyer_64kb.mp3",
+          "id": "429406",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_03_meyer_64kb.mp3",
+          "playtime": "834",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "3",
+          "title": "Abschnitt 3"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_04_meyer_64kb.mp3",
+          "id": "429407",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_04_meyer_64kb.mp3",
+          "playtime": "1040",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "4",
+          "title": "Abschnitt 4"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_05_meyer_64kb.mp3",
+          "id": "429408",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_05_meyer_64kb.mp3",
+          "playtime": "1220",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "5",
+          "title": "Abschnitt 5"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_06_meyer_64kb.mp3",
+          "id": "429409",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_06_meyer_64kb.mp3",
+          "playtime": "1290",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "6",
+          "title": "Abschnitt 6"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_07_meyer_64kb.mp3",
+          "id": "429410",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_07_meyer_64kb.mp3",
+          "playtime": "856",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "7",
+          "title": "Abschnitt 7"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_08_meyer_64kb.mp3",
+          "id": "429411",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_08_meyer_64kb.mp3",
+          "playtime": "1256",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "8",
+          "title": "Abschnitt 8"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_09_meyer_64kb.mp3",
+          "id": "429412",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_09_meyer_64kb.mp3",
+          "playtime": "1222",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "9",
+          "title": "Abschnitt 9"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_10_meyer_64kb.mp3",
+          "id": "429413",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_10_meyer_64kb.mp3",
+          "playtime": "938",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "10",
+          "title": "Abschnitt 10"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_11_meyer_64kb.mp3",
+          "id": "429414",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_11_meyer_64kb.mp3",
+          "playtime": "679",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "11",
+          "title": "Abschnitt 11"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_12_meyer_64kb.mp3",
+          "id": "429416",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_12_meyer_64kb.mp3",
+          "playtime": "854",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "12",
+          "title": "Abschnitt 12"
+        },
+        {
+          "file_name": "hochzeitdesmoenchs_13_meyer_64kb.mp3",
+          "id": "429415",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/carolin/diehochzeitdesmoenchs_13_meyer_64kb.mp3",
+          "playtime": "1055",
+          "readers": [
+            {
+              "display_name": "Eva K.",
+              "reader_id": "10148"
+            }
+          ],
+          "section_number": "13",
+          "title": "Abschnitt 13"
+        }
+      ],
+      "title": "Hochzeit des Mönchs",
+      "totaltime": "03:34:53",
+      "totaltimesecs": 12893,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/hochzeit_des_monchs_1806_librivox",
+      "url_librivox": "https://librivox.org/die-hochzeit-des-moenchs-by-conrad-ferdinand-meyer/",
+      "url_other": "",
+      "url_project": "https://de.wikipedia.org/wiki/Die_Hochzeit_des_Mönchs",
+      "url_rss": "https://librivox.org/rss/12818",
+      "url_text_source": "https://www.e-rara.ch/doi/10.3931/e-rara-26036",
+      "url_zip_file": "http://www.archive.org/download//hochzeit_des_monchs_1806_librivox/hochzeit_des_monchs_1806_librivox_64kb_mp3.zip"
+    }
+  ]
+}
