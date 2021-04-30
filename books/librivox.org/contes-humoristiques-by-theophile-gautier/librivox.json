@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1811",
+          "dod": "1872",
+          "first_name": "Théophile",
+          "id": "995",
+          "last_name": "Gautier"
+        }
+      ],
+      "copyright_year": "1880",
+      "description": "Un voyageur rencontre l’amour de sa vie lorsque objets et peintures prennent vie dans une chambre d’hôtes.\nL’âme d’une maison vit dans un recoin de cheminée.\nUn acteur de grande notoriété rencontre le diable en personne en jouant le rôle de celui-ci.\n1843. Un inventeur original fabrique une machine volante, il disparaît…\n\n<br /><br />Théophile Gautier nous transporte dans le monde fantastique et humoristique du début du XIXe siècle. Ce recueil publié, en 1880, compile huit contes extraordinaires.<br /><br />\n• La cafetière, conte fantastique\n<br />• Laquelle des deux, histoire perplexe\n<br />• L’âme de la maison\n<br />• Le garde national réfractaire\n• Deux acteurs pour un rôle\n<br />• Une visite nocturne\n<br />• Feuillets de l’album d’un jeune rapin\n<br />• De l’obésité en littérature\n<br /> (Résumé par Zeckou)",
+      "genres": [
+        {
+          "id": "19",
+          "name": "Humorous Fiction"
+        }
+      ],
+      "id": "9587",
+      "language": "French",
+      "num_sections": "8",
+      "sections": [
+        {
+          "file_name": "contes_humoristiques_01_gautier_64kb.mp3",
+          "id": "330469",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_01_gautier.mp3",
+          "playtime": "1153",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "1",
+          "title": "La cafetière - Conte fantastique"
+        },
+        {
+          "file_name": "contes_humoristiques_02_gautier_64kb.mp3",
+          "id": "330470",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_2_gautier.mp3",
+          "playtime": "1065",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "2",
+          "title": "Laquelle des deux - Histoire perplexe"
+        },
+        {
+          "file_name": "contes_humoristiques_03_gautier_64kb.mp3",
+          "id": "330471",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumristiques_3_gautier.mp3",
+          "playtime": "3400",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "3",
+          "title": "L'âme de la maison - Conte"
+        },
+        {
+          "file_name": "contes_humoristiques_04_gautier_64kb.mp3",
+          "id": "330472",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumristiques_4_gautier.mp3",
+          "playtime": "1381",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "4",
+          "title": "Le garde national réfractaire"
+        },
+        {
+          "file_name": "contes_humoristiques_05_gautier_64kb.mp3",
+          "id": "330473",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_5_gautier.mp3",
+          "playtime": "1377",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "5",
+          "title": "Deux acteurs pour un rôle - Conte"
+        },
+        {
+          "file_name": "contes_humoristiques_06_gautier_64kb.mp3",
+          "id": "330474",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_6_gautier.mp3",
+          "playtime": "681",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "6",
+          "title": "Une visite nocturne"
+        },
+        {
+          "file_name": "contes_humoristiques_07_gautier_64kb.mp3",
+          "id": "330475",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_7_gautier.mp3",
+          "playtime": "1481",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "7",
+          "title": "Feuillets de l'album d'un jeune rapin"
+        },
+        {
+          "file_name": "contes_humoristiques_08_gautier_64kb.mp3",
+          "id": "330476",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_8_gautier.mp3",
+          "playtime": "612",
+          "readers": [
+            {
+              "display_name": "Zeckou",
+              "reader_id": "9242"
+            }
+          ],
+          "section_number": "8",
+          "title": "De l'obésité en littérature"
+        }
+      ],
+      "title": "Contes humoristiques",
+      "totaltime": "03:05:49",
+      "totaltimesecs": 11149,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/contes_humoristiques_1505_librivox",
+      "url_librivox": "https://librivox.org/contes-humoristiques-by-theophile-gautier/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/9587",
+      "url_text_source": "http://fr.wikisource.org/wiki/Contes_humoristiques",
+      "url_zip_file": "http://archive.org/download/contes_humoristiques_1505_librivox/contes_humoristiques_1505_librivox_64kb_mp3.zip"
+    }
+  ]
+}
