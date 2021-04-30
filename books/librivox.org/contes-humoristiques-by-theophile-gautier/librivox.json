@@ -25,7 +25,6 @@
         {
           "file_name": "contes_humoristiques_01_gautier_64kb.mp3",
           "id": "330469",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_01_gautier.mp3",
           "playtime": "1153",
           "readers": [
@@ -35,12 +34,12 @@
             }
           ],
           "section_number": "1",
-          "title": "La cafetière - Conte fantastique"
+          "title": "La cafetière - Conte fantastique",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/La_Cafeti%C3%A8re"
         },
         {
           "file_name": "contes_humoristiques_02_gautier_64kb.mp3",
           "id": "330470",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_2_gautier.mp3",
           "playtime": "1065",
           "readers": [
@@ -50,12 +49,12 @@
             }
           ],
           "section_number": "2",
-          "title": "Laquelle des deux - Histoire perplexe"
+          "title": "Laquelle des deux - Histoire perplexe",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/Laquelle_des_Deux"
         },
         {
           "file_name": "contes_humoristiques_03_gautier_64kb.mp3",
           "id": "330471",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumristiques_3_gautier.mp3",
           "playtime": "3400",
           "readers": [
@@ -65,12 +64,12 @@
             }
           ],
           "section_number": "3",
-          "title": "L'âme de la maison - Conte"
+          "title": "L'âme de la maison - Conte",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/L%E2%80%99%C3%82me_de_la_maison"
         },
         {
           "file_name": "contes_humoristiques_04_gautier_64kb.mp3",
           "id": "330472",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumristiques_4_gautier.mp3",
           "playtime": "1381",
           "readers": [
@@ -80,12 +79,12 @@
             }
           ],
           "section_number": "4",
-          "title": "Le garde national réfractaire"
+          "title": "Le garde national réfractaire",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/Le_Garde_National_r%C3%A9fractaire"
         },
         {
           "file_name": "contes_humoristiques_05_gautier_64kb.mp3",
           "id": "330473",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_5_gautier.mp3",
           "playtime": "1377",
           "readers": [
@@ -95,12 +94,12 @@
             }
           ],
           "section_number": "5",
-          "title": "Deux acteurs pour un rôle - Conte"
+          "title": "Deux acteurs pour un rôle - Conte",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/Deux_Acteurs_pour_un_r%C3%B4le"
         },
         {
           "file_name": "contes_humoristiques_06_gautier_64kb.mp3",
           "id": "330474",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_6_gautier.mp3",
           "playtime": "681",
           "readers": [
@@ -110,12 +109,12 @@
             }
           ],
           "section_number": "6",
-          "title": "Une visite nocturne"
+          "title": "Une visite nocturne",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/Une_Visite_nocturne"
         },
         {
           "file_name": "contes_humoristiques_07_gautier_64kb.mp3",
           "id": "330475",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_7_gautier.mp3",
           "playtime": "1481",
           "readers": [
@@ -125,12 +124,12 @@
             }
           ],
           "section_number": "7",
-          "title": "Feuillets de l'album d'un jeune rapin"
+          "title": "Feuillets de l'album d'un jeune rapin",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/Feuillets_de_l%E2%80%99Album_d%E2%80%99un_jeune_rapin"
         },
         {
           "file_name": "contes_humoristiques_08_gautier_64kb.mp3",
           "id": "330476",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/neckertb/conteshumoristiques_8_gautier.mp3",
           "playtime": "612",
           "readers": [
@@ -140,7 +139,8 @@
             }
           ],
           "section_number": "8",
-          "title": "De l'obésité en littérature"
+          "title": "De l'obésité en littérature",
+          "url_text_source": "https://fr.wikisource.org/wiki/Contes_humoristiques/De_l%E2%80%99Ob%C3%A9sit%C3%A9_en_litt%C3%A9rature"
         }
       ],
       "title": "Contes humoristiques",
