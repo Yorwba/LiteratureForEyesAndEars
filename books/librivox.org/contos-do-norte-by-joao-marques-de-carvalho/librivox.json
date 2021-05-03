@@ -1,0 +1,174 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1866",
+          "dod": "1910",
+          "first_name": "João",
+          "id": "13701",
+          "last_name": "Marques de Carvalho"
+        }
+      ],
+      "copyright_year": "1907",
+      "description": "Contos do Norte é uma coleção de contos ambientados na região norte do Brasil. Seu autor, Marques de Carvalho, diz que seu livro se pretende \"uma homenagem ao povo paraense\". As histórias são, em geral, curtas e melancólicas, com os elementos da floresta, dos rios amazônicos e das populações ribeirinhas em destaque. (Summary by Leni)",
+      "genres": [
+        {
+          "id": "76",
+          "name": "Single Author Collections"
+        }
+      ],
+      "id": "13396",
+      "language": "Portuguese",
+      "num_sections": "9",
+      "sections": [
+        {
+          "file_name": "contosdonorte_0_marquesdecarvalho_64kb.mp3",
+          "id": "445975",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_0_marquesdecarvalho_64kb.mp3",
+          "playtime": "282",
+          "readers": [
+            {
+              "display_name": "brianna",
+              "reader_id": "11995"
+            }
+          ],
+          "section_number": "0",
+          "title": "Uma homenagem"
+        },
+        {
+          "file_name": "contosdonorte_1_marquesdecarvalho_64kb.mp3",
+          "id": "445977",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_1_marquesdecarvalho_64kb.mp3",
+          "playtime": "1380",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "1",
+          "title": "Represalias"
+        },
+        {
+          "file_name": "contosdonorte_2_marquesdecarvalho_64kb.mp3",
+          "id": "445978",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_2_marquesdecarvalho_64kb.mp3",
+          "playtime": "736",
+          "readers": [
+            {
+              "display_name": "Leni",
+              "reader_id": "2961"
+            }
+          ],
+          "section_number": "2",
+          "title": "Um exgottado"
+        },
+        {
+          "file_name": "contosdonorte_3_marquesdecarvalho_64kb.mp3",
+          "id": "445979",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_3_marquesdecarvalho_64kb.mp3",
+          "playtime": "390",
+          "readers": [
+            {
+              "display_name": "brianna",
+              "reader_id": "11995"
+            }
+          ],
+          "section_number": "3",
+          "title": "Conto do Natal"
+        },
+        {
+          "file_name": "contosdonorte_4_marquesdecarvalho_64kb.mp3",
+          "id": "445976",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_4_marquesdecarvalho_64kb.mp3",
+          "playtime": "1671",
+          "readers": [
+            {
+              "display_name": "Mayah",
+              "reader_id": "11247"
+            }
+          ],
+          "section_number": "4",
+          "title": "A neta da cabocla de ourém"
+        },
+        {
+          "file_name": "contosdonorte_5_marquesdecarvalho_64kb.mp3",
+          "id": "445980",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_5_marquesdecarvalho_64kb.mp3",
+          "playtime": "619",
+          "readers": [
+            {
+              "display_name": "Mayah",
+              "reader_id": "11247"
+            }
+          ],
+          "section_number": "5",
+          "title": "O banho de Tapuia"
+        },
+        {
+          "file_name": "contosdonorte_6_marquesdecarvalho_64kb.mp3",
+          "id": "445981",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_6_marquesdecarvalho_64kb.mp3",
+          "playtime": "840",
+          "readers": [
+            {
+              "display_name": "Rachel Moraes",
+              "reader_id": "12670"
+            }
+          ],
+          "section_number": "6",
+          "title": "Complicações psychologicas"
+        },
+        {
+          "file_name": "contosdonorte_7_marquesdecarvalho_64kb.mp3",
+          "id": "445982",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_7_marquesdecarvalho_64kb.mp3",
+          "playtime": "643",
+          "readers": [
+            {
+              "display_name": "Pietro Colloca",
+              "reader_id": "12865"
+            }
+          ],
+          "section_number": "7",
+          "title": "Um caso da Cabanada"
+        },
+        {
+          "file_name": "contosdonorte_8_marquesdecarvalho_64kb.mp3",
+          "id": "445983",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_8_marquesdecarvalho_64kb.mp3",
+          "playtime": "1090",
+          "readers": [
+            {
+              "display_name": "Pier",
+              "reader_id": "12428"
+            }
+          ],
+          "section_number": "8",
+          "title": "Um como tantos"
+        }
+      ],
+      "title": "Contos do Norte",
+      "totaltime": "02:07:31",
+      "totaltimesecs": 7651,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/contos_do_norte_1812_librivox",
+      "url_librivox": "https://librivox.org/contos-do-norte-by-joao-marques-de-carvalho/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/13396",
+      "url_text_source": "http://www.gutenberg.org/ebooks/28691",
+      "url_zip_file": "http://www.archive.org/download//contos_do_norte_1812_librivox/contos_do_norte_1812_librivox_64kb_mp3.zip"
+    }
+  ]
+}
