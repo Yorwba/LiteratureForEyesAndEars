@@ -13,10 +13,6 @@
       "copyright_year": "1907",
       "description": "Contos do Norte é uma coleção de contos ambientados na região norte do Brasil. Seu autor, Marques de Carvalho, diz que seu livro se pretende \"uma homenagem ao povo paraense\". As histórias são, em geral, curtas e melancólicas, com os elementos da floresta, dos rios amazônicos e das populações ribeirinhas em destaque. (Summary by Leni)",
       "genres": [
-        {
-          "id": "76",
-          "name": "Single Author Collections"
-        }
       ],
       "id": "13396",
       "language": "Portuguese",
@@ -25,7 +21,6 @@
         {
           "file_name": "contosdonorte_0_marquesdecarvalho_64kb.mp3",
           "id": "445975",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_0_marquesdecarvalho_64kb.mp3",
           "playtime": "282",
           "readers": [
@@ -40,7 +35,6 @@
         {
           "file_name": "contosdonorte_1_marquesdecarvalho_64kb.mp3",
           "id": "445977",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_1_marquesdecarvalho_64kb.mp3",
           "playtime": "1380",
           "readers": [
@@ -55,7 +49,6 @@
         {
           "file_name": "contosdonorte_2_marquesdecarvalho_64kb.mp3",
           "id": "445978",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_2_marquesdecarvalho_64kb.mp3",
           "playtime": "736",
           "readers": [
@@ -70,7 +63,6 @@
         {
           "file_name": "contosdonorte_3_marquesdecarvalho_64kb.mp3",
           "id": "445979",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_3_marquesdecarvalho_64kb.mp3",
           "playtime": "390",
           "readers": [
@@ -85,7 +77,6 @@
         {
           "file_name": "contosdonorte_4_marquesdecarvalho_64kb.mp3",
           "id": "445976",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_4_marquesdecarvalho_64kb.mp3",
           "playtime": "1671",
           "readers": [
@@ -100,7 +91,6 @@
         {
           "file_name": "contosdonorte_5_marquesdecarvalho_64kb.mp3",
           "id": "445980",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_5_marquesdecarvalho_64kb.mp3",
           "playtime": "619",
           "readers": [
@@ -115,7 +105,6 @@
         {
           "file_name": "contosdonorte_6_marquesdecarvalho_64kb.mp3",
           "id": "445981",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_6_marquesdecarvalho_64kb.mp3",
           "playtime": "840",
           "readers": [
@@ -130,7 +119,6 @@
         {
           "file_name": "contosdonorte_7_marquesdecarvalho_64kb.mp3",
           "id": "445982",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_7_marquesdecarvalho_64kb.mp3",
           "playtime": "643",
           "readers": [
@@ -145,7 +133,6 @@
         {
           "file_name": "contosdonorte_8_marquesdecarvalho_64kb.mp3",
           "id": "445983",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/kitty/contosdonorte_8_marquesdecarvalho_64kb.mp3",
           "playtime": "1090",
           "readers": [
