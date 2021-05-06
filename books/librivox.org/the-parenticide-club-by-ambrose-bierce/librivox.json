@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1842",
+          "dod": "1914",
+          "first_name": "Ambrose",
+          "id": "417",
+          "last_name": "Bierce"
+        }
+      ],
+      "copyright_year": "1911",
+      "description": "Ambrose Bierce (1842 - 1914?), best known as journalist, satirist and short story writer. Cynical in outlook, economical in style; Bierce vanished while an observer with Pancho Villa's army.<br /><br />Four grotesque short stories about murder within the family, seen through the gently innocent eyes of family members ... usually the murderer himself.<br />\n(Summary written by Peter Yearsley)",
+      "genres": [
+        {
+          "id": "16",
+          "name": "Horror & Supernatural Fiction"
+        },
+        {
+          "id": "31",
+          "name": "Short Stories"
+        }
+      ],
+      "id": "364",
+      "language": "English",
+      "num_sections": "1",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "126025",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "2930",
+          "readers": [
+            {
+              "display_name": "Peter Yearsley",
+              "reader_id": "167"
+            }
+          ],
+          "section_number": "1",
+          "title": "The Parenticide Club"
+        }
+      ],
+      "title": "Parenticide Club",
+      "totaltime": "00:48:50",
+      "totaltimesecs": 2930,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/parenticide_librivox",
+      "url_librivox": "https://librivox.org/the-parenticide-club-by-ambrose-bierce/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/364",
+      "url_text_source": "http://www.gutenberg.org/etext/3715",
+      "url_zip_file": "http://archive.org/download/parenticide_librivox/parenticide_librivox_64kb_mp3.zip"
+    }
+  ]
+}
