@@ -1,0 +1,129 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1839",
+          "dod": "1902",
+          "first_name": "Adolf",
+          "id": "13823",
+          "last_name": "Dygasiński"
+        }
+      ],
+      "copyright_year": "1898",
+      "description": "Narrator, prywaty nauczyciel z Małowieży, przygarnia wilcze szczenię, potomka rzekomego wilkołaka, starając się go wychować w towarzystwie swoich psów. Takim obrotem sprawy jednak nie są zachwyceni miejscowi, a i w samym wychowanku wkrótce zaczyna brać górę natura przodków. (Piotr Nater)\nJako malarz zwierząt zajmuje Adolf Dygasiński w naszej beletrystyce współczesnej miejsce naczelne. Nikt mu dotąd w tym kierunku nie dorównał. (z przedmowy) ",
+      "genres": [
+        {
+          "id": "21",
+          "name": "Nature & Animal Fiction"
+        }
+      ],
+      "id": "13555",
+      "language": "Polish",
+      "num_sections": "6",
+      "sections": [
+        {
+          "file_name": "wilkpsyiludzie_01_dygasinski_64kb.mp3",
+          "id": "450334",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_01_dygasinski_64kb.mp3",
+          "playtime": "805",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "1",
+          "title": "Rozdział 1"
+        },
+        {
+          "file_name": "wilkpsyiludzie_02_dygasinski_64kb.mp3",
+          "id": "450335",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_02_dygasinski_64kb.mp3",
+          "playtime": "894",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "2",
+          "title": "Rozdzial 2"
+        },
+        {
+          "file_name": "wilkpsyiludzie_03_dygasinski_64kb.mp3",
+          "id": "450336",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_03_dygasinski_64kb.mp3",
+          "playtime": "1463",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "3",
+          "title": "Rozdział 3 cz. 1"
+        },
+        {
+          "file_name": "wilkpsyiludzie_04_dygasinski_64kb.mp3",
+          "id": "450337",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_04_dygasinski_64kb.mp3",
+          "playtime": "1428",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "4",
+          "title": "Rozdział 3 cz. 2"
+        },
+        {
+          "file_name": "wilkpsyiludzie_05_dygasinski_64kb.mp3",
+          "id": "450338",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_05_dygasinski_64kb.mp3",
+          "playtime": "922",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "5",
+          "title": "Rozdział 4"
+        },
+        {
+          "file_name": "wilkpsyiludzie_06_dygasinski_64kb.mp3",
+          "id": "450339",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_06_dygasinski_64kb.mp3",
+          "playtime": "1107",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "6",
+          "title": "Rozdział 5"
+        }
+      ],
+      "title": "Wilk, psy i ludzie",
+      "totaltime": "01:50:19",
+      "totaltimesecs": 6619,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/wilk_psy_i_ludzie_1812_librivox",
+      "url_librivox": "https://librivox.org/wilk-psy-i-ludzie-by-adolf-dygasinski/",
+      "url_other": "",
+      "url_project": "https://pl.wikipedia.org/wiki/Wilk,_psy_i_ludzie",
+      "url_rss": "https://librivox.org/rss/13555",
+      "url_text_source": "https://polona.pl/item/wilk-psy-i-ludzie-w-puszczy,Mjg0MDY4MTA/14/#info:metadata",
+      "url_zip_file": "http://www.archive.org/download//wilk_psy_i_ludzie_1812_librivox/wilk_psy_i_ludzie_1812_librivox_64kb_mp3.zip"
+    }
+  ]
+}
