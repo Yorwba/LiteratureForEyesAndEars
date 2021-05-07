@@ -25,7 +25,6 @@
         {
           "file_name": "wilkpsyiludzie_01_dygasinski_64kb.mp3",
           "id": "450334",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_01_dygasinski_64kb.mp3",
           "playtime": "805",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "wilkpsyiludzie_02_dygasinski_64kb.mp3",
           "id": "450335",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_02_dygasinski_64kb.mp3",
           "playtime": "894",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "wilkpsyiludzie_03_dygasinski_64kb.mp3",
           "id": "450336",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_03_dygasinski_64kb.mp3",
           "playtime": "1463",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "wilkpsyiludzie_04_dygasinski_64kb.mp3",
           "id": "450337",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_04_dygasinski_64kb.mp3",
           "playtime": "1428",
           "readers": [
@@ -85,7 +81,6 @@
         {
           "file_name": "wilkpsyiludzie_05_dygasinski_64kb.mp3",
           "id": "450338",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_05_dygasinski_64kb.mp3",
           "playtime": "922",
           "readers": [
@@ -100,7 +95,6 @@
         {
           "file_name": "wilkpsyiludzie_06_dygasinski_64kb.mp3",
           "id": "450339",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/wilkpsyiludzie_06_dygasinski_64kb.mp3",
           "playtime": "1107",
           "readers": [
@@ -122,7 +116,7 @@
       "url_other": "",
       "url_project": "https://pl.wikipedia.org/wiki/Wilk,_psy_i_ludzie",
       "url_rss": "https://librivox.org/rss/13555",
-      "url_text_source": "https://polona.pl/item/wilk-psy-i-ludzie-w-puszczy,Mjg0MDY4MTA/14/#info:metadata",
+      "url_text_source": "https://pl.wikisource.org/wiki/Wilk,_psy_i_ludzie",
       "url_zip_file": "http://www.archive.org/download//wilk_psy_i_ludzie_1812_librivox/wilk_psy_i_ludzie_1812_librivox_64kb_mp3.zip"
     }
   ]
