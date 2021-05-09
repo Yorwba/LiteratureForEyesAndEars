@@ -1,0 +1,609 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1864",
+          "dod": "1936",
+          "first_name": "Miguel de",
+          "id": "455",
+          "last_name": "Unamuno"
+        }
+      ],
+      "copyright_year": "1917",
+      "description": "Unamuno nos pone frente a frente con una de las pasiones humanas más viles y destructivas: La envidia.<br />\nJoaquín y Abel son amigos íntimos desde la infancia y ya desde el instituto Joaquín quiere tener y ser todo lo que representa Abel. Abel es un muchacho popular entre los compañeros, simpático, al que le encanta la pintura y mucho menos los libros. Joaquín por el contrario es aplicado y estudioso, pero no goza del encanto y la simpatía de Abel.<br />\nUnamuno hace una magnífica radiografía de esta pasión malsana que se apodera de Joaquín y que desgraciadamente está presente en todas las sociedades. La envidia llevará a Joaquín a la destrucción personal y la de su entorno más próximo, Abel y su propia familia.<br />\nEn fin, la historia bíblica de Caín y Abel transportada a la época contemporánea con la mano maestra de Miguel de Unamuno. (Montse González) ",
+      "genres": [
+        {
+          "id": "20",
+          "name": "Literary Fiction"
+        }
+      ],
+      "id": "13883",
+      "language": "Spanish",
+      "num_sections": "38",
+      "sections": [
+        {
+          "file_name": "abelsanchez_01_unamuno_64kb.mp3",
+          "id": "459494",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_01_unamuno_64kb.mp3",
+          "playtime": "644",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "1",
+          "title": "Capítulo I"
+        },
+        {
+          "file_name": "abelsanchez_02_unamuno_64kb.mp3",
+          "id": "459495",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_02_unamuno_64kb.mp3",
+          "playtime": "430",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "2",
+          "title": "Capítulo II"
+        },
+        {
+          "file_name": "abelsanchez_03_unamuno_64kb.mp3",
+          "id": "459496",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_03_unamuno_64kb.mp3",
+          "playtime": "477",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "3",
+          "title": "Capítulo III"
+        },
+        {
+          "file_name": "abelsanchez_04_unamuno_64kb.mp3",
+          "id": "459497",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_04_unamuno_12kb.mp3",
+          "playtime": "153",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "4",
+          "title": "Capítulo IV"
+        },
+        {
+          "file_name": "abelsanchez_05_unamuno_64kb.mp3",
+          "id": "459498",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_05_unamuno_64kb.mp3",
+          "playtime": "398",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "5",
+          "title": "Capítulo V"
+        },
+        {
+          "file_name": "abelsanchez_06_unamuno_64kb.mp3",
+          "id": "459499",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_06_unamuno_64kb.mp3",
+          "playtime": "417",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "6",
+          "title": "Capítulo VI"
+        },
+        {
+          "file_name": "abelsanchez_07_unamuno_64kb.mp3",
+          "id": "459500",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_07_unamuno_64kb.mp3",
+          "playtime": "294",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "7",
+          "title": "Capítulo VII"
+        },
+        {
+          "file_name": "abelsanchez_08_unamuno_64kb.mp3",
+          "id": "459501",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_08_unamuno_64kb.mp3",
+          "playtime": "466",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "8",
+          "title": "Capítulo VIII"
+        },
+        {
+          "file_name": "abelsanchez_09_unamuno_64kb.mp3",
+          "id": "459502",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_09_unamuno_64kb.mp3",
+          "playtime": "451",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "9",
+          "title": "Capítulo IX"
+        },
+        {
+          "file_name": "abelsanchez_10_unamuno_64kb.mp3",
+          "id": "459503",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_10_unamuno_64kb.mp3",
+          "playtime": "124",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "10",
+          "title": "Capítulo X"
+        },
+        {
+          "file_name": "abelsanchez_11_unamuno_64kb.mp3",
+          "id": "459504",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_11_unamuno_64kb.mp3",
+          "playtime": "431",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "11",
+          "title": "Capítulo XI"
+        },
+        {
+          "file_name": "abelsanchez_12_unamuno_64kb.mp3",
+          "id": "459505",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_12_unamuno_64kb.mp3",
+          "playtime": "471",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "12",
+          "title": "Capítulo XII"
+        },
+        {
+          "file_name": "abelsanchez_13_unamuno_64kb.mp3",
+          "id": "459506",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_13_unamuno_64kb.mp3",
+          "playtime": "410",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "13",
+          "title": "Capítulo XIII"
+        },
+        {
+          "file_name": "abelsanchez_14_unamuno_64kb.mp3",
+          "id": "459507",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_14_unamuno_64kb.mp3",
+          "playtime": "515",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "14",
+          "title": "Capítulo XIV"
+        },
+        {
+          "file_name": "abelsanchez_15_unamuno_64kb.mp3",
+          "id": "459508",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_15_unamuno_64kb.mp3",
+          "playtime": "270",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "15",
+          "title": "Capítulo XV"
+        },
+        {
+          "file_name": "abelsanchez_16_unamuno_64kb.mp3",
+          "id": "459509",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_16_unamuno_64kb.mp3",
+          "playtime": "290",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "16",
+          "title": "Capítulo XVI"
+        },
+        {
+          "file_name": "abelsanchez_17_unamuno_64kb.mp3",
+          "id": "459510",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_17_unamuno_64kb.mp3",
+          "playtime": "366",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "17",
+          "title": "Capítulo XVII"
+        },
+        {
+          "file_name": "abelsanchez_18_unamuno_64kb.mp3",
+          "id": "459511",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_18_unamuno_64kb.mp3",
+          "playtime": "269",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "18",
+          "title": "Capítulo XVIII"
+        },
+        {
+          "file_name": "abelsanchez_19_unamuno_64kb.mp3",
+          "id": "459512",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_19_unamuno_64kb.mp3",
+          "playtime": "192",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "19",
+          "title": "Capítulo XIX"
+        },
+        {
+          "file_name": "abelsanchez_20_unamuno_64kb.mp3",
+          "id": "459513",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_20_unamuno_64kb.mp3",
+          "playtime": "159",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "20",
+          "title": "Capitulo XX"
+        },
+        {
+          "file_name": "abelsanchez_21_unamuno_64kb.mp3",
+          "id": "459514",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_21_unamuno_64kb.mp3",
+          "playtime": "288",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "21",
+          "title": "Capítulo XXI"
+        },
+        {
+          "file_name": "abelsanchez_22_unamuno_64kb.mp3",
+          "id": "459515",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_22_unamuno_64kb.mp3",
+          "playtime": "428",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "22",
+          "title": "Capítulo XXII"
+        },
+        {
+          "file_name": "abelsanchez_23_unamuno_64kb.mp3",
+          "id": "459516",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_23_unamuno_64kb.mp3",
+          "playtime": "412",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "23",
+          "title": "Capítulo XXIII"
+        },
+        {
+          "file_name": "abelsanchez_24_unamuno_64kb.mp3",
+          "id": "459517",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_24_unamuno_64kb.mp3",
+          "playtime": "266",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "24",
+          "title": "Capítulo XXIV"
+        },
+        {
+          "file_name": "abelsanchez_25_unamuno_64kb.mp3",
+          "id": "459518",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_25_unamuno_64kb.mp3",
+          "playtime": "345",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "25",
+          "title": "Capítulo XXV"
+        },
+        {
+          "file_name": "abelsanchez_26_unamuno_64kb.mp3",
+          "id": "459519",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_26_unamuno_64kb.mp3",
+          "playtime": "284",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "26",
+          "title": "Capítulo XXVI"
+        },
+        {
+          "file_name": "abelsanchez_27_unamuno_64kb.mp3",
+          "id": "459520",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_27_unamuno_64kb.mp3",
+          "playtime": "542",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "27",
+          "title": "Capítulo XXVII"
+        },
+        {
+          "file_name": "abelsanchez_28_unamuno_64kb.mp3",
+          "id": "459521",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_28_unamuno_64kb.mp3",
+          "playtime": "183",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "28",
+          "title": "Capítulo XXVIII"
+        },
+        {
+          "file_name": "abelsanchez_29_unamuno_64kb.mp3",
+          "id": "459522",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_29_unamuno_64kb.mp3",
+          "playtime": "517",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "29",
+          "title": "Capítulo XIX"
+        },
+        {
+          "file_name": "abelsanchez_30_unamuno_64kb.mp3",
+          "id": "459523",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_30_unamuno_64kb.mp3",
+          "playtime": "245",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "30",
+          "title": "Capítulo XXX"
+        },
+        {
+          "file_name": "abelsanchez_31_unamuno_64kb.mp3",
+          "id": "459524",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_31_unamuno_64kb.mp3",
+          "playtime": "591",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "31",
+          "title": "Capítulo XXXI"
+        },
+        {
+          "file_name": "abelsanchez_32_unamuno_64kb.mp3",
+          "id": "459525",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_32_unamuno_64kb.mp3",
+          "playtime": "276",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "32",
+          "title": "Capítulo XXXII"
+        },
+        {
+          "file_name": "abelsanchez_33_unamuno_64kb.mp3",
+          "id": "459526",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_33_unamuno_64kb.mp3",
+          "playtime": "338",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "33",
+          "title": "Capítulo XXXIII"
+        },
+        {
+          "file_name": "abelsanchez_34_unamuno_64kb.mp3",
+          "id": "459527",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_34_unamuno_64kb.mp3",
+          "playtime": "187",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "34",
+          "title": "Capítulo XXXIV"
+        },
+        {
+          "file_name": "abelsanchez_35_unamuno_64kb.mp3",
+          "id": "459528",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_35_unamuno_64kb.mp3",
+          "playtime": "233",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "35",
+          "title": "Capítulo XXXV"
+        },
+        {
+          "file_name": "abelsanchez_36_unamuno_64kb.mp3",
+          "id": "459529",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_36_unamuno_64kb.mp3",
+          "playtime": "324",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "36",
+          "title": "Capítulo XXXVI"
+        },
+        {
+          "file_name": "abelsanchez_37_unamuno_64kb.mp3",
+          "id": "459530",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_37_unamuno_64kb.mp3",
+          "playtime": "408",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "37",
+          "title": "Capítulo XXXVII"
+        },
+        {
+          "file_name": "abelsanchez_38_unamuno_64kb.mp3",
+          "id": "459531",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/abelsanchez_38_unamuno_64kb.mp3",
+          "playtime": "406",
+          "readers": [
+            {
+              "display_name": "Mongope",
+              "reader_id": "10246"
+            }
+          ],
+          "section_number": "38",
+          "title": "Capítulo XXXVIII"
+        }
+      ],
+      "title": "Abel Sánchez",
+      "totaltime": "03:45:00",
+      "totaltimesecs": 13500,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/abelsanchez_1904_librivox",
+      "url_librivox": "https://librivox.org/abel-sanchez-by-miguel-de-unamuno/",
+      "url_other": "",
+      "url_project": "https://es.wikipedia.org/wiki/Abel_Sánchez",
+      "url_rss": "https://librivox.org/rss/13883",
+      "url_text_source": "http://bdh-rd.bne.es/viewer.vm?id=0000200724&page=1",
+      "url_zip_file": "http://www.archive.org/download//abelsanchez_1904_librivox/abelsanchez_1904_librivox_64kb_mp3.zip"
+    }
+  ]
+}
