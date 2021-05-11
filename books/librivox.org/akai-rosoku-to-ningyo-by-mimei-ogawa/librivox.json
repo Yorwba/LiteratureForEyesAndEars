@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1882",
+          "dod": "1961",
+          "first_name": "Mimei",
+          "id": "2924",
+          "last_name": "Ogawa"
+        }
+      ],
+      "copyright_year": "1921",
+      "description": "小川未明(1882-1961)の代表作、「赤いろうそくと人魚」は1921年に東京朝日新聞に 掲載されました。老夫婦に育てられた女の子の人魚は、ろうそくに絵を描いて、商売を 繁盛させました。しかし、金に心を奪われた老夫婦は、娘を香具師に売り渡してしまいます。\n<br /><br />\nRed Candles and a Mermaid, the masterpiece of OGAWA Mimei (1882-1961) appeared on The Newspaper Tokyo-Asahi in 1921. A mermaid was raised by an elderly couple. She painted on candles and made their business prosper. But the couple became greedy and sold their daughter to a circus. (Summary by Uchida Masatomo)",
+      "genres": [
+        {
+          "id": "1",
+          "name": "Children's Fiction"
+        }
+      ],
+      "id": "6579",
+      "language": "Japanese",
+      "num_sections": "5",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "94206",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "258",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "1",
+          "title": "一"
+        },
+        {
+          "file_name": null,
+          "id": "94207",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "244",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "2",
+          "title": "二"
+        },
+        {
+          "file_name": null,
+          "id": "94208",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "237",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "3",
+          "title": "三"
+        },
+        {
+          "file_name": null,
+          "id": "94209",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "234",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "4",
+          "title": "四"
+        },
+        {
+          "file_name": null,
+          "id": "94210",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "260",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "5",
+          "title": "五"
+        }
+      ],
+      "title": "赤いろうそくと人魚 (Akai Rosoku to Ningyo)",
+      "totaltime": "0:20:33",
+      "totaltimesecs": 1233,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/akai_rosoku_um_librivox",
+      "url_librivox": "https://librivox.org/akai-rosoku-to-ningyo-by-mimei-ogawa/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/6579",
+      "url_text_source": "http://www.aozora.gr.jp/cards/001475/files/51005_46224.html",
+      "url_zip_file": "http://www.archive.org/download/akai_rosoku_um_librivox/akai_rosoku_um_librivox_64kb_mp3.zip"
+    }
+  ]
+}
