@@ -41,7 +41,7 @@ def intro(book):
     title = deparen(book['title'])
     by_authors = by_people(book['authors'])
     if book['script_name'] == book['speech_name']:
-        skills = f'{book["language"]} spelling and pronuciation'
+        skills = f'{book["language"]} spelling and pronunciation'
     else:
         skills = f'{book["script_name"]} spelling and {book["speech_name"]} pronunciation'
     return f'Practice and perfect your {skills} with this ' \
