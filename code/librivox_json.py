@@ -19,7 +19,7 @@ def get_books(path):
             if slang == 'English' and blang != 'Multilingual':
                 slang = blang
             if slang == 'Chinese':
-                stitle = s['title'] or ''
+                stitle = s.get('title', '') or ''
                 chinese_varieties = {
                     'Cantonese Chinese': {'Cantonese', 'Canonese'},
                     'Chengdu dialect': set(),
