@@ -21,23 +21,22 @@ def get_books(path):
             if slang == 'Chinese':
                 stitle = s['title'] or ''
                 chinese_varieties = {
-                    'Cantonese',
-                    'Canonese',
-                    'Chengdu dialect',
-                    'Hainanese',
-                    'Hakka',
-                    'Hokkien',
-                    'Hunanese - Changsha',
-                    'Hunanese - Linwu',
-                    'Hunanese - Taoyuan',
-                    'Sichuanese',
-                    '(Shandong)',
-                    'Taishanese',
-                    'Taiwanese',
-                    'Teochow',
+                    'Cantonese Chinese': {'Cantonese', 'Canonese'},
+                    'Chengdu dialect': set(),
+                    'Hainanese': set(),
+                    'Hakka': set(),
+                    'Hokkien': set(),
+                    'Hunanese - Changsha': set(),
+                    'Hunanese - Linwu': set(),
+                    'Hunanese - Taoyuan': set(),
+                    'Sichuanese': set(),
+                    '(Shandong)': set(),
+                    'Taishanese': set(),
+                    'Taiwanese': set(),
+                    'Teochow': set(),
                 }
-                for tlang in chinese_varieties:
-                    if tlang in stitle:
+                for tlang, aliases in chinese_varieties.items():
+                    if any(a in stitle for a in aliases | {tlang}):
                         slang = tlang
             s['language'] = slang
             slangs.add(slang)
