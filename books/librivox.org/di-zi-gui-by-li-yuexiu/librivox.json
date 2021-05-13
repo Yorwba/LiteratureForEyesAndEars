@@ -5,13 +5,13 @@
         {
           "dob": "",
           "dod": "",
-          "first_name": "Yuexiu",
+          "first_name": "",
           "id": "9862",
-          "last_name": "Li"
+          "last_name": "李毓秀"
         }
       ],
       "copyright_year": "1722",
-      "description": "Di Zi Gui (弟子规), in English, means the Standards for being a Good Student and Child. It is an ancient book based on the teaching of the great Confucius that emphasises on the basic requisites for being a good person and guidelines for living in harmony with others. The source for the main outline of it is from Analects of Confucius, Book 1, Chapter 6, where Confucius said:<br /><br />\"A young man should be a good son at home and an obedient young man abroad, sparing of speech but trustworthy in what he says, and should love the multitude at large but cultivate the friendship of his fellow men. If he has any energy to spare from such action, let him devote it to making himself cultivated.\"<br /><br />There are altogether seven chapters in Di Zi Gui, with each chapter listing one duty that a good person should follow in life. (From Wikipedia)<br /><br />《弟子规》（原名《訓蒙文》）是中国传统的启蒙教材之一，作者是清朝康熙年间的秀才李毓秀。後經賈存仁修訂改編而成為弟子規。其內容取自《論語·學而篇》中的第六條：「弟子入則孝，出則弟，謹而信，汎愛眾，而親仁，行有餘力，則以學文。」 《弟子规》是以三字一句，兩句一韻的的文体方式編纂而成。然后再以《總敘》、《入則孝》、《出則弟》、《謹》、《信》、《汎愛眾》、《親仁》和《餘力以學文》等部份来加以演述。(维基百科)",
+      "description": "Di Zi Gui (弟子規), in English, means the Standards for being a Good Student and Child. It is an ancient book based on the teaching of the great Confucius that emphasises on the basic requisites for being a good person and guidelines for living in harmony with others. The source for the main outline of it is from Analects of Confucius, Book 1, Chapter 6, where Confucius said:<br /><br />\"A young man should be a good son at home and an obedient young man abroad, sparing of speech but trustworthy in what he says, and should love the multitude at large but cultivate the friendship of his fellow men. If he has any energy to spare from such action, let him devote it to making himself cultivated.\"<br /><br />There are altogether seven chapters in Di Zi Gui, with each chapter listing one duty that a good person should follow in life. (From Wikipedia)<br /><br />《弟子規》（原名《訓蒙文》）是中國傳統的啟蒙教材之一，作者是清朝康熙年間的秀才李毓秀。後經賈存仁修訂改編而成為弟子規。其內容取自《論語·學而篇》中的第六條：「弟子入則孝，出則弟，謹而信，汎愛眾，而規仁，行有餘力，則以學文。」 《弟子規》是以三字一句，兩句一韻的文體方式編纂而成。然後再以《總敘》、《入則孝》、《出則弟》、《謹》、《信》、《汎愛眾》、《親仁》和《餘力以學文》等部分來加以演述。(維基百科)",
       "genres": [
         {
           "id": "36",
@@ -27,13 +27,13 @@
         }
       ],
       "id": "2070",
-      "language": "Chinese",
+      "language": "Multilingual",
       "num_sections": "3",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "dizigui_cantonese_liyuexiu_64kb.mp3",
           "id": "157716",
-          "language": "English",
+          "language": "Cantonese Chinese",
           "listen_url": "",
           "playtime": "558",
           "readers": [
@@ -42,13 +42,12 @@
               "reader_id": "1871"
             }
           ],
-          "section_number": "1",
-          "title": "弟子规 – 广州话录音 – Cantonese"
+          "section_number": "1"
         },
         {
-          "file_name": null,
+          "file_name": "dizigui_hakka_liyuexiu_64kb.mp3",
           "id": "157717",
-          "language": "English",
+          "language": "Hakka Chinese",
           "listen_url": "",
           "playtime": "593",
           "readers": [
@@ -57,13 +56,12 @@
               "reader_id": "2601"
             }
           ],
-          "section_number": "2",
-          "title": "弟子规 – 客家话录音 – Hakka"
+          "section_number": "2"
         },
         {
-          "file_name": null,
+          "file_name": "dizigui_mandarin_liyuexiu_64kb.mp3",
           "id": "157718",
-          "language": "English",
+          "language": "Chinese",
           "listen_url": "",
           "playtime": "602",
           "readers": [
@@ -72,11 +70,10 @@
               "reader_id": "2245"
             }
           ],
-          "section_number": "3",
-          "title": "弟子规 – 国语录音 – Mandarin"
+          "section_number": "3"
         }
       ],
-      "title": "弟子规 Di Zi Gui",
+      "title": "弟子規 (Di Zi Gui)",
       "totaltime": "0:29:13",
       "totaltimesecs": 1753,
       "translators": [],
@@ -85,7 +82,7 @@
       "url_other": "",
       "url_project": "http://en.wikipedia.org/wiki/Di_Zi_Gui",
       "url_rss": "https://librivox.org/rss/2070",
-      "url_text_source": "http://www.amtb.tw/pdf/dzg_word.pdf",
+      "url_text_source": "https://zh.wikisource.org/wiki/%E5%BC%9F%E5%AD%90%E8%A6%8F",
       "url_zip_file": "http://www.archive.org/download/di_zi_gui_0805_librivox/di_zi_gui_0805_librivox_64kb_mp3.zip"
     }
   ]
