@@ -24,7 +24,7 @@ def get_books(path):
                     'Cantonese Chinese': {'Cantonese', 'Canonese'},
                     'Chengdu dialect': set(),
                     'Hainanese': set(),
-                    'Hakka': set(),
+                    'Hakka Chinese': {'Hakka'},
                     'Hokkien': set(),
                     'Hunanese - Changsha': set(),
                     'Hunanese - Linwu': set(),
