@@ -57,7 +57,7 @@ books/librivox.org/1000_books_starting_from_%.json:
 		> "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
-books/librivox.org/all.json: $(foreach i,$(shell seq 0 15),books/librivox.org/1000_books_starting_from_$(i)000.json)
+books/librivox.org/all.json: $(foreach i,$(shell seq 0 16),books/librivox.org/1000_books_starting_from_$(i)000.json)
 	code/librivox_concat_book_lists.py $^ > "$@" \
 	|| (rm "$@" && false) # delete in case of failure
 
