@@ -9,6 +9,42 @@ def get_books(path):
     books = info['books']
     if hasattr(books, 'values'):
         books = list(books.values())
+
+    # normalize language data
+    for b in books:
+        blang = b['language']
+        slangs = set()
+        for s in b.get('sections', []):
+            slang = s.get('language', blang)
+            if slang == 'English' and blang != 'Multilingual':
+                slang = blang
+            if slang == 'Chinese':
+                stitle = s['title'] or ''
+                chinese_varieties = {
+                    'Cantonese',
+                    'Canonese',
+                    'Chengdu dialect',
+                    'Hainanese',
+                    'Hakka',
+                    'Hokkien',
+                    'Hunanese - Changsha',
+                    'Hunanese - Linwu',
+                    'Hunanese - Taoyuan',
+                    'Sichuanese',
+                    '(Shandong)',
+                    'Taishanese',
+                    'Taiwanese',
+                    'Teochow',
+                }
+                for tlang in chinese_varieties:
+                    if tlang in stitle:
+                        slang = tlang
+            s['language'] = slang
+            slangs.add(slang)
+        if len(slangs) > 1:
+            b['language'] = 'Multilingual'
+
+    # find section matching file name
     if not path.endswith('.json'):
         filename = path.split('/')[-1].split('.')[0]
         if filename:

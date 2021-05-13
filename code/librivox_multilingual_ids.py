@@ -8,5 +8,5 @@ import sys
 
 if __name__ == '__main__':
     for book in get_books(sys.argv[1]):
-        if book['language'] == 'Multilingual':
+        if book['language'] in ('Multilingual', 'Chinese'):
             print(book['id'])
