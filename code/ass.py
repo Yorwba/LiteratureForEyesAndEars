@@ -24,6 +24,10 @@ def styles_for_language(language):
             "Default": "Noto Serif CJK SC,120",
             "Standout": "Noto Serif CJK SC,180",
         },
+        hak={
+            "Default": "Noto Serif CJK TC,120",
+            "Standout": "Noto Serif CJK TC,180",
+        },
         jpn={
             "Default": "Noto Serif CJK JP,120",
             "Standout": "Noto Serif CJK JP,180",
@@ -200,7 +204,7 @@ def main(argv):
     args = parser.parse_args(argv[1:])
     with open(args.alignment) as f: alignments = json.load(f)
 
-    use_template = args.furigana or args.language in {'cmn', 'jpn', 'yue'}
+    use_template = args.furigana or args.language in {'cmn', 'hak', 'jpn', 'yue'}
 
     if args.language == 'cmn' and 'cmn-Hans' in args.output:
         args.language = 'cmn_Hans'

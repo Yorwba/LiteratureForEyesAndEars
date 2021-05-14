@@ -47,6 +47,7 @@ def split_paragraph(paragraph, language=None):
     characters_per_line, lines_per_paragraph = defaultdict(
         lambda: (35, 8),
         cmn=(19, 7),
+        hak=(19, 7),
         jpn=(19, 5),
         kor=(26, 7),
         yue=(19, 7),
