@@ -22,7 +22,7 @@ language_codes = {
     'French': 'fra',
     'German': 'deu',
     'Greek': 'ell',
-    'Hakka Chinese': 'hak',
+    'Hakka Chinese': 'yue', # Should actually be 'hak'
     'Hebrew': 'heb',
     'Hungarian': 'hun',
     'Italian': 'ita',
