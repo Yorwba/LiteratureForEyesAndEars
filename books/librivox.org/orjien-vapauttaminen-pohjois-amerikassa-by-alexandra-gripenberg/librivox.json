@@ -11,7 +11,7 @@
         }
       ],
       "copyright_year": "1892",
-      "description": "Tämä lyhyt esitys orjien vapauttamisesta Pohjois-Amerikan Yhdysvalloissa\non kirjoitettu siinä toivossa, että se voisi olla lukemisena\nvarttuneemmalle nuorisolle sekä kansanopiston oppilaille heidän\nharjoittaessaan historian opintoja. Jos se, niin puutteellinen kuin se\nonkin, voisi jossakin määrin herättää myötätuntoisuutta niinhyvin yhtä\nmaailmanhistorian merkillisimpää tapahtumaa kuin niitä aatteita kohtaan,\njotka siitä saivat eloa, olisi tarkoitus täytetty.\n(Summary by Alexandra Gripenberg)",
+      "description": "Tämä lyhyt esitys orjien vapauttamisesta Pohjois-Amerikan Yhdysvalloissa on kirjoitettu siinä toivossa, että se voisi olla lukemisena varttuneemmalle nuorisolle sekä kansanopiston oppilaille heidän harjoittaessaan historian opintoja. Jos se, niin puutteellinen kuin se onkin, voisi jossakin määrin herättää myötätuntoisuutta niinhyvin yhtä maailmanhistorian merkillisimpää tapahtumaa kuin niitä aatteita kohtaan, jotka siitä saivat eloa, olisi tarkoitus täytetty.\n(Summary by Alexandra Gripenberg)",
       "genres": [
         {
           "id": "36",
@@ -27,9 +27,8 @@
       "num_sections": "2",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "orjienvapauttaminen_1_gripenberg_64kb.mp3",
           "id": "174072",
-          "language": "English",
           "listen_url": "",
           "playtime": "2593",
           "readers": [
@@ -42,9 +41,8 @@
           "title": "Ensimmäinen osa"
         },
         {
-          "file_name": null,
+          "file_name": "orjienvapauttaminen_2_gripenberg_64kb.mp3",
           "id": "174073",
-          "language": "English",
           "listen_url": "",
           "playtime": "3745",
           "readers": [
