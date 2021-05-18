@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1874",
+          "dod": "1938",
+          "first_name": "Ivana",
+          "id": "13840",
+          "last_name": "Brlić Mažuranić"
+        }
+      ],
+      "copyright_year": "1916",
+      "description": "Priče iz davnine, glasovita zbirka od osam pripovijetki-bajki Ivane Brlić-Mažuranić, u kojima je autorica ostvarila svoj književni vrhunac.[1] Zbirka je objavljena 1916. u izdanju Matice hrvatske, a drugo izdanje doživljava 1926.<br><br>Radnju pokreću likovi iz pretkršćanske, slavenske mitologije, koje je Brlić-Mažuranić, inače i dvostruka kandidatkinja za Nobelovu nagradu za književnost, stilizirala davši im određene osobine. Posluživši se oblikom bajke i fantastičnim elementima, stvorila je autonomni svijet davnine u kojem se mitski svijet spaja sa secesijski stiliziranom slikom vremena, prostora, likova i događaja. Prvo izdanje je imalo šest priča, a u drugom izdanju su dodane još dvije.<br><br>Croatian Tales of Long Ago (Croatian: Priče iz davnine), is a short story collection written by the acclaimed children's author Ivana Brlić-Mažuranić (sometimes spelled as \"Ivana Berlić-Mažuranić\" in English), originally published in 1916 in Zagreb by the Matica hrvatska publishing house. The collection is considered her masterpiece and it features a series of newly written fairy tales heavily inspired by motifs taken from ancient Slavic mythology of pre-Christian Croatia.<br><br>Croatian Tales of Long Ago are seen as one of the most typical examples of her writing style which has been compared by literary critics to Hans Christian Andersen and J. R. R. Tolkien due to the way it combines original fantasy plots with folk mythology.  Summary by Wikipedia",
+      "genres": [
+        {
+          "id": "11",
+          "name": "Myths, Legends & Fairy Tales"
+        }
+      ],
+      "id": "13583",
+      "language": "Croatian",
+      "num_sections": "7",
+      "sections": [
+        {
+          "file_name": "prieizdavnine_01_mazuranic_64kb.mp3",
+          "id": "450913",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/priceizdavnine_01_mazuranic_64kb.mp3",
+          "playtime": "2686",
+          "readers": [
+            {
+              "display_name": "Josip B.",
+              "reader_id": "12598"
+            }
+          ],
+          "section_number": "1",
+          "title": "Kako je Potjeh tražio istinu"
+        },
+        {
+          "file_name": "prieizdavnine_02_mazuranic_64kb.mp3",
+          "id": "450914",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/priceizdavnine_02_mazuranic_64kb.mp3",
+          "playtime": "2098",
+          "readers": [
+            {
+              "display_name": "Josip B.",
+              "reader_id": "12598"
+            }
+          ],
+          "section_number": "2",
+          "title": "Ribar Palunko i njegova žena"
+        },
+        {
+          "file_name": "prieizdavnine_03_mazuranic_64kb.mp3",
+          "id": "450915",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/priceizdavnine_03_mazuranic_64kb.mp3",
+          "playtime": "2520",
+          "readers": [
+            {
+              "display_name": "Josip B.",
+              "reader_id": "12598"
+            }
+          ],
+          "section_number": "3",
+          "title": "Regoč"
+        },
+        {
+          "file_name": "prieizdavnine_04_mazuranic_64kb.mp3",
+          "id": "450916",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/priceizdavnine_04_mazuranic_64kb.mp3",
+          "playtime": "1276",
+          "readers": [
+            {
+              "display_name": "Josip B.",
+              "reader_id": "12598"
+            }
+          ],
+          "section_number": "4",
+          "title": "Sunce djever i Neva Nevičica"
+        },
+        {
+          "file_name": "prieizdavnine_05_mazuranic_64kb.mp3",
+          "id": "450917",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/priceizdavnine_05_mazuranic_64kb.mp3",
+          "playtime": "1200",
+          "readers": [
+            {
+              "display_name": "Josip B.",
+              "reader_id": "12598"
+            }
+          ],
+          "section_number": "5",
+          "title": "Šuma Striborova"
+        },
+        {
+          "file_name": "prieizdavnine_06_mazuranic_64kb.mp3",
+          "id": "450918",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/priceizdavnine_06_mazuranic_64kb.mp3",
+          "playtime": "2327",
+          "readers": [
+            {
+              "display_name": "Josip B.",
+              "reader_id": "12598"
+            }
+          ],
+          "section_number": "6",
+          "title": "Bratac Jaglenac i sestrica Rutvica, prvi dio"
+        },
+        {
+          "file_name": "prieizdavnine_07_mazuranic_64kb.mp3",
+          "id": "459532",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/priceizdavnine_07_mazuranic_64kb.mp3",
+          "playtime": "1869",
+          "readers": [
+            {
+              "display_name": "Josip B.",
+              "reader_id": "12598"
+            }
+          ],
+          "section_number": "7",
+          "title": "Bratac Jaglenac i sestrica Rutvica, drugi dio"
+        }
+      ],
+      "title": "Priče iz Davnine",
+      "totaltime": "03:52:56",
+      "totaltimesecs": 13976,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/prieizdavnine_1903_librivox",
+      "url_librivox": "https://librivox.org/price-iz-davnine-by-ivana-brlic-mazuranic/",
+      "url_other": "",
+      "url_project": "https://hr.wikipedia.org/wiki/Priče_iz_davnine",
+      "url_rss": "https://librivox.org/rss/13583",
+      "url_text_source": "https://digitalnezbirke.kgz.hr/?object=info&id=18603",
+      "url_zip_file": "http://www.archive.org/download//prieizdavnine_1903_librivox/prieizdavnine_1903_librivox_64kb_mp3.zip"
+    }
+  ]
+}
