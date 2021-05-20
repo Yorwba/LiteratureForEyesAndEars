@@ -1,0 +1,69 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1874",
+          "dod": "1936",
+          "first_name": "G. K.",
+          "id": "426",
+          "last_name": "Chesterton"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "In the freezing English countryside, Father Brown leads Flambeau to the many monuments and shrines of the great General St. Claire.  \"Sacred to the Memory of General Sir Arthur St. Clare, Hero and Martyr, who Always Vanquished his Enemies and Always Spared Them, and Was Treacherously Slain by Them At Last. May God in Whom he Trusted both Reward and Revenge him.\" is the inscription that they read on each of them.  Flambeau knows nothing of him but listens to the story of this man as Father Brown tells it.  Was St. Claire truly a hero and martyr?  What is the mystery behind his last foolish and hopeless charge against an overwhelming enemy?   This detective story delves into human psychology for many of the clues to unravel the tangled threads.  A fascinating story and said to be one of Chesterton's best Fr. Brown stories.",
+      "genres": [
+        {
+          "id": "22",
+          "name": "Detective Fiction"
+        }
+      ],
+      "id": "9626",
+      "language": "English",
+      "num_sections": "2",
+      "sections": [
+        {
+          "file_name": "thesignofthebrokensword_01_chesterton_64kb.mp3",
+          "id": "331688",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/philchenevert/signofthebrokensword_01_chesterton.mp3",
+          "playtime": "1391",
+          "readers": [
+            {
+              "display_name": "Phil Chenevert",
+              "reader_id": "5717"
+            }
+          ],
+          "section_number": "1",
+          "title": "Part 1"
+        },
+        {
+          "file_name": "thesignofthebrokensword_02_chesterton_64kb.mp3",
+          "id": "331689",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/philchenevert/signofthebrokensword_02_chesterton.mp3",
+          "playtime": "1541",
+          "readers": [
+            {
+              "display_name": "Phil Chenevert",
+              "reader_id": "5717"
+            }
+          ],
+          "section_number": "2",
+          "title": "Part 2"
+        }
+      ],
+      "title": "Sign of the Broken Sword",
+      "totaltime": "00:48:52",
+      "totaltimesecs": 2932,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/thesignofthebrokensword_1503_librivox",
+      "url_librivox": "https://librivox.org/the-sign-of-the-broken-sword-by-g-k-chesterton/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/9626",
+      "url_text_source": "http://www.gutenberg.org/ebooks/204",
+      "url_zip_file": "http://www.archive.org/download//thesignofthebrokensword_1503_librivox/thesignofthebrokensword_1503_librivox_64kb_mp3.zip"
+    }
+  ]
+}
