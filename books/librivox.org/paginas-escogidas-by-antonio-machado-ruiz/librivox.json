@@ -1,0 +1,219 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1875",
+          "dod": "1939",
+          "first_name": "Antonio",
+          "id": "15041",
+          "last_name": "Machado Ruiz"
+        }
+      ],
+      "copyright_year": "1917",
+      "description": "El presente libro es una recopilación de poemas escogidos por el mismo Antonio Machado, autor de los libros \"Soledades. Soledades Galerías y Otros Poemas\", \"Canciones - Humoradas\", \"Campos de Castilla\" y \"La Tierra de Alvargonzales\". A diferencia de otros poemarios, cada uno de estos libros tiene una esencia distinta, algunos poemas tratan de la patria, otros de la naturaleza e incluso, los últimos resultan ser una historia continua sobre un acontecimiento fatal narrada en versos cortos. Una compilación calificada por el mismo autor como, si no la mejor, al menos las que mejores sentimientos le despertaron en su creación. (Summary by Kendal Rigans)",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        }
+      ],
+      "id": "15253",
+      "language": "Spanish",
+      "num_sections": "12",
+      "sections": [
+        {
+          "file_name": "paginasescogidas_01_machadoruiz_64kb.mp3",
+          "id": "499075",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_01_machadoruiz_64kb.mp3",
+          "playtime": "313",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "1",
+          "title": "Prólogo - Nota Biográfica"
+        },
+        {
+          "file_name": "paginasescogidas_02_machadoruiz_64kb.mp3",
+          "id": "499076",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_02_machadoruiz_64kb.mp3",
+          "playtime": "514",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "2",
+          "title": "SOLEDADES: Prólogo - El viajero - La plaza y los naranjos encendidos - En el entierro de un amigo - Recuerdo infantil - Yo voy soñando caminos - Hacia un ocaso radiante"
+        },
+        {
+          "file_name": "paginasescogidas_03_machadoruiz_64kb.mp3",
+          "id": "499077",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_03_machadoruiz_64kb.mp3",
+          "playtime": "398",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "3",
+          "title": "Cante Hondo - La calle en sombra - El poeta - Verdes Jardinillos - Del Camino"
+        },
+        {
+          "file_name": "paginasescogidas_04_machadoruiz_64kb.mp3",
+          "id": "499078",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_04_machadoruiz_64kb.mp3",
+          "playtime": "656",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "4",
+          "title": "Galerías - Introducción - Sueño Infantil - Campo - Los sueños - Renacimiento"
+        },
+        {
+          "file_name": "paginasescogidas_05_machadoruiz_64kb.mp3",
+          "id": "499079",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_05_machadoruiz_64kb.mp3",
+          "playtime": "432",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "5",
+          "title": "CANCIONES HUMORADAS: Abril florecía - De la vida - La noria - Las moscas - Elegía de un madrigal - Acaso ... - Jardín"
+        },
+        {
+          "file_name": "paginasescogidas_06_machadoruiz_64kb.mp3",
+          "id": "499080",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_06_machadoruiz_64kb.mp3",
+          "playtime": "310",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "6",
+          "title": "A un naranjo y a un limonero vistos en una tienda de plantas y flores - Hastío - Nevermore - De la vida - Sol de invierno - A un viejo y distinguido señor"
+        },
+        {
+          "file_name": "paginasescogidas_07_machadoruiz_64kb.mp3",
+          "id": "499081",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_07_machadoruiz_64kb.mp3",
+          "playtime": "477",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "7",
+          "title": "CAMPOS DE CASTILLA: Prólogo - A orillas del Duero - Por tierras de España"
+        },
+        {
+          "file_name": "paginasescogidas_08_machadoruiz_64kb.mp3",
+          "id": "499082",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_08_machadoruiz_64kb.mp3",
+          "playtime": "538",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "8",
+          "title": "El Hospicio - Amanecer de otoño - Noche de verano - Pascua de Resurrección - Campos de Soria - A un olmo seco"
+        },
+        {
+          "file_name": "paginasescogidas_09_machadoruiz_64kb.mp3",
+          "id": "499083",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_09_machadoruiz_64kb.mp3",
+          "playtime": "571",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "9",
+          "title": "LA TIERRA DE ALVARGONZÁLEZ: Siendo mozo Alvargonzález - Feliz vivió Alvargonzález - Mucha sangre de Caín - Alvargonzález ya tiene - El sueño - Aquella tarde... - Otros días - Castigo"
+        },
+        {
+          "file_name": "paginasescogidas_10_machadoruiz_64kb.mp3",
+          "id": "499084",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_10_machadoruiz_64kb.mp3",
+          "playtime": "658",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "10",
+          "title": "El viajero - El indiano - La casa - La tierra - Los asesinos"
+        },
+        {
+          "file_name": "paginasescogidas_11_machadoruiz_64kb.mp3",
+          "id": "499085",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_11_machadoruiz_64kb.mp3",
+          "playtime": "511",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "11",
+          "title": "PROVERBIOS Y CANTARES - Viaje - Mariposa de la sierra - Las encinas"
+        },
+        {
+          "file_name": "paginasescogidas_12_machadoruiz_64kb.mp3",
+          "id": "499086",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/paginasescogidas_12_machadoruiz_64kb.mp3",
+          "playtime": "255",
+          "readers": [
+            {
+              "display_name": "KendalRigans",
+              "reader_id": "11797"
+            }
+          ],
+          "section_number": "12",
+          "title": "Retrato - A Don Miguel de Unamuno - A Don Francisco Giner de los Ríos"
+        }
+      ],
+      "title": "Páginas escogidas",
+      "totaltime": "01:33:53",
+      "totaltimesecs": 5633,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/paginasescogidas_2008_librivox",
+      "url_librivox": "https://librivox.org/paginas-escogidas-by-antonio-machado-ruiz/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/15253",
+      "url_text_source": "http://www.gutenberg.org/ebooks/49437",
+      "url_zip_file": "http://www.archive.org/download//paginasescogidas_2008_librivox/paginasescogidas_2008_librivox_64kb_mp3.zip"
+    }
+  ]
+}
