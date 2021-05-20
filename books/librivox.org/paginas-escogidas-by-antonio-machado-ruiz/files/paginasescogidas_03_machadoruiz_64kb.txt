@@ -12,7 +12,8 @@ CANTE HONDO
 Yo meditaba absorto, devanando
 los hilos del hastío y la tristeza,
 cuando llegó a mi oído,
-por la ventana de mi estancia, abierta
+por la ventana de mi estancia, abierta,
+
 a una caliente noche de verano,
 el plañir de una copla soñolienta,
 quebrada por los trémolos sombríos
@@ -94,6 +95,7 @@ miles de blancas estrellas,
 pensaba que todas ellas
 en su corazón ardían.
 ¡Noche de amor!...
+
 Y otra noche sintió la mala tristeza
 que enturbia la pura llama,
 y un corazón que bosteza,
@@ -138,6 +140,7 @@ blanco de la sierra.
 Linda doncellita
 que el cántaro llenas
 de agua transparente,
+
 tú, al verme, no llevas
 a los negros bucles
 de tu cabellera,
