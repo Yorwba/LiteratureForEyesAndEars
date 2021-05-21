@@ -1,0 +1,10979 @@
+1
+00:00:00,000 --> 00:00:05,300
+﻿Capítulo uno
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+2
+00:00:05,300 --> 00:00:07,640
+Esta es una grabación de LibriVox.
+
+3
+00:00:07,640 --> 00:00:11,020
+Todas las grabaciones de LibriVox están en el dominio público.
+
+4
+00:00:11,020 --> 00:00:17,090
+Para más información, o para ser voluntario, por favor visite LibriVox.org.
+
+5
+00:00:17,090 --> 00:00:20,770
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+6
+00:00:20,770 --> 00:00:22,470
+PRÓLOGO
+
+7
+00:00:22,470 --> 00:00:33,030
+Mi costumbre de no volver nunca sobre lo hecho y de no leer nada de cuanto escribo, una vez dado a la imprenta, ha sido causa en esta ocasión de no poco embarazo para mí.
+
+8
+00:00:33,030 --> 00:00:40,760
+El presentar un tomo de PÁGINAS ESCOGIDAS me obligó, no sólo a releer, sino a elegir, lo que supone juzgar.
+
+9
+00:00:40,760 --> 00:00:42,020
+¡Triste labor!
+
+10
+00:00:42,020 --> 00:00:53,800
+Porque un poeta, aunque desbarre, mientras produce sus rimas, está siempre de acuerdo consigo mismo; pero, pasados los años, el hombre que juzga su propia obra dista mucho del que la produjo.
+
+11
+00:00:53,800 --> 00:01:08,010
+Y puede ser injusto para consigo mismo: si, por amor de padre, con exceso indulgente, también a veces ingrato por olvido, pues la página escrita nunca recuerda todo lo que se ha intentado, sino lo poco que se ha conseguido.
+
+12
+00:01:08,010 --> 00:01:19,140
+Si un libro nuestro fuera una sombra de nosotros mismos, sería bastante; porque frecuentemente es mucho menos: la ceniza de un fuego que se ha apagado y que tal vez no ha de encenderse más.
+
+13
+00:01:19,140 --> 00:01:28,380
+Y en el caso mejor, cuando nuestro libro nos evoca nuestra alma de ayer con la viveza de algunos sueños que actualizan lo pasado, echamos de ver que, entonces,
+
+14
+00:01:28,380 --> 00:01:35,030
+llevábamos a la espalda un copioso haz de flechas que no recordamos haber disparado y que han debido caérsenos por el camino.
+
+15
+00:01:35,030 --> 00:01:43,340
+La tristeza de volver sobre nuestra obra no proviene de la conciencia de lo poco logrado, sino de lo mucho que renunciamos a acometer.
+
+16
+00:01:43,340 --> 00:01:54,700
+Nuestra incapacidad para fallar con justicia en causa propia estriba también en la merma de simpatía por nuestra obra, y en la enorme distancia que media entre el momento creador y el crítico.
+
+17
+00:01:54,700 --> 00:02:04,650
+En el primero coincidíamos con la corriente de la vida, cargada de realidades virtuales que acaso no llegan nunca a actualizarse, pero que sentimos como infinitamente posibles;
+
+18
+00:02:04,650 --> 00:02:19,900
+en el segundo estamos fuera de esta misma corriente, y aun fuera de nosotros, obligados a juzgar, a encerrar y distribuir las vivas aguas en los rígidos cangilones de las ideas ómnibus, a evaluar en moneda corriente lo más ajeno a toda mercadería.
+
+19
+00:02:19,900 --> 00:02:25,820
+Es muy frecuente—casi la regla—que el poeta eche a perder su obra al corregirla.
+
+20
+00:02:25,820 --> 00:02:32,630
+La explicación es fácil: se crea por intuiciones; se corrige por juicios, por relaciones entre conceptos.
+
+21
+00:02:32,630 --> 00:02:38,850
+Los conceptos son de todos y se nos imponen desde fuera en el lenguaje aprendido; las intuiciones son siempre nuestras.
+
+22
+00:02:38,850 --> 00:02:43,580
+Juzgarnos o corregirnos, supone aplicar la medida ajena al paño propio.
+
+23
+00:02:43,580 --> 00:02:58,810
+Y al par que entramos en razón y nos ponemos de acuerdo con los demás, nos apartamos de nosotros mismos; cuantas líneas enmendamos para fuera, son otras tantas deformaciones de lo íntimo, de lo original, de lo que brotó espontáneo en nosotros.
+
+24
+00:02:58,810 --> 00:03:06,450
+El poeta debe escuchar con respeto la crítica ajena, porque el libro lanzado a la publicidad ya no le pertenece.
+
+25
+00:03:06,450 --> 00:03:10,370
+Él lo entregó al juicio de los hombres, sin que nadie le obligase a ello.
+
+26
+00:03:10,370 --> 00:03:20,580
+Asístele, sin embargo, el derecho de no ser demasiado dócil a admoniciones y consejos, y le conviene, sobre todo, desconfiar aun de sus propias definiciones.
+
+27
+00:03:20,580 --> 00:03:33,240
+No se define en arte, sino en matemática—allí donde lo definido y la definición son una misma cosa.—Ante la crítica dogmática y doctrinera, aun la propia inepcia puede sonreír desdeñosa.
+
+28
+00:03:33,240 --> 00:03:47,210
+Cabe, no obstante, pedir al hombre de un libro un juicio valorativo de su obra, un precio de su propia labor; cabe preguntarle: “¿En cuánto estima usted esto que nos ofrece en demanda de nuestra simpatía y de nuestro aplauso?”
+
+29
+00:03:47,210 --> 00:03:49,470
+Responderé brevemente.
+
+30
+00:03:49,470 --> 00:04:01,920
+Como valor absoluto, bien poco tendrá mi obra, si alguno tiene; pero creo—y en esto estriba su valor relativo—haber contribuido con ella, y al par de otros poetas de mi promoción,
+
+31
+00:04:01,920 --> 00:04:11,430
+a la poda de ramas superfluas en el árbol de la lírica española, y haber trabajado con sincero amor para futuras y más robustas primaveras.
+
+32
+00:04:11,430 --> 00:04:13,360
+ANTONIO MACHADO.
+
+33
+00:04:13,360 --> 00:04:17,720
+Baeza, 20 de abril de 1917.
+
+34
+00:04:17,720 --> 00:04:20,390
+NOTA BIOGRÁFICA
+
+35
+00:04:20,390 --> 00:04:28,830
+Nací en Sevilla una noche de Julio de 1875, en el célebre palacio de las Dueñas, sito en la calle del mismo nombre.
+
+36
+00:04:28,830 --> 00:04:39,260
+Mis recuerdos de la ciudad natal son todos infantiles, porque a los ocho años pasé a Madrid, donde mis padres se trasladaron, y me eduqué en la Institución Libre de Enseñanza.
+
+37
+00:04:39,260 --> 00:04:43,210
+A sus maestros guardo vivo afecto y profunda gratitud.
+
+38
+00:04:43,210 --> 00:04:45,710
+Mi adolescencia y mi juventud son madrileñas.
+
+39
+00:04:45,710 --> 00:04:48,080
+He viajado algo por Francia y por España.
+
+40
+00:04:48,080 --> 00:04:54,570
+En 1907 obtuve cátedra de Lengua francesa, que profesé durante cinco años en Soria.
+
+41
+00:04:54,570 --> 00:04:59,440
+Allí me casé; allí murió mi esposa, cuyo recuerdo me acompaña siempre.
+
+42
+00:04:59,440 --> 00:05:01,750
+Me trasladé a Baeza, donde hoy resido.
+
+43
+00:05:01,750 --> 00:05:04,660
+Mis aficiones son pasear y leer.
+
+44
+00:05:04,660 --> 00:05:07,800
+Fin
+del
+Capítulo uno
+
+45
+00:05:13,260 --> 00:05:17,100
+﻿Capítulo dos
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+46
+00:05:17,100 --> 00:05:21,390
+Esta grabación de LibriVox está en el dominio público.
+
+47
+00:05:21,390 --> 00:05:24,990
+SOLEDADES
+1903
+
+48
+00:05:24,990 --> 00:05:29,800
+SOLEDADES, GALERÍAS Y OTROS POEMAS
+1907
+
+49
+00:05:29,800 --> 00:05:31,360
+PRÓLOGO
+
+50
+00:05:31,360 --> 00:05:41,420
+Las composiciones de este primer libro, publicado en Enero de 1903, fueron escritas entre 1899 y 1902.
+
+51
+00:05:41,420 --> 00:05:49,610
+Por aquellos años, Rubén Darío, combatido hasta el escarnio por la crítica al uso, era el ídolo de una selecta minoría.
+
+52
+00:05:49,610 --> 00:06:00,210
+Yo también admiraba al autor de Prosas profanas, el maestro incomparable de la forma y de la sensación, que más tarde nos reveló la hondura de su alma en Cantos de vida y esperanza.
+
+53
+00:06:00,210 --> 00:06:08,040
+Pero yo pretendí—y reparad en que no me jacto de éxitos, sino de propósitos—seguir camino bien distinto.
+
+54
+00:06:08,040 --> 00:06:18,580
+Pensaba yo que el elemento poético no era la palabra por su valor fónico, ni el color, ni la línea, ni un complejo de sensaciones, sino una honda palpitación del espíritu;
+
+55
+00:06:18,580 --> 00:06:27,520
+lo que pone el alma, si es que algo pone, o lo que dice, si es que algo dice, con voz propia, en respuesta animada al contacto del mundo.
+
+56
+00:06:27,520 --> 00:06:41,720
+Y aun pensaba que el hombre puede sorprender algunas palabras de un íntimo monólogo, distinguiendo la voz viva de los ecos inertes; que puede también, mirando hacia dentro, vislumbrar las ideas cordiales, los universales del sentimiento.
+
+57
+00:06:41,720 --> 00:06:47,940
+No fue mi libro la realización sistemática de este propósito; mas tal era mi estética de entonces.
+
+58
+00:06:47,940 --> 00:06:59,230
+Esta obra fue refundida en 1907, con adición de nuevas composiciones que no añadían nada substancial a las primeras, en Soledades, galerías y otros poemas.
+
+59
+00:06:59,230 --> 00:07:05,580
+Ambos volúmenes constituyen en realidad un solo libro.
+
+60
+00:07:05,580 --> 00:07:07,140
+Uno
+EL VIAJERO
+
+61
+00:07:07,140 --> 00:07:09,900
+Está en la sala familiar, sombría,
+
+62
+00:07:09,900 --> 00:07:11,810
+y entre nosotros, el querido hermano
+
+63
+00:07:11,810 --> 00:07:14,370
+que en el sueño infantil de un claro día
+
+64
+00:07:14,370 --> 00:07:16,830
+vimos partir hacia un país lejano.
+
+65
+00:07:16,830 --> 00:07:19,130
+Hoy tiene ya las sienes plateadas,
+
+66
+00:07:19,130 --> 00:07:21,350
+un gris mechón sobre la angosta frente,
+
+67
+00:07:21,350 --> 00:07:23,650
+y la fría inquietud de sus miradas
+
+68
+00:07:23,650 --> 00:07:26,190
+revela un alma casi toda ausente.
+
+69
+00:07:26,190 --> 00:07:28,210
+Deshójanse las copas otoñales
+
+70
+00:07:28,210 --> 00:07:29,960
+del parque mustio y viejo.
+
+71
+00:07:29,960 --> 00:07:32,400
+La tarde tras los húmedos cristales
+
+72
+00:07:32,400 --> 00:07:34,520
+se pinta, y en el fondo del espejo.
+
+73
+00:07:34,520 --> 00:07:37,190
+El rostro del hermano se ilumina
+
+74
+00:07:37,190 --> 00:07:38,040
+suavemente.
+
+75
+00:07:38,040 --> 00:07:39,800
+¿Floridos desengaños
+
+76
+00:07:39,800 --> 00:07:42,220
+dorados por la tarde que declina?
+
+77
+00:07:42,220 --> 00:07:44,620
+¿Ansias de vida nueva en nuevos años?
+
+78
+00:07:44,620 --> 00:07:47,280
+¿Lamentará la juventud perdida?
+
+79
+00:07:47,280 --> 00:07:50,370
+Lejos quedó—la pobre loba—muerta.
+
+80
+00:07:50,370 --> 00:07:52,510
+¿La blanca juventud nunca vivida
+
+81
+00:07:52,510 --> 00:07:54,870
+teme que ha de cantar ante su puerta?
+
+82
+00:07:54,870 --> 00:07:56,710
+¿Sonríe al sol de oro
+
+83
+00:07:56,710 --> 00:07:58,950
+de la tierra de un sueño no encontrada,
+
+84
+00:07:58,950 --> 00:08:01,270
+y ve su nave hender el mar sonoro,
+
+85
+00:08:01,270 --> 00:08:03,880
+de viento y luz la blanca vela hinchada?
+
+86
+00:08:03,880 --> 00:08:06,320
+Él ha visto las hojas otoñales
+
+87
+00:08:06,320 --> 00:08:09,040
+amarillas rodar, las olorosas
+
+88
+00:08:09,040 --> 00:08:11,820
+ramas del eucaliptos, los rosales,
+
+89
+00:08:11,820 --> 00:08:14,150
+que enseñan otra vez sus blancas rosas...
+
+90
+00:08:14,150 --> 00:08:16,490
+Y este dolor que añora o desconfía
+
+91
+00:08:16,490 --> 00:08:18,500
+el temblor de una lágrima reprime,
+
+92
+00:08:18,500 --> 00:08:20,840
+y un resto de viril hipocresía
+
+93
+00:08:20,840 --> 00:08:23,230
+en el semblante pálido se imprime.
+
+94
+00:08:23,230 --> 00:08:25,620
+Serio retrato en la pared clarea
+
+95
+00:08:25,620 --> 00:08:26,530
+todavía.
+
+96
+00:08:26,530 --> 00:08:28,350
+Nosotros divagamos.
+
+97
+00:08:28,350 --> 00:08:30,200
+En la tristeza del hogar golpea
+
+98
+00:08:30,200 --> 00:08:31,920
+el tic-tac del reloj.
+
+99
+00:08:31,920 --> 00:08:34,240
+Todos callamos.
+
+100
+00:08:35,240 --> 00:08:36,460
+Dos
+
+101
+00:08:36,460 --> 00:08:39,340
+La plaza y los naranjos encendidos,
+
+102
+00:08:39,340 --> 00:08:41,800
+con sus frutas redondas y risueñas.
+
+103
+00:08:41,800 --> 00:08:44,150
+Tumulto de pequeños colegiales
+
+104
+00:08:44,150 --> 00:08:46,430
+que al salir en desorden de la escuela,
+
+105
+00:08:46,430 --> 00:08:48,390
+llenan el aire de la plaza en sombra
+
+106
+00:08:48,390 --> 00:08:50,930
+con la algazara de sus voces nuevas.
+
+107
+00:08:50,930 --> 00:08:53,580
+¡Alegría infantil, en los rincones
+
+108
+00:08:53,580 --> 00:08:55,470
+de las ciudades muertas!...
+
+109
+00:08:55,470 --> 00:08:57,730
+¡Y algo nuestro de ayer, que todavía
+
+110
+00:08:57,730 --> 00:09:01,030
+vemos vagar por estas calles viejas!
+
+111
+00:09:01,030 --> 00:09:04,960
+Tres
+EN EL ENTIERRO DE UN AMIGO
+
+112
+00:09:04,960 --> 00:09:07,390
+Tierra le dieron una tarde horrible
+
+113
+00:09:07,390 --> 00:09:10,510
+del mes de Julio, bajo el sol de fuego.
+
+114
+00:09:10,510 --> 00:09:12,580
+A un paso de la abierta sepultura,
+
+115
+00:09:12,580 --> 00:09:14,820
+había rosas de podridos pétalos,
+
+116
+00:09:14,820 --> 00:09:16,810
+entre geranios de áspera fragancia
+
+117
+00:09:16,810 --> 00:09:17,620
+y roja flor.
+
+118
+00:09:17,620 --> 00:09:18,690
+El cielo
+
+119
+00:09:18,690 --> 00:09:19,570
+puro y azul.
+
+120
+00:09:19,570 --> 00:09:20,410
+Corría
+
+121
+00:09:20,410 --> 00:09:22,210
+un aire fuerte y seco.
+
+122
+00:09:22,210 --> 00:09:24,530
+De los gruesos cordeles suspendido,
+
+123
+00:09:24,530 --> 00:09:26,650
+pesadamente, descender hicieron
+
+124
+00:09:26,650 --> 00:09:28,770
+el ataúd, al fondo de la fosa,
+
+125
+00:09:28,770 --> 00:09:30,230
+los dos sepultureros...
+
+126
+00:09:30,230 --> 00:09:32,550
+Y al reposar sonó con recio golpe,
+
+127
+00:09:32,550 --> 00:09:34,770
+solemne, en el silencio.
+
+128
+00:09:34,770 --> 00:09:36,930
+Un golpe de ataúd en tierra es algo
+
+129
+00:09:36,930 --> 00:09:38,410
+perfectamente serio.
+
+130
+00:09:38,410 --> 00:09:40,490
+Sobre la negra caja se rompían
+
+131
+00:09:40,490 --> 00:09:42,720
+los pesados terrones polvorientos...
+
+132
+00:09:42,720 --> 00:09:44,110
+El aire se llevaba
+
+133
+00:09:44,110 --> 00:09:46,800
+de la honda fosa el blanquecino aliento.
+
+134
+00:09:46,800 --> 00:09:50,160
+Y tú, sin sombra ya, duerme y reposa;
+
+135
+00:09:50,160 --> 00:09:51,970
+larga paz a tus huesos...
+
+136
+00:09:51,970 --> 00:09:53,650
+Definitivamente,
+
+137
+00:09:53,650 --> 00:09:56,910
+duerme un sueño tranquilo y verdadero.
+
+138
+00:09:56,910 --> 00:10:00,070
+Cuarto
+RECUERDO INFANTIL
+
+139
+00:10:00,070 --> 00:10:01,990
+Una tarde parda y fría
+
+140
+00:10:01,990 --> 00:10:02,790
+de invierno.
+
+141
+00:10:02,790 --> 00:10:03,690
+Los colegiales
+
+142
+00:10:03,690 --> 00:10:04,950
+estudian.
+
+143
+00:10:04,950 --> 00:10:06,100
+Monotonía
+
+144
+00:10:06,100 --> 00:10:07,900
+de la lluvia en los cristales.
+
+145
+00:10:07,900 --> 00:10:09,200
+Es la clase.
+
+146
+00:10:09,200 --> 00:10:09,970
+En un cartel
+
+147
+00:10:09,970 --> 00:10:11,210
+se representa a Caín
+
+148
+00:10:11,210 --> 00:10:13,460
+fugitivo, y muerto Abel,
+
+149
+00:10:13,460 --> 00:10:15,410
+junto a una mancha carmín.
+
+150
+00:10:15,410 --> 00:10:17,620
+Con timbre sonoro y hueco,
+
+151
+00:10:17,620 --> 00:10:19,730
+truena el maestro, un anciano
+
+152
+00:10:19,730 --> 00:10:21,860
+mal vestido, enjuto y seco,
+
+153
+00:10:21,860 --> 00:10:23,610
+que lleva un libro en la mano.
+
+154
+00:10:23,610 --> 00:10:25,570
+Y todo un coro infantil
+
+155
+00:10:25,570 --> 00:10:26,910
+va cantando la lección:
+
+156
+00:10:26,910 --> 00:10:29,690
+“Mil veces ciento, cien mil;
+
+157
+00:10:29,690 --> 00:10:32,410
+mil veces mil, un millón.”
+
+158
+00:10:32,410 --> 00:10:34,350
+Una tarde parda y fría
+
+159
+00:10:34,350 --> 00:10:35,080
+de invierno.
+
+160
+00:10:35,080 --> 00:10:36,260
+Los colegiales
+
+161
+00:10:36,260 --> 00:10:37,150
+estudian.
+
+162
+00:10:37,150 --> 00:10:38,390
+Monotonía
+
+163
+00:10:38,390 --> 00:10:40,580
+de la lluvia en los cristales.
+
+164
+00:10:40,580 --> 00:10:42,330
+Cinco
+
+165
+00:10:42,330 --> 00:10:44,310
+Yo voy soñando caminos
+
+166
+00:10:44,310 --> 00:10:44,970
+de la tarde.
+
+167
+00:10:44,970 --> 00:10:46,010
+¡Las colinas
+
+168
+00:10:46,010 --> 00:10:47,740
+doradas, los verdes pinos,
+
+169
+00:10:47,740 --> 00:10:49,520
+las polvorientas encinas!...
+
+170
+00:10:49,520 --> 00:10:51,300
+¿Adónde el camino irá?
+
+171
+00:10:51,300 --> 00:10:53,310
+Yo voy cantando, viajero
+
+172
+00:10:53,310 --> 00:10:54,620
+a lo largo del sendero...
+
+173
+00:10:54,620 --> 00:10:56,500
+—La tarde cayendo está.—
+
+174
+00:10:56,500 --> 00:10:58,290
+“En el corazón tenía
+
+175
+00:10:58,290 --> 00:10:59,730
+la espina de una pasión;
+
+176
+00:10:59,730 --> 00:11:01,680
+logré arrancármela un día:
+
+177
+00:11:01,680 --> 00:11:03,440
+ya no siento el corazón.”
+
+178
+00:11:03,440 --> 00:11:05,350
+Y todo el campo un momento
+
+179
+00:11:05,350 --> 00:11:07,130
+se queda, mudo y sombrío,
+
+180
+00:11:07,130 --> 00:11:08,350
+meditando.
+
+181
+00:11:08,350 --> 00:11:09,320
+Suena el viento
+
+182
+00:11:09,320 --> 00:11:10,980
+en los álamos del río.
+
+183
+00:11:10,980 --> 00:11:13,070
+La tarde más se obscurece,
+
+184
+00:11:13,070 --> 00:11:14,900
+y el camino, que serpea
+
+185
+00:11:14,900 --> 00:11:16,260
+y débilmente blanquea,
+
+186
+00:11:16,260 --> 00:11:18,450
+se enturbia y desaparece.
+
+187
+00:11:18,450 --> 00:11:20,720
+Mi cantar vuelve a plañir:
+
+188
+00:11:20,720 --> 00:11:22,340
+“Aguda espina dorada,
+
+189
+00:11:22,340 --> 00:11:24,100
+¡quién te pudiera sentir
+
+190
+00:11:24,100 --> 00:11:26,200
+en el corazón clavada!”
+
+191
+00:11:26,200 --> 00:11:28,190
+Seis
+
+192
+00:11:28,190 --> 00:11:30,340
+Hacia un ocaso radiante
+
+193
+00:11:30,340 --> 00:11:32,170
+caminaba el Sol de estío,
+
+194
+00:11:32,170 --> 00:11:35,940
+y era, entre nubes de fuego, una trompeta gigante,
+
+195
+00:11:35,940 --> 00:11:38,980
+tras de los álamos verdes de las márgenes del río.
+
+196
+00:11:38,980 --> 00:11:42,300
+Dentro de un olmo sonaba la sempiterna tijera
+
+197
+00:11:42,300 --> 00:11:45,600
+de la cigarra cantora, el monorritmo jovial,
+
+198
+00:11:45,600 --> 00:11:47,060
+entre metal y madera,
+
+199
+00:11:47,060 --> 00:11:48,710
+que es la canción estival.
+
+200
+00:11:48,710 --> 00:11:50,670
+En una huerta sombría,
+
+201
+00:11:50,670 --> 00:11:53,500
+giraban los cangilones de la noria soñolienta.
+
+202
+00:11:53,500 --> 00:11:56,910
+Bajo las ramas obscuras el son del agua se oía.
+
+203
+00:11:56,910 --> 00:12:00,480
+Era una tarde de Julio luminosa y polvorienta.
+
+204
+00:12:00,480 --> 00:12:02,540
+Yo iba haciendo mi camino,
+
+205
+00:12:02,540 --> 00:12:05,620
+absorto en el solitario crepúsculo campesino.
+
+206
+00:12:05,620 --> 00:12:09,950
+Y pensaba: “¡Hermosa tarde, nota de la lira inmensa,
+
+207
+00:12:09,950 --> 00:12:11,740
+toda desdén y armonía;
+
+208
+00:12:11,740 --> 00:12:15,190
+hermosa tarde, tú curas la pobre melancolía
+
+209
+00:12:15,190 --> 00:12:18,810
+de este rincón vanidoso, obscuro rincón que piensa!”
+
+210
+00:12:18,810 --> 00:12:22,660
+Pasaba el agua rizada bajo los ojos del puente.
+
+211
+00:12:22,660 --> 00:12:24,480
+Lejos, la ciudad dormía
+
+212
+00:12:24,480 --> 00:12:28,030
+como cubierta de un mago fanal de oro transparente.
+
+213
+00:12:28,030 --> 00:12:31,190
+Bajo los arcos de piedra, el agua clara corría.
+
+214
+00:12:31,190 --> 00:12:34,520
+Los últimos arreboles coronaban las colinas,
+
+215
+00:12:34,520 --> 00:12:37,700
+manchadas de olivos grises y de negruzcas encinas.
+
+216
+00:12:37,700 --> 00:12:39,140
+Yo caminaba cansado,
+
+217
+00:12:39,140 --> 00:12:43,010
+sintiendo la vieja angustia que hace el corazón pesado.
+
+218
+00:12:43,010 --> 00:12:46,420
+El agua en sombra pasaba tan melancólicamente
+
+219
+00:12:46,420 --> 00:12:47,860
+bajo los arcos del puente,
+
+220
+00:12:47,860 --> 00:12:49,710
+como si al pasar dijera:
+
+221
+00:12:49,710 --> 00:12:51,480
+“Apenas desamarrada
+
+222
+00:12:51,480 --> 00:12:54,860
+la pobre barca, viajero, del árbol de la ribera,
+
+223
+00:12:54,860 --> 00:12:57,100
+se canta: no somos nada.
+
+224
+00:12:57,100 --> 00:13:01,180
+Donde acaba el pobre río, la inmensa mar nos espera.”
+
+225
+00:13:01,180 --> 00:13:04,590
+Bajo los ojos del puente pasaba el agua sombría.
+
+226
+00:13:04,590 --> 00:13:06,800
+(Yo pensaba: ¡el alma mía!)
+
+227
+00:13:06,800 --> 00:13:08,550
+Y me detuve un momento,
+
+228
+00:13:08,550 --> 00:13:09,740
+en la tarde a meditar...
+
+229
+00:13:09,740 --> 00:13:11,880
+¿Qué es esta gota en el viento
+
+230
+00:13:11,880 --> 00:13:14,230
+que grita al mar: Soy el mar?
+
+231
+00:13:14,230 --> 00:13:16,630
+Vibraba el aire, asordado
+
+232
+00:13:16,630 --> 00:13:19,180
+por los élitros cantores que hacen el campo sonoro,
+
+233
+00:13:19,180 --> 00:13:20,970
+cual si estuviera sembrado
+
+234
+00:13:20,970 --> 00:13:22,300
+de campanitas de oro.
+
+235
+00:13:22,300 --> 00:13:24,160
+En el azul fulguraba
+
+236
+00:13:24,160 --> 00:13:25,700
+un lucero diamantino.
+
+237
+00:13:25,700 --> 00:13:27,270
+Cálido viento soplaba,
+
+238
+00:13:27,270 --> 00:13:28,700
+alborotando el camino.
+
+239
+00:13:28,700 --> 00:13:30,960
+Yo, en la tarde polvorienta,
+
+240
+00:13:30,960 --> 00:13:32,540
+hacia la ciudad volvía.
+
+241
+00:13:32,540 --> 00:13:35,430
+Sonaban los cangilones de la noria soñolienta.
+
+242
+00:13:35,430 --> 00:13:39,390
+Bajo las ramas obscuras, caer el agua se oía.
+
+243
+00:13:39,390 --> 00:13:42,680
+Fin
+del
+Capítulo dos
+
+244
+00:13:47,140 --> 00:13:51,530
+﻿Capítulo tres
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+245
+00:13:51,530 --> 00:13:55,300
+Esta grabación de LibriVox está en el dominio público.
+
+246
+00:13:55,300 --> 00:13:58,020
+Siete
+CANTE HONDO
+
+247
+00:13:58,020 --> 00:14:01,160
+Yo meditaba absorto, devanando
+
+248
+00:14:01,160 --> 00:14:03,420
+los hilos del hastío y la tristeza,
+
+249
+00:14:03,420 --> 00:14:04,970
+cuando llegó a mi oído,
+
+250
+00:14:04,970 --> 00:14:07,440
+por la ventana de mi estancia, abierta,
+
+251
+00:14:07,440 --> 00:14:09,610
+a una caliente noche de verano,
+
+252
+00:14:09,610 --> 00:14:11,800
+el plañir de una copla soñolienta,
+
+253
+00:14:11,800 --> 00:14:14,220
+quebrada por los trémolos sombríos
+
+254
+00:14:14,220 --> 00:14:16,490
+de las músicas magas de mi tierra.
+
+255
+00:14:16,490 --> 00:14:16,870
+...
+
+256
+00:14:16,870 --> 00:14:19,330
+Y era el Amor, como una roja llama...
+
+257
+00:14:19,330 --> 00:14:21,920
+—Nerviosa mano en la vibrante cuerda
+
+258
+00:14:21,920 --> 00:14:23,730
+ponía un largo suspirar de oro
+
+259
+00:14:23,730 --> 00:14:26,480
+que se trocaba en surtidor de estrellas.—
+
+260
+00:14:26,480 --> 00:14:26,850
+...
+
+261
+00:14:26,850 --> 00:14:29,300
+Y era la Muerte, al hombro la cuchilla,
+
+262
+00:14:29,300 --> 00:14:32,220
+el paso largo, torva y esquelética.
+
+263
+00:14:32,220 --> 00:14:34,380
+—Tal cuando yo era niño la soñaba.—
+
+264
+00:14:34,380 --> 00:14:37,390
+Y en la guitarra, resonante y trémula,
+
+265
+00:14:37,390 --> 00:14:39,730
+la brusca mano, al golpear, fingía
+
+266
+00:14:39,730 --> 00:14:41,930
+el reposar de un ataúd en tierra.
+
+267
+00:14:41,930 --> 00:14:44,770
+Y era un plañido solitario el soplo
+
+268
+00:14:44,770 --> 00:14:49,530
+que el polvo barre y la ceniza aventa.
+
+269
+00:14:49,530 --> 00:14:50,400
+Ocho
+
+270
+00:14:50,400 --> 00:14:52,360
+La calle en sombra.
+
+271
+00:14:52,360 --> 00:14:54,330
+Ocultan los altos caserones
+
+272
+00:14:54,330 --> 00:14:56,920
+al Sol que muere; hay ecos de luz en los balcones.
+
+273
+00:14:56,920 --> 00:15:00,300
+¿No ves, en el encanto del mirador florido,
+
+274
+00:15:00,300 --> 00:15:02,970
+el óvalo rosado de un rostro conocido?
+
+275
+00:15:02,970 --> 00:15:05,940
+La imagen, tras el vidrio de equívoco reflejo,
+
+276
+00:15:05,940 --> 00:15:09,120
+surge o se apaga como daguerrotipo viejo.
+
+277
+00:15:09,120 --> 00:15:11,830
+Suena en la calle sólo el ruido de tu paso;
+
+278
+00:15:11,830 --> 00:15:15,310
+se extinguen lentamente los ecos del ocaso.
+
+279
+00:15:15,310 --> 00:15:16,750
+¡Oh angustia!
+
+280
+00:15:16,750 --> 00:15:18,130
+Pesa y duele el corazón.
+
+281
+00:15:18,130 --> 00:15:19,050
+¿Es ella?
+
+282
+00:15:19,050 --> 00:15:20,430
+No puede ser...
+
+283
+00:15:20,430 --> 00:15:21,290
+Camina...
+
+284
+00:15:21,290 --> 00:15:24,040
+En el azul la estrella.
+
+285
+00:15:25,100 --> 00:15:26,780
+Nueve
+EL POETA
+
+286
+00:15:26,780 --> 00:15:30,640
+(En el libro Epifanías, de Martínez Sierra.)
+
+287
+00:15:31,740 --> 00:15:33,140
+Maldiciendo su destino,
+
+288
+00:15:33,140 --> 00:15:34,950
+como Glauco, el dios marino,
+
+289
+00:15:34,950 --> 00:15:36,810
+mira, turbia la pupila
+
+290
+00:15:36,810 --> 00:15:40,290
+de llanto, el mar que le debe su blanca virgen Scyla.
+
+291
+00:15:40,290 --> 00:15:42,410
+Él sabe que un Dios más fuerte
+
+292
+00:15:42,410 --> 00:15:45,070
+con la substancia inmortal está jugando a la muerte,
+
+293
+00:15:45,070 --> 00:15:46,500
+cual niño bárbaro.
+
+294
+00:15:46,500 --> 00:15:47,410
+Él piensa
+
+295
+00:15:47,410 --> 00:15:50,290
+que ha de caer como rama que sobre las aguas flota,
+
+296
+00:15:50,290 --> 00:15:52,030
+antes de perderse, gota
+
+297
+00:15:52,030 --> 00:15:53,600
+de mar, en la mar inmensa.
+
+298
+00:15:53,600 --> 00:15:57,210
+En sueños oyó el acento de una palabra divina;
+
+299
+00:15:57,210 --> 00:16:00,050
+en sueños se le ha mostrado la cruda ley diamantina
+
+300
+00:16:00,050 --> 00:16:02,310
+sin odio ni amor, y el frío
+
+301
+00:16:02,310 --> 00:16:05,650
+soplo del olvido sabe sobre un arenal de hastío.
+
+302
+00:16:05,650 --> 00:16:08,870
+Bajo las palmeras del oasis, el agua buena
+
+303
+00:16:08,870 --> 00:16:10,240
+miró brotar de la arena;
+
+304
+00:16:10,240 --> 00:16:13,430
+y se abrevó entre las dulces gacelas y entre los fieros
+
+305
+00:16:13,430 --> 00:16:14,910
+animales carniceros...
+
+306
+00:16:14,910 --> 00:16:17,930
+Y supo cuánto es la vida hecha de sed y dolor;
+
+307
+00:16:17,930 --> 00:16:21,100
+y fue compasivo para el ciervo y el cazador,
+
+308
+00:16:21,100 --> 00:16:22,810
+para el ladrón y el robado,
+
+309
+00:16:22,810 --> 00:16:24,130
+para el pájaro azorado,
+
+310
+00:16:24,130 --> 00:16:25,620
+para el sanguinario azor.
+
+311
+00:16:25,620 --> 00:16:29,690
+Con el Eclesiastés dijo: “Vanidad de vanidades,
+
+312
+00:16:29,690 --> 00:16:31,040
+todo es negra vanidad”;
+
+313
+00:16:31,040 --> 00:16:34,630
+y oyó otra voz que clamaba, alma de sus soledades:
+
+314
+00:16:34,630 --> 00:16:38,630
+“Sólo eres tú, luz que fulges en el corazón, verdad.”
+
+315
+00:16:38,630 --> 00:16:40,330
+Y viendo cómo lucían
+
+316
+00:16:40,330 --> 00:16:42,030
+miles de blancas estrellas,
+
+317
+00:16:42,030 --> 00:16:43,330
+pensaba que todas ellas
+
+318
+00:16:43,330 --> 00:16:45,190
+en su corazón ardían.
+
+319
+00:16:45,190 --> 00:16:46,570
+¡Noche de amor!...
+
+320
+00:16:46,570 --> 00:16:49,270
+Y otra noche sintió la mala tristeza
+
+321
+00:16:49,270 --> 00:16:51,120
+que enturbia la pura llama,
+
+322
+00:16:51,120 --> 00:16:52,850
+y un corazón que bosteza,
+
+323
+00:16:52,850 --> 00:16:54,640
+y un histrión que declama.
+
+324
+00:16:54,640 --> 00:16:56,700
+Y dijo: “Las galerías
+
+325
+00:16:56,700 --> 00:16:58,310
+del alma que espera están
+
+326
+00:16:58,310 --> 00:17:00,700
+desiertas, mudas, vacías;
+
+327
+00:17:00,700 --> 00:17:02,370
+las blancas sombras se van.”
+
+328
+00:17:02,370 --> 00:17:05,690
+Y el demonio de los sueños abrió el jardín encantado
+
+329
+00:17:05,690 --> 00:17:06,190
+del ayer.
+
+330
+00:17:06,190 --> 00:17:07,390
+¡Cuán bello era!
+
+331
+00:17:07,390 --> 00:17:09,210
+¡Qué hermosamente el pasado
+
+332
+00:17:09,210 --> 00:17:10,740
+fingía la primavera,
+
+333
+00:17:10,740 --> 00:17:13,940
+cuando del árbol de otoño estaba el fruto colgado,
+
+334
+00:17:13,940 --> 00:17:15,360
+mísero fruto podrido,
+
+335
+00:17:15,360 --> 00:17:17,280
+que en el hueco acibarado
+
+336
+00:17:17,280 --> 00:17:19,940
+guarda el gusano escondido!
+
+337
+00:17:19,940 --> 00:17:22,840
+¡Alma, que en vano quisiste ser más joven cada día,
+
+338
+00:17:22,840 --> 00:17:27,060
+arranca tu flor, la humilde flor de la melancolía!
+
+339
+00:17:27,060 --> 00:17:28,830
+Diez
+
+340
+00:17:28,830 --> 00:17:31,090
+¡Verdes jardinillos,
+
+341
+00:17:31,090 --> 00:17:32,450
+claras plazoletas,
+
+342
+00:17:32,450 --> 00:17:33,570
+fuente verdinosa
+
+343
+00:17:33,570 --> 00:17:34,610
+donde el agua sueña,
+
+344
+00:17:34,610 --> 00:17:36,030
+donde el agua muda
+
+345
+00:17:36,030 --> 00:17:37,800
+resbala en la piedra!...
+
+346
+00:17:37,800 --> 00:17:38,920
+Las hojas de un verde
+
+347
+00:17:38,920 --> 00:17:40,360
+mustio, casi negras,
+
+348
+00:17:40,360 --> 00:17:42,190
+de la acacia, el viento
+
+349
+00:17:42,190 --> 00:17:43,230
+de Septiembre besa,
+
+350
+00:17:43,230 --> 00:17:44,290
+y se lleva algunas
+
+351
+00:17:44,290 --> 00:17:45,580
+amarillas, secas,
+
+352
+00:17:45,580 --> 00:17:47,170
+jugando, entre el polvo
+
+353
+00:17:47,170 --> 00:17:48,650
+blanco de la sierra.
+
+354
+00:17:48,650 --> 00:17:50,170
+Linda doncellita
+
+355
+00:17:50,170 --> 00:17:51,410
+que el cántaro llenas
+
+356
+00:17:51,410 --> 00:17:53,030
+de agua transparente,
+
+357
+00:17:53,030 --> 00:17:54,930
+tú, al verme, no llevas
+
+358
+00:17:54,930 --> 00:17:55,940
+a los negros bucles
+
+359
+00:17:55,940 --> 00:17:56,730
+de tu cabellera,
+
+360
+00:17:56,730 --> 00:17:57,950
+distraídamente,
+
+361
+00:17:57,950 --> 00:17:58,960
+la mano morena,
+
+362
+00:17:58,960 --> 00:18:00,970
+ni, luego, en el limpio
+
+363
+00:18:00,970 --> 00:18:02,600
+cristal te contemplas...
+
+364
+00:18:02,600 --> 00:18:03,850
+Tú miras al aire
+
+365
+00:18:03,850 --> 00:18:04,810
+de la tarde bella,
+
+366
+00:18:04,810 --> 00:18:06,530
+mientras de agua clara
+
+367
+00:18:06,530 --> 00:18:08,800
+el cántaro llenas.
+
+368
+00:18:09,920 --> 00:18:11,160
+DEL CAMINO
+
+369
+00:18:11,160 --> 00:18:12,330
+Uno
+
+370
+00:18:12,330 --> 00:18:15,410
+Daba el reloj las doce..., y eran doce
+
+371
+00:18:15,410 --> 00:18:17,060
+golpes de azada en tierra...
+
+372
+00:18:17,060 --> 00:18:17,300
+...
+
+373
+00:18:17,300 --> 00:18:18,990
+¡Mi hora!...—grité.
+
+374
+00:18:18,990 --> 00:18:19,660
+El silencio
+
+375
+00:18:19,660 --> 00:18:21,540
+me respondió:—No temas;
+
+376
+00:18:21,540 --> 00:18:23,590
+tú no verás caer la última gota
+
+377
+00:18:23,590 --> 00:18:25,790
+que en la clepsidra tiembla.
+
+378
+00:18:25,790 --> 00:18:27,910
+Dormirás muchas horas todavía
+
+379
+00:18:27,910 --> 00:18:29,200
+sobre la orilla vieja,
+
+380
+00:18:29,200 --> 00:18:31,070
+y encontrarás una mañana pura
+
+381
+00:18:31,070 --> 00:18:34,060
+amarrada tu barca a otra ribera.
+
+382
+00:18:34,060 --> 00:18:35,780
+Dos
+
+383
+00:18:35,780 --> 00:18:38,090
+En la desnuda tierra del camino,
+
+384
+00:18:38,090 --> 00:18:39,330
+la hora florida brota,
+
+385
+00:18:39,330 --> 00:18:40,890
+espino solitario,
+
+386
+00:18:40,890 --> 00:18:43,110
+del valle humilde en la revuelta umbrosa.
+
+387
+00:18:43,110 --> 00:18:44,780
+El salmo verdadero
+
+388
+00:18:44,780 --> 00:18:46,190
+de tenue voz hoy torna
+
+389
+00:18:46,190 --> 00:18:48,020
+al corazón y al labio,
+
+390
+00:18:48,020 --> 00:18:50,230
+la palabra quebrada y temblorosa.
+
+391
+00:18:50,230 --> 00:18:52,830
+Mis viejos mares duermen; se apagaron
+
+392
+00:18:52,830 --> 00:18:54,290
+sus espumas sonoras
+
+393
+00:18:54,290 --> 00:18:55,940
+sobre la playa estéril.
+
+394
+00:18:55,940 --> 00:18:56,600
+La tormenta
+
+395
+00:18:56,600 --> 00:18:58,830
+camina lejos en la nube torva.
+
+396
+00:18:58,830 --> 00:19:00,770
+Vuelve la paz al cielo;
+
+397
+00:19:00,770 --> 00:19:03,190
+la brisa tutelar esparce aromas
+
+398
+00:19:03,190 --> 00:19:05,340
+otra vez sobre el campo, y aparece
+
+399
+00:19:05,340 --> 00:19:07,850
+en la bendita soledad tu sombra.
+
+400
+00:19:07,850 --> 00:19:09,460
+Tres
+
+401
+00:19:09,460 --> 00:19:11,810
+¡Tenue rumor de túnicas que pasan
+
+402
+00:19:11,810 --> 00:19:13,140
+sobre la infértil tierra!...
+
+403
+00:19:13,140 --> 00:19:14,600
+¡Y lágrimas sonoras
+
+404
+00:19:14,600 --> 00:19:16,160
+de las campanas viejas!
+
+405
+00:19:16,160 --> 00:19:17,710
+Las ascuas mortecinas
+
+406
+00:19:17,710 --> 00:19:19,050
+del horizonte humean...
+
+407
+00:19:19,050 --> 00:19:20,870
+Blancos fantasmas lares
+
+408
+00:19:20,870 --> 00:19:22,850
+van encendiendo estrellas.
+
+409
+00:19:22,850 --> 00:19:23,970
+—Abre el balcón.
+
+410
+00:19:23,970 --> 00:19:24,530
+La hora
+
+411
+00:19:24,530 --> 00:19:26,120
+de una ilusión se acerca...
+
+412
+00:19:26,120 --> 00:19:27,690
+La tarde se ha dormido
+
+413
+00:19:27,690 --> 00:19:28,920
+y las campanas sueñan.
+
+414
+00:19:28,920 --> 00:19:31,270
+Cuarto
+
+415
+00:19:31,270 --> 00:19:33,820
+Algunos lienzos del recuerdo tienen
+
+416
+00:19:33,820 --> 00:19:36,140
+luz de jardín y soledad de campo;
+
+417
+00:19:36,140 --> 00:19:37,520
+la placidez del sueño
+
+418
+00:19:37,520 --> 00:19:39,540
+en el paisaje familiar soñado.
+
+419
+00:19:39,540 --> 00:19:41,280
+Otros guardan las fiestas
+
+420
+00:19:41,280 --> 00:19:42,660
+de días aún lejanos;
+
+421
+00:19:42,660 --> 00:19:43,830
+figuritas sutiles
+
+422
+00:19:43,830 --> 00:19:45,740
+que pone un titerero en su retablo...
+
+423
+00:19:45,740 --> 00:19:46,110
+. . . . . . . . . . .
+
+424
+00:19:46,110 --> 00:19:47,660
+Ante el balcón florido
+
+425
+00:19:47,660 --> 00:19:49,860
+está la cita de un amor amargo.
+
+426
+00:19:49,860 --> 00:19:52,600
+Brilla la tarde en el resol bermejo...
+
+427
+00:19:52,600 --> 00:19:55,380
+La hiedra efunde de los muros blancos...
+
+428
+00:19:55,380 --> 00:19:57,790
+A la revuelta de una calle en sombra,
+
+429
+00:19:57,790 --> 00:20:00,840
+un fantasma irrisorio besa un nardo.
+
+430
+00:20:00,840 --> 00:20:02,530
+Cinco
+
+431
+00:20:02,530 --> 00:20:05,140
+Las ascuas de un crepúsculo morado
+
+432
+00:20:05,140 --> 00:20:07,410
+detrás el negro cipresal humean...
+
+433
+00:20:07,410 --> 00:20:09,780
+En la glorieta en sombra está la fuente
+
+434
+00:20:09,780 --> 00:20:12,320
+con su alado y desnudo Amor de piedra,
+
+435
+00:20:12,320 --> 00:20:13,400
+que sueña mudo.
+
+436
+00:20:13,400 --> 00:20:15,120
+En la marmórea taza
+
+437
+00:20:15,120 --> 00:20:17,220
+reposa el agua muerta.
+
+438
+00:20:17,220 --> 00:20:20,640
+Fin
+del
+Capítulo tres
+
+439
+00:20:25,500 --> 00:20:29,590
+﻿Capítulo cuatro
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+440
+00:20:29,590 --> 00:20:33,790
+Esta grabación de LibriVox está en el dominio público.
+
+441
+00:20:33,790 --> 00:20:37,230
+GALERÍAS
+INTRODUCCIÓN
+
+442
+00:20:37,230 --> 00:20:39,150
+Leyendo un claro día
+
+443
+00:20:39,150 --> 00:20:41,100
+mis bien amados versos,
+
+444
+00:20:41,100 --> 00:20:42,390
+he visto en el profundo
+
+445
+00:20:42,390 --> 00:20:43,950
+espejo de mis sueños
+
+446
+00:20:43,950 --> 00:20:45,210
+que una verdad divina
+
+447
+00:20:45,210 --> 00:20:46,600
+temblando está de miedo,
+
+448
+00:20:46,600 --> 00:20:48,130
+y es una flor que quiere
+
+449
+00:20:48,130 --> 00:20:50,040
+echar su aroma al viento.
+
+450
+00:20:50,040 --> 00:20:51,070
+El alma del poeta
+
+451
+00:20:51,070 --> 00:20:52,860
+se orienta hacia el misterio.
+
+452
+00:20:52,860 --> 00:20:54,150
+Sólo el poeta puede
+
+453
+00:20:54,150 --> 00:20:55,800
+mirar lo que está lejos,
+
+454
+00:20:55,800 --> 00:20:57,190
+dentro del alma en turbio
+
+455
+00:20:57,190 --> 00:20:58,830
+y mago sol envuelto.
+
+456
+00:20:58,830 --> 00:21:00,140
+En esas galerías,
+
+457
+00:21:00,140 --> 00:21:01,500
+sin fondo del recuerdo,
+
+458
+00:21:01,500 --> 00:21:02,760
+donde las pobres gentes
+
+459
+00:21:02,760 --> 00:21:04,000
+colgaron cual trofeo
+
+460
+00:21:04,000 --> 00:21:05,510
+el traje de una fiesta
+
+461
+00:21:05,510 --> 00:21:06,770
+apolillado y viejo,
+
+462
+00:21:06,770 --> 00:21:08,220
+allí el poeta sabe
+
+463
+00:21:08,220 --> 00:21:09,210
+el laborar eterno
+
+464
+00:21:09,210 --> 00:21:10,610
+mirar de las doradas
+
+465
+00:21:10,610 --> 00:21:12,270
+abejas de los sueños.
+
+466
+00:21:12,270 --> 00:21:13,430
+Poetas, con el alma
+
+467
+00:21:13,430 --> 00:21:14,900
+atenta al hondo cielo,
+
+468
+00:21:14,900 --> 00:21:16,050
+en la cruel batalla
+
+469
+00:21:16,050 --> 00:21:17,640
+o en el tranquilo huerto,
+
+470
+00:21:17,640 --> 00:21:18,920
+la nueva miel labramos
+
+471
+00:21:18,920 --> 00:21:20,410
+de los dolores viejos,
+
+472
+00:21:20,410 --> 00:21:21,680
+la veste blanca y pura
+
+473
+00:21:21,680 --> 00:21:23,040
+pacientemente hacemos,
+
+474
+00:21:23,040 --> 00:21:24,610
+y bajo el Sol bruñimos
+
+475
+00:21:24,610 --> 00:21:25,800
+el fuerte arnés de hierro.
+
+476
+00:21:25,800 --> 00:21:28,050
+El alma que no sueña,
+
+477
+00:21:28,050 --> 00:21:29,220
+el enemigo espejo,
+
+478
+00:21:29,220 --> 00:21:30,460
+proyecta nuestra imagen
+
+479
+00:21:30,460 --> 00:21:31,920
+con un perfil grotesco.
+
+480
+00:21:31,920 --> 00:21:33,110
+Sentimos una ola
+
+481
+00:21:33,110 --> 00:21:34,600
+de sangre en nuestro pecho
+
+482
+00:21:34,600 --> 00:21:36,510
+que pasa..., y sonreímos,
+
+483
+00:21:36,510 --> 00:21:38,610
+y a laborar volvemos.
+
+484
+00:21:38,610 --> 00:21:40,260
+Uno
+
+485
+00:21:40,260 --> 00:21:42,890
+Desgarrada la nube; el arco iris
+
+486
+00:21:42,890 --> 00:21:44,100
+brillando ya en el cielo;
+
+487
+00:21:44,100 --> 00:21:45,750
+y en un fanal de lluvia
+
+488
+00:21:45,750 --> 00:21:47,410
+y sol el campo envuelto.
+
+489
+00:21:47,410 --> 00:21:48,490
+Desperté.
+
+490
+00:21:48,490 --> 00:21:49,470
+¿Quién enturbia
+
+491
+00:21:49,470 --> 00:21:51,440
+los mágicos cristales de mi sueño?
+
+492
+00:21:51,440 --> 00:21:53,290
+Mi corazón latía
+
+493
+00:21:53,290 --> 00:21:54,650
+atónito y disperso.
+
+494
+00:21:54,650 --> 00:21:54,830
+...
+
+495
+00:21:54,830 --> 00:21:56,290
+¡El limonar florido,
+
+496
+00:21:56,290 --> 00:21:57,970
+el cipresal del huerto,
+
+497
+00:21:57,970 --> 00:22:00,920
+el prado verde, el Sol, el agua, el iris!...
+
+498
+00:22:00,920 --> 00:22:02,590
+¡El agua en tus cabellos!...
+
+499
+00:22:02,590 --> 00:22:04,910
+Y todo en la memoria se rompía,
+
+500
+00:22:04,910 --> 00:22:07,610
+tal una pompa de jabón al viento.
+
+501
+00:22:07,610 --> 00:22:09,170
+Dos
+
+502
+00:22:09,170 --> 00:22:12,350
+Y era el demonio de mi sueño, el ángel
+
+503
+00:22:12,350 --> 00:22:13,250
+más hermoso.
+
+504
+00:22:13,250 --> 00:22:13,990
+Brillaban
+
+505
+00:22:13,990 --> 00:22:16,020
+como aceros los ojos victoriosos,
+
+506
+00:22:16,020 --> 00:22:17,330
+y las sangrientas llamas
+
+507
+00:22:17,330 --> 00:22:18,860
+de su antorcha alumbraron
+
+508
+00:22:18,860 --> 00:22:20,510
+la honda cripta del alma.
+
+509
+00:22:20,510 --> 00:22:24,110
+—¿Vendrás conmigo?—No, jamás; las tumbas
+
+510
+00:22:24,110 --> 00:22:25,670
+y los muertos me espantan.—
+
+511
+00:22:25,670 --> 00:22:26,980
+Pero la férrea mano
+
+512
+00:22:26,980 --> 00:22:28,710
+mi diestra atenazaba.
+
+513
+00:22:28,710 --> 00:22:31,690
+—Vendrás conmigo...—Y avancé en mi sueño,
+
+514
+00:22:31,690 --> 00:22:33,580
+cegado por la roja luminaria.
+
+515
+00:22:33,580 --> 00:22:35,790
+Y en la cripta sentí sonar cadenas
+
+516
+00:22:35,790 --> 00:22:38,720
+y rebullir de fieras enjauladas.
+
+517
+00:22:38,720 --> 00:22:40,440
+Tres
+
+518
+00:22:40,440 --> 00:22:43,140
+Desde el umbral de un sueño me llamaron...
+
+519
+00:22:43,140 --> 00:22:45,600
+Era la buena voz, la voz querida.
+
+520
+00:22:45,600 --> 00:22:48,770
+—Dime: ¿vendrás conmigo a ver el alma?...
+
+521
+00:22:48,770 --> 00:22:51,560
+Llegó a mi corazón una caricia.
+
+522
+00:22:51,560 --> 00:22:53,230
+—Contigo siempre...
+
+523
+00:22:53,230 --> 00:22:54,530
+Y avancé en mi sueño
+
+524
+00:22:54,530 --> 00:22:56,660
+por una larga, escueta galería,
+
+525
+00:22:56,660 --> 00:22:59,030
+sintiendo el roce de la veste pura
+
+526
+00:22:59,030 --> 00:23:01,780
+y el palpitar suave de la mano amiga.
+
+527
+00:23:01,780 --> 00:23:06,600
+Cuatro
+SUEÑO INFANTIL
+
+528
+00:23:06,600 --> 00:23:08,170
+Una clara noche
+
+529
+00:23:08,170 --> 00:23:09,540
+de fiesta y de luna,
+
+530
+00:23:09,540 --> 00:23:10,890
+noche de mis sueños,
+
+531
+00:23:10,890 --> 00:23:12,640
+noche de alegría
+
+532
+00:23:12,640 --> 00:23:13,670
+—era luz mi alma,
+
+533
+00:23:13,670 --> 00:23:15,010
+que hoy es bruma toda,
+
+534
+00:23:15,010 --> 00:23:16,230
+no eran mis cabellos
+
+535
+00:23:16,230 --> 00:23:17,020
+negros todavía,—
+
+536
+00:23:17,020 --> 00:23:18,740
+el hada más joven
+
+537
+00:23:18,740 --> 00:23:20,110
+me llevó en sus brazos
+
+538
+00:23:20,110 --> 00:23:21,190
+a la alegre fiesta
+
+539
+00:23:21,190 --> 00:23:22,490
+que en la plaza ardía.
+
+540
+00:23:22,490 --> 00:23:24,310
+So el chisporroteo
+
+541
+00:23:24,310 --> 00:23:25,760
+de las luminarias,
+
+542
+00:23:25,760 --> 00:23:26,960
+Amor sus madejas
+
+543
+00:23:26,960 --> 00:23:28,370
+de danzas tejía.
+
+544
+00:23:28,370 --> 00:23:29,720
+Y en aquella noche
+
+545
+00:23:29,720 --> 00:23:30,630
+de fiesta y de luna,
+
+546
+00:23:30,630 --> 00:23:32,310
+noche de mis sueños,
+
+547
+00:23:32,310 --> 00:23:33,730
+noche de alegría,
+
+548
+00:23:33,730 --> 00:23:34,720
+el hada más joven
+
+549
+00:23:34,720 --> 00:23:35,970
+besaba mi frente...,
+
+550
+00:23:35,970 --> 00:23:37,280
+con su linda mano
+
+551
+00:23:37,280 --> 00:23:38,980
+su adiós me decía...
+
+552
+00:23:38,980 --> 00:23:40,560
+Todos los rosales
+
+553
+00:23:40,560 --> 00:23:42,010
+daban sus aromas,
+
+554
+00:23:42,010 --> 00:23:43,240
+todos los amores
+
+555
+00:23:43,240 --> 00:23:45,300
+Amor entreabría.
+
+556
+00:23:45,300 --> 00:23:47,370
+Cinco
+
+557
+00:23:47,370 --> 00:23:49,320
+Si yo fuera un poeta
+
+558
+00:23:49,320 --> 00:23:51,120
+galante, cantaría
+
+559
+00:23:51,120 --> 00:23:53,170
+a vuestros ojos un cantar tan puro
+
+560
+00:23:53,170 --> 00:23:55,090
+como en el mármol blanco el agua limpia.
+
+561
+00:23:55,090 --> 00:23:56,850
+Y en una estrofa de agua
+
+562
+00:23:56,850 --> 00:23:58,490
+todo el cantar sería:
+
+563
+00:23:58,490 --> 00:24:01,290
+“Ya sé que no responden a mis ojos,
+
+564
+00:24:01,290 --> 00:24:03,190
+que ven y no preguntan cuando miran,
+
+565
+00:24:03,190 --> 00:24:06,230
+los vuestros claros; vuestros ojos tienen
+
+566
+00:24:06,230 --> 00:24:07,830
+la buena luz tranquila,
+
+567
+00:24:07,830 --> 00:24:10,240
+la buena luz del mundo en flor, que he visto
+
+568
+00:24:10,240 --> 00:24:13,420
+desde los brazos de mi madre un día.”
+
+569
+00:24:13,420 --> 00:24:15,760
+Seis
+
+570
+00:24:15,760 --> 00:24:18,190
+Llamó a mi corazón un claro día,
+
+571
+00:24:18,190 --> 00:24:20,860
+con un perfume de jazmín, el viento.
+
+572
+00:24:20,860 --> 00:24:22,050
+—A cambio de este aroma,
+
+573
+00:24:22,050 --> 00:24:24,020
+todo el aroma de tus rosas quiero.
+
+574
+00:24:24,020 --> 00:24:26,130
+—No tengo rosas; flores
+
+575
+00:24:26,130 --> 00:24:29,110
+en mi jardín no hay ya: todas han muerto.
+
+576
+00:24:29,110 --> 00:24:31,080
+—Me llevaré los llantos de las fuentes,
+
+577
+00:24:31,080 --> 00:24:33,800
+las hojas amarillas y los mustios pétalos.
+
+578
+00:24:33,800 --> 00:24:34,850
+Y el viento huyó...
+
+579
+00:24:34,850 --> 00:24:36,440
+Mi corazón sangraba...
+
+580
+00:24:36,440 --> 00:24:40,020
+Alma, ¿qué has hecho de tu pobre huerto?
+
+581
+00:24:40,020 --> 00:24:41,340
+Siete
+
+582
+00:24:41,340 --> 00:24:43,700
+Hoy buscarás en vano
+
+583
+00:24:43,700 --> 00:24:45,010
+a tu dolor consuelo.
+
+584
+00:24:45,010 --> 00:24:46,290
+Lleváronse tus hadas
+
+585
+00:24:46,290 --> 00:24:47,770
+el lino de tus sueños.
+
+586
+00:24:47,770 --> 00:24:49,090
+Está la fuente muda,
+
+587
+00:24:49,090 --> 00:24:50,610
+y está marchito el huerto.
+
+588
+00:24:50,610 --> 00:24:52,120
+Hoy sólo quedan lágrimas
+
+589
+00:24:52,120 --> 00:24:53,020
+para llorar.
+
+590
+00:24:53,020 --> 00:24:56,120
+No hay que llorar, ¡silencio!
+
+591
+00:24:57,640 --> 00:24:58,520
+Ocho
+
+592
+00:24:58,520 --> 00:25:01,460
+Y nada importa ya que el vino de oro
+
+593
+00:25:01,460 --> 00:25:03,500
+rebose de tu copa cristalina,
+
+594
+00:25:03,500 --> 00:25:05,840
+o el agrio zumo enturbie el puro vaso...
+
+595
+00:25:05,840 --> 00:25:07,890
+Tú sabes las secretas galerías
+
+596
+00:25:07,890 --> 00:25:10,010
+del alma, los caminos de los sueños
+
+597
+00:25:10,010 --> 00:25:11,370
+y la tarde tranquila
+
+598
+00:25:11,370 --> 00:25:12,600
+donde van a morir...
+
+599
+00:25:12,600 --> 00:25:13,770
+Allí te aguardan
+
+600
+00:25:13,770 --> 00:25:15,880
+las hadas silenciosas de la vida,
+
+601
+00:25:15,880 --> 00:25:18,170
+y hacia un jardín de eterna primavera
+
+602
+00:25:18,170 --> 00:25:20,030
+te llevarán un día.
+
+603
+00:25:20,030 --> 00:25:21,720
+Nueve
+
+604
+00:25:21,720 --> 00:25:23,490
+¡Tocados de otros días,
+
+605
+00:25:23,490 --> 00:25:25,690
+mustios encajes y marchitas sedas;
+
+606
+00:25:25,690 --> 00:25:27,050
+salterios arrumbados,
+
+607
+00:25:27,050 --> 00:25:28,970
+rincones de las salas polvorientas;
+
+608
+00:25:28,970 --> 00:25:30,670
+daguerrotipos turbios,
+
+609
+00:25:30,670 --> 00:25:32,050
+cartas que amarillean;
+
+610
+00:25:32,050 --> 00:25:33,380
+libracos no leídos
+
+611
+00:25:33,380 --> 00:25:35,410
+que guardan grises florecitas secas:
+
+612
+00:25:35,410 --> 00:25:36,880
+romanticismos muertos,
+
+613
+00:25:36,880 --> 00:25:38,100
+cursilerías viejas,
+
+614
+00:25:38,100 --> 00:25:40,710
+cosas de ayer que sois mi alma, y cantos
+
+615
+00:25:40,710 --> 00:25:42,470
+y cuentos de la abuela!...
+
+616
+00:25:42,470 --> 00:25:43,570
+Diez
+
+617
+00:25:43,570 --> 00:25:45,550
+La casa tan querida
+
+618
+00:25:45,550 --> 00:25:46,710
+donde habitaba ella,
+
+619
+00:25:46,710 --> 00:25:48,610
+sobre un montón de escombros arruinada
+
+620
+00:25:48,610 --> 00:25:49,760
+o derruida, enseña
+
+621
+00:25:49,760 --> 00:25:51,180
+el negro y carcomido
+
+622
+00:25:51,180 --> 00:25:53,380
+maltrabado esqueleto de madera.
+
+623
+00:25:53,380 --> 00:25:54,930
+La Luna está vertiendo
+
+624
+00:25:54,930 --> 00:25:57,350
+su clara luz en sueños, que platea
+
+625
+00:25:57,350 --> 00:25:58,410
+en las ventanas.
+
+626
+00:25:58,410 --> 00:25:59,880
+Mal vestido y triste,
+
+627
+00:25:59,880 --> 00:26:02,440
+voy caminando por la calle vieja.
+
+628
+00:26:02,440 --> 00:26:03,710
+Once
+
+629
+00:26:03,710 --> 00:26:06,370
+Ante el pálido lienzo de la tarde,
+
+630
+00:26:06,370 --> 00:26:08,590
+la iglesia con sus torres afiladas
+
+631
+00:26:08,590 --> 00:26:10,900
+y el ancho campanario, en cuyos huecos
+
+632
+00:26:10,900 --> 00:26:12,780
+voltean suavemente las campanas,
+
+633
+00:26:12,780 --> 00:26:14,380
+alta y sombría, surge.
+
+634
+00:26:14,380 --> 00:26:16,190
+La estrella es una lágrima
+
+635
+00:26:16,190 --> 00:26:17,660
+en el azul celeste.
+
+636
+00:26:17,660 --> 00:26:18,850
+Bajo la estrella clara,
+
+637
+00:26:18,850 --> 00:26:20,630
+flota, vellón disperso,
+
+638
+00:26:20,630 --> 00:26:23,210
+una nube quimérica de plata.
+
+639
+00:26:23,210 --> 00:26:24,890
+Doce
+
+640
+00:26:24,890 --> 00:26:26,780
+Tarde tranquila, casi
+
+641
+00:26:26,780 --> 00:26:28,110
+con placidez de alma,
+
+642
+00:26:28,110 --> 00:26:30,430
+para ser joven, para haberlo sido
+
+643
+00:26:30,430 --> 00:26:31,850
+cuando Dios quiso, para
+
+644
+00:26:31,850 --> 00:26:34,190
+tener algunas alegrías... lejos,
+
+645
+00:26:34,190 --> 00:26:37,130
+y poder dulcemente recordarlas.
+
+646
+00:26:37,130 --> 00:26:38,970
+Trece
+
+647
+00:26:38,970 --> 00:26:41,010
+Yo, como Anacreonte,
+
+648
+00:26:41,010 --> 00:26:43,250
+quiero cantar, reír y echar al viento
+
+649
+00:26:43,250 --> 00:26:44,370
+las sabias amarguras
+
+650
+00:26:44,370 --> 00:26:45,610
+y los graves consejos;
+
+651
+00:26:45,610 --> 00:26:47,910
+y quiero, sobre todo, emborracharme;
+
+652
+00:26:47,910 --> 00:26:48,870
+ya lo sabéis...
+
+653
+00:26:48,870 --> 00:26:50,020
+¡Grotesco!
+
+654
+00:26:50,020 --> 00:26:52,050
+Pura fe en el morir, pobre alegría
+
+655
+00:26:52,050 --> 00:26:55,060
+y macabro danzar antes de tiempo.
+
+656
+00:26:55,060 --> 00:26:57,130
+Catorce
+
+657
+00:26:57,130 --> 00:26:58,900
+¡Oh tarde luminosa!
+
+658
+00:26:58,900 --> 00:27:00,230
+El aire está encantado.
+
+659
+00:27:00,230 --> 00:27:01,390
+La blanca cigüeña
+
+660
+00:27:01,390 --> 00:27:02,410
+dormita volando,
+
+661
+00:27:02,410 --> 00:27:04,810
+y las golondrinas se cruzan, tendidas
+
+662
+00:27:04,810 --> 00:27:06,690
+las alas agudas al viento dorado,
+
+663
+00:27:06,690 --> 00:27:08,910
+y en la tarde risueña se alejan
+
+664
+00:27:08,910 --> 00:27:11,040
+volando, soñando...
+
+665
+00:27:11,040 --> 00:27:13,060
+Y hay una que torna como la saeta,
+
+666
+00:27:13,060 --> 00:27:16,030
+las alas agudas tendidas al aire sombrío,
+
+667
+00:27:16,030 --> 00:27:18,500
+buscando su negro rincón del tejado.
+
+668
+00:27:18,500 --> 00:27:19,820
+La blanca cigüeña,
+
+669
+00:27:19,820 --> 00:27:20,780
+como un garabato,
+
+670
+00:27:20,780 --> 00:27:23,530
+tranquila y disforme, ¡tan disparatada!,
+
+671
+00:27:23,530 --> 00:27:25,550
+sobre el campanario.
+
+672
+00:27:25,550 --> 00:27:27,630
+Quince
+
+673
+00:27:27,630 --> 00:27:30,240
+Es una tarde cenicienta y mustia,
+
+674
+00:27:30,240 --> 00:27:32,280
+destartalada, como el alma mía;
+
+675
+00:27:32,280 --> 00:27:33,860
+y es esta vieja angustia
+
+676
+00:27:33,860 --> 00:27:35,840
+que habita mi usual hipocondría.
+
+677
+00:27:35,840 --> 00:27:37,800
+La causa de esta angustia no consigo
+
+678
+00:27:37,800 --> 00:27:39,560
+ni vagamente comprender siquiera;
+
+679
+00:27:39,560 --> 00:27:41,770
+pero recuerdo y, recordando, digo:
+
+680
+00:27:41,770 --> 00:27:45,570
+—Sí; yo era niño, y tú mi compañera.
+
+681
+00:27:45,570 --> 00:27:48,000
+Dieciséis
+
+682
+00:27:48,000 --> 00:27:50,930
+Y no es verdad, dolor, yo te conozco;
+
+683
+00:27:50,930 --> 00:27:52,880
+tú eres nostalgia de la vida buena
+
+684
+00:27:52,880 --> 00:27:54,540
+y soledad de corazón sombrío,
+
+685
+00:27:54,540 --> 00:27:57,240
+de barco sin naufragio y sin estrella.
+
+686
+00:27:57,240 --> 00:27:59,250
+Como perro olvidado, que no tiene
+
+687
+00:27:59,250 --> 00:28:00,590
+huella ni olfato y yerra
+
+688
+00:28:00,590 --> 00:28:02,510
+por los caminos, sin camino;
+
+689
+00:28:02,510 --> 00:28:04,600
+como el niño que la noche de una fiesta
+
+690
+00:28:04,600 --> 00:28:06,170
+se pierde entre el gentío
+
+691
+00:28:06,170 --> 00:28:08,180
+y el aire polvoriento y las candelas
+
+692
+00:28:08,180 --> 00:28:10,590
+chispeantes, atónito, y asombra
+
+693
+00:28:10,590 --> 00:28:12,510
+su corazón de música y de pena;
+
+694
+00:28:12,510 --> 00:28:15,190
+así voy yo, borracho melancólico,
+
+695
+00:28:15,190 --> 00:28:17,090
+guitarrista lunático, poeta,
+
+696
+00:28:17,090 --> 00:28:18,770
+y pobre hombre en sueños,
+
+697
+00:28:18,770 --> 00:28:21,780
+siempre buscando a Dios entre la niebla.
+
+698
+00:28:21,780 --> 00:28:23,750
+Diecisiete
+
+699
+00:28:23,750 --> 00:28:25,590
+¿Y ha de morir contigo el mundo mago
+
+700
+00:28:25,590 --> 00:28:26,750
+donde guarda el recuerdo
+
+701
+00:28:26,750 --> 00:28:28,670
+los hálitos más puros de la vida;
+
+702
+00:28:28,670 --> 00:28:30,710
+la blanca sombra del amor primero,
+
+703
+00:28:30,710 --> 00:28:33,250
+la voz que fue a tu corazón, la mano
+
+704
+00:28:33,250 --> 00:28:35,230
+que tú querías retener en sueños,
+
+705
+00:28:35,230 --> 00:28:36,220
+y todos los amores
+
+706
+00:28:36,220 --> 00:28:38,480
+que llegaron al alma, al hondo cielo?
+
+707
+00:28:38,480 --> 00:28:40,840
+¿Y ha de morir contigo el mundo tuyo,
+
+708
+00:28:40,840 --> 00:28:43,170
+la vieja vida en orden tuyo y nuevo?
+
+709
+00:28:43,170 --> 00:28:44,830
+¿Los yunques y crisoles de tu alma
+
+710
+00:28:44,830 --> 00:28:47,760
+trabajan para el polvo y para el viento?
+
+711
+00:28:48,780 --> 00:28:50,180
+Dieciocho
+
+712
+00:28:50,180 --> 00:28:52,050
+Desnuda está la tierra,
+
+713
+00:28:52,050 --> 00:28:54,050
+y el alma aúlla al horizonte pálido
+
+714
+00:28:54,050 --> 00:28:55,350
+como loba famélica.
+
+715
+00:28:55,350 --> 00:28:56,270
+¿Qué buscas,
+
+716
+00:28:56,270 --> 00:28:57,630
+poeta, en el ocaso?
+
+717
+00:28:57,630 --> 00:28:59,940
+¡Amargo caminar, porque el camino
+
+718
+00:28:59,940 --> 00:29:01,050
+pesa en el corazón!
+
+719
+00:29:01,050 --> 00:29:02,380
+¡El viento helado,
+
+720
+00:29:02,380 --> 00:29:04,500
+y la noche que llega, y la amargura
+
+721
+00:29:04,500 --> 00:29:05,830
+de la distancia!...
+
+722
+00:29:05,830 --> 00:29:07,530
+En el camino blanco
+
+723
+00:29:07,530 --> 00:29:09,290
+algunos yertos árboles negrean;
+
+724
+00:29:09,290 --> 00:29:10,910
+en los montes lejanos
+
+725
+00:29:10,910 --> 00:29:11,880
+hay oro y sangre...
+
+726
+00:29:11,880 --> 00:29:12,870
+El Sol murió...
+
+727
+00:29:12,870 --> 00:29:13,590
+¿Qué buscas,
+
+728
+00:29:13,590 --> 00:29:16,000
+poeta, en el ocaso?
+
+729
+00:29:16,000 --> 00:29:18,960
+Diecinueve
+CAMPO
+
+730
+00:29:18,960 --> 00:29:20,770
+La tarde está muriendo,
+
+731
+00:29:20,770 --> 00:29:23,040
+como un hogar humilde que se apaga.
+
+732
+00:29:23,040 --> 00:29:24,860
+Allá, sobre los montes,
+
+733
+00:29:24,860 --> 00:29:26,550
+quedan algunas brasas.
+
+734
+00:29:26,550 --> 00:29:29,140
+Y ese árbol roto en el camino blanco
+
+735
+00:29:29,140 --> 00:29:30,970
+hace llorar de lástima.
+
+736
+00:29:30,970 --> 00:29:33,250
+¡Dos ramas en el tronco herido, y una
+
+737
+00:29:33,250 --> 00:29:35,480
+hoja marchita y negra en cada rama!
+
+738
+00:29:35,480 --> 00:29:36,290
+¿Lloras?...
+
+739
+00:29:36,290 --> 00:29:38,070
+Entre los álamos de oro,
+
+740
+00:29:38,070 --> 00:29:41,050
+lejos, la sombra del amor te aguarda.
+
+741
+00:29:41,050 --> 00:29:44,140
+Veinte
+LOS SUEÑOS
+
+742
+00:29:44,140 --> 00:29:46,770
+El hada más hermosa ha sonreído
+
+743
+00:29:46,770 --> 00:29:49,260
+al ver la lumbre de una estrella pálida
+
+744
+00:29:49,260 --> 00:29:51,730
+que en hilo suave, blanco y silencioso
+
+745
+00:29:51,730 --> 00:29:54,070
+se enrosca al huso de su rubia hermana.
+
+746
+00:29:54,070 --> 00:29:56,820
+Y vuelve a sonreír, porque en su rueca
+
+747
+00:29:56,820 --> 00:29:58,830
+el hilo de los campos se enmaraña.
+
+748
+00:29:58,830 --> 00:30:01,400
+Tras la tenue cortina de la alcoba
+
+749
+00:30:01,400 --> 00:30:03,880
+está el jardín envuelto en luz dorada.
+
+750
+00:30:03,880 --> 00:30:05,670
+La cuna casi en sombra.
+
+751
+00:30:05,670 --> 00:30:07,270
+El niño duerme.
+
+752
+00:30:07,270 --> 00:30:09,630
+Dos hadas laboriosas lo acompañan,
+
+753
+00:30:09,630 --> 00:30:11,540
+hilando de los sueños los sutiles
+
+754
+00:30:11,540 --> 00:30:15,020
+copos en ruecas de marfil y plata.
+
+755
+00:30:16,040 --> 00:30:18,730
+Veintiuno
+RENACIMIENTO
+
+756
+00:30:18,730 --> 00:30:20,960
+Galerías del alma...
+
+757
+00:30:20,960 --> 00:30:22,240
+¡El alma niña!
+
+758
+00:30:22,240 --> 00:30:23,770
+Su clara luz risueña;
+
+759
+00:30:23,770 --> 00:30:25,080
+y la pequeña historia
+
+760
+00:30:25,080 --> 00:30:27,500
+y la alegría de la vida nueva...
+
+761
+00:30:27,500 --> 00:30:30,350
+¡Ah, volver a nacer, y andar camino,
+
+762
+00:30:30,350 --> 00:30:32,590
+ya recobrada la perdida senda!
+
+763
+00:30:32,590 --> 00:30:34,570
+Y volver a sentir en nuestra mano
+
+764
+00:30:34,570 --> 00:30:36,800
+aquel latido de la mano buena
+
+765
+00:30:36,800 --> 00:30:37,880
+de nuestra madre...
+
+766
+00:30:37,880 --> 00:30:39,510
+Y caminar en sueños,
+
+767
+00:30:39,510 --> 00:30:42,240
+por amor de la mano que nos lleva.
+
+768
+00:30:42,240 --> 00:30:43,970
+Veintidós
+
+769
+00:30:43,970 --> 00:30:46,090
+Tal vez la mano, en sueños,
+
+770
+00:30:46,090 --> 00:30:47,670
+del sembrador de estrellas,
+
+771
+00:30:47,670 --> 00:30:49,790
+hizo sonar la música olvidada
+
+772
+00:30:49,790 --> 00:30:52,120
+como una nota de la lira inmensa,
+
+773
+00:30:52,120 --> 00:30:54,310
+y la ola humilde a nuestros labios vino
+
+774
+00:30:54,310 --> 00:30:57,180
+de unas pocas palabras verdaderas.
+
+775
+00:30:57,180 --> 00:30:59,240
+Veintitrés
+
+776
+00:30:59,240 --> 00:31:01,530
+Y podrás conocerte recordando
+
+777
+00:31:01,530 --> 00:31:03,960
+del pasado soñar los turbios lienzos,
+
+778
+00:31:03,960 --> 00:31:05,790
+en este día triste en que caminas
+
+779
+00:31:05,790 --> 00:31:07,540
+con los ojos abiertos.
+
+780
+00:31:07,540 --> 00:31:09,830
+De toda la memoria, sólo vale
+
+781
+00:31:09,830 --> 00:31:12,970
+el don preclaro de evocar los sueños.
+
+782
+00:31:12,970 --> 00:31:16,220
+Fin
+del
+Capítulo cuatro
+
+783
+00:31:21,480 --> 00:31:25,730
+﻿Capítulo cinco
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+784
+00:31:25,730 --> 00:31:29,880
+Esta grabación de LibriVox está en el dominio público.
+
+785
+00:31:29,880 --> 00:31:32,580
+CANCIONES HUMORADAS
+
+786
+00:31:32,580 --> 00:31:34,050
+Uno
+
+787
+00:31:34,050 --> 00:31:35,670
+Abril florecía
+
+788
+00:31:35,670 --> 00:31:36,900
+frente a mi ventana.
+
+789
+00:31:36,900 --> 00:31:38,430
+Entre los jazmines
+
+790
+00:31:38,430 --> 00:31:39,810
+y las rosas blancas
+
+791
+00:31:39,810 --> 00:31:41,200
+de un balcón florido,
+
+792
+00:31:41,200 --> 00:31:42,930
+vi las dos hermanas.
+
+793
+00:31:42,930 --> 00:31:44,130
+La menor cosía,
+
+794
+00:31:44,130 --> 00:31:45,270
+la mayor hilaba...
+
+795
+00:31:45,270 --> 00:31:46,510
+Entre los jazmines
+
+796
+00:31:46,510 --> 00:31:47,910
+y las rosas blancas,
+
+797
+00:31:47,910 --> 00:31:48,970
+la más pequeñita,
+
+798
+00:31:48,970 --> 00:31:50,080
+risueña y rosada,
+
+799
+00:31:50,080 --> 00:31:51,340
+su aguja en el aire,
+
+800
+00:31:51,340 --> 00:31:52,770
+miró a mi ventana.
+
+801
+00:31:52,770 --> 00:31:54,010
+La mayor seguía,
+
+802
+00:31:54,010 --> 00:31:55,520
+silenciosa y pálida,
+
+803
+00:31:55,520 --> 00:31:56,780
+el huso en su rueca,
+
+804
+00:31:56,780 --> 00:31:58,220
+que el lino enroscaba.
+
+805
+00:31:58,220 --> 00:31:59,660
+Abril florecía
+
+806
+00:31:59,660 --> 00:32:01,030
+frente a mi ventana.
+
+807
+00:32:01,030 --> 00:32:02,490
+Una clara tarde
+
+808
+00:32:02,490 --> 00:32:03,610
+la mayor lloraba,
+
+809
+00:32:03,610 --> 00:32:04,780
+entre los jazmines
+
+810
+00:32:04,780 --> 00:32:06,290
+y las rosas blancas,
+
+811
+00:32:06,290 --> 00:32:07,530
+y ante el blanco lino
+
+812
+00:32:07,530 --> 00:32:08,680
+que en su rueca hilaba.
+
+813
+00:32:08,680 --> 00:32:10,220
+—¿Qué tienes?—le dije.—
+
+814
+00:32:10,220 --> 00:32:11,510
+Silenciosa y pálida,
+
+815
+00:32:11,510 --> 00:32:12,760
+señaló el vestido
+
+816
+00:32:12,760 --> 00:32:13,940
+que empezó la hermana:
+
+817
+00:32:13,940 --> 00:32:15,520
+en la negra túnica
+
+818
+00:32:15,520 --> 00:32:16,800
+la aguja brillaba;
+
+819
+00:32:16,800 --> 00:32:18,430
+sobre el blanco velo,
+
+820
+00:32:18,430 --> 00:32:19,740
+el dedal de plata.
+
+821
+00:32:19,740 --> 00:32:21,330
+Señaló a la tarde
+
+822
+00:32:21,330 --> 00:32:22,480
+de Abril que soñaba,
+
+823
+00:32:22,480 --> 00:32:23,530
+mientras que se oía
+
+824
+00:32:23,530 --> 00:32:25,370
+tañer las campanas.
+
+825
+00:32:25,370 --> 00:32:26,540
+Y en la clara tarde
+
+826
+00:32:26,540 --> 00:32:28,250
+me enseñó sus lágrimas...
+
+827
+00:32:28,250 --> 00:32:29,330
+Abril florecía
+
+828
+00:32:29,330 --> 00:32:30,540
+frente a mi ventana.
+
+829
+00:32:30,540 --> 00:32:32,110
+Fue otro Abril alegre
+
+830
+00:32:32,110 --> 00:32:33,930
+y otra tarde plácida.
+
+831
+00:32:33,930 --> 00:32:35,090
+El balcón florido
+
+832
+00:32:35,090 --> 00:32:36,140
+solitario estaba...
+
+833
+00:32:36,140 --> 00:32:37,450
+Ni la pequeñita,
+
+834
+00:32:37,450 --> 00:32:38,800
+risueña y rosada,
+
+835
+00:32:38,800 --> 00:32:39,930
+ni la hermana triste,
+
+836
+00:32:39,930 --> 00:32:41,300
+silenciosa y pálida,
+
+837
+00:32:41,300 --> 00:32:42,570
+ni la negra túnica,
+
+838
+00:32:42,570 --> 00:32:43,630
+ni la toca blanca...
+
+839
+00:32:43,630 --> 00:32:45,130
+Tan sólo en el huso
+
+840
+00:32:45,130 --> 00:32:46,050
+el lino giraba
+
+841
+00:32:46,050 --> 00:32:47,730
+por mano invisible;
+
+842
+00:32:47,730 --> 00:32:48,850
+y en la obscura sala
+
+843
+00:32:48,850 --> 00:32:50,280
+la luna del limpio
+
+844
+00:32:50,280 --> 00:32:51,620
+espejo brillaba...
+
+845
+00:32:51,620 --> 00:32:52,920
+Entre los jazmines
+
+846
+00:32:52,920 --> 00:32:54,240
+y las rosas blancas
+
+847
+00:32:54,240 --> 00:32:55,420
+del balcón florido,
+
+848
+00:32:55,420 --> 00:32:56,770
+me miré en la clara
+
+849
+00:32:56,770 --> 00:32:57,860
+luna del espejo
+
+850
+00:32:57,860 --> 00:32:59,510
+que lejos soñaba...
+
+851
+00:32:59,510 --> 00:33:01,080
+Abril florecía
+
+852
+00:33:01,080 --> 00:33:03,360
+frente a mi ventana.
+
+853
+00:33:04,380 --> 00:33:07,530
+DE LA VIDA
+(COPLAS ELEGÍACAS)
+
+854
+00:33:07,530 --> 00:33:09,470
+¡Ay del que llega sediento
+
+855
+00:33:09,470 --> 00:33:10,720
+a ver el agua correr
+
+856
+00:33:10,720 --> 00:33:12,590
+y dice: La sed que siento
+
+857
+00:33:12,590 --> 00:33:14,200
+no me la calma el beber!
+
+858
+00:33:14,200 --> 00:33:15,990
+¡Ay de quien bebe y, saciada
+
+859
+00:33:15,990 --> 00:33:17,680
+la sed, desprecia la vida:
+
+860
+00:33:17,680 --> 00:33:19,570
+moneda al tahúr prestada
+
+861
+00:33:19,570 --> 00:33:21,340
+que sea al azar rendida!
+
+862
+00:33:21,340 --> 00:33:22,810
+¡Del iluso que suspira
+
+863
+00:33:22,810 --> 00:33:24,090
+bajo el orden soberano,
+
+864
+00:33:24,090 --> 00:33:25,600
+y del que sueña la lira
+
+865
+00:33:25,600 --> 00:33:26,970
+pitagórica en su mano!
+
+866
+00:33:26,970 --> 00:33:28,710
+¡Ay del noble peregrino
+
+867
+00:33:28,710 --> 00:33:29,930
+que se para a meditar,
+
+868
+00:33:29,930 --> 00:33:31,180
+después de largo camino,
+
+869
+00:33:31,180 --> 00:33:32,350
+en el horror de llegar!
+
+870
+00:33:32,350 --> 00:33:34,080
+¡Ay de la melancolía
+
+871
+00:33:34,080 --> 00:33:35,440
+que llorando se consuela,
+
+872
+00:33:35,440 --> 00:33:36,840
+y de la melomanía
+
+873
+00:33:36,840 --> 00:33:38,390
+de un corazón de zarzuela!
+
+874
+00:33:38,390 --> 00:33:40,190
+¡Ay de nuestro ruiseñor,
+
+875
+00:33:40,190 --> 00:33:41,480
+si en una noche serena
+
+876
+00:33:41,480 --> 00:33:43,060
+se cura del mal de amor
+
+877
+00:33:43,060 --> 00:33:44,550
+que llora y canta sin pena!
+
+878
+00:33:44,550 --> 00:33:46,540
+¡De los jardines secretos,
+
+879
+00:33:46,540 --> 00:33:48,240
+de los pensiles soñados,
+
+880
+00:33:48,240 --> 00:33:49,600
+y de los sueños poblados
+
+881
+00:33:49,600 --> 00:33:51,480
+de propósitos discretos!
+
+882
+00:33:51,480 --> 00:33:53,010
+¡Ay del galán sin fortuna
+
+883
+00:33:53,010 --> 00:33:54,340
+que ronda a la Luna bella;
+
+884
+00:33:54,340 --> 00:33:55,730
+de cuantos caen de la Luna,
+
+885
+00:33:55,730 --> 00:33:57,500
+de cuantos se marchan a ella!
+
+886
+00:33:57,500 --> 00:33:59,310
+¡De quien el fruto prendido
+
+887
+00:33:59,310 --> 00:34:00,670
+en la rama no alcanzó;
+
+888
+00:34:00,670 --> 00:34:02,360
+de quien el fruto ha mordido,
+
+889
+00:34:02,360 --> 00:34:03,830
+y el gusto amargo probó!
+
+890
+00:34:03,830 --> 00:34:05,490
+¡Y de nuestro amor primero,
+
+891
+00:34:05,490 --> 00:34:06,700
+y de su fe mal pagada,
+
+892
+00:34:06,700 --> 00:34:08,360
+y, también, del verdadero
+
+893
+00:34:08,360 --> 00:34:10,840
+amante de nuestra amada!
+
+894
+00:34:12,100 --> 00:34:13,460
+LA NORIA
+
+895
+00:34:13,460 --> 00:34:15,180
+La tarde caía
+
+896
+00:34:15,180 --> 00:34:16,770
+triste y polvorienta.
+
+897
+00:34:16,770 --> 00:34:17,730
+El agua cantaba
+
+898
+00:34:17,730 --> 00:34:19,190
+su copla plebeya
+
+899
+00:34:19,190 --> 00:34:20,450
+en los cangilones
+
+900
+00:34:20,450 --> 00:34:21,570
+de la noria lenta.
+
+901
+00:34:21,570 --> 00:34:22,950
+Soñaba la mula,
+
+902
+00:34:22,950 --> 00:34:24,110
+¡pobre mula vieja!,
+
+903
+00:34:24,110 --> 00:34:25,250
+al compás de sombra
+
+904
+00:34:25,250 --> 00:34:26,800
+que en el agua suena.
+
+905
+00:34:26,800 --> 00:34:27,930
+La tarde caía
+
+906
+00:34:27,930 --> 00:34:29,570
+triste y polvorienta.
+
+907
+00:34:29,570 --> 00:34:31,020
+Yo no sé qué noble,
+
+908
+00:34:31,020 --> 00:34:32,070
+divino poeta,
+
+909
+00:34:32,070 --> 00:34:33,110
+unió a la amargura
+
+910
+00:34:33,110 --> 00:34:34,520
+de la eterna rueda
+
+911
+00:34:34,520 --> 00:34:35,610
+la dulce armonía
+
+912
+00:34:35,610 --> 00:34:36,620
+del agua que sueña,
+
+913
+00:34:36,620 --> 00:34:38,100
+y vendó tus ojos,
+
+914
+00:34:38,100 --> 00:34:39,530
+¡pobre mula vieja!...
+
+915
+00:34:39,530 --> 00:34:40,790
+Mas sé que fue un noble,
+
+916
+00:34:40,790 --> 00:34:41,740
+divino poeta,
+
+917
+00:34:41,740 --> 00:34:42,840
+corazón maduro
+
+918
+00:34:42,840 --> 00:34:45,360
+de sombra y de ciencia.
+
+919
+00:34:45,360 --> 00:34:47,900
+EL CADALSO
+
+920
+00:34:47,900 --> 00:34:49,750
+La aurora asomaba
+
+921
+00:34:49,750 --> 00:34:50,990
+lejana y siniestra.
+
+922
+00:34:50,990 --> 00:34:52,530
+El lienzo de Oriente
+
+923
+00:34:52,530 --> 00:34:53,770
+sangraba tragedias
+
+924
+00:34:53,770 --> 00:34:55,110
+pintarrajeadas
+
+925
+00:34:55,110 --> 00:34:57,010
+con nubes grotescas.
+
+926
+00:34:57,010 --> 00:34:58,010
+En la vieja plaza
+
+927
+00:34:58,010 --> 00:34:59,170
+de una vieja aldea,
+
+928
+00:34:59,170 --> 00:35:00,200
+erguía su horrible
+
+929
+00:35:00,200 --> 00:35:01,340
+pavura esquelética
+
+930
+00:35:01,340 --> 00:35:02,710
+el tosco patíbulo
+
+931
+00:35:02,710 --> 00:35:04,070
+de fresca madera...
+
+932
+00:35:04,070 --> 00:35:05,530
+La aurora asomaba
+
+933
+00:35:05,530 --> 00:35:07,880
+lejana y siniestra.
+
+934
+00:35:07,880 --> 00:35:10,390
+LAS MOSCAS
+
+935
+00:35:10,390 --> 00:35:12,430
+Vosotras las familiares,
+
+936
+00:35:12,430 --> 00:35:14,160
+inevitables golosas,
+
+937
+00:35:14,160 --> 00:35:15,670
+vosotras, moscas vulgares,
+
+938
+00:35:15,670 --> 00:35:17,590
+me evocáis todas las cosas.
+
+939
+00:35:17,590 --> 00:35:19,020
+¡Oh viejas moscas voraces
+
+940
+00:35:19,020 --> 00:35:20,140
+como abejas en Abril,
+
+941
+00:35:20,140 --> 00:35:21,840
+viejas moscas pertinaces
+
+942
+00:35:21,840 --> 00:35:23,210
+sobre mi calva infantil!
+
+943
+00:35:23,210 --> 00:35:24,990
+¡Moscas del primer hastío
+
+944
+00:35:24,990 --> 00:35:26,080
+en el salón familiar,
+
+945
+00:35:26,080 --> 00:35:27,930
+las claras tardes de estío
+
+946
+00:35:27,930 --> 00:35:29,250
+en que yo empecé a soñar!
+
+947
+00:35:29,250 --> 00:35:30,930
+Y en la aborrecida escuela
+
+948
+00:35:30,930 --> 00:35:32,530
+raudas moscas divertidas,
+
+949
+00:35:32,530 --> 00:35:33,380
+perseguidas
+
+950
+00:35:33,380 --> 00:35:34,740
+por amor de lo que vuela,
+
+951
+00:35:34,740 --> 00:35:36,630
+que todo es volar... sonoras
+
+952
+00:35:36,630 --> 00:35:37,950
+rebotando en los cristales,
+
+953
+00:35:37,950 --> 00:35:39,480
+en los días otoñales...
+
+954
+00:35:39,480 --> 00:35:41,220
+Moscas de todas las horas,
+
+955
+00:35:41,220 --> 00:35:42,630
+de infancia y adolescencia,
+
+956
+00:35:42,630 --> 00:35:44,000
+de mi juventud dorada;
+
+957
+00:35:44,000 --> 00:35:45,550
+de esta segunda inocencia,
+
+958
+00:35:45,550 --> 00:35:47,390
+que da en no creer en nada,
+
+959
+00:35:47,390 --> 00:35:48,410
+de siempre...
+
+960
+00:35:48,410 --> 00:35:49,490
+Moscas vulgares,
+
+961
+00:35:49,490 --> 00:35:50,950
+que de puro familiares
+
+962
+00:35:50,950 --> 00:35:52,330
+no tendréis digno cantor,
+
+963
+00:35:52,330 --> 00:35:54,250
+yo sé que os habéis posado
+
+964
+00:35:54,250 --> 00:35:55,750
+sobre el juguete encantado,
+
+965
+00:35:55,750 --> 00:35:57,530
+sobre el librote cerrado,
+
+966
+00:35:57,530 --> 00:35:58,860
+sobre la carta de amor,
+
+967
+00:35:58,860 --> 00:36:00,770
+sobre los párpados yertos
+
+968
+00:36:00,770 --> 00:36:02,180
+de los muertos...
+
+969
+00:36:02,180 --> 00:36:03,560
+Inevitables golosas,
+
+970
+00:36:03,560 --> 00:36:04,990
+que ni labráis como abejas,
+
+971
+00:36:04,990 --> 00:36:06,710
+ni brilláis cual mariposas;
+
+972
+00:36:06,710 --> 00:36:08,450
+pequeñitas, revoltosas,
+
+973
+00:36:08,450 --> 00:36:10,020
+vosotras, amigas viejas,
+
+974
+00:36:10,020 --> 00:36:12,520
+me evocáis todas las cosas.
+
+975
+00:36:12,520 --> 00:36:15,480
+ELEGÍA DE UN MADRIGAL
+
+976
+00:36:15,480 --> 00:36:18,870
+Recuerdo que una tarde de soledad y hastío,
+
+977
+00:36:18,870 --> 00:36:21,530
+¡oh tarde como tantas!, el alma mía era,
+
+978
+00:36:21,530 --> 00:36:24,270
+bajo el azul monótono, un ancho y terso río
+
+979
+00:36:24,270 --> 00:36:27,140
+que ni tenía un pobre juncal en su ribera.
+
+980
+00:36:27,140 --> 00:36:30,340
+¡Oh, el mundo sin encanto, sentimental inopia
+
+981
+00:36:30,340 --> 00:36:33,020
+que borra el misterioso azogue del cristal!
+
+982
+00:36:33,020 --> 00:36:35,870
+¡Oh, el alma sin amores, que el Universo copia
+
+983
+00:36:35,870 --> 00:36:38,780
+con un irremediable bostezo universal!
+
+984
+00:36:38,780 --> 00:36:41,220
+Quiso el poeta recordar, a solas,
+
+985
+00:36:41,220 --> 00:36:44,230
+las ondas bien amadas, la luz de los cabellos,
+
+986
+00:36:44,230 --> 00:36:46,790
+que él llamaba en sus rimas rubias olas.
+
+987
+00:36:46,790 --> 00:36:47,390
+Leyó...
+
+988
+00:36:47,390 --> 00:36:49,990
+La letra mata: no se acordaba de ellos...
+
+989
+00:36:49,990 --> 00:36:53,010
+Y un día—como tantos,—al aspirar un día
+
+990
+00:36:53,010 --> 00:36:55,630
+aromas de una rosa que en el rosal se abría,
+
+991
+00:36:55,630 --> 00:36:58,380
+brotó como una llama la luz de los cabellos,
+
+992
+00:36:58,380 --> 00:37:01,370
+que él en sus madrigales llamaba rubias olas;
+
+993
+00:37:01,370 --> 00:37:04,340
+brotó, porque un aroma igual tuvieron ellos...
+
+994
+00:37:04,340 --> 00:37:08,180
+Y se alejó en silencio para llorar a solas.
+
+995
+00:37:08,180 --> 00:37:10,370
+ACASO...
+
+996
+00:37:10,370 --> 00:37:12,960
+Como atento no más a mi quimera,
+
+997
+00:37:12,960 --> 00:37:15,530
+no reparaba en torno mío, un día
+
+998
+00:37:15,530 --> 00:37:17,590
+me sorprendió la fértil primavera,
+
+999
+00:37:17,590 --> 00:37:19,510
+que en todo el ancho campo sonreía.
+
+1000
+00:37:19,510 --> 00:37:21,220
+Brotaban verdes hojas
+
+1001
+00:37:21,220 --> 00:37:23,350
+de las hinchadas yemas del ramaje,
+
+1002
+00:37:23,350 --> 00:37:26,090
+y flores amarillas, blancas, rojas,
+
+1003
+00:37:26,090 --> 00:37:28,360
+bariolaban la mancha del paisaje.
+
+1004
+00:37:28,360 --> 00:37:30,610
+Y era una lluvia de saetas de oro
+
+1005
+00:37:30,610 --> 00:37:33,430
+el sol sobre las frondas juveniles;
+
+1006
+00:37:33,430 --> 00:37:35,400
+del amplio río en el caudal sonoro
+
+1007
+00:37:35,400 --> 00:37:37,980
+se miraban los álamos gentiles.
+
+1008
+00:37:37,980 --> 00:37:40,410
+—Tras de tanto camino, es la primera
+
+1009
+00:37:40,410 --> 00:37:42,800
+vez que miro brotar la primavera,
+
+1010
+00:37:42,800 --> 00:37:46,060
+dije; y después, declamatoriamente:
+
+1011
+00:37:46,060 --> 00:37:48,400
+—¡Cuán tarde ya para la dicha mía!—
+
+1012
+00:37:48,400 --> 00:37:51,120
+Y luego, al caminar, como quien siente
+
+1013
+00:37:51,120 --> 00:37:52,410
+alas de otra ilusión:
+
+1014
+00:37:52,410 --> 00:37:53,830
+Y todavía
+
+1015
+00:37:53,830 --> 00:37:57,010
+¡yo alcanzaré mi juventud un día!
+
+1016
+00:37:57,010 --> 00:37:59,170
+JARDÍN
+
+1017
+00:37:59,170 --> 00:38:02,050
+Lejos de tu jardín quema la tarde
+
+1018
+00:38:02,050 --> 00:38:04,610
+inciensos de oro en purpurinas llamas,
+
+1019
+00:38:04,610 --> 00:38:06,880
+tras el bosque de cobre y de ceniza.
+
+1020
+00:38:06,880 --> 00:38:08,550
+En tu jardín hay dalias.
+
+1021
+00:38:08,550 --> 00:38:09,850
+¡Malhaya tu jardín!...
+
+1022
+00:38:09,850 --> 00:38:11,120
+Hoy me parece
+
+1023
+00:38:11,120 --> 00:38:12,580
+la obra de un peluquero,
+
+1024
+00:38:12,580 --> 00:38:14,840
+con esa pobre palmerilla enana,
+
+1025
+00:38:14,840 --> 00:38:17,200
+y ese cuadro de mirtos recortados...,
+
+1026
+00:38:17,200 --> 00:38:18,790
+y el naranjito en su tonel...
+
+1027
+00:38:18,790 --> 00:38:21,320
+El agua de la fuente de piedra
+
+1028
+00:38:21,320 --> 00:38:24,340
+no cesa de reír sobre la concha blanca.
+
+1029
+00:38:24,340 --> 00:38:27,720
+Fin
+del
+Capítulo cinco
+
+1030
+00:38:33,200 --> 00:38:37,020
+﻿Capítulo seis
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+1031
+00:38:37,020 --> 00:38:41,010
+Esta grabación de LibriVox está en el dominio público.
+
+1032
+00:38:41,010 --> 00:38:46,260
+A UN NARANJO Y A UN LIMONERO VISTOS EN UNA TIENDA DE PLANTAS Y FLORES
+
+1033
+00:38:46,260 --> 00:38:49,610
+Naranjo en maceta, ¡qué triste es tu suerte!
+
+1034
+00:38:49,610 --> 00:38:52,020
+Medrosas tiritan tus hojas menguadas.
+
+1035
+00:38:52,020 --> 00:38:54,660
+Naranjo en la corte, ¡qué pena da verte
+
+1036
+00:38:54,660 --> 00:38:57,240
+con tus naranjitas secas y arrugadas!
+
+1037
+00:38:57,240 --> 00:38:59,460
+Pobre limonero de fruto amarillo
+
+1038
+00:38:59,460 --> 00:39:01,530
+cual pomo pulido de pálida cera,
+
+1039
+00:39:01,530 --> 00:39:03,840
+¡qué pena mirarte, mísero arbolillo
+
+1040
+00:39:03,840 --> 00:39:06,230
+criado en el verde tonel de madera!
+
+1041
+00:39:06,230 --> 00:39:08,820
+De los claros bosques de la Andalucía,
+
+1042
+00:39:08,820 --> 00:39:10,830
+¿quién os trajo a esta castellana tierra,
+
+1043
+00:39:10,830 --> 00:39:13,280
+que barren los vientos de la adusta sierra,
+
+1044
+00:39:13,280 --> 00:39:15,600
+hijos de los campos de la tierra mía?
+
+1045
+00:39:15,600 --> 00:39:18,530
+¡Gloria de los huertos, árbol limonero,
+
+1046
+00:39:18,530 --> 00:39:20,730
+que enciendes los frutos de pálido oro,
+
+1047
+00:39:20,730 --> 00:39:22,970
+y alumbras del negro cipresal austero
+
+1048
+00:39:22,970 --> 00:39:25,530
+las quietas plegarias erguidas en coro;
+
+1049
+00:39:25,530 --> 00:39:27,870
+y fresco naranjo del patio querido,
+
+1050
+00:39:27,870 --> 00:39:30,040
+del campo risueño y el huerto soñado,
+
+1051
+00:39:30,040 --> 00:39:32,710
+siempre en mi recuerdo maduro o florido,
+
+1052
+00:39:32,710 --> 00:39:36,180
+de fronda y aromas y frutos cargado!
+
+1053
+00:39:37,320 --> 00:39:38,550
+HASTÍO
+
+1054
+00:39:38,550 --> 00:39:40,920
+Sonaba el reloj la una
+
+1055
+00:39:40,920 --> 00:39:42,510
+dentro de mi cuarto.
+
+1056
+00:39:42,510 --> 00:39:43,090
+Era
+
+1057
+00:39:43,090 --> 00:39:44,440
+triste la noche.
+
+1058
+00:39:44,440 --> 00:39:45,260
+La Luna,
+
+1059
+00:39:45,260 --> 00:39:46,500
+reluciente calavera,
+
+1060
+00:39:46,500 --> 00:39:48,680
+ya del cenit declinando,
+
+1061
+00:39:48,680 --> 00:39:50,210
+iba del ciprés del huerto
+
+1062
+00:39:50,210 --> 00:39:52,030
+fríamente iluminando
+
+1063
+00:39:52,030 --> 00:39:53,860
+el alto ramaje yerto.
+
+1064
+00:39:53,860 --> 00:39:55,580
+Por la entreabierta ventana,
+
+1065
+00:39:55,580 --> 00:39:57,100
+llegaban a mis oídos
+
+1066
+00:39:57,100 --> 00:39:58,530
+metálicos alaridos
+
+1067
+00:39:58,530 --> 00:40:00,420
+de una música lejana.
+
+1068
+00:40:00,420 --> 00:40:01,830
+Una música tristona,
+
+1069
+00:40:01,830 --> 00:40:03,460
+una mazurca olvidada,
+
+1070
+00:40:03,460 --> 00:40:05,250
+entre inocente y burlona,
+
+1071
+00:40:05,250 --> 00:40:07,240
+mal tañida y mal soplada.
+
+1072
+00:40:07,240 --> 00:40:09,150
+Y yo sentí el estupor
+
+1073
+00:40:09,150 --> 00:40:10,880
+del alma, cuando bosteza
+
+1074
+00:40:10,880 --> 00:40:13,400
+el corazón, la cabeza,
+
+1075
+00:40:13,400 --> 00:40:16,120
+y... morirse es lo mejor.
+
+1076
+00:40:17,540 --> 00:40:19,250
+NEVERMORE
+
+1077
+00:40:19,250 --> 00:40:21,270
+La primavera besaba
+
+1078
+00:40:21,270 --> 00:40:22,590
+suavemente la arboleda,
+
+1079
+00:40:22,590 --> 00:40:24,230
+y el verde nuevo brotaba
+
+1080
+00:40:24,230 --> 00:40:25,990
+como una verde humareda.
+
+1081
+00:40:25,990 --> 00:40:27,230
+Las nubes iban pasando
+
+1082
+00:40:27,230 --> 00:40:28,810
+sobre el campo juvenil...
+
+1083
+00:40:28,810 --> 00:40:30,330
+Yo vi en las hojas temblando
+
+1084
+00:40:30,330 --> 00:40:32,150
+las frescas lluvias de Abril.
+
+1085
+00:40:32,150 --> 00:40:33,630
+Bajo ese almendro florido,
+
+1086
+00:40:33,630 --> 00:40:35,020
+todo cargado de flor
+
+1087
+00:40:35,020 --> 00:40:37,260
+—recordé,—yo he maldecido
+
+1088
+00:40:37,260 --> 00:40:38,630
+mi juventud sin amor.
+
+1089
+00:40:38,630 --> 00:40:40,740
+Hoy, en mitad de la vida,
+
+1090
+00:40:40,740 --> 00:40:42,230
+me he parado a meditar...
+
+1091
+00:40:42,230 --> 00:40:43,850
+¡Juventud nunca vivida,
+
+1092
+00:40:43,850 --> 00:40:45,130
+quién te volviera a soñar!
+
+1093
+00:40:45,130 --> 00:40:45,740
+Dos
+
+1094
+00:40:45,740 --> 00:40:48,010
+Húmedo está, bajo el laurel, el banco
+
+1095
+00:40:48,010 --> 00:40:49,520
+de verdinosa piedra;
+
+1096
+00:40:49,520 --> 00:40:51,670
+lavó la lluvia, sobre el muro blanco,
+
+1097
+00:40:51,670 --> 00:40:53,660
+las empolvadas hojas de la hiedra.
+
+1098
+00:40:53,660 --> 00:40:56,110
+Del viento del otoño el tibio aliento
+
+1099
+00:40:56,110 --> 00:40:58,390
+los céspedes undula, y la alameda
+
+1100
+00:40:58,390 --> 00:40:59,710
+conversa con el viento...
+
+1101
+00:40:59,710 --> 00:41:02,250
+¡El viento de la tarde en la arboleda!
+
+1102
+00:41:02,250 --> 00:41:05,120
+Mientras el Sol, en el ocaso, esplende,
+
+1103
+00:41:05,120 --> 00:41:06,960
+que los racimos de la vid orea,
+
+1104
+00:41:06,960 --> 00:41:09,710
+y el buen burgués, en su balcón, enciende
+
+1105
+00:41:09,710 --> 00:41:11,980
+la estoica pipa en que el tabaco humea,
+
+1106
+00:41:11,980 --> 00:41:14,940
+voy recordando versos juveniles...
+
+1107
+00:41:14,940 --> 00:41:17,330
+¿Qué fue de aquel mi corazón sonoro?
+
+1108
+00:41:17,330 --> 00:41:20,100
+¿Será cierto que os vais, sombras gentiles,
+
+1109
+00:41:20,100 --> 00:41:22,860
+huyendo entre los árboles de oro?
+
+1110
+00:41:24,020 --> 00:41:26,990
+DE LA VIDA
+(COPLAS MUNDANAS)
+
+1111
+00:41:26,990 --> 00:41:29,600
+Poeta ayer, hoy triste y pobre
+
+1112
+00:41:29,600 --> 00:41:31,080
+filósofo trasnochado,
+
+1113
+00:41:31,080 --> 00:41:32,890
+tengo en monedas de cobre
+
+1114
+00:41:32,890 --> 00:41:34,310
+el oro de ayer cambiado.
+
+1115
+00:41:34,310 --> 00:41:36,190
+Sin placer y sin fortuna,
+
+1116
+00:41:36,190 --> 00:41:37,790
+pasó como una quimera
+
+1117
+00:41:37,790 --> 00:41:39,590
+mi juventud, la primera...,
+
+1118
+00:41:39,590 --> 00:41:41,400
+la sola, no hay más que una:
+
+1119
+00:41:41,400 --> 00:41:43,030
+la de dentro es la de fuera.
+
+1120
+00:41:43,030 --> 00:41:44,930
+Pasó como un torbellino,
+
+1121
+00:41:44,930 --> 00:41:46,480
+bohemia y aborrascada,
+
+1122
+00:41:46,480 --> 00:41:48,170
+harta de coplas y vino,
+
+1123
+00:41:48,170 --> 00:41:49,510
+mi juventud bienamada.
+
+1124
+00:41:49,510 --> 00:41:51,340
+Y hoy miro a las galerías
+
+1125
+00:41:51,340 --> 00:41:53,000
+del recuerdo, para hacer
+
+1126
+00:41:53,000 --> 00:41:54,370
+aleluyas de elegías
+
+1127
+00:41:54,370 --> 00:41:56,010
+desconsoladas de ayer.
+
+1128
+00:41:56,010 --> 00:41:58,240
+¡Adiós, lágrimas cantoras,
+
+1129
+00:41:58,240 --> 00:41:59,650
+lágrimas que alegremente
+
+1130
+00:41:59,650 --> 00:42:01,750
+brotabais, como en la fuente
+
+1131
+00:42:01,750 --> 00:42:03,590
+las limpias aguas sonoras!
+
+1132
+00:42:03,590 --> 00:42:05,140
+¡Buenas lágrimas vertidas
+
+1133
+00:42:05,140 --> 00:42:06,330
+por un amor juvenil,
+
+1134
+00:42:06,330 --> 00:42:08,150
+cual frescas lluvias caídas
+
+1135
+00:42:08,150 --> 00:42:09,920
+sobre los campos de Abril!
+
+1136
+00:42:09,920 --> 00:42:11,510
+“No canta ya el ruiseñor
+
+1137
+00:42:11,510 --> 00:42:12,830
+de cierta noche serena;
+
+1138
+00:42:12,830 --> 00:42:14,570
+sanamos del mal de amor,
+
+1139
+00:42:14,570 --> 00:42:16,260
+que sabe llorar sin pena.”
+
+1140
+00:42:16,260 --> 00:42:18,590
+Poeta ayer, hoy triste y pobre
+
+1141
+00:42:18,590 --> 00:42:20,150
+filósofo trasnochado,
+
+1142
+00:42:20,150 --> 00:42:21,680
+tengo en monedas de cobre
+
+1143
+00:42:21,680 --> 00:42:24,370
+el oro de ayer cambiado.
+
+1144
+00:42:24,370 --> 00:42:27,090
+SOL DE INVIERNO
+
+1145
+00:42:27,090 --> 00:42:28,770
+Es mediodía.
+
+1146
+00:42:28,770 --> 00:42:29,900
+Un parque.
+
+1147
+00:42:29,900 --> 00:42:30,760
+Invierno.
+
+1148
+00:42:30,760 --> 00:42:32,620
+Blancas sendas.
+
+1149
+00:42:32,620 --> 00:42:34,330
+Simétricos montículos
+
+1150
+00:42:34,330 --> 00:42:36,140
+y ramas esqueléticas.
+
+1151
+00:42:36,140 --> 00:42:37,420
+Bajo el invernadero,
+
+1152
+00:42:37,420 --> 00:42:38,850
+naranjos en maceta,
+
+1153
+00:42:38,850 --> 00:42:40,390
+y en su tonel, pintado
+
+1154
+00:42:40,390 --> 00:42:42,350
+de verde, la palmera.
+
+1155
+00:42:42,350 --> 00:42:43,990
+Un viejecillo dice
+
+1156
+00:42:43,990 --> 00:42:45,620
+para su capa vieja:
+
+1157
+00:42:45,620 --> 00:42:47,370
+“¡El sol, esta hermosura
+
+1158
+00:42:47,370 --> 00:42:48,370
+de sol!...”
+
+1159
+00:42:48,370 --> 00:42:49,780
+Los niños juegan.
+
+1160
+00:42:49,780 --> 00:42:50,870
+El agua de la fuente
+
+1161
+00:42:50,870 --> 00:42:52,580
+resbala, corre y sueña,
+
+1162
+00:42:52,580 --> 00:42:54,050
+lamiendo, casi muda,
+
+1163
+00:42:54,050 --> 00:42:56,420
+la verdinosa piedra.
+
+1164
+00:42:56,420 --> 00:42:59,830
+A UN VIEJO Y DISTINGUIDO SEÑOR
+
+1165
+00:42:59,830 --> 00:43:02,790
+Te he visto, por el parque ceniciento
+
+1166
+00:43:02,790 --> 00:43:04,400
+que los poetas aman
+
+1167
+00:43:04,400 --> 00:43:06,660
+para llorar, como una noble sombra
+
+1168
+00:43:06,660 --> 00:43:08,530
+vagar envuelto en tu levita larga.
+
+1169
+00:43:08,530 --> 00:43:11,300
+El talante cortés, ha tantos años
+
+1170
+00:43:11,300 --> 00:43:13,290
+compuesto de una fiesta en la antesala,
+
+1171
+00:43:13,290 --> 00:43:15,180
+¡qué bien tus pobres huesos
+
+1172
+00:43:15,180 --> 00:43:16,770
+ceremoniosos guardan!
+
+1173
+00:43:16,770 --> 00:43:19,040
+Yo te he visto aspirando distraído,
+
+1174
+00:43:19,040 --> 00:43:21,520
+con el aliento que la tierra exhala
+
+1175
+00:43:21,520 --> 00:43:24,280
+—hoy, tibia tarde en que las mustias hojas
+
+1176
+00:43:24,280 --> 00:43:25,880
+húmedo viento arranca,—
+
+1177
+00:43:25,880 --> 00:43:27,410
+del eucalipto verde
+
+1178
+00:43:27,410 --> 00:43:29,950
+el frescor de las hojas perfumadas.
+
+1179
+00:43:29,950 --> 00:43:31,980
+Y te he visto llevar la seca mano
+
+1180
+00:43:31,980 --> 00:43:34,830
+a la perla que brilla en tu corbata.
+
+1181
+00:43:34,830 --> 00:43:38,140
+Fin
+del
+Capítulo seis
+
+1182
+00:43:43,500 --> 00:43:47,520
+﻿Capítulo siete
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+1183
+00:43:47,520 --> 00:43:51,110
+Esta grabación de LibriVox está en el dominio público.
+
+1184
+00:43:51,110 --> 00:43:54,710
+CAMPOS DE CASTILLA
+1912
+
+1185
+00:43:54,710 --> 00:43:55,930
+PRÓLOGO
+
+1186
+00:43:55,930 --> 00:44:01,620
+En un tercer volumen, publiqué mi segundo libro, Campos de Castilla (1912).
+
+1187
+00:44:01,620 --> 00:44:12,360
+Cinco años en la tierra de Soria, hoy para mí sagrada—allí me casé; allí perdí a mi esposa, a quien adoraba,—orientaron mis ojos y mi corazón hacia lo esencial castellano.
+
+1188
+00:44:12,360 --> 00:44:15,000
+Ya era, además, muy otra mi ideología.
+
+1189
+00:44:15,000 --> 00:44:18,000
+Somos víctimas—pensaba yo—de un doble espejismo.
+
+1190
+00:44:18,000 --> 00:44:28,980
+Si miramos afuera y procuramos penetrar en las cosas, nuestro mundo externo pierde en solidez, y acaba por disipársenos cuando llegamos a creer que no existe por sí, sino por nosotros.
+
+1191
+00:44:28,980 --> 00:44:39,370
+Pero si, convencidos de la íntima realidad, miramos adentro, entonces todo nos parece venir de fuera, y es nuestro mundo interior, nosotros mismos, lo que se desvanece.
+
+1192
+00:44:39,370 --> 00:44:40,680
+¿Qué hacer, entonces?
+
+1193
+00:44:40,680 --> 00:44:47,400
+Tejer el hilo que nos dan, soñar nuestro sueño, vivir; sólo así podremos obrar el milagro de la generación.
+
+1194
+00:44:47,400 --> 00:44:55,710
+Un hombre atento a sí mismo y procurando auscultarse, ahoga la única voz que podría escuchar: la suya; pero le aturden los ruidos extraños.
+
+1195
+00:44:55,710 --> 00:44:58,020
+¿Seremos, pues, meros espectadores del mundo?
+
+1196
+00:44:58,020 --> 00:45:02,660
+Pero nuestros ojos están cargados de razón, y la razón analiza y disuelve.
+
+1197
+00:45:02,660 --> 00:45:07,670
+Pronto veremos el teatro en ruinas, y, al cabo, nuestra sola sombra proyectada en la escena.
+
+1198
+00:45:07,670 --> 00:45:16,530
+Y pensé que la misión del poeta era inventar nuevos poemas de lo eterno humano, historias animadas que, siendo suyas, viviesen, no obstante, por sí mismas.
+
+1199
+00:45:16,530 --> 00:45:21,550
+Me pareció el romance la suprema expresión de la poesía, y quise escribir un nuevo Romancero.
+
+1200
+00:45:21,550 --> 00:45:25,460
+A este propósito responde La tierra de Alvargonzález.
+
+1201
+00:45:25,460 --> 00:45:29,660
+Muy lejos estaba yo de pretender resucitar el género en su sentido tradicional.
+
+1202
+00:45:29,660 --> 00:45:37,870
+La confección de nuevos romances viejos—caballerescos o moriscos—no fue nunca de mi agrado, y toda simulación de arcaísmo me parece ridícula.
+
+1203
+00:45:37,870 --> 00:45:52,260
+Cierto que yo aprendí a leer en el Romancero general que compiló mi buen tío D. Agustín Durán; pero mis romances no emanan de las heroicas gestas, sino del pueblo que las compuso y de la tierra donde se cantaron; mis romances miran a lo elemental humano,
+
+1204
+00:45:52,260 --> 00:45:56,580
+al campo de Castilla y al Libro Primero de Moisés, llamado Génesis.
+
+1205
+00:45:56,580 --> 00:46:00,850
+Muchas composiciones encontraréis ajenas a estos propósitos que os declaro.
+
+1206
+00:46:00,850 --> 00:46:09,060
+A una preocupación patriótica responden muchas de ellas; otras, al simple amor de la Naturaleza, que en mí supera infinitamente al del Arte.
+
+1207
+00:46:09,060 --> 00:46:19,550
+Por último, algunas rimas revelan las muchas horas de mi vida gastadas—alguien dirá: perdidas—en meditar sobre los enigmas del hombre y del mundo.
+
+1208
+00:46:19,550 --> 00:46:21,140
+A ORILLAS DEL DUERO
+
+1209
+00:46:21,140 --> 00:46:23,040
+Mediaba el mes de Julio.
+
+1210
+00:46:23,040 --> 00:46:24,670
+Era un hermoso día.
+
+1211
+00:46:24,670 --> 00:46:27,330
+Yo, solo, por las quiebras del pedregal subía,
+
+1212
+00:46:27,330 --> 00:46:30,450
+buscando los recodos de sombra, lentamente.
+
+1213
+00:46:30,450 --> 00:46:32,680
+A trechos me paraba para enjugar mi frente
+
+1214
+00:46:32,680 --> 00:46:34,910
+y dar algún respiro al pecho jadeante;
+
+1215
+00:46:34,910 --> 00:46:38,400
+o bien, ahincando el paso, el cuerpo hacia adelante,
+
+1216
+00:46:38,400 --> 00:46:41,370
+y hacia la mano diestra vencido y apoyado
+
+1217
+00:46:41,370 --> 00:46:44,400
+en un bastón, a guisa de pastoril cayado,
+
+1218
+00:46:44,400 --> 00:46:46,910
+trepaba por los cerros que habitan las rapaces
+
+1219
+00:46:46,910 --> 00:46:49,700
+aves de altura, hollando las hierbas montaraces
+
+1220
+00:46:49,700 --> 00:46:54,030
+de fuerte olor—romero, tomillo, salvia, espliego.—
+
+1221
+00:46:54,030 --> 00:46:57,280
+Sobre los agrios campos caía un sol de fuego.
+
+1222
+00:46:57,280 --> 00:47:00,080
+Un buitre de anchas alas, con majestuoso vuelo,
+
+1223
+00:47:00,080 --> 00:47:02,550
+cruzaba solitario el puro azul del cielo.
+
+1224
+00:47:02,550 --> 00:47:05,900
+Yo divisaba, lejos, un monte alto y agudo,
+
+1225
+00:47:05,900 --> 00:47:08,270
+y una redonda loma cual recamado escudo,
+
+1226
+00:47:08,270 --> 00:47:11,000
+y cárdenos alcores sobre la parda tierra
+
+1227
+00:47:11,000 --> 00:47:13,600
+—harapos esparcidos de un viejo arnés de guerra;—
+
+1228
+00:47:13,600 --> 00:47:16,480
+las serrezuelas calvas por donde tuerce el Duero
+
+1229
+00:47:16,480 --> 00:47:19,060
+para formar la corva ballesta de un arquero
+
+1230
+00:47:19,060 --> 00:47:22,190
+en torno a Soria.—Soria es una barbacana
+
+1231
+00:47:22,190 --> 00:47:24,680
+hacia Aragón que tiene la torre castellana.—
+
+1232
+00:47:24,680 --> 00:47:27,440
+Veía el horizonte cerrado por colinas
+
+1233
+00:47:27,440 --> 00:47:30,640
+obscuras, coronadas de robles y de encinas;
+
+1234
+00:47:30,640 --> 00:47:33,380
+desnudos peñascales; algún humilde prado
+
+1235
+00:47:33,380 --> 00:47:35,870
+donde el merino pace y el toro arrodillado
+
+1236
+00:47:35,870 --> 00:47:39,060
+sobre la hierba rumia; las márgenes del río
+
+1237
+00:47:39,060 --> 00:47:41,750
+lucir sus verdes álamos al claro sol de estío;
+
+1238
+00:47:41,750 --> 00:47:44,650
+y, silenciosamente, lejanos pasajeros,
+
+1239
+00:47:44,650 --> 00:47:47,870
+¡tan diminutos!—carros, jinetes y arrieros,—
+
+1240
+00:47:47,870 --> 00:47:50,720
+cruzar el largo puente, y bajo las arcadas
+
+1241
+00:47:50,720 --> 00:47:53,250
+de piedra ensombrecerse las aguas plateadas
+
+1242
+00:47:53,250 --> 00:47:54,070
+del Duero.
+
+1243
+00:47:54,070 --> 00:47:56,210
+El Duero cruza el corazón de roble
+
+1244
+00:47:56,210 --> 00:47:57,910
+de Iberia y de Castilla.
+
+1245
+00:47:57,910 --> 00:47:59,300
+¡Oh tierra triste y noble,
+
+1246
+00:47:59,300 --> 00:48:02,110
+la de los altos llanos y yermos y roquedas,
+
+1247
+00:48:02,110 --> 00:48:05,030
+de campos sin arados, regatos ni arboledas;
+
+1248
+00:48:05,030 --> 00:48:08,010
+decrépitas ciudades, caminos sin mesones,
+
+1249
+00:48:08,010 --> 00:48:10,750
+y atónitos palurdos sin danzas ni canciones,
+
+1250
+00:48:10,750 --> 00:48:13,450
+que aún van, abandonando el mortecino hogar,
+
+1251
+00:48:13,450 --> 00:48:16,340
+como tus largos ríos, Castilla, hacia la mar!
+
+1252
+00:48:16,340 --> 00:48:19,490
+Castilla miserable, ayer dominadora,
+
+1253
+00:48:19,490 --> 00:48:22,540
+envuelta en sus andrajos, desprecia cuanto ignora.
+
+1254
+00:48:22,540 --> 00:48:24,330
+¿Espera, duerme o sueña?
+
+1255
+00:48:24,330 --> 00:48:25,510
+¿La sangre derramada
+
+1256
+00:48:25,510 --> 00:48:28,450
+recuerda, cuando tuvo la fiebre de la espada?
+
+1257
+00:48:28,450 --> 00:48:31,950
+Todo se mueve, fluye, discurre, corre o gira;
+
+1258
+00:48:31,950 --> 00:48:34,920
+cambian la mar y el monte y el ojo que los mira.
+
+1259
+00:48:34,920 --> 00:48:35,870
+¿Pasó?
+
+1260
+00:48:35,870 --> 00:48:38,330
+Sobre sus campos aún el fantasma yerra
+
+1261
+00:48:38,330 --> 00:48:41,490
+de un pueblo que ponía a Dios sobre la guerra.
+
+1262
+00:48:41,490 --> 00:48:44,120
+La madre en otro tiempo fecunda en capitanes,
+
+1263
+00:48:44,120 --> 00:48:46,760
+madrastra es hoy apenas de humildes ganapanes.
+
+1264
+00:48:46,760 --> 00:48:49,130
+Castilla no es aquella tan generosa un día,
+
+1265
+00:48:49,130 --> 00:48:51,890
+cuando Myo Cid Rodrigo el de Vivar volvía,
+
+1266
+00:48:51,890 --> 00:48:54,580
+ufano de su nueva fortuna y su opulencia,
+
+1267
+00:48:54,580 --> 00:48:57,160
+a regalar a Alfonso los huertos de Valencia;
+
+1268
+00:48:57,160 --> 00:49:00,240
+o que, tras la aventura que acreditó sus bríos,
+
+1269
+00:49:00,240 --> 00:49:02,710
+pedía la conquista de los inmensos ríos
+
+1270
+00:49:02,710 --> 00:49:05,640
+indianos a la corte; la madre de soldados,
+
+1271
+00:49:05,640 --> 00:49:08,200
+guerreros y adalides que han de tornar cargados
+
+1272
+00:49:08,200 --> 00:49:11,180
+de plata y oro a España en regios galeones,
+
+1273
+00:49:11,180 --> 00:49:13,750
+para la presa cuervos, para la lid leones.
+
+1274
+00:49:13,750 --> 00:49:16,580
+Filósofos nutridos de sopa de convento
+
+1275
+00:49:16,580 --> 00:49:19,020
+contemplan impasibles el amplio firmamento;
+
+1276
+00:49:19,020 --> 00:49:21,780
+y si les llega en sueños, como un rumor distante,
+
+1277
+00:49:21,780 --> 00:49:24,870
+clamor de mercaderes de muelles de Levante,
+
+1278
+00:49:24,870 --> 00:49:27,580
+no acudirán siquiera a preguntar: “¿Qué pasa?”
+
+1279
+00:49:27,580 --> 00:49:30,380
+Y ya la guerra ha abierto las puertas de su casa.
+
+1280
+00:49:30,380 --> 00:49:33,230
+Castilla miserable, ayer dominadora,
+
+1281
+00:49:33,230 --> 00:49:36,330
+envuelta en sus harapos, desprecia cuanto ignora.
+
+1282
+00:49:36,330 --> 00:49:37,620
+El Sol va declinando.
+
+1283
+00:49:37,620 --> 00:49:38,870
+De la ciudad lejana
+
+1284
+00:49:38,870 --> 00:49:41,370
+me llega un armonioso tañido de campana.
+
+1285
+00:49:41,370 --> 00:49:44,180
+—Ya irán a su rosario las enlutadas viejas.—
+
+1286
+00:49:44,180 --> 00:49:47,030
+De entre las peñas salen dos lindas comadrejas;
+
+1287
+00:49:47,030 --> 00:49:49,670
+me miran, y se alejan huyendo, y aparecen
+
+1288
+00:49:49,670 --> 00:49:51,250
+de nuevo ¡tan curiosas!...
+
+1289
+00:49:51,250 --> 00:49:52,670
+Los campos se obscurecen.
+
+1290
+00:49:52,670 --> 00:49:55,620
+Hacia el camino blanco, está el mesón abierto
+
+1291
+00:49:55,620 --> 00:49:59,290
+al campo ensombrecido y al pedregal desierto.
+
+1292
+00:49:59,290 --> 00:50:01,700
+POR TIERRAS DE ESPAÑA
+
+1293
+00:50:01,700 --> 00:50:04,700
+El hombre de estos campos, que incendia los pinares
+
+1294
+00:50:04,700 --> 00:50:07,350
+y su despojo aguarda como botín de guerra,
+
+1295
+00:50:07,350 --> 00:50:10,100
+antaño hubo raído los negros encinares,
+
+1296
+00:50:10,100 --> 00:50:13,030
+talado los robustos robledos de la sierra.
+
+1297
+00:50:13,030 --> 00:50:16,020
+Hoy ve sus pobres hijos huyendo de sus lares;
+
+1298
+00:50:16,020 --> 00:50:18,720
+la tempestad llevarse los limos de la tierra
+
+1299
+00:50:18,720 --> 00:50:21,450
+por los sagrados ríos hacia los anchos mares;
+
+1300
+00:50:21,450 --> 00:50:24,150
+y en páramos malditos trabaja, sufre y yerra.
+
+1301
+00:50:24,150 --> 00:50:26,800
+Es hijo de una estirpe de rudos caminantes,
+
+1302
+00:50:26,800 --> 00:50:29,300
+pastores que conducen sus hordas de merinos
+
+1303
+00:50:29,300 --> 00:50:31,970
+a Extremadura fértil, rebaños trashumantes
+
+1304
+00:50:31,970 --> 00:50:34,720
+que mancha el polvo y dora el sol de los caminos.
+
+1305
+00:50:34,720 --> 00:50:38,520
+Pequeño, ágil, sufrido; los ojos de hombre astuto,
+
+1306
+00:50:38,520 --> 00:50:41,530
+hundidos, recelosos, movibles; y trazadas
+
+1307
+00:50:41,530 --> 00:50:44,070
+cual arco de ballesta, en el semblante enjuto
+
+1308
+00:50:44,070 --> 00:50:47,200
+de pómulos salientes, las cejas muy pobladas.
+
+1309
+00:50:47,200 --> 00:50:49,650
+Abunda el hombre malo del campo y de la aldea,
+
+1310
+00:50:49,650 --> 00:50:52,450
+capaz de insanos vicios y crímenes bestiales,
+
+1311
+00:50:52,450 --> 00:50:55,110
+que bajo el pardo sayo esconde un alma fea,
+
+1312
+00:50:55,110 --> 00:50:57,950
+esclava de los siete pecados capitales.
+
+1313
+00:50:57,950 --> 00:51:00,700
+Los ojos siempre turbios de envidia o de tristeza,
+
+1314
+00:51:00,700 --> 00:51:03,220
+guarda su presa y llora la que el vecino alcanza;
+
+1315
+00:51:03,220 --> 00:51:06,090
+ni para su infortunio, ni goza su riqueza;
+
+1316
+00:51:06,090 --> 00:51:08,960
+le hieren y acongojan fortuna y malandanza.
+
+1317
+00:51:08,960 --> 00:51:12,150
+El numen de estos campos es sanguinario y fiero;
+
+1318
+00:51:12,150 --> 00:51:14,400
+al declinar la tarde, sobre el remoto alcor,
+
+1319
+00:51:14,400 --> 00:51:17,120
+veréis agigantarse la forma de un arquero,
+
+1320
+00:51:17,120 --> 00:51:20,040
+la forma de un inmenso centauro flechador.
+
+1321
+00:51:20,040 --> 00:51:22,930
+Veréis llanuras bélicas y páramos de asceta
+
+1322
+00:51:22,930 --> 00:51:25,490
+—no fue por estos campos el bíblico jardín:—
+
+1323
+00:51:25,490 --> 00:51:28,300
+son tierras para el águila, un trozo de planeta
+
+1324
+00:51:28,300 --> 00:51:31,550
+por donde cruza errante la sombra de Caín.
+
+1325
+00:51:31,550 --> 00:51:34,660
+Fin
+del
+Capítulo siete
+
+1326
+00:51:40,220 --> 00:51:44,350
+﻿Capítulo ocho
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+1327
+00:51:44,350 --> 00:51:47,930
+Esta grabación de LibriVox está en el dominio público.
+
+1328
+00:51:47,930 --> 00:51:50,090
+EL HOSPICIO
+
+1329
+00:51:50,090 --> 00:51:53,140
+Es el hospicio, el viejo hospicio provinciano,
+
+1330
+00:51:53,140 --> 00:51:56,120
+el caserón ruinoso de ennegrecidas tejas
+
+1331
+00:51:56,120 --> 00:51:58,340
+en donde los vencejos anidan en verano,
+
+1332
+00:51:58,340 --> 00:52:01,140
+y graznan en las noches de invierno las cornejas.
+
+1333
+00:52:01,140 --> 00:52:04,180
+Con su frontón al Norte, entre los dos torreones
+
+1334
+00:52:04,180 --> 00:52:07,450
+de antigua fortaleza, el sórdido edificio
+
+1335
+00:52:07,450 --> 00:52:10,380
+de grieteados muros y sucios paredones
+
+1336
+00:52:10,380 --> 00:52:12,100
+es un rincón de sombra eterna.
+
+1337
+00:52:12,100 --> 00:52:13,290
+¡El viejo hospicio!
+
+1338
+00:52:13,290 --> 00:52:16,200
+Mientras el Sol de Enero su débil luz envía,
+
+1339
+00:52:16,200 --> 00:52:19,260
+su triste luz velada, sobre los campos yermos,
+
+1340
+00:52:19,260 --> 00:52:21,760
+a un ventanuco asoman, al declinar el día,
+
+1341
+00:52:21,760 --> 00:52:24,390
+algunos rostros pálidos, atónitos y enfermos,
+
+1342
+00:52:24,390 --> 00:52:27,050
+a contemplar los montes azules de la sierra;
+
+1343
+00:52:27,050 --> 00:52:30,300
+o, de los cielos blancos, como sobre una fosa,
+
+1344
+00:52:30,300 --> 00:52:33,320
+caer la blanca nieve sobre la fría tierra,
+
+1345
+00:52:33,320 --> 00:52:37,200
+sobre la tierra fría la nieve silenciosa...
+
+1346
+00:52:37,200 --> 00:52:39,900
+AMANECER DE OTOÑO
+
+1347
+00:52:39,900 --> 00:52:41,740
+Una larga carretera
+
+1348
+00:52:41,740 --> 00:52:43,600
+entre grises peñascales,
+
+1349
+00:52:43,600 --> 00:52:45,440
+y alguna humilde pradera
+
+1350
+00:52:45,440 --> 00:52:47,360
+donde pacen negros toros.
+
+1351
+00:52:47,360 --> 00:52:50,150
+Zarzas, malezas, jarales.
+
+1352
+00:52:50,150 --> 00:52:51,380
+Está la tierra mojada
+
+1353
+00:52:51,380 --> 00:52:52,880
+por las gotas del rocío,
+
+1354
+00:52:52,880 --> 00:52:54,170
+y la alameda dorada,
+
+1355
+00:52:54,170 --> 00:52:55,440
+hacia la curva del río.
+
+1356
+00:52:55,440 --> 00:52:57,050
+Tras los montes de violeta
+
+1357
+00:52:57,050 --> 00:52:58,280
+quebrado el primer albor.
+
+1358
+00:52:58,280 --> 00:53:00,110
+A la espalda la escopeta,
+
+1359
+00:53:00,110 --> 00:53:03,820
+entre sus galgos agudos, caminando un cazador.
+
+1360
+00:53:03,820 --> 00:53:06,610
+NOCHE DE VERANO
+
+1361
+00:53:06,610 --> 00:53:09,330
+Es una hermosa noche de verano.
+
+1362
+00:53:09,330 --> 00:53:10,930
+Tienen las altas casas
+
+1363
+00:53:10,930 --> 00:53:12,170
+abiertos los balcones
+
+1364
+00:53:12,170 --> 00:53:14,240
+del viejo pueblo a la anchurosa plaza.
+
+1365
+00:53:14,240 --> 00:53:16,470
+En el amplio rectángulo desierto,
+
+1366
+00:53:16,470 --> 00:53:19,390
+bancos de piedra, evónimos y acacias,
+
+1367
+00:53:19,390 --> 00:53:20,570
+simétricos dibujan
+
+1368
+00:53:20,570 --> 00:53:22,950
+sus negras sombras en la arena blanca.
+
+1369
+00:53:22,950 --> 00:53:25,250
+En el cenit, la Luna; y en la torre,
+
+1370
+00:53:25,250 --> 00:53:27,000
+la esfera del reloj iluminada.
+
+1371
+00:53:27,000 --> 00:53:29,330
+Yo en este viejo pueblo paseando
+
+1372
+00:53:29,330 --> 00:53:31,750
+solo como un fantasma.
+
+1373
+00:53:31,750 --> 00:53:34,880
+PASCUA DE RESURRECCIÓN
+
+1374
+00:53:34,880 --> 00:53:37,690
+Mirad: el arco de la vida traza
+
+1375
+00:53:37,690 --> 00:53:39,670
+el iris, sobre el campo que verdea.
+
+1376
+00:53:39,670 --> 00:53:42,060
+Buscad vuestros amores, doncellitas,
+
+1377
+00:53:42,060 --> 00:53:43,950
+donde brota la fuente de la piedra.
+
+1378
+00:53:43,950 --> 00:53:46,150
+En donde el agua ríe y sueña y pasa,
+
+1379
+00:53:46,150 --> 00:53:47,700
+allí el romance del amor se cuenta.
+
+1380
+00:53:47,700 --> 00:53:50,480
+¿No han de mirar un día, en vuestros brazos,
+
+1381
+00:53:50,480 --> 00:53:52,390
+atónitos, el Sol de primavera,
+
+1382
+00:53:52,390 --> 00:53:54,490
+ojos que vienen a la luz cerrados,
+
+1383
+00:53:54,490 --> 00:53:56,520
+y que, al partirse de la vida, ciegan?
+
+1384
+00:53:56,520 --> 00:53:59,110
+¿No beberán un día en vuestros senos
+
+1385
+00:53:59,110 --> 00:54:01,750
+los que mañana labrarán la tierra?
+
+1386
+00:54:01,750 --> 00:54:04,530
+¡Oh; celebrad este domingo claro,
+
+1387
+00:54:04,530 --> 00:54:07,610
+madrecitas en flor, vuestras entrañas nuevas!
+
+1388
+00:54:07,610 --> 00:54:10,390
+Gozad esta sonrisa de vuestra ruda madre.
+
+1389
+00:54:10,390 --> 00:54:12,940
+Ya sus hermosos nidos habitan las cigüeñas,
+
+1390
+00:54:12,940 --> 00:54:15,700
+y escriben en las torres sus blancos garabatos.
+
+1391
+00:54:15,700 --> 00:54:19,260
+Como esmeraldas lucen los musgos de las peñas.
+
+1392
+00:54:19,260 --> 00:54:20,730
+Entre los robles muerden
+
+1393
+00:54:20,730 --> 00:54:22,890
+los negros toros la menuda hierba,
+
+1394
+00:54:22,890 --> 00:54:25,310
+y el pastor que apacienta los merinos
+
+1395
+00:54:25,310 --> 00:54:28,060
+su pardo sayo en la montaña deja.
+
+1396
+00:54:28,060 --> 00:54:29,730
+CAMPOS DE SORIA
+
+1397
+00:54:29,730 --> 00:54:33,150
+Es la tierra de Soria árida y fría.
+
+1398
+00:54:33,150 --> 00:54:35,420
+Por las colinas y las sierras calvas,
+
+1399
+00:54:35,420 --> 00:54:37,730
+verdes pradillos, cerros cenicientos,
+
+1400
+00:54:37,730 --> 00:54:38,980
+la primavera pasa,
+
+1401
+00:54:38,980 --> 00:54:41,200
+dejando entre las hierbas olorosas
+
+1402
+00:54:41,200 --> 00:54:43,260
+sus diminutas margaritas blancas.
+
+1403
+00:54:43,260 --> 00:54:45,730
+La tierra no revive; el campo sueña.
+
+1404
+00:54:45,730 --> 00:54:47,550
+Al empezar Abril está nevada
+
+1405
+00:54:47,550 --> 00:54:48,790
+la espalda del Moncayo;
+
+1406
+00:54:48,790 --> 00:54:51,020
+el caminante lleva en su bufanda
+
+1407
+00:54:51,020 --> 00:54:53,560
+envueltos cuello y boca, y los pastores
+
+1408
+00:54:53,560 --> 00:54:56,030
+pasan cubiertos con sus luengas capas.
+
+1409
+00:54:56,030 --> 00:54:57,560
+Las tierras labrantías,
+
+1410
+00:54:57,560 --> 00:54:59,750
+como retazos de estameñas pardas,
+
+1411
+00:54:59,750 --> 00:55:01,840
+el huertecillo, el abejar, los trozos
+
+1412
+00:55:01,840 --> 00:55:04,170
+de verde obscuro en que el merino pasta,
+
+1413
+00:55:04,170 --> 00:55:06,370
+entre plomizos peñascales, siembran
+
+1414
+00:55:06,370 --> 00:55:08,560
+el sueño alegre de infantil Arcadia.
+
+1415
+00:55:08,560 --> 00:55:10,290
+En los chopos lejanos del camino
+
+1416
+00:55:10,290 --> 00:55:12,330
+parecen humear las yertas ramas
+
+1417
+00:55:12,330 --> 00:55:15,000
+como un glauco vapor—las nuevas hojas,—
+
+1418
+00:55:15,000 --> 00:55:16,980
+y en las quiebras de valles y barrancas
+
+1419
+00:55:16,980 --> 00:55:19,130
+blanquean los zarzales florecidos
+
+1420
+00:55:19,130 --> 00:55:21,240
+y brotan las violas perfumadas.
+
+1421
+00:55:21,240 --> 00:55:23,800
+Es el campo undulado, y los caminos,
+
+1422
+00:55:23,800 --> 00:55:25,840
+ya ocultan los viajeros que cabalgan
+
+1423
+00:55:25,840 --> 00:55:27,520
+en pardos borriquillos,
+
+1424
+00:55:27,520 --> 00:55:29,420
+ya al fondo de la tarde arrebolada
+
+1425
+00:55:29,420 --> 00:55:31,450
+elevan las plebeyas figurillas
+
+1426
+00:55:31,450 --> 00:55:33,600
+que el lienzo de oro del ocaso manchan.
+
+1427
+00:55:33,600 --> 00:55:35,870
+Mas si trepáis a un cerro y veis el campo
+
+1428
+00:55:35,870 --> 00:55:38,090
+desde los picos donde habita el águila,
+
+1429
+00:55:38,090 --> 00:55:40,050
+son tornasoles de carmín y acero,
+
+1430
+00:55:40,050 --> 00:55:42,620
+llanos plomizos, lomas plateadas,
+
+1431
+00:55:42,620 --> 00:55:44,470
+circuidos por montes de violeta,
+
+1432
+00:55:44,470 --> 00:55:46,750
+con las cumbres de nieve sonrosada.
+
+1433
+00:55:46,750 --> 00:55:49,090
+¡Las figuras del campo sobre el cielo!
+
+1434
+00:55:49,090 --> 00:55:50,660
+Dos lentos bueyes aran
+
+1435
+00:55:50,660 --> 00:55:52,780
+en un alcor, cuando el otoño empieza,
+
+1436
+00:55:52,780 --> 00:55:55,110
+y entre las negras testas, doblegadas
+
+1437
+00:55:55,110 --> 00:55:56,310
+bajo el pesado yugo,
+
+1438
+00:55:56,310 --> 00:55:58,590
+pende un cesto de juncos y retama,
+
+1439
+00:55:58,590 --> 00:56:00,250
+que es la cuna de un niño;
+
+1440
+00:56:00,250 --> 00:56:01,860
+y tras la yunta marcha
+
+1441
+00:56:01,860 --> 00:56:03,660
+un hombre que se inclina hacia la tierra,
+
+1442
+00:56:03,660 --> 00:56:06,000
+y una mujer que en las abiertas zanjas
+
+1443
+00:56:06,000 --> 00:56:07,390
+arroja la semilla.
+
+1444
+00:56:07,390 --> 00:56:09,430
+Bajo una nube de carmín y llama,
+
+1445
+00:56:09,430 --> 00:56:11,160
+en el oro fluido y verdinoso
+
+1446
+00:56:11,160 --> 00:56:14,420
+del Poniente las formas se agigantan.
+
+1447
+00:56:14,420 --> 00:56:14,950
+La nieve.
+
+1448
+00:56:14,950 --> 00:56:16,650
+En el mesón al campo abierto
+
+1449
+00:56:16,650 --> 00:56:18,680
+se ve el hogar donde la leña humea,
+
+1450
+00:56:18,680 --> 00:56:20,990
+y la olla al hervir borbollonea.
+
+1451
+00:56:20,990 --> 00:56:23,620
+El cierzo corre por el campo yerto,
+
+1452
+00:56:23,620 --> 00:56:25,810
+alborotando en blancos torbellinos
+
+1453
+00:56:25,810 --> 00:56:27,280
+la nieve silenciosa.
+
+1454
+00:56:27,280 --> 00:56:29,340
+La nieve sobre el campo y los caminos
+
+1455
+00:56:29,340 --> 00:56:31,320
+cayendo está como sobre una fosa.
+
+1456
+00:56:31,320 --> 00:56:33,570
+Un viejo acurrucado tiembla y tose
+
+1457
+00:56:33,570 --> 00:56:35,830
+cerca del fuego; su mechón de lana
+
+1458
+00:56:35,830 --> 00:56:37,900
+la vieja hila, y una niña cose
+
+1459
+00:56:37,900 --> 00:56:40,190
+verde ribete a su estameña grana.
+
+1460
+00:56:40,190 --> 00:56:42,090
+Padres los viejos son de un arriero
+
+1461
+00:56:42,090 --> 00:56:44,100
+que caminó sobre la blanca tierra,
+
+1462
+00:56:44,100 --> 00:56:46,190
+y una noche perdió ruta y sendero,
+
+1463
+00:56:46,190 --> 00:56:48,580
+y se enterró en las nieves de la sierra.
+
+1464
+00:56:48,580 --> 00:56:50,730
+En torno al fuego hay un lugar vacío,
+
+1465
+00:56:50,730 --> 00:56:52,980
+y en la frente del viejo de hosco ceño,
+
+1466
+00:56:52,980 --> 00:56:55,140
+como un tachón sombrío
+
+1467
+00:56:55,140 --> 00:56:57,650
+—tal el golpe de un hacha sobre un leño.—
+
+1468
+00:56:57,650 --> 00:57:00,040
+La vieja mira al campo, cual si oyera
+
+1469
+00:57:00,040 --> 00:57:01,410
+pasos sobre la nieve.
+
+1470
+00:57:01,410 --> 00:57:02,440
+Nadie pasa.
+
+1471
+00:57:02,440 --> 00:57:04,430
+Desierta la vecina carretera,
+
+1472
+00:57:04,430 --> 00:57:06,400
+desierto el campo en torno de la casa.
+
+1473
+00:57:06,400 --> 00:57:08,620
+La niña piensa que en los verdes prados
+
+1474
+00:57:08,620 --> 00:57:10,800
+ha de correr con otras doncellitas
+
+1475
+00:57:10,800 --> 00:57:12,520
+en los días azules y dorados,
+
+1476
+00:57:12,520 --> 00:57:15,390
+cuando crecen las blancas margaritas.
+
+1477
+00:57:15,390 --> 00:57:17,640
+¡Soria fría, Soria pura,
+
+1478
+00:57:17,640 --> 00:57:18,940
+cabeza de Extremadura,
+
+1479
+00:57:18,940 --> 00:57:20,840
+con su castillo guerrero
+
+1480
+00:57:20,840 --> 00:57:22,320
+arruinado, sobre el Duero;
+
+1481
+00:57:22,320 --> 00:57:23,690
+con sus murallas roídas
+
+1482
+00:57:23,690 --> 00:57:25,360
+y sus casas denegridas!
+
+1483
+00:57:25,360 --> 00:57:26,680
+¡Muerta ciudad de señores
+
+1484
+00:57:26,680 --> 00:57:28,010
+soldados o cazadores;
+
+1485
+00:57:28,010 --> 00:57:29,640
+de portales con escudos
+
+1486
+00:57:29,640 --> 00:57:30,930
+de cien linajes hidalgos,
+
+1487
+00:57:30,930 --> 00:57:32,510
+y de famélicos galgos,
+
+1488
+00:57:32,510 --> 00:57:33,980
+de galgos flacos y agudos,
+
+1489
+00:57:33,980 --> 00:57:34,650
+que pululan
+
+1490
+00:57:34,650 --> 00:57:36,110
+por las sórdidas callejas,
+
+1491
+00:57:36,110 --> 00:57:37,690
+y a la media noche ululan,
+
+1492
+00:57:37,690 --> 00:57:39,580
+cuando graznan las cornejas!
+
+1493
+00:57:39,580 --> 00:57:40,470
+¡Soria fría!
+
+1494
+00:57:40,470 --> 00:57:41,390
+La campana
+
+1495
+00:57:41,390 --> 00:57:42,720
+de la Audiencia da la una.
+
+1496
+00:57:42,720 --> 00:57:44,910
+Soria, ciudad castellana,
+
+1497
+00:57:44,910 --> 00:57:45,590
+¡tan bella!
+
+1498
+00:57:45,590 --> 00:57:46,880
+bajo la Luna.
+
+1499
+00:57:46,880 --> 00:57:48,480
+¡Colinas plateadas,
+
+1500
+00:57:48,480 --> 00:57:50,670
+grises alcores, cárdenas roquedas
+
+1501
+00:57:50,670 --> 00:57:52,170
+por donde traza el Duero
+
+1502
+00:57:52,170 --> 00:57:53,350
+su curva de ballesta
+
+1503
+00:57:53,350 --> 00:57:55,940
+en torno a Soria; obscuros encinares,
+
+1504
+00:57:55,940 --> 00:57:59,050
+ariscos pedregales, calvas sierras,
+
+1505
+00:57:59,050 --> 00:58:01,390
+caminos blancos y álamos del río;
+
+1506
+00:58:01,390 --> 00:58:03,820
+tardes de Soria, mística y guerrera;
+
+1507
+00:58:03,820 --> 00:58:05,930
+hoy siento por vosotros, en el fondo
+
+1508
+00:58:05,930 --> 00:58:07,460
+del corazón, tristeza,
+
+1509
+00:58:07,460 --> 00:58:09,070
+tristeza que es amor!
+
+1510
+00:58:09,070 --> 00:58:10,450
+¡Campos de Soria,
+
+1511
+00:58:10,450 --> 00:58:12,220
+donde parece que las rocas sueñan;
+
+1512
+00:58:12,220 --> 00:58:13,520
+conmigo vais!...
+
+1513
+00:58:13,520 --> 00:58:14,880
+¡Colinas plateadas,
+
+1514
+00:58:14,880 --> 00:58:17,960
+grises alcores, cárdenas roquedas!
+
+1515
+00:58:17,960 --> 00:58:20,210
+He vuelto a ver los álamos dorados,
+
+1516
+00:58:20,210 --> 00:58:22,490
+álamos del camino, en la ribera
+
+1517
+00:58:22,490 --> 00:58:25,010
+del Duero, entre San Polo y San Saturio,
+
+1518
+00:58:25,010 --> 00:58:26,470
+tras las murallas viejas
+
+1519
+00:58:26,470 --> 00:58:28,090
+de Soria—barbacana
+
+1520
+00:58:28,090 --> 00:58:30,010
+hacia Aragón, en castellana tierra.—
+
+1521
+00:58:30,010 --> 00:58:32,320
+Estos chopos del río, que acompañan
+
+1522
+00:58:32,320 --> 00:58:34,330
+con el sonido de sus hojas secas
+
+1523
+00:58:34,330 --> 00:58:36,320
+el son del agua cuando el viento sopla,
+
+1524
+00:58:36,320 --> 00:58:37,710
+tienen en sus cortezas
+
+1525
+00:58:37,710 --> 00:58:39,790
+grabadas iniciales que son nombres
+
+1526
+00:58:39,790 --> 00:58:42,340
+de enamorados, cifras que son fechas.
+
+1527
+00:58:42,340 --> 00:58:44,510
+¡Álamos del amor, que ayer tuvisteis
+
+1528
+00:58:44,510 --> 00:58:46,810
+de ruiseñores vuestras ramas llenas;
+
+1529
+00:58:46,810 --> 00:58:48,450
+álamos que seréis mañana liras
+
+1530
+00:58:48,450 --> 00:58:50,430
+del viento perfumado en primavera;
+
+1531
+00:58:50,430 --> 00:58:52,460
+álamos del amor cerca del agua,
+
+1532
+00:58:52,460 --> 00:58:54,160
+que corre y pasa y sueña;
+
+1533
+00:58:54,160 --> 00:58:55,890
+álamos de las márgenes del Duero,
+
+1534
+00:58:55,890 --> 00:58:58,430
+conmigo vais, mi corazón os lleva!
+
+1535
+00:58:58,430 --> 00:59:01,540
+¡Oh!, sí, conmigo vais, campos de Soria,
+
+1536
+00:59:01,540 --> 00:59:03,900
+tardes tranquilas, montes de violeta,
+
+1537
+00:59:03,900 --> 00:59:05,860
+alamedas del río, verde sueño
+
+1538
+00:59:05,860 --> 00:59:07,840
+del suelo gris y de la parda tierra,
+
+1539
+00:59:07,840 --> 00:59:09,370
+agria melancolía
+
+1540
+00:59:09,370 --> 00:59:10,750
+de la ciudad decrépita.
+
+1541
+00:59:10,750 --> 00:59:12,080
+¿Me habéis llegado al alma,
+
+1542
+00:59:12,080 --> 00:59:14,400
+o acaso estabais en el fondo de ella?
+
+1543
+00:59:14,400 --> 00:59:16,730
+¡Gentes del alto llano numantino,
+
+1544
+00:59:16,730 --> 00:59:19,150
+que a Dios guardáis como cristianas viejas;
+
+1545
+00:59:19,150 --> 00:59:20,720
+que el sol de España os llene
+
+1546
+00:59:20,720 --> 00:59:23,730
+de alegría, de luz y de riqueza!
+
+1547
+00:59:23,730 --> 00:59:26,270
+A UN OLMO SECO
+
+1548
+00:59:26,270 --> 00:59:28,800
+Al olmo seco, hendido por el rayo
+
+1549
+00:59:28,800 --> 00:59:29,940
+y en su mitad podrido,
+
+1550
+00:59:29,940 --> 00:59:32,340
+con las lluvias de Abril y el sol de Mayo
+
+1551
+00:59:32,340 --> 00:59:34,130
+algunas hojas verdes le han salido.
+
+1552
+00:59:34,130 --> 00:59:36,750
+¡El olmo centenario, en la colina
+
+1553
+00:59:36,750 --> 00:59:37,750
+que lame el Duero!
+
+1554
+00:59:37,750 --> 00:59:39,210
+Un musgo amarillento
+
+1555
+00:59:39,210 --> 00:59:41,440
+le mancha la corteza blanquecina
+
+1556
+00:59:41,440 --> 00:59:43,490
+al tronco carcomido y polvoriento.
+
+1557
+00:59:43,490 --> 00:59:45,660
+No será, cual los álamos cantores
+
+1558
+00:59:45,660 --> 00:59:47,500
+que guardan el camino y la ribera,
+
+1559
+00:59:47,500 --> 00:59:49,760
+habitado de pardos ruiseñores.
+
+1560
+00:59:49,760 --> 00:59:51,450
+Ejército de hormigas en hilera
+
+1561
+00:59:51,450 --> 00:59:53,910
+van subiendo por él, y en sus entrañas
+
+1562
+00:59:53,910 --> 00:59:56,190
+urden sus telas grises las arañas.
+
+1563
+00:59:56,190 --> 00:59:58,190
+Antes que te derribe, olmo del Duero,
+
+1564
+00:59:58,190 --> 01:00:00,300
+con su hacha el leñador, o el carpintero
+
+1565
+01:00:00,300 --> 01:00:02,510
+te convierta en melena de campana,
+
+1566
+01:00:02,510 --> 01:00:04,870
+lanza de carro o yugo de carreta;
+
+1567
+01:00:04,870 --> 01:00:07,000
+antes que rojo en el hogar, mañana,
+
+1568
+01:00:07,000 --> 01:00:08,780
+ardas, de alguna misera caseta,
+
+1569
+01:00:08,780 --> 01:00:10,330
+al borde de un camino;
+
+1570
+01:00:10,330 --> 01:00:12,380
+antes que te descuaje el torbellino
+
+1571
+01:00:12,380 --> 01:00:14,720
+y tronche el soplo de las sierras blancas;
+
+1572
+01:00:14,720 --> 01:00:16,560
+antes que el río hacia la mar te empuje
+
+1573
+01:00:16,560 --> 01:00:17,840
+por valles y barrancas,
+
+1574
+01:00:17,840 --> 01:00:20,310
+olmo, quiero anotar en mi cartera
+
+1575
+01:00:20,310 --> 01:00:22,740
+la gracia de tu rama verdecida.
+
+1576
+01:00:22,740 --> 01:00:24,430
+Mi corazón espera
+
+1577
+01:00:24,430 --> 01:00:26,590
+también, hacia la luz y hacia la vida,
+
+1578
+01:00:26,590 --> 01:00:29,410
+otro milagro de la primavera.
+
+1579
+01:00:29,410 --> 01:00:31,630
+Fin
+del
+Capítulo ocho
+
+1580
+01:00:31,630 --> 01:00:42,460
+﻿Capítulo nueve
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+1581
+01:00:42,460 --> 01:00:45,500
+Esta grabación de LibriVox está en el dominio público.
+
+1582
+01:00:45,500 --> 01:00:47,800
+LA TIERRA DE ALVARGONZÁLEZ
+
+1583
+01:00:47,800 --> 01:00:49,190
+Al poeta Juan R.
+
+1584
+01:00:49,190 --> 01:00:50,320
+Jiménez.
+
+1585
+01:00:50,320 --> 01:00:52,490
+LA TIERRA DE ALVARGONZÁLEZ
+
+1586
+01:00:52,490 --> 01:00:54,890
+Siendo mozo Alvargonzález,
+
+1587
+01:00:54,890 --> 01:00:56,470
+dueño de mediana hacienda,
+
+1588
+01:00:56,470 --> 01:00:57,760
+que en otras tierras se dice
+
+1589
+01:00:57,760 --> 01:00:59,620
+bienestar, y aquí opulencia,
+
+1590
+01:00:59,620 --> 01:01:00,950
+en la feria de Berlanga
+
+1591
+01:01:00,950 --> 01:01:02,390
+prendóse de una doncella,
+
+1592
+01:01:02,390 --> 01:01:03,690
+y la tomó por mujer
+
+1593
+01:01:03,690 --> 01:01:04,940
+al año de conocerla.
+
+1594
+01:01:04,940 --> 01:01:06,670
+Muy ricas las bodas fueron,
+
+1595
+01:01:06,670 --> 01:01:08,230
+y quien las vio las recuerda;
+
+1596
+01:01:08,230 --> 01:01:09,840
+sonadas las tornabodas
+
+1597
+01:01:09,840 --> 01:01:11,420
+que hizo Alvar en su aldea:
+
+1598
+01:01:11,420 --> 01:01:13,210
+hubo gaitas, tamboriles,
+
+1599
+01:01:13,210 --> 01:01:14,790
+flauta, bandurria y vihuela,
+
+1600
+01:01:14,790 --> 01:01:16,640
+fuegos a la valenciana
+
+1601
+01:01:16,640 --> 01:01:18,150
+y danza a la aragonesa.
+
+1602
+01:01:18,150 --> 01:01:20,270
+Feliz vivió Alvargonzález
+
+1603
+01:01:20,270 --> 01:01:21,660
+en el amor de su tierra.
+
+1604
+01:01:21,660 --> 01:01:23,120
+Naciéronle tres varones,
+
+1605
+01:01:23,120 --> 01:01:24,550
+que en el campo son riqueza,
+
+1606
+01:01:24,550 --> 01:01:26,300
+y, ya crecidos, los puso,
+
+1607
+01:01:26,300 --> 01:01:27,670
+uno a cultivar la huerta,
+
+1608
+01:01:27,670 --> 01:01:29,320
+otro a cuidar los merinos,
+
+1609
+01:01:29,320 --> 01:01:31,210
+y dio el menor a la Iglesia.
+
+1610
+01:01:31,210 --> 01:01:32,530
+Mucha sangre de Caín
+
+1611
+01:01:32,530 --> 01:01:34,070
+tiene la gente labriega,
+
+1612
+01:01:34,070 --> 01:01:35,490
+y en el hogar campesino
+
+1613
+01:01:35,490 --> 01:01:36,860
+armó la envidia pelea.
+
+1614
+01:01:36,860 --> 01:01:38,910
+Casáronse los mayores;
+
+1615
+01:01:38,910 --> 01:01:40,500
+tuvo Alvargonzález nueras,
+
+1616
+01:01:40,500 --> 01:01:42,030
+que le trujeron cizaña
+
+1617
+01:01:42,030 --> 01:01:43,680
+antes que nietos le dieran.
+
+1618
+01:01:43,680 --> 01:01:45,430
+La codicia de los campos
+
+1619
+01:01:45,430 --> 01:01:47,250
+ve tras la muerte la herencia;
+
+1620
+01:01:47,250 --> 01:01:48,350
+no goza de lo que tiene,
+
+1621
+01:01:48,350 --> 01:01:50,150
+por ansia de lo que espera.
+
+1622
+01:01:50,150 --> 01:01:52,040
+El menor, que a los latines
+
+1623
+01:01:52,040 --> 01:01:53,710
+prefería las doncellas
+
+1624
+01:01:53,710 --> 01:01:55,150
+hermosas, y no gustaba
+
+1625
+01:01:55,150 --> 01:01:56,380
+de vestir por la cabeza,
+
+1626
+01:01:56,380 --> 01:01:57,890
+colgó la sotana un día
+
+1627
+01:01:57,890 --> 01:01:59,790
+y partió a lejanas tierras.
+
+1628
+01:01:59,790 --> 01:02:01,510
+La madre lloró, y el padre
+
+1629
+01:02:01,510 --> 01:02:03,510
+dióle bendición y herencia.
+
+1630
+01:02:03,510 --> 01:02:05,130
+Alvargonzález ya tiene
+
+1631
+01:02:05,130 --> 01:02:06,470
+la adusta frente arrugada;
+
+1632
+01:02:06,470 --> 01:02:08,170
+por la barba le platea
+
+1633
+01:02:08,170 --> 01:02:09,990
+el bozo azul de la cara.
+
+1634
+01:02:09,990 --> 01:02:11,130
+Una mañana de otoño
+
+1635
+01:02:11,130 --> 01:02:12,850
+salió solo de su casa;
+
+1636
+01:02:12,850 --> 01:02:14,260
+no llevaba sus lebreles,
+
+1637
+01:02:14,260 --> 01:02:16,040
+agudos canes de caza.
+
+1638
+01:02:16,040 --> 01:02:17,360
+Iba triste y pensativo
+
+1639
+01:02:17,360 --> 01:02:18,450
+por la alameda dorada;
+
+1640
+01:02:18,450 --> 01:02:20,250
+anduvo largo camino,
+
+1641
+01:02:20,250 --> 01:02:21,600
+y llegó a una fuente clara.
+
+1642
+01:02:21,600 --> 01:02:23,510
+Echóse en la tierra; puso
+
+1643
+01:02:23,510 --> 01:02:25,530
+sobre una piedra la manta,
+
+1644
+01:02:25,530 --> 01:02:26,810
+y a la vera de la fuente
+
+1645
+01:02:26,810 --> 01:02:29,510
+durmió al arrullo del agua.
+
+1646
+01:02:29,510 --> 01:02:31,770
+EL SUEÑO
+
+1647
+01:02:31,770 --> 01:02:33,380
+Y Alvargonzález veía,
+
+1648
+01:02:33,380 --> 01:02:35,190
+como Jacob, una escala
+
+1649
+01:02:35,190 --> 01:02:36,690
+que iba de la tierra al cielo,
+
+1650
+01:02:36,690 --> 01:02:38,670
+y oyó una voz que le hablaba.
+
+1651
+01:02:38,670 --> 01:02:40,110
+Mas las hadas hilanderas,
+
+1652
+01:02:40,110 --> 01:02:41,610
+entre las guedejas blancas
+
+1653
+01:02:41,610 --> 01:02:43,340
+y vellones de oro, han puesto
+
+1654
+01:02:43,340 --> 01:02:44,740
+un mechón de negra lana.
+
+1655
+01:02:44,740 --> 01:02:46,520
+Tres niños están jugando
+
+1656
+01:02:46,520 --> 01:02:48,090
+a la puerta de su casa;
+
+1657
+01:02:48,090 --> 01:02:49,310
+entre los mayores brinca
+
+1658
+01:02:49,310 --> 01:02:51,090
+un cuervo de negras alas.
+
+1659
+01:02:51,090 --> 01:02:52,730
+La mujer vigila, cose,
+
+1660
+01:02:52,730 --> 01:02:54,520
+y a ratos sonríe y canta.
+
+1661
+01:02:54,520 --> 01:02:56,270
+—Hijos, ¿qué hacéis?—les pregunta.
+
+1662
+01:02:56,270 --> 01:02:57,910
+Ellos se miran y callan.
+
+1663
+01:02:57,910 --> 01:02:59,670
+—Subid al monte, hijos míos,
+
+1664
+01:02:59,670 --> 01:03:00,990
+y antes que la noche caiga,
+
+1665
+01:03:00,990 --> 01:03:02,630
+con un brazado de estepas
+
+1666
+01:03:02,630 --> 01:03:04,410
+hacedme una buena llama.
+
+1667
+01:03:04,410 --> 01:03:06,810
+Sobre el lar de Alvargonzález
+
+1668
+01:03:06,810 --> 01:03:08,240
+está la leña apilada;
+
+1669
+01:03:08,240 --> 01:03:09,680
+el mayor quiere encenderla,
+
+1670
+01:03:09,680 --> 01:03:11,150
+pero no brota la llama.
+
+1671
+01:03:11,150 --> 01:03:13,080
+—Padre, la hoguera no prende;
+
+1672
+01:03:13,080 --> 01:03:14,600
+está la estepa mojada.
+
+1673
+01:03:14,600 --> 01:03:16,290
+Su hermano viene a ayudarle,
+
+1674
+01:03:16,290 --> 01:03:17,970
+y arroja astillas y ramas
+
+1675
+01:03:17,970 --> 01:03:19,340
+sobre los troncos de roble;
+
+1676
+01:03:19,340 --> 01:03:20,560
+pero el rescoldo se apaga.
+
+1677
+01:03:20,560 --> 01:03:22,470
+Acude el menor, y enciende
+
+1678
+01:03:22,470 --> 01:03:23,780
+bajo la negra campana
+
+1679
+01:03:23,780 --> 01:03:25,480
+de la cocina, una hoguera
+
+1680
+01:03:25,480 --> 01:03:27,300
+que alumbra toda la casa.
+
+1681
+01:03:27,300 --> 01:03:28,440
+Alvargonzález levanta
+
+1682
+01:03:28,440 --> 01:03:29,790
+en brazos al más pequeño,
+
+1683
+01:03:29,790 --> 01:03:31,630
+y en sus rodillas lo sienta.
+
+1684
+01:03:31,630 --> 01:03:33,440
+—Tus manos hacen el fuego...
+
+1685
+01:03:33,440 --> 01:03:34,780
+Aunque el último naciste,
+
+1686
+01:03:34,780 --> 01:03:36,430
+tú eres en mi amor primero.
+
+1687
+01:03:36,430 --> 01:03:38,310
+Los dos mayores se alejan
+
+1688
+01:03:38,310 --> 01:03:39,710
+por los rincones del sueño.
+
+1689
+01:03:39,710 --> 01:03:41,470
+Entre los dos fugitivos
+
+1690
+01:03:41,470 --> 01:03:44,000
+reluce un hacha de hierro.
+
+1691
+01:03:44,000 --> 01:03:46,850
+AQUELLA TARDE...
+
+1692
+01:03:46,850 --> 01:03:48,270
+Sobre los campos desnudos,
+
+1693
+01:03:48,270 --> 01:03:49,610
+la Luna llena, manchada
+
+1694
+01:03:49,610 --> 01:03:51,130
+de un arrebol purpurino,
+
+1695
+01:03:51,130 --> 01:03:52,430
+enorme globo, asomaba.
+
+1696
+01:03:52,430 --> 01:03:54,120
+Los hijos de Alvargonzález
+
+1697
+01:03:54,120 --> 01:03:55,450
+silenciosos caminaban,
+
+1698
+01:03:55,450 --> 01:03:57,050
+y han visto al padre dormido
+
+1699
+01:03:57,050 --> 01:03:58,550
+junto de la fuente clara.
+
+1700
+01:03:58,550 --> 01:04:00,490
+Tiene el padre entre las cejas
+
+1701
+01:04:00,490 --> 01:04:02,190
+un ceño que le aborrasca
+
+1702
+01:04:02,190 --> 01:04:04,390
+el rostro, un tachón sombrío
+
+1703
+01:04:04,390 --> 01:04:06,110
+como la huella de un hacha.
+
+1704
+01:04:06,110 --> 01:04:07,900
+Soñando está con sus hijos,
+
+1705
+01:04:07,900 --> 01:04:09,220
+que sus hijos lo apuñalan;
+
+1706
+01:04:09,220 --> 01:04:10,910
+y cuando despierta, mira
+
+1707
+01:04:10,910 --> 01:04:12,520
+que es cierto lo que soñaba.
+
+1708
+01:04:12,520 --> 01:04:13,830
+A la vera de la fuente
+
+1709
+01:04:13,830 --> 01:04:15,700
+quedó Alvargonzález muerto.
+
+1710
+01:04:15,700 --> 01:04:16,970
+Tiene cuatro puñaladas
+
+1711
+01:04:16,970 --> 01:04:18,450
+entre el costado y el pecho,
+
+1712
+01:04:18,450 --> 01:04:20,290
+por donde la sangre brota,
+
+1713
+01:04:20,290 --> 01:04:21,880
+más un hachazo en el cuello.
+
+1714
+01:04:21,880 --> 01:04:23,870
+Cuenta la hazaña del campo
+
+1715
+01:04:23,870 --> 01:04:25,220
+el agua clara corriendo,
+
+1716
+01:04:25,220 --> 01:04:26,890
+mientras los dos asesinos
+
+1717
+01:04:26,890 --> 01:04:28,200
+huyen hacia los hayedos.
+
+1718
+01:04:28,200 --> 01:04:29,910
+Hasta la Laguna Negra,
+
+1719
+01:04:29,910 --> 01:04:31,280
+bajo las fuentes del Duero,
+
+1720
+01:04:31,280 --> 01:04:33,140
+llevan el muerto, dejando
+
+1721
+01:04:33,140 --> 01:04:35,130
+detrás un rastro sangriento;
+
+1722
+01:04:35,130 --> 01:04:36,470
+y en la laguna sin fondo,
+
+1723
+01:04:36,470 --> 01:04:37,900
+que guarda bien los secretos,
+
+1724
+01:04:37,900 --> 01:04:39,480
+con una piedra amarrada
+
+1725
+01:04:39,480 --> 01:04:41,570
+a los pies, tumba le dieron.
+
+1726
+01:04:41,570 --> 01:04:43,390
+Se encontró junto a la fuente
+
+1727
+01:04:43,390 --> 01:04:45,050
+la manta de Alvargonzález,
+
+1728
+01:04:45,050 --> 01:04:46,150
+y camino del hayedo
+
+1729
+01:04:46,150 --> 01:04:48,030
+se vio un reguero de sangre.
+
+1730
+01:04:48,030 --> 01:04:49,310
+Nadie de la aldea ha osado
+
+1731
+01:04:49,310 --> 01:04:50,650
+a la laguna acercarse,
+
+1732
+01:04:50,650 --> 01:04:52,100
+y el sondarla inútil fuera,
+
+1733
+01:04:52,100 --> 01:04:54,260
+que es la laguna insondable.
+
+1734
+01:04:54,260 --> 01:04:55,590
+Un buhonero que cruzaba
+
+1735
+01:04:55,590 --> 01:04:57,090
+aquellas tierras errante,
+
+1736
+01:04:57,090 --> 01:04:59,430
+fue en Dauria acusado, preso,
+
+1737
+01:04:59,430 --> 01:05:00,850
+y muerto en garrote infame.
+
+1738
+01:05:00,850 --> 01:05:02,650
+Pasados algunos meses,
+
+1739
+01:05:02,650 --> 01:05:03,850
+la madre murió de pena.
+
+1740
+01:05:03,850 --> 01:05:05,560
+Los que muerta la encontraron,
+
+1741
+01:05:05,560 --> 01:05:07,260
+dicen que las manos yertas
+
+1742
+01:05:07,260 --> 01:05:08,670
+sobre su rostro tenía,
+
+1743
+01:05:08,670 --> 01:05:10,770
+oculto el rostro con ellas.
+
+1744
+01:05:10,770 --> 01:05:12,300
+Los hijos de Alvargonzález
+
+1745
+01:05:12,300 --> 01:05:13,650
+ya tienen majada y huerta,
+
+1746
+01:05:13,650 --> 01:05:15,500
+campos de trigo y centeno
+
+1747
+01:05:15,500 --> 01:05:17,360
+y prados de fina hierba;
+
+1748
+01:05:17,360 --> 01:05:19,190
+en el olmo viejo, hendido
+
+1749
+01:05:19,190 --> 01:05:20,630
+por el rayo, la colmena,
+
+1750
+01:05:20,630 --> 01:05:22,420
+dos yuntas para el arado,
+
+1751
+01:05:22,420 --> 01:05:24,920
+un mastín y cien ovejas.
+
+1752
+01:05:24,920 --> 01:05:26,970
+OTROS DÍAS
+
+1753
+01:05:26,970 --> 01:05:28,770
+Ya están las zarzas floridas,
+
+1754
+01:05:28,770 --> 01:05:30,120
+y los ciruelos blanquean;
+
+1755
+01:05:30,120 --> 01:05:31,670
+ya las abejas doradas
+
+1756
+01:05:31,670 --> 01:05:33,370
+liban para sus colmenas,
+
+1757
+01:05:33,370 --> 01:05:34,590
+y en los nidos, que coronan
+
+1758
+01:05:34,590 --> 01:05:36,010
+las torres de las iglesias,
+
+1759
+01:05:36,010 --> 01:05:37,190
+asoman los garabatos
+
+1760
+01:05:37,190 --> 01:05:38,920
+ganchudos de las cigüeñas.
+
+1761
+01:05:38,920 --> 01:05:40,150
+Ya los olmos del camino
+
+1762
+01:05:40,150 --> 01:05:41,640
+y chopos de las riberas
+
+1763
+01:05:41,640 --> 01:05:43,060
+de los arroyos que buscan
+
+1764
+01:05:43,060 --> 01:05:44,610
+al padre Duero, verdean.
+
+1765
+01:05:44,610 --> 01:05:46,670
+El cielo está azul; los montes
+
+1766
+01:05:46,670 --> 01:05:47,970
+sin nieve son de violeta.
+
+1767
+01:05:47,970 --> 01:05:49,740
+La tierra de Alvargonzález
+
+1768
+01:05:49,740 --> 01:05:51,310
+se colmará de riqueza;
+
+1769
+01:05:51,310 --> 01:05:53,010
+muerto está quien la ha labrado,
+
+1770
+01:05:53,010 --> 01:05:54,820
+mas no le cubre la tierra.
+
+1771
+01:05:54,820 --> 01:05:56,230
+La hermosa tierra de España,
+
+1772
+01:05:56,230 --> 01:05:57,570
+adusta, fina y guerrera,
+
+1773
+01:05:57,570 --> 01:05:59,020
+Castilla de largos ríos,
+
+1774
+01:05:59,020 --> 01:06:00,630
+tiene un puñado de sierras
+
+1775
+01:06:00,630 --> 01:06:02,030
+entre Soria y Burgos como
+
+1776
+01:06:02,030 --> 01:06:03,380
+reductos de fortaleza,
+
+1777
+01:06:03,380 --> 01:06:05,150
+como yelmos crestonados,
+
+1778
+01:06:05,150 --> 01:06:06,990
+y Urbión es una cimera.
+
+1779
+01:06:06,990 --> 01:06:08,620
+Los hijos de Alvargonzález,
+
+1780
+01:06:08,620 --> 01:06:10,150
+por una empinada senda,
+
+1781
+01:06:10,150 --> 01:06:11,290
+para tomar el camino
+
+1782
+01:06:11,290 --> 01:06:12,540
+de Salduero a Covaleda,
+
+1783
+01:06:12,540 --> 01:06:14,500
+cabalgan en pardas mulas,
+
+1784
+01:06:14,500 --> 01:06:15,990
+bajo el pinar de Vinuesa.
+
+1785
+01:06:15,990 --> 01:06:17,460
+Van en busca de ganado
+
+1786
+01:06:17,460 --> 01:06:18,690
+con que volver a su aldea,
+
+1787
+01:06:18,690 --> 01:06:20,290
+y por tierra de pinares
+
+1788
+01:06:20,290 --> 01:06:21,860
+larga jornada comienzan.
+
+1789
+01:06:21,860 --> 01:06:23,360
+Van Duero arriba, dejando
+
+1790
+01:06:23,360 --> 01:06:24,750
+atrás los arcos de piedra
+
+1791
+01:06:24,750 --> 01:06:26,350
+del puente y el caserío
+
+1792
+01:06:26,350 --> 01:06:27,700
+de la ociosa y opulenta
+
+1793
+01:06:27,700 --> 01:06:29,440
+villa de indianos.
+
+1794
+01:06:29,440 --> 01:06:29,800
+El río,
+
+1795
+01:06:29,800 --> 01:06:31,070
+al fondo del valle, suena,
+
+1796
+01:06:31,070 --> 01:06:32,470
+y de las cabalgaduras
+
+1797
+01:06:32,470 --> 01:06:34,390
+los cascos baten las piedras.
+
+1798
+01:06:34,390 --> 01:06:35,830
+A la otra orilla del Duero
+
+1799
+01:06:35,830 --> 01:06:37,250
+canta una voz lastimera:
+
+1800
+01:06:37,250 --> 01:06:39,220
+“La tierra de Alvargonzález
+
+1801
+01:06:39,220 --> 01:06:40,600
+se colmará de riqueza,
+
+1802
+01:06:40,600 --> 01:06:42,310
+y el que la tierra ha labrado
+
+1803
+01:06:42,310 --> 01:06:44,740
+no duerme bajo la tierra.”
+
+1804
+01:06:44,740 --> 01:06:46,080
+Llegados son a un paraje
+
+1805
+01:06:46,080 --> 01:06:47,680
+en donde el pinar se espesa,
+
+1806
+01:06:47,680 --> 01:06:49,290
+y el mayor, que abre la marcha,
+
+1807
+01:06:49,290 --> 01:06:50,960
+su parda mula espolea,
+
+1808
+01:06:50,960 --> 01:06:52,610
+diciendo:—Démonos prisa,
+
+1809
+01:06:52,610 --> 01:06:54,290
+porque son más de dos leguas
+
+1810
+01:06:54,290 --> 01:06:56,010
+de pinar, y hay que apurarlas
+
+1811
+01:06:56,010 --> 01:06:57,930
+antes que la noche venga.
+
+1812
+01:06:57,930 --> 01:06:59,570
+Dos hijos del campo, hechos
+
+1813
+01:06:59,570 --> 01:07:00,860
+a quebradas y asperezas,
+
+1814
+01:07:00,860 --> 01:07:02,330
+porque recuerdan un día,
+
+1815
+01:07:02,330 --> 01:07:04,390
+la tarde en el monte tiemblan.
+
+1816
+01:07:04,390 --> 01:07:05,730
+Allá en lo espeso del bosque
+
+1817
+01:07:05,730 --> 01:07:07,190
+otra vez la copla suena:
+
+1818
+01:07:07,190 --> 01:07:09,110
+“La tierra de Alvargonzález
+
+1819
+01:07:09,110 --> 01:07:10,510
+se colmará de riqueza,
+
+1820
+01:07:10,510 --> 01:07:12,250
+y el que la tierra ha labrado
+
+1821
+01:07:12,250 --> 01:07:13,910
+no duerme bajo la tierra.”
+
+1822
+01:07:13,910 --> 01:07:15,950
+Desde Salduero el camino
+
+1823
+01:07:15,950 --> 01:07:17,760
+va al hilo de la ribera;
+
+1824
+01:07:17,760 --> 01:07:19,370
+a ambas márgenes del río
+
+1825
+01:07:19,370 --> 01:07:20,750
+el pinar crece y se eleva,
+
+1826
+01:07:20,750 --> 01:07:22,490
+y las rocas se aborrascan,
+
+1827
+01:07:22,490 --> 01:07:24,410
+al par que el valle se estrecha.
+
+1828
+01:07:24,410 --> 01:07:25,890
+Los fuertes pinos del bosque,
+
+1829
+01:07:25,890 --> 01:07:27,730
+con sus copas gigantescas
+
+1830
+01:07:27,730 --> 01:07:29,030
+y sus desnudas raíces
+
+1831
+01:07:29,030 --> 01:07:30,690
+amarradas a las piedras;
+
+1832
+01:07:30,690 --> 01:07:32,060
+los de troncos plateados,
+
+1833
+01:07:32,060 --> 01:07:33,570
+cuyas frondas azulean,
+
+1834
+01:07:33,570 --> 01:07:35,370
+pinos jóvenes; los viejos,
+
+1835
+01:07:35,370 --> 01:07:37,050
+cubiertos de blanca lepra,
+
+1836
+01:07:37,050 --> 01:07:38,410
+musgos y líquenes canos,
+
+1837
+01:07:38,410 --> 01:07:39,770
+que el grueso tronco rodean,
+
+1838
+01:07:39,770 --> 01:07:41,490
+colman el valle y se pierden
+
+1839
+01:07:41,490 --> 01:07:43,090
+rebasando ambas laderas.
+
+1840
+01:07:43,090 --> 01:07:45,050
+Juan, el mayor, dice:—Hermano,
+
+1841
+01:07:45,050 --> 01:07:46,870
+si Blas Antonio apacienta
+
+1842
+01:07:46,870 --> 01:07:48,860
+cerca de Urbión su vacada,
+
+1843
+01:07:48,860 --> 01:07:50,110
+largo camino nos queda.
+
+1844
+01:07:50,110 --> 01:07:52,320
+—Cuanto hacia Urbión alarguemos,
+
+1845
+01:07:52,320 --> 01:07:53,690
+se puede acortar de vuelta
+
+1846
+01:07:53,690 --> 01:07:54,900
+tomando por el atajo,
+
+1847
+01:07:54,900 --> 01:07:56,090
+hacia la Laguna Negra,
+
+1848
+01:07:56,090 --> 01:07:57,670
+y bajando por el puerto
+
+1849
+01:07:57,670 --> 01:08:00,050
+de Santa Inés a Vinuesa.
+
+1850
+01:08:00,050 --> 01:08:01,640
+—Mala tierra y peor camino.
+
+1851
+01:08:01,640 --> 01:08:03,010
+Te juro que no quisiera
+
+1852
+01:08:03,010 --> 01:08:04,080
+verlos otra vez.
+
+1853
+01:08:04,080 --> 01:08:04,800
+Cerremos
+
+1854
+01:08:04,800 --> 01:08:06,030
+los tratos en Covaleda,
+
+1855
+01:08:06,030 --> 01:08:08,260
+hagamos noche, y, al alba,
+
+1856
+01:08:08,260 --> 01:08:09,460
+volvámonos a la aldea
+
+1857
+01:08:09,460 --> 01:08:11,450
+por este valle: que, a veces,
+
+1858
+01:08:11,450 --> 01:08:13,520
+quien piensa atajar, rodea.
+
+1859
+01:08:13,520 --> 01:08:15,590
+Cerca del río cabalgan
+
+1860
+01:08:15,590 --> 01:08:17,070
+los hermanos, y contemplan
+
+1861
+01:08:17,070 --> 01:08:18,710
+cómo el bosque centenario,
+
+1862
+01:08:18,710 --> 01:08:20,350
+al par que avanzan, aumenta,
+
+1863
+01:08:20,350 --> 01:08:22,250
+y los peñascos del monte
+
+1864
+01:08:22,250 --> 01:08:23,620
+el horizonte les cierran.
+
+1865
+01:08:23,620 --> 01:08:24,970
+El agua, que va saltando,
+
+1866
+01:08:24,970 --> 01:08:26,570
+parece que canta o cuenta:
+
+1867
+01:08:26,570 --> 01:08:28,510
+“La tierra de Alvargonzález
+
+1868
+01:08:28,510 --> 01:08:30,040
+se colmará de riqueza,
+
+1869
+01:08:30,040 --> 01:08:31,470
+y el que la tierra ha labrado
+
+1870
+01:08:31,470 --> 01:08:34,290
+no duerme bajo la tierra.”
+
+1871
+01:08:34,290 --> 01:08:36,410
+CASTIGO
+
+1872
+01:08:36,410 --> 01:08:38,210
+Aunque la codicia tiene
+
+1873
+01:08:38,210 --> 01:08:40,140
+redil que encierre la oveja,
+
+1874
+01:08:40,140 --> 01:08:41,640
+trojes que guardan el trigo,
+
+1875
+01:08:41,640 --> 01:08:43,010
+bolsas para la moneda,
+
+1876
+01:08:43,010 --> 01:08:44,850
+y garras, no tiene manos
+
+1877
+01:08:44,850 --> 01:08:46,540
+que sepan labrar la tierra.
+
+1878
+01:08:46,540 --> 01:08:47,870
+Así a un año de abundancia
+
+1879
+01:08:47,870 --> 01:08:49,830
+siguió un año de pobreza.
+
+1880
+01:08:49,830 --> 01:08:51,330
+En los sembrados crecieron
+
+1881
+01:08:51,330 --> 01:08:52,960
+las amapolas sangrientas;
+
+1882
+01:08:52,960 --> 01:08:54,280
+pudrió el tizón las espigas
+
+1883
+01:08:54,280 --> 01:08:55,880
+de trigales y de avenas;
+
+1884
+01:08:55,880 --> 01:08:57,170
+hielos tardíos mataron
+
+1885
+01:08:57,170 --> 01:08:59,120
+en flor la fruta en la huerta,
+
+1886
+01:08:59,120 --> 01:09:00,210
+y una mala hechicería
+
+1887
+01:09:00,210 --> 01:09:01,960
+hizo enfermar las ovejas.
+
+1888
+01:09:01,960 --> 01:09:03,230
+A los dos Alvargonzález
+
+1889
+01:09:03,230 --> 01:09:04,760
+maldijo Dios en sus tierras,
+
+1890
+01:09:04,760 --> 01:09:06,060
+y al año pobre siguieron
+
+1891
+01:09:06,060 --> 01:09:08,590
+luengos años de miseria.
+
+1892
+01:09:08,590 --> 01:09:10,360
+Es una noche de invierno.
+
+1893
+01:09:10,360 --> 01:09:12,250
+Cae la nieve en remolinos.
+
+1894
+01:09:12,250 --> 01:09:13,810
+Los Alvargonzález velan
+
+1895
+01:09:13,810 --> 01:09:15,380
+un fuego casi extinguido.
+
+1896
+01:09:15,380 --> 01:09:16,960
+El pensamiento amarrado
+
+1897
+01:09:16,960 --> 01:09:18,310
+tienen a un recuerdo mismo,
+
+1898
+01:09:18,310 --> 01:09:19,870
+y en las ascuas mortecinas
+
+1899
+01:09:19,870 --> 01:09:21,530
+del hogar los ojos fijos.
+
+1900
+01:09:21,530 --> 01:09:22,770
+No tienen leña ni sueño.
+
+1901
+01:09:22,770 --> 01:09:24,740
+Larga es la noche, y el frío
+
+1902
+01:09:24,740 --> 01:09:25,540
+mucho.
+
+1903
+01:09:25,540 --> 01:09:26,830
+Un candilejo humea
+
+1904
+01:09:26,830 --> 01:09:28,300
+en el muro ennegrecido.
+
+1905
+01:09:28,300 --> 01:09:29,760
+El aire agita la llama,
+
+1906
+01:09:29,760 --> 01:09:31,170
+que pone un fulgor rojizo
+
+1907
+01:09:31,170 --> 01:09:32,940
+sobre entrambas pensativas
+
+1908
+01:09:32,940 --> 01:09:34,630
+testas de los asesinos.
+
+1909
+01:09:34,630 --> 01:09:36,370
+El mayor de Alvargonzález,
+
+1910
+01:09:36,370 --> 01:09:37,940
+lanzando un ronco suspiro,
+
+1911
+01:09:37,940 --> 01:09:39,600
+rompe el silencio, exclamando:
+
+1912
+01:09:39,600 --> 01:09:41,850
+—Hermano, ¡qué mal hicimos!
+
+1913
+01:09:41,850 --> 01:09:43,300
+El viento la puerta bate,
+
+1914
+01:09:43,300 --> 01:09:44,740
+hace temblar el postigo,
+
+1915
+01:09:44,740 --> 01:09:45,950
+y suena en la chimenea
+
+1916
+01:09:45,950 --> 01:09:48,080
+con hueco y largo bramido.
+
+1917
+01:09:48,080 --> 01:09:49,780
+Después el silencio vuelve,
+
+1918
+01:09:49,780 --> 01:09:51,330
+y a intervalos el pabilo
+
+1919
+01:09:51,330 --> 01:09:53,230
+del candil chisporrotea
+
+1920
+01:09:53,230 --> 01:09:54,580
+en el aire aterecido.
+
+1921
+01:09:54,580 --> 01:09:57,050
+El segundón dijo:—¡Hermano,
+
+1922
+01:09:57,050 --> 01:09:59,500
+demos lo viejo al olvido!
+
+1923
+01:09:59,500 --> 01:10:03,420
+Fin
+del
+Capítulo nueve
+
+1924
+01:10:08,620 --> 01:10:12,360
+﻿Capítulo diez
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+1925
+01:10:12,360 --> 01:10:16,310
+Esta grabación de LibriVox está en el dominio público.
+
+1926
+01:10:16,310 --> 01:10:18,320
+EL VIAJERO
+
+1927
+01:10:18,320 --> 01:10:20,510
+Es una noche de invierno.
+
+1928
+01:10:20,510 --> 01:10:22,280
+Azota el viento las ramas
+
+1929
+01:10:22,280 --> 01:10:23,500
+de los álamos.
+
+1930
+01:10:23,500 --> 01:10:23,970
+La nieve
+
+1931
+01:10:23,970 --> 01:10:25,450
+ha puesto la tierra blanca.
+
+1932
+01:10:25,450 --> 01:10:27,420
+Bajo la nevada, un hombre
+
+1933
+01:10:27,420 --> 01:10:28,690
+por el camino cabalga;
+
+1934
+01:10:28,690 --> 01:10:30,600
+va cubierto hasta los ojos,
+
+1935
+01:10:30,600 --> 01:10:32,760
+embozado en luenga capa.
+
+1936
+01:10:32,760 --> 01:10:34,190
+Entrado en la aldea, busca
+
+1937
+01:10:34,190 --> 01:10:36,110
+de Alvargonzález la casa,
+
+1938
+01:10:36,110 --> 01:10:37,890
+y ante su puerta llegado,
+
+1939
+01:10:37,890 --> 01:10:40,150
+sin echar pie a tierra, llama.
+
+1940
+01:10:40,150 --> 01:10:41,870
+Los dos hermanos oyeron
+
+1941
+01:10:41,870 --> 01:10:43,390
+una aldabada a la puerta,
+
+1942
+01:10:43,390 --> 01:10:44,620
+y de una cabalgadura
+
+1943
+01:10:44,620 --> 01:10:46,400
+los cascos sobre las piedras.
+
+1944
+01:10:46,400 --> 01:10:47,710
+Ambos los ojos alzaron,
+
+1945
+01:10:47,710 --> 01:10:49,120
+llenos de espanto y sorpresa.
+
+1946
+01:10:49,120 --> 01:10:50,100
+—¿Quién es?
+
+1947
+01:10:50,100 --> 01:10:51,920
+¡Responda!—gritaron.
+
+1948
+01:10:51,920 --> 01:10:53,720
+—¡Miguel!—respondieron fuera.
+
+1949
+01:10:53,720 --> 01:10:55,350
+Era la voz del viajero
+
+1950
+01:10:55,350 --> 01:10:57,850
+que partió a lejanas tierras.
+
+1951
+01:10:57,850 --> 01:10:59,230
+Abierto el portón, entróse
+
+1952
+01:10:59,230 --> 01:11:00,560
+a caballo el caballero
+
+1953
+01:11:00,560 --> 01:11:01,850
+y echó pie a tierra.
+
+1954
+01:11:01,850 --> 01:11:02,490
+Venía
+
+1955
+01:11:02,490 --> 01:11:04,120
+todo de nieve cubierto.
+
+1956
+01:11:04,120 --> 01:11:05,490
+En brazos de sus hermanos
+
+1957
+01:11:05,490 --> 01:11:06,960
+lloró algún rato en silencio.
+
+1958
+01:11:06,960 --> 01:11:08,880
+Después, dio el caballo al uno,
+
+1959
+01:11:08,880 --> 01:11:10,220
+al otro capa y sombrero,
+
+1960
+01:11:10,220 --> 01:11:11,950
+y en la estancia campesina
+
+1961
+01:11:11,950 --> 01:11:13,560
+buscó el arrimo del fuego.
+
+1962
+01:11:13,560 --> 01:11:15,180
+El menor de los hermanos,
+
+1963
+01:11:15,180 --> 01:11:16,560
+que, niño y aventurero,
+
+1964
+01:11:16,560 --> 01:11:18,110
+fue más allá de los mares
+
+1965
+01:11:18,110 --> 01:11:19,690
+y hoy torna indiano opulento,
+
+1966
+01:11:19,690 --> 01:11:21,190
+vestía con negro traje
+
+1967
+01:11:21,190 --> 01:11:22,650
+de peludo terciopelo,
+
+1968
+01:11:22,650 --> 01:11:23,980
+ajustado a la cintura
+
+1969
+01:11:23,980 --> 01:11:25,200
+por ancho cinto de cuero.
+
+1970
+01:11:25,200 --> 01:11:26,870
+Gruesa cadena formaba
+
+1971
+01:11:26,870 --> 01:11:28,630
+un bucle de oro en su pecho.
+
+1972
+01:11:28,630 --> 01:11:30,000
+Era un hombre alto y robusto,
+
+1973
+01:11:30,000 --> 01:11:31,770
+con ojos grandes y negros
+
+1974
+01:11:31,770 --> 01:11:33,040
+llenos de melancolía;
+
+1975
+01:11:33,040 --> 01:11:34,390
+la tez de color moreno,
+
+1976
+01:11:34,390 --> 01:11:35,890
+y sobre la frente comba
+
+1977
+01:11:35,890 --> 01:11:37,520
+enmarañados cabellos.
+
+1978
+01:11:37,520 --> 01:11:38,750
+El hijo que saca porte
+
+1979
+01:11:38,750 --> 01:11:40,230
+señor de padre labriego,
+
+1980
+01:11:40,230 --> 01:11:41,900
+y a quien fortuna le debe
+
+1981
+01:11:41,900 --> 01:11:43,300
+amor, poder y dinero.
+
+1982
+01:11:43,300 --> 01:11:45,070
+De los tres Alvargonzález
+
+1983
+01:11:45,070 --> 01:11:46,330
+era Miguel el más bello;
+
+1984
+01:11:46,330 --> 01:11:47,810
+porque al mayor afeaba
+
+1985
+01:11:47,810 --> 01:11:49,300
+el muy poblado entrecejo
+
+1986
+01:11:49,300 --> 01:11:51,070
+bajo la frente mezquina,
+
+1987
+01:11:51,070 --> 01:11:52,770
+y al segundo, los inquietos
+
+1988
+01:11:52,770 --> 01:11:54,210
+ojos, que mirar no saben
+
+1989
+01:11:54,210 --> 01:11:56,450
+de frente, torvos y fieros.
+
+1990
+01:11:56,450 --> 01:11:58,130
+Los tres hermanos contemplan
+
+1991
+01:11:58,130 --> 01:11:59,500
+el triste hogar en silencio,
+
+1992
+01:11:59,500 --> 01:12:00,960
+y con la noche cerrada
+
+1993
+01:12:00,960 --> 01:12:02,920
+arrecia el frío y el viento.
+
+1994
+01:12:02,920 --> 01:12:04,540
+—Hermanos, ¿no tenéis leña?—
+
+1995
+01:12:04,540 --> 01:12:05,730
+dice Miguel.
+
+1996
+01:12:05,730 --> 01:12:06,650
+—No tenemos—
+
+1997
+01:12:06,650 --> 01:12:07,990
+responde el mayor.
+
+1998
+01:12:07,990 --> 01:12:08,870
+Un hombre
+
+1999
+01:12:08,870 --> 01:12:10,430
+milagrosamente ha abierto
+
+2000
+01:12:10,430 --> 01:12:12,200
+la gruesa puerta, cerrada
+
+2001
+01:12:12,200 --> 01:12:13,620
+con doble barra de hierro.
+
+2002
+01:12:13,620 --> 01:12:15,370
+El hombre que ha entrado tiene
+
+2003
+01:12:15,370 --> 01:12:17,230
+el rostro del padre muerto.
+
+2004
+01:12:17,230 --> 01:12:18,720
+Un halo de luz dorada
+
+2005
+01:12:18,720 --> 01:12:20,520
+orla sus blancos cabellos.
+
+2006
+01:12:20,520 --> 01:12:22,280
+Lleva un haz de leña al hombro
+
+2007
+01:12:22,280 --> 01:12:23,500
+y empuña un hacha de hierro.
+
+2008
+01:12:23,500 --> 01:12:24,920
+EL INDIANO
+
+2009
+01:12:24,920 --> 01:12:29,530
+De aquellos campos malditos,
+
+2010
+01:12:29,530 --> 01:12:31,010
+Miguel a sus dos hermanos
+
+2011
+01:12:31,010 --> 01:12:32,680
+compró una parte: que mucho
+
+2012
+01:12:32,680 --> 01:12:34,410
+caudal de América trajo,
+
+2013
+01:12:34,410 --> 01:12:36,000
+y aun en tierra mala, el oro
+
+2014
+01:12:36,000 --> 01:12:37,460
+luce mejor que enterrado,
+
+2015
+01:12:37,460 --> 01:12:39,080
+y más en mano de pobres
+
+2016
+01:12:39,080 --> 01:12:40,470
+que oculto en orza de barro.
+
+2017
+01:12:40,470 --> 01:12:42,350
+Dióse a trabajar la tierra
+
+2018
+01:12:42,350 --> 01:12:43,920
+con fe y tesón el indiano,
+
+2019
+01:12:43,920 --> 01:12:45,370
+y a laborar los mayores
+
+2020
+01:12:45,370 --> 01:12:46,820
+sus pegujales tornaron.
+
+2021
+01:12:46,820 --> 01:12:48,650
+Ya con macizas espigas,
+
+2022
+01:12:48,650 --> 01:12:50,330
+preñadas de rubios granos,
+
+2023
+01:12:50,330 --> 01:12:51,580
+a los campos de Miguel
+
+2024
+01:12:51,580 --> 01:12:53,040
+tornó el fecundo verano;
+
+2025
+01:12:53,040 --> 01:12:54,690
+y ya de aldea en aldea
+
+2026
+01:12:54,690 --> 01:12:56,040
+se cuenta como milagro
+
+2027
+01:12:56,040 --> 01:12:57,570
+que los asesinos tienen
+
+2028
+01:12:57,570 --> 01:12:59,580
+la maldición en sus campos.
+
+2029
+01:12:59,580 --> 01:13:01,190
+Ya el pueblo canta una copla
+
+2030
+01:13:01,190 --> 01:13:03,100
+que narra el crimen pasado:
+
+2031
+01:13:03,100 --> 01:13:04,790
+“A la orilla de la fuente
+
+2032
+01:13:04,790 --> 01:13:05,860
+lo asesinaron.
+
+2033
+01:13:05,860 --> 01:13:07,230
+¡Qué mala muerte le dieron
+
+2034
+01:13:07,230 --> 01:13:08,460
+los hijos malos!
+
+2035
+01:13:08,460 --> 01:13:09,780
+En la laguna sin fondo
+
+2036
+01:13:09,780 --> 01:13:11,210
+al padre muerto arrojaron.
+
+2037
+01:13:11,210 --> 01:13:13,080
+No duerme bajo la tierra
+
+2038
+01:13:13,080 --> 01:13:15,040
+el que la tierra ha labrado.”
+
+2039
+01:13:15,040 --> 01:13:16,950
+Miguel, con sus dos lebreles
+
+2040
+01:13:16,950 --> 01:13:18,330
+y armado de su escopeta,
+
+2041
+01:13:18,330 --> 01:13:19,670
+hacia el azul de los montes,
+
+2042
+01:13:19,670 --> 01:13:20,870
+en una tarde serena,
+
+2043
+01:13:20,870 --> 01:13:22,730
+caminaba entre los verdes
+
+2044
+01:13:22,730 --> 01:13:24,350
+chopos de la carretera,
+
+2045
+01:13:24,350 --> 01:13:26,230
+y oyó una voz que cantaba:
+
+2046
+01:13:26,230 --> 01:13:27,960
+“No tiene tumba en la tierra.
+
+2047
+01:13:27,960 --> 01:13:29,410
+Entre los pinos del valle
+
+2048
+01:13:29,410 --> 01:13:30,610
+del Revinuesa,
+
+2049
+01:13:30,610 --> 01:13:31,950
+al padre muerto llevaron
+
+2050
+01:13:31,950 --> 01:13:34,240
+hasta la Laguna Negra.”
+
+2051
+01:13:34,240 --> 01:13:36,510
+LA CASA
+
+2052
+01:13:36,510 --> 01:13:38,550
+La casa de Alvargonzález
+
+2053
+01:13:38,550 --> 01:13:39,890
+era una casona vieja
+
+2054
+01:13:39,890 --> 01:13:41,360
+con cuatro estrechas ventanas,
+
+2055
+01:13:41,360 --> 01:13:42,580
+separada de la aldea
+
+2056
+01:13:42,580 --> 01:13:44,670
+cien pasos, y entre dos olmos
+
+2057
+01:13:44,670 --> 01:13:46,160
+que, gigantes centinelas,
+
+2058
+01:13:46,160 --> 01:13:47,430
+sombra le dan en verano,
+
+2059
+01:13:47,430 --> 01:13:49,010
+y en el otoño, hojas secas.
+
+2060
+01:13:49,010 --> 01:13:50,930
+Es casa de labradores,
+
+2061
+01:13:50,930 --> 01:13:52,980
+gente, aunque rica, plebeya,
+
+2062
+01:13:52,980 --> 01:13:54,580
+donde el hogar humeante,
+
+2063
+01:13:54,580 --> 01:13:56,310
+con sus escaños de piedra,
+
+2064
+01:13:56,310 --> 01:13:57,860
+se ve sin entrar, si tiene
+
+2065
+01:13:57,860 --> 01:13:59,900
+abierta al campo la puerta.
+
+2066
+01:13:59,900 --> 01:14:01,220
+Al arrimo del rescoldo
+
+2067
+01:14:01,220 --> 01:14:02,640
+del hogar borbollonean
+
+2068
+01:14:02,640 --> 01:14:04,000
+dos pucherillos de barro
+
+2069
+01:14:04,000 --> 01:14:05,390
+que a dos familias sustentan.
+
+2070
+01:14:05,390 --> 01:14:07,270
+A diestra mano la cuadra
+
+2071
+01:14:07,270 --> 01:14:09,190
+y el corral, a la siniestra
+
+2072
+01:14:09,190 --> 01:14:10,970
+huerto y abejar, y al fondo
+
+2073
+01:14:10,970 --> 01:14:12,210
+una gastada escalera
+
+2074
+01:14:12,210 --> 01:14:13,890
+que va a las habitaciones,
+
+2075
+01:14:13,890 --> 01:14:15,790
+partidas en dos viviendas.
+
+2076
+01:14:15,790 --> 01:14:17,620
+Los Alvargonzález moran
+
+2077
+01:14:17,620 --> 01:14:19,440
+con sus mujeres en ellas.
+
+2078
+01:14:19,440 --> 01:14:21,000
+A ambas parejas, que hubieron,
+
+2079
+01:14:21,000 --> 01:14:22,520
+sin que lograrse pudieran,
+
+2080
+01:14:22,520 --> 01:14:24,570
+dos hijos, sobrado espacio
+
+2081
+01:14:24,570 --> 01:14:26,210
+les da la casa paterna.
+
+2082
+01:14:26,210 --> 01:14:27,970
+En una estancia que tiene
+
+2083
+01:14:27,970 --> 01:14:29,520
+luz al huerto, hay una mesa
+
+2084
+01:14:29,520 --> 01:14:30,960
+con gruesa tabla de roble,
+
+2085
+01:14:30,960 --> 01:14:32,310
+dos sillones de vaqueta,
+
+2086
+01:14:32,310 --> 01:14:34,150
+colgado en el muro un negro
+
+2087
+01:14:34,150 --> 01:14:35,600
+ábaco de enormes cuentas,
+
+2088
+01:14:35,600 --> 01:14:36,900
+y unas espuelas mohosas
+
+2089
+01:14:36,900 --> 01:14:38,840
+sobre un arcón de madera.
+
+2090
+01:14:38,840 --> 01:14:39,790
+Era una estancia olvidada,
+
+2091
+01:14:39,790 --> 01:14:41,400
+donde hoy Miguel se aposenta.
+
+2092
+01:14:41,400 --> 01:14:42,930
+Y era allí donde los padres
+
+2093
+01:14:42,930 --> 01:14:44,080
+veían en primavera
+
+2094
+01:14:44,080 --> 01:14:46,260
+el huerto en flor, y en el cielo
+
+2095
+01:14:46,260 --> 01:14:48,440
+de Mayo, azul, la cigüeña
+
+2096
+01:14:48,440 --> 01:14:49,930
+—cuando las rosas se abren
+
+2097
+01:14:49,930 --> 01:14:51,250
+y los zarzales blanquean,—
+
+2098
+01:14:51,250 --> 01:14:52,910
+que enseñaba a sus hijuelos
+
+2099
+01:14:52,910 --> 01:14:54,890
+a usar de las alas lentas.
+
+2100
+01:14:54,890 --> 01:14:56,110
+Y en las noches del verano,
+
+2101
+01:14:56,110 --> 01:14:57,650
+cuando la calor desvela,
+
+2102
+01:14:57,650 --> 01:14:59,510
+desde la ventana, al dulce
+
+2103
+01:14:59,510 --> 01:15:01,200
+ruiseñor cantar oyeran.
+
+2104
+01:15:01,200 --> 01:15:03,110
+Fue allí donde Alvargonzález,
+
+2105
+01:15:03,110 --> 01:15:04,350
+del orgullo de su huerta
+
+2106
+01:15:04,350 --> 01:15:05,940
+y del amor de los suyos,
+
+2107
+01:15:05,940 --> 01:15:07,350
+sacó sueños de grandeza.
+
+2108
+01:15:07,350 --> 01:15:08,990
+Cuando en brazos de la madre
+
+2109
+01:15:08,990 --> 01:15:10,350
+vio la figura risueña
+
+2110
+01:15:10,350 --> 01:15:11,890
+del primer hijo, bruñida
+
+2111
+01:15:11,890 --> 01:15:13,420
+de rubio sol la cabeza,
+
+2112
+01:15:13,420 --> 01:15:14,810
+del niño que levantaba
+
+2113
+01:15:14,810 --> 01:15:16,410
+las codiciosas, pequeñas
+
+2114
+01:15:16,410 --> 01:15:18,110
+manos a las rojas guindas
+
+2115
+01:15:18,110 --> 01:15:19,600
+y a las moradas ciruelas,
+
+2116
+01:15:19,600 --> 01:15:21,100
+aquella tarde de otoño,
+
+2117
+01:15:21,100 --> 01:15:22,830
+dorada, plácida y buena,
+
+2118
+01:15:22,830 --> 01:15:24,290
+él pensó que ser podría
+
+2119
+01:15:24,290 --> 01:15:26,310
+feliz el hombre en la Tierra.
+
+2120
+01:15:26,310 --> 01:15:27,710
+Hoy canta el pueblo una copla
+
+2121
+01:15:27,710 --> 01:15:29,370
+que va de aldea en aldea:
+
+2122
+01:15:29,370 --> 01:15:31,110
+“¡Oh casa de Alvargonzález,
+
+2123
+01:15:31,110 --> 01:15:32,390
+qué malos días te esperan!
+
+2124
+01:15:32,390 --> 01:15:33,910
+¡Casa de los asesinos,
+
+2125
+01:15:33,910 --> 01:15:35,970
+que nadie llame a tu puerta!”
+
+2126
+01:15:35,970 --> 01:15:37,940
+Es una tarde de otoño.
+
+2127
+01:15:37,940 --> 01:15:39,590
+En la alameda dorada
+
+2128
+01:15:39,590 --> 01:15:41,170
+no quedan ya ruiseñores;
+
+2129
+01:15:41,170 --> 01:15:42,480
+enmudeció la cigarra.
+
+2130
+01:15:42,480 --> 01:15:43,930
+Las últimas golondrinas,
+
+2131
+01:15:43,930 --> 01:15:46,390
+que no emprendieron la marcha,
+
+2132
+01:15:46,390 --> 01:15:48,140
+morirán, y las cigüeñas,
+
+2133
+01:15:48,140 --> 01:15:49,600
+de sus nidos de retamas,
+
+2134
+01:15:49,600 --> 01:15:51,330
+de torres y campanarios,
+
+2135
+01:15:51,330 --> 01:15:52,350
+huyeron.
+
+2136
+01:15:52,350 --> 01:15:53,270
+Sobre la casa
+
+2137
+01:15:53,270 --> 01:15:54,890
+de Alvargonzález, los olmos
+
+2138
+01:15:54,890 --> 01:15:56,800
+sus hojas, que el viento arranca,
+
+2139
+01:15:56,800 --> 01:15:57,980
+van dejando.
+
+2140
+01:15:57,980 --> 01:15:58,530
+Todavía
+
+2141
+01:15:58,530 --> 01:15:59,930
+las tres redondas acacias,
+
+2142
+01:15:59,930 --> 01:16:01,500
+frente al atrio de la iglesia,
+
+2143
+01:16:01,500 --> 01:16:03,350
+conservan verdes sus ramas,
+
+2144
+01:16:03,350 --> 01:16:04,770
+y las castañas de Indias
+
+2145
+01:16:04,770 --> 01:16:06,160
+a intervalos se desgajan
+
+2146
+01:16:06,160 --> 01:16:08,170
+cubiertas de sus erizos;
+
+2147
+01:16:08,170 --> 01:16:09,940
+tiene el rosal rosas grana
+
+2148
+01:16:09,940 --> 01:16:11,770
+otra vez, y en las praderas
+
+2149
+01:16:11,770 --> 01:16:13,500
+brilla la alegre otoñada.
+
+2150
+01:16:13,500 --> 01:16:15,130
+En laderas y en alcores,
+
+2151
+01:16:15,130 --> 01:16:16,570
+en ribazos y cañadas,
+
+2152
+01:16:16,570 --> 01:16:18,400
+el verde nuevo y la hierba
+
+2153
+01:16:18,400 --> 01:16:19,850
+aún del estío quemada
+
+2154
+01:16:19,850 --> 01:16:21,790
+alternan; los serrijones
+
+2155
+01:16:21,790 --> 01:16:23,470
+pelados, las lomas calvas,
+
+2156
+01:16:23,470 --> 01:16:25,010
+se coronan de plomizas
+
+2157
+01:16:25,010 --> 01:16:26,320
+nubes apelotonadas;
+
+2158
+01:16:26,320 --> 01:16:27,960
+y bajo el pinar gigante,
+
+2159
+01:16:27,960 --> 01:16:29,390
+entre las marchitas zarzas
+
+2160
+01:16:29,390 --> 01:16:30,630
+y amarillentos helechos,
+
+2161
+01:16:30,630 --> 01:16:32,330
+corren las crecidas aguas
+
+2162
+01:16:32,330 --> 01:16:33,830
+a engrosar el padre río
+
+2163
+01:16:33,830 --> 01:16:36,060
+por canchales y barrancas.
+
+2164
+01:16:36,060 --> 01:16:37,670
+Abunda en la tierra un gris
+
+2165
+01:16:37,670 --> 01:16:39,060
+de plomo y azul de plata,
+
+2166
+01:16:39,060 --> 01:16:40,790
+con manchas de roja herrumbre,
+
+2167
+01:16:40,790 --> 01:16:42,760
+todo envuelto en luz violada.
+
+2168
+01:16:42,760 --> 01:16:45,000
+¡Oh tierras de Alvargonzález,
+
+2169
+01:16:45,000 --> 01:16:46,370
+en el corazón de España;
+
+2170
+01:16:46,370 --> 01:16:48,430
+tierras pobres, tierras tristes,
+
+2171
+01:16:48,430 --> 01:16:50,330
+tan tristes que tienen alma!
+
+2172
+01:16:50,330 --> 01:16:52,140
+Páramos que cruza el lobo
+
+2173
+01:16:52,140 --> 01:16:53,690
+aullando, a la luna clara,
+
+2174
+01:16:53,690 --> 01:16:55,650
+de bosque a bosque; baldíos
+
+2175
+01:16:55,650 --> 01:16:57,390
+llenos de peñas rodadas,
+
+2176
+01:16:57,390 --> 01:16:58,890
+donde, roída de buitres,
+
+2177
+01:16:58,890 --> 01:17:00,780
+brilla una osamenta blanca;
+
+2178
+01:17:00,780 --> 01:17:02,170
+pobres campos solitarios,
+
+2179
+01:17:02,170 --> 01:17:03,930
+sin caminos ni posadas;
+
+2180
+01:17:03,930 --> 01:17:05,530
+¡oh pobres campos malditos,
+
+2181
+01:17:05,530 --> 01:17:08,130
+pobres campos de mi patria!
+
+2182
+01:17:08,130 --> 01:17:10,950
+LA TIERRA
+
+2183
+01:17:10,950 --> 01:17:12,170
+Una mañana de otoño,
+
+2184
+01:17:12,170 --> 01:17:13,570
+cuando la tierra se labra,
+
+2185
+01:17:13,570 --> 01:17:15,050
+Juan y el indiano aparejan
+
+2186
+01:17:15,050 --> 01:17:16,770
+las dos yuntas de la casa.
+
+2187
+01:17:16,770 --> 01:17:18,080
+Martín se quedó en el huerto
+
+2188
+01:17:18,080 --> 01:17:19,880
+arrancando hierbas malas.
+
+2189
+01:17:19,880 --> 01:17:21,270
+Una mañana de otoño,
+
+2190
+01:17:21,270 --> 01:17:22,610
+cuando los campos se aran,
+
+2191
+01:17:22,610 --> 01:17:23,890
+sobre un otero, que tiene
+
+2192
+01:17:23,890 --> 01:17:25,170
+el cielo de la mañana
+
+2193
+01:17:25,170 --> 01:17:27,390
+por fondo, la parda yunta
+
+2194
+01:17:27,390 --> 01:17:28,880
+de Juan lentamente avanza.
+
+2195
+01:17:28,880 --> 01:17:30,810
+Cardos, lampazos y abrojos,
+
+2196
+01:17:30,810 --> 01:17:32,410
+avena loca y cizaña
+
+2197
+01:17:32,410 --> 01:17:33,750
+llenan la tierra maldita,
+
+2198
+01:17:33,750 --> 01:17:35,600
+tenaz a pico y escarda.
+
+2199
+01:17:35,600 --> 01:17:37,110
+Del corvo arado de roble
+
+2200
+01:17:37,110 --> 01:17:38,470
+la hundida reja trabaja
+
+2201
+01:17:38,470 --> 01:17:40,080
+con vano esfuerzo; parece
+
+2202
+01:17:40,080 --> 01:17:41,880
+que al par que hiende la entraña
+
+2203
+01:17:41,880 --> 01:17:43,250
+del campo y hace camino,
+
+2204
+01:17:43,250 --> 01:17:45,150
+se cierra otra vez la zanja.
+
+2205
+01:17:45,150 --> 01:17:47,090
+“Cuando el asesino labre,
+
+2206
+01:17:47,090 --> 01:17:48,630
+será su labor pesada;
+
+2207
+01:17:48,630 --> 01:17:50,150
+antes que un surco en la tierra,
+
+2208
+01:17:50,150 --> 01:17:52,190
+tendrá una arruga en su cara.”
+
+2209
+01:17:52,190 --> 01:17:54,070
+Martín, que estaba en la huerta
+
+2210
+01:17:54,070 --> 01:17:55,530
+cavando, sobre su azada
+
+2211
+01:17:55,530 --> 01:17:57,120
+quedó apoyado un momento;
+
+2212
+01:17:57,120 --> 01:17:58,530
+frío sudor le bañaba
+
+2213
+01:17:58,530 --> 01:17:59,110
+el rostro.
+
+2214
+01:17:59,110 --> 01:18:00,250
+Por el Oriente
+
+2215
+01:18:00,250 --> 01:18:01,820
+la Luna llena, manchada
+
+2216
+01:18:01,820 --> 01:18:03,210
+de un arrebol purpurino,
+
+2217
+01:18:03,210 --> 01:18:04,730
+lucía tras de la tapia
+
+2218
+01:18:04,730 --> 01:18:05,320
+del huerto.
+
+2219
+01:18:05,320 --> 01:18:06,530
+Miguel tenía
+
+2220
+01:18:06,530 --> 01:18:07,950
+la sangre de horror helada.
+
+2221
+01:18:07,950 --> 01:18:09,520
+La azada que hundió en la tierra,
+
+2222
+01:18:09,520 --> 01:18:10,880
+teñida de sangre estaba.
+
+2223
+01:18:10,880 --> 01:18:13,170
+En la tierra en que ha nacido
+
+2224
+01:18:13,170 --> 01:18:14,610
+supo afincar el indiano;
+
+2225
+01:18:14,610 --> 01:18:16,030
+por mujer a una doncella
+
+2226
+01:18:16,030 --> 01:18:17,770
+rica y hermosa ha tomado.
+
+2227
+01:18:17,770 --> 01:18:19,160
+La hacienda de Alvargonzález
+
+2228
+01:18:19,160 --> 01:18:20,660
+ya es suya, que sus hermanos
+
+2229
+01:18:20,660 --> 01:18:22,310
+todo le vendieron: casa,
+
+2230
+01:18:22,310 --> 01:18:24,840
+huerto, colmenar y campo.
+
+2231
+01:18:24,840 --> 01:18:26,880
+LOS ASESINOS
+
+2232
+01:18:26,880 --> 01:18:28,940
+Juan y Martín, los mayores
+
+2233
+01:18:28,940 --> 01:18:30,490
+de Alvargonzález, un día
+
+2234
+01:18:30,490 --> 01:18:31,920
+pesada marcha emprendieron,
+
+2235
+01:18:31,920 --> 01:18:33,280
+con el alba, Duero arriba.
+
+2236
+01:18:33,280 --> 01:18:34,880
+La estrella de la mañana
+
+2237
+01:18:34,880 --> 01:18:36,090
+en el alto azul ardía.
+
+2238
+01:18:36,090 --> 01:18:37,660
+Se iba tiñendo de rosa
+
+2239
+01:18:37,660 --> 01:18:39,420
+la espesa y blanca neblina
+
+2240
+01:18:39,420 --> 01:18:40,770
+de los valles y barrancos,
+
+2241
+01:18:40,770 --> 01:18:42,580
+y algunas nubes plomizas
+
+2242
+01:18:42,580 --> 01:18:44,190
+a Urbión, donde el Duero nace,
+
+2243
+01:18:44,190 --> 01:18:45,830
+como un turbante ponían.
+
+2244
+01:18:45,830 --> 01:18:47,520
+Se acercaban a la fuente.
+
+2245
+01:18:47,520 --> 01:18:48,720
+El agua clara corría
+
+2246
+01:18:48,720 --> 01:18:50,310
+sonando cual si contara
+
+2247
+01:18:50,310 --> 01:18:51,740
+una vieja historia dicha
+
+2248
+01:18:51,740 --> 01:18:53,490
+mil veces, y que tuviera
+
+2249
+01:18:53,490 --> 01:18:55,390
+mil veces que repetirla.
+
+2250
+01:18:55,390 --> 01:18:56,770
+Agua que corre en el campo
+
+2251
+01:18:56,770 --> 01:18:58,370
+dice en su monotonía:
+
+2252
+01:18:58,370 --> 01:18:59,950
+“Yo sé el crimen.
+
+2253
+01:18:59,950 --> 01:19:00,710
+¿No es un crimen,
+
+2254
+01:19:00,710 --> 01:19:02,970
+cerca del agua, la vida?”
+
+2255
+01:19:02,970 --> 01:19:04,350
+Al pasar los dos hermanos
+
+2256
+01:19:04,350 --> 01:19:05,770
+relataba el agua limpia:
+
+2257
+01:19:05,770 --> 01:19:07,490
+“A la vera de la fuente
+
+2258
+01:19:07,490 --> 01:19:09,400
+Alvargonzález dormía.”
+
+2259
+01:19:09,400 --> 01:19:11,110
+—Anoche, cuando volvía
+
+2260
+01:19:11,110 --> 01:19:12,970
+a casa—Juan a su hermano
+
+2261
+01:19:12,970 --> 01:19:14,660
+dijo—, a la luz de la Luna,
+
+2262
+01:19:14,660 --> 01:19:16,170
+era la huerta un milagro.
+
+2263
+01:19:16,170 --> 01:19:18,100
+Lejos, entre los rosales,
+
+2264
+01:19:18,100 --> 01:19:19,540
+divisé un hombre inclinado
+
+2265
+01:19:19,540 --> 01:19:21,240
+hacia la tierra; brillaba
+
+2266
+01:19:21,240 --> 01:19:22,890
+la hoz de plata en su mano.
+
+2267
+01:19:22,890 --> 01:19:24,710
+Después irguióse y, volviendo
+
+2268
+01:19:24,710 --> 01:19:26,180
+el rostro, dio algunos pasos
+
+2269
+01:19:26,180 --> 01:19:27,530
+por el huerto, sin mirarme,
+
+2270
+01:19:27,530 --> 01:19:29,160
+y a poco lo vi encorvado
+
+2271
+01:19:29,160 --> 01:19:30,430
+otra vez sobre la tierra.
+
+2272
+01:19:30,430 --> 01:19:32,180
+Tenía el cabello blanco.
+
+2273
+01:19:32,180 --> 01:19:33,650
+La Luna llena brillaba,
+
+2274
+01:19:33,650 --> 01:19:35,430
+y era la huerta un milagro.
+
+2275
+01:19:35,430 --> 01:19:37,250
+Pasado habían el puerto
+
+2276
+01:19:37,250 --> 01:19:39,030
+de Santa Inés, ya mediada
+
+2277
+01:19:39,030 --> 01:19:40,850
+la tarde, una tarde triste
+
+2278
+01:19:40,850 --> 01:19:43,020
+de Noviembre, fría y parda.
+
+2279
+01:19:43,020 --> 01:19:44,030
+Hacia la Laguna Negra
+
+2280
+01:19:44,030 --> 01:19:45,630
+silenciosos caminaban.
+
+2281
+01:19:45,630 --> 01:19:47,330
+Cuando la tarde caía,
+
+2282
+01:19:47,330 --> 01:19:48,750
+entre las vetustas hayas
+
+2283
+01:19:48,750 --> 01:19:50,430
+y los pinos centenarios,
+
+2284
+01:19:50,430 --> 01:19:52,230
+un rojo sol se filtraba.
+
+2285
+01:19:52,230 --> 01:19:53,810
+Era un paraje de bosque
+
+2286
+01:19:53,810 --> 01:19:55,470
+y peñas aborrascadas;
+
+2287
+01:19:55,470 --> 01:19:56,860
+aquí bocas que bostezan
+
+2288
+01:19:56,860 --> 01:19:58,610
+o monstruos de fieras garras;
+
+2289
+01:19:58,610 --> 01:20:00,120
+allí una informe joroba,
+
+2290
+01:20:00,120 --> 01:20:01,630
+allá una grotesca panza;
+
+2291
+01:20:01,630 --> 01:20:03,430
+torvos hocicos de fieras
+
+2292
+01:20:03,430 --> 01:20:05,060
+y dentaduras melladas;
+
+2293
+01:20:05,060 --> 01:20:06,760
+rocas y rocas, y troncos
+
+2294
+01:20:06,760 --> 01:20:08,750
+y troncos, ramas y ramas.
+
+2295
+01:20:08,750 --> 01:20:10,190
+En el hondón del barranco
+
+2296
+01:20:10,190 --> 01:20:12,380
+la noche, el miedo y el agua.
+
+2297
+01:20:12,380 --> 01:20:14,370
+Un lobo surgió; sus ojos
+
+2298
+01:20:14,370 --> 01:20:16,020
+lucían como dos ascuas.
+
+2299
+01:20:16,020 --> 01:20:17,300
+Era la noche, una noche
+
+2300
+01:20:17,300 --> 01:20:19,190
+húmeda, obscura y cerrada.
+
+2301
+01:20:19,190 --> 01:20:20,490
+Los dos hermanos quisieron
+
+2302
+01:20:20,490 --> 01:20:21,050
+volver.
+
+2303
+01:20:21,050 --> 01:20:22,280
+La selva ululaba.
+
+2304
+01:20:22,280 --> 01:20:23,850
+Cien ojos fieros ardían
+
+2305
+01:20:23,850 --> 01:20:25,840
+en la selva, a sus espaldas.
+
+2306
+01:20:25,840 --> 01:20:27,310
+Llegaron los asesinos
+
+2307
+01:20:27,310 --> 01:20:28,720
+hasta la Laguna Negra;
+
+2308
+01:20:28,720 --> 01:20:30,350
+agua transparente y muda,
+
+2309
+01:20:30,350 --> 01:20:31,790
+que enorme muro de piedra,
+
+2310
+01:20:31,790 --> 01:20:33,410
+donde los buitres anidan
+
+2311
+01:20:33,410 --> 01:20:35,120
+y el eco duerme, rodea;
+
+2312
+01:20:35,120 --> 01:20:36,740
+agua clara donde beben
+
+2313
+01:20:36,740 --> 01:20:38,430
+las águilas de la sierra,
+
+2314
+01:20:38,430 --> 01:20:40,050
+donde el jabalí del monte
+
+2315
+01:20:40,050 --> 01:20:41,950
+y el ciervo y el corzo abrevan;
+
+2316
+01:20:41,950 --> 01:20:43,270
+agua pura y silenciosa,
+
+2317
+01:20:43,270 --> 01:20:45,110
+que copia cosas eternas;
+
+2318
+01:20:45,110 --> 01:20:46,390
+agua impasible, que guarda
+
+2319
+01:20:46,390 --> 01:20:48,420
+en su seno las estrellas.
+
+2320
+01:20:48,420 --> 01:20:50,530
+—¡Padre!—gritaron; al fondo
+
+2321
+01:20:50,530 --> 01:20:51,780
+de la laguna serena
+
+2322
+01:20:51,780 --> 01:20:54,300
+cayeron, y el eco, “¡Padre!”
+
+2323
+01:20:54,300 --> 01:20:57,090
+repitió de peña en peña.
+
+2324
+01:20:57,090 --> 01:21:00,960
+Fin
+del
+Capítulo diez
+
+2325
+01:21:06,360 --> 01:21:10,210
+﻿Capítulo once
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+2326
+01:21:10,210 --> 01:21:14,370
+Esta grabación de LibriVox está en el dominio público.
+
+2327
+01:21:14,370 --> 01:21:17,100
+PROVERBIOS Y CANTARES
+
+2328
+01:21:17,100 --> 01:21:19,350
+¿Para qué llamar caminos
+
+2329
+01:21:19,350 --> 01:21:20,930
+a los surcos del azar?...
+
+2330
+01:21:20,930 --> 01:21:22,650
+Todo el que camina, anda
+
+2331
+01:21:22,650 --> 01:21:24,820
+como Jesús sobre el mar.
+
+2332
+01:21:24,820 --> 01:21:27,230
+A quien nos justifica nuestra desconfianza
+
+2333
+01:21:27,230 --> 01:21:30,210
+llamamos enemigo, ladrón de una esperanza.
+
+2334
+01:21:30,210 --> 01:21:32,970
+Jamás perdona el necio si ve la nuez vacía
+
+2335
+01:21:32,970 --> 01:21:35,990
+que dio a cascar al diente de la sabiduría.
+
+2336
+01:21:35,990 --> 01:21:38,110
+¡Ojos que a la luz se abrieron
+
+2337
+01:21:38,110 --> 01:21:39,760
+un día, para, después,
+
+2338
+01:21:39,760 --> 01:21:41,330
+ciegos tornar a la tierra,
+
+2339
+01:21:41,330 --> 01:21:42,880
+hartos de mirar sin ver!
+
+2340
+01:21:42,880 --> 01:21:45,120
+Es el mejor de los buenos
+
+2341
+01:21:45,120 --> 01:21:46,590
+quien sabe que en esta vida
+
+2342
+01:21:46,590 --> 01:21:48,200
+todo es cuestión de medida:
+
+2343
+01:21:48,200 --> 01:21:50,440
+un poco más, algo menos...
+
+2344
+01:21:50,440 --> 01:21:52,190
+Ayer soñé que veía
+
+2345
+01:21:52,190 --> 01:21:53,890
+a Dios y que a Dios hablaba;
+
+2346
+01:21:53,890 --> 01:21:55,310
+y soñé que Dios me oía...
+
+2347
+01:21:55,310 --> 01:21:57,840
+Después soñé que soñaba.
+
+2348
+01:21:57,840 --> 01:21:59,970
+Luz del alma, luz divina,
+
+2349
+01:21:59,970 --> 01:22:02,240
+faro, antorcha, estrella, sol...
+
+2350
+01:22:02,240 --> 01:22:03,900
+Un hombre a tientas camina;
+
+2351
+01:22:03,900 --> 01:22:06,150
+lleva a la espalda un farol.
+
+2352
+01:22:06,150 --> 01:22:08,090
+Todo hombre tiene dos
+
+2353
+01:22:08,090 --> 01:22:09,400
+batallas que pelear:
+
+2354
+01:22:09,400 --> 01:22:11,030
+en sueños lucha con Dios,
+
+2355
+01:22:11,030 --> 01:22:13,140
+y despierto, con el mar.
+
+2356
+01:22:13,140 --> 01:22:15,050
+Moneda que está en la mano
+
+2357
+01:22:15,050 --> 01:22:16,280
+quizás se deba guardar;
+
+2358
+01:22:16,280 --> 01:22:17,950
+pero lo que está en el alma,
+
+2359
+01:22:17,950 --> 01:22:19,790
+se pierde si no se da.
+
+2360
+01:22:19,790 --> 01:22:22,050
+¿Dices que nada se pierde?
+
+2361
+01:22:22,050 --> 01:22:23,590
+Si esta copa de cristal
+
+2362
+01:22:23,590 --> 01:22:25,570
+se me rompe, nunca en ella
+
+2363
+01:22:25,570 --> 01:22:27,630
+beberé, nunca jamás.
+
+2364
+01:22:27,630 --> 01:22:29,710
+Dices que nada se pierde,
+
+2365
+01:22:29,710 --> 01:22:31,270
+y acaso dices verdad;
+
+2366
+01:22:31,270 --> 01:22:32,530
+pero todo lo perdemos,
+
+2367
+01:22:32,530 --> 01:22:34,380
+y todo nos perderá.
+
+2368
+01:22:34,380 --> 01:22:36,320
+Todo pasa y todo queda;
+
+2369
+01:22:36,320 --> 01:22:37,910
+pero lo nuestro es pasar,
+
+2370
+01:22:37,910 --> 01:22:39,440
+pasar haciendo caminos,
+
+2371
+01:22:39,440 --> 01:22:41,340
+caminos sobre la mar.
+
+2372
+01:22:41,340 --> 01:22:43,100
+Anoche soñé que oía
+
+2373
+01:22:43,100 --> 01:22:44,840
+a Dios gritándome: “¡Alerta!”
+
+2374
+01:22:44,840 --> 01:22:46,650
+Luego era Dios quien dormía,
+
+2375
+01:22:46,650 --> 01:22:49,020
+y yo gritaba: “¡Despierta!”
+
+2376
+01:22:49,020 --> 01:22:52,400
+Dios no es el mar, está en el mar; riela
+
+2377
+01:22:52,400 --> 01:22:54,530
+como luna en el agua, o aparece
+
+2378
+01:22:54,530 --> 01:22:55,780
+como una blanca vela;
+
+2379
+01:22:55,780 --> 01:22:58,340
+en el mar se despierta o se adormece.
+
+2380
+01:22:58,340 --> 01:22:59,980
+Creó la mar, y nace
+
+2381
+01:22:59,980 --> 01:23:01,990
+de la mar cual la nube y la tormenta;
+
+2382
+01:23:01,990 --> 01:23:04,520
+es el Creador, y la criatura lo hace;
+
+2383
+01:23:04,520 --> 01:23:07,410
+su aliento es alma, y por el alma alienta.
+
+2384
+01:23:07,410 --> 01:23:10,380
+Yo he de hacerte, mi Dios, cual tú me hiciste,
+
+2385
+01:23:10,380 --> 01:23:12,550
+y para darte el alma que me diste,
+
+2386
+01:23:12,550 --> 01:23:13,780
+en mí te he de crear.
+
+2387
+01:23:13,780 --> 01:23:15,000
+Que el puro río
+
+2388
+01:23:15,000 --> 01:23:16,920
+de caridad que fluye eternamente,
+
+2389
+01:23:16,920 --> 01:23:18,090
+fluya en mi corazón.
+
+2390
+01:23:18,090 --> 01:23:20,160
+¡Seca, Dios mío,
+
+2391
+01:23:20,160 --> 01:23:23,620
+de una fe sin amor la turbia fuente!
+
+2392
+01:23:23,620 --> 01:23:25,930
+El demonio de mis sueños
+
+2393
+01:23:25,930 --> 01:23:27,370
+ríe con sus labios rojos,
+
+2394
+01:23:27,370 --> 01:23:29,250
+sus negros y vivos ojos,
+
+2395
+01:23:29,250 --> 01:23:31,360
+sus dientes finos, pequeños.
+
+2396
+01:23:31,360 --> 01:23:32,690
+Y, jovial y picaresco,
+
+2397
+01:23:32,690 --> 01:23:34,390
+se lanza a un baile grotesco,
+
+2398
+01:23:34,390 --> 01:23:36,140
+luciendo el cuerpo deforme
+
+2399
+01:23:36,140 --> 01:23:37,030
+y su enorme
+
+2400
+01:23:37,030 --> 01:23:37,460
+joroba.
+
+2401
+01:23:37,460 --> 01:23:38,990
+Es feo y barbudo
+
+2402
+01:23:38,990 --> 01:23:40,870
+y chiquitín y panzudo.
+
+2403
+01:23:40,870 --> 01:23:42,310
+Yo no sé por qué razón,
+
+2404
+01:23:42,310 --> 01:23:43,920
+de mi tragedia, bufón,
+
+2405
+01:23:43,920 --> 01:23:44,820
+te ríes...
+
+2406
+01:23:44,820 --> 01:23:45,650
+Mas tú eres vivo
+
+2407
+01:23:45,650 --> 01:23:48,380
+por tu danzar sin motivo.
+
+2408
+01:23:49,580 --> 01:23:50,510
+VIAJE
+
+2409
+01:23:50,510 --> 01:23:52,900
+A D. Julio Cejador.
+
+2410
+01:23:52,900 --> 01:23:54,970
+Ya en los campos de Jaén,
+
+2411
+01:23:54,970 --> 01:23:55,630
+amanece.
+
+2412
+01:23:55,630 --> 01:23:56,600
+Corre el tren
+
+2413
+01:23:56,600 --> 01:23:58,250
+por sus brillantes rieles,
+
+2414
+01:23:58,250 --> 01:23:59,520
+devorando matorrales,
+
+2415
+01:23:59,520 --> 01:24:00,630
+alcaceles,
+
+2416
+01:24:00,630 --> 01:24:02,310
+terraplenes, pedregales,
+
+2417
+01:24:02,310 --> 01:24:03,850
+olivares, caseríos,
+
+2418
+01:24:03,850 --> 01:24:05,610
+praderas y cardizales,
+
+2419
+01:24:05,610 --> 01:24:07,260
+montes y valles sombríos.
+
+2420
+01:24:07,260 --> 01:24:08,670
+Tras la turbia ventanilla,
+
+2421
+01:24:08,670 --> 01:24:09,960
+pasa la devanadera
+
+2422
+01:24:09,960 --> 01:24:11,420
+del campo de primavera.
+
+2423
+01:24:11,420 --> 01:24:13,160
+La luz en el techo brilla
+
+2424
+01:24:13,160 --> 01:24:14,690
+de mi vagón de tercera.
+
+2425
+01:24:14,690 --> 01:24:16,230
+Entre nubarrones blancos,
+
+2426
+01:24:16,230 --> 01:24:16,950
+oro y grana,
+
+2427
+01:24:16,950 --> 01:24:18,700
+la niebla de la mañana
+
+2428
+01:24:18,700 --> 01:24:20,240
+va huyendo por los barrancos.
+
+2429
+01:24:20,240 --> 01:24:22,100
+¡Este insomne sueño mío!
+
+2430
+01:24:22,100 --> 01:24:22,800
+¡Este frío
+
+2431
+01:24:22,800 --> 01:24:24,320
+de un amanecer en vela!...
+
+2432
+01:24:24,320 --> 01:24:25,310
+Resonante,
+
+2433
+01:24:25,310 --> 01:24:26,170
+jadeante,
+
+2434
+01:24:26,170 --> 01:24:26,750
+marcha el tren.
+
+2435
+01:24:26,750 --> 01:24:27,920
+El campo vuela.
+
+2436
+01:24:27,920 --> 01:24:29,850
+Enfrente de mí, un señor
+
+2437
+01:24:29,850 --> 01:24:31,480
+sobre su manta dormido;
+
+2438
+01:24:31,480 --> 01:24:33,020
+un fraile y un cazador,
+
+2439
+01:24:33,020 --> 01:24:34,880
+el perro a sus pies tendido.
+
+2440
+01:24:34,880 --> 01:24:36,880
+Yo contemplo mi equipaje,
+
+2441
+01:24:36,880 --> 01:24:38,080
+mi viejo saco de cuero,
+
+2442
+01:24:38,080 --> 01:24:39,950
+y recuerdo otro viaje
+
+2443
+01:24:39,950 --> 01:24:41,590
+hacia las tierras del Duero.
+
+2444
+01:24:41,590 --> 01:24:42,920
+Otro viaje de ayer
+
+2445
+01:24:42,920 --> 01:24:44,490
+por la tierra castellana...
+
+2446
+01:24:44,490 --> 01:24:45,940
+¡Pinos del amanecer,
+
+2447
+01:24:45,940 --> 01:24:47,760
+entre Almazán y Quintana!...
+
+2448
+01:24:47,760 --> 01:24:48,900
+¡Y alegría
+
+2449
+01:24:48,900 --> 01:24:50,550
+de un viajar en compañía!
+
+2450
+01:24:50,550 --> 01:24:51,230
+¡Y la unión
+
+2451
+01:24:51,230 --> 01:24:52,970
+que ha roto la muerte un día!
+
+2452
+01:24:52,970 --> 01:24:53,930
+¡Mano fría
+
+2453
+01:24:53,930 --> 01:24:55,330
+que aprietas mi corazón!
+
+2454
+01:24:55,330 --> 01:24:57,890
+Tren, camina, silba, humea;
+
+2455
+01:24:57,890 --> 01:24:58,690
+acarrea
+
+2456
+01:24:58,690 --> 01:25:00,160
+tu ejército de vagones;
+
+2457
+01:25:00,160 --> 01:25:00,950
+ajetrea
+
+2458
+01:25:00,950 --> 01:25:02,710
+maletas y corazones.
+
+2459
+01:25:02,710 --> 01:25:03,480
+Soledad,
+
+2460
+01:25:03,480 --> 01:25:04,310
+sequedad.
+
+2461
+01:25:04,310 --> 01:25:05,690
+Tan pobre me estoy quedando,
+
+2462
+01:25:05,690 --> 01:25:07,140
+que ya ni siquiera estoy
+
+2463
+01:25:07,140 --> 01:25:08,720
+conmigo, ni sé si voy
+
+2464
+01:25:08,720 --> 01:25:11,620
+conmigo a solas viajando.
+
+2465
+01:25:12,740 --> 01:25:14,790
+MARIPOSA DE LA SIERRA
+
+2466
+01:25:14,790 --> 01:25:17,110
+¿No eres tú, mariposa,
+
+2467
+01:25:17,110 --> 01:25:19,300
+el alma de estas sierras solitarias,
+
+2468
+01:25:19,300 --> 01:25:20,590
+de sus barrancos hondos
+
+2469
+01:25:20,590 --> 01:25:21,890
+y de sus cumbres bravas?
+
+2470
+01:25:21,890 --> 01:25:23,380
+Para que tú nacieras,
+
+2471
+01:25:23,380 --> 01:25:24,680
+con su varita mágica
+
+2472
+01:25:24,680 --> 01:25:26,830
+a las tormentas de la piedra un día
+
+2473
+01:25:26,830 --> 01:25:28,130
+mandó callar un hada,
+
+2474
+01:25:28,130 --> 01:25:29,530
+y encadenó los montes
+
+2475
+01:25:29,530 --> 01:25:31,060
+para que tú volaras.
+
+2476
+01:25:31,060 --> 01:25:32,310
+¡Anaranjada y negra,
+
+2477
+01:25:32,310 --> 01:25:33,570
+morenita y dorada,
+
+2478
+01:25:33,570 --> 01:25:36,230
+mariposa montés, sobre el romero
+
+2479
+01:25:36,230 --> 01:25:38,750
+plegadas las alillas, o, voltarias,
+
+2480
+01:25:38,750 --> 01:25:40,590
+jugando con el sol, o sobre un rayo
+
+2481
+01:25:40,590 --> 01:25:42,280
+de sol crucificadas!...
+
+2482
+01:25:42,280 --> 01:25:44,240
+¡Mariposa montés y campesina,
+
+2483
+01:25:44,240 --> 01:25:45,620
+mariposa serrana,
+
+2484
+01:25:45,620 --> 01:25:48,200
+nadie ha pintado tu color; tú vives,
+
+2485
+01:25:48,200 --> 01:25:49,660
+tu color y tus alas,
+
+2486
+01:25:49,660 --> 01:25:52,160
+en el aire, en el sol, sobre el romero,
+
+2487
+01:25:52,160 --> 01:25:53,670
+tan libre, tan salada!...
+
+2488
+01:25:53,670 --> 01:25:55,240
+Que Juan Ramón Jiménez
+
+2489
+01:25:55,240 --> 01:25:57,980
+pulse por ti su lira franciscana.
+
+2490
+01:25:57,980 --> 01:26:02,480
+Sierra de Cazorla, Mayo de 1915.
+
+2491
+01:26:03,860 --> 01:26:05,290
+LAS ENCINAS
+
+2492
+01:26:05,290 --> 01:26:10,150
+A los señores de Masriera, en recuerdo de una expedición al Pardo.
+
+2493
+01:26:10,150 --> 01:26:12,550
+Encinares castellanos
+
+2494
+01:26:12,550 --> 01:26:14,260
+en alcores y altozanos,
+
+2495
+01:26:14,260 --> 01:26:15,570
+serrijones y colinas
+
+2496
+01:26:15,570 --> 01:26:17,210
+llenos de obscura maleza;
+
+2497
+01:26:17,210 --> 01:26:18,940
+encinas, pardas encinas
+
+2498
+01:26:18,940 --> 01:26:20,280
+—humildad y fortaleza,—
+
+2499
+01:26:20,280 --> 01:26:22,140
+mientras que llenándoos va
+
+2500
+01:26:22,140 --> 01:26:23,850
+el hacha de calvijares,
+
+2501
+01:26:23,850 --> 01:26:25,130
+¿nadie cantaros sabrá,
+
+2502
+01:26:25,130 --> 01:26:26,390
+encinares?
+
+2503
+01:26:26,390 --> 01:26:28,450
+El roble es la guerra; el roble
+
+2504
+01:26:28,450 --> 01:26:30,150
+dice el valor y el coraje,
+
+2505
+01:26:30,150 --> 01:26:31,200
+rabia inmoble,
+
+2506
+01:26:31,200 --> 01:26:32,810
+con su torcido ramaje;
+
+2507
+01:26:32,810 --> 01:26:33,730
+y es más rudo
+
+2508
+01:26:33,730 --> 01:26:35,890
+que la encina y más nervudo;
+
+2509
+01:26:35,890 --> 01:26:37,330
+el alto roble parece
+
+2510
+01:26:37,330 --> 01:26:39,000
+que recalca y ennudece
+
+2511
+01:26:39,000 --> 01:26:40,550
+su robustez como atleta
+
+2512
+01:26:40,550 --> 01:26:42,860
+que, erguido, afinca en el suelo.
+
+2513
+01:26:42,860 --> 01:26:45,150
+El pino es el mar y el cielo
+
+2514
+01:26:45,150 --> 01:26:47,300
+y la montaña: el planeta.
+
+2515
+01:26:47,300 --> 01:26:48,830
+La palmera es el desierto,
+
+2516
+01:26:48,830 --> 01:26:50,190
+el sol y la lejanía:
+
+2517
+01:26:50,190 --> 01:26:52,280
+la sed, una fuente fría
+
+2518
+01:26:52,280 --> 01:26:54,300
+soñada en el campo muerto.
+
+2519
+01:26:54,300 --> 01:26:56,040
+Las hayas son la leyenda.
+
+2520
+01:26:56,040 --> 01:26:57,890
+Alguien en las viejas hayas
+
+2521
+01:26:57,890 --> 01:26:59,170
+leía una historia horrenda
+
+2522
+01:26:59,170 --> 01:27:00,790
+de crímenes y batallas.
+
+2523
+01:27:00,790 --> 01:27:02,050
+¿Quién ha visto, sin temblar,
+
+2524
+01:27:02,050 --> 01:27:03,390
+un hayedo en un pinar?
+
+2525
+01:27:03,390 --> 01:27:05,060
+Los chopos son la ribera;
+
+2526
+01:27:05,060 --> 01:27:06,460
+liras de la primavera,
+
+2527
+01:27:06,460 --> 01:27:08,190
+cerca del agua que fluye,
+
+2528
+01:27:08,190 --> 01:27:09,090
+pasa y huye
+
+2529
+01:27:09,090 --> 01:27:09,890
+viva o lenta,
+
+2530
+01:27:09,890 --> 01:27:11,810
+que se emboca, turbulenta,
+
+2531
+01:27:11,810 --> 01:27:13,580
+o en remanso se dilata;
+
+2532
+01:27:13,580 --> 01:27:15,050
+en su eterno escalofrío
+
+2533
+01:27:15,050 --> 01:27:16,540
+copian el agua del río,
+
+2534
+01:27:16,540 --> 01:27:18,760
+que fluye en ondas de plata.
+
+2535
+01:27:18,760 --> 01:27:21,020
+De los parques las olmedas
+
+2536
+01:27:21,020 --> 01:27:22,520
+son las buenas arboledas
+
+2537
+01:27:22,520 --> 01:27:23,720
+que nos han visto jugar
+
+2538
+01:27:23,720 --> 01:27:25,530
+cuando eran nuestros cabellos
+
+2539
+01:27:25,530 --> 01:27:27,230
+rubios, y con nieve en ellos
+
+2540
+01:27:27,230 --> 01:27:28,460
+nos han de ver meditar.
+
+2541
+01:27:28,460 --> 01:27:30,060
+Tiene el manzano el rubor
+
+2542
+01:27:30,060 --> 01:27:30,880
+de su poma;
+
+2543
+01:27:30,880 --> 01:27:32,150
+el eucalipto el aroma
+
+2544
+01:27:32,150 --> 01:27:33,950
+de sus hojas; de su flor
+
+2545
+01:27:33,950 --> 01:27:35,680
+el naranjo la fragancia;
+
+2546
+01:27:35,680 --> 01:27:36,460
+y es del huerto
+
+2547
+01:27:36,460 --> 01:27:37,250
+la elegancia
+
+2548
+01:27:37,250 --> 01:27:38,880
+el ciprés obscuro y yerto.
+
+2549
+01:27:38,880 --> 01:27:40,890
+¿Qué tienes tú, negra encina
+
+2550
+01:27:40,890 --> 01:27:41,640
+campesina,
+
+2551
+01:27:41,640 --> 01:27:43,120
+con tus ramas sin color
+
+2552
+01:27:43,120 --> 01:27:44,740
+en el campo sin verdor,
+
+2553
+01:27:44,740 --> 01:27:46,240
+con tu tronco ceniciento
+
+2554
+01:27:46,240 --> 01:27:48,670
+sin esbeltez ni altiveza,
+
+2555
+01:27:48,670 --> 01:27:50,080
+con tu vigor sin tormento
+
+2556
+01:27:50,080 --> 01:27:51,610
+y tu humildad, que es firmeza?
+
+2557
+01:27:51,610 --> 01:27:53,580
+En tu copa ancha y redonda
+
+2558
+01:27:53,580 --> 01:27:54,210
+nada brilla:
+
+2559
+01:27:54,210 --> 01:27:55,970
+ni tu verde obscura fronda,
+
+2560
+01:27:55,970 --> 01:27:57,770
+ni tu flor verdiamarilla.
+
+2561
+01:27:57,770 --> 01:27:59,230
+Nada es lindo ni arrogante
+
+2562
+01:27:59,230 --> 01:28:00,890
+en tu porte, ni guerrero,
+
+2563
+01:28:00,890 --> 01:28:01,660
+nada fiero
+
+2564
+01:28:01,660 --> 01:28:03,390
+que aderece su talante.
+
+2565
+01:28:03,390 --> 01:28:05,150
+Brotas derecha o torcida,
+
+2566
+01:28:05,150 --> 01:28:06,490
+con esa bondad que cede
+
+2567
+01:28:06,490 --> 01:28:08,140
+sólo a la ley de la vida,
+
+2568
+01:28:08,140 --> 01:28:09,550
+que es vivir como se puede.
+
+2569
+01:28:09,550 --> 01:28:11,550
+El campo mismo se hizo
+
+2570
+01:28:11,550 --> 01:28:13,410
+árbol en ti, parda encina.
+
+2571
+01:28:13,410 --> 01:28:15,390
+Ya contra el hielo invernizo,
+
+2572
+01:28:15,390 --> 01:28:16,790
+o bajo el sol que calcina,
+
+2573
+01:28:16,790 --> 01:28:18,600
+y el bochorno y la borrasca,
+
+2574
+01:28:18,600 --> 01:28:20,110
+el Agosto y el Enero,
+
+2575
+01:28:20,110 --> 01:28:21,590
+los copos de la nevasca,
+
+2576
+01:28:21,590 --> 01:28:22,860
+los hilos del aguacero,
+
+2577
+01:28:22,860 --> 01:28:24,670
+siempre firme, siempre igual,
+
+2578
+01:28:24,670 --> 01:28:26,350
+dócil, impasible y buena,
+
+2579
+01:28:26,350 --> 01:28:28,100
+¡oh tú, robusta y serena,
+
+2580
+01:28:28,100 --> 01:28:29,820
+oh casta encina rural!
+
+2581
+01:28:29,820 --> 01:28:31,160
+¡Oh los negros encinares
+
+2582
+01:28:31,160 --> 01:28:32,470
+de la raya aragonesa
+
+2583
+01:28:32,470 --> 01:28:33,940
+y las crestas militares
+
+2584
+01:28:33,940 --> 01:28:35,610
+de la tierra pamplonesa!
+
+2585
+01:28:35,610 --> 01:28:36,910
+¡Encinas de Extremadura,
+
+2586
+01:28:36,910 --> 01:28:38,590
+de Castilla, que hizo a España;
+
+2587
+01:28:38,590 --> 01:28:39,870
+encinas de la llanura,
+
+2588
+01:28:39,870 --> 01:28:41,750
+del cerro y de la montaña;
+
+2589
+01:28:41,750 --> 01:28:43,290
+encinas del alto llano
+
+2590
+01:28:43,290 --> 01:28:44,720
+que el joven Duero rodea,
+
+2591
+01:28:44,720 --> 01:28:46,860
+y del Tajo, que serpea
+
+2592
+01:28:46,860 --> 01:28:48,380
+por el suelo toledano!
+
+2593
+01:28:48,380 --> 01:28:50,090
+¡Encinas de junto al mar,
+
+2594
+01:28:50,090 --> 01:28:52,130
+en Santander; encinar
+
+2595
+01:28:52,130 --> 01:28:53,430
+que pones tu nota arisca,
+
+2596
+01:28:53,430 --> 01:28:54,740
+como un castellano ceño,
+
+2597
+01:28:54,740 --> 01:28:56,460
+en Córdoba la morisca;
+
+2598
+01:28:56,460 --> 01:28:58,100
+y tú, encinar madrileño,
+
+2599
+01:28:58,100 --> 01:28:59,890
+tan hermoso y tan sombrío,
+
+2600
+01:28:59,890 --> 01:29:01,180
+bajo el Guadarrama frío,
+
+2601
+01:29:01,180 --> 01:29:02,980
+con tu adustez castellana
+
+2602
+01:29:02,980 --> 01:29:05,240
+corrigiendo la vanidad y el atuendo
+
+2603
+01:29:05,240 --> 01:29:07,130
+y la hetiquez cortesana!...
+
+2604
+01:29:07,130 --> 01:29:08,530
+Ya sé, encinas
+
+2605
+01:29:08,530 --> 01:29:09,330
+campesinas,
+
+2606
+01:29:09,330 --> 01:29:11,070
+que os pintaron, con lebreles
+
+2607
+01:29:11,070 --> 01:29:12,490
+elegantes y corceles,
+
+2608
+01:29:12,490 --> 01:29:14,360
+los más egregios pinceles;
+
+2609
+01:29:14,360 --> 01:29:15,770
+que os cantaron los poetas
+
+2610
+01:29:15,770 --> 01:29:16,490
+augustales;
+
+2611
+01:29:16,490 --> 01:29:18,290
+que os asordan escopetas
+
+2612
+01:29:18,290 --> 01:29:19,880
+de cazadores reales;
+
+2613
+01:29:19,880 --> 01:29:21,210
+mas sois el campo y el lar
+
+2614
+01:29:21,210 --> 01:29:22,520
+y la sombra tutelar
+
+2615
+01:29:22,520 --> 01:29:24,210
+de los buenos aldeanos
+
+2616
+01:29:24,210 --> 01:29:25,630
+que visten parda estameña
+
+2617
+01:29:25,630 --> 01:29:27,420
+y que cortan vuestra leña
+
+2618
+01:29:27,420 --> 01:29:28,930
+con sus manos.
+
+2619
+01:29:28,930 --> 01:29:32,360
+Fin
+del
+Capítulo once
+
+2620
+01:29:37,860 --> 01:29:42,120
+﻿Capítulo doce
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+2621
+01:29:42,120 --> 01:29:45,660
+Esta grabación de LibriVox está en el dominio público.
+
+2622
+01:29:45,660 --> 01:29:47,470
+RETRATO
+
+2623
+01:29:47,470 --> 01:29:50,630
+Mi infancia son recuerdos de un patio de Sevilla
+
+2624
+01:29:50,630 --> 01:29:53,210
+y un huerto claro donde madura el limonero;
+
+2625
+01:29:53,210 --> 01:29:55,960
+mi juventud, veinte años en tierra de Castilla;
+
+2626
+01:29:55,960 --> 01:29:58,730
+mi historia, algunos casos que recordar no quiero.
+
+2627
+01:29:58,730 --> 01:30:01,990
+Ni un seductor Mañara ni un Bradomín he sido
+
+2628
+01:30:01,990 --> 01:30:05,130
+—ya conocéis mi torpe aliño indumentario;—
+
+2629
+01:30:05,130 --> 01:30:07,520
+mas recibí la flecha que me asignó Cupido,
+
+2630
+01:30:07,520 --> 01:30:10,590
+y amé cuanto ellas pueden tener de hospitalario.
+
+2631
+01:30:10,590 --> 01:30:13,490
+Hay en mis venas gotas de sangre jacobina;
+
+2632
+01:30:13,490 --> 01:30:15,880
+pero mi verso brota de manantial sereno;
+
+2633
+01:30:15,880 --> 01:30:18,660
+y, más que un hombre al uso que sabe su doctrina,
+
+2634
+01:30:18,660 --> 01:30:21,880
+soy, en el buen sentido de la palabra, bueno.
+
+2635
+01:30:21,880 --> 01:30:24,670
+Adoro la hermosura, y en la moderna estética
+
+2636
+01:30:24,670 --> 01:30:27,550
+corté las viejas rosas del huerto de Ronsard;
+
+2637
+01:30:27,550 --> 01:30:30,600
+mas no amo los afeites de la actual cosmética,
+
+2638
+01:30:30,600 --> 01:30:33,060
+ni soy un ave de esas del nuevo gay-trinar.
+
+2639
+01:30:33,060 --> 01:30:36,010
+Desdeño las romanzas de los tenores huecos
+
+2640
+01:30:36,010 --> 01:30:38,160
+y el coro de los grillos que cantan a la Luna.
+
+2641
+01:30:38,160 --> 01:30:41,000
+A distinguir me paro las voces de los ecos,
+
+2642
+01:30:41,000 --> 01:30:43,660
+y escucho solamente, entre las voces, una.
+
+2643
+01:30:43,660 --> 01:30:45,800
+¿Soy clásico, o romántico?
+
+2644
+01:30:45,800 --> 01:30:46,420
+No sé.
+
+2645
+01:30:46,420 --> 01:30:47,450
+Dejar quisiera
+
+2646
+01:30:47,450 --> 01:30:49,980
+mi verso como deja el capitán su espada,
+
+2647
+01:30:49,980 --> 01:30:52,970
+famosa por la mano viril que la blandiera,
+
+2648
+01:30:52,970 --> 01:30:56,120
+no por el docto oficio del forjador preciada.
+
+2649
+01:30:56,120 --> 01:30:59,020
+Converso con el hombre que siempre va conmigo
+
+2650
+01:30:59,020 --> 01:31:01,880
+—quien habla solo, espera hablar a Dios un día;—
+
+2651
+01:31:01,880 --> 01:31:04,920
+mi soliloquio es plática con este buen amigo
+
+2652
+01:31:04,920 --> 01:31:07,810
+que me enseñó el secreto de la filantropía.
+
+2653
+01:31:07,810 --> 01:31:11,870
+Y al cabo, nada os debo; debéisme cuanto he escrito.
+
+2654
+01:31:11,870 --> 01:31:14,220
+A mi trabajo acudo; con mi dinero pago
+
+2655
+01:31:14,220 --> 01:31:16,750
+el traje que me cubre y la mansión que habito,
+
+2656
+01:31:16,750 --> 01:31:20,000
+el pan que me alimenta y el lecho en donde yago.
+
+2657
+01:31:20,000 --> 01:31:22,570
+Y cuando llegue el día del último viaje,
+
+2658
+01:31:22,570 --> 01:31:25,700
+y esté al partir la nave que nunca ha de tornar,
+
+2659
+01:31:25,700 --> 01:31:28,510
+me encontraréis a bordo ligero de equipaje,
+
+2660
+01:31:28,510 --> 01:31:32,180
+casi desnudo, como los hijos de la mar.
+
+2661
+01:31:33,580 --> 01:31:37,850
+A DON MIGUEL DE UNAMUNO
+(POR SU LIBRO “VIDA DE DON QUIJOTE Y SANCHO”)
+
+2662
+01:31:37,850 --> 01:31:40,530
+Este donquijotesco
+
+2663
+01:31:40,530 --> 01:31:42,700
+Don Miguel de Unamuno, fuerte vasco,
+
+2664
+01:31:42,700 --> 01:31:43,870
+lleva el arnés grotesco
+
+2665
+01:31:43,870 --> 01:31:45,450
+y el irrisorio casco
+
+2666
+01:31:45,450 --> 01:31:46,610
+del buen manchego.
+
+2667
+01:31:46,610 --> 01:31:47,790
+Don Miguel camina
+
+2668
+01:31:47,790 --> 01:31:49,590
+jinete de quimérica montura,
+
+2669
+01:31:49,590 --> 01:31:51,900
+metiendo espuela de oro a su locura,
+
+2670
+01:31:51,900 --> 01:31:54,570
+sin miedo de la lengua que malsina.
+
+2671
+01:31:54,570 --> 01:31:56,010
+A un pueblo de arrieros,
+
+2672
+01:31:56,010 --> 01:31:58,120
+lechuzos y tahúres y logreros
+
+2673
+01:31:58,120 --> 01:32:00,410
+dicta lecciones de Caballería.
+
+2674
+01:32:00,410 --> 01:32:02,130
+El alma desalmada de su raza,
+
+2675
+01:32:02,130 --> 01:32:04,070
+que bajo el golpe de su férrea maza
+
+2676
+01:32:04,070 --> 01:32:06,720
+aún duerme, puede que despierte un día.
+
+2677
+01:32:06,720 --> 01:32:09,040
+Quiere enseñar el ceño de la duda,
+
+2678
+01:32:09,040 --> 01:32:11,090
+antes de que cabalgue, al caballero;
+
+2679
+01:32:11,090 --> 01:32:13,390
+cual nuevo Hamlet, a mirar desnuda
+
+2680
+01:32:13,390 --> 01:32:15,770
+cerca del corazón la hoja de acero.
+
+2681
+01:32:15,770 --> 01:32:18,230
+Tiene el aliento de una estirpe fuerte
+
+2682
+01:32:18,230 --> 01:32:20,450
+que soñó más allá de sus hogares,
+
+2683
+01:32:20,450 --> 01:32:22,760
+y que el oro buscó tras de los mares.
+
+2684
+01:32:22,760 --> 01:32:24,960
+Él señala la gloria tras la muerte.
+
+2685
+01:32:24,960 --> 01:32:27,550
+Quiere ser fundador, y dice: “Creo;
+
+2686
+01:32:27,550 --> 01:32:29,950
+Dios, y adelante el ánima española...”
+
+2687
+01:32:29,950 --> 01:32:32,350
+Y es tan bueno y mejor que fue Loyola:
+
+2688
+01:32:32,350 --> 01:32:34,970
+sabe a Jesús y escupe al fariseo.
+
+2689
+01:32:34,970 --> 01:32:41,500
+1905
+A DON FRANCISCO GINER DE LOS RÍOS
+
+2690
+01:32:41,500 --> 01:32:44,770
+Como se fue el maestro, la luz de esta mañana
+
+2691
+01:32:44,770 --> 01:32:46,780
+me dijo:—Van tres días
+
+2692
+01:32:46,780 --> 01:32:49,010
+que mi hermano Francisco no trabaja.
+
+2693
+01:32:49,010 --> 01:32:51,210
+¿Murió?—Sólo sabemos
+
+2694
+01:32:51,210 --> 01:32:52,930
+que se nos fue por una senda clara
+
+2695
+01:32:52,930 --> 01:32:54,400
+diciéndonos: “Hacedme
+
+2696
+01:32:54,400 --> 01:32:56,310
+un duelo de labores y esperanzas.
+
+2697
+01:32:56,310 --> 01:32:59,190
+Sed buenos y no más; sed lo que he sido
+
+2698
+01:32:59,190 --> 01:33:01,250
+entre vosotros: alma.
+
+2699
+01:33:01,250 --> 01:33:03,440
+Vivid; la vida sigue;
+
+2700
+01:33:03,440 --> 01:33:05,540
+los muertos mueren y las sombras pasan.
+
+2701
+01:33:05,540 --> 01:33:08,110
+Lleva quien deja y vive el que ha vivido.
+
+2702
+01:33:08,110 --> 01:33:11,250
+Yunques, sonad; enmudeced, campanas.”
+
+2703
+01:33:11,250 --> 01:33:12,830
+Y hacia otra luz más pura
+
+2704
+01:33:12,830 --> 01:33:14,890
+partió el hermano de la luz del alba,
+
+2705
+01:33:14,890 --> 01:33:16,570
+el sol de los talleres,
+
+2706
+01:33:16,570 --> 01:33:18,890
+el viejo alegre de la vida santa.
+
+2707
+01:33:18,890 --> 01:33:20,470
+¡Oh, sí; llevad, amigos,
+
+2708
+01:33:20,470 --> 01:33:21,900
+su cuerpo a la montaña,
+
+2709
+01:33:21,900 --> 01:33:23,290
+a los azules montes
+
+2710
+01:33:23,290 --> 01:33:24,780
+del ancho Guadarrama!
+
+2711
+01:33:24,780 --> 01:33:26,360
+Allí hay barrancos hondos
+
+2712
+01:33:26,360 --> 01:33:28,330
+de pinos verdes donde el viento canta.
+
+2713
+01:33:28,330 --> 01:33:29,940
+Su corazón repose
+
+2714
+01:33:29,940 --> 01:33:31,590
+bajo una encina casta,
+
+2715
+01:33:31,590 --> 01:33:33,620
+en tierra de tomillos, donde juegan
+
+2716
+01:33:33,620 --> 01:33:35,280
+mariposas doradas.
+
+2717
+01:33:35,280 --> 01:33:36,590
+Allí el maestro, un día,
+
+2718
+01:33:36,590 --> 01:33:39,960
+soñaba un nuevo florecer de España.
+
+2719
+01:33:39,960 --> 01:33:42,620
+Fin
+del
+Capítulo doce
+
+2720
+01:33:42,620 --> 01:33:47,540
+Fin
+de
+Páginas escogidas
+de
+Antonio Machado Ruiz
+
+2721
+01:33:52,020 --> 01:33:53,020
+
+
