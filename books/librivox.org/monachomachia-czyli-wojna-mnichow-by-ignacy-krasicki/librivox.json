@@ -31,9 +31,8 @@
       "num_sections": "6",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "monachomachia_1_krasicki_64kb.mp3",
           "id": "98738",
-          "language": "English",
           "listen_url": "",
           "playtime": "537",
           "readers": [
@@ -46,9 +45,8 @@
           "title": "Pieśń I"
         },
         {
-          "file_name": null,
+          "file_name": "monachomachia_2_krasicki_64kb.mp3",
           "id": "98739",
-          "language": "English",
           "listen_url": "",
           "playtime": "412",
           "readers": [
@@ -61,9 +59,8 @@
           "title": "Pieśń II"
         },
         {
-          "file_name": null,
+          "file_name": "monachomachia_3_krasicki_64kb.mp3",
           "id": "98740",
-          "language": "English",
           "listen_url": "",
           "playtime": "370",
           "readers": [
@@ -76,9 +73,8 @@
           "title": "Pieśń III"
         },
         {
-          "file_name": null,
+          "file_name": "monachomachia_4_krasicki_64kb.mp3",
           "id": "98741",
-          "language": "English",
           "listen_url": "",
           "playtime": "408",
           "readers": [
@@ -91,9 +87,8 @@
           "title": "Pieśń IV"
         },
         {
-          "file_name": null,
+          "file_name": "monachomachia_5_krasicki_64kb.mp3",
           "id": "98742",
-          "language": "English",
           "listen_url": "",
           "playtime": "338",
           "readers": [
@@ -106,9 +101,8 @@
           "title": "Pieśń V"
         },
         {
-          "file_name": null,
+          "file_name": "monachomachia_6_krasicki_64kb.mp3",
           "id": "98743",
-          "language": "English",
           "listen_url": "",
           "playtime": "337",
           "readers": [
@@ -130,7 +124,7 @@
       "url_other": "",
       "url_project": "http://pl.wikipedia.org/wiki/Monachomachia,_czyli_Wojna_mnichów",
       "url_rss": "https://librivox.org/rss/6745",
-      "url_text_source": "http://wolnelektury.pl/katalog/lektura/monachomachia/",
+      "url_text_source": "https://pl.wikisource.org/wiki/Monachomachia",
       "url_zip_file": "http://www.archive.org/download/monachomachia_czyli_wojna_mnichow_pn_librivox/monachomachia_czyli_wojna_mnichow_pn_librivox_64kb_mp3.zip"
     }
   ]
