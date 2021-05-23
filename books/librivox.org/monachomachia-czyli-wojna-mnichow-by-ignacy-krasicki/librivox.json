@@ -1,0 +1,137 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1735",
+          "dod": "1801",
+          "first_name": "Ignacy",
+          "id": "3051",
+          "last_name": "Krasicki"
+        }
+      ],
+      "copyright_year": "1778",
+      "description": "Monachomachia, czyli Wojna mnichów to poemat heroikomiczny autorstwa Ignacego Krasickiego wydany po raz pierwszy anonimowo w 1778. Jego tematem jest walka pomiędzy mnichami, a przedstawienie sporu mnichów w utworze naznaczone jest groteskowym humorem. Jednocześnie Monachomachia jest ostrą satyrą, krytyką ukrytą pod kostiumem zabawnych postaci. (Źródło: Wikipedia)<br /><br />\nMonachomachia, the War of the monks (from Gr. Monachos - monk, Machia - the fight) is a mock-heroic poem by Ignatius Krasicki first published anonymously in 1778.",
+      "genres": [
+        {
+          "id": "19",
+          "name": "Humorous Fiction"
+        },
+        {
+          "id": "29",
+          "name": "Satire"
+        },
+        {
+          "id": "66",
+          "name": "Epics"
+        }
+      ],
+      "id": "6745",
+      "language": "Polish",
+      "num_sections": "6",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "98738",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "537",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "1",
+          "title": "Pieśń I"
+        },
+        {
+          "file_name": null,
+          "id": "98739",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "412",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "2",
+          "title": "Pieśń II"
+        },
+        {
+          "file_name": null,
+          "id": "98740",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "370",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "3",
+          "title": "Pieśń III"
+        },
+        {
+          "file_name": null,
+          "id": "98741",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "408",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "4",
+          "title": "Pieśń IV"
+        },
+        {
+          "file_name": null,
+          "id": "98742",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "338",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "5",
+          "title": "Pieśń V"
+        },
+        {
+          "file_name": null,
+          "id": "98743",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "337",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "6",
+          "title": "Pieśń VI"
+        }
+      ],
+      "title": "Monachomachia czyli wojna mnichów",
+      "totaltime": "0:40:02",
+      "totaltimesecs": 2402,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/monachomachia_czyli_wojna_mnichow_pn_librivox",
+      "url_librivox": "https://librivox.org/monachomachia-czyli-wojna-mnichow-by-ignacy-krasicki/",
+      "url_other": "",
+      "url_project": "http://pl.wikipedia.org/wiki/Monachomachia,_czyli_Wojna_mnichów",
+      "url_rss": "https://librivox.org/rss/6745",
+      "url_text_source": "http://wolnelektury.pl/katalog/lektura/monachomachia/",
+      "url_zip_file": "http://www.archive.org/download/monachomachia_czyli_wojna_mnichow_pn_librivox/monachomachia_czyli_wojna_mnichow_pn_librivox_64kb_mp3.zip"
+    }
+  ]
+}
