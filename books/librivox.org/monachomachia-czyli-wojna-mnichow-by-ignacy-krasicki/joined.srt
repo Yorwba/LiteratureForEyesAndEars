@@ -1,0 +1,3783 @@
+1
+00:00:00,000 --> 00:00:04,140
+Pieśń pierwsza
+Monachomachii
+albo
+Wojny mnichów
+
+2
+00:00:04,140 --> 00:00:06,460
+Autorstwa
+Ignacego Krasickiego
+
+3
+00:00:06,460 --> 00:00:08,220
+Nagranie LibriVox.
+
+4
+00:00:08,220 --> 00:00:11,360
+Wszystkie nagrania LibriVox należą do domeny publicznej.
+
+5
+00:00:11,360 --> 00:00:16,530
+Więcej informacji o nagraniach i wolontariacie na stronie: LibriVox.org.
+
+6
+00:00:16,530 --> 00:00:17,910
+Czyta Piotr Nater
+
+7
+00:00:17,910 --> 00:00:20,520
+Nie wszystko złoto, co się świeci z góry,
+
+8
+00:00:20,520 --> 00:00:23,180
+Ani ten śmiały, co się zwierzchnie sroży:
+
+9
+00:00:23,180 --> 00:00:25,560
+Zewnętrzna postać nie czyni natury,
+
+10
+00:00:25,560 --> 00:00:28,340
+Serce, nie odzież, ośmiela lub trwoży.
+
+11
+00:00:28,340 --> 00:00:30,690
+Dzierżały miejsca szyszaków kaptury,
+
+12
+00:00:30,690 --> 00:00:32,750
+Nieraz rycerzem bywał sługa boży;
+
+13
+00:00:32,750 --> 00:00:35,420
+Wkrada się zjadłość i w kąty spokojne —
+
+14
+00:00:35,420 --> 00:00:37,990
+Taką ja śpiewać przedsięwziąłem wojnę.
+
+15
+00:00:37,990 --> 00:00:40,870
+Wojnę domową śpiewam więc i głoszę,
+
+16
+00:00:40,870 --> 00:00:43,750
+Wojnę okrutną, bez broni, bez miecza,
+
+17
+00:00:43,750 --> 00:00:46,300
+Rycerzów bosych i nagich po trosze;
+
+18
+00:00:46,300 --> 00:00:48,650
+Samo ich tylko męstwo ubezpiecza —
+
+19
+00:00:48,650 --> 00:00:50,110
+Wojnę mnichowską.
+
+20
+00:00:50,110 --> 00:00:51,430
+Nie śmiejcie się, proszę:
+
+21
+00:00:51,430 --> 00:00:53,760
+Godna litości ułomność człowiecza!
+
+22
+00:00:53,760 --> 00:00:56,280
+Śmiejcie się wreszcie, mimo wasze śmiechy
+
+23
+00:00:56,280 --> 00:00:57,970
+Przecież ja powiem, co robiły mnichy.
+
+24
+00:00:57,970 --> 00:01:01,150
+W mieście, którego nazwiska nie powiem,
+
+25
+00:01:01,150 --> 00:01:02,790
+Nic to albowiem do rzeczy nie przyda,
+
+26
+00:01:02,790 --> 00:01:05,470
+W mieście, ponieważ zbiór pustek tak zowiem,
+
+27
+00:01:05,470 --> 00:01:08,040
+W godnym siedlisku i chłopa, i Żyda,
+
+28
+00:01:08,040 --> 00:01:11,330
+W mieście (gród, ziemstwo trzymało albowiem
+
+29
+00:01:11,330 --> 00:01:13,700
+Stare zamczysko, pustoty ohyda)
+
+30
+00:01:13,700 --> 00:01:16,590
+Były trzy karczmy, bram cztery ułomki,
+
+31
+00:01:16,590 --> 00:01:19,150
+Klasztorów dziewięć i gdzieniegdzie domki.
+
+32
+00:01:19,150 --> 00:01:21,370
+W tej zawołanej ziemiańskiej stolicy
+
+33
+00:01:21,370 --> 00:01:23,610
+Wielebne głupstwo od wieków siedziało;
+
+34
+00:01:23,610 --> 00:01:26,030
+Pod starożytnym schronieniem świątniccy
+
+35
+00:01:26,030 --> 00:01:28,160
+Prawych czcicielów swoich utuczało.
+
+36
+00:01:28,160 --> 00:01:30,700
+Zbiegał się wierny lud, a w okolicy
+
+37
+00:01:30,700 --> 00:01:33,040
+Wszystko odgłosem uwielbienia brzmiało.
+
+38
+00:01:33,040 --> 00:01:34,490
+Święta prostoto!
+
+39
+00:01:34,490 --> 00:01:35,860
+Ach, któż cię wychwali!
+
+40
+00:01:35,860 --> 00:01:37,440
+Wiekuj szczęśliwie!
+
+41
+00:01:37,440 --> 00:01:39,140
+… Ale mówmy dalej!
+
+42
+00:01:39,140 --> 00:01:41,590
+Bajki pisali o dawnym Saturnie
+
+43
+00:01:41,590 --> 00:01:43,690
+Ci, co za niego tworzyli wiek złoty.
+
+44
+00:01:43,690 --> 00:01:46,190
+Szczęśliwszy przeor jadący poczwórnie,
+
+45
+00:01:46,190 --> 00:01:48,370
+Szczęśliwszy lektor mistycznej roboty,
+
+46
+00:01:48,370 --> 00:01:50,850
+Szczęśliwszy ociec, po trzecim nokturnie
+
+47
+00:01:50,850 --> 00:01:52,810
+W puchu topiący chórowe kłopoty,
+
+48
+00:01:52,810 --> 00:01:55,740
+Szczęśliwszy z braci, gdy kaganek zgasnął,
+
+49
+00:01:55,740 --> 00:01:58,540
+Co w słodkiem miodu wytrawieniu zasnął.
+
+50
+00:01:58,540 --> 00:02:01,070
+W tym było stanie rozkoszne siedlisko
+
+51
+00:02:01,070 --> 00:02:02,500
+Świętych próżniaków.
+
+52
+00:02:02,500 --> 00:02:03,970
+Ach, losie zdradliwy!
+
+53
+00:02:03,970 --> 00:02:06,390
+Ty, co z niewczesnych odmian masz igrzysko
+
+54
+00:02:06,390 --> 00:02:08,850
+I nieszczęść ludzkich jesteś tylko chciwy,
+
+55
+00:02:08,850 --> 00:02:11,490
+Ma świat z dziwactwa twego widowisko.
+
+56
+00:02:11,490 --> 00:02:14,400
+Jęczy pod ciężkiem jarzmem człek cnotliwy;
+
+57
+00:02:14,400 --> 00:02:17,970
+Mniejsza, żeś państwa, trony, berła skruszył;
+
+58
+00:02:17,970 --> 00:02:21,140
+Będziesz tak śmiałym, żebyś kaptur ruszył?
+
+59
+00:02:21,140 --> 00:02:23,590
+Już były przeszły owe sławne wojny,
+
+60
+00:02:23,590 --> 00:02:26,150
+Którym się niegdyś świat zdumiały dziwił.
+
+61
+00:02:26,150 --> 00:02:28,120
+Już seraficzny zakon był spokojny,
+
+62
+00:02:28,120 --> 00:02:30,760
+Już Karmelowinikt się nie przeciwił;
+
+63
+00:02:30,760 --> 00:02:32,890
+Już kaznodziejski wzrok mniej bogobojny
+
+64
+00:02:32,890 --> 00:02:35,530
+Oka na kaptur śpiczastynie krzywił;
+
+65
+00:02:35,530 --> 00:02:38,330
+Dawnych niechęci mgłę rozniosły wiatry,
+
+66
+00:02:38,330 --> 00:02:40,850
+Szczęśliwe nawet były bonifratry.
+
+67
+00:02:40,850 --> 00:02:43,220
+Ta, która nasze padoły przebiega
+
+68
+00:02:43,220 --> 00:02:45,310
+I samem tylko nieszczęściem się pasie,
+
+69
+00:02:45,310 --> 00:02:47,690
+Jędza niezgody, co Parysa zbiega
+
+70
+00:02:47,690 --> 00:02:49,860
+Znalazła niegdyś na górnym Idasie,
+
+71
+00:02:49,860 --> 00:02:52,600
+Słodki raj mnichów gdy w locie postrzega,
+
+72
+00:02:52,600 --> 00:02:55,230
+Jęknęła w złości i zatrzymała się;
+
+73
+00:02:55,230 --> 00:02:57,880
+Widząc fortunny los spokojnych mężów,
+
+74
+00:02:57,880 --> 00:03:00,470
+Świsnęła żądły najeżonych wężów.
+
+75
+00:03:00,470 --> 00:03:03,990
+Wstrzęsła pochodnie, natychmiast siarczyste
+
+76
+00:03:03,990 --> 00:03:06,340
+Iskry na dachy i wieże wypadły;
+
+77
+00:03:06,340 --> 00:03:08,760
+Wskroś przebijają gmachy rozłożyste,
+
+78
+00:03:08,760 --> 00:03:11,060
+Już się w zakaty najciaśniejsze wkradły —
+
+79
+00:03:11,060 --> 00:03:13,210
+A gdzie milczenie bywało wieczyste,
+
+80
+00:03:13,210 --> 00:03:16,230
+Wszczyna się rozruch i odgłos zajadły.
+
+81
+00:03:16,230 --> 00:03:18,300
+Rażą umysły jędze rozjuszone,
+
+82
+00:03:18,300 --> 00:03:21,020
+Budzą się mnichy letargiem uśpione.
+
+83
+00:03:21,020 --> 00:03:24,040
+Wtenczas, nie mogąc znieść tego rozruchu,
+
+84
+00:03:24,040 --> 00:03:26,400
+Ociec Hilary obudzić się raczył.
+
+85
+00:03:26,400 --> 00:03:29,360
+Wtenczas ksiądz przeor, porwawszy się z puchu,
+
+86
+00:03:29,360 --> 00:03:32,060
+Pierwszy raz w życiu jutrzenkę obaczył.
+
+87
+00:03:32,060 --> 00:03:34,950
+Klął ociec doktor czułość swego słuchu,
+
+88
+00:03:34,950 --> 00:03:38,010
+Wstał i widokiem swym ojców uraczył,
+
+89
+00:03:38,010 --> 00:03:39,960
+I, co się rzadko w zgromadzeniu zdarza,
+
+90
+00:03:39,960 --> 00:03:42,920
+Pędem niezwykłym wpadł do refektarza.
+
+91
+00:03:42,920 --> 00:03:45,610
+Na taki widok zbiegłe braci trzody
+
+92
+00:03:45,610 --> 00:03:48,360
+Pod rzędem kuflów garcowych uklękły:
+
+93
+00:03:48,360 --> 00:03:50,640
+Biegli ojcowie za mistrzem w zawody.
+
+94
+00:03:50,640 --> 00:03:53,360
+Ten, strachem zdjęty i srodze przelękły,
+
+95
+00:03:53,360 --> 00:03:55,770
+Wprzód otarł z potu mięsiste jagody,
+
+96
+00:03:55,770 --> 00:03:58,850
+Siadł, ławy pod nim dubeltowe jękły,
+
+97
+00:03:58,850 --> 00:04:02,430
+Siadł, strząsnął mycką, kaptura poprawił
+
+98
+00:04:02,430 --> 00:04:05,020
+I tak wspaniałe wyroki objawił:
+
+99
+00:04:05,020 --> 00:04:06,490
+„Bracia najmilsi!
+
+100
+00:04:06,490 --> 00:04:07,760
+Ach, cóż się to dzieje?
+
+101
+00:04:07,760 --> 00:04:10,060
+Cóż to za rozruch u nas niesłychany?
+
+102
+00:04:10,060 --> 00:04:12,280
+Czy do piwnicy wkradli się złodzieje?
+
+103
+00:04:12,280 --> 00:04:15,000
+Czy wyschły kufle, gęsiory i dzbany?
+
+104
+00:04:15,000 --> 00:04:16,010
+Mówcie!
+
+105
+00:04:16,010 --> 00:04:18,300
+… Cośkolwiek bądź — srodze boleję!
+
+106
+00:04:18,300 --> 00:04:20,820
+Trzeba wam pokój wrócić pożądany…”
+
+107
+00:04:20,820 --> 00:04:24,410
+Wtem się zakrztusił, jęknął, łzami zalał;
+
+108
+00:04:24,410 --> 00:04:27,210
+Przeor tymczasem pełny kubek nalał.
+
+109
+00:04:27,210 --> 00:04:29,440
+Już się dobywał na perorę nową
+
+110
+00:04:29,440 --> 00:04:32,090
+Doktor, gdy postrzegł likwor przeźroczysty.
+
+111
+00:04:32,090 --> 00:04:34,510
+Wódka to była, co ją zwą kminkową,
+
+112
+00:04:34,510 --> 00:04:36,990
+Przy niej toruński piernik pozłocisty,
+
+113
+00:04:36,990 --> 00:04:39,230
+Sucharki, masą oblane cukrową,
+
+114
+00:04:39,230 --> 00:04:41,320
+Dar przeoryszy niegdyś uroczysty.
+
+115
+00:04:41,320 --> 00:04:43,560
+Zachęca przeor, w urzędzie chwalebny:
+
+116
+00:04:43,560 --> 00:04:46,430
+„Racz się posilić, ojcze przewielebny!”
+
+117
+00:04:46,430 --> 00:04:49,130
+O, rzadki darze przedziwnej wymowy!
+
+118
+00:04:49,130 --> 00:04:51,860
+Któż ci się oprzeć, któż sprzeciwić zdoła?
+
+119
+00:04:51,860 --> 00:04:53,870
+Tak łagodnymi zniewolony słowy,
+
+120
+00:04:53,870 --> 00:04:56,280
+Wziął doktor kubek w pocie swego czoła,
+
+121
+00:04:56,280 --> 00:04:58,590
+Łyknął dla zdrowia posiłek gotowy —
+
+122
+00:04:58,590 --> 00:05:01,010
+Lecz, żeby jeszcze myśl przyszła wesoła,
+
+123
+00:05:01,010 --> 00:05:04,010
+W świętym orszaku, w gronie miłych dzieci
+
+124
+00:05:04,010 --> 00:05:07,310
+Raczył się napić raz, drugi i trzeci.
+
+125
+00:05:07,310 --> 00:05:09,690
+Jako po smutnej chwili, która mroczy,
+
+126
+00:05:09,690 --> 00:05:11,940
+W pierwszym świtaniu rumienią się zorze,
+
+127
+00:05:11,940 --> 00:05:14,330
+Uwiędłe ziółka wdzięczna rosa moczy
+
+128
+00:05:14,330 --> 00:05:16,870
+I rzeźwi kwiatki w tak przyjemnej porze —
+
+129
+00:05:16,870 --> 00:05:19,090
+Wyiskrzyły się przewielebne oczy
+
+130
+00:05:19,090 --> 00:05:21,380
+Po słodko-dzielnym wódczanym likworze.
+
+131
+00:05:21,380 --> 00:05:23,970
+Odchrząknął żwawo, niby się uśmiechnął,
+
+132
+00:05:23,970 --> 00:05:26,960
+Przymrużył oczy, nadął się i kichnął.
+
+133
+00:05:26,960 --> 00:05:30,030
+Na takie hasło, ojcowie, co rzędem
+
+134
+00:05:30,030 --> 00:05:32,140
+Według godności i starszeństwa stali,
+
+135
+00:05:32,140 --> 00:05:34,400
+Najprzyzwoitszym poruszeni względem,
+
+136
+00:05:34,400 --> 00:05:35,140
+„Wiwat!”
+
+137
+00:05:35,140 --> 00:05:36,870
+chórowym tonem zawołali.
+
+138
+00:05:36,870 --> 00:05:39,440
+Ociec Honorat, najbliższy urzędem,
+
+139
+00:05:39,440 --> 00:05:41,330
+Którego bracia wielce szanowali,
+
+140
+00:05:41,330 --> 00:05:43,740
+Niegdyś promotor sławny różańcowy,
+
+141
+00:05:43,740 --> 00:05:46,670
+Tymi najpierwszy aplaudował słowy:
+
+142
+00:05:46,670 --> 00:05:49,320
+„Pisze Chryzyppus o Alfonsie królu,
+
+143
+00:05:49,320 --> 00:05:51,530
+Kiedy prowadził wojnę z Baktriany,
+
+144
+00:05:51,530 --> 00:05:53,900
+Iż wpośrzód bitwy na licyjskiem polu,
+
+145
+00:05:53,900 --> 00:05:56,030
+Od wojska swego będąc odbieżany,
+
+146
+00:05:56,030 --> 00:05:58,670
+Stanął, a wody czerpnąwszy z Paktolu,
+
+147
+00:05:58,670 --> 00:06:01,310
+Tak się orzeźwił, iż zgnębił pogany.
+
+148
+00:06:01,310 --> 00:06:03,850
+Stąd poszło lemma na marmurze ryte:
+
+149
+00:06:03,850 --> 00:06:07,180
+Pereat umbra! — Lemma znamienite.
+
+150
+00:06:07,180 --> 00:06:09,790
+Wiem, bom to czytał w uczonym Tostacie,
+
+151
+00:06:09,790 --> 00:06:12,130
+Po ciemnej nocy że jasny dzień wschodzi.
+
+152
+00:06:12,130 --> 00:06:14,290
+Na godnym kiedy cnota majestacie
+
+153
+00:06:14,290 --> 00:06:17,010
+Siedzie, o szczęściu wątpić się nie godzi.
+
+154
+00:06:17,010 --> 00:06:19,370
+Czegóż się, mili bracia, obawiacie?
+
+155
+00:06:19,370 --> 00:06:21,830
+Z nami jest ociec doktor i dobrodziej.
+
+156
+00:06:21,830 --> 00:06:24,950
+Dał szczęsne hasło, orzeźwił swym wzrokiem;
+
+157
+00:06:24,950 --> 00:06:27,530
+Cieszmy się pewnym Fortuny wyrokiem”.
+
+158
+00:06:27,530 --> 00:06:30,940
+Skończył; natychmiast skosztowawszy trunku,
+
+159
+00:06:30,940 --> 00:06:33,110
+Ociec Gaudenty z urzędu się wtoczył,
+
+160
+00:06:33,110 --> 00:06:35,450
+A znieść nie mogąc swojego frasunku,
+
+161
+00:06:35,450 --> 00:06:37,820
+Na pół drzemiące oczy łzami zmoczył,
+
+162
+00:06:37,820 --> 00:06:41,210
+Rzekł: „Okoliczność złego jest gatunku!
+
+163
+00:06:41,210 --> 00:06:43,880
+Nie chcę ja, żebym pochlebstwem wykroczył:
+
+164
+00:06:43,880 --> 00:06:46,460
+Rozruch dzisiejszy smutne wieści głosi.
+
+165
+00:06:46,460 --> 00:06:49,150
+Wiem ja, ojcowie, na co się zanosi.
+
+166
+00:06:49,150 --> 00:06:51,890
+,,Zazdrość od wieków na nas się oburza,
+
+167
+00:06:51,890 --> 00:06:54,450
+Zgnębić niewinnych pragnie w tych krainach.
+
+168
+00:06:54,450 --> 00:06:56,840
+Już jad z pokątnych kryjówek wynurza,
+
+169
+00:06:56,840 --> 00:06:58,720
+Chce się sadowić na naszych ruinach.
+
+170
+00:06:58,720 --> 00:07:01,240
+Od gór Karmelu niebo się zachmurza,
+
+171
+00:07:01,240 --> 00:07:03,590
+Równa zajadłość w Augustyna synach;
+
+172
+00:07:03,590 --> 00:07:06,070
+I tym, co z cicha działają, nie wierzmy:
+
+173
+00:07:06,070 --> 00:07:09,130
+Pókiśmy w siłach, na wszystkich uderzmy!”
+
+174
+00:07:09,130 --> 00:07:11,990
+Ociec Pankracy, Nestor różańcowy,
+
+175
+00:07:11,990 --> 00:07:13,880
+Co trzykroć braci i siostry odnowił,
+
+176
+00:07:13,880 --> 00:07:16,250
+Nim puścił strumień łagodnej wymowy,
+
+177
+00:07:16,250 --> 00:07:18,840
+Naprzód starszyznę i braci pozdrowił:
+
+178
+00:07:18,840 --> 00:07:21,260
+Słodkiemi serca zniewalając słowy,
+
+179
+00:07:21,260 --> 00:07:23,870
+Miękczył umysły i nadzieje wznosił.
+
+180
+00:07:23,870 --> 00:07:27,390
+„Wierzcie — rzekł — bracia, zgrzybiałej siwiźnie:
+
+181
+00:07:27,390 --> 00:07:30,550
+Rzadko się płochość z ust starych wyśliźnie.
+
+182
+00:07:30,550 --> 00:07:32,810
+Od tylu czasów siedząc na urzędzie,
+
+183
+00:07:32,810 --> 00:07:35,410
+Znam, co są ludzie, wiem, co są zakony.
+
+184
+00:07:35,410 --> 00:07:38,460
+Wkrada się zazdrość, wkrada niechęć wszędzie —
+
+185
+00:07:38,460 --> 00:07:40,820
+I święty kaptur, chociaż uwielbiony,
+
+186
+00:07:40,820 --> 00:07:43,250
+Nigdy tak mocnym, tak dzielnym nie będzie,
+
+187
+00:07:43,250 --> 00:07:45,390
+Żeby człek pod nim był ubezpieczony.
+
+188
+00:07:45,390 --> 00:07:48,580
+Choć w zacność, mądrość każdy z was zamożny,
+
+189
+00:07:48,580 --> 00:07:51,200
+Niech będzie czuły, niech będzie ostrożny!
+
+190
+00:07:51,200 --> 00:07:53,270
+„O mili bracia, gdybyście wiedzieli,
+
+191
+00:07:53,270 --> 00:07:55,050
+Jakie to były niegdyś wasze przodki!
+
+192
+00:07:55,050 --> 00:07:57,300
+Inaczej wtenczas niż teraz myśleli;
+
+193
+00:07:57,300 --> 00:07:59,800
+Insze sposoby były, insze śrzodki.
+
+194
+00:07:59,800 --> 00:08:02,290
+Lepiej się działo; byliśmy weseli;
+
+195
+00:08:02,290 --> 00:08:04,800
+Teraz, nieczułe i gnuśne wyrodki,
+
+196
+00:08:04,800 --> 00:08:07,770
+Albo zbyt trwożni, albo zbyt zuchwali,
+
+197
+00:08:07,770 --> 00:08:10,150
+Nie ważym rzeczy na roztropnej szali.
+
+198
+00:08:10,150 --> 00:08:12,900
+„Moja więc rada wyzwać na dysputę
+
+199
+00:08:12,900 --> 00:08:15,140
+Tych, co się nad nas gwałtownie wynoszą.
+
+200
+00:08:15,140 --> 00:08:17,420
+Niech znają bronie jeszcze niezepsute,
+
+201
+00:08:17,420 --> 00:08:19,610
+Niechaj litości zwyciężeni proszą!
+
+202
+00:08:19,610 --> 00:08:22,220
+A za najsroższą hardości pokutę
+
+203
+00:08:22,220 --> 00:08:24,260
+Niech oni sami nasze laury głoszą!
+
+204
+00:08:24,260 --> 00:08:26,980
+Wyjdziemy sławni z niesłusznej potwarzy,
+
+205
+00:08:26,980 --> 00:08:30,400
+Zgnębim potwarców… Tak robili starzy”.
+
+206
+00:08:30,400 --> 00:08:33,490
+Rzekł — i natychmiast doktor się obudził,
+
+207
+00:08:33,490 --> 00:08:36,310
+Przeor odetchnął, lektor przetarł oczy;
+
+208
+00:08:36,310 --> 00:08:38,430
+Makary, co się słuchaniem utrudził,
+
+209
+00:08:38,430 --> 00:08:40,830
+Wymknął się cicho i ku celi toczy.
+
+210
+00:08:40,830 --> 00:08:43,580
+Ociec Ildefons, co równie się znudził,
+
+211
+00:08:43,580 --> 00:08:45,750
+Bryknął jak rześki rumak na poboczy.
+
+212
+00:08:45,750 --> 00:08:48,330
+Morfeusz, patrząc na dzieci kochane,
+
+213
+00:08:48,330 --> 00:08:51,360
+Siał słodkie spania i sny pożądane.
+
+214
+00:08:51,360 --> 00:08:54,000
+Koniec
+Pieśni pierwszej
+
+215
+00:08:58,960 --> 00:09:02,170
+Pieśń druga
+Monachomachii
+czyli
+Wojny mnichów
+
+216
+00:09:02,170 --> 00:09:04,640
+Autorstwa
+Ignacego Krasickiego
+
+217
+00:09:04,640 --> 00:09:06,410
+Nagranie LibriVox.
+
+218
+00:09:06,410 --> 00:09:09,610
+Wszystkie nagrania LibriVox należą do domeny publicznej.
+
+219
+00:09:09,610 --> 00:09:14,540
+Więcej informacji o nagraniach i wolontariacie na stronie: LibriVox.org.
+
+220
+00:09:14,540 --> 00:09:16,210
+Czyta Piotr Nater
+
+221
+00:09:16,210 --> 00:09:18,980
+Już wschodzącego słońca pierwsze zorze
+
+222
+00:09:18,980 --> 00:09:20,960
+Opowiadały wrzaskliwe grzegotki,
+
+223
+00:09:20,960 --> 00:09:23,110
+Już się krzątali bracia po klasztorze,
+
+224
+00:09:23,110 --> 00:09:25,020
+Już koło furty stękały dewotki,
+
+225
+00:09:25,020 --> 00:09:27,530
+Już ociec Rajmund w pierwiastkowej porze
+
+226
+00:09:27,530 --> 00:09:29,400
+Wychodził słuchać świątobliwe plotki —
+
+227
+00:09:29,400 --> 00:09:32,580
+Gdy, myśląc (kto wie, czy o Panu Bogu?),
+
+228
+00:09:32,580 --> 00:09:35,110
+Zgubił pantofel i upadł na progu.
+
+229
+00:09:35,110 --> 00:09:37,630
+Skoczył na odwrót, a jako uczony,
+
+230
+00:09:37,630 --> 00:09:39,870
+Fatalną wróżbę w tej przygodzie znaczy;
+
+231
+00:09:39,870 --> 00:09:42,100
+Wtem się kościelne odezwały dzwony,
+
+232
+00:09:42,100 --> 00:09:44,770
+Jęk smutny nowe nieszczęścia tłumaczy;
+
+233
+00:09:44,770 --> 00:09:47,220
+Ledwo odetchnąć może przestraszony,
+
+234
+00:09:47,220 --> 00:09:50,050
+Czuje, co stracił… a w takiej rozpaczy,
+
+235
+00:09:50,050 --> 00:09:53,200
+Gdy nie wie, czy spać, czy wyniść, czy siedzieć —
+
+236
+00:09:53,200 --> 00:09:56,470
+Sąsiad uprzejmy raczył go nawiedzić.
+
+237
+00:09:56,470 --> 00:09:58,540
+Ociec to Rafał od Bożego Ciała,
+
+238
+00:09:58,540 --> 00:10:00,880
+Rafał, towarzysz niewinnych radości;
+
+239
+00:10:00,880 --> 00:10:02,670
+Równego góra Karmelu nie miała
+
+240
+00:10:02,670 --> 00:10:05,850
+W rubasznych wdziękach, hożej uprzejmości;
+
+241
+00:10:05,850 --> 00:10:08,270
+Ten, skoro postrzegł, jak się wydawała
+
+242
+00:10:08,270 --> 00:10:10,760
+Twarz przyjaciela, w zbytniej troskliwości
+
+243
+00:10:10,760 --> 00:10:13,390
+Cieszy go naprzód w tak okropnej doli,
+
+244
+00:10:13,390 --> 00:10:16,070
+Dalej ośmiela pytać, co go boli.
+
+245
+00:10:16,070 --> 00:10:19,410
+„Wiesz, przyjacielu — rzecze Rajmund trwożny —
+
+246
+00:10:19,410 --> 00:10:22,180
+Jako krok pierwszy resztą dzieła włada.
+
+247
+00:10:22,180 --> 00:10:24,560
+Wyszedłem rano z izby nieostrożny,
+
+248
+00:10:24,560 --> 00:10:26,780
+Zaraz się w progu zjawiła zawada.
+
+249
+00:10:26,780 --> 00:10:28,140
+Zły to dzień!
+
+250
+00:10:28,140 --> 00:10:30,180
+Będzie w nieszczęścia zamożny.
+
+251
+00:10:30,180 --> 00:10:33,220
+Tak los chciał, nic tu roztropność nie nada.
+
+252
+00:10:33,220 --> 00:10:35,500
+Trudno przeciwne kazusy odegnać,
+
+253
+00:10:35,500 --> 00:10:38,120
+Trzeba się z furtą kochaną pożegnać”.
+
+254
+00:10:38,120 --> 00:10:39,950
+Rzekł i zapłakał.
+
+255
+00:10:39,950 --> 00:10:41,870
+Wtem brat Kanty leci:
+
+256
+00:10:41,870 --> 00:10:44,290
+„Panna Dorota do furty zaprasza”.
+
+257
+00:10:44,290 --> 00:10:47,930
+Nic nie rzekł Rajmund… Poseł drugi, trzeci,
+
+258
+00:10:47,930 --> 00:10:50,450
+Jeden go łaje, a drugi przeprasza.
+
+259
+00:10:50,450 --> 00:10:53,390
+„Porzuć te wróżki, straszydła dla dzieci —
+
+260
+00:10:53,390 --> 00:10:56,300
+Rzekł Rafał — prosi przyjaciółka nasza.
+
+261
+00:10:56,300 --> 00:10:58,880
+Zwycięż tę słabość odwagą wspaniałą,
+
+262
+00:10:58,880 --> 00:11:01,450
+Śmiałym się zawżdy najlepiej udało ”.
+
+263
+00:11:01,450 --> 00:11:04,810
+Porwał się Rajmund; lecz, jak groźne wały
+
+264
+00:11:04,810 --> 00:11:07,210
+Nadbrzeżna skała nazad w morze wpycha,
+
+265
+00:11:07,210 --> 00:11:09,850
+Stanął u progu na poły zmartwiały,
+
+266
+00:11:09,850 --> 00:11:13,410
+Sili się wyniść, jęczy, płacze, wzdycha.
+
+267
+00:11:13,410 --> 00:11:15,900
+Ośmiela Rafał, mówca doskonały,
+
+268
+00:11:15,900 --> 00:11:18,480
+Lecz darmo cieszy, darmo się uśmiecha.
+
+269
+00:11:18,480 --> 00:11:21,030
+Widząc na koniec bez skutku perory,
+
+270
+00:11:21,030 --> 00:11:23,840
+Zwoływa starszych i definitory.
+
+271
+00:11:23,840 --> 00:11:26,640
+Wchodzi Eliasz od świętej Barbary,
+
+272
+00:11:26,640 --> 00:11:29,220
+Marek od świętej Trójcy z nim się mieści,
+
+273
+00:11:29,220 --> 00:11:31,730
+Jan od świętego Piotra z Alkantary,
+
+274
+00:11:31,730 --> 00:11:34,290
+Hermenegildus od Siedmiu Boleści,
+
+275
+00:11:34,290 --> 00:11:37,330
+Rafał od Piotra, Piotr od świętej Klary —
+
+276
+00:11:37,330 --> 00:11:40,020
+Zeszło się ojców więcej jak trzydzieści.
+
+277
+00:11:40,020 --> 00:11:43,260
+Starzy i młodzi, rumiani, wybledli,
+
+278
+00:11:43,260 --> 00:11:45,900
+Wszyscy swe miejsca porządnie zasiedli.
+
+279
+00:11:45,900 --> 00:11:48,640
+Już ociec przeor kaczkowatym głosem,
+
+280
+00:11:48,640 --> 00:11:51,150
+Wprzód odchrząknąwszy, perorę zaczynał;
+
+281
+00:11:51,150 --> 00:11:53,740
+Już ociec Marek, siedzący ukosem,
+
+282
+00:11:53,740 --> 00:11:56,340
+Kręcił szkaplerzem i za pas się trzymał;
+
+283
+00:11:56,340 --> 00:11:59,140
+Już ociec Błażej coś szeptał pod nosem,
+
+284
+00:11:59,140 --> 00:12:01,470
+Już stary ociec Elizeusz drzemał;
+
+285
+00:12:01,470 --> 00:12:03,570
+Już i niektórzy znudzeni odeszli, —
+
+286
+00:12:03,570 --> 00:12:07,320
+Białokapturni gdy posłowie weszli.
+
+287
+00:12:07,320 --> 00:12:10,000
+Pierwszy Gaudenty, ów Gaudenty sławny,
+
+288
+00:12:10,000 --> 00:12:12,440
+Co wstępnym bojem chciał losu próbować;
+
+289
+00:12:12,440 --> 00:12:14,900
+Skrytych fortelów nieprzyjaciel jawny,
+
+290
+00:12:14,900 --> 00:12:17,610
+Świadom swej mocy, nie lubił próżnować,
+
+291
+00:12:17,610 --> 00:12:19,420
+A walecznymi dziełami zabawny,
+
+292
+00:12:19,420 --> 00:12:21,890
+Ręką, nie piórem umiał dokazować;
+
+293
+00:12:21,890 --> 00:12:24,500
+Oko wyniosłe i postać, i cera
+
+294
+00:12:24,500 --> 00:12:26,580
+Niezlęknionego były bohatera.
+
+295
+00:12:26,580 --> 00:12:29,800
+Hiacynt drugi, w wdzięcznej wieku porze,
+
+296
+00:12:29,800 --> 00:12:32,600
+Skromnie udatny, pokornie wspaniały,
+
+297
+00:12:32,600 --> 00:12:35,340
+U sióstr zakonnych pierwszy po doktorze,
+
+298
+00:12:35,340 --> 00:12:38,500
+Kształtny, wysmukły, hoży, okazały —
+
+299
+00:12:38,500 --> 00:12:40,320
+Posuwistymi kroki po klasztorze
+
+300
+00:12:40,320 --> 00:12:42,940
+Płynął; zefiry z kapturem igrały.
+
+301
+00:12:42,940 --> 00:12:45,770
+Razem wśrzód rady obadwa stanęli
+
+302
+00:12:45,770 --> 00:12:47,880
+I tak poselstwo sprawować zaczęli.
+
+303
+00:12:47,880 --> 00:12:51,180
+Naprzód Gaudenty, pozdrowiwszy żwawo:
+
+304
+00:12:51,180 --> 00:12:54,190
+„Ojcowie — rzecze — czas pokazać światu,
+
+305
+00:12:54,190 --> 00:12:56,250
+Kto ma z nas lepsze do nauki prawo,
+
+306
+00:12:56,250 --> 00:12:58,550
+Czyjego dzieła lepsze są warsztatu.
+
+307
+00:12:58,550 --> 00:13:00,800
+Jeśli się książek nudzicie zabawą,
+
+308
+00:13:00,800 --> 00:13:02,950
+Jeśliście szkole nie dali rozbratu —
+
+309
+00:13:02,950 --> 00:13:05,310
+Nam na zwycięstwo, a wam za pokutę
+
+310
+00:13:05,310 --> 00:13:08,400
+Plac wyznaczamy… prosem na dysputę”.
+
+311
+00:13:08,400 --> 00:13:11,470
+Trzykroć odkaszlnął, uśmiechnął dwa razy
+
+312
+00:13:11,470 --> 00:13:14,070
+Piękny Hiacynt, nim zaczął przemowę:
+
+313
+00:13:14,070 --> 00:13:17,600
+„Raczcie — rzekł — słuchać, bez żadnej urazy,
+
+314
+00:13:17,600 --> 00:13:20,140
+Ojcowie mili, poselstwa osnowę!
+
+315
+00:13:20,140 --> 00:13:23,250
+Jeżeli, pełniąc starszeństwa rozkazy,
+
+316
+00:13:23,250 --> 00:13:25,570
+Znajdę umysły do względów gotowe,
+
+317
+00:13:25,570 --> 00:13:28,310
+Szczęśliwym nadto, najszczęśliwszy z wielu,
+
+318
+00:13:28,310 --> 00:13:31,320
+Żem znalazł łaskę w przezacnym Karmelu.
+
+319
+00:13:31,320 --> 00:13:33,710
+Zakon nasz jako zbawiennej ochłody,
+
+320
+00:13:33,710 --> 00:13:35,890
+Szacunku waszej wielebności szuka,
+
+321
+00:13:35,890 --> 00:13:38,800
+A, chcąc dać swoich prac jawne dowody
+
+322
+00:13:38,800 --> 00:13:40,610
+I w jakiej cenie u niego nauka,
+
+323
+00:13:40,610 --> 00:13:43,310
+Wyznacza bitwy plac na łonie zgody;
+
+324
+00:13:43,310 --> 00:13:46,200
+Kto zwierzchnie sądzi, pewnie się oszuka.
+
+325
+00:13:46,200 --> 00:13:49,410
+Nie złość, nie zemsta te nam chęci zdarza —
+
+326
+00:13:49,410 --> 00:13:52,350
+Równego dzielność pragnie adwersarza”.
+
+327
+00:13:52,350 --> 00:13:54,000
+Skończył.
+
+328
+00:13:54,000 --> 00:13:55,630
+Natychmiast filozofskiej szkoły
+
+329
+00:13:55,630 --> 00:13:58,150
+Wyborne punkta do wybrania daje.
+
+330
+00:13:58,150 --> 00:14:00,090
+Na takie hasło niewdzięcznej mozoły
+
+331
+00:14:00,090 --> 00:14:02,980
+Rozruch się wzmaga, mruczenie powstaje.
+
+332
+00:14:02,980 --> 00:14:05,050
+Gaudenty na to walecznie wesoły
+
+333
+00:14:05,050 --> 00:14:07,620
+Strzela oczyma, gdy gesty nie łaje.
+
+334
+00:14:07,620 --> 00:14:10,680
+Wtem ociec przeor, co najwyżej siedział,
+
+335
+00:14:10,680 --> 00:14:13,420
+Tak na poselstwo obu odpowiedział:
+
+336
+00:14:13,420 --> 00:14:16,410
+„Przyjmujem chętnie uczone wyzwanie,
+
+337
+00:14:16,410 --> 00:14:18,840
+Stawem się w miejscu, które mianujecie;
+
+338
+00:14:18,840 --> 00:14:21,200
+Jeszcze nam siły na tę wojnę stanie,
+
+339
+00:14:21,200 --> 00:14:23,730
+Jeszcze broń dobra, której sprobujecie:
+
+340
+00:14:23,730 --> 00:14:26,180
+Hardym w przegranej będzie ukaranie,
+
+341
+00:14:26,180 --> 00:14:28,370
+Będzie pokuta, kiedy tego chcecie.
+
+342
+00:14:28,370 --> 00:14:31,260
+Nie zna zazdrości, kto przestał na swoim;
+
+343
+00:14:31,260 --> 00:14:35,080
+Pochlebstw nie chcemy, a gróźb się nie boim”.
+
+344
+00:14:35,080 --> 00:14:38,240
+Chciał już Gaudenty ukarać tę śmiałość,
+
+345
+00:14:38,240 --> 00:14:41,050
+Już się zamierzał, lecz go kompan wstrzymał,
+
+346
+00:14:41,050 --> 00:14:44,080
+A, miękcząc srogą umysłu zuchwałość,
+
+347
+00:14:44,080 --> 00:14:46,870
+Gdy postrzegł, że się coraz bardziej zżymał,
+
+348
+00:14:46,870 --> 00:14:49,240
+Żeby utrzymać poselstwa wspaniałość,
+
+349
+00:14:49,240 --> 00:14:52,290
+Wypchnął go za drzwi, a sam się zatrzymał;
+
+350
+00:14:52,290 --> 00:14:55,070
+Gniewliwych ojców pozdrowiwszy wdzięcznie,
+
+351
+00:14:55,070 --> 00:14:59,010
+Wymknął się z cicha, dopadł furty zręcznie.
+
+352
+00:14:59,010 --> 00:15:01,820
+Nowa przyczyna w Karmelu do rady:
+
+353
+00:15:01,820 --> 00:15:04,150
+Ociec Makary nie życzy wojować,
+
+354
+00:15:04,150 --> 00:15:06,410
+Ociec Cherubin cytuje przykłady,
+
+355
+00:15:06,410 --> 00:15:08,730
+Ociec Serafin chce losu próbować,
+
+356
+00:15:08,730 --> 00:15:11,290
+Ociec Pafnucy wysyła na zwiady,
+
+357
+00:15:11,290 --> 00:15:13,950
+Ociec Zefiryn nie chce i wotować,
+
+358
+00:15:13,950 --> 00:15:16,860
+Ociec Eliasz wielbi stan spokojny —
+
+359
+00:15:16,860 --> 00:15:20,320
+Starzy się boją, a młodzi chcą wojny.
+
+360
+00:15:20,320 --> 00:15:23,510
+Za złem zwyczajnie idzie większość głosów:
+
+361
+00:15:23,510 --> 00:15:26,060
+Kryski wojenne z nagła powiększone.
+
+362
+00:15:26,060 --> 00:15:28,620
+Wszyscy niepewnych chcą próbować losów
+
+363
+00:15:28,620 --> 00:15:30,630
+I na powszechną gotują obronę.
+
+364
+00:15:30,630 --> 00:15:33,720
+Starych uwagi zgłuszył wrzask młokosów,
+
+365
+00:15:33,720 --> 00:15:36,670
+Nie słyszą dzwonów na sekstę i nonę.
+
+366
+00:15:36,670 --> 00:15:39,870
+Wtem brat Kleofas na obiad zadzwonił:
+
+367
+00:15:39,870 --> 00:15:43,240
+Wypadli wszyscy, jakby ich kto gonił.
+
+368
+00:15:43,240 --> 00:15:51,190
+Koniec
+Pieśni drugiej
+
+369
+00:15:51,190 --> 00:15:55,250
+Pieśń trzecia
+Monachomachii
+czyli
+Wojny mnichów
+
+370
+00:15:55,250 --> 00:15:57,500
+Autorstwa
+Ignacego Krasickiego
+
+371
+00:15:57,500 --> 00:15:59,430
+Nagranie LibriVox.
+
+372
+00:15:59,430 --> 00:16:02,720
+Wszystkie nagrania LibriVox należą do domeny publicznej.
+
+373
+00:16:02,720 --> 00:16:07,960
+Więcej informacji o nagraniach i wolontariacie na stronie: LibriVox.org.
+
+374
+00:16:07,960 --> 00:16:09,650
+Czyta Piotr Nater
+
+375
+00:16:09,650 --> 00:16:12,490
+Że dobrze myśleć o chlebie i wodzie,
+
+376
+00:16:12,490 --> 00:16:14,750
+Bajali niegdyś mędrcy zapalczywi.
+
+377
+00:16:14,750 --> 00:16:17,910
+Wierzył świat bajkom, lecz, mądry po szkodzie,
+
+378
+00:16:17,910 --> 00:16:20,180
+Teraz się błędom poznanym przeciwi.
+
+379
+00:16:20,180 --> 00:16:22,930
+Już wstrzemięźliwość nie jest teraz w modzie;
+
+380
+00:16:22,930 --> 00:16:25,370
+Piją, jak drudzy, mędrcowie prawdziwi.
+
+381
+00:16:25,370 --> 00:16:27,940
+Miód dobry myślom żywości udziela,
+
+382
+00:16:27,940 --> 00:16:30,350
+Wino strapione serca rozwesela.
+
+383
+00:16:30,350 --> 00:16:32,570
+Dały to poznać ojcy przewielebne,
+
+384
+00:16:32,570 --> 00:16:35,230
+Skoro, jak mogli, wyszli z refektarza;
+
+385
+00:16:35,230 --> 00:16:38,440
+Wstępując w ślady swych przodków chwalebne,
+
+386
+00:16:38,440 --> 00:16:40,590
+Pełni radości, którą trunek zdarza,
+
+387
+00:16:40,590 --> 00:16:43,270
+Znowu na radę poszli; tam potrzebne
+
+388
+00:16:43,270 --> 00:16:46,170
+Sposoby, śrzodki, gdy każdy powtarza,
+
+389
+00:16:46,170 --> 00:16:48,560
+Ociec Gerwazy od Zielonych Świątek,
+
+390
+00:16:48,560 --> 00:16:51,240
+Taki radzenia uczynił początek;
+
+391
+00:16:51,240 --> 00:16:53,590
+„Nie dość, ojcowie, najeść się i napić,
+
+392
+00:16:53,590 --> 00:16:56,000
+Trzeba tu więcej coś jeszcze dokazać.
+
+393
+00:16:56,000 --> 00:16:56,920
+Kto wie?
+
+394
+00:16:56,920 --> 00:16:58,980
+W dyspucie możem się poszkapić.
+
+395
+00:16:58,980 --> 00:17:01,560
+Ja radzę, żeby tę niezgodę zmazać,
+
+396
+00:17:01,560 --> 00:17:04,280
+Trzeba się wcześnie a dobrze pokwapić.
+
+397
+00:17:04,280 --> 00:17:07,070
+Niech z nami piją — a wtenczas ukazać
+
+398
+00:17:07,070 --> 00:17:09,530
+Potrafim światu, o ich własnej szkodzie,
+
+399
+00:17:09,530 --> 00:17:12,270
+Co może dzielność w największej przygodzie.”
+
+400
+00:17:12,270 --> 00:17:15,570
+„Daj pokój, bracie — rzekł ociec Hilary —
+
+401
+00:17:15,570 --> 00:17:17,750
+Nie zaczepiajmy rycerzów zbyt sławnych!
+
+402
+00:17:17,750 --> 00:17:20,510
+Wierz doświadczeniu, wierz, co mówi stary:
+
+403
+00:17:20,510 --> 00:17:23,110
+Widziałem nieraz w tej pracy zabawnych.
+
+404
+00:17:23,110 --> 00:17:25,490
+Zbyt to są mocne kuflowe filary,
+
+405
+00:17:25,490 --> 00:17:28,240
+Nie zdołasz wzruszyć gmachów starodawnych.
+
+406
+00:17:28,240 --> 00:17:31,250
+Znam ja ich dobrze, zna ich brat Antoni —
+
+407
+00:17:31,250 --> 00:17:34,360
+Pijemy dobrze, ale lepiej oni.”
+
+408
+00:17:34,360 --> 00:17:36,990
+Już dziewięć głosów było w rożnem zdaniu,
+
+409
+00:17:36,990 --> 00:17:39,240
+Gdy kolej przyszła na Elizeusza:
+
+410
+00:17:39,240 --> 00:17:41,780
+„Żeby dogodzić waszemu żądaniu —
+
+411
+00:17:41,780 --> 00:17:44,820
+Rzekł — sprawiedliwa żarliwość mnie wzrusza.
+
+412
+00:17:44,820 --> 00:17:47,660
+Za nic tu kufle: w księgach i czytaniu
+
+413
+00:17:47,660 --> 00:17:48,980
+Cała treść rzeczy.
+
+414
+00:17:48,980 --> 00:17:50,770
+Żal mówić przymusza:
+
+415
+00:17:50,770 --> 00:17:53,100
+Minęły czasy szczęśliwej prostoty,
+
+416
+00:17:53,100 --> 00:17:56,370
+Trzeba się uczyć, upłynął wiek złoty!
+
+417
+00:17:56,370 --> 00:17:59,650
+Z góry zły przykład idzie w każdej stronie,
+
+418
+00:17:59,650 --> 00:18:02,000
+Z góry naszego nieszczęścia przyczyna.
+
+419
+00:18:02,000 --> 00:18:04,470
+O ty, na polskim co osiadłszy tronie,
+
+420
+00:18:04,470 --> 00:18:06,970
+Wzgardziłeś miodem i nie lubisz wina!
+
+421
+00:18:06,970 --> 00:18:09,740
+Cierpisz, pijaństwo że w ostatnim zgonie —
+
+422
+00:18:09,740 --> 00:18:12,920
+Z ciebie gust książek, a piwnic ruina,
+
+423
+00:18:12,920 --> 00:18:16,260
+Tyś naród z kuflów, szklenic, beczek złupił.
+
+424
+00:18:16,260 --> 00:18:19,000
+Bodajeś w życiu nigdy się nie upił!
+
+425
+00:18:19,000 --> 00:18:20,600
+Trzeba się uczyć.
+
+426
+00:18:20,600 --> 00:18:22,270
+Wiem z dawnej powieści,
+
+427
+00:18:22,270 --> 00:18:25,160
+Że tu w klasztorze jest biblioteka;
+
+428
+00:18:25,160 --> 00:18:27,970
+Gdzieś tam pod strychem podobno się mieści
+
+429
+00:18:27,970 --> 00:18:30,100
+I dawno swego otworzenia czeka.
+
+430
+00:18:30,100 --> 00:18:33,450
+Był tam brat Alfons, lat temu trzydzieści,
+
+431
+00:18:33,450 --> 00:18:35,700
+I z starych książek poddzierał wieka.
+
+432
+00:18:35,700 --> 00:18:36,620
+Kto wie?
+
+433
+00:18:36,620 --> 00:18:38,500
+Może się co znajdzie do rzeczy
+
+434
+00:18:38,500 --> 00:18:40,960
+I słaby oręż czasem ubezpieczy.”
+
+435
+00:18:40,960 --> 00:18:44,230
+Rzekł; a, gdy żaden nie wie, gdzie są księgi,
+
+436
+00:18:44,230 --> 00:18:46,160
+Na ich szukanie wyznaczają posły.
+
+437
+00:18:46,160 --> 00:18:48,810
+Żaden się podjąć nie chce tej włóczęgi,
+
+438
+00:18:48,810 --> 00:18:51,130
+A, uczonymi wzgardziwszy rzemiosły,
+
+439
+00:18:51,130 --> 00:18:53,670
+Wolna starszyzna od przykrej mitręgi,
+
+440
+00:18:53,670 --> 00:18:55,990
+Wkłada ten ciężar na domowe osły:
+
+441
+00:18:55,990 --> 00:18:58,770
+„Bracia kochani, wam to los nadarza!”
+
+442
+00:18:58,770 --> 00:19:01,750
+Posłano w zwiady z krawcem aptekarza.
+
+443
+00:19:01,750 --> 00:19:04,420
+Między dzwonnicą i furcianym gmachem,
+
+444
+00:19:04,420 --> 00:19:06,550
+Na starożytnej baszty rozwalinach,
+
+445
+00:19:06,550 --> 00:19:09,110
+Laty spróchniały, wiszący nad dachem,
+
+446
+00:19:09,110 --> 00:19:12,450
+Był stary lamus; ten w tylu ruinach
+
+447
+00:19:12,450 --> 00:19:14,420
+Nabawił nieraz przechodzących strachem,
+
+448
+00:19:14,420 --> 00:19:17,170
+Chwiejąc się z wiatry w słabych podwalinach.
+
+449
+00:19:17,170 --> 00:19:20,130
+Tam, choć upadkiem groził szczyt wyniosły,
+
+450
+00:19:20,130 --> 00:19:23,340
+Po zgniłych krokwiach dostały się posły.
+
+451
+00:19:23,340 --> 00:19:26,290
+Czegóż nie dopnie animusz wspaniały!
+
+452
+00:19:26,290 --> 00:19:28,560
+Przy pożądanej mecie ich postawił.
+
+453
+00:19:28,560 --> 00:19:31,160
+Drzwi okuwane posłów zatrzymały,
+
+454
+00:19:31,160 --> 00:19:33,520
+Więc, żeby długo żaden się nie bawił.
+
+455
+00:19:33,520 --> 00:19:37,030
+Porwą za klamry: pękł zamek spróchniały,
+
+456
+00:19:37,030 --> 00:19:39,370
+Widok się wdzięczny natychmiast objawił.
+
+457
+00:19:39,370 --> 00:19:41,990
+Wracają, pracy nie podjąwszy marnie,
+
+458
+00:19:41,990 --> 00:19:45,250
+Dając znać wszystkim, że mają księgarnię.
+
+459
+00:19:45,250 --> 00:19:48,170
+Właśnie natenczas ociec przeor trwożny
+
+460
+00:19:48,170 --> 00:19:50,480
+Dla dobrej myśli resztę kufla dusił.
+
+461
+00:19:50,480 --> 00:19:53,060
+Wchodzi w tym punkcie goniec nieostrożny:
+
+462
+00:19:53,060 --> 00:19:55,620
+Porwał się ociec i z nagła zakrztusił.
+
+463
+00:19:55,620 --> 00:19:58,490
+Już chciał ukarać, lecz, jako pobożny,
+
+464
+00:19:58,490 --> 00:20:00,970
+Wypić za karę, co było, przymusił.
+
+465
+00:20:00,970 --> 00:20:03,420
+Zagrzany duchem pokory chwalebnym,
+
+466
+00:20:03,420 --> 00:20:06,590
+Wypił brat resztę po ojcu wielebnym.
+
+467
+00:20:06,590 --> 00:20:09,690
+Wdzięczna miłości kochanej szklenice!
+
+468
+00:20:09,690 --> 00:20:12,620
+Czuje cię każdy i słaby, i zdrowy;
+
+469
+00:20:12,620 --> 00:20:14,730
+Dla ciebie miłe są ciemne piwnice,
+
+470
+00:20:14,730 --> 00:20:17,500
+Dla ciebie znośna duszność i ból głowy.
+
+471
+00:20:17,500 --> 00:20:20,290
+Słodzisz frasunki, uśmierzasz tęsknice;
+
+472
+00:20:20,290 --> 00:20:22,920
+W tobie pociecha, w tobie zysk gotowy.
+
+473
+00:20:22,920 --> 00:20:25,610
+Byle cię można znaleźć, byle kupić,
+
+474
+00:20:25,610 --> 00:20:28,900
+Nie żal skosztować, nie żal się i upić!
+
+475
+00:20:28,900 --> 00:20:31,990
+Co tam znaleźli, ukrył czas zazdrosny,
+
+476
+00:20:31,990 --> 00:20:34,360
+Czas, który niszczy nietrwałe dostatki.
+
+477
+00:20:34,360 --> 00:20:37,040
+Mówmy więc teraz, jak doktor żałosny
+
+478
+00:20:37,040 --> 00:20:39,100
+Poszedł na radę do wielebnej matki.
+
+479
+00:20:39,100 --> 00:20:41,670
+Co wskórał, dobra zakonu miłosny —
+
+480
+00:20:41,670 --> 00:20:42,960
+I to czas zakrył.
+
+481
+00:20:42,960 --> 00:20:44,660
+Więc dziejów ostatki,
+
+482
+00:20:44,660 --> 00:20:46,990
+Gdy każe umysł natchnieniu posłuszny,
+
+483
+00:20:46,990 --> 00:20:49,390
+Piszmy, jak możem, na pożytek duszny.
+
+484
+00:20:49,390 --> 00:20:52,510
+Piszmy — jak doktor, wróciwszy od kraty,
+
+485
+00:20:52,510 --> 00:20:54,890
+Zwołał najpierwsze głowy zgromadzenia;
+
+486
+00:20:54,890 --> 00:20:57,300
+Jak wierne swemu powołaniu braty
+
+487
+00:20:57,300 --> 00:20:59,280
+Byli posłuszni na jego skinienia;
+
+488
+00:20:59,280 --> 00:21:01,880
+Jako się wszystkie zamknęły komnaty,
+
+489
+00:21:01,880 --> 00:21:04,220
+Jako się postać klasztorna odmienia:
+
+490
+00:21:04,220 --> 00:21:07,090
+Ustał brzęk kuflów i radość obfita;
+
+491
+00:21:07,090 --> 00:21:09,740
+Nawet Gaudenty w rubryceli czyta.
+
+492
+00:21:09,740 --> 00:21:12,370
+Tak, kiedy Jowisz poprzedniczym grzmotem
+
+493
+00:21:12,370 --> 00:21:14,700
+I rażącymi błyski świat uciska,
+
+494
+00:21:14,700 --> 00:21:17,610
+Trzęsie się Atlas okropnym łoskotem,
+
+495
+00:21:17,610 --> 00:21:19,850
+Jęczą pieczary i Etny łożyska
+
+496
+00:21:19,850 --> 00:21:22,390
+Pełne cyklopów; pod hartownym młotem
+
+497
+00:21:22,390 --> 00:21:24,900
+Grom się rozżarza i iskrami pryska,
+
+498
+00:21:24,900 --> 00:21:27,770
+Wulkan je nagli, a z swego warsztatu
+
+499
+00:21:27,770 --> 00:21:30,970
+Raz wraz pociskiem strasznym grozi światu.
+
+500
+00:21:30,970 --> 00:21:33,660
+O miejsce niegdyś szczęśliwe prostotą!
+
+501
+00:21:33,660 --> 00:21:36,500
+Jakaż trwożliwość z gruntu nie odmienia?
+
+502
+00:21:36,500 --> 00:21:38,400
+Książki nieszczęsne!
+
+503
+00:21:38,400 --> 00:21:40,100
+Waszą zjadłe cnotą
+
+504
+00:21:40,100 --> 00:21:42,300
+(Zamiast słodkiego z pracy odpocznienia
+
+505
+00:21:42,300 --> 00:21:44,310
+Płochej dysputy złudzeni ochotą!)
+
+506
+00:21:44,310 --> 00:21:47,060
+Dwa przewielebne cierpią zgromadzenia!
+
+507
+00:21:47,060 --> 00:21:50,400
+Przemogła zazdrość, zemsta duch spokojny —
+
+508
+00:21:50,400 --> 00:21:54,020
+Bracia pokoju biorą się do wojny.
+
+509
+00:21:54,020 --> 00:21:56,840
+Koniec
+Pieśni trzeciej
+
+510
+00:22:02,040 --> 00:22:04,940
+Pieśń czwarta
+Monachomachii
+czyli
+Wojny mnichów
+
+511
+00:22:04,940 --> 00:22:07,040
+Autorstwa
+Ignacego Krasickiego
+
+512
+00:22:07,040 --> 00:22:08,680
+Nagranie LibriVox.
+
+513
+00:22:08,680 --> 00:22:11,580
+Wszystkie nagrania LibriVox należą do domeny publicznej.
+
+514
+00:22:11,580 --> 00:22:16,060
+Więcej informacji o nagraniach i wolontariacie na stronie: LibriVox.org.
+
+515
+00:22:16,060 --> 00:22:18,280
+Czyta Piotr Nater
+
+516
+00:22:18,280 --> 00:22:20,710
+O ty, którego żaden nie zrozumiał,
+
+517
+00:22:20,710 --> 00:22:23,170
+Gdy w twoich pismach błąkał się jak w lesie;
+
+518
+00:22:23,170 --> 00:22:25,480
+O ty, nad którym nieraz się świat zdumiał,
+
+519
+00:22:25,480 --> 00:22:28,130
+I dotąd sławi, wielbi, dziwuje się;
+
+520
+00:22:28,130 --> 00:22:30,270
+O ty, coś głowy pozawracać umiał —
+
+521
+00:22:30,270 --> 00:22:32,440
+Bądź pozdrowiony, Arystotelesie!
+
+522
+00:22:32,440 --> 00:22:35,290
+Bożku łbów twardych i próżnej mozoły,
+
+523
+00:22:35,290 --> 00:22:37,780
+Witaj, ozdobo starodawnej szkoły!
+
+524
+00:22:37,780 --> 00:22:40,670
+Osieł w lwiej skórze nieostrożnych zwodził;
+
+525
+00:22:40,670 --> 00:22:43,310
+Często niezgrabny płód, choć matka hoża;
+
+526
+00:22:43,310 --> 00:22:46,080
+Nieraz cedr słabą latorośl urodził;
+
+527
+00:22:46,080 --> 00:22:48,480
+Nieraz się zakradł kąkol wpośrzód zboża —
+
+528
+00:22:48,480 --> 00:22:50,610
+Nie twoja wina, żeś głupich napłodził:
+
+529
+00:22:50,610 --> 00:22:52,470
+Są to potomki nieprawego łoża.
+
+530
+00:22:52,470 --> 00:22:55,140
+Jeśli się śmiejesz, patrząc na te fraszki,
+
+531
+00:22:55,140 --> 00:22:57,890
+Rzuć jeszcze okiem dla nowej igraszki!
+
+532
+00:22:57,890 --> 00:23:01,070
+Schodzą się mędrcy: i biali, i szarzy,
+
+533
+00:23:01,070 --> 00:23:03,700
+Czarni, kafowi, w trzewikach i bosi;
+
+534
+00:23:03,700 --> 00:23:06,140
+Rumiana dzielność błyszczy się na twarzy,
+
+535
+00:23:06,140 --> 00:23:08,710
+Tuman mądrości nad łbami się wznosi,
+
+536
+00:23:08,710 --> 00:23:11,220
+Zazdrość i pycha zjadłe oczy żarzy.
+
+537
+00:23:11,220 --> 00:23:13,290
+Jeden się tylko zakon nie wynosi:
+
+538
+00:23:13,290 --> 00:23:15,540
+Pokorę świętą zachowując wszędzie,
+
+539
+00:23:15,540 --> 00:23:18,670
+Siedli przy końcu, jednakże nie w rzędzie.
+
+540
+00:23:18,670 --> 00:23:21,420
+Mniemał Cyneasz królów w majestacie,
+
+541
+00:23:21,420 --> 00:23:23,340
+Kiedy na rzymskie patrzał senatory.
+
+542
+00:23:23,340 --> 00:23:25,860
+Twój to jest obraz, zacny jubilacie,
+
+543
+00:23:25,860 --> 00:23:28,980
+Wasz, bakałarze, regenty, lektory,
+
+544
+00:23:28,980 --> 00:23:31,490
+I wy, co pierwsze miejsca posiadacie,
+
+545
+00:23:31,490 --> 00:23:33,620
+Prowincjały i definitory.
+
+546
+00:23:33,620 --> 00:23:35,040
+Znać z twarz powagę!
+
+547
+00:23:35,040 --> 00:23:36,900
+Jak Tatry przed burzą,
+
+548
+00:23:36,900 --> 00:23:39,460
+Sławą zagrzane łysiny się kurzą.
+
+549
+00:23:39,460 --> 00:23:41,970
+Powstali wszyscy, póki nie usiądzie
+
+550
+00:23:41,970 --> 00:23:44,500
+Pan wicesgerent, mecenas dysputy.
+
+551
+00:23:44,500 --> 00:23:47,010
+Sławny to mędrzec i pilny w urzędzie;
+
+552
+00:23:47,010 --> 00:23:50,100
+Wziął kunią szubę i czerwone buty.
+
+553
+00:23:50,100 --> 00:23:52,580
+Dalej ksiądz proboszcz w rysiej rewerendzie,
+
+554
+00:23:52,580 --> 00:23:54,860
+Dalej ojcowie, co czynią zarzuty.
+
+555
+00:23:54,860 --> 00:23:57,410
+Defendens zatem, uchyliwszy głowę,
+
+556
+00:23:57,410 --> 00:24:00,700
+Do mecenasa zaczął tak przemowę:
+
+557
+00:24:00,700 --> 00:24:02,860
+„Na płytkim gruncie rozbujałych fluktów
+
+558
+00:24:02,860 --> 00:24:05,320
+Korab mądrości chwieje się i wznosi,
+
+559
+00:24:05,320 --> 00:24:07,900
+A, pełen szczepu wybornego fruktów,
+
+560
+00:24:07,900 --> 00:24:10,050
+Niewysławioną kiedy korzyść nosi —
+
+561
+00:24:10,050 --> 00:24:12,410
+Twoich, przezacny mężu, akweduktów
+
+562
+00:24:12,410 --> 00:24:15,300
+Żąda, a pewien, że względy uprosi,
+
+563
+00:24:15,300 --> 00:24:17,840
+Płynie pod wielkiem hasłem, głosząc światu,
+
+564
+00:24:17,840 --> 00:24:20,750
+Żeś ty jest perłą konchy Perypatu.
+
+565
+00:24:20,750 --> 00:24:23,600
+Słońce, co światłość znikłą wydobywa,
+
+566
+00:24:23,600 --> 00:24:25,790
+Planety, które różne chwile dzielą,
+
+567
+00:24:25,790 --> 00:24:28,380
+Księżyc, co równie wzrasta i ubywa,
+
+568
+00:24:28,380 --> 00:24:30,830
+Gwiazdy, co nocną posępność weselą, —
+
+569
+00:24:30,830 --> 00:24:32,980
+Wszystko to w sobie zawiera Leliwa
+
+570
+00:24:32,980 --> 00:24:35,210
+I dom, szacowną wsparty parentelą
+
+571
+00:24:35,210 --> 00:24:37,970
+Ostrogskich książąt, pińczowskich margrabiów,
+
+572
+00:24:37,970 --> 00:24:41,190
+Górków, Tarnowskich i Krasickich hrabiów.
+
+573
+00:24:41,190 --> 00:24:44,140
+Milczcie, Burbony lub w koncentach nowych
+
+574
+00:24:44,140 --> 00:24:46,490
+Głoście szczęśliwość sarmackiej krainy!
+
+575
+00:24:46,490 --> 00:24:48,820
+I wy, potomki synów Jagiełłowych,
+
+576
+00:24:48,820 --> 00:24:51,360
+I wy, auzońskie Gwelfy, Gibeliny,
+
+577
+00:24:51,360 --> 00:24:53,950
+Znoście wielbienia, a w pieniach gotowych
+
+578
+00:24:53,950 --> 00:24:56,290
+Dziś uwielbiajcie heroiczne czyny!
+
+579
+00:24:56,290 --> 00:24:59,030
+Niechaj najdalsza potomność pamięta
+
+580
+00:24:59,030 --> 00:25:02,760
+Wielkość dzieł, nauk, cnót wicesgerenta!
+
+581
+00:25:02,760 --> 00:25:05,280
+Niechaj się Zoil od zazdrości puka,
+
+582
+00:25:05,280 --> 00:25:07,280
+Niechaj się Syrty i Charybdy kruszą,
+
+583
+00:25:07,280 --> 00:25:09,650
+Niechaj i Paktol nowych źrzódeł szuka,
+
+584
+00:25:09,650 --> 00:25:12,030
+Niech się Olimpy i Parnasy wzruszą!
+
+585
+00:25:12,030 --> 00:25:14,120
+W tobie firmament znajduje nauka,
+
+586
+00:25:14,120 --> 00:25:16,580
+Tyś kraju zaszczyt, tyś ojczyzny duszą!
+
+587
+00:25:16,580 --> 00:25:19,300
+Przeniosłeś w sławie sfinksy i feniksy,
+
+588
+00:25:19,300 --> 00:25:21,540
+W dziełach Euryppy, Bucentaury.
+
+589
+00:25:21,540 --> 00:25:22,900
+Dixi.”
+
+590
+00:25:22,900 --> 00:25:25,510
+Powszechne zatem nastało milczenie.
+
+591
+00:25:25,510 --> 00:25:27,830
+Przerwał je ociec Łukasz od Trzech Królów,
+
+592
+00:25:27,830 --> 00:25:30,180
+A, nie rozwodząc się w słowach uczenie,
+
+593
+00:25:30,180 --> 00:25:32,170
+Ani cytując Szkotów i Bartolów,
+
+594
+00:25:32,170 --> 00:25:34,470
+(Po cóż tak zbytne głowy zaprzątnienie?)
+
+595
+00:25:34,470 --> 00:25:37,030
+Zaczął od rzeczy, Hidaspów, Paktolów
+
+596
+00:25:37,030 --> 00:25:39,320
+I, wziąwszy stronę przeciwną na oko,
+
+597
+00:25:39,320 --> 00:25:41,970
+Nabił argument i strzelił z Baroko.
+
+598
+00:25:41,970 --> 00:25:44,550
+Gdyby nie puklerz Distinguo dwójręczny,
+
+599
+00:25:44,550 --> 00:25:46,700
+Ległby defendens na pierwszym spotkaniu.
+
+600
+00:25:46,700 --> 00:25:49,870
+Nim się zastawił a, w ujęciu zręczny,
+
+601
+00:25:49,870 --> 00:25:51,740
+Nie bawiąc długo w reasumowaniu,
+
+602
+00:25:51,740 --> 00:25:54,750
+Strzelił na odwrót, pocisk niezbyt wdzięczny
+
+603
+00:25:54,750 --> 00:25:56,920
+Raził oppugnans w drugiem nabijaniu;
+
+604
+00:25:56,920 --> 00:25:59,520
+Odstrzelił zasię z Celarent jak z kuszy,
+
+605
+00:25:59,520 --> 00:26:01,890
+Ale grot słaby poszedł mimo uszy.
+
+606
+00:26:01,890 --> 00:26:04,130
+Ocalon dwakroć rycerz zaczepiony,
+
+607
+00:26:04,130 --> 00:26:06,320
+Już się na trzeci bój wstępny zdobywał,
+
+608
+00:26:06,320 --> 00:26:08,650
+Już, jak z cięciwy, dzielnie natężony
+
+609
+00:26:08,650 --> 00:26:10,780
+Świeży grot tylko co nie wylatywał —
+
+610
+00:26:10,780 --> 00:26:13,750
+Wtem krzyk ogromny wszczął się z drugiej strony.
+
+611
+00:26:13,750 --> 00:26:16,090
+Powszechnej bitwy gdy się nie spodziewał,
+
+612
+00:26:16,090 --> 00:26:18,910
+Spojrzał na swoich: wtem trąby i kotły
+
+613
+00:26:18,910 --> 00:26:22,550
+Stłumiły odgłos i wrzawę przygniotły.
+
+614
+00:26:22,550 --> 00:26:24,590
+Zdrętwieli wszyscy na takowe hasło,
+
+615
+00:26:24,590 --> 00:26:27,110
+Już i mecenas z krzesła się był ruszył.
+
+616
+00:26:27,110 --> 00:26:29,810
+Wtem, natężywszy figurę opasłą,
+
+617
+00:26:29,810 --> 00:26:31,960
+Gdy o dyspucie nikt dobrze nie tuszył,
+
+618
+00:26:31,960 --> 00:26:34,290
+Dwóch jubilatów tak okrutnie wrzasło,
+
+619
+00:26:34,290 --> 00:26:36,700
+Że się dźwięk kotłów i trąbów zagłuszył.
+
+620
+00:26:36,700 --> 00:26:39,730
+Wzdrygnął się doktor i zatrząsł gmach cały,
+
+621
+00:26:39,730 --> 00:26:41,920
+Echa okropny odgłos powtarzały.
+
+622
+00:26:41,920 --> 00:26:44,550
+Upuścił kielich, który w ręku trzymał,
+
+623
+00:26:44,550 --> 00:26:46,400
+Pijąc za zdrowie wicesgerentowej,
+
+624
+00:26:46,400 --> 00:26:48,970
+Piękny Hiacynt, co się właśnie zżymał
+
+625
+00:26:48,970 --> 00:26:51,270
+I już zdobywał na komplement nowy.
+
+626
+00:26:51,270 --> 00:26:53,580
+Skoczył brat Czesław, lecz go nie utrzymał;
+
+627
+00:26:53,580 --> 00:26:55,640
+Oblało wino żużmant parterowy,
+
+628
+00:26:55,640 --> 00:26:58,370
+Żużmant, ozdoba dubieńskich kontraktów,
+
+629
+00:26:58,370 --> 00:27:01,290
+Zysk nieśmiertelny sfałszowanych aktów.
+
+630
+00:27:01,290 --> 00:27:04,310
+Wtenczas, gdy złością uwiedzione mnichy
+
+631
+00:27:04,310 --> 00:27:06,270
+Wzięli się nagle do uczonej broni,
+
+632
+00:27:06,270 --> 00:27:08,500
+Hiacynt miły, łagodny i cichy,
+
+633
+00:27:08,500 --> 00:27:10,570
+Porzuca bitwę i od wojny stroni.
+
+634
+00:27:10,570 --> 00:27:12,770
+Słodkie rozmowy przerywały śmiechy…
+
+635
+00:27:12,770 --> 00:27:15,360
+Zegar zbyt prędko bieży, prędko dzwoni:
+
+636
+00:27:15,360 --> 00:27:17,590
+Płyną w zaciszy szczęśliwe momenta,
+
+637
+00:27:17,590 --> 00:27:20,320
+Wesół Hiacynt, dewotka kontenta.
+
+638
+00:27:20,320 --> 00:27:23,430
+Postać jej wdzięczna, oczy, choć spuszczone,
+
+639
+00:27:23,430 --> 00:27:25,360
+Przecież niekiedy błyszczą się jaskrawię;
+
+640
+00:27:25,360 --> 00:27:28,110
+Choć w świętej mowie, słóweczka pieszczone —
+
+641
+00:27:28,110 --> 00:27:30,630
+Krył się subtelny kunszt w skromnej postawie.
+
+642
+00:27:30,630 --> 00:27:33,210
+Westchnienie, wolnym jękiem powleczone,
+
+643
+00:27:33,210 --> 00:27:35,350
+Umiała mieścić w potocznej zabawie.
+
+644
+00:27:35,350 --> 00:27:38,240
+Muszki z różańcem, wachlarz przy gromnicy,
+
+645
+00:27:38,240 --> 00:27:41,150
+Przy Hipolicie — Głos synogarlicy.
+
+646
+00:27:41,150 --> 00:27:44,090
+Już przeszedł rozdział upiorów i strachów,
+
+647
+00:27:44,090 --> 00:27:46,240
+Dezyderosa i matki d'Agreda;
+
+648
+00:27:46,240 --> 00:27:48,730
+Już się wytoczył dyskurs z miejskich gmachów
+
+649
+00:27:48,730 --> 00:27:50,660
+I okolicom już pokoju nie da;
+
+650
+00:27:50,660 --> 00:27:53,250
+Żarliwość, pełna skutecznych zamachów,
+
+651
+00:27:53,250 --> 00:27:55,460
+Wojnę występkom ludzkim wypowieda,
+
+652
+00:27:55,460 --> 00:27:58,230
+A, gromiąc w innych grzechy nieostrożnie,
+
+653
+00:27:58,230 --> 00:28:01,120
+Z cicha kaleczy, zabija pobożnie.
+
+654
+00:28:01,120 --> 00:28:04,420
+W tym świętem dziele wrzask je nagły zastał,
+
+655
+00:28:04,420 --> 00:28:06,900
+Wrzask popędliwy, okropny i srogi:
+
+656
+00:28:06,900 --> 00:28:09,320
+Po wdzięcznej chwili czas ponury nastał;
+
+657
+00:28:09,320 --> 00:28:11,630
+Piękny Hiacynt, pełen trosk i trwogi,
+
+658
+00:28:11,630 --> 00:28:14,340
+Słysząc, że odgłos coraz bardziej wzrastał,
+
+659
+00:28:14,340 --> 00:28:16,520
+Porzuca wszystko, bierze się do drogi.
+
+660
+00:28:16,520 --> 00:28:18,840
+Darmo dewotka i płacze, i prosi,
+
+661
+00:28:18,840 --> 00:28:21,520
+Darmo brat Czesław butelkę przynosi.
+
+662
+00:28:21,520 --> 00:28:24,340
+Trzykroć się ku drzwiom alkierza potoczył,
+
+663
+00:28:24,340 --> 00:28:26,390
+Trzykroć go miła ręka zatrzymała —
+
+664
+00:28:26,390 --> 00:28:28,960
+Wyrwał się wreszcie i przez próg przeskoczył;
+
+665
+00:28:28,960 --> 00:28:31,330
+Padła dewotka i z żalu omdlała.
+
+666
+00:28:31,330 --> 00:28:34,220
+(Brat Czesław flaszkę do kaptura wtroczył.)
+
+667
+00:28:34,220 --> 00:28:36,840
+I gdy się wzrusza okolica cała,
+
+668
+00:28:36,840 --> 00:28:39,450
+Przez mostki, kładki, bruki i rynsztoki
+
+669
+00:28:39,450 --> 00:28:42,490
+Pędził, gdzie górne niosły go obłoki.
+
+670
+00:28:42,490 --> 00:28:45,140
+Koniec
+Pieśni czwartej
+
+671
+00:28:50,380 --> 00:28:53,350
+Pieśń piąta
+Monachomachii
+czyli
+Wojny mnichów
+
+672
+00:28:53,350 --> 00:28:55,440
+Autorstwa
+Ignacego Krasickiego
+
+673
+00:28:55,440 --> 00:28:57,190
+Nagranie LibriVox.
+
+674
+00:28:57,190 --> 00:29:00,410
+Wszystkie nagrania LibriVox należą do domeny publicznej.
+
+675
+00:29:00,410 --> 00:29:04,860
+Więcej informacji o nagraniach i wolontariacie na stronie: LibriVox.org.
+
+676
+00:29:04,860 --> 00:29:06,900
+Czyta Piotr Nater
+
+677
+00:29:06,900 --> 00:29:09,450
+I śmiech niekiedy może być nauką,
+
+678
+00:29:09,450 --> 00:29:11,770
+Kiedy się z przywar, nie z osób natrząsa;
+
+679
+00:29:11,770 --> 00:29:14,030
+I żart dowcipną przyprawiony sztuką
+
+680
+00:29:14,030 --> 00:29:16,380
+Zbawienny, kiedy szczypie, a nie kąsa;
+
+681
+00:29:16,380 --> 00:29:19,260
+I krytyk zda się, kiedy nie z przynuką,
+
+682
+00:29:19,260 --> 00:29:22,030
+Bez żółci łaje, przystojnie się dąsa.
+
+683
+00:29:22,030 --> 00:29:24,880
+Szanujmy mądrych, przykładnych, chwalebnych,
+
+684
+00:29:24,880 --> 00:29:28,180
+Śmiejmy się z głupich, choć i przewielebnych!
+
+685
+00:29:28,180 --> 00:29:31,500
+Wpada Hiacynt, nowa postać rzeczy!
+
+686
+00:29:31,500 --> 00:29:34,040
+Miejsce dysputy zastał placem wojny;
+
+687
+00:29:34,040 --> 00:29:36,270
+Jeden drugiego rani i kaleczy,
+
+688
+00:29:36,270 --> 00:29:38,790
+Dostał po uchu nasz rycerz spokojny.
+
+689
+00:29:38,790 --> 00:29:41,090
+Widzi, że skromność już nie ubezpieczy,
+
+690
+00:29:41,090 --> 00:29:44,240
+Więc, dzielny w męstwie, w oddawaniu hojny,
+
+691
+00:29:44,240 --> 00:29:46,800
+Jak się zawinął i z boku, i z góry,
+
+692
+00:29:46,800 --> 00:29:49,460
+Za jednym razem urwał dwa kaptury.
+
+693
+00:29:49,460 --> 00:29:52,230
+Lecą sandały i trepki, i pasy,
+
+694
+00:29:52,230 --> 00:29:54,570
+Wrzawa powszechna przeraża i głuszy.
+
+695
+00:29:54,570 --> 00:29:56,970
+Zdrętwiał Hiacynt na takie hałasy,
+
+696
+00:29:56,970 --> 00:29:59,310
+Chciałby uniknąć bitwy z całej duszy,
+
+697
+00:29:59,310 --> 00:30:01,550
+A przeklinając nieszczęśliwe czasy,
+
+698
+00:30:01,550 --> 00:30:04,070
+Resztę kaptura nasadził na uszy.
+
+699
+00:30:04,070 --> 00:30:07,300
+Już się wymykał… wtem kuflem od wina
+
+700
+00:30:07,300 --> 00:30:10,300
+Legł z sławnej ręki ojca Zefiryna.
+
+701
+00:30:10,300 --> 00:30:12,870
+Ryknął Gaudenty jak lew rozjuszony,
+
+702
+00:30:12,870 --> 00:30:14,460
+Gdy Hiacynta na ziemi zobaczył;
+
+703
+00:30:14,460 --> 00:30:17,330
+Nową więc złością z nagła zapalony,
+
+704
+00:30:17,330 --> 00:30:19,980
+Żadnemu z ojców, z braci nie przebaczył:
+
+705
+00:30:19,980 --> 00:30:23,020
+Padł i mecenas z krzesłem przewrócony,
+
+706
+00:30:23,020 --> 00:30:24,670
+Definitora za kaptur zahaczył,
+
+707
+00:30:24,670 --> 00:30:27,510
+Łukasz raniony zwinął się w trzy kłęby,
+
+708
+00:30:27,510 --> 00:30:30,630
+Stracił Kleofas ostatnie dwa zęby.
+
+709
+00:30:30,630 --> 00:30:33,510
+Coraz się mnożą i krzyki, i wrzaski,
+
+710
+00:30:33,510 --> 00:30:36,250
+Hałas powstaje i wrzawa, aż zgroza!
+
+711
+00:30:36,250 --> 00:30:38,980
+Ociec Remigi, sążnisty a płaski,
+
+712
+00:30:38,980 --> 00:30:41,240
+Używa żwawo zgrzebnego powroza,
+
+713
+00:30:41,240 --> 00:30:44,060
+Wziął w łeb Kapistran obręczem od faski,
+
+714
+00:30:44,060 --> 00:30:46,790
+Dydak półgarncem ranił Symforoza,
+
+715
+00:30:46,790 --> 00:30:49,220
+Skacze Regulat do oczów jak żmija,
+
+716
+00:30:49,220 --> 00:30:52,010
+Longin się z rożnem walecznie uwija.
+
+717
+00:30:52,010 --> 00:30:54,670
+Już był wyciskał talerze i szklanki,
+
+718
+00:30:54,670 --> 00:30:56,890
+Pękły i kufle na łbach hartowanych,
+
+719
+00:30:56,890 --> 00:30:59,430
+Porwał natychmiast książkę zza firanki:
+
+720
+00:30:59,430 --> 00:31:02,120
+Wojsko afektów zarekrutowanych.
+
+721
+00:31:02,120 --> 00:31:04,910
+Nią się zakłada, pędzi poza szranki
+
+722
+00:31:04,910 --> 00:31:07,270
+Rycerzów długą bitwą zmordowanych.
+
+723
+00:31:07,270 --> 00:31:09,810
+Tak niegdyś sławny mocarz Palestyny
+
+724
+00:31:09,810 --> 00:31:12,530
+Oślą paszczęką gromił Filistyny.
+
+725
+00:31:12,530 --> 00:31:15,240
+Widzi to Rajmund, ozdoba Karmelu,
+
+726
+00:31:15,240 --> 00:31:17,250
+Widzi w tryumfie syna Dominika:
+
+727
+00:31:17,250 --> 00:31:20,210
+Wyjeżdża na harc i wpada wśrzód wielu,
+
+728
+00:31:20,210 --> 00:31:22,430
+Godnego sobie szuka przeciwnika.
+
+729
+00:31:22,430 --> 00:31:25,040
+Rafał z nim obok: „Ratuj, przyjacielu!” —
+
+730
+00:31:25,040 --> 00:31:25,750
+Rzekł.
+
+731
+00:31:25,750 --> 00:31:27,680
+Seraficzna w tym punkcie kronika
+
+732
+00:31:27,680 --> 00:31:30,970
+Padła nań z góry; legł i ręką kiwnął,
+
+733
+00:31:30,970 --> 00:31:33,890
+Dwa razy jęknął, cztery razy ziewnął.
+
+734
+00:31:33,890 --> 00:31:36,740
+Zapłakał Rafał, a mądry po szkodzie,
+
+735
+00:31:36,740 --> 00:31:39,430
+Wtenczas błąd poznał, że wróżkom nie wierzył,
+
+736
+00:31:39,430 --> 00:31:41,780
+Dotrzymał jednak kroku na odwodzie,
+
+737
+00:31:41,780 --> 00:31:44,130
+A, gdy Gaudenty na niego się mierzył,
+
+738
+00:31:44,130 --> 00:31:46,660
+Zmokłem kropidłem w poświęconej wodzie
+
+739
+00:31:46,660 --> 00:31:49,390
+Oczy mu zalał, trzonkiem w łeb uderzył.
+
+740
+00:31:49,390 --> 00:31:51,590
+Nie spodziewając się takowej wanny,
+
+741
+00:31:51,590 --> 00:31:54,200
+Stanął Gaudenty zmoczony i ranny.
+
+742
+00:31:54,200 --> 00:31:56,730
+Otrząsł się wkrótce, a nabrawszy duchu,
+
+743
+00:31:56,730 --> 00:31:59,030
+W dwójnasób czyny heroiczne mnożył.
+
+744
+00:31:59,030 --> 00:32:00,470
+Ojcze Barnabo!
+
+745
+00:32:00,470 --> 00:32:01,650
+Lepiej było w puchu.
+
+746
+00:32:01,650 --> 00:32:05,070
+Po coś wszedł w wojnę, po coś się tak srożył?
+
+747
+00:32:05,070 --> 00:32:07,750
+I ty, Pafnucy, ległeś w tym rozruchu,
+
+748
+00:32:07,750 --> 00:32:09,970
+I ty, Gerwazy, słusznieś się zatrwożył.
+
+749
+00:32:09,970 --> 00:32:13,250
+Nikt go nie wstrzyma w zemście przedsięwziętej,
+
+750
+00:32:13,250 --> 00:32:16,360
+Na waszą zgubę odetchnął Gaudenty.
+
+751
+00:32:16,360 --> 00:32:18,970
+Tak gdy z wierzchołka Alpów niebotycznych
+
+752
+00:32:18,970 --> 00:32:21,370
+Mały się strumyk, sącząc, wydobędzie,
+
+753
+00:32:21,370 --> 00:32:24,030
+Wzmaga się coraz w spadaniach rozlicznych,
+
+754
+00:32:24,030 --> 00:32:26,570
+Już brzeg podrywa, już go słychać wszędzie,
+
+755
+00:32:26,570 --> 00:32:29,020
+Echo szum mnoży w skałach okolicznych,
+
+756
+00:32:29,020 --> 00:32:31,690
+Staje się rzeką, a w gwałtownym pędzie
+
+757
+00:32:31,690 --> 00:32:34,480
+Pieni się, huczy i zżyma w bałwany,
+
+758
+00:32:34,480 --> 00:32:37,860
+Tym sroższy w biegu, im dłużej wstrzymany.
+
+759
+00:32:37,860 --> 00:32:39,680
+Wojna powszechna.
+
+760
+00:32:39,680 --> 00:32:41,020
+Jak zabieżeć złemu,
+
+761
+00:32:41,020 --> 00:32:43,560
+W kącie z proboszczem wicesgerent radzą,
+
+762
+00:32:43,560 --> 00:32:46,170
+A, chcąc usłużyć dobru powszechnemu,
+
+763
+00:32:46,170 --> 00:32:48,190
+Doktora tamże do siebie prowadzą.
+
+764
+00:32:48,190 --> 00:32:50,570
+Każdy z nich daje zdanie po swojemu.
+
+765
+00:32:50,570 --> 00:32:53,250
+Prałat, gdy postrzegł, że się w domu wadzą,
+
+766
+00:32:53,250 --> 00:32:55,860
+Biorąc w głąb rzeczy przez swój wielki rozum,
+
+767
+00:32:55,860 --> 00:32:59,140
+Rozkazał przynieść vitrum gloriosum.
+
+768
+00:32:59,140 --> 00:33:02,310
+Co niegdyś w Troi był posąg Pallady,
+
+769
+00:33:02,310 --> 00:33:04,690
+Co w Rzymie wieczne westalskie ognisko,
+
+770
+00:33:04,690 --> 00:33:07,150
+Tym był ten puchar, czczony przez pradziady,
+
+771
+00:33:07,150 --> 00:33:09,480
+Starożytności wdzięczne widowisko.
+
+772
+00:33:09,480 --> 00:33:12,030
+Wyjęto ze czcią z najpierwszej szuflady;
+
+773
+00:33:12,030 --> 00:33:14,290
+Przytomni zatem skłonili się nisko
+
+774
+00:33:14,290 --> 00:33:16,330
+I tę wieczystej załogę rozkoszy
+
+775
+00:33:16,330 --> 00:33:18,850
+W obydwie ręce wziął ksiądz podkustoszy.
+
+776
+00:33:18,850 --> 00:33:21,850
+Któż cię nad niego mógł lepiej piastować,
+
+777
+00:33:21,850 --> 00:33:22,970
+Zacny pucharze?
+
+778
+00:33:22,970 --> 00:33:24,490
+Kto nosić dostojnie?
+
+779
+00:33:24,490 --> 00:33:26,610
+On jeden z tobą umiał dokazować,
+
+780
+00:33:26,610 --> 00:33:29,230
+On cię wart dźwigać w pokoju i w wojnie.
+
+781
+00:33:29,230 --> 00:33:31,820
+Szli dalej, żeby ten skarb uszanować,
+
+782
+00:33:31,820 --> 00:33:34,290
+Dzwonnik z szafarzem, ubrani przystojnie,
+
+783
+00:33:34,290 --> 00:33:37,400
+I Krzysztof trębacz, co w post i w Wielkanoc
+
+784
+00:33:37,400 --> 00:33:40,280
+Z kościelnej wieży trąbił na dobranoc.
+
+785
+00:33:40,280 --> 00:33:43,270
+Już się zbliżają ku miejscu strasznemu,
+
+786
+00:33:43,270 --> 00:33:45,190
+Gdzie się zwaśnione mnichy potykają.
+
+787
+00:33:45,190 --> 00:33:47,500
+Czynią plac wszyscy dzbanu poważnemu,
+
+788
+00:33:47,500 --> 00:33:49,660
+Wszyscy ciekawie skutku wyglądają.
+
+789
+00:33:49,660 --> 00:33:51,750
+Mężny nosiciel, jednak po staremu
+
+790
+00:33:51,750 --> 00:33:53,970
+Myśli trwożliwe pokoju nie dają;
+
+791
+00:33:53,970 --> 00:33:56,690
+Umysł wspaniały podłej trwodze przeczy,
+
+792
+00:33:56,690 --> 00:34:00,100
+Orzeźwia dobro pospolitej rzeczy.
+
+793
+00:34:00,100 --> 00:34:02,630
+Już są u furty: ta stoi otworem…
+
+794
+00:34:02,630 --> 00:34:03,650
+Zły znak!
+
+795
+00:34:03,650 --> 00:34:05,740
+W tym punkcie z daleka postrzegli,
+
+796
+00:34:05,740 --> 00:34:08,320
+Jako mecenas, prałat wraz z doktorem
+
+797
+00:34:08,320 --> 00:34:10,310
+Na przywitanie szybkim krokiem biegli
+
+798
+00:34:10,310 --> 00:34:12,870
+I, żeby z zwykłym wprowadzić honorem,
+
+799
+00:34:12,870 --> 00:34:15,220
+Niektórych ojców i braci przestrzegli.
+
+800
+00:34:15,220 --> 00:34:17,370
+Wchodzi szczęśliwie puchar między braty,
+
+801
+00:34:17,370 --> 00:34:20,460
+Do doktorowskiej zaniesion komnaty.
+
+802
+00:34:20,460 --> 00:34:23,200
+Koniec
+Pieśni piątej
+
+803
+00:34:28,200 --> 00:34:31,260
+Pieśń szósta
+Monachomachii
+czyli
+Wojny mnichów
+
+804
+00:34:31,260 --> 00:34:33,240
+Autorstwa
+Ignacego Krasickiego
+
+805
+00:34:33,240 --> 00:34:35,060
+Nagranie LibriVox.
+
+806
+00:34:35,060 --> 00:34:38,240
+Wszystkie nagrania LibriVox należą do domeny publicznej.
+
+807
+00:34:38,240 --> 00:34:42,720
+Więcej informacji o nagraniach i wolontariacie na stronie: LibriVox.org.
+
+808
+00:34:42,720 --> 00:34:45,090
+Czyta Piotr Nater
+
+809
+00:34:45,090 --> 00:34:47,330
+Już to ostatnia pieśń, mili ojcowie,
+
+810
+00:34:47,330 --> 00:34:49,610
+Miejcie cierpliwość, czekajcie do końca!
+
+811
+00:34:49,610 --> 00:34:51,980
+Jeśli czujecie niesmak w przykrej mowie —
+
+812
+00:34:51,980 --> 00:34:54,720
+Znalazł się krytyk, znajdzie się obrońca.
+
+813
+00:34:54,720 --> 00:34:56,190
+Po cóż się gniewać?
+
+814
+00:34:56,190 --> 00:34:57,130
+Wszak astronomowie
+
+815
+00:34:57,130 --> 00:34:59,400
+Znaleźli plamy nawet wpośrzód słońca.
+
+816
+00:34:59,400 --> 00:35:02,490
+W szyszaku, w czapce, w turbanie, w kapturze —
+
+817
+00:35:02,490 --> 00:35:04,750
+Wszyscyśmy jednej podlegli naturze.
+
+818
+00:35:04,750 --> 00:35:08,040
+Postawion puchar na miejscu osobnym;
+
+819
+00:35:08,040 --> 00:35:10,260
+Odkrył go prałat, aby był widziany.
+
+820
+00:35:10,260 --> 00:35:12,400
+Zadziwił oczy widokiem ozdobnym,
+
+821
+00:35:12,400 --> 00:35:15,430
+Śklni się w nim kruszec srebrno-pozłacany.
+
+822
+00:35:15,430 --> 00:35:17,590
+Wiele pomieścić trunku był sposobnym,
+
+823
+00:35:17,590 --> 00:35:20,310
+Miara oznacza: był to dzban nad dzbany!
+
+824
+00:35:20,310 --> 00:35:22,940
+Rzeźba wyborna na górze, a z boku
+
+825
+00:35:22,940 --> 00:35:25,290
+Wyryte były cztery części roku.
+
+826
+00:35:25,290 --> 00:35:27,160
+O wdzięczna wiosno!
+
+827
+00:35:27,160 --> 00:35:28,350
+Twoje tam zaszczyty
+
+828
+00:35:28,350 --> 00:35:29,930
+Kunszt cudny wydał!
+
+829
+00:35:29,930 --> 00:35:31,210
+Tu w pługu zziajane
+
+830
+00:35:31,210 --> 00:35:33,330
+Ustają woły, oracz pracowity
+
+831
+00:35:33,330 --> 00:35:35,750
+Nagli, już niwy na pół zaorane.
+
+832
+00:35:35,750 --> 00:35:38,000
+Śpiewa pastuszek w chłodniku ukryty,
+
+833
+00:35:38,000 --> 00:35:40,390
+Skaczą pasterki w wieńce przyodziane.
+
+834
+00:35:40,390 --> 00:35:43,230
+Pękają listki, krzewią młode trawki,
+
+835
+00:35:43,230 --> 00:35:46,260
+Echo głos niesie niewinnej zabawki.
+
+836
+00:35:46,260 --> 00:35:48,390
+Gospodarz z domu do wiernej czeladzi
+
+837
+00:35:48,390 --> 00:35:50,460
+Na oglądanie roli swojej śpieszy;
+
+838
+00:35:50,460 --> 00:35:52,470
+Małe wnuczęta za sobą prowadzi,
+
+839
+00:35:52,470 --> 00:35:54,860
+Widok go zboża już weszłego cieszy.
+
+840
+00:35:54,860 --> 00:35:57,650
+Niesie posiłek; czeladź się gromadzi,
+
+841
+00:35:57,650 --> 00:35:59,930
+Porzuca brony, odbiega lemieszy.
+
+842
+00:35:59,930 --> 00:36:03,130
+Kmotry śpiewają, skaczą, lud się mnoży,
+
+843
+00:36:03,130 --> 00:36:05,560
+Pleban wesoły uznaje dar boży.
+
+844
+00:36:05,560 --> 00:36:08,390
+Już kłos dojrzały ku ziemi się zgina,
+
+845
+00:36:08,390 --> 00:36:10,650
+Już wypróżnione są gniazdeczka ptaszę:
+
+846
+00:36:10,650 --> 00:36:12,870
+Lato swych darów używać zaczyna,
+
+847
+00:36:12,870 --> 00:36:15,340
+Parafianie jadą na kiermasze.
+
+848
+00:36:15,340 --> 00:36:18,000
+Pije ksiądz Wojciech do księdza Marcina,
+
+849
+00:36:18,000 --> 00:36:20,260
+Piją dzwonniki, Piotry i Łukasze;
+
+850
+00:36:20,260 --> 00:36:22,950
+Gromadzi odpust, weselą jarmarki,
+
+851
+00:36:22,950 --> 00:36:26,270
+Skrzętne po domach biegają kucharki.
+
+852
+00:36:26,270 --> 00:36:28,850
+Jesień plon niesie, korzyści zupełne,
+
+853
+00:36:28,850 --> 00:36:31,000
+Jesień radości pomnaża przyczyny:
+
+854
+00:36:31,000 --> 00:36:33,740
+Składa gospodarz owiec miętką wełnę,
+
+855
+00:36:33,740 --> 00:36:35,990
+Tłoczy na zimę wyborne jarzyny,
+
+856
+00:36:35,990 --> 00:36:38,800
+Cieszy się, patrząc, że stodoły pełne;
+
+857
+00:36:38,800 --> 00:36:41,340
+Śmieje się pleban, kontent z dziesięciny;
+
+858
+00:36:41,340 --> 00:36:43,640
+Co dzień odbiera nowiny pocieszne,
+
+859
+00:36:43,640 --> 00:36:47,060
+Co dzień rachuje wytyczne i meszne.
+
+860
+00:36:47,060 --> 00:36:50,280
+Mróz rolę ścisnął, śnieg osiadł na grzędzie,
+
+861
+00:36:50,280 --> 00:36:52,610
+Zima posępna przyszła po jesieni;
+
+862
+00:36:52,610 --> 00:36:55,590
+Wrzaski po karczmach, radość słychać wszędzie,
+
+863
+00:36:55,590 --> 00:36:58,300
+Trunek myśl rzeźwi i twarze rumieni.
+
+864
+00:36:58,300 --> 00:37:00,680
+Idzie z wikarym pleban po kolędzie,
+
+865
+00:37:00,680 --> 00:37:02,950
+Żaki śpiewanie zaczynają w sieni.
+
+866
+00:37:02,950 --> 00:37:05,400
+Gospodarz z dziećmi dobrodzieja wita;
+
+867
+00:37:05,400 --> 00:37:07,810
+Kończy się kaszlem pobożna wizyta.
+
+868
+00:37:07,810 --> 00:37:10,250
+Wierzchołek dzbana przedziwnej roboty
+
+869
+00:37:10,250 --> 00:37:12,930
+Grono prałatów w kapitule stawił:
+
+870
+00:37:12,930 --> 00:37:15,410
+Ogromne barki kształcił łańcuch złoty,
+
+871
+00:37:15,410 --> 00:37:18,180
+Dalej wspaniałą ucztę proboszcz sprawił.
+
+872
+00:37:18,180 --> 00:37:20,580
+Znużonej trzodzie z przykładnej ochoty
+
+873
+00:37:20,580 --> 00:37:23,050
+Pulchnokarczysty pasterz błogosławił.
+
+874
+00:37:23,050 --> 00:37:26,290
+Śmierć była na dnie, za nią w ścisłej parze
+
+875
+00:37:26,290 --> 00:37:28,730
+Obfite stypy i aniwersarze.
+
+876
+00:37:28,730 --> 00:37:31,960
+Pasą się oczy wspaniałym widokiem,
+
+877
+00:37:31,960 --> 00:37:33,780
+Już zapomnieli o bitwie i radzie.
+
+878
+00:37:33,780 --> 00:37:36,420
+Wtem ociec Kasper leci szybkim krokiem,
+
+879
+00:37:36,420 --> 00:37:39,070
+Oko podbite świadczy, że był w zwadzie.
+
+880
+00:37:39,070 --> 00:37:41,720
+Doktor zwyczajnym tonem i wyrokiem
+
+881
+00:37:41,720 --> 00:37:44,480
+Iść z kuflem w bitwę za pierwszy punkt kładzie.
+
+882
+00:37:44,480 --> 00:37:47,600
+„Z pełnym — rzekł prałat i tak rzecz wywodzi:
+
+883
+00:37:47,600 --> 00:37:50,490
+Puchar ich wstrzyma, a wino pogodzi.”
+
+884
+00:37:50,490 --> 00:37:53,100
+W nagłej potrzebie i skąpiec uczynny:
+
+885
+00:37:53,100 --> 00:37:55,440
+Niesie brat Czesław, rumiany i tłusty,
+
+886
+00:37:55,440 --> 00:37:58,270
+Ogromne flasze — już czuć zapach winny
+
+887
+00:37:58,270 --> 00:38:00,600
+Wina, którego w post i mięsopusty
+
+888
+00:38:00,600 --> 00:38:02,870
+W swej celi tylko doktor miodopłynny
+
+889
+00:38:02,870 --> 00:38:05,180
+Przewielebnymi sam popijał usty;
+
+890
+00:38:05,180 --> 00:38:08,690
+Garniec wlał w puchar Czesław, wlał i stęknął;
+
+891
+00:38:08,690 --> 00:38:11,780
+Rozśmiał się w duchu prałat, doktor jęknął.
+
+892
+00:38:11,780 --> 00:38:14,700
+Idźcież szczęśliwie, gdzie was sława niesie,
+
+893
+00:38:14,700 --> 00:38:16,840
+Pokoju, zgody i miłości dzieci!
+
+894
+00:38:16,840 --> 00:38:17,980
+Idźcie!
+
+895
+00:38:17,980 --> 00:38:20,160
+W ciemnościach niech blask ukaże się,
+
+896
+00:38:20,160 --> 00:38:22,760
+Chwała przed wami przodkuje i leci!
+
+897
+00:38:22,760 --> 00:38:25,250
+Tobie przeklęctwo, Arystotelesie!
+
+898
+00:38:25,250 --> 00:38:27,390
+Czyż cię ta bitwa uczonym zaleci?
+
+899
+00:38:27,390 --> 00:38:29,760
+Cóż ma za korzyść, kto twój towar kupi?
+
+900
+00:38:29,760 --> 00:38:32,580
+Próżność nauka — najszczęśliwsi głupi.
+
+901
+00:38:32,580 --> 00:38:35,570
+Wchodzą już w same progi refektarza,
+
+902
+00:38:35,570 --> 00:38:38,240
+Skąd Mars zajadły Minerwę wypędził;
+
+903
+00:38:38,240 --> 00:38:40,730
+Rajmund tymczasem trzonkiem od lichtarza
+
+904
+00:38:40,730 --> 00:38:41,640
+Jeszcze się bronił.
+
+905
+00:38:41,640 --> 00:38:43,660
+Doktor próżno zrzędził;
+
+906
+00:38:43,660 --> 00:38:46,320
+„Przestańcie bitwy!” — krzyczy i powtarza.
+
+907
+00:38:46,320 --> 00:38:50,220
+Wrzask wszystkich zgłuszył, strach twarze wywędził.
+
+908
+00:38:50,220 --> 00:38:52,270
+Jeszcze się reszta krzepi bez oręża,
+
+909
+00:38:52,270 --> 00:38:54,980
+Gaudenty gromi, Gaudenty zwycięża.
+
+910
+00:38:54,980 --> 00:38:58,280
+Stanął, upuścił broń, skłonił się nisko,
+
+911
+00:38:58,280 --> 00:39:00,530
+Skoro szacowny skarb w progu zobaczył.
+
+912
+00:39:00,530 --> 00:39:02,760
+Stanęli wszyscy na to widowisko,
+
+913
+00:39:02,760 --> 00:39:05,100
+A gdy się puchar coraz zbliżać raczył,
+
+914
+00:39:05,100 --> 00:39:06,540
+Krzyknęli: „Zgoda!
+
+915
+00:39:06,540 --> 00:39:08,090
+…” Tak wojny siedlisko
+
+916
+00:39:08,090 --> 00:39:10,660
+W punkcie dzban miejscem pokoju oznaczył.
+
+917
+00:39:10,660 --> 00:39:13,200
+Czarni i bieli, kafowi i szarzy,
+
+918
+00:39:13,200 --> 00:39:17,080
+Wszystko się łączy, wszystko się kojarzy.
+
+919
+00:39:17,080 --> 00:39:19,020
+Za czyje zdrowie pili w takiej porze,
+
+920
+00:39:19,020 --> 00:39:21,860
+Nie wiem — lecz, gdybym znajdował się z niemi,
+
+921
+00:39:21,860 --> 00:39:24,190
+Piłbym za twoje, szacowny przeorze,
+
+922
+00:39:24,190 --> 00:39:26,370
+Za twoje, który czyny chwalebnymi
+
+923
+00:39:26,370 --> 00:39:28,930
+Jesteś i mistrzem, i ojcem w klasztorze
+
+924
+00:39:28,930 --> 00:39:30,970
+I dajesz poznać przykłady twoimi,
+
+925
+00:39:30,970 --> 00:39:33,640
+Jak umysł prawy zdrożności unika —
+
+926
+00:39:33,640 --> 00:39:36,250
+Cnota, nie odzież czyni zakonnika.
+
+927
+00:39:36,250 --> 00:39:38,760
+Czytaj i pozwól, niech czytają twoi,
+
+928
+00:39:38,760 --> 00:39:41,230
+Niech się z nich każdy niewinnie rozśmieje!
+
+929
+00:39:41,230 --> 00:39:43,360
+Żaden nagany sobie nie przyswoi,
+
+930
+00:39:43,360 --> 00:39:45,860
+Nikt się nie zgorszy, mam pewną nadzieję.
+
+931
+00:39:45,860 --> 00:39:48,150
+Prawdziwa cnota krytyk się nie boi,
+
+932
+00:39:48,150 --> 00:39:50,250
+Niechaj występek jęczy i boleje!
+
+933
+00:39:50,250 --> 00:39:52,530
+Winien odwołać, kto zmyśla zuchwale:
+
+934
+00:39:52,530 --> 00:39:54,220
+Przeczytaj, osądź!
+
+935
+00:39:54,220 --> 00:39:56,520
+Nie pochwalisz — spalę.
+
+936
+00:39:56,520 --> 00:39:58,670
+Koniec
+Pieśni szóstej
+
+937
+00:39:58,670 --> 00:40:04,800
+Koniec
+Monachomachii
+
+938
+00:40:04,800 --> 00:40:05,900
+
+
