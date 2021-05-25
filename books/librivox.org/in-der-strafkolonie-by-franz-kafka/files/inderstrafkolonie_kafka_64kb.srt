@@ -1,0 +1,2198 @@
+1
+00:00:00,440 --> 00:00:04,760
+﻿In der Strafkolonie
+von
+Franz Kafka
+
+2
+00:00:04,760 --> 00:00:07,630
+Dies ist eine LibriVox-Aufnahme.
+
+3
+00:00:07,630 --> 00:00:12,590
+Alle LibriVox-Aufnahmen sind lizenzfrei und in öffentlichem Besitz.
+
+4
+00:00:12,590 --> 00:00:20,120
+Weitere Informationen und Hinweise zur Beteiligung an diesem Projekt gibt es bei LibriVox.org.
+
+5
+00:00:20,120 --> 00:00:24,920
+In der Strafkolonie
+von
+Franz Kafka
+
+6
+00:00:26,380 --> 00:00:37,230
+»Es ist ein eigentümlicher Apparat,« sagte der Offizier zu dem Forschungsreisenden und überblickte mit einem gewissermaßen bewundernden Blick den ihm doch wohlbekannten Apparat.
+
+7
+00:00:37,230 --> 00:00:51,350
+Der Reisende schien nur aus Höflichkeit der Einladung des Kommandanten gefolgt zu sein, der ihn aufgefordert hatte, der Exekution eines Soldaten beizuwohnen, der wegen Ungehorsam und Beleidigung des Vorgesetzten verurteilt worden war.
+
+8
+00:00:51,350 --> 00:00:57,310
+Das Interesse für diese Exekution war wohl auch in der Strafkolonie nicht sehr groß.
+
+9
+00:00:57,310 --> 00:01:08,220
+Wenigstens war hier in dem tiefen, sandigen, von kahlen Abhängen ringsum abgeschlossenen kleinen Tal außer dem Offizier und dem Reisenden nur der Verurteilte,
+
+10
+00:01:08,220 --> 00:01:25,190
+ein stumpfsinniger, breitmäuliger Mensch mit verwahrlostem Haar und Gesicht und ein Soldat zugegen, der die schwere Kette hielt, in welche die kleinen Ketten ausliefen, mit denen der Verurteilte an den Fuß- und Handknöcheln sowie am Hals gefesselt war,
+
+11
+00:01:25,190 --> 00:01:29,150
+und die auch untereinander durch Verbindungsketten zusammenhingen.
+
+12
+00:01:29,150 --> 00:01:43,570
+Übrigens sah der Verurteilte so hündisch ergeben aus, dass es den Anschein hatte, als könnte man ihn frei auf den Abhängen herumlaufen lassen und müsse bei Beginn der Exekution nur pfeifen, damit er käme.
+
+13
+00:01:43,570 --> 00:01:54,940
+Der Reisende hatte wenig Sinn für den Apparat und ging hinter dem Verurteilten fast sichtbar unbeteiligt auf und ab, während der Offizier die letzten Vorbereitungen besorgte,
+
+14
+00:01:54,940 --> 00:02:02,640
+bald unter den tief in die Erde eingebauten Apparat kroch, bald auf eine Leiter stieg, um die oberen Teile zu untersuchen.
+
+15
+00:02:02,640 --> 00:02:11,530
+Das waren Arbeiten, die man eigentlich einem Maschinisten hätte überlassen können, aber der Offizier führte sie mit einem großen Eifer aus,
+
+16
+00:02:11,530 --> 00:02:20,050
+sei es, dass er ein besonderer Anhänger dieses Apparates war, sei es, dass man aus anderen Gründen die Arbeit sonst niemandem anvertrauen konnte.
+
+17
+00:02:20,050 --> 00:02:21,900
+»Jetzt ist alles fertig!«
+
+18
+00:02:21,900 --> 00:02:34,550
+rief er endlich und stieg von der Leiter hinunter. Er war ungemein ermattet, atmete mit weit offenem Mund und hatte zwei zarte Damentaschentücher hinter den Uniformkragen gezwängt.
+
+19
+00:02:34,550 --> 00:02:43,240
+»Diese Uniformen sind doch für die Tropen zu schwer,« sagte der Reisende, statt sich, wie es der Offizier erwartet hatte, nach dem Apparat zu erkundigen.
+
+20
+00:02:43,240 --> 00:02:55,890
+»Gewiss,« sagte der Offizier und wusch sich die von Öl und Fett beschmutzten Hände in einem bereitstehenden Wasserkübel, »aber sie bedeuten die Heimat; wir wollen nicht die Heimat verlieren.
+
+21
+00:02:55,890 --> 00:03:04,850
+— Nun sehen Sie aber diesen Apparat,« fügte er gleich hinzu, trocknete die Hände mit einem Tuch und zeigte gleichzeitig auf den Apparat.
+
+22
+00:03:04,850 --> 00:03:10,880
+»Bis jetzt war noch Händearbeit nötig, von jetzt aber arbeitet der Apparat ganz allein.«
+
+23
+00:03:10,880 --> 00:03:25,120
+Der Reisende nickte und folgte dem Offizier. Dieser suchte sich für alle Zwischenfälle zu sichern und sagte dann: »Es kommen natürlich Störungen vor; ich hoffe zwar, es wird heute keine eintreten, immerhin muss man mit ihnen rechnen.
+
+24
+00:03:25,120 --> 00:03:28,950
+Der Apparat soll ja zwölf Stunden ununterbrochen im Gang sein.
+
+25
+00:03:28,950 --> 00:03:34,960
+Wenn aber auch Störungen vorkommen, so sind es doch nur ganz kleine und sie werden sofort behoben sein.«
+
+26
+00:03:34,960 --> 00:03:36,850
+»Wollen Sie sich nicht setzen?«
+
+27
+00:03:36,850 --> 00:03:45,650
+fragte er schließlich, zog aus einem Haufen von Rohrstühlen einen hervor und bot ihn dem Reisenden an; dieser konnte nicht ablehnen.
+
+28
+00:03:45,650 --> 00:03:50,510
+Er saß nun am Rande einer Grube, in die er einen flüchtigen Blick warf.
+
+29
+00:03:50,510 --> 00:03:52,600
+Sie war nicht sehr tief.
+
+30
+00:03:52,600 --> 00:04:00,520
+Zur einen Seite der Grube war die ausgegrabene Erde zu einem Wall aufgehäuft, zur anderen Seite stand der Apparat.
+
+31
+00:04:00,520 --> 00:04:06,130
+»Ich weiß nicht,« sagte der Offizier, »ob Ihnen der Kommandant den Apparat schon erklärt hat.«
+
+32
+00:04:06,130 --> 00:04:14,030
+Der Reisende machte eine ungewisse Handbewegung; der Offizier verlangte nichts Besseres, denn nun konnte er selbst den Apparat erklären.
+
+33
+00:04:14,030 --> 00:04:22,970
+»Dieser Apparat,« sagte er und fasste eine Kurbelstange, auf die er sich stützte, »ist eine Erfindung unseres früheren Kommandanten.
+
+34
+00:04:22,970 --> 00:04:30,180
+Ich habe gleich bei den allerersten Versuchen mitgearbeitet und war auch bei allen Arbeiten bis zur Vollendung beteiligt.
+
+35
+00:04:30,180 --> 00:04:33,980
+Das Verdienst der Erfindung allerdings gebührt ihm ganz allein.
+
+36
+00:04:33,980 --> 00:04:37,060
+Haben Sie von unserem früheren Kommandanten gehört?
+
+37
+00:04:37,060 --> 00:04:38,420
+Nicht?
+
+38
+00:04:38,420 --> 00:04:44,730
+Nun, ich behaupte nicht zu viel, wenn ich sage, dass die Einrichtung der ganzen Strafkolonie sein Werk ist.
+
+39
+00:04:44,730 --> 00:05:00,500
+Wir, seine Freunde, wussten schon bei seinem Tod, dass die Einrichtung der Kolonie so in sich geschlossen ist, dass sein Nachfolger, und habe er tausend neue Pläne im Kopf, wenigstens während vieler Jahre nichts von dem Alten wird ändern können.
+
+40
+00:05:00,500 --> 00:05:05,520
+Unsere Voraussage ist auch eingetroffen; der neue Kommandant hat es erkennen müssen.
+
+41
+00:05:05,520 --> 00:05:14,730
+Schade, dass Sie den früheren Kommandanten nicht gekannt haben! — Aber,« unterbrach sich der Offizier, »ich schwätze, und sein Apparat steht hier vor uns.
+
+42
+00:05:14,730 --> 00:05:17,950
+Er besteht, wie Sie sehen, aus drei Teilen.
+
+43
+00:05:17,950 --> 00:05:24,160
+Es haben sich im Laufe der Zeit für jeden dieser Teile gewissermaßen volkstümliche Bezeichnungen ausgebildet.
+
+44
+00:05:24,160 --> 00:05:33,240
+Der untere heißt das Bett, der obere heißt der Zeichner, und hier der mittlere, schwebende Teil heißt die Egge.«
+
+45
+00:05:33,240 --> 00:05:34,720
+»Die Egge?«
+
+46
+00:05:34,720 --> 00:05:36,420
+fragte der Reisende.
+
+47
+00:05:36,420 --> 00:05:45,300
+Er hatte nicht ganz aufmerksam zugehört, die Sonne verfing sich allzu stark in dem schattenlosen Tal, man konnte schwer seine Gedanken sammeln.
+
+48
+00:05:45,300 --> 00:05:56,300
+Um so bewundernswerter erschien ihm der Offizier, der im engen, parademäßigen, mit Epauletten beschwerten, mit Schnüren behängten Waffenrock so eifrig seine Sache erklärte,
+
+49
+00:05:56,300 --> 00:06:02,330
+und außerdem, während er sprach, mit einem Schraubendreher noch hier und da an einer Schraube sich zu schaffen machte.
+
+50
+00:06:02,330 --> 00:06:06,760
+In ähnlicher Verfassung wie der Reisende schien der Soldat zu sein.
+
+51
+00:06:06,760 --> 00:06:17,020
+Er hatte um beide Handgelenke die Kette des Verurteilten gewickelt, stützte sich mit einer Hand auf sein Gewehr, ließ den Kopf im Genick hinunterhängen und kümmerte sich um nichts.
+
+52
+00:06:17,020 --> 00:06:26,520
+Der Reisende wunderte sich nicht darüber, denn der Offizier sprach französisch und französisch verstand gewiss weder der Soldat noch der Verurteilte.
+
+53
+00:06:26,520 --> 00:06:34,090
+Um so auffallender war es allerdings, dass der Verurteilte sich dennoch bemühte, den Erklärungen des Offiziers zu folgen.
+
+54
+00:06:34,090 --> 00:06:50,410
+Mit einer Art schläfriger Beharrlichkeit richtete er die Blicke immer dorthin, wohin der Offizier gerade zeigte, und als dieser jetzt vom Reisenden mit einer Frage unterbrochen wurde, sah auch er, ebenso wie der Offizier, den Reisenden an.
+
+55
+00:06:50,410 --> 00:06:55,700
+»Ja, die Egge,« sagte der Offizier, »der Name passt.
+
+56
+00:06:55,700 --> 00:07:06,710
+Die Nadeln sind eggenartig angeordnet, auch wird das Ganze wie eine Egge geführt, wenn auch bloß auf einem Platz und viel kunstgemäßer. Sie werden es übrigens gleich verstehen.
+
+57
+00:07:06,710 --> 00:07:15,270
+Hier auf das Bett wird der Verurteilte gelegt. — Ich will nämlich den Apparat zuerst beschreiben und dann erst die Prozedur selbst ausführen lassen.
+
+58
+00:07:15,270 --> 00:07:17,710
+Sie werden ihr dann besser folgen können.
+
+59
+00:07:17,710 --> 00:07:31,560
+Auch ist ein Zahnrad im Zeichner zu stark abgeschliffen; es kreischt sehr, wenn es im Gang ist; man kann sich dann kaum verständigen; Ersatzteile sind hier leider nur schwer zu beschaffen. — Also hier ist das Bett, wie ich sagte.
+
+60
+00:07:31,560 --> 00:07:36,850
+Es ist ganz und gar mit einer Watteschicht bedeckt; den Zweck dessen werden Sie noch erfahren.
+
+61
+00:07:36,850 --> 00:07:48,190
+Auf diese Watte wird der Verurteilte bäuchlings gelegt, natürlich nackt; hier sind für die Hände, hier für die Füße, hier für den Hals Riemen, um ihn festzuschnallen.
+
+62
+00:07:48,190 --> 00:07:59,620
+Hier am Kopfende des Bettes, wo der Mann, wie ich gesagt habe, zuerst mit dem Gesicht aufliegt, ist dieser kleine Filzstumpf, der leicht so reguliert werden kann, dass er dem Mann gerade in den Mund dringt.
+
+63
+00:07:59,620 --> 00:08:03,820
+Er hat den Zweck, am Schreien und am Zerbeißen der Zunge zu hindern.
+
+64
+00:08:03,820 --> 00:08:10,170
+Natürlich muss der Mann den Filz aufnehmen, da ihm sonst durch den Halsriemen das Genick gebrochen wird.«
+
+65
+00:08:10,170 --> 00:08:11,700
+»Das ist Watte?«
+
+66
+00:08:11,700 --> 00:08:14,490
+fragte der Reisende und beugte sich vor.
+
+67
+00:08:14,490 --> 00:08:19,770
+»Ja gewiss,« sagte der Offizier lächelnd, »befühlen Sie es selbst.«
+
+68
+00:08:19,770 --> 00:08:23,950
+Er fasste die Hand des Reisenden und führte sie über das Bett hin.
+
+69
+00:08:23,950 --> 00:08:31,430
+»Es ist eine besonders präparierte Watte, darum sieht sie so unkenntlich aus; ich werde auf ihren Zweck noch zu sprechen kommen.«
+
+70
+00:08:31,430 --> 00:08:39,500
+Der Reisende war schon ein wenig für den Apparat gewonnen; die Hand zum Schutz gegen die Sonne über den Augen, sah er an dem Apparat in die Höhe.
+
+71
+00:08:39,500 --> 00:08:41,700
+Es war ein großer Aufbau.
+
+72
+00:08:41,700 --> 00:08:47,020
+Das Bett und der Zeichner hatten gleichen Umfang und sahen wie zwei dunkle Truhen aus.
+
+73
+00:08:47,020 --> 00:08:56,890
+Der Zeichner war etwa zwei Meter über dem Bett angebracht; beide waren in den Ecken durch vier Messingstangen verbunden, die in der Sonne fast Strahlen warfen.
+
+74
+00:08:56,890 --> 00:09:01,350
+Zwischen den Truhen schwebte an einem Stahlband die Egge.
+
+75
+00:09:01,350 --> 00:09:16,180
+Der Offizier hatte die frühere Gleichgültigkeit des Reisenden kaum bemerkt, wohl aber hatte er für sein jetzt beginnendes Interesse Sinn; er setzte deshalb in seinen Erklärungen aus, um dem Reisenden zur ungestörten Betrachtung Zeit zu lassen.
+
+76
+00:09:16,180 --> 00:09:24,930
+Der Verurteilte ahmte den Reisenden nach; da er die Hand nicht über die Augen legen konnte, blinzelte er mit freien Augen zur Höhe.
+
+77
+00:09:24,930 --> 00:09:31,500
+»Nun liegt also der Mann,« sagte der Reisende, lehnte sich im Sessel zurück und kreuzte die Beine.
+
+78
+00:09:31,500 --> 00:09:39,780
+»Ja,« sagte der Offizier, schob ein wenig die Mütze zurück und fuhr sich mit der Hand über das heiße Gesicht, »nun hören Sie!
+
+79
+00:09:39,780 --> 00:09:48,640
+Sowohl das Bett, als auch der Zeichner haben ihre eigene elektrische Batterie; das Bett braucht sie für sich selbst, der Zeichner für die Egge.
+
+80
+00:09:48,640 --> 00:09:52,630
+Sobald der Mann festgeschnallt ist, wird das Bett in Bewegung gesetzt.
+
+81
+00:09:52,630 --> 00:09:58,650
+Es zittert in winzigen, sehr schnellen Zuckungen gleichzeitig seitlich, wie auch auf und ab.
+
+82
+00:09:58,650 --> 00:10:09,740
+Sie werden ähnliche Apparate in Heilanstalten gesehen haben; nur sind bei unserem Bett alle Bewegungen genau berechnet; sie müssen nämlich peinlich auf die Bewegungen der Egge abgestimmt sein.
+
+83
+00:10:09,740 --> 00:10:14,270
+Dieser Egge aber ist die eigentliche Ausführung des Urteils überlassen.«
+
+84
+00:10:14,270 --> 00:10:16,290
+»Wie lautet denn das Urteil?«
+
+85
+00:10:16,290 --> 00:10:18,340
+fragte der Reisende.
+
+86
+00:10:18,340 --> 00:10:20,280
+»Sie wissen auch das nicht?«
+
+87
+00:10:20,280 --> 00:10:29,880
+sagte der Offizier erstaunt und biss sich auf die Lippen: »Verzeihen Sie, wenn vielleicht meine Erklärungen ungeordnet sind; ich bitte Sie sehr um Entschuldigung.
+
+88
+00:10:29,880 --> 00:10:45,800
+Die Erklärungen pflegte früher nämlich der Kommandant zu geben; der neue Kommandant aber hat sich dieser Ehrenpflicht entzogen; dass er jedoch einen so hohen Besuch« — der Reisende suchte die Ehrung mit beiden Händen abzuwehren, aber der Offizier bestand auf dem Ausdruck —
+
+89
+00:10:45,800 --> 00:11:01,440
+»einen so hohen Besuch nicht einmal von der Form unseres Urteils in Kenntnis setzt, ist wieder eine Neuerung, die —,« er hatte einen Fluch auf den Lippen, fasste sich aber und sagte nur: »Ich wurde nicht davon verständigt, mich trifft nicht die Schuld.
+
+90
+00:11:01,440 --> 00:11:14,150
+Übrigens bin ich allerdings am besten befähigt, unsere Urteilsarten zu erklären, denn ich trage hier« — er schlug auf seine Brusttasche — »die betreffenden Handzeichnungen des früheren Kommandanten.«
+
+91
+00:11:14,150 --> 00:11:16,820
+»Handzeichnungen des Kommandanten selbst?«
+
+92
+00:11:16,820 --> 00:11:21,070
+fragte der Reisende: »Hat er denn alles in sich vereinigt?
+
+93
+00:11:21,070 --> 00:11:25,580
+War er Soldat, Richter, Konstrukteur, Chemiker, Zeichner?«
+
+94
+00:11:25,580 --> 00:11:31,410
+»Jawohl,« sagte der Offizier kopfnickend, mit starrem, nachdenklichem Blick.
+
+95
+00:11:31,410 --> 00:11:40,090
+Dann sah er prüfend seine Hände an; sie schienen ihm nicht rein genug, um die Zeichnungen anzufassen; er ging daher zum Kübel und wusch sie nochmals.
+
+96
+00:11:40,090 --> 00:11:45,820
+Dann zog er eine kleine Ledermappe hervor und sagte: »Unser Urteil klingt nicht streng.
+
+97
+00:11:45,820 --> 00:11:51,710
+Dem Verurteilten wird das Gebot, das er übertreten hat, mit der Egge auf den Leib geschrieben.
+
+98
+00:11:51,710 --> 00:12:01,470
+Diesem Verurteilten zum Beispiel« — der Offizier zeigte auf den Mann — »wird auf den Leib geschrieben werden: Ehre deinen Vorgesetzten!«
+
+99
+00:12:01,470 --> 00:12:13,180
+Der Reisende sah flüchtig auf den Mann hin; er hielt, als der Offizier auf ihn gezeigt hatte, den Kopf gesenkt und schien alle Kraft des Gehörs anzuspannen, um etwas zu erfahren.
+
+100
+00:12:13,180 --> 00:12:19,810
+Aber die Bewegungen seiner wulstig aneinander gedrückten Lippen zeigten offenbar, dass er nichts verstehen konnte.
+
+101
+00:12:19,810 --> 00:12:27,700
+Der Reisende hatte Verschiedenes fragen wollen, fragte aber im Anblick des Mannes nur: »Kennt er sein Urteil?«
+
+102
+00:12:27,700 --> 00:12:37,510
+»Nein,« sagte der Offizier und wollte gleich in seinen Erklärungen fortfahren, aber der Reisende unterbrach ihn: »Er kennt sein eigenes Urteil nicht?«
+
+103
+00:12:37,510 --> 00:12:49,580
+»Nein,« sagte der Offizier wieder, stockte dann einen Augenblick, als verlange er vom Reisenden eine nähere Begründung seiner Frage, und sagte dann: »Es wäre nutzlos, es ihm zu verkünden.
+
+104
+00:12:49,580 --> 00:12:51,740
+Er erfährt es ja auf seinem Leib.«
+
+105
+00:12:51,740 --> 00:13:02,240
+Der Reisende wollte schon verstummen, da fühlte er, wie der Verurteilte seinen Blick auf ihn richtete; er schien zu fragen, ob er den geschilderten Vorgang billigen könne.
+
+106
+00:13:02,240 --> 00:13:12,890
+Darum beugte sich der Reisende, der sich bereits zurückgelehnt hatte, wieder vor und fragte noch: »Aber dass er überhaupt verurteilt wurde, das weiß er doch?«
+
+107
+00:13:12,890 --> 00:13:21,770
+»Auch nicht,« sagte der Offizier und lächelte den Reisenden an, als erwarte er nun von ihm noch einige sonderbare Eröffnungen.
+
+108
+00:13:21,770 --> 00:13:31,960
+»Nein,« sagte der Reisende und strich sich über die Stirn hin, »dann weiß also der Mann auch jetzt noch nicht, wie seine Verteidigung aufgenommen wurde?«
+
+109
+00:13:31,960 --> 00:13:44,850
+»Er hat keine Gelegenheit gehabt, sich zu verteidigen,« sagte der Offizier und sah abseits, als rede er zu sich selbst und wolle den Reisenden durch Erzählung dieser ihm selbstverständlichen Dinge nicht beschämen.
+
+110
+00:13:44,850 --> 00:13:51,840
+»Er muss doch Gelegenheit gehabt haben, sich zu verteidigen,« sagte der Reisende und stand vom Sessel auf.
+
+111
+00:13:53,200 --> 00:13:59,860
+Der Offizier erkannte, dass er in Gefahr war, in der Erklärung des Apparates für lange Zeit aufgehalten zu werden;
+
+112
+00:13:59,860 --> 00:14:17,410
+er ging daher zum Reisenden, hing sich in seinen Arm, zeigte mit der Hand auf den Verurteilten, der sich jetzt, da die Aufmerksamkeit so offenbar auf ihn gerichtet war, stramm aufstellte — auch zog der Soldat die Kette an —, und sagte: »Die Sache verhält sich folgendermaßen.
+
+113
+00:14:17,410 --> 00:14:20,840
+Ich bin hier in der Strafkolonie zum Richter bestellt.
+
+114
+00:14:20,840 --> 00:14:22,430
+Trotz meiner Jugend.
+
+115
+00:14:22,430 --> 00:14:29,270
+Denn ich stand auch dem früheren Kommandanten in allen Strafsachen zur Seite und kenne auch den Apparat am besten.
+
+116
+00:14:29,270 --> 00:14:35,100
+Der Grundsatz, nach dem ich entscheide, ist: Die Schuld ist immer zweifellos.
+
+117
+00:14:35,100 --> 00:14:42,810
+Andere Gerichte können diesen Grundsatz nicht befolgen, denn sie sind vielköpfig und haben auch noch höhere Gerichte über sich.
+
+118
+00:14:42,810 --> 00:14:47,950
+Das ist hier nicht der Fall, oder war es wenigstens nicht beim früheren Kommandanten.
+
+119
+00:14:47,950 --> 00:15:02,750
+Der neue hat allerdings schon Lust gezeigt, in mein Gericht sich einzumischen, es ist mir aber bisher gelungen, ihn abzuwehren, und wird mir auch weiter gelingen. — Sie wollten diesen Fall erklärt haben; er ist so einfach, wie alle.
+
+120
+00:15:02,750 --> 00:15:12,820
+Ein Hauptmann hat heute morgens die Anzeige erstattet, dass dieser Mann, der ihm als Diener zugeteilt ist und vor seiner Türe schläft, den Dienst verschlafen hat.
+
+121
+00:15:12,820 --> 00:15:20,090
+Er hat nämlich die Pflicht, bei jedem Stundenschlag aufzustehen und vor der Tür des Hauptmanns zu salutieren.
+
+122
+00:15:20,090 --> 00:15:27,970
+Gewiss keine schwere Pflicht und eine notwendige, denn er soll sowohl zur Bewachung als auch zur Bedienung frisch bleiben.
+
+123
+00:15:27,970 --> 00:15:33,260
+Der Hauptmann wollte in der gestrigen Nacht nachsehen, ob der Diener seine Pflicht erfülle.
+
+124
+00:15:33,260 --> 00:15:38,540
+Er öffnete Schlag zwei Uhr die Tür und fand ihn zusammengekrümmt schlafen.
+
+125
+00:15:38,540 --> 00:15:42,320
+Er holte die Reitpeitsche und schlug ihm über das Gesicht.
+
+126
+00:15:42,320 --> 00:15:54,980
+Statt nun aufzustehen und um Verzeihung zu bitten, fasste der Mann seinen Herrn bei den Beinen, schüttelte ihn und rief: ›Wirf die Peitsche weg, oder ich fresse dich.‹ — Das ist der Sachverhalt.
+
+127
+00:15:54,980 --> 00:16:01,760
+Der Hauptmann kam vor einer Stunde zu mir, ich schrieb seine Angaben auf und anschließend gleich das Urteil.
+
+128
+00:16:01,760 --> 00:16:04,410
+Dann ließ ich dem Mann die Ketten anlegen.
+
+129
+00:16:04,410 --> 00:16:06,360
+Das alles war sehr einfach.
+
+130
+00:16:06,360 --> 00:16:11,850
+Hätte ich den Mann zuerst vorgerufen und ausgefragt, so wäre nur Verwirrung entstanden.
+
+131
+00:16:11,850 --> 00:16:18,810
+Er hätte gelogen, hätte, wenn es mir gelungen wäre, die Lügen zu widerlegen, diese durch neue Lügen ersetzt und so fort.
+
+132
+00:16:18,810 --> 00:16:24,520
+Jetzt aber halte ich ihn und lasse ihn nicht mehr. — Ist nun alles erklärt?
+
+133
+00:16:24,520 --> 00:16:31,830
+Aber die Zeit vergeht, die Exekution sollte schon beginnen, und ich bin mit der Erklärung des Apparates noch nicht fertig.«
+
+134
+00:16:31,830 --> 00:16:44,450
+Er nötigte den Reisenden auf den Sessel nieder, trat wieder zu dem Apparat und begann: »Wie Sie sehen, entspricht die Egge der Form des Menschen; hier ist die Egge für den Oberkörper, hier sind die Eggen für die Beine.
+
+135
+00:16:44,450 --> 00:16:47,500
+Für den Kopf ist nur dieser kleine Stichel bestimmt.
+
+136
+00:16:47,500 --> 00:16:48,820
+Ist Ihnen das klar?«
+
+137
+00:16:48,820 --> 00:16:55,760
+Er beugte sich freundlich zu dem Reisenden vor, bereit zu den umfassendsten Erklärungen.
+
+138
+00:16:55,760 --> 00:16:59,620
+Der Reisende sah mit gerunzelter Stirn die Egge an.
+
+139
+00:16:59,620 --> 00:17:04,100
+Die Mitteilungen über das Gerichtsverfahren hatten ihn nicht befriedigt.
+
+140
+00:17:04,100 --> 00:17:15,070
+Immerhin musste er sich sagen, dass es sich hier um eine Strafkolonie handelte, dass hier besondere Maßregeln notwendig waren und dass man bis zum letzten militärisch vorgehen musste.
+
+141
+00:17:15,070 --> 00:17:29,190
+Außerdem aber setzte er einige Hoffnung auf den neuen Kommandanten, der offenbar, allerdings langsam, ein neues Verfahren einzuführen beabsichtigte, das dem beschränkten Kopf dieses Offiziers nicht eingehen konnte.
+
+142
+00:17:29,190 --> 00:17:36,140
+Aus diesem Gedankengang heraus fragte der Reisende: »Wird der Kommandant der Exekution beiwohnen?«
+
+143
+00:17:36,140 --> 00:17:46,980
+»Es ist nicht gewiss,« sagte der Offizier, durch die unvermittelte Frage peinlich berührt, und seine freundliche Miene verzerrte sich: »Gerade deshalb müssen wir uns beeilen.
+
+144
+00:17:46,980 --> 00:17:51,760
+Ich werde sogar, so leid es mir tut, meine Erklärungen abkürzen müssen.
+
+145
+00:17:51,760 --> 00:18:02,000
+Aber ich könnte ja morgen, wenn der Apparat wieder gereinigt ist — dass er so sehr beschmutzt wird, ist sein einziger Fehler — die näheren Erklärungen nachtragen.
+
+146
+00:18:02,000 --> 00:18:10,820
+Jetzt also nur das Notwendigste. — Wenn der Mann auf dem Bett liegt und dieses ins Zittern gebracht ist, wird die Egge auf den Körper gesenkt.
+
+147
+00:18:10,820 --> 00:18:20,920
+Sie stellt sich von selbst so ein, dass sie nur knapp mit den Spitzen den Körper berührt; ist die Einstellung vollzogen, strafft sich sofort dieses Stahlseil zu einer Stange.
+
+148
+00:18:20,920 --> 00:18:22,500
+Und nun beginnt das Spiel.
+
+149
+00:18:22,500 --> 00:18:26,940
+Ein Nichteingeweihter merkt äußerlich keinen Unterschied in den Strafen.
+
+150
+00:18:26,940 --> 00:18:29,690
+Die Egge scheint gleichförmig zu arbeiten.
+
+151
+00:18:29,690 --> 00:18:35,390
+Zitternd sticht sie ihre Spitzen in den Körper ein, der überdies vom Bett aus zittert.
+
+152
+00:18:35,390 --> 00:18:41,420
+Um es nun jedem zu ermöglichen, die Ausführung des Urteils zu überprüfen, wurde die Egge aus Glas gemacht.
+
+153
+00:18:41,420 --> 00:18:48,790
+Es hat einige technische Schwierigkeiten verursacht, die Nadeln darin zu befestigen, es ist aber nach vielen Versuchen gelungen.
+
+154
+00:18:48,790 --> 00:18:51,490
+Wir haben eben keine Mühe gescheut.
+
+155
+00:18:51,490 --> 00:18:55,790
+Und nun kann jeder durch das Glas sehen, wie sich die Inschrift im Körper vollzieht.
+
+156
+00:18:55,790 --> 00:18:58,950
+Wollen Sie nicht näher kommen und sich die Nadeln ansehen?«
+
+157
+00:18:58,950 --> 00:19:04,230
+Der Reisende erhob sich langsam, ging hin und beugte sich über die Egge.
+
+158
+00:19:04,230 --> 00:19:09,650
+»Sie sehen,« sagte der Offizier, »zweierlei Nadeln in vielfacher Anordnung.
+
+159
+00:19:09,650 --> 00:19:12,350
+Jede lange hat eine kurze neben sich.
+
+160
+00:19:12,350 --> 00:19:19,400
+Die lange schreibt nämlich, und die kurze spritzt Wasser aus, um das Blut abzuwaschen und die Schrift immer klar zu erhalten.
+
+161
+00:19:19,400 --> 00:19:27,660
+Das Blutwasser wird dann hier in kleine Rinnen geleitet und fließt endlich in diese Hauptrinne, deren Abflussrohr in die Grube führt.«
+
+162
+00:19:27,660 --> 00:19:32,550
+Der Offizier zeigte mit dem Finger genau den Weg, den das Blutwasser nehmen musste.
+
+163
+00:19:32,550 --> 00:19:45,950
+Als er es, um es möglichst anschaulich zu machen, an der Mündung des Abflussrohres mit beiden Händen förmlich auffing, erhob der Reisende den Kopf und wollte, mit der Hand rückwärts tastend, zu seinem Sessel zurückgehen.
+
+164
+00:19:45,950 --> 00:20:02,860
+Da sah er zu seinem Schrecken, dass auch der Verurteilte gleich ihm der Einladung des Offiziers, sich die Einrichtung der Egge aus der Nähe anzusehen, gefolgt war. Er hatte den verschlafenen Soldaten an der Kette ein wenig vorgezerrt und sich auch über das Glas gebeugt.
+
+165
+00:20:02,860 --> 00:20:13,750
+Man sah, wie er mit unsicheren Augen auch das suchte, was die zwei Herren eben beobachtet hatten, wie es ihm aber, da ihm die Erklärung fehlte, nicht gelingen wollte.
+
+166
+00:20:13,750 --> 00:20:16,430
+Er beugte sich hierhin und dorthin.
+
+167
+00:20:16,430 --> 00:20:33,490
+Immer wieder lief er mit den Augen das Glas ab. Der Reisende wollte ihn zurücktreiben, denn, was er tat, war wahrscheinlich strafbar. Aber der Offizier hielt den Reisenden mit einer Hand fest, nahm mit der anderen eine Erdscholle vom Wall und warf sie nach dem Soldaten.
+
+168
+00:20:33,490 --> 00:20:38,050
+Dieser hob mit einem Ruck die Augen, sah, was der Verurteilte gewagt hatte,
+
+169
+00:20:38,050 --> 00:20:50,030
+ließ das Gewehr fallen, stemmte die Füße mit den Absätzen in den Boden, riss den Verurteilten zurück, dass er gleich niederfiel, und sah dann auf ihn hinunter, wie er sich wand und mit seinen Ketten klirrte.
+
+170
+00:20:50,030 --> 00:20:51,520
+»Stell ihn auf!«
+
+171
+00:20:51,520 --> 00:20:57,750
+schrie der Offizier, denn er merkte, dass der Reisende durch den Verurteilten allzusehr abgelenkt wurde.
+
+172
+00:20:57,750 --> 00:21:06,350
+Der Reisende beugte sich sogar über die Egge hinweg, ohne sich um sie zu kümmern, und wollte nur feststellen, was mit dem Verurteilten geschehe.
+
+173
+00:21:06,350 --> 00:21:08,420
+»Behandle ihn sorgfältig!«
+
+174
+00:21:08,420 --> 00:21:19,490
+schrie der Offizier wieder. Er umlief den Apparat, fasste selbst den Verurteilten unter den Achseln und stellte ihn, der öfters mit den Füßen ausglitt, mit Hilfe des Soldaten auf.
+
+175
+00:21:19,490 --> 00:21:26,370
+»Nun weiß ich schon alles,« sagte der Reisende, als der Offizier wieder zu ihm zurückkehrte.
+
+176
+00:21:26,370 --> 00:21:42,740
+»Bis auf das Wichtigste,« sagte dieser, ergriff den Reisenden am Arm und zeigte in die Höhe: »Dort im Zeichner ist das Räderwerk, welches die Bewegung der Egge bestimmt, und dieses Räderwerk wird nach der Zeichnung, auf welche das Urteil lautet, angeordnet.
+
+177
+00:21:42,740 --> 00:21:46,380
+Ich verwende noch die Zeichnungen des früheren Kommandanten.
+
+178
+00:21:46,380 --> 00:21:55,460
+Hier sind sie,« — er zog einige Blätter aus der Ledermappe — »ich kann sie Ihnen aber leider nicht in die Hand geben, sie sind das Teuerste, was ich habe.
+
+179
+00:21:55,460 --> 00:22:01,490
+Setzen Sie sich, ich zeige sie Ihnen aus dieser Entfernung, dann werden Sie alles gut sehen können.«
+
+180
+00:22:01,490 --> 00:22:03,790
+Er zeigte das erste Blatt.
+
+181
+00:22:03,790 --> 00:22:17,700
+Der Reisende hätte gerne etwas Anerkennendes gesagt, aber er sah nur labyrinthartige, einander vielfach kreuzende Linien, die so dicht das Papier bedeckten, dass man nur mit Mühe die weißen Zwischenräume erkannte.
+
+182
+00:22:17,700 --> 00:22:23,360
+»Lesen Sie,« sagte der Offizier. »Ich kann nicht,« sagte der Reisende.
+
+183
+00:22:23,360 --> 00:22:33,170
+»Es ist doch deutlich,« sagte der Offizier. »Es ist sehr kunstvoll,« sagte der Reisende ausweichend, »aber ich kann es nicht entziffern.«
+
+184
+00:22:33,170 --> 00:22:42,660
+»Ja,« sagte der Offizier, lachte und steckte die Mappe wieder ein, »es ist keine Schönschrift für Schulkinder. Man muss lange darin lesen.
+
+185
+00:22:42,660 --> 00:22:45,490
+Auch Sie würden es schließlich gewiss erkennen.
+
+186
+00:22:45,490 --> 00:22:57,290
+Es darf natürlich keine einfache Schrift sein; sie soll ja nicht sofort töten, sondern durchschnittlich erst in einem Zeitraum von zwölf Stunden; für die sechste Stunde ist der Wendepunkt berechnet.
+
+187
+00:22:57,290 --> 00:23:10,150
+Es müssen also viele, viele Zieraten die eigentliche Schrift umgeben; die wirkliche Schrift umzieht den Leib nur in einem schmalen Gürtel; der übrige Körper ist für Verzierungen bestimmt.
+
+188
+00:23:10,150 --> 00:23:16,160
+Können Sie jetzt die Arbeit der Egge und des ganzen Apparates würdigen? — Sehen Sie doch!«
+
+189
+00:23:16,160 --> 00:23:24,970
+Er sprang auf die Leiter, drehte ein Rad, rief hinunter: »Achtung, treten Sie zur Seite!«, und alles kam in Gang.
+
+190
+00:23:24,970 --> 00:23:28,550
+Hätte das Rad nicht gekreischt, es wäre herrlich gewesen.
+
+191
+00:23:28,550 --> 00:23:44,220
+Als sei der Offizier von diesem störenden Rad überrascht, drohte er ihm mit der Faust, breitete dann, sich entschuldigend, zum Reisenden hin die Arme aus und kletterte eilig hinunter, um den Gang des Apparates von unten zu beobachten.
+
+192
+00:23:44,220 --> 00:23:52,380
+Noch war etwas nicht in Ordnung, das nur er merkte; er kletterte wieder hinauf, griff mit beiden Händen in das Innere des Zeichners,
+
+193
+00:23:52,380 --> 00:24:06,990
+glitt dann, um rascher hinunterzukommen, statt die Leiter zu benutzen, an der einen Stange hinunter und schrie nun, um sich im Lärm verständlich zu machen, mit äußerster Anspannung dem Reisenden ins Ohr: »Begreifen Sie den Vorgang?
+
+194
+00:24:06,990 --> 00:24:19,420
+Die Egge fängt zu schreiben an; ist sie mit der ersten Anlage der Schrift auf dem Rücken des Mannes fertig, rollt die Watteschicht und wälzt den Körper langsam auf die Seite, um der Egge neuen Raum zu bieten.
+
+195
+00:24:19,420 --> 00:24:30,890
+Inzwischen legen sich die wundbeschriebenen Stellen auf die Watte, welche infolge der besonderen Präparierung sofort die Blutung stillt und zu neuer Vertiefung der Schrift vorbereitet.
+
+196
+00:24:30,890 --> 00:24:41,200
+Hier die Zacken am Rande der Egge reißen dann beim weiteren Umwälzen des Körpers die Watte von den Wunden, schleudern sie in die Grube, und die Egge hat wieder Arbeit.
+
+197
+00:24:41,200 --> 00:24:45,250
+So schreibt sie immer tiefer die zwölf Stunden lang.
+
+198
+00:24:45,250 --> 00:24:50,570
+Die ersten sechs Stunden lebt der Verurteilte fast wie früher, er leidet nur Schmerzen.
+
+199
+00:24:50,570 --> 00:25:07,090
+Nach zwei Stunden wird der Filz entfernt, denn der Mann hat keine Kraft zum Schreien mehr. Hier in diesen elektrisch geheizten Napf am Kopfende wird warmer Reisbrei gelegt, aus dem der Mann, wenn er Lust hat, nehmen kann, was er mit der Zunge erhascht.
+
+200
+00:25:07,090 --> 00:25:09,520
+Keiner versäumt die Gelegenheit.
+
+201
+00:25:09,520 --> 00:25:12,720
+Ich weiß keinen, und meine Erfahrung ist groß.
+
+202
+00:25:12,720 --> 00:25:16,400
+Erst um die sechste Stunde verliert er das Vergnügen am Essen.
+
+203
+00:25:16,400 --> 00:25:20,620
+Ich knie dann gewöhnlich hier nieder und beobachte diese Erscheinung.
+
+204
+00:25:20,620 --> 00:25:27,320
+Der Mann schluckt den letzten Bissen selten, er dreht ihn nur im Mund und speit ihn in die Grube.
+
+205
+00:25:27,320 --> 00:25:31,260
+Ich muss mich dann bücken, sonst fährt es mir ins Gesicht.
+
+206
+00:25:31,260 --> 00:25:35,080
+Wie still wird dann aber der Mann um die sechste Stunde!
+
+207
+00:25:35,080 --> 00:25:37,820
+Verstand geht dem Blödesten auf.
+
+208
+00:25:37,820 --> 00:25:39,560
+Um die Augen beginnt es.
+
+209
+00:25:39,560 --> 00:25:41,740
+Von hier aus verbreitet es sich.
+
+210
+00:25:41,740 --> 00:25:47,000
+Ein Anblick, der einen verführen könnte, sich mit unter die Egge zu legen.
+
+211
+00:25:47,000 --> 00:26:02,190
+Es geschieht ja nichts weiter, der Mann fängt bloß an, die Schrift zu entziffern, er spitzt den Mund, als horche er. Sie haben gesehen, es ist nicht leicht, die Schrift mit den Augen zu entziffern; unser Mann entziffert sie aber mit seinen Wunden.
+
+212
+00:26:02,190 --> 00:26:07,430
+Es ist allerdings viel Arbeit; er braucht sechs Stunden zu ihrer Vollendung.
+
+213
+00:26:07,430 --> 00:26:15,740
+Dann aber spießt ihn die Egge vollständig auf und wirft ihn in die Grube, wo er auf das Blutwasser und die Watte niederklatscht.
+
+214
+00:26:15,740 --> 00:26:21,380
+Dann ist das Gericht zu Ende, und wir, ich und der Soldat, scharren ihn ein.«
+
+215
+00:26:21,380 --> 00:26:28,900
+Der Reisende hatte das Ohr zum Offizier geneigt und sah, die Hände in den Rocktaschen, der Arbeit der Maschine zu.
+
+216
+00:26:28,900 --> 00:26:32,820
+Auch der Verurteilte sah ihr zu, aber ohne Verständnis.
+
+217
+00:26:32,820 --> 00:26:46,060
+Er bückte sich ein wenig und verfolgte die schwankenden Nadeln, als ihm der Soldat, auf ein Zeichen des Offiziers, mit einem Messer hinten Hemd und Hose durchschnitt, so dass sie von dem Verurteilten abfielen.
+
+218
+00:26:46,060 --> 00:27:03,190
+Er wollte nach dem fallenden Zeug greifen, um seine Blöße zu bedecken, aber der Soldat hob ihn in die Höhe und schüttelte die letzten Fetzen von ihm ab. Der Offizier stellte die Maschine ein, und in der jetzt eintretenden Stille wurde der Verurteilte unter die Egge gelegt.
+
+219
+00:27:03,190 --> 00:27:12,820
+Die Ketten wurden gelöst, und statt dessen die Riemen befestigt; es schien für den Verurteilten im ersten Augenblick fast eine Erleichterung zu bedeuten.
+
+220
+00:27:12,820 --> 00:27:17,610
+Und nun senkte sich die Egge noch ein Stück tiefer, denn es war ein magerer Mann.
+
+221
+00:27:17,610 --> 00:27:31,050
+Als ihn die Spitzen berührten, ging ein Schauer über seine Haut; er streckte, während der Soldat mit seiner rechten Hand beschäftigt war, die linke aus, ohne zu wissen wohin; es war aber die Richtung, wo der Reisende stand.
+
+222
+00:27:31,050 --> 00:27:45,430
+Der Offizier sah ununterbrochen den Reisenden von der Seite an, als suche er von seinem Gesicht den Eindruck abzulesen, den die Exekution, die er ihm nun wenigstens oberflächlich erklärt hatte, auf ihn mache.
+
+223
+00:27:45,430 --> 00:27:53,030
+Der Riemen, der für das Handgelenk bestimmt war, riss; wahrscheinlich hatte ihn der Soldat zu stark angezogen.
+
+224
+00:27:53,030 --> 00:27:58,140
+Der Offizier sollte helfen, der Soldat zeigte ihm das abgerissene Riemenstück.
+
+225
+00:27:58,140 --> 00:28:13,700
+Der Offizier ging auch zu ihm hinüber und sagte, das Gesicht dem Reisenden zugewendet: »Die Maschine ist sehr zusammengesetzt, es muss hie und da etwas reißen oder brechen; dadurch darf man sich aber im Gesamturteil nicht beirren lassen.
+
+226
+00:28:13,700 --> 00:28:24,030
+Für den Riemen ist übrigens sofort Ersatz geschafft; ich werde eine Kette verwenden; die Zartheit der Schwingung wird dadurch für den rechten Arm allerdings beeinträchtigt.«
+
+227
+00:28:24,030 --> 00:28:31,580
+Und während er die Ketten anlegte, sagte er noch: »Die Mittel zur Erhaltung der Maschine sind jetzt sehr eingeschränkt.
+
+228
+00:28:31,580 --> 00:28:38,070
+Unter dem früheren Kommandanten war eine mir frei zugängliche Kassa nur für diesen Zweck bestimmt.
+
+229
+00:28:38,070 --> 00:28:43,030
+Es gab hier ein Magazin, in dem alle möglichen Ersatzstücke aufbewahrt wurden.
+
+230
+00:28:43,030 --> 00:28:54,470
+Ich gestehe, ich trieb damit fast Verschwendung, ich meine früher, nicht jetzt, wie der neue Kommandant behauptet, dem alles nur zum Vorwand dient, alte Einrichtungen zu bekämpfen.
+
+231
+00:28:54,470 --> 00:29:09,950
+Jetzt hat er die Maschinenkassa in eigener Verwaltung, und schicke ich um einen neuen Riemen, wird der zerrissene als Beweisstück verlangt, der neue kommt erst in zehn Tagen, ist dann aber von schlechterer Sorte und taugt nicht viel.
+
+232
+00:29:09,950 --> 00:29:16,320
+Wie ich aber in der Zwischenzeit ohne Riemen die Maschine betreiben soll, darum kümmert sich niemand.«
+
+233
+00:29:16,320 --> 00:29:23,490
+Der Reisende überlegte: Es ist immer bedenklich, in fremde Verhältnisse entscheidend einzugreifen.
+
+234
+00:29:23,490 --> 00:29:29,090
+Er war weder Bürger der Strafkolonie, noch Bürger des Staates, dem sie angehörte.
+
+235
+00:29:29,090 --> 00:29:37,750
+Wenn er diese Exekution verurteilen oder gar hintertreiben wollte, konnte man ihm sagen: Du bist ein Fremder, sei still.
+
+236
+00:29:37,750 --> 00:29:52,270
+Darauf hätte er nichts erwidern, sondern nur hinzufügen können, dass er sich in diesem Falle selbst nicht begreife, denn er reise nur mit der Absicht zu sehen und keineswegs etwa, um fremde Gerichtsverfassungen zu ändern.
+
+237
+00:29:52,270 --> 00:29:56,420
+Nun lagen aber hier die Dinge allerdings sehr verführerisch.
+
+238
+00:29:56,420 --> 00:30:02,970
+Die Ungerechtigkeit des Verfahrens und die Unmenschlichkeit der Exekution war zweifellos.
+
+239
+00:30:02,970 --> 00:30:14,790
+Niemand konnte irgendeine Eigennützigkeit des Reisenden annehmen, denn der Verurteilte war ihm fremd, kein Landsmann und ein zum Mitleid gar nicht auffordernder Mensch.
+
+240
+00:30:14,790 --> 00:30:30,170
+Der Reisende selbst hatte Empfehlungen hoher Ämter, war hier mit großer Höflichkeit empfangen worden, und dass er zu dieser Exekution eingeladen worden war, schien sogar darauf hinzudeuten, dass man sein Urteil über dieses Gericht verlangte.
+
+241
+00:30:30,170 --> 00:30:43,150
+Dies war aber um so wahrscheinlicher, als der Kommandant, wie er jetzt überdeutlich gehört hatte, kein Anhänger dieses Verfahrens war und sich gegenüber dem Offizier fast feindselig verhielt.
+
+242
+00:30:43,150 --> 00:30:46,880
+Da hörte der Reisende einen Wutschrei des Offiziers.
+
+243
+00:30:46,880 --> 00:30:59,240
+Er hatte gerade, nicht ohne Mühe, dem Verurteilten den Filzstumpf in den Mund geschoben, als der Verurteilte in einem unwiderstehlichen Brechreiz die Augen schloss und sich erbrach.
+
+244
+00:30:59,240 --> 00:31:10,240
+Eilig riss ihn der Offizier vom Stumpf in die Höhe und wollte den Kopf zur Grube hindrehen; aber es war zu spät, der Unrat floss schon an der Maschine hinab.
+
+245
+00:31:10,240 --> 00:31:12,870
+»Alles Schuld des Kommandanten!«
+
+246
+00:31:12,870 --> 00:31:21,400
+schrie der Offizier und rüttelte besinnungslos vorn an den Messingstangen, »die Maschine wird mir verunreinigt wie ein Stall.«
+
+247
+00:31:21,400 --> 00:31:34,430
+Er zeigte mit zitternden Händen dem Reisenden, was geschehen war. »Habe ich nicht stundenlang dem Kommandanten begreiflich machen gesucht, dass einen Tag vor der Exekution kein Essen mehr verabfolgt werden soll.
+
+248
+00:31:34,430 --> 00:31:38,360
+Aber die neue milde Richtung ist anderer Meinung.
+
+249
+00:31:38,360 --> 00:31:45,140
+Die Damen des Kommandanten stopfen dem Mann, ehe er abgeführt wird, den Hals mit Zuckersachen voll.
+
+250
+00:31:45,140 --> 00:31:51,430
+Sein ganzes Leben hat er sich von stinkenden Fischen genährt und muss jetzt Zuckersachen essen!
+
+251
+00:31:51,430 --> 00:32:01,710
+Aber es wäre ja möglich, ich würde nichts einwenden, aber warum schafft man nicht einen neuen Filz an, wie ich ihn seit einem Vierteljahr erbitte.
+
+252
+00:32:01,710 --> 00:32:10,910
+Wie kann man ohne Ekel diesen Filz in den Mund nehmen, an dem mehr als hundert Männer im Sterben gesaugt und gebissen haben?«
+
+253
+00:32:10,910 --> 00:32:20,870
+Der Verurteilte hatte den Kopf niedergelegt und sah friedlich aus, der Soldat war damit beschäftigt, mit dem Hemd des Verurteilten die Maschine zu putzen.
+
+254
+00:32:20,870 --> 00:32:30,510
+Der Offizier ging zum Reisenden, der in irgendeiner Ahnung einen Schritt zurücktrat, aber der Offizier fasste ihn bei der Hand und zog ihn zur Seite.
+
+255
+00:32:30,510 --> 00:32:36,330
+»Ich will einige Worte im Vertrauen mit Ihnen sprechen,« sagte er, »ich darf das doch?«
+
+256
+00:32:36,330 --> 00:32:41,250
+»Gewiss,« sagte der Reisende und hörte mit gesenkten Augen zu.
+
+257
+00:32:41,250 --> 00:32:57,910
+»Dieses Verfahren und diese Hinrichtung, die Sie jetzt zu bewundern Gelegenheit haben, hat gegenwärtig in unserer Kolonie keinen offenen Anhänger mehr. Ich bin ihr einziger Vertreter, gleichzeitig der einzige Vertreter des Erbes des alten Kommandanten.
+
+258
+00:32:57,910 --> 00:33:05,620
+An einen weiteren Ausbau des Verfahrens kann ich nicht mehr denken, ich verbrauche alle meine Kräfte, um zu erhalten, was vorhanden ist.
+
+259
+00:33:05,620 --> 00:33:21,850
+Als der alte Kommandant lebte, war die Kolonie von seinen Anhängern voll; die Überzeugungskraft des alten Kommandanten habe ich zum Teil, aber seine Macht fehlt mir ganz; infolgedessen haben sich die Anhänger verkrochen, es gibt noch viele, aber keiner gesteht es ein.
+
+260
+00:33:21,850 --> 00:33:29,900
+Wenn Sie heute, also an einem Hinrichtungstag, ins Teehaus gehen und herumhorchen, werden Sie vielleicht nur zweideutige Äußerungen hören.
+
+261
+00:33:29,900 --> 00:33:39,750
+Das sind lauter Anhänger, aber unter dem gegenwärtigen Kommandanten und bei seinen gegenwärtigen Anschauungen für mich ganz unbrauchbar. Und nun frage ich Sie:
+
+262
+00:33:39,750 --> 00:33:49,020
+Soll wegen dieses Kommandanten und seiner Frauen, die ihn beeinflussen, ein solches Lebenswerk« — er zeigte auf die Maschine — »zugrunde gehen?
+
+263
+00:33:49,020 --> 00:33:50,840
+Darf man das zulassen?
+
+264
+00:33:50,840 --> 00:33:54,470
+Selbst wenn man nur als Fremder ein paar Tage auf unserer Insel ist?
+
+265
+00:33:54,470 --> 00:34:04,680
+Es ist aber keine Zeit zu verlieren, man bereitet etwas gegen meine Gerichtsbarkeit vor; es finden schon Beratungen in der Kommandatur statt, zu denen ich nicht zugezogen werde;
+
+266
+00:34:04,680 --> 00:34:15,740
+sogar Ihr heutiger Besuch scheint mir für die ganze Lage bezeichnend; man ist feig und schickt Sie, einen Fremden, vor. — Wie war die Exekution anders in früherer Zeit!
+
+267
+00:34:15,740 --> 00:34:28,320
+Schon einen Tag vor der Hinrichtung war das ganze Tal von Menschen überfüllt; alle kamen nur um zu sehen; früh am Morgen erschien der Kommandant mit seinen Damen; Fanfaren weckten den ganzen Lagerplatz;
+
+268
+00:34:28,320 --> 00:34:42,210
+ich erstattete die Meldung, dass alles vorbereitet sei; die Gesellschaft — kein hoher Beamte durfte fehlen — ordnete sich um die Maschine; dieser Haufen Rohrsessel ist ein armseliges Überbleibsel aus jener Zeit.
+
+269
+00:34:42,210 --> 00:34:48,560
+Die Maschine glänzte frisch geputzt, fast zu jeder Exekution nahm ich neue Ersatzstücke.
+
+270
+00:34:48,560 --> 00:34:59,080
+Vor hunderten Augen — alle Zuschauer standen auf den Fußspitzen bis dort zu den Anhöhen — wurde der Verurteilte vom Kommandanten selbst unter die Egge gelegt.
+
+271
+00:34:59,080 --> 00:35:05,860
+Was heute ein gemeiner Soldat tun darf, war damals meine, des Gerichtspräsidenten, Arbeit und ehrte mich.
+
+272
+00:35:05,860 --> 00:35:08,590
+Und nun begann die Exekution!
+
+273
+00:35:08,590 --> 00:35:12,010
+Kein Misston störte die Arbeit der Maschine.
+
+274
+00:35:12,010 --> 00:35:20,510
+Manche sahen nun gar nicht mehr zu, sondern lagen mit geschlossenen Augen im Sand; alle wussten: Jetzt geschieht Gerechtigkeit.
+
+275
+00:35:20,510 --> 00:35:25,920
+In der Stille hörte man nur das Seufzen des Verurteilten, gedämpft durch den Filz.
+
+276
+00:35:25,920 --> 00:35:41,870
+Heute gelingt es der Maschine nicht mehr, dem Verurteilten ein stärkeres Seufzen auszupressen, als der Filz noch ersticken kann; damals aber tropften die schreibenden Nadeln eine beizende Flüssigkeit aus, die heute nicht mehr verwendet werden darf.
+
+277
+00:35:41,870 --> 00:35:44,960
+Nun, und dann kam die sechste Stunde!
+
+278
+00:35:44,960 --> 00:35:49,950
+Es war unmöglich, allen die Bitte, aus der Nähe zuschauen zu dürfen, zu gewähren.
+
+279
+00:35:49,950 --> 00:36:05,080
+Der Kommandant in seiner Einsicht ordnete an, dass vor allem die Kinder berücksichtigt werden sollten; ich allerdings durfte kraft meines Berufes immer dabeistehen; oft hockte ich dort, zwei kleine Kinder rechts und links in meinen Armen.
+
+280
+00:36:05,080 --> 00:36:17,360
+Wie nahmen wir alle den Ausdruck der Verklärung von dem gemarterten Gesicht, wie hielten wir unsere Wangen in den Schein dieser endlich erreichten und schon vergehenden Gerechtigkeit!
+
+281
+00:36:17,360 --> 00:36:20,040
+Was für Zeiten, mein Kamerad!«
+
+282
+00:36:20,040 --> 00:36:27,480
+Der Offizier hatte offenbar vergessen, wer vor ihm stand; er hatte den Reisenden umarmt und den Kopf auf seine Schulter gelegt.
+
+283
+00:36:27,480 --> 00:36:33,030
+Der Reisende war in großer Verlegenheit, ungeduldig sah er über den Offizier hinweg.
+
+284
+00:36:33,030 --> 00:36:40,280
+Der Soldat hatte die Reinigungsarbeit beendet und jetzt noch aus einer Büchse Reisbrei in den Napf geschüttet.
+
+285
+00:36:40,280 --> 00:36:48,460
+Kaum merkte dies der Verurteilte, der sich schon vollständig erholt zu haben schien, als er mit der Zunge nach dem Brei zu schnappen begann.
+
+286
+00:36:48,460 --> 00:37:02,700
+Der Soldat stieß ihn immer wieder weg, denn der Brei war wohl für eine spätere Zeit bestimmt, aber ungehörig war es jedenfalls auch, dass der Soldat mit seinen schmutzigen Händen hineingriff und vor dem gierigen Verurteilten davon aß.
+
+287
+00:37:02,700 --> 00:37:05,340
+Der Offizier fasste sich schnell.
+
+288
+00:37:05,340 --> 00:37:13,090
+»Ich wollte Sie nicht etwa rühren,« sagte er, »ich weiß, es ist unmöglich, jene Zeiten heute begreiflich zu machen.
+
+289
+00:37:13,090 --> 00:37:16,980
+Im übrigen arbeitet die Maschine noch und wirkt für sich.
+
+290
+00:37:16,980 --> 00:37:21,010
+Sie wirkt für sich, auch wenn sie allein in diesem Tale steht.
+
+291
+00:37:21,010 --> 00:37:30,850
+Und die Leiche fällt zum Schluss noch immer in dem unbegreiflich sanften Flug in die Grube, auch wenn nicht, wie damals, Hunderte wie Fliegen um die Grube sich versammeln.
+
+292
+00:37:30,850 --> 00:37:36,330
+Damals mussten wir ein starkes Geländer um die Grube anbringen, es ist längst weggerissen.«
+
+293
+00:37:36,330 --> 00:37:41,750
+Der Reisende wollte sein Gesicht dem Offizier entziehen und blickte ziellos herum.
+
+294
+00:37:41,750 --> 00:37:52,120
+Der Offizier glaubte, er betrachte die Öde des Tales; er ergriff deshalb seine Hände, drehte sich um ihn, um seine Blicke zu fassen, und fragte: »Merken Sie die Schande?«
+
+295
+00:37:52,120 --> 00:37:55,150
+Aber der Reisende schwieg.
+
+296
+00:37:55,150 --> 00:38:03,870
+Der Offizier ließ für ein Weilchen von ihm ab; mit auseinandergestellten Beinen, die Hände in den Hüften, stand er still und blickte zu Boden.
+
+297
+00:38:03,870 --> 00:38:11,610
+Dann lächelte er dem Reisenden aufmunternd zu und sagte: »Ich war gestern in Ihrer Nähe, als der Kommandant Sie einlud.
+
+298
+00:38:11,610 --> 00:38:13,220
+Ich hörte die Einladung.
+
+299
+00:38:13,220 --> 00:38:15,010
+Ich kenne den Kommandanten.
+
+300
+00:38:15,010 --> 00:38:18,730
+Ich verstand sofort, was er mit der Einladung bezweckte.
+
+301
+00:38:18,730 --> 00:38:29,530
+Trotzdem seine Macht groß genug wäre, um gegen mich einzuschreiten, wagt er es noch nicht, wohl aber will er mich Ihrem, dem Urteil eines angesehenen Fremden aussetzen.
+
+302
+00:38:29,530 --> 00:38:34,880
+Seine Berechnung ist sorgfältig: Sie sind den zweiten Tag auf der Insel.
+
+303
+00:38:34,880 --> 00:38:38,770
+Sie kannten den alten Kommandanten und seinen Gedankenkreis nicht.
+
+304
+00:38:38,770 --> 00:38:41,710
+Sie sind in europäischen Anschauungen befangen.
+
+305
+00:38:41,710 --> 00:38:49,860
+Vielleicht sind Sie ein grundsätzlicher Gegner der Todesstrafe im allgemeinen und einer derartigen maschinellen Hinrichtungsart im besonderen.
+
+306
+00:38:49,860 --> 00:38:58,200
+Sie sehen überdies, wie die Hinrichtung ohne öffentliche Anteilnahme, traurig, auf einer bereits etwas beschädigten Maschine vor sich geht —
+
+307
+00:38:58,200 --> 00:39:07,580
+wäre es nun, alles dieses zusammengenommen (so denkt der Kommandant), nicht sehr leicht möglich, dass Sie mein Verfahren nicht für richtig halten?
+
+308
+00:39:07,580 --> 00:39:18,900
+Und wenn Sie es nicht für richtig halten, werden Sie dies (ich rede noch immer im Sinne des Kommandanten) nicht verschweigen, denn Sie vertrauen doch gewiss Ihren vielerprobten Überzeugungen.
+
+309
+00:39:18,900 --> 00:39:31,810
+Sie haben allerdings viele Eigentümlichkeiten vieler Völker gesehen und achten gelernt, Sie werden daher wahrscheinlich sich nicht mit ganzer Kraft, wie Sie es vielleicht in Ihrer Heimat tun würden, gegen das Verfahren aussprechen.
+
+310
+00:39:31,810 --> 00:39:34,980
+Aber dessen bedarf der Kommandant gar nicht.
+
+311
+00:39:34,980 --> 00:39:38,770
+Ein flüchtiges, ein bloß unvorsichtiges Wort genügt.
+
+312
+00:39:38,770 --> 00:39:44,350
+Es muss gar nicht Ihrer Überzeugung entsprechen, wenn es nur scheinbar seinem Wunsche entgegenkommt.
+
+313
+00:39:44,350 --> 00:39:48,360
+Dass er Sie mit aller Schlauheit ausfragen wird, dessen bin ich gewiss.
+
+314
+00:39:48,360 --> 00:40:01,190
+Und seine Damen werden im Kreis herumsitzen und die Ohren spitzen; Sie werden etwa sagen: ›Bei uns ist das Gerichtsverfahren ein anderes‹, oder ›Bei uns wird der Angeklagte vor dem Urteil verhört‹,
+
+315
+00:40:01,190 --> 00:40:13,560
+oder ›Bei uns erfährt der Verurteilte das Urteil‹, oder ›Bei uns gibt es auch andere Strafen als Todesstrafen‹, oder ›Bei uns gab es Folterungen nur im Mittelalter‹.
+
+316
+00:40:13,560 --> 00:40:22,820
+Das alles sind Bemerkungen, die ebenso richtig sind, als sie Ihnen selbstverständlich erscheinen, unschuldige Bemerkungen, die mein Verfahren nicht antasten.
+
+317
+00:40:22,820 --> 00:40:25,190
+Aber wie wird sie der Kommandant aufnehmen?
+
+318
+00:40:25,190 --> 00:40:41,300
+Ich sehe ihn, den guten Kommandanten, wie er sofort den Stuhl beiseite schiebt und auf den Balkon eilt, ich sehe seine Damen, wie sie ihm nachströmen, ich höre seine Stimme — die Damen nennen sie eine Donnerstimme —, nun, und er spricht:
+
+319
+00:40:41,300 --> 00:40:52,840
+›Ein großer Forscher des Abendlandes, dazu bestimmt, das Gerichtsverfahren in allen Ländern zu überprüfen, hat eben gesagt, dass unser Verfahren nach altem Brauch ein unmenschliches ist.
+
+320
+00:40:52,840 --> 00:40:58,710
+Nach diesem Urteil einer solchen Persönlichkeit ist es mir natürlich nicht mehr möglich, dieses Verfahren zu dulden.
+
+321
+00:40:58,710 --> 00:41:02,030
+Mit dem heutigen Tage also ordne ich an — usw.‹
+
+322
+00:41:02,030 --> 00:41:16,650
+Sie wollen eingreifen, Sie haben nicht das gesagt, was er verkündet, Sie haben mein Verfahren nicht unmenschlich genannt, im Gegenteil, Ihrer tiefen Einsicht entsprechend halten Sie es für das menschlichste und menschenwürdigste.
+
+323
+00:41:16,650 --> 00:41:20,290
+Sie bewundern auch diese Maschinerie — aber es ist zu spät.
+
+324
+00:41:20,290 --> 00:41:23,820
+Sie kommen gar nicht auf den Balkon, der schon voll Damen ist.
+
+325
+00:41:23,820 --> 00:41:25,450
+Sie wollen sich bemerkbar machen.
+
+326
+00:41:25,450 --> 00:41:34,030
+Sie wollen schreien, aber eine Damenhand hält Ihnen den Mund zu — und ich und das Werk des alten Kommandanten sind verloren.«
+
+327
+00:41:34,030 --> 00:41:41,790
+Der Reisende musste ein Lächeln unterdrücken; so leicht war also die Aufgabe, die er für so schwer gehalten hatte.
+
+328
+00:41:41,790 --> 00:41:52,700
+Er sagte ausweichend: »Sie überschätzen meinen Einfluss; der Kommandant hat mein Empfehlungsschreiben gelesen, er weiß, dass ich kein Kenner der gerichtlichen Verfahren bin.
+
+329
+00:41:52,700 --> 00:42:01,290
+Wenn ich meine Meinung aussprechen würde, so wäre es die Meinung eines Privatmannes, um nichts bedeutender als die Meinung eines beliebigen anderen,
+
+330
+00:42:01,290 --> 00:42:10,030
+und jedenfalls viel bedeutungsloser als die Meinung des Kommandanten, der in dieser Strafkolonie, wie ich zu wissen glaube, sehr ausgedehnte Rechte hat.
+
+331
+00:42:10,030 --> 00:42:23,300
+Ist seine Meinung über dieses Verfahren eine so bestimmte, wie Sie glauben, dann, fürchte ich, ist allerdings das Ende dieses Verfahrens gekommen, ohne dass es meiner bescheidenen Mithilfe bedürfte.«
+
+332
+00:42:23,300 --> 00:42:25,750
+Begriff es schon der Offizier?
+
+333
+00:42:25,750 --> 00:42:27,930
+Nein, er begriff noch nicht.
+
+334
+00:42:27,930 --> 00:42:45,020
+Er schüttelte lebhaft den Kopf, sah kurz nach dem Verurteilten und dem Soldaten zurück, die zusammenzuckten und vom Reis abließen, ging ganz nahe an den Reisenden heran, blickte ihm nicht ins Gesicht, sondern irgendwohin auf seinen Rock und sagte leiser als früher:
+
+335
+00:42:45,020 --> 00:42:47,620
+»Sie kennen den Kommandanten nicht.
+
+336
+00:42:47,620 --> 00:42:57,880
+Sie stehen ihm und uns allen — verzeihen Sie den Ausdruck — gewissermaßen harmlos gegenüber. Ihr Einfluss, glauben Sie mir, kann nicht hoch genug eingeschätzt werden.
+
+337
+00:42:57,880 --> 00:43:03,560
+Ich war ja glückselig, als ich hörte, dass Sie allein der Exekution beiwohnen sollten.
+
+338
+00:43:03,560 --> 00:43:09,780
+Diese Anordnung des Kommandanten sollte mich treffen, nun aber wende ich sie zu meinen Gunsten.
+
+339
+00:43:09,780 --> 00:43:25,110
+Unabgelenkt von falschen Einflüsterungen und verächtlichen Blicken — wie sie bei größerer Teilnahme an der Exekution nicht hätten vermieden werden können — haben Sie meine Erklärungen angehört, die Maschine gesehen und sind nun im Begriffe, die Exekution zu besichtigen.
+
+340
+00:43:25,110 --> 00:43:32,860
+Ihr Urteil steht gewiss schon fest; sollten noch kleine Unsicherheiten bestehen, so wird sie der Anblick der Exekution beseitigen.
+
+341
+00:43:32,860 --> 00:43:37,920
+Und nun stelle ich an Sie die Bitte: helfen Sie mir gegenüber dem Kommandanten!«
+
+342
+00:43:37,920 --> 00:43:40,940
+Der Reisende ließ ihn nicht weiter reden.
+
+343
+00:43:40,940 --> 00:43:46,060
+»Wie könnte ich denn das,« rief er aus, »das ist ganz unmöglich.
+
+344
+00:43:46,060 --> 00:43:50,110
+Ich kann Ihnen ebensowenig nützen als ich Ihnen schaden kann.«
+
+345
+00:43:50,110 --> 00:43:58,040
+»Sie können es,« sagte der Offizier. Mit einiger Befürchtung sah der Reisende, dass der Offizier die Fäuste ballte.
+
+346
+00:43:58,040 --> 00:44:04,840
+»Sie können es,« wiederholte der Offizier noch dringender. »Ich habe einen Plan, der gelingen muss.
+
+347
+00:44:04,840 --> 00:44:07,300
+Sie glauben, Ihr Einfluss genüge nicht.
+
+348
+00:44:07,300 --> 00:44:09,030
+Ich weiß, dass er genügt.
+
+349
+00:44:09,030 --> 00:44:19,150
+Aber zugestanden, dass Sie recht haben, ist es denn nicht notwendig, zur Erhaltung dieses Verfahrens alles, selbst das möglicherweise Unzureichende zu versuchen?
+
+350
+00:44:19,150 --> 00:44:21,520
+Hören Sie also meinen Plan.
+
+351
+00:44:21,520 --> 00:44:29,270
+Zu seiner Ausführung ist es vor allem nötig, dass Sie heute in der Kolonie mit Ihrem Urteil über das Verfahren möglichst zurückhalten.
+
+352
+00:44:29,270 --> 00:44:33,770
+Wenn man Sie nicht geradezu fragt, dürfen Sie sich keinesfalls äußern;
+
+353
+00:44:33,770 --> 00:44:46,490
+Ihre Äußerungen aber müssen kurz und unbestimmt sein; man soll merken, dass es Ihnen schwer wird, darüber zu sprechen, dass Sie verbittert sind, dass Sie, falls Sie offen reden sollten, geradezu in Verwünschungen ausbrechen müssten.
+
+354
+00:44:46,490 --> 00:44:58,750
+Ich verlange nicht, dass Sie lügen sollen; keineswegs; Sie sollen nur kurz antworten, etwa: ›Ja, ich habe die Exekution gesehen,‹ oder ›Ja, ich habe alle Erklärungen gehört.‹
+
+355
+00:44:58,750 --> 00:45:07,150
+Nur das, nichts weiter. Für die Verbitterung, die man Ihnen anmerken soll, ist ja genügend Anlass, wenn auch nicht im Sinne des Kommandanten.
+
+356
+00:45:07,150 --> 00:45:11,720
+Er natürlich wird es vollständig missverstehen und in seinem Sinne deuten.
+
+357
+00:45:11,720 --> 00:45:13,970
+Darauf gründet sich mein Plan.
+
+358
+00:45:13,970 --> 00:45:21,740
+Morgen findet in der Kommandatur unter dem Vorsitz des Kommandanten eine große Sitzung aller höheren Verwaltungsbeamten statt.
+
+359
+00:45:21,740 --> 00:45:27,390
+Der Kommandant hat es natürlich verstanden, aus solchen Sitzungen eine Schaustellung zu machen.
+
+360
+00:45:27,390 --> 00:45:31,470
+Es wurde eine Galerie gebaut, die mit Zuschauern immer besetzt ist.
+
+361
+00:45:31,470 --> 00:45:36,230
+Ich bin gezwungen an den Beratungen teilzunehmen, aber der Widerwille schüttelt mich.
+
+362
+00:45:36,230 --> 00:45:46,390
+Nun werden Sie gewiss auf jeden Fall zu der Sitzung eingeladen werden; wenn Sie sich heute meinem Plane gemäß verhalten, wird die Einladung zu einer dringenden Bitte werden.
+
+363
+00:45:46,390 --> 00:45:56,590
+Sollten Sie aber aus irgendeinem unerfindlichen Grunde doch nicht eingeladen werden, so müssten Sie allerdings die Einladung verlangen; dass Sie sie dann erhalten, ist zweifellos.
+
+364
+00:45:56,590 --> 00:46:00,610
+Nun sitzen Sie also morgen mit den Damen in der Loge des Kommandanten.
+
+365
+00:46:00,610 --> 00:46:04,370
+Er versichert sich öfters durch Blicke nach oben, dass Sie da sind.
+
+366
+00:46:04,370 --> 00:46:17,450
+Nach verschiedenen gleichgültigen, lächerlichen, nur für die Zuhörer berechneten Verhandlungsgegenständen — meistens sind es Hafenbauten, immer wieder Hafenbauten! — kommt auch das Gerichtsverfahren zur Sprache.
+
+367
+00:46:17,450 --> 00:46:23,990
+Sollte es von seiten des Kommandanten nicht oder nicht bald genug geschehen, so werde ich dafür sorgen, dass es geschieht.
+
+368
+00:46:23,990 --> 00:46:28,230
+Ich werde aufstehen und die Meldung von der heutigen Exekution erstatten.
+
+369
+00:46:28,230 --> 00:46:30,350
+Ganz kurz, nur diese Meldung.
+
+370
+00:46:30,350 --> 00:46:34,320
+Eine solche Meldung ist zwar dort nicht üblich, aber ich tue es doch.
+
+371
+00:46:34,320 --> 00:46:42,710
+Der Kommandant dankt mir, wie immer, mit freundlichem Lächeln und nun, er kann sich nicht zurückhalten, erfasst er die gute Gelegenheit.
+
+372
+00:46:42,710 --> 00:46:48,630
+›Es wurde eben,‹ so oder ähnlich wird er sprechen, ›die Meldung von der Exekution erstattet.
+
+373
+00:46:48,630 --> 00:47:00,290
+Ich möchte dieser Meldung nur hinzufügen, dass gerade dieser Exekution der große Forscher beigewohnt hat, von dessen unsere Kolonie so außerordentlich ehrendem Besuch Sie alle wissen.
+
+374
+00:47:00,290 --> 00:47:04,960
+Auch unsere heutige Sitzung ist durch seine Anwesenheit in ihrer Bedeutung erhöht.
+
+375
+00:47:04,960 --> 00:47:14,170
+Wollen wir nun nicht an diesen großen Forscher die Frage richten, wie er die Exekution nach altem Brauch und das Verfahren, das ihr vorhergeht, beurteilt?‹
+
+376
+00:47:14,170 --> 00:47:20,310
+Natürlich überall Beifallklatschen, allgemeine Zustimmung, ich bin der lauteste.
+
+377
+00:47:20,310 --> 00:47:26,590
+Der Kommandant verbeugt sich vor Ihnen und sagt: ›Dann stelle ich im Namen aller die Frage.‹
+
+378
+00:47:26,590 --> 00:47:28,940
+Und nun treten Sie an die Brüstung.
+
+379
+00:47:28,940 --> 00:47:36,680
+Legen Sie die Hände für alle sichtbar hin, sonst fassen sie die Damen und spielen mit den Fingern. — Und jetzt kommt endlich Ihr Wort.
+
+380
+00:47:36,680 --> 00:47:40,870
+Ich weiß nicht, wie ich die Spannung der Stunden bis dahin ertragen werde.
+
+381
+00:47:40,870 --> 00:47:53,430
+In Ihrer Rede müssen Sie sich keine Schranken setzen, machen Sie mit der Wahrheit Lärm, beugen Sie sich über die Brüstung, brüllen Sie, aber ja, brüllen Sie dem Kommandanten Ihre Meinung, Ihre unerschütterliche Meinung zu.
+
+382
+00:47:53,430 --> 00:48:08,470
+Aber vielleicht wollen Sie das nicht, es entspricht nicht Ihrem Charakter, in Ihrer Heimat verhält man sich vielleicht in solchen Lagen anders, auch das ist richtig, auch das genügt vollkommen, stehen Sie gar nicht auf, sagen Sie nur ein paar Worte, flüstern Sie sie,
+
+383
+00:48:08,470 --> 00:48:22,540
+dass sie gerade noch die Beamten unter Ihnen hören, es genügt, Sie müssen gar nicht selbst von der mangelnden Teilnahme an der Exekution, von dem kreischenden Rad, dem zerrissenen Riemen, dem widerlichen Filz reden, nein, alles weitere übernehme ich,
+
+384
+00:48:22,540 --> 00:48:36,430
+und glauben Sie, wenn meine Rede ihn nicht aus dem Saale jagt, so wird sie ihn auf die Knie zwingen, dass er bekennen muss: Alter Kommandant, vor dir beuge ich mich. — Das ist mein Plan; wollen Sie mir zu seiner Ausführung helfen?
+
+385
+00:48:36,430 --> 00:48:39,720
+Aber natürlich wollen Sie, mehr als das, Sie müssen.«
+
+386
+00:48:39,720 --> 00:48:46,040
+Und der Offizier fasste den Reisenden an beiden Armen und sah ihm schwer atmend ins Gesicht.
+
+387
+00:48:46,040 --> 00:48:59,010
+Die letzten Sätze hatte er so geschrien, dass selbst der Soldat und der Verurteilte aufmerksam geworden waren; trotzdem sie nichts verstehen konnten, hielten sie doch im Essen inne und sahen kauend zum Reisenden hinüber.
+
+388
+00:48:59,010 --> 00:49:13,560
+Die Antwort, die er zu geben hatte, war für den Reisenden von allem Anfang an zweifellos; er hatte in seinem Leben zu viel erfahren, als dass er hier hätte schwanken können; er war im Grunde ehrlich und hatte keine Furcht.
+
+389
+00:49:13,560 --> 00:49:19,540
+Trotzdem zögerte er jetzt im Anblick des Soldaten und des Verurteilten einen Atemzug lang.
+
+390
+00:49:19,540 --> 00:49:23,280
+Schließlich aber sagte er, wie er musste: »Nein.«
+
+391
+00:49:23,280 --> 00:49:28,470
+Der Offizier blinzelte mehrmals mit den Augen, ließ aber keinen Blick von ihm.
+
+392
+00:49:28,470 --> 00:49:30,440
+»Wollen Sie eine Erklärung?«
+
+393
+00:49:30,440 --> 00:49:32,000
+fragte der Reisende.
+
+394
+00:49:32,000 --> 00:49:34,330
+Der Offizier nickte stumm.
+
+395
+00:49:34,330 --> 00:49:41,330
+»Ich bin ein Gegner dieses Verfahrens,« sagte nun der Reisende, »noch ehe Sie mich ins Vertrauen zogen —
+
+396
+00:49:41,330 --> 00:49:55,670
+dieses Vertrauen werde ich natürlich unter keinen Umständen missbrauchen — habe ich schon überlegt, ob ich berechtigt wäre, gegen dieses Verfahren einzuschreiten und ob mein Einschreiten auch nur eine kleine Aussicht auf Erfolg haben könnte.
+
+397
+00:49:55,670 --> 00:50:00,670
+An wen ich mich dabei zuerst wenden müsste, war mir klar: an den Kommandanten natürlich.
+
+398
+00:50:00,670 --> 00:50:12,360
+Sie haben es mir noch klarer gemacht, ohne aber etwa meinen Entschluss erst befestigt zu haben, im Gegenteil, Ihre ehrliche Überzeugung geht mir nahe, wenn sie mich auch nicht beirren kann.«
+
+399
+00:50:12,360 --> 00:50:24,550
+Der Offizier blieb stumm, wendete sich der Maschine zu, fasste eine der Messingstangen und sah dann, ein wenig zurückgebeugt, zum Zeichner hinauf, als prüfe er, ob alles in Ordnung sei.
+
+400
+00:50:24,550 --> 00:50:29,380
+Der Soldat und der Verurteilte schienen sich miteinander befreundet zu haben;
+
+401
+00:50:29,380 --> 00:50:43,180
+der Verurteilte machte, so schwierig dies bei der festen Einschnallung durchzuführen war, dem Soldaten Zeichen; der Soldat beugte sich zu ihm; der Verurteilte flüsterte ihm etwas zu, und der Soldat nickte.
+
+402
+00:50:43,180 --> 00:50:50,160
+Der Reisende ging dem Offizier nach und sagte: »Sie wissen noch nicht, was ich tun will.
+
+403
+00:50:50,160 --> 00:50:57,570
+Ich werde meine Ansicht über das Verfahren dem Kommandanten zwar sagen, aber nicht in einer Sitzung, sondern unter vier Augen;
+
+404
+00:50:57,570 --> 00:51:08,040
+ich werde auch nicht so lange hier bleiben, dass ich irgendeiner Sitzung beigezogen werden könnte; ich fahre schon morgen früh weg oder schiffe mich wenigstens ein.«
+
+405
+00:51:08,040 --> 00:51:12,280
+Es sah nicht aus, als ob der Offizier zugehört hätte.
+
+406
+00:51:12,280 --> 00:51:24,280
+»Das Verfahren hat Sie also nicht überzeugt,« sagte er für sich und lächelte, wie ein Alter über den Unsinn eines Kindes lächelt und hinter dem Lächeln sein eigenes wirkliches Nachdenken behält.
+
+407
+00:51:24,280 --> 00:51:35,200
+»Dann ist es also Zeit,« sagte er schließlich und blickte plötzlich mit hellen Augen, die irgendeine Aufforderung, irgendeinen Aufruf zur Beteiligung enthielten, den Reisenden an.
+
+408
+00:51:35,200 --> 00:51:37,010
+»Wozu ist es Zeit?«
+
+409
+00:51:37,010 --> 00:51:40,960
+fragte der Reisende unruhig, bekam aber keine Antwort.
+
+410
+00:51:40,960 --> 00:51:45,780
+»Du bist frei,« sagte der Offizier zum Verurteilten in dessen Sprache.
+
+411
+00:51:45,780 --> 00:51:48,080
+Dieser glaubte es zuerst nicht.
+
+412
+00:51:48,080 --> 00:51:55,500
+»Nun, frei bist du,« sagte der Offizier. Zum erstenmal bekam das Gesicht des Verurteilten wirkliches Leben.
+
+413
+00:51:55,500 --> 00:51:57,010
+War es Wahrheit?
+
+414
+00:51:57,010 --> 00:52:00,730
+War es nur eine Laune des Offiziers, die vorübergehen konnte?
+
+415
+00:52:00,730 --> 00:52:03,960
+Hatte der fremde Reisende ihm Gnade erwirkt?
+
+416
+00:52:03,960 --> 00:52:05,590
+Was war es?
+
+417
+00:52:05,590 --> 00:52:07,620
+So schien sein Gesicht zu fragen.
+
+418
+00:52:07,620 --> 00:52:08,740
+Aber nicht lange.
+
+419
+00:52:08,740 --> 00:52:16,390
+Was immer es sein mochte, er wollte, wenn er durfte, wirklich frei sein und er begann sich zu rütteln, soweit es die Egge erlaubte.
+
+420
+00:52:16,390 --> 00:52:20,660
+»Du zerreißt mir die Riemen,« schrie der Offizier, »sei ruhig!
+
+421
+00:52:20,660 --> 00:52:22,240
+Wir öffnen sie schon.«
+
+422
+00:52:22,240 --> 00:52:26,830
+Und er machte sich mit dem Soldaten, dem er ein Zeichen gab, an die Arbeit.
+
+423
+00:52:26,830 --> 00:52:36,890
+Der Verurteilte lachte ohne Worte leise vor sich hin, bald wendete er das Gesicht links zum Offizier, bald rechts zum Soldaten, auch den Reisenden vergaß er nicht.
+
+424
+00:52:36,890 --> 00:52:40,550
+»Zieh ihn heraus,« befahl der Offizier dem Soldaten.
+
+425
+00:52:40,550 --> 00:52:44,700
+Es musste hiebei wegen der Egge einige Vorsicht angewendet werden.
+
+426
+00:52:44,700 --> 00:52:50,840
+Der Verurteilte hatte schon infolge seiner Ungeduld einige kleine Risswunden auf dem Rücken.
+
+427
+00:52:50,840 --> 00:52:54,560
+Von jetzt ab kümmerte sich aber der Offizier kaum mehr um ihn.
+
+428
+00:52:54,560 --> 00:53:05,430
+Er ging auf den Reisenden zu, zog wieder die kleine Ledermappe hervor, blätterte in ihr, fand schließlich das Blatt, das er suchte, und zeigte es dem Reisenden.
+
+429
+00:53:05,430 --> 00:53:13,730
+»Lesen Sie,« sagte er. »Ich kann nicht,« sagte der Reisende, »ich sagte schon, ich kann diese Blätter nicht lesen.«
+
+430
+00:53:13,730 --> 00:53:21,380
+»Sehen Sie das Blatt doch genau an,« sagte der Offizier und trat neben den Reisenden, um mit ihm zu lesen.
+
+431
+00:53:21,380 --> 00:53:34,690
+Als auch das nichts half, fuhr er mit dem kleinen Finger in großer Höhe, als dürfe das Blatt auf keinen Fall berührt werden, über das Papier hin, um auf diese Weise dem Reisenden das Lesen zu erleichtern.
+
+432
+00:53:34,690 --> 00:53:42,020
+Der Reisende gab sich auch Mühe, um wenigstens darin dem Offizier gefällig sein zu können, aber es war ihm unmöglich.
+
+433
+00:53:42,020 --> 00:53:47,990
+Nun begann der Offizier die Aufschrift zu buchstabieren und dann las er sie noch einmal im Zusammenhang.
+
+434
+00:53:47,990 --> 00:53:54,390
+»›Sei gerecht!‹ — heißt es,« sagte er, »jetzt können Sie es doch lesen.«
+
+435
+00:53:54,390 --> 00:54:08,080
+Der Reisende beugte sich so tief über das Papier, dass der Offizier aus Angst vor einer Berührung es weiter entfernte; nun sagte der Reisende zwar nichts mehr, aber es war klar, dass er es noch immer nicht hatte lesen können.
+
+436
+00:54:08,080 --> 00:54:12,710
+»›Sei gerecht!‹ — heißt es,« sagte der Offizier nochmals.
+
+437
+00:54:12,710 --> 00:54:17,830
+»Mag sein,« sagte der Reisende, »ich glaube es, dass es dort steht.«
+
+438
+00:54:17,830 --> 00:54:32,080
+»Nun gut,« sagte der Offizier, wenigstens teilweise befriedigt, und stieg mit dem Blatt auf die Leiter; er bettete das Blatt mit großer Vorsicht im Zeichner und ordnete das Räderwerk scheinbar gänzlich um;
+
+439
+00:54:32,080 --> 00:54:44,750
+es war eine sehr mühselige Arbeit, es musste sich auch um ganz kleine Räder handeln, manchmal verschwand der Kopf des Offiziers völlig im Zeichner, so genau musste er das Räderwerk untersuchen.
+
+440
+00:54:44,750 --> 00:54:55,740
+Der Reisende verfolgte von unten diese Arbeit ununterbrochen, der Hals wurde ihm steif, und die Augen schmerzten ihn von dem mit Sonnenlicht überschütteten Himmel.
+
+441
+00:54:55,740 --> 00:54:59,810
+Der Soldat und der Verurteilte waren nur miteinander beschäftigt.
+
+442
+00:54:59,810 --> 00:55:07,280
+Das Hemd und die Hose des Verurteilten, die schon in der Grube lagen, wurden vom Soldaten mit der Bajonettspitze herausgezogen.
+
+443
+00:55:07,280 --> 00:55:12,400
+Das Hemd war entsetzlich schmutzig, und der Verurteilte wusch es in dem Wasserkübel.
+
+444
+00:55:12,400 --> 00:55:21,490
+Als er dann Hemd und Hose anzog, musste der Soldat wie der Verurteilte laut lachen, denn die Kleidungsstücke waren doch hinten entzweigeschnitten.
+
+445
+00:55:21,490 --> 00:55:33,630
+Vielleicht glaubte der Verurteilte verpflichtet zu sein, den Soldaten zu unterhalten, er drehte sich in der zerschnittenen Kleidung im Kreise vor dem Soldaten, der auf dem Boden hockte und lachend auf seine Knie schlug.
+
+446
+00:55:33,630 --> 00:55:38,550
+Immerhin bezwangen sie sich noch mit Rücksicht auf die Anwesenheit der Herren.
+
+447
+00:55:38,550 --> 00:55:46,400
+Als der Offizier oben endlich fertiggeworden war, überblickte er noch einmal lächelnd das Ganze in allen seinen Teilen,
+
+448
+00:55:46,400 --> 00:56:02,650
+schlug diesmal den Deckel des Zeichners zu, der bisher offen gewesen war, stieg hinunter, sah in die Grube und dann auf den Verurteilten, merkte befriedigt, dass dieser seine Kleidung herausgenommen hatte, ging dann zu dem Wasserkübel, um die Hände zu waschen,
+
+449
+00:56:02,650 --> 00:56:20,010
+erkannte zu spät den widerlichen Schmutz, war traurig darüber, dass er nun die Hände nicht waschen konnte, tauchte sie schließlich — dieser Ersatz genügte ihm nicht, aber er musste sich fügen — in den Sand, stand dann auf und begann seinen Uniformrock aufzuknöpfen.
+
+450
+00:56:20,010 --> 00:56:26,580
+Hiebei fielen ihm zunächst die zwei Damentaschentücher, die er hinter den Kragen gezwängt hatte, in die Hände.
+
+451
+00:56:26,580 --> 00:56:31,850
+»Hier hast du deine Taschentücher,« sagte er und warf sie dem Verurteilten zu.
+
+452
+00:56:31,850 --> 00:56:35,910
+Und zum Reisenden sagte er erklärend: »Geschenke der Damen.«
+
+453
+00:56:35,910 --> 00:56:54,240
+Trotz der offenbaren Eile, mit der er den Uniformrock auszog und sich dann vollständig entkleidete, behandelte er doch jedes Kleidungsstück sehr sorgfältig, über die Silberschnüre an seinem Waffenrock strich er sogar eigens mit den Fingern hin und schüttelte eine Troddel zurecht.
+
+454
+00:56:54,240 --> 00:57:05,400
+Wenig passte es allerdings zu dieser Sorgfalt, dass er, sobald er mit der Behandlung eines Stückes fertig war, es dann sofort mit einem unwilligen Ruck in die Grube warf.
+
+455
+00:57:05,400 --> 00:57:10,620
+Das letzte, was ihm übrig blieb, war sein kurzer Degen mit dem Tragriemen.
+
+456
+00:57:10,620 --> 00:57:23,310
+Er zog den Degen aus der Scheide, zerbrach ihn, fasste dann alles zusammen, die Degenstücke, die Scheide und den Riemen und warf es so heftig weg, dass es unten in der Grube aneinander klang.
+
+457
+00:57:23,310 --> 00:57:26,780
+Nun stand er nackt da.
+
+458
+00:57:26,780 --> 00:57:30,680
+Der Reisende biss sich auf die Lippen und sagte nichts.
+
+459
+00:57:30,680 --> 00:57:37,070
+Er wusste zwar, was geschehen würde, aber er hatte kein Recht, den Offizier an irgend etwas zu hindern.
+
+460
+00:57:37,070 --> 00:57:50,340
+War das Gerichtsverfahren, an dem der Offizier hing, wirklich so nahe daran behoben zu werden — möglicherweise infolge des Einschreitens des Reisenden, zu dem sich dieser seinerseits verpflichtet fühlte —
+
+461
+00:57:50,340 --> 00:57:57,790
+dann handelte jetzt der Offizier vollständig richtig; der Reisende hätte an seiner Stelle nicht anders gehandelt.
+
+462
+00:57:57,790 --> 00:58:04,220
+Der Soldat und der Verurteilte verstanden zuerst nichts, sie sahen anfangs nicht einmal zu.
+
+463
+00:58:04,220 --> 00:58:16,610
+Der Verurteilte war sehr erfreut darüber, die Taschentücher zurückerhalten zu haben, aber er durfte sich nicht lange an ihnen freuen, denn der Soldat nahm sie ihm mit einem raschen, nicht vorherzusehenden Griff.
+
+464
+00:58:16,610 --> 00:58:28,270
+Nun versuchte wieder der Verurteilte dem Soldaten die Tücher hinter dem Gürtel, hinter dem er sie verwahrt hatte, hervorzuziehen, aber der Soldat war wachsam. So stritten sie in halbem Scherz.
+
+465
+00:58:28,270 --> 00:58:38,150
+Erst als der Offizier vollständig nackt war, wurden sie aufmerksam. Besonders der Verurteilte schien von der Ahnung irgendeines großen Umschwungs getroffen zu sein.
+
+466
+00:58:38,150 --> 00:58:44,650
+Was ihm geschehen war, geschah nun dem Offizier. Vielleicht würde es so bis zum Äußersten gehen.
+
+467
+00:58:44,650 --> 00:58:48,870
+Wahrscheinlich hatte der fremde Reisende den Befehl dazu gegeben.
+
+468
+00:58:48,870 --> 00:58:50,730
+Das war also Rache.
+
+469
+00:58:50,730 --> 00:58:55,830
+Ohne selbst bis zum Ende gelitten zu haben, wurde er doch bis zum Ende gerächt.
+
+470
+00:58:55,830 --> 00:59:02,320
+Ein breites, lautloses Lachen erschien nun auf seinem Gesicht und verschwand nicht mehr.
+
+471
+00:59:03,480 --> 00:59:06,990
+Der Offizier aber hatte sich der Maschine zugewendet.
+
+472
+00:59:06,990 --> 00:59:17,100
+Wenn es schon früher deutlich gewesen war, dass er die Maschine gut verstand, so konnte es jetzt einen fast bestürzt machen, wie er mit ihr umging und wie sie gehorchte.
+
+473
+00:59:17,100 --> 00:59:30,090
+Er hatte die Hand der Egge nur genähert, und sie hob und senkte sich mehrmals, bis sie die richtige Lage erreicht hatte um ihn zu empfangen; er fasste das Bett nur am Rande, und es fing schon zu zittern an;
+
+474
+00:59:30,090 --> 00:59:41,070
+der Filzstumpf kam seinem Mund entgegen, man sah, wie der Offizier ihn eigentlich nicht haben wollte, aber das Zögern dauerte nur einen Augenblick, gleich fügte er sich und nahm ihn auf.
+
+475
+00:59:41,070 --> 00:59:49,400
+Alles war bereit, nur die Riemen hingen noch an den Seiten hinunter, aber sie waren offenbar unnötig, der Offizier musste nicht angeschnallt sein.
+
+476
+00:59:49,400 --> 01:00:02,700
+Da bemerkte der Verurteilte die losen Riemen, seiner Meinung nach war die Exekution nicht vollkommen, wenn die Riemen nicht festgeschnallt waren, er winkte eifrig dem Soldaten, und sie liefen hin, den Offizier anzuschnallen.
+
+477
+01:00:02,700 --> 01:00:15,500
+Dieser hatte schon den einen Fuß ausgestreckt, um in die Kurbel zu stoßen, die den Zeichner in Gang bringen sollte; da sah er, dass die zwei gekommen waren; er zog daher den Fuß zurück und ließ sich anschnallen.
+
+478
+01:00:15,500 --> 01:00:26,580
+Nun konnte er allerdings die Kurbel nicht mehr erreichen; weder der Soldat noch der Verurteilte würden sie auffinden, und der Reisende war entschlossen, sich nicht zu rühren.
+
+479
+01:00:26,580 --> 01:00:32,750
+Es war nicht nötig; kaum waren die Riemen angebracht, fing auch schon die Maschine zu arbeiten an;
+
+480
+01:00:32,750 --> 01:00:50,420
+das Bett zitterte, die Nadeln tanzten auf der Haut, die Egge schwebte auf und ab. Der Reisende hatte schon eine Weile hingestarrt, ehe er sich erinnerte, dass ein Rad im Zeichner hätte kreischen sollen; aber alles war still, nicht das geringste Surren war zu hören.
+
+481
+01:00:50,420 --> 01:00:55,880
+Durch diese stille Arbeit entschwand die Maschine förmlich der Aufmerksamkeit.
+
+482
+01:00:55,880 --> 01:01:13,510
+Der Reisende sah zu dem Soldaten und dem Verurteilten hinüber. Der Verurteilte war der lebhaftere, alles an der Maschine interessierte ihn, bald beugte er sich nieder, bald streckte er sich, immerfort hatte er den Zeigefinger ausgestreckt, um dem Soldaten etwas zu zeigen.
+
+483
+01:01:13,510 --> 01:01:15,630
+Dem Reisenden war es peinlich.
+
+484
+01:01:15,630 --> 01:01:21,750
+Er war entschlossen, hier bis zum Ende zu bleiben, aber den Anblick der zwei hätte er nicht lange ertragen.
+
+485
+01:01:21,750 --> 01:01:31,360
+»Geht nach Hause,« sagte er. Der Soldat wäre dazu vielleicht bereit gewesen, aber der Verurteilte empfand den Befehl geradezu als Strafe.
+
+486
+01:01:31,360 --> 01:01:46,080
+Er bat flehentlich mit gefalteten Händen ihn hier zu lassen, und als der Reisende kopfschüttelnd nicht nachgeben wollte, kniete er sogar nieder. Der Reisende sah, dass Befehle hier nichts halfen, er wollte hinüber und die zwei vertreiben.
+
+487
+01:01:46,080 --> 01:01:49,080
+Da hörte er oben im Zeichner ein Geräusch.
+
+488
+01:01:49,080 --> 01:01:50,580
+Er sah hinauf.
+
+489
+01:01:50,580 --> 01:01:53,750
+Störte also das eine Zahnrad doch?
+
+490
+01:01:53,750 --> 01:01:55,730
+Aber es war etwas anderes.
+
+491
+01:01:55,730 --> 01:02:00,410
+Langsam hob sich der Deckel des Zeichners und klappte dann vollständig auf.
+
+492
+01:02:00,410 --> 01:02:04,310
+Die Zacken eines Zahnrades zeigten und hoben sich,
+
+493
+01:02:04,310 --> 01:02:22,770
+bald erschien das ganze Rad, es war, als presse irgendeine große Macht den Zeichner zusammen, so dass für dieses Rad kein Platz mehr übrig blieb, das Rad drehte sich bis zum Rand des Zeichners, fiel hinunter, kollerte aufrecht ein Stück im Sand und blieb dann liegen.
+
+494
+01:02:22,770 --> 01:02:35,430
+Aber schon stieg oben ein anderes auf, ihm folgten viele, große, kleine und kaum zu unterscheidende, mit allen geschah dasselbe, immer glaubte man, nun müsse der Zeichner jedenfalls schon entleert sein,
+
+495
+01:02:35,430 --> 01:02:42,900
+da erschien eine neue, besonders zahlreiche Gruppe, stieg auf, fiel hinunter, kollerte im Sand und legte sich.
+
+496
+01:02:42,900 --> 01:02:51,350
+Über diesem Vorgang vergaß der Verurteilte ganz den Befehl des Reisenden, die Zahnräder entzückten ihn völlig, er wollte immer eines fassen,
+
+497
+01:02:51,350 --> 01:03:02,390
+trieb gleichzeitig den Soldaten an, ihm zu helfen, zog aber erschreckt die Hand zurück, denn es folgte gleich ein anderes Rad, das ihn, wenigstens im ersten Anrollen, erschreckte.
+
+498
+01:03:02,390 --> 01:03:17,500
+Der Reisende dagegen war sehr beunruhigt; die Maschine ging offenbar in Trümmer; ihr ruhiger Gang war eine Täuschung; er hatte das Gefühl, als müsse er sich jetzt des Offiziers annehmen, da dieser nicht mehr für sich selbst sorgen konnte.
+
+499
+01:03:17,500 --> 01:03:22,240
+Aber während der Fall der Zahnräder seine ganze Aufmerksamkeit beanspruchte,
+
+500
+01:03:22,240 --> 01:03:35,010
+hatte er versäumt, die übrige Maschine zu beaufsichtigen; als er jedoch jetzt, nachdem das letzte Zahnrad den Zeichner verlassen hatte, sich über die Egge beugte, hatte er eine neue, noch ärgere Überraschung.
+
+501
+01:03:35,010 --> 01:03:43,650
+Die Egge schrieb nicht, sie stach nur, und das Bett wälzte den Körper nicht, sondern hob ihn nur zitternd in die Nadeln hinein.
+
+502
+01:03:43,650 --> 01:03:55,130
+Der Reisende wollte eingreifen, möglicherweise das Ganze zum Stehen bringen, das war ja keine Folter, wie sie der Offizier erreichen wollte, das war unmittelbarer Mord.
+
+503
+01:03:55,130 --> 01:03:57,500
+Er streckte die Hände aus.
+
+504
+01:03:57,500 --> 01:04:04,570
+Da hob sich aber schon die Egge mit dem aufgespießten Körper zur Seite, wie sie es sonst erst in der zwölften Stunde tat.
+
+505
+01:04:04,570 --> 01:04:11,610
+Das Blut floss in hundert Strömen, nicht mit Wasser vermischt, auch die Wasserröhrchen hatten diesmal versagt.
+
+506
+01:04:11,610 --> 01:04:21,330
+Und nun versagte noch das letzte, der Körper löste sich von den langen Nadeln nicht, strömte sein Blut aus, hing aber über der Grube ohne zu fallen.
+
+507
+01:04:21,330 --> 01:04:31,180
+Die Egge wollte schon in ihre alte Lage zurückkehren, aber als merke sie selbst, dass sie von ihrer Last noch nicht befreit sei, blieb sie doch über der Grube.
+
+508
+01:04:31,180 --> 01:04:32,610
+»Helft doch!«
+
+509
+01:04:32,610 --> 01:04:39,050
+schrie der Reisende zum Soldaten und zum Verurteilten hinüber und fasste selbst die Füße des Offiziers.
+
+510
+01:04:39,050 --> 01:04:48,320
+Er wollte sich hier gegen die Füße drücken, die zwei sollten auf der anderen Seite den Kopf des Offiziers fassen, und so sollte er langsam von den Nadeln gehoben werden.
+
+511
+01:04:48,320 --> 01:05:00,770
+Aber nun konnten sich die zwei nicht entschließen zu kommen; der Verurteilte drehte sich geradezu um; der Reisende musste zu ihnen hinübergehen und sie mit Gewalt zu dem Kopf des Offiziers drängen.
+
+512
+01:05:00,770 --> 01:05:04,630
+Hiebei sah er fast gegen Willen das Gesicht der Leiche.
+
+513
+01:05:04,630 --> 01:05:15,100
+Es war, wie es im Leben gewesen war; kein Zeichen der versprochenen Erlösung war zu entdecken; was alle anderen in der Maschine gefunden hatten, der Offizier fand es nicht;
+
+514
+01:05:15,100 --> 01:05:28,720
+die Lippen waren fest zusammengedrückt, die Augen waren offen, hatten den Ausdruck des Lebens, der Blick war ruhig und überzeugt, durch die Stirn ging die Spitze des großen eisernen Stachels.
+
+515
+01:05:29,840 --> 01:05:43,460
+Als der Reisende, mit dem Soldaten und dem Verurteilten hinter sich, zu den ersten Häusern der Kolonie kam, zeigte der Soldat auf eines und sagte: »Hier ist das Teehaus.«
+
+516
+01:05:43,460 --> 01:05:51,650
+Im Erdgeschoss eines Hauses war ein tiefer, niedriger, höhlenartiger, an den Wänden und an der Decke verräucherter Raum.
+
+517
+01:05:51,650 --> 01:05:55,670
+Gegen die Straße zu war er in seiner ganzen Breite offen.
+
+518
+01:05:55,670 --> 01:06:13,070
+Trotzdem sich das Teehaus von den übrigen Häusern der Kolonie, die bis auf die Palastbauten der Kommandatur alle sehr verkommen waren, wenig unterschied, übte es auf den Reisenden doch den Eindruck einer historischen Erinnerung aus und er fühlte die Macht der früheren Zeiten.
+
+519
+01:06:13,070 --> 01:06:27,180
+Er trat näher heran, ging, gefolgt von seinen Begleitern, zwischen den unbesetzten Tischen hindurch, die vor dem Teehaus auf der Straße standen, und atmete die kühle, dumpfige Luft ein, die aus dem Innern kam.
+
+520
+01:06:27,180 --> 01:06:34,550
+»Der Alte ist hier begraben,« sagte der Soldat, »ein Platz auf dem Friedhof ist ihm vom Geistlichen verweigert worden.
+
+521
+01:06:34,550 --> 01:06:40,020
+Man war eine Zeitlang unentschlossen, wo man ihn begraben sollte, schließlich hat man ihn hier begraben.
+
+522
+01:06:40,020 --> 01:06:45,810
+Davon hat Ihnen der Offizier gewiss nichts erzählt, denn dessen hat er sich natürlich am meisten geschämt.
+
+523
+01:06:45,810 --> 01:06:51,690
+Er hat sogar einigemal in der Nacht versucht, den Alten auszugraben, er ist aber immer verjagt worden.«
+
+524
+01:06:51,690 --> 01:06:53,290
+»Wo ist das Grab?«
+
+525
+01:06:53,290 --> 01:06:57,020
+fragte der Reisende, der dem Soldaten nicht glauben konnte.
+
+526
+01:06:57,020 --> 01:07:06,290
+Gleich liefen beide, der Soldat wie der Verurteilte, vor ihm her und zeigten mit ausgestreckten Händen dorthin, wo sich das Grab befinden sollte.
+
+527
+01:07:06,290 --> 01:07:11,730
+Sie führten den Reisenden bis zur Rückwand, wo an einigen Tischen Gäste saßen.
+
+528
+01:07:11,730 --> 01:07:18,310
+Es waren wahrscheinlich Hafenarbeiter, starke Männer mit kurzen, glänzend schwarzen Vollbärten.
+
+529
+01:07:18,310 --> 01:07:25,210
+Alle waren ohne Rock, ihre Hemden waren zerrissen, es war armes, gedemütigtes Volk.
+
+530
+01:07:25,210 --> 01:07:31,450
+Als sich der Reisende näherte, erhoben sich einige, drückten sich an die Wand und sahen ihm entgegen.
+
+531
+01:07:31,450 --> 01:07:38,210
+»Es ist ein Fremder,« flüsterte es um den Reisenden herum, »er will das Grab ansehen.«
+
+532
+01:07:38,210 --> 01:07:42,970
+Sie schoben einen der Tische beiseite, unter dem sich wirklich ein Grabstein befand.
+
+533
+01:07:42,970 --> 01:07:48,380
+Es war ein einfacher Stein, niedrig genug, um unter einem Tisch verborgen werden zu können.
+
+534
+01:07:48,380 --> 01:07:54,730
+Er trug eine Aufschrift mit sehr kleinen Buchstaben, der Reisende musste, um sie zu lesen, niederknien.
+
+535
+01:07:54,730 --> 01:07:58,420
+Sie lautete: »Hier ruht der alte Kommandant.
+
+536
+01:07:58,420 --> 01:08:05,940
+Seine Anhänger, die jetzt keinen Namen tragen dürfen, haben ihm das Grab gegraben und den Stein gesetzt.
+
+537
+01:08:05,940 --> 01:08:17,410
+Es besteht eine Prophezeiung, dass der Kommandant nach einer bestimmten Anzahl von Jahren auferstehen und aus diesem Hause seine Anhänger zur Wiedereroberung der Kolonie führen wird.
+
+538
+01:08:17,410 --> 01:08:20,010
+Glaubet und wartet!«
+
+539
+01:08:20,010 --> 01:08:34,060
+Als der Reisende das gelesen hatte und sich erhob, sah er rings um sich die Männer stehen und lächeln, als hätten sie mit ihm die Aufschrift gelesen, sie lächerlich gefunden und forderten ihn auf, sich ihrer Meinung anzuschließen.
+
+540
+01:08:34,060 --> 01:08:46,240
+Der Reisende tat, als merke er das nicht, verteilte einige Münzen unter sie, wartete noch, bis der Tisch über das Grab geschoben war, verließ das Teehaus und ging zum Hafen.
+
+541
+01:08:46,240 --> 01:08:52,290
+Der Soldat und der Verurteilte hatten im Teehaus Bekannte gefunden, die sie zurückhielten.
+
+542
+01:08:52,290 --> 01:09:01,880
+Sie mussten sich aber bald von ihnen losgerissen haben, denn der Reisende befand sich erst in der Mitte der langen Treppe, die zu den Booten führte, als sie ihm schon nachliefen.
+
+543
+01:09:01,880 --> 01:09:06,630
+Sie wollten wahrscheinlich den Reisenden im letzten Augenblick zwingen, sie mitzunehmen.
+
+544
+01:09:06,630 --> 01:09:16,680
+Während der Reisende unten mit einem Schiffer wegen der Überfahrt zum Dampfer unterhandelte, rasten die zwei die Treppe hinab, schweigend, denn zu schreien wagten sie nicht.
+
+545
+01:09:16,680 --> 01:09:33,540
+Aber als sie unten ankamen, war der Reisende schon im Boot, und der Schiffer löste es gerade vom Ufer. Sie hätten noch ins Boot springen können, aber der Reisende hob ein schweres geknotetes Tau vom Boden, drohte ihnen damit und hielt sie dadurch vom Sprunge ab.
+
+546
+01:09:35,240 --> 01:09:37,790
+Ende
+von
+In der Strafkolonie
+
+547
+01:09:37,790 --> 01:09:41,300
+Gelesen von Markus Wachenheim
+
+548
+01:09:50,420 --> 01:09:51,420
+
+
