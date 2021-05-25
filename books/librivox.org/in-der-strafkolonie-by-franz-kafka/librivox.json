@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1883",
+          "dod": "1924",
+          "first_name": "Franz",
+          "id": "100",
+          "last_name": "Kafka"
+        }
+      ],
+      "copyright_year": "1919",
+      "description": "In der Strafkolonie ist eine Erzählung von Franz Kafka, die im Oktober 1914 entstand und 1919 veröffentlicht wurde. Einem Forschungsreisenden wird das Rechtssystem einer Strafkolonie vorgeführt. Es besteht darin, dass jeder Angeklagte unabhängig von seiner Schuld von einem Apparat in minutiösem Ablauf stundenlang gefoltert und dann getötet wird. Den Apparat beschreibt Kafka als überdimensionalen Parlograph in der Funktionsweise eines Phonographen mit vibrierender Metallplatte und Nadel. Dieser Apparat ist der Hauptgegenstand der Erzählung, er repräsentiert die Einheit von Schrift und Tod. (Summary by Wikipedia)",
+      "genres": [
+        {
+          "id": "54",
+          "name": "Published 1900 onward"
+        }
+      ],
+      "id": "2570",
+      "language": "German",
+      "num_sections": "1",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "167783",
+          "language": "English",
+          "listen_url": null,
+          "playtime": "4190",
+          "readers": [
+            {
+              "display_name": "Markus Wachenheim",
+              "reader_id": "2946"
+            }
+          ],
+          "section_number": "1",
+          "title": "In der Strafkolonie"
+        }
+      ],
+      "title": "In der Strafkolonie",
+      "totaltime": "1:09:50",
+      "totaltimesecs": 4190,
+      "translators": [],
+      "url_iarchive": "http://www.archive.org/details/in_der_strafkolonie_0810_librivox",
+      "url_librivox": "https://librivox.org/in-der-strafkolonie-by-franz-kafka/",
+      "url_other": "",
+      "url_project": "http://de.wikipedia.org/wiki/In_der_Strafkolonie",
+      "url_rss": "https://librivox.org/rss/2570",
+      "url_text_source": "http://www.gutenberg.org/etext/25791",
+      "url_zip_file": "http://www.archive.org/download/in_der_strafkolonie_0810_librivox/in_der_strafkolonie_0810_librivox_64kb_mp3.zip"
+    }
+  ]
+}
