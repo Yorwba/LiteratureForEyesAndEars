@@ -5,9 +5,9 @@
         {
           "dob": "1909",
           "dod": "1948",
-          "first_name": "Osamu",
+          "first_name": "",
           "id": "3035",
-          "last_name": "Dazai"
+          "last_name": "太宰治"
         }
       ],
       "copyright_year": "1948",
@@ -23,9 +23,8 @@
       "num_sections": "13",
       "sections": [
         {
-          "file_name": null,
+          "file_name": "goodbye_01_dazai_64kb.mp3",
           "id": "97816",
-          "language": "English",
           "listen_url": "",
           "playtime": "231",
           "readers": [
@@ -38,9 +37,8 @@
           "title": "変心　（一）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_02_dazai_64kb.mp3",
           "id": "97817",
-          "language": "English",
           "listen_url": "",
           "playtime": "197",
           "readers": [
@@ -53,9 +51,8 @@
           "title": "変心　（二）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_03_dazai_64kb.mp3",
           "id": "97818",
-          "language": "English",
           "listen_url": "",
           "playtime": "203",
           "readers": [
@@ -68,9 +65,8 @@
           "title": "行進　（一）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_04_dazai_64kb.mp3",
           "id": "97819",
-          "language": "English",
           "listen_url": "",
           "playtime": "165",
           "readers": [
@@ -83,9 +79,8 @@
           "title": "行進　（二）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_05_dazai_64kb.mp3",
           "id": "97820",
-          "language": "English",
           "listen_url": "",
           "playtime": "197",
           "readers": [
@@ -98,9 +93,8 @@
           "title": "行進　（三）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_06_dazai_64kb.mp3",
           "id": "97821",
-          "language": "English",
           "listen_url": "",
           "playtime": "209",
           "readers": [
@@ -113,9 +107,8 @@
           "title": "行進　（四）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_07_dazai_64kb.mp3",
           "id": "97822",
-          "language": "English",
           "listen_url": "",
           "playtime": "174",
           "readers": [
@@ -128,9 +121,8 @@
           "title": "行進　（五）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_08_dazai_64kb.mp3",
           "id": "97823",
-          "language": "English",
           "listen_url": "",
           "playtime": "211",
           "readers": [
@@ -143,9 +135,8 @@
           "title": "怪力　（一）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_09_dazai_64kb.mp3",
           "id": "97824",
-          "language": "English",
           "listen_url": "",
           "playtime": "171",
           "readers": [
@@ -158,9 +149,8 @@
           "title": "怪力　（二）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_10_dazai_64kb.mp3",
           "id": "97825",
-          "language": "English",
           "listen_url": "",
           "playtime": "195",
           "readers": [
@@ -173,9 +163,8 @@
           "title": "怪力　（三）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_11_dazai_64kb.mp3",
           "id": "97826",
-          "language": "English",
           "listen_url": "",
           "playtime": "181",
           "readers": [
@@ -188,9 +177,8 @@
           "title": "怪力　（四）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_12_dazai_64kb.mp3",
           "id": "97827",
-          "language": "English",
           "listen_url": "",
           "playtime": "189",
           "readers": [
@@ -203,9 +191,8 @@
           "title": "コールド・ウォー　（一）"
         },
         {
-          "file_name": null,
+          "file_name": "goodbye_13_dazai_64kb.mp3",
           "id": "97828",
-          "language": "English",
           "listen_url": "",
           "playtime": "212",
           "readers": [
@@ -218,7 +205,7 @@
           "title": "コールド・ウォー　（二）"
         }
       ],
-      "title": "グッド・バイ (Good-Bye)",
+      "title": "グッド・バイ",
       "totaltime": "0:42:15",
       "totaltimesecs": 2535,
       "translators": [],
