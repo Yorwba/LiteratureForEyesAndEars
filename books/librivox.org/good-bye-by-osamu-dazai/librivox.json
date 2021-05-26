@@ -1,0 +1,234 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1909",
+          "dod": "1948",
+          "first_name": "Osamu",
+          "id": "3035",
+          "last_name": "Dazai"
+        }
+      ],
+      "copyright_year": "1948",
+      "description": "『朝日新聞』に連載予定だったユーモア小説「グッド・バイ」が未完の遺作となった。奇しくもこの作品の13話が絶筆になったのは、キリスト教のジンクスを暗示した太宰の最後の洒落だったとする説（檀一雄）もある。(ウィキペディア)<br/><br/>\n\nIn the spring of 1948, he was working on a novelette scheduled to be serialized in the Asahi Shimbun newspaper, titled Guddo bai (Goodbye). On 13 June 1948, Dazai and Tomie finally succeeded in killing themselves, drowning in the rain-swollen Tamagawa Canal near his house. Their bodies were not discovered until June 19, which by eerie coincidence was his 39th birthday. (Summary by Wikipedia)\n\nProof listened by BubbleReader & Ana Margarida Pinho</p>\n\n",
+      "genres": [
+        {
+          "id": "27",
+          "name": "Romance"
+        }
+      ],
+      "id": "6716",
+      "language": "Japanese",
+      "num_sections": "13",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "97816",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "231",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "1",
+          "title": "変心　（一）"
+        },
+        {
+          "file_name": null,
+          "id": "97817",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "197",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "2",
+          "title": "変心　（二）"
+        },
+        {
+          "file_name": null,
+          "id": "97818",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "203",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "3",
+          "title": "行進　（一）"
+        },
+        {
+          "file_name": null,
+          "id": "97819",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "165",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "4",
+          "title": "行進　（二）"
+        },
+        {
+          "file_name": null,
+          "id": "97820",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "197",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "5",
+          "title": "行進　（三）"
+        },
+        {
+          "file_name": null,
+          "id": "97821",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "209",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "6",
+          "title": "行進　（四）"
+        },
+        {
+          "file_name": null,
+          "id": "97822",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "174",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "7",
+          "title": "行進　（五）"
+        },
+        {
+          "file_name": null,
+          "id": "97823",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "211",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "8",
+          "title": "怪力　（一）"
+        },
+        {
+          "file_name": null,
+          "id": "97824",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "171",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "9",
+          "title": "怪力　（二）"
+        },
+        {
+          "file_name": null,
+          "id": "97825",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "195",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "10",
+          "title": "怪力　（三）"
+        },
+        {
+          "file_name": null,
+          "id": "97826",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "181",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "11",
+          "title": "怪力　（四）"
+        },
+        {
+          "file_name": null,
+          "id": "97827",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "189",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "12",
+          "title": "コールド・ウォー　（一）"
+        },
+        {
+          "file_name": null,
+          "id": "97828",
+          "language": "English",
+          "listen_url": "",
+          "playtime": "212",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "13",
+          "title": "コールド・ウォー　（二）"
+        }
+      ],
+      "title": "グッド・バイ (Good-Bye)",
+      "totaltime": "0:42:15",
+      "totaltimesecs": 2535,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/good-bye_um_librivox",
+      "url_librivox": "https://librivox.org/good-bye-by-osamu-dazai/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/6716",
+      "url_text_source": "http://www.aozora.gr.jp/cards/000035/files/258_20179.html",
+      "url_zip_file": "http://www.archive.org/download/good-bye_um_librivox/good-bye_um_librivox_64kb_mp3.zip"
+    }
+  ]
+}
