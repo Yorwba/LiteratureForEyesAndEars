@@ -25,7 +25,6 @@
         {
           "file_name": "branchedelilas_00_ouida_64kb.mp3",
           "id": "465465",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_00_ouida_64kb.mp3",
           "playtime": "258",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "branchedelilas_01_ouida_64kb.mp3",
           "id": "465466",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_01_ouida_64kb.mp3",
           "playtime": "685",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "branchedelilas_02_ouida_64kb.mp3",
           "id": "465467",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_02_ouida_64kb.mp3",
           "playtime": "2312",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "branchedelilas_03_ouida_64kb.mp3",
           "id": "465468",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_03_ouida_64kb.mp3",
           "playtime": "2224",
           "readers": [
@@ -92,7 +88,7 @@
       "url_other": "",
       "url_project": "",
       "url_rss": "https://librivox.org/rss/14082",
-      "url_text_source": "https://archive.org/details/revuedesdeuxmond18735pari/page/n8",
+      "url_text_source": "https://fr.wikisource.org/wiki/La_Branche_de_lilas",
       "url_zip_file": "http://www.archive.org/download//branchedelilas_1907_librivox/branchedelilas_1907_librivox_64kb_mp3.zip"
     }
   ]
