@@ -1,0 +1,99 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1839",
+          "dod": "1908",
+          "first_name": "",
+          "id": "170",
+          "last_name": "Ouida"
+        }
+      ],
+      "copyright_year": "1873",
+      "description": "Un jeune homme, laid, orphelin très tôt, comédien dans une troupe ambulante, très sensible, tombe amoureux d'une jeune fille espiègle qui lui jeta une branche de lilas...  Summary by Christiane Jehanne",
+      "genres": [
+        {
+          "id": "15",
+          "name": "General Fiction"
+        }
+      ],
+      "id": "14082",
+      "language": "French",
+      "num_sections": "4",
+      "sections": [
+        {
+          "file_name": "branchedelilas_00_ouida_64kb.mp3",
+          "id": "465465",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_00_ouida_64kb.mp3",
+          "playtime": "258",
+          "readers": [
+            {
+              "display_name": "Christiane Jehanne",
+              "reader_id": "12709"
+            }
+          ],
+          "section_number": "0",
+          "title": "introduction"
+        },
+        {
+          "file_name": "branchedelilas_01_ouida_64kb.mp3",
+          "id": "465466",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_01_ouida_64kb.mp3",
+          "playtime": "685",
+          "readers": [
+            {
+              "display_name": "Christiane Jehanne",
+              "reader_id": "12709"
+            }
+          ],
+          "section_number": "1",
+          "title": "partie 01"
+        },
+        {
+          "file_name": "branchedelilas_02_ouida_64kb.mp3",
+          "id": "465467",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_02_ouida_64kb.mp3",
+          "playtime": "2312",
+          "readers": [
+            {
+              "display_name": "Christiane Jehanne",
+              "reader_id": "12709"
+            }
+          ],
+          "section_number": "2",
+          "title": "partie 02"
+        },
+        {
+          "file_name": "branchedelilas_03_ouida_64kb.mp3",
+          "id": "465468",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/maryannspiegel/branchedelilas_03_ouida_64kb.mp3",
+          "playtime": "2224",
+          "readers": [
+            {
+              "display_name": "Christiane Jehanne",
+              "reader_id": "12709"
+            }
+          ],
+          "section_number": "3",
+          "title": "partie 03"
+        }
+      ],
+      "title": "branche de lilas",
+      "totaltime": "01:31:19",
+      "totaltimesecs": 5479,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/branchedelilas_1907_librivox",
+      "url_librivox": "https://librivox.org/la-branche-de-lilas-by-ouida/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/14082",
+      "url_text_source": "https://archive.org/details/revuedesdeuxmond18735pari/page/n8",
+      "url_zip_file": "http://www.archive.org/download//branchedelilas_1907_librivox/branchedelilas_1907_librivox_64kb_mp3.zip"
+    }
+  ]
+}
