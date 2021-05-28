@@ -34,7 +34,7 @@
             }
           ],
           "section_number": "0",
-          "title": "introduction"
+          "title": "Introduction"
         },
         {
           "file_name": "branchedelilas_01_ouida_64kb.mp3",
@@ -48,7 +48,7 @@
             }
           ],
           "section_number": "1",
-          "title": "partie 01"
+          "title": "Partie 01"
         },
         {
           "file_name": "branchedelilas_02_ouida_64kb.mp3",
@@ -62,7 +62,7 @@
             }
           ],
           "section_number": "2",
-          "title": "partie 02"
+          "title": "Partie 02"
         },
         {
           "file_name": "branchedelilas_03_ouida_64kb.mp3",
@@ -76,10 +76,10 @@
             }
           ],
           "section_number": "3",
-          "title": "partie 03"
+          "title": "Partie 03"
         }
       ],
-      "title": "branche de lilas",
+      "title": "La branche de lilas",
       "totaltime": "01:31:19",
       "totaltimesecs": 5479,
       "translators": [],
