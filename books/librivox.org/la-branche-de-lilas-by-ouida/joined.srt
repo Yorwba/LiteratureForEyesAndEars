@@ -1,0 +1,3344 @@
+1
+00:00:00,000 --> 00:00:04,540
+Section zéro
+de
+La branche de lilas
+
+2
+00:00:04,540 --> 00:00:07,900
+Ceci est un enregistrement LibriVox.
+
+3
+00:00:07,900 --> 00:00:11,520
+Tous nos enregistrements appartiennent au domaine public.
+
+4
+00:00:11,520 --> 00:00:18,980
+Pour vous renseigner à notre sujet ou pour participer, rendez-vous sur LibriVox.org.
+
+5
+00:00:18,980 --> 00:00:22,330
+Enregistré par Christiane Jehanne
+
+6
+00:00:22,330 --> 00:00:26,490
+La branche de lilas
+par
+Ouida
+
+7
+00:00:26,490 --> 00:00:30,590
+Revue des Deux Mondes, Paris, 1873
+
+8
+00:00:30,590 --> 00:00:45,930
+Quand après une période d’expansion et d’éclat le roman semble se recueillir chez nous pour prendre sans doute un nouvel essor, n’est-ce pas une obligation de plus de rechercher si les littératures étrangères sont plus favorisées que la nôtre aujourd’hui ?
+
+9
+00:00:45,930 --> 00:00:51,920
+Ce n’est pas que la fécondité leur manque, ni que le bruit et le retentissement fassent défaut autour de certains noms.
+
+10
+00:00:51,920 --> 00:00:59,890
+Les succès de la femme distinguée qui se cache sous le pseudonyme de Ouida nous avaient même inquiétés d’abord par leur étonnante rapidité,
+
+11
+00:00:59,890 --> 00:01:12,620
+et il nous semble encore qu’ils ont devancé l’entière éclosion d’un talent qui, après avoir flotté indécis pendant plusieurs années, vient enfin de trouver sa voie ; le recueil que nous avons sous les yeux en est un témoignage évident.
+
+12
+00:01:12,620 --> 00:01:24,660
+Il est supérieur à ce roman de Puck, dont M. Forgues a tiré déjà deux jolis tableaux de mœurs anglaises, supérieur surtout à ces premiers romans, Strathmore, Chandos, Under two flags,
+
+13
+00:01:24,660 --> 00:01:35,020
+où la vivacité de l’invention ne suffisait pas à racheter l’invraisemblance des événements, des hardiesses d’un goût douteux et une violence de pinceau qu’on aurait tort de confondre avec l’énergie.
+
+14
+00:01:35,020 --> 00:01:41,570
+Ouida n’a jamais été de ces romanciers, nombreux en Angleterre, dont les œuvres peuvent être mises dans toutes les mains.
+
+15
+00:01:41,570 --> 00:01:46,050
+Elle scandalise ses compatriotes par des audaces dont ils n’ont pas l’habitude.
+
+16
+00:01:46,050 --> 00:01:54,210
+Certes les Dickens et les Thackeray, auxquels on l’accuse de se croire supérieure, eussent hésité devant les sujets qu’elle choisit volontiers ;
+
+17
+00:01:54,210 --> 00:02:07,920
+on va jusqu’à lui attribuer cette réponse caractéristique faite à ceux qui la blâmaient d’alarmer ses chastes lectrices par le dédain du mariage et par des peintures trop vives des entraînements du cœur ou trop indulgentes des faiblesses masculines :
+
+18
+00:02:07,920 --> 00:02:11,420
+« Je n’écris pas pour les femmes, j’écris pour les militaires.
+
+19
+00:02:11,420 --> 00:02:11,710
+»
+
+20
+00:02:11,710 --> 00:02:22,850
+C’est à cette catégorie de lecteurs qu’elle a probablement voulu consacrer le joli type de Cigarette, une vivandière de l’armée d’Afrique, l’héroïne de son roman d’Under two flags.
+
+21
+00:02:22,850 --> 00:02:34,230
+Ouida témoigne à la France, chaque fois que l’occasion s’en présente, de chaleureuses sympathies ; elle lui appartient d’ailleurs par sa famille, qui en est originaire, et même par ses qualités littéraires :
+
+22
+00:02:34,230 --> 00:02:50,370
+l’esprit souple, mordant, indépendant, aventureux, une grâce à part, mondaine et cavalière, je ne sais quelle fougue l’emporte bien loin du domaine de la froide morale émaillée de citations bibliques, domaine ordinaire de la plupart des femmes auteurs en Angleterre.
+
+23
+00:02:50,370 --> 00:02:59,870
+Il lui reste à se corriger d’une certaine tendance au paradoxe qui va jusqu’à lui dicter une espèce d’apologie de la commune, qu’évidemment elle n’a pas vue de près.
+
+24
+00:02:59,870 --> 00:03:11,020
+Cette réserve faite, nous croyons pouvoir offrir au lecteur de la Revue le récit ému, passionné, que Mlle de La Ramée a intitulé la Branche de lilas.
+
+25
+00:03:11,020 --> 00:03:16,000
+Ce récit, où l’adultère, si longtemps proscrit par les romanciers anglais,
+
+26
+00:03:16,000 --> 00:03:30,590
+est abordé résolument et poussé à ses dernières conséquences, nous paraît donner la mesure de l’influence qu’exerce depuis quelques années notre littérature sur celle de nos voisins, et qu’un critique a comparée à la transfusion du sang.
+
+27
+00:03:30,590 --> 00:03:36,480
+Personne n’a subi cette influence plus vivement que le romancier connu sous le nom de Ouida.
+
+28
+00:03:36,480 --> 00:03:44,220
+La verve de son style, la témérité naturelle de sa brillante imagination, une légèreté de plume enfin, rare en son pays,
+
+29
+00:03:44,220 --> 00:03:53,020
+lui permettent de s’aventurer mieux qu’un autre dans ces régions périlleuses dont l’exploration nous a valu tant d’anathèmes de ceux-là même qui finissent par nous imiter.
+
+30
+00:03:53,020 --> 00:04:11,060
+George Sand a souvent inspiré Ouida ; l’imitation était surtout flagrante dans ce roman d’Idalia, dont l’héroïne, une sorte de Circé républicaine, courtisane de réputation, vierge de fait, se sert des philtres de sa beauté pour gagner des partisans à la cause italienne.
+
+31
+00:04:11,060 --> 00:04:14,180
+Fin
+de la
+Section zéro
+
+32
+00:04:19,380 --> 00:04:23,670
+Section une
+de
+La branche de lilas
+par
+Ouida
+
+33
+00:04:23,670 --> 00:04:27,920
+Cet enregistrement LibriVox fait partie du domaine public.
+
+34
+00:04:27,920 --> 00:04:31,740
+Enregistré par Christiane Jehanne
+
+35
+00:04:31,740 --> 00:04:32,730
+Un
+
+36
+00:04:32,730 --> 00:04:37,380
+Oui, je serai fusillé dès l’aube, on le dit, — et pour une branche de lilas !
+
+37
+00:04:37,380 --> 00:04:38,550
+Vous ne me croyez point ?..
+
+38
+00:04:38,550 --> 00:04:42,140
+Souvent, pour faire tuer un homme, il n’en a pas fallu davantage.
+
+39
+00:04:42,140 --> 00:04:53,320
+Un regard, un sourire, une larme, une fleur fanée, — c’est peu, et c’est beaucoup quand cela vient d’une femme, — beaucoup, tout le présent, tout le passé, tout l’avenir.
+
+40
+00:04:53,320 --> 00:04:55,760
+Voici le lilas,… regardez.
+
+41
+00:04:55,760 --> 00:05:02,040
+Il n’a plus ni couleur, ni parfum, ni beauté, il est flétri ; ne dirait-on pas un amour mort ?
+
+42
+00:05:02,040 --> 00:05:04,220
+Vous m’avez demandé mon histoire.
+
+43
+00:05:04,220 --> 00:05:05,080
+À quoi bon ?
+
+44
+00:05:05,080 --> 00:05:08,040
+Avoir une histoire, c’est un luxe pour les riches.
+
+45
+00:05:08,040 --> 00:05:10,240
+Que sert aux pauvres d’en avoir une ?
+
+46
+00:05:10,240 --> 00:05:12,820
+S’ils la racontent, qui les écoute ?
+
+47
+00:05:12,820 --> 00:05:14,610
+Et j’ai toujours été pauvre.
+
+48
+00:05:14,610 --> 00:05:18,960
+Cependant je fus heureux jusqu’au jour de printemps où fleurit ce lilas.
+
+49
+00:05:18,960 --> 00:05:22,060
+Je suis un comédien ; ma mère était danseuse.
+
+50
+00:05:22,060 --> 00:05:23,130
+Mon père… Bah !
+
+51
+00:05:23,130 --> 00:05:25,490
+c’est encore là un luxe pour les riches.
+
+52
+00:05:25,490 --> 00:05:31,430
+Ma mère fut toujours fort obscure ; elle allait avec sa troupe, en certaines saisons, de ville en ville.
+
+53
+00:05:31,430 --> 00:05:40,210
+Je me rappelle que, quand j’étais petit, elle me portait sur son épaule, et que j’attrapais les papillons au soleil le long des routes, tandis que nous avancions.
+
+54
+00:05:40,210 --> 00:05:46,520
+J’étais un gros enfant brun et turbulent, laid comme je le suis encore ; mais pour elle sans doute, chère âme !
+
+55
+00:05:46,520 --> 00:05:47,500
+j’étais beau.
+
+56
+00:05:47,500 --> 00:05:53,020
+Je devais lui donner beaucoup d’embarras, toujours en route comme elle l’était ; mais elle ne me le marqua jamais.
+
+57
+00:05:53,020 --> 00:05:57,800
+Quelque fatiguée qu’elle fût, elle ne l’était jamais assez pour ne pouvoir jouer avec moi.
+
+58
+00:05:57,800 --> 00:06:11,430
+Pauvre petite mère, fluette et blanche, je la vois encore danser sous ses paillettes, du rouge aux joues, cherchant toujours des yeux son cher garçon, qui ne savait que grogner quand il avait faim, et j’avais faim souvent, je m’en souviens aussi ;
+
+59
+00:06:11,430 --> 00:06:19,120
+ce n’était pas sa faute, elle se serait usé les pieds à danser pour pouvoir m’élever comme un prince, si la danse avait pu lui donner la fortune.
+
+60
+00:06:19,120 --> 00:06:20,060
+Pauvre mère !
+
+61
+00:06:20,060 --> 00:06:23,830
+elle tomba d’un ciel de carton, et la chute fut mortelle.
+
+62
+00:06:23,830 --> 00:06:37,700
+Je n’avais que cinq ans, et je me la rappelle pourtant comme si c’était hier, dans son corset d’écarlate et ses jupes courtes, s’élançant hors de scène, son rôle joué, pour me saisir dans ses bras et me couvrir de caresses…
+
+63
+00:06:37,700 --> 00:06:44,110
+Je me la rappelle pleine de grâce, la grâce d’un oiseau sur quelque branche fleurie par l’été ;
+
+64
+00:06:44,110 --> 00:06:57,890
+mais si j’ai raison de la voir ainsi, ceux pour qui elle dansait avaient tort, car le public ne trouva jamais rien de remarquable en elle, et elle mourut comme elle avait vécu, actrice ambulante jusqu’à la fin.
+
+65
+00:06:57,890 --> 00:07:05,430
+Piccinino fut le dernier mot qu’elle prononça ; elle m’avait toujours appelé ainsi, je restai Piccinino.
+
+66
+00:07:05,430 --> 00:07:12,340
+Je devais avoir quelque autre nom que me donnait la loi, mais la loi et moi nous ne fûmes jamais grands amis.
+
+67
+00:07:12,340 --> 00:07:16,370
+La petite troupe à laquelle appartenait ma mère fut bonne pour moi.
+
+68
+00:07:16,370 --> 00:07:21,570
+J’étais orphelin, sans le sou, fort laid, je l’ai dit ; mais ces bohèmes sont charitables.
+
+69
+00:07:21,570 --> 00:07:25,410
+Ils rivalisèrent à mon égard de procédés généreux.
+
+70
+00:07:25,410 --> 00:07:28,370
+En grandissant, je pris le goût du théâtre.
+
+71
+00:07:28,370 --> 00:07:35,710
+Comment me serais-je figuré la vie sans l’aigre petit orchestre qui avait couvert mes premiers cris, qui m’avait égayé ensuite ?
+
+72
+00:07:35,710 --> 00:07:43,220
+Cette flûte, ce tambour me semblaient aussi nécessaires à l’existence que la lumière du soleil elle-même.
+
+73
+00:07:43,220 --> 00:07:49,500
+Je jouais les petits rôles qui peuvent convenir à un enfant, et je les jouais bien, au dire de mes amis.
+
+74
+00:07:49,500 --> 00:08:00,520
+Quant à moi, je n’en sais rien ; tout ce que je sais, c’est que les planches de notre petit théâtre étaient pour moi la patrie, et que je ne fus jamais intimidé par les regards du plus nombreux public ;
+
+75
+00:08:00,520 --> 00:08:05,540
+c’étaient pour moi au contraire des regards amis, ceux des seuls amis que j’eusse au monde.
+
+76
+00:08:05,540 --> 00:08:07,290
+J’aimais tant les faire rire !
+
+77
+00:08:07,290 --> 00:08:13,090
+Moi, un petit laideron que les autres enfants huaient dans la rue en l’appelant vilain saltimbanque,
+
+78
+00:08:13,090 --> 00:08:27,160
+je pouvais par ma gaité, par mon talent, tenir sous le charme des hommes, des femmes, des pères de famille, des grands parents ; ces enfants, mes ennemis, n’auraient pas exercé sur leurs aînés l’influence irrésistible que je possédais.
+
+79
+00:08:27,160 --> 00:08:30,230
+C’était ma vengeance, et elle m’était douce.
+
+80
+00:08:30,230 --> 00:08:37,620
+Du reste je n’en voulais à personne, j’étais de bonne humeur, et je le fus toujours jusqu’au temps où fleurit ce lilas.
+
+81
+00:08:37,620 --> 00:08:39,860
+Nous menions joyeuse vie en somme.
+
+82
+00:08:39,860 --> 00:08:51,920
+Il fallait voyager par toutes les intempéries des saisons, afin d’atteindre telle ville ou tel village pour tel anniversaire ou telle solennité, coucher dans des greniers quand les auberges se trouvaient pleines ;
+
+83
+00:08:51,920 --> 00:08:56,800
+souvent nos recettes couvraient tout au plus les frais d’installation et d’éclairage.
+
+84
+00:08:56,800 --> 00:08:57,630
+N’importe !
+
+85
+00:08:57,630 --> 00:09:07,490
+nous tirions le meilleur parti possible des circonstances, unis comme doivent l’être de bons camarades, sans autres rivalités que celles de notre art, libres d’abord.
+
+86
+00:09:07,490 --> 00:09:20,410
+Combien de fois, en traversant les villes, nous disions-nous que notre sort valait mieux que celui des bourgeois, condamnés au même toit et au même horizon jusqu’à l’heure où la tombe s’ouvre pour eux dans le lieu même où ils sont nés,
+
+87
+00:09:20,410 --> 00:09:31,380
+tandis que nous allions devant nous, à notre guise, sans jamais nous arrêter assez longtemps dans un même site pour nous en lasser, sans que rien se dressât entre nous et l’immensité des cieux !
+
+88
+00:09:31,380 --> 00:09:46,230
+L’hiver nous faisait cependant payer un peu nos jouissances, — l’hiver est rude aux races errantes : si l’été durait l’année entière, tout le monde voudrait être bohémien ; mais les autres se privaient volontiers du nécessaire pour que je ne manquasse de rien.
+
+89
+00:09:46,230 --> 00:09:55,400
+J’étais l’enfant adoptif de toute la troupe, et ma pauvreté était si riante que je ne désirais rien de mieux, n’ayant jamais du reste connu autre chose.
+
+90
+00:09:55,400 --> 00:10:04,320
+Quant à ma laideur, je ne la regrettais pas, puisque chacun déclarait que ma physionomie était des plus heureuses pour l’emploi comique dont j’étais chargé.
+
+91
+00:10:04,320 --> 00:10:10,660
+La première fois que je désirai plaire aux yeux, c’était un jour de procession dans une ville de province.
+
+92
+00:10:10,660 --> 00:10:27,170
+Des petites filles voilées de blanc, qui passaient auprès de moi, la croix en tête, reculèrent, et l’une d’elles, la plus jolie, me poussa du trottoir sur la chaussée en disant : — C’est bête d’être aussi laid que cela ! — Je trébuchai tout éperdu sous le mépris de ce petit ange ;
+
+93
+00:10:27,170 --> 00:10:34,120
+mais le soir vint, et je revis la même tête blonde au théâtre que nous avions dressé sur la place du marché.
+
+94
+00:10:34,120 --> 00:10:35,620
+Je ne vis qu’elle.
+
+95
+00:10:35,620 --> 00:10:40,190
+La fillette riait, elle applaudissait, émerveillée, hors d’elle-même.
+
+96
+00:10:40,190 --> 00:10:44,010
+Mes camarades me dirent que je n’avais jamais aussi bien joué.
+
+97
+00:10:44,010 --> 00:10:53,350
+Tandis qu’ils me félicitaient, je ne les voyais toujours pas, je ne voyais rien que cette petite tête blonde. — Demandez-lui maintenant s’il est bête d’être laid !
+
+98
+00:10:53,350 --> 00:10:58,320
+dis-je, éclatant d’un rire nerveux. — La pièce jouée, je m’évanouis.
+
+99
+00:10:58,320 --> 00:11:00,750
+Tout ceci ne vous intéresse pas.
+
+100
+00:11:00,750 --> 00:11:06,920
+Que j’aie souffert ou été heureux, que j’aie aimé ou haï, personne ne s’en souciera.
+
+101
+00:11:06,920 --> 00:11:19,860
+Un chien savant souffre cruellement sous le bâton, et il est capable de s’attacher de toutes ses forces à quiconque ne le bat pas, mais les douleurs, mais l’amour d’un chien savant ne comptent pas dans le monde.
+
+102
+00:11:19,860 --> 00:11:22,410
+Je n’étais rien de plus que lui.
+
+103
+00:11:22,410 --> 00:11:29,710
+N’est-il pas horrible de penser aux émotions, aux efforts qui sont sans cesse gaspillés en pure perte ?
+
+104
+00:11:29,710 --> 00:11:35,470
+Des millions de créatures vivantes prodiguent à chaque instant le sang de leur cœur.
+
+105
+00:11:35,470 --> 00:11:39,550
+Si c’était pour quelque chose encore ; mais non, point de but !..
+
+106
+00:11:39,550 --> 00:11:42,410
+Je divague, je ne puis m’en empêcher.
+
+107
+00:11:42,410 --> 00:11:46,930
+Il faut que je parle de moi à ma manière ou que je n’en dise rien.
+
+108
+00:11:46,930 --> 00:11:52,190
+Je grandis au milieu de ces bonnes âmes, qui étaient des parias pour le grand nombre.
+
+109
+00:11:52,190 --> 00:12:04,580
+La mort de notre vieux directeur, — il mourut de froid, ayant donné par une rude nuit d’hiver son manteau à une pauvre femme en mal d’enfant, — cette mort fut cause que notre petite troupe se dispersa.
+
+110
+00:12:04,580 --> 00:12:08,020
+J’allais tantôt avec les uns, tantôt avec les autres.
+
+111
+00:12:08,020 --> 00:12:18,480
+J’aimais la liberté, le changement, l’aventure, jusqu’aux risques et aux privations de la carrière que j’avais toujours suivie ; j’atteignis ainsi dix-huit ans.
+
+112
+00:12:18,480 --> 00:12:22,150
+J’étais robuste de corps, j’avais au moins le talent de faire rire.
+
+113
+00:12:22,150 --> 00:12:25,960
+Ai-je besoin d’ajouter que je ne craignais pas l’avenir ?
+
+114
+00:12:25,960 --> 00:12:36,100
+Je me joignis à diverses troupes, et j’eus des succès, qui ne suffirent néanmoins à me faire remarquer par aucun imprésario, ni attirer dans aucune capitale.
+
+115
+00:12:36,100 --> 00:12:39,670
+Je n’étais pas, je crois, assez grossier pour les grands théâtres.
+
+116
+00:12:39,670 --> 00:12:41,990
+Ne vous figurez pas que ce soit là de l’ironie.
+
+117
+00:12:41,990 --> 00:12:50,190
+Le goût des villes exige des gestes indécents et n’estime la plaisanterie que si quelque gravelure se dérobe sous l’équivoque.
+
+118
+00:12:50,190 --> 00:12:56,600
+Or mes bouffonneries étaient franches, ma gaîté de bon aloi et fort inoffensive.
+
+119
+00:12:56,600 --> 00:13:04,320
+La populace qui venait oublier au spectacle ses labeurs et ses besoins ne fut jamais pire pour avoir ri en m’écoutant.
+
+120
+00:13:04,320 --> 00:13:05,920
+Qu’importe encore ?
+
+121
+00:13:05,920 --> 00:13:06,700
+dira-t-on.
+
+122
+00:13:06,700 --> 00:13:17,020
+Rien à vous, peut-être ; mais, quand on va mourir au point du jour, il n’est pas désagréable de se rappeler qu’en faisant de l’art selon ses moyens on n’a corrompu personne.
+
+123
+00:13:17,020 --> 00:13:19,610
+Je n’étais pas un saint, loin de là.
+
+124
+00:13:19,610 --> 00:13:34,020
+J’avais mes folies et mes vices comme un autre ; ce que je prétends seulement prouver, c’est qu’il n’est pas de carrière qu’on ne puisse ennoblir par la manière dont on l’exerce, fût-ce celle de bouffon. — Vois-tu, me disait notre vieux directeur quand j’étais enfant,
+
+125
+00:13:34,020 --> 00:13:49,380
+ces gens-là viennent se réjouir chez nous pour un peu de temps, et puis ils emportent dans leurs mansardes un refrain de nos chansons, un éclat de rire qui reviendra peut-être aux mauvais jours sur leurs lèvres affamées ; ce sera le rayon de soleil dans la caverne, Piccinino ;
+
+126
+00:13:49,380 --> 00:13:55,490
+penses-y quand un sot te jettera au visage comme une injure ton titre de comédien ambulant.
+
+127
+00:13:55,490 --> 00:14:06,910
+Je me trouvais heureux, je le répète, bien que je n’eusse jamais plus d’argent qu’il ne m’en fallait pour le plus mauvais gîte et la plus maigre chère ; mais notre bonheur dépend beaucoup de nous-mêmes.
+
+128
+00:14:06,910 --> 00:14:11,430
+C’est un lieu-commun de prédicateur, je le sais ; c’est vrai malgré cela.
+
+129
+00:14:11,430 --> 00:14:17,310
+Tant qu’on n’a pas de regrets, on peut être heureux, et je n’enviais personne, par ignorance sans doute.
+
+130
+00:14:17,310 --> 00:14:30,200
+Si j’avais su ce que c’était que la richesse, sa puissance et ses plaisirs, j’en eusse été avide comme le reste des hommes ; mais je ne savais pas, et ce n’était point ma nature d’être jaloux de la simple possession des choses.
+
+131
+00:14:30,200 --> 00:14:41,480
+Boiteux, j’eusse envié passionnément ceux qui marchent droit et vite ; puisque je pouvais franchir d’un pas leste les prairies, et les bois, et les neiges, à quoi bon envier les gens qui roulaient en carrosse ?
+
+132
+00:14:41,480 --> 00:14:44,510
+J’eusse trouvé cela sot, puéril et ingrat.
+
+133
+00:14:44,510 --> 00:14:46,530
+Ignorance, je le répète !
+
+134
+00:14:46,530 --> 00:14:54,610
+Chacun a pu remarquer que les hommes qui savent beaucoup de choses en envient beaucoup d’autres ; ne sachant rien, je n’enviais rien.
+
+135
+00:14:54,610 --> 00:14:58,730
+J’avais mes peines, mais comme elles sont effacées aujourd’hui !
+
+136
+00:14:58,730 --> 00:15:11,710
+Je ne me rappelle plus que les paysages ensoleillés, le ciel bleu, les chants d’oiseaux, la fenêtre qui s’ouvrait pour laisser voir une rose pareille à la joue d’une jeune fille ou une jeune fille pareille à une rose,
+
+137
+00:15:11,710 --> 00:15:25,080
+les treilles hospitalières et ces vieilles églises où j’entrais volontiers seul le soir pour errer avec recueillement, dans le crépuscule, la fraîcheur, les odeurs vagues d’eau bénite et d’encens, parmi les tombeaux.
+
+138
+00:15:25,080 --> 00:15:30,470
+Ils sont bien passés, ces jours, ces nuits ; ne me mesurez pas les réminiscences.
+
+139
+00:15:30,470 --> 00:15:35,810
+Laissez-moi me souvenir tandis que je le peux, puisque tout est oubli là-bas, assure-t-on.
+
+140
+00:15:35,810 --> 00:15:38,800
+Fin
+de la
+Section une
+
+141
+00:15:44,300 --> 00:15:48,610
+Section deux
+de
+La branche de lilas
+par
+Ouida
+
+142
+00:15:48,610 --> 00:15:52,900
+Cet enregistrement LibriVox fait partie du domaine public.
+
+143
+00:15:52,900 --> 00:15:56,410
+Enregistré par Christiane Jehanne
+
+144
+00:15:56,410 --> 00:15:57,220
+Deux
+
+145
+00:15:57,220 --> 00:16:10,220
+Au printemps, j’arrivai avec mes camarades dans une petite ville des bords de la Loire, une ville ancienne, haut perchée sur un coteau rocheux, entourée de remparts croulants tout en fleurs, de fossés tout blancs de muguet.
+
+146
+00:16:10,220 --> 00:16:14,590
+Par-dessus les murs des jardins, les lilas secouaient leurs panaches.
+
+147
+00:16:14,590 --> 00:16:20,930
+Je respire encore ce parfum, je le respirerai, je crois, dans la fosse où l’on me jettera.
+
+148
+00:16:20,930 --> 00:16:34,940
+Nous entrâmes à midi ; le lendemain était jour de fête, et la vieille ville grise, momentanément éveillée de sa torpeur, était aminée par une affluence de paysans qui se joignait à la population pour encombrer le champ de foire et le mail.
+
+149
+00:16:34,940 --> 00:16:49,310
+Comme je passais, portant ma part de tente, le flageolet et le tambour sonnant avec leur gaîté ordinaire devant nos pas fatigués, j’entendis soudain une voix au-dessus de ma tête, une voix de femme, haute et claire. — Qu’il est laid celui-là !
+
+150
+00:16:49,310 --> 00:16:50,750
+s’écriait-elle en riant.
+
+151
+00:16:50,750 --> 00:16:53,110
+Sa figure à elle seule est une charge.
+
+152
+00:16:53,110 --> 00:16:55,480
+Il ferait mourir de rire les chiens de la rue.
+
+153
+00:16:55,480 --> 00:16:56,080
+— Chut !
+
+154
+00:16:56,080 --> 00:16:57,240
+dit une autre voix.
+
+155
+00:16:57,240 --> 00:16:57,980
+Qui sait ?
+
+156
+00:16:57,980 --> 00:17:00,680
+peut-être entend-il, et il a l’air si fatigué !
+
+157
+00:17:00,680 --> 00:17:03,430
+La première voix éclata de plus belle : — Bah !
+
+158
+00:17:03,430 --> 00:17:04,300
+il est trop laid !
+
+159
+00:17:04,300 --> 00:17:06,860
+Pourquoi Dieu met-il au monde des êtres pareils ?
+
+160
+00:17:06,860 --> 00:17:13,640
+Et une branche de lilas m’effleura le visage d’une caresse singulièrement fraîche et suave.
+
+161
+00:17:13,640 --> 00:17:18,050
+Celle qui parlait si haut me l’avait jetée dans sa gaîté moqueuse.
+
+162
+00:17:18,050 --> 00:17:22,760
+Il y avait dessus un petit papillon couleur de safran et une abeille dorée.
+
+163
+00:17:22,760 --> 00:17:30,010
+L’abeille s’arrêta sur ma main l’espace d’une seconde, puis s’envola ; le papillon resta collé aux fleurs.
+
+164
+00:17:30,010 --> 00:17:31,560
+Je levai les yeux.
+
+165
+00:17:31,560 --> 00:17:43,130
+Elle s’appuyait au vieux mur moussu, les branches de lilas s’entre-croisant au-dessus, au-dessous et tout autour d’elle ; ses cheveux d’or brillaient au soleil ; elle avait une grappe de lilas au corsage.
+
+166
+00:17:43,130 --> 00:17:44,440
+Vous la peindrai-je ?
+
+167
+00:17:44,440 --> 00:17:44,940
+Non.
+
+168
+00:17:44,940 --> 00:17:50,800
+Pensez seulement à la femme qui, pour vous, entre toutes celles de son sexe, a représenté l’amour.
+
+169
+00:17:50,800 --> 00:17:59,640
+Ce n’était qu’une fille du peuple, une orpheline qui, simplement vêtue, se reposait de son travail de la journée en regardant les passants par-dessus le mur.
+
+170
+00:17:59,640 --> 00:18:01,810
+Pour moi, elle devint l’univers.
+
+171
+00:18:01,810 --> 00:18:14,200
+Chose étrange, nous voyons des milliers de visages, nous entendons des milliers de voix, nous rencontrons des milliers de femmes une fleur au corsage, un sourire dans les yeux, et elles ne nous touchent pas.
+
+172
+00:18:14,200 --> 00:18:22,190
+Puis il en passe une qui est pour nous la vie et la mort, et qui joue avec l’une ou l’autre aussi étourdiment qu’un enfant avec ses hochets.
+
+173
+00:18:22,190 --> 00:18:28,640
+Elle n’est ni meilleure ni plus belle que toutes les précédentes, et pourtant sans elle le monde serait vide pour nous.
+
+174
+00:18:28,640 --> 00:18:34,220
+Je continuai ma marche, tenant la branche de lilas, cette pauvre branche aujourd’hui desséchée.
+
+175
+00:18:34,220 --> 00:18:41,070
+Elle était si brillante alors, si parfumée, si fraîche sous les baisers du papillon et de l’abeille !
+
+176
+00:18:41,070 --> 00:18:43,180
+Il y a de cela juste deux ans.
+
+177
+00:18:43,180 --> 00:18:47,020
+Les lilas sont-ils en fleur là-bas, je me le demande ?
+
+178
+00:18:47,020 --> 00:18:51,010
+Bien sûr, et elle les cueille, et elle les jette à son amant.
+
+179
+00:18:51,010 --> 00:18:51,920
+Pourquoi pas ?
+
+180
+00:18:51,920 --> 00:19:00,050
+Pensera-t-elle à la branche qui est morte, à la branche qui fleurissait dans la saison dernière,… il y a si longtemps, si longtemps ?
+
+181
+00:19:00,050 --> 00:19:02,290
+Non, sans doute.
+
+182
+00:19:02,290 --> 00:19:13,330
+Les lilas ne vivent qu’un jour, mais cette journée rapide est moins courte que la mémoire d’une femme… Je ne pourrais dire comment je jouai ce soir-là ; je ne savais ce que je faisais.
+
+183
+00:19:13,330 --> 00:19:19,910
+Tout autour de moi flottait l’odeur des lilas, et dans la foule houleuse je ne cherchais qu’un seul visage.
+
+184
+00:19:19,910 --> 00:19:21,330
+Il n’y était pas.
+
+185
+00:19:21,330 --> 00:19:32,650
+Quand le spectacle fut terminé au milieu des applaudissements, je me débarrassai de mes camarades et des braves gens qui nous faisaient accueil pour retourner à cette petite rue escarpée qu’embaumaient les lilas.
+
+186
+00:19:32,650 --> 00:19:39,830
+Ceux-ci avaient perdu leur couleur sous les rayons de la pleine lune, et leurs arômes chargeaient lourdement la brise.
+
+187
+00:19:39,830 --> 00:19:43,070
+Je me promenai de long en large toute la nuit.
+
+188
+00:19:43,070 --> 00:19:57,600
+Au lever du soleil, je demandai à un tailleur de pierre qui se rendait à sa besogne quelles gens demeuraient derrière ces murs en ruines. — Personne, me répondit-il ; ce sont les murs d’un ancien jardin de couvent où maintenant tout le monde se promène à son gré. —
+
+189
+00:19:57,600 --> 00:19:59,930
+Je ne lui adressai pas d’autre question.
+
+190
+00:19:59,930 --> 00:20:04,420
+Un étrange silence, une timidité nouvelle, pesaient sur moi.
+
+191
+00:20:04,420 --> 00:20:14,070
+Rentré dans la misérable petite auberge où la troupe avait cherché gîte, je regagnai ma mansarde pour contempler et baiser à mon aise la branche de lilas.
+
+192
+00:20:14,070 --> 00:20:17,820
+Il me semblait que ma destinée y fût attachée en quelque sorte.
+
+193
+00:20:17,820 --> 00:20:24,190
+Je l’avais mise dans l’eau et à l’ombre, mais déjà elle était flétrie, et le petit papillon jaune était mort.
+
+194
+00:20:24,190 --> 00:20:31,690
+Tout le jour, je m’efforçai de découvrir la femme qui l’avait laissé tomber avec de si dures paroles ; je n’y parvins pas.
+
+195
+00:20:31,690 --> 00:20:47,320
+C’était grande fête, les rues étaient pleines de monde, ruisselantes de bannières, de banderoles, d’enfants de chœur en robes blanches, de petits chérubins une couronne printanière au front ; parmi tous ces visages, je ne reconnus pas le visage que je cherchais.
+
+196
+00:20:47,320 --> 00:20:52,230
+Elle devait être là cependant, mais pour une raison ou pour une autre elle m’échappait.
+
+197
+00:20:52,230 --> 00:20:57,200
+La nuit vint, et je remontai sur les planches, toujours poursuivi par son image,
+
+198
+00:20:57,200 --> 00:20:59,270
+— Que cherches-tu donc, Piccinino ?
+
+199
+00:20:59,270 --> 00:21:01,170
+me demandaient mes camarades.
+
+200
+00:21:01,170 --> 00:21:11,910
+Je me mis à rire en répondant : — Une branche de lilas. — Ils crurent à une plaisanterie, car partout dans la ville les lilas blancs et violets servaient en ce moment d’abri aux petits oiseaux.
+
+201
+00:21:11,910 --> 00:21:15,410
+Je me rappelle bien la pièce que nous jouâmes ce soir-là.
+
+202
+00:21:15,410 --> 00:21:27,610
+J’étais chargé du rôle principal, le rôle d’un savetier de village qui, vieux et infirme, aime une belle et malicieuse fille, passion ridicule et dédaignée qui le met en butte aux railleries de toute la jeunesse du pays.
+
+203
+00:21:27,610 --> 00:21:35,340
+Ce rôle était fort comique, il me convenait à merveille, et j’avais l’habitude de m’en acquitter au milieu des fous rires du public.
+
+204
+00:21:35,340 --> 00:21:39,170
+Cette fois je l’interprétai dans un esprit tout différent.
+
+205
+00:21:39,170 --> 00:21:43,750
+Les paroles : — qu’il est laid ! — me bourdonnaient aux oreilles jusqu’à m’étourdir.
+
+206
+00:21:43,750 --> 00:21:48,570
+On me fit une bruyante bienvenue, car la pièce était en vogue autant que moi-même.
+
+207
+00:21:48,570 --> 00:21:57,940
+La présomption, l’extravagance amoureuse d’un être sans jeunesse et dénué de grâce, ont toujours été un thème favori de dérision pour le public.
+
+208
+00:21:57,940 --> 00:22:04,720
+Tant d’aveuglement est ridicule sans doute, et pourtant sont-ce les plus jeunes et les plus beaux qui sentent le plus vivement ?
+
+209
+00:22:04,720 --> 00:22:08,120
+Je compris soudain la situation d’une manière nouvelle.
+
+210
+00:22:08,120 --> 00:22:10,120
+Je ne sais ce qui me possédait.
+
+211
+00:22:10,120 --> 00:22:19,280
+Ce rôle était franchement comique, je le répète, et j’avais toujours été un acteur comique ; n’importe, je changeai, et le rôle avec moi.
+
+212
+00:22:19,280 --> 00:22:34,790
+Une impulsion plus forte que ma volonté me fit transformer ce personnage grotesque en un personnage infiniment plus grand, plus noble, plus triste que le pauvre sot qu’il m’avait plu jusque-là de livrer à l’hilarité du public.
+
+213
+00:22:34,790 --> 00:22:51,060
+Je ne vous expliquerai pas comment cela se fit, je n’altérai en rien l’action, je ne remplaçai pas un seul mot par un autre, et pourtant le rôle cessa d’être absurde et méprisable ; il devint touchant, digne, presque héroïque.
+
+214
+00:22:51,060 --> 00:23:05,980
+Cet infortuné, disgracié par la nature, n’avait-il pas un cœur susceptible d’amour infini et d’infini désespoir, un cœur plus sincère, plus fidèle et plus désolé qu’aucun de ceux qui battaient autour de lui tout bouillants de jeunesse ?
+
+215
+00:23:05,980 --> 00:23:13,170
+et le monde faisait de lui un jouet, et il était bafoué par la créature même pour qui volontiers il eût souffert mille morts.
+
+216
+00:23:13,170 --> 00:23:15,460
+Y avait-il vraiment de quoi rire ?
+
+217
+00:23:15,460 --> 00:23:18,700
+Ce fut ainsi que je compris et que je jouai.
+
+218
+00:23:18,700 --> 00:23:33,180
+La pièce terminée, je regardai les spectateurs pour la première fois de la soirée ; j’observai que tous étaient silencieux et haletants, je m’aperçus avec surprise que moi, le bouffon à leurs gages, je les avais fait non pas rire, mais pleurer.
+
+219
+00:23:33,180 --> 00:23:45,270
+Ils ne se rendaient point compte de ce qu’ils éprouvaient ; seulement le lien étrange qui unit l’acteur au public était cause que la douleur vague et profonde qui m’étouffait était passée en eux.
+
+220
+00:23:45,270 --> 00:23:47,130
+— Qu’est-ce qui t’a pris, Piccinino ?
+
+221
+00:23:47,130 --> 00:23:50,080
+demandèrent mes camarades, se pressant autour de moi.
+
+222
+00:23:50,080 --> 00:23:56,580
+Je recommençai de rire ; ma gorge était serrée, mes yeux humides : — C’est la faute de cette branche de lilas.
+
+223
+00:23:56,580 --> 00:23:59,100
+Ils durent me croire fou décidément.
+
+224
+00:23:59,100 --> 00:24:00,700
+Je le croyais moi-même.
+
+225
+00:24:00,700 --> 00:24:15,640
+Le directeur vint à moi, me toisa d’un air curieux, puis, frappant sur mon épaule, laissa échapper un juron d’ébahissement : — Tu deviendrais tragédien que je n’en serais pas surpris ; mais une autre fois ne fais pas pleurer toute la salle quand nous annonçons une bouffonnerie.
+
+226
+00:24:15,640 --> 00:24:23,850
+Notre métier est de faire rire ; n’oublie plus cela. — Je me tus ; comment aurais-je expliqué la révolution qui s’était produite en moi ?
+
+227
+00:24:23,850 --> 00:24:27,090
+Cette branche de lilas… mais qui l’eût cru ?
+
+228
+00:24:27,090 --> 00:24:29,630
+On ne croit jamais ce qui est vrai.
+
+229
+00:24:29,630 --> 00:24:45,740
+Il se trouva que, malgré les craintes du directeur, le public ne se plaignit pas de l’émotion qu’on lui avait imposée en promettant de le divertir ; la pièce lui plut tout autant sous son dernier aspect ; on admira en outre la variété de mes moyens.
+
+230
+00:24:45,740 --> 00:24:46,540
+— Qui sait ?
+
+231
+00:24:46,540 --> 00:24:52,480
+dirent quelques prophètes en quittant le théâtre, il pourra être célèbre un jour et aller même à Paris. —
+
+232
+00:24:52,480 --> 00:25:05,560
+Lorsque la pièce fut affichée de nouveau, je voulus revenir à l’ancienne manière ; mais les gens de la ville exigèrent en chœur que Piccinino donnât une fois de plus la preuve du nouveau talent que le temps ou le hasard avait développé en lui.
+
+233
+00:25:05,560 --> 00:25:11,520
+Nous n’étions pas des artistes de génie pour disposer à notre guise du public ; il n’y avait qu’à obéir.
+
+234
+00:25:11,520 --> 00:25:16,900
+Dès mon entrée en scène, je sentis, avant même de l’avoir vue, qu’elle était là.
+
+235
+00:25:16,900 --> 00:25:27,160
+L’éclair de ses yeux d’enfant si doux et si malicieux jaillit sur moi par-dessus la rampe fumeuse : je bégayai, je trébuchai, le sang m’aveugla.
+
+236
+00:25:27,160 --> 00:25:33,070
+Les camarades qui me donnaient la réplique me soufflèrent, avec aigreur cette fois, à l’oreille : — Qu’est-ce qui te prend, Piccinino ?
+
+237
+00:25:33,070 --> 00:25:39,020
+es-tu donc ivre ou malade ? — Ils ne parvinrent pas à rompre l’enchantement qui me maîtrisait.
+
+238
+00:25:39,020 --> 00:25:48,940
+Je restai muet, l’œil fixe… Le public s’irrita : sa faveur était mon pain quotidien, son courroux pouvait être ma ruine ; je n’en tenais pas compte.
+
+239
+00:25:48,940 --> 00:25:56,570
+La tête dorée qui m’était apparue derrière les lilas rayonnait seule pour moi, effaçant tout son rustique entourage.
+
+240
+00:25:56,570 --> 00:26:02,290
+Soudain il me sembla que les murmures croissants étaient dominés par une petite voix argentine :
+
+241
+00:26:02,290 --> 00:26:14,020
+— Si laid et si bête à la fois, disait-elle avec son insouciante cruauté ; c’est vraiment trop pour un seul ! — Ces mots furent suivis de l’éclat de rire mutin qui avait accompagné le don de la branche.
+
+242
+00:26:14,020 --> 00:26:20,400
+Il n’en fallut pas davantage pour me réveiller ; imaginez une épine qui s’enfonce dans une blessure ouverte.
+
+243
+00:26:20,400 --> 00:26:36,960
+Je ne savais pas ce que je faisais, ce que je disais ; le public avait plus que jamais disparu, mais je jouais pour une seule personne avec toute l’âme qui était en moi, et on prétendit que je me surpassais moi-même ; l’admiration générale devint de la stupeur,
+
+244
+00:26:36,960 --> 00:26:51,930
+presque de l’effroi ; du moins ceci me fut dit depuis, car je ne compris rien, bien entendu, sauf que j’étais rappelé à plusieurs reprises, que les chapeaux, les mouchoirs s’agitaient en mon honneur, que je sortais enfin au milieu d’un rugissement de bravos.
+
+245
+00:26:51,930 --> 00:27:03,640
+L’ovation se serait terminée au cabaret, si je n’eusse échappé avec une sorte de fureur aux mains qui m’entraînaient pour courir guetter en cachette le passage des femmes ; mais j’arrivai trop tard.
+
+246
+00:27:03,640 --> 00:27:12,030
+Elle était partie, et j’ignorais si auprès d’elle j’avais triomphé, si une larme avait noyé ces yeux clairs où se mirait si bien le soleil.
+
+247
+00:27:12,030 --> 00:27:16,020
+Je rentrai donc le cœur serré en dépit de mon succès.
+
+248
+00:27:16,020 --> 00:27:22,110
+Un succès de cet ordre-là, auprès de gens simples, sans goût et sans jugement, que valait-il ?
+
+249
+00:27:22,110 --> 00:27:24,910
+peut-être m’eût-on sifflé dans les grandes villes.
+
+250
+00:27:24,910 --> 00:27:36,670
+Pour la première fois mon métier me parut misérable, car je suivais en imagination la radieuse créature jusqu’à sa demeure, et je la voyais dénouer son épaisse chevelure devant le miroir,
+
+251
+00:27:36,670 --> 00:27:45,370
+en riant à la seule pensée qu’un garçon aussi laid, aussi obscur que moi, crût atteindre à la gloire parce que des ouvriers ou des paysans applaudissaient.
+
+252
+00:27:45,370 --> 00:27:56,020
+Comme je regagnais ma demeure dans l’obscurité, son rire éclatait à l’entour de moi dans le feuillage, dans les fontaines, dans la chanson frémissante des insectes cachés sous l’herbe.
+
+253
+00:27:56,020 --> 00:28:06,560
+Oui, tout cela riait de son rire et répétait avec une moquerie d’autant plus amère qu’elle venait de choses si faibles et si douces : — Laid et bête à la fois !
+
+254
+00:28:06,560 --> 00:28:10,420
+Pourquoi Dieu met-il au monde des êtres pareils ? — Pourquoi ?
+
+255
+00:28:10,420 --> 00:28:13,690
+Je me le suis demandé souvent aussi.
+
+256
+00:28:13,690 --> 00:28:18,980
+Vous voyez que mon histoire n’a rien de neuf ; elle est bien commune au contraire.
+
+257
+00:28:18,980 --> 00:28:20,520
+J’étais un sot.
+
+258
+00:28:20,520 --> 00:28:31,640
+Ce soir-là, mon directeur me suivit dans la mansarde où je couchais, et me dit qu’il augmenterait mes appointements si je voulais rester un mois entier avec lui dans cette petite ville où nous étions populaires,
+
+259
+00:28:31,640 --> 00:28:39,650
+et dont les habitants, tanneurs ou vignerons, étaient gens fort à leur aise qui n’auraient garde de manquer le spectacle de toute la saison d’été.
+
+260
+00:28:39,650 --> 00:28:49,100
+Je profitai avidement de son offre, ne connaissant désormais sur la terre qu’une seule route qui valût la peine qu’on y marchât, la route où fleurissaient les lilas.
+
+261
+00:28:49,100 --> 00:28:55,430
+Nous restâmes jusqu’à ce qu’ils fussent fanés, et longtemps auparavant je connaissais son nom et sa demeure.
+
+262
+00:28:55,430 --> 00:28:59,720
+Son nom, je ne le prononcerai pas ; qu’il meure avec moi !
+
+263
+00:28:59,720 --> 00:29:04,660
+Du premier jour où je la vis, elle fut toujours Elle dans ma pensée.
+
+264
+00:29:04,660 --> 00:29:11,900
+Son logis était au plus haut d’une vieille maison, au coin de certaine rue sombre et mon tueuse, tout près du ciel.
+
+265
+00:29:11,900 --> 00:29:16,360
+Le jardin où je l’avais entrevue d’abord était proche, et elle y allait souvent.
+
+266
+00:29:16,360 --> 00:29:19,220
+Elle gagnait son pain en faisant de la dentelle.
+
+267
+00:29:19,220 --> 00:29:33,240
+Combien de fois l’ai-je épiée, assise à la fenêtre treillissée, ses cheveux d’or noués dans un foulard couleur d’or aussi, ses petits doigts rosés courant parmi les bobines, et le coussin inerte pressé contre la tiède blancheur de son sein !
+
+268
+00:29:33,240 --> 00:29:37,820
+J’étais, moi, caché dans l’ombre d’un porche en face, bien au-dessous d’elle.
+
+269
+00:29:37,820 --> 00:29:51,310
+Et durant tout ce temps les lilas fleurissaient ; elle en avait une grosse touffe dans certain vase de terre brune écorné, sur le rebord de sa fenêtre ; tandis que je l’admirais d’en bas, le vent m’apportait une bouffée de leur parfum.
+
+270
+00:29:51,310 --> 00:29:59,540
+Je me disais alors qu’elle ne m’eût point jeté une branche de sa fleur favorite, si elle m’eût trouvé aussi ridicule et hideux que le prétendaient ses paroles.
+
+271
+00:29:59,540 --> 00:30:04,790
+J’étais craintif, moi qu’on avait vu rarement reculer devant une impertinente entreprise.
+
+272
+00:30:04,790 --> 00:30:12,780
+La conscience que j’avais de mon infériorité à leurs yeux, quant à la figure et à la fortune, m’avait toujours rendu d’autant plus hardi avec les femmes,
+
+273
+00:30:12,780 --> 00:30:28,500
+et bien que le souvenir de ma mère m’eût conservé moins vicieux qu’on n’eût pu le croire d’après le genre de vie que je menais, je ne m’étais jamais distingué par de bien délicats scrupules ; mais auprès d’elle j’étais muet, tremblant, différent de moi-même.
+
+274
+00:30:28,500 --> 00:30:45,210
+Dès le premier instant, elle m’avait imposé comme une créature infiniment belle et sainte, supérieure à moi comme si elle eût été reine, dans un palais, entourée de ses gardes, au lieu d’être une pauvre fille du peuple tissant de la dentelle à la lucarne d’un grenier.
+
+275
+00:30:45,210 --> 00:30:50,770
+Elle avait seize ans, elle était sans famille, sans appui ; voilà tout ce que j’appris.
+
+276
+00:30:50,770 --> 00:30:58,410
+D’ailleurs je n’osais pas faire beaucoup de questions ; il me semblait que tout le monde dût me voir changer de couleur lorsque je parlais d’elle.
+
+277
+00:30:58,410 --> 00:31:10,260
+Bientôt elle découvrit mon poste d’observation ; elle souriait de temps à autre avec un regard de côté ou quelque charmant petit geste à demi encourageant, à demi dédaigneux.
+
+278
+00:31:10,260 --> 00:31:12,120
+Et elle était pudique avec cela.
+
+279
+00:31:12,120 --> 00:31:23,680
+De grand matin, sur le chemin de l’église, elle comptait les graines rouges qui lui servaient de rosaire, ses longs cils baissés sans rien voir à droite ni à gauche, tant la prière paraissait l’absorber.
+
+280
+00:31:23,680 --> 00:31:24,880
+Dieu du ciel !
+
+281
+00:31:24,880 --> 00:31:27,120
+qui donc enseigne ces choses aux femmes ?
+
+282
+00:31:27,120 --> 00:31:39,140
+Celle-ci n’avait pas encore dix-sept ans révolus, elle était la fille de braves artisans, elle n’avait rien vu du monde, sauf cette petite ville paisible, et pourtant il n’y avait point d’artifice féminin qui lui fût étranger.
+
+283
+00:31:39,140 --> 00:31:46,120
+Personne n’aurait eu là-dessus rien à lui apprendre, pas même celui par qui fut tentée la mère de Gain, à ce que disent les prêtres.
+
+284
+00:31:46,120 --> 00:32:00,090
+C’est inouï, c’est atroce ; pourtant je crois qu’elles ne savent pas ce qu’elles font : elles sont naïvement rusées, cruelles de gaîté de cœur, elles dévorent qui les aime, d’instinct, comme c’est l’instinct du jeune chat de jouer avec sa souris.
+
+285
+00:32:00,090 --> 00:32:03,870
+D’autres ont dit tout cela mieux que je ne peux le dire sans doute.
+
+286
+00:32:03,870 --> 00:32:13,140
+Seulement pour chaque homme qui souffre la souffrance est nouvelle, et il s’imagine qu’aucune blessure ne fut jamais aussi âpre, aussi profonde que la sienne.
+
+287
+00:32:13,140 --> 00:32:25,230
+Nous restâmes jusqu’à ce que les lilas eussent disparu, et que par-dessus les murs, entre les pignons, dans les jardins qui surplombent la rivière, les roses de l’été se fussent épanouies à leur place.
+
+288
+00:32:25,230 --> 00:32:33,830
+Ma branche était flétrie, presque réduite en poussière ; mais elle aussi fut remplacée par la fleur magique d’une suprême félicité.
+
+289
+00:32:33,830 --> 00:32:41,720
+Elle venait souvent au spectacle avec quelqu’un des gens de la ville, et je me persuadai qu’après m’avoir vu jouer elle me méprisait moins.
+
+290
+00:32:41,720 --> 00:32:54,780
+Loin d’elle, je jouais mal ; aussitôt qu’elle apparaissait, il me venait un feu, une âme, certainement inspirés par elle. — S’il était moins inégal, ce serait un talent digne de Paris, disait-on autour de moi.
+
+291
+00:32:54,780 --> 00:32:57,500
+Mon directeur lui-même était de cet avis.
+
+292
+00:32:57,500 --> 00:33:06,830
+N’est-il pas désolant d’avoir son talent, sa force, sa vie, réglés uniquement par la présence ou l’absence d’une créature humaine ?
+
+293
+00:33:06,830 --> 00:33:08,990
+C’était cependant le cas pour moi.
+
+294
+00:33:08,990 --> 00:33:16,710
+Si je pouvais amener la gaîté sur ses lèvres ou allumer une lueur de sympathie dans ses yeux, je devenais momentanément un grand artiste :
+
+295
+00:33:16,710 --> 00:33:26,630
+sans elle, la salle était vide, j’étais froid et stupide, et je me traînais avec effort jusqu’au bout de la corvée qu’il me fallait accomplir ; mais elle était là souvent.
+
+296
+00:33:26,630 --> 00:33:27,590
+Dieu merci.
+
+297
+00:33:27,590 --> 00:33:40,580
+Comme tous mes camarades, j’avais droit à une entrée de faveur, et chaque matin elle trouvait le billet sur sa petite table, joint parfois à quelque bagatelle dont j’avais prélevé le prix sur ma maigre part de bénéfices.
+
+298
+00:33:40,580 --> 00:33:47,350
+Elle prenait tout ce que j’offrais, et j’étais plus que payé quand elle y répondait par un signe de tête ou un sourire.
+
+299
+00:33:47,350 --> 00:33:56,860
+Il lui arrivait de me refuser l’un et l’autre, et de passer près de moi avec un petit frisson d’horreur quand elle n’affectait pas de ne point me voir sur son chemin.
+
+300
+00:33:56,860 --> 00:34:07,260
+Un jour, il avait fait très chaud, aucune brise ne rafraîchissait l’air embrasé, le soleil dévorait la vieille rue sombre, l’emplissant d’une teinte ambrée.
+
+301
+00:34:07,260 --> 00:34:20,510
+On voyait les oiseaux en cage ouvrir convulsivement un bec altéré, et les œillets rouges des fenêtres se pencher tristes sur leurs tiges, et les chiens se traîner, quêtant un peu d’ombre sous tous les porches en saillie.
+
+302
+00:34:20,510 --> 00:34:24,840
+Le ciel bleu sans nuage étincelait entre les toits.
+
+303
+00:34:24,840 --> 00:34:37,750
+Je vois encore frémir les arbres poudreux plaqués sur lui, j’entends le lent murmure de la rivière invisible ; tous les volets étaient clos, personne ne bougeait, la ville entière semblait dormir.
+
+304
+00:34:37,750 --> 00:34:47,800
+Seul, j’étais dehors, moi qui ne sentais ni le froid ni la chaleur, qui ne distinguais pas même s’il faisait jour ou nuit, mais qui, nuit et jour, errais,
+
+305
+00:34:47,800 --> 00:35:03,190
+les yeux rivés à une étroite fenêtre pour voir les rayons du soleil éclairer cette main de jeune fille active parmi ses bobines, ou ceux de la lune glisser dans leur pureté sereine sur la fenêtre assombrie derrière laquelle elle dormait.
+
+306
+00:35:03,190 --> 00:35:09,590
+J’étais sorti par cette après-midi brûlante, espérant qu’elle viendrait travailler à sa place accoutumée.
+
+307
+00:35:09,590 --> 00:35:15,180
+Longtemps j’attendis, me promenant, comme toujours, de l’autre côté de la rue.
+
+308
+00:35:15,180 --> 00:35:20,280
+La fenêtre était vide ; les fleurs qui la garnissaient, mes fleurs étaient mortes.
+
+309
+00:35:20,280 --> 00:35:33,990
+J’en avais d’autres à la main, j’attendais qu’elle se montrât pour les déposer, selon mon habitude, sur le banc de pierre devant la porte ; mais au lieu de se pencher vers moi d’en haut, elle descendit la rue, revenant de porter quelque dentelle.
+
+310
+00:35:33,990 --> 00:35:41,160
+Nous nous trouvâmes soudain tout seuls, elle et moi, en face l’un de l’autre, sous ce soleil, dans ce silence.
+
+311
+00:35:41,160 --> 00:35:51,080
+Elle portait une jupe verte, je me le rappelle, et un corsage blanc, elle abritait ses cheveux, qui brillaient sous le petit mouchoir jaune, d’une touffe de larges feuilles entrelacées.
+
+312
+00:35:51,080 --> 00:35:55,960
+On eût dit une fleur sortie tout à coup du pavé grisâtre et fendillé.
+
+313
+00:35:55,960 --> 00:36:01,180
+Soit chaleur, soit fatigue, elle était plus pâle qu’à l’ordinaire, ses yeux étaient plus doux.
+
+314
+00:36:01,180 --> 00:36:04,230
+Il me vint un peu de courage, et j’osai lui parler.
+
+315
+00:36:04,230 --> 00:36:18,680
+Je savais que c’était insensé, je savais qu’aucune femme ne pouvait me regarder avec d’autre sentiment qu’un sentiment de dégoût, tout au plus de pitié, je savais qu’un cœur d’homme pouvait se briser sans que personne s’en souciât, si l’homme était fait comme moi ;
+
+316
+00:36:18,680 --> 00:36:26,650
+cependant je parlai, sans avoir conscience de ce que je disais, sous cette impulsion qui parfois au théâtre m’élevait au-dessus de moi-même.
+
+317
+00:36:26,650 --> 00:36:33,310
+Je n’espérais pas la toucher, cependant je parlais : — Ce sera fini ensuite, pensais-je, il le faut.
+
+318
+00:36:33,310 --> 00:36:35,590
+Je dus la prier comme on prie Dieu.
+
+319
+00:36:35,590 --> 00:36:43,250
+Je ne lui demandais pas d’amour, — autant demander le soleil lui-même ; j’implorais un peu de compassion, un peu de patience.
+
+320
+00:36:43,250 --> 00:36:44,960
+N’était-ce pas un crime, hélas !
+
+321
+00:36:44,960 --> 00:36:50,120
+de la part d’un pauvre diable déshérité tel que moi de parler d’amour à aucune femme ?
+
+322
+00:36:50,120 --> 00:36:56,910
+Quand mon cœur se fut répandu, quand la voix eut expiré sur mes lèvres arides, je frissonnai de terreur.
+
+323
+00:36:56,910 --> 00:37:02,480
+J’attendais son rire, son rire charmant, cruel, naïf, impitoyable.
+
+324
+00:37:02,480 --> 00:37:08,000
+Elle garda le silence, puis trembla, pâlit à son tour, et se tut encore.
+
+325
+00:37:08,000 --> 00:37:11,690
+J’écoutais mon cœur battre lourdement dans le silence.
+
+326
+00:37:11,690 --> 00:37:14,200
+C’était tout le bruit de ce moment-là.
+
+327
+00:37:14,200 --> 00:37:19,300
+Soudain elle me regarda, sa bouche frémit, et bien bas, dans un soupir :
+
+328
+00:37:19,300 --> 00:37:22,220
+— Je suis toute seule, dit-elle, toute seule.
+
+329
+00:37:22,220 --> 00:37:23,760
+Que devais-je penser ?
+
+330
+00:37:23,760 --> 00:37:31,840
+La rue ensoleillée, les œillets rouges, le ciel d’un bleu cru, le feuillage altéré, tout tourna autour de moi.
+
+331
+00:37:31,840 --> 00:37:33,190
+C’était impossible !
+
+332
+00:37:33,190 --> 00:37:44,900
+Elle continua de me regarder, rit d’un petit rire léger, et avec l’air de dédain coquet que je lui connaissais, murmura très rapidement à travers ses larmes : — Entendez-vous bien ?
+
+333
+00:37:44,900 --> 00:37:55,180
+Vous êtes si laid, si absurde, vous avez une bouche de grenouille, des yeux de poisson ; mais vous êtes bon, vous savez dire de belles choses, et je suis toute seule.
+
+334
+00:37:55,180 --> 00:37:56,920
+Alors je compris ce qu’elle voulait dire.
+
+335
+00:37:56,920 --> 00:37:57,110
+Ah !
+
+336
+00:37:57,110 --> 00:38:00,380
+Dieu, si j’avais pu mourir quand le ciel s’ouvrait ainsi !
+
+337
+00:38:00,380 --> 00:38:02,330
+Tout était-il mensonge ?
+
+338
+00:38:02,330 --> 00:38:04,370
+Je me le suis souvent demandé.
+
+339
+00:38:04,370 --> 00:38:15,240
+Non,… elle était jeune et pauvre, et lasse de sa misérable solitude au point de pouvoir agréer même un homme tel que moi, s’il l’aimait passionnément, s’il pouvait la délivrer.
+
+340
+00:38:15,240 --> 00:38:18,520
+En tout cas, je ne crus pas à un mensonge alors.
+
+341
+00:38:18,520 --> 00:38:32,170
+Elle ne m’aima jamais sans doute, mais elle savait que je l’adorais, et peut-être pensait-elle : — Mieux vaut suivre ce pauvre fou à travers le monde que de perdre ma jeunesse à tisser des toiles d’araignée qui ne serviront qu’à parer d’autres femmes. —
+
+342
+00:38:32,170 --> 00:38:38,490
+Peut-être aussi avait-elle entendu dire que j’avais du génie, que je pourrais un jour me faire un nom dans quelque grande ville.
+
+343
+00:38:38,490 --> 00:38:50,450
+Peut-être encore ne raisonnait-elle, ne réfléchissait-elle pas, se bornant à sentir, et quelque vague instinct la remuait-il intérieurement lorsqu’elle m’écoutait lui dire que je l’aimais comme jamais femme ne fut aimée.
+
+344
+00:38:50,450 --> 00:38:58,310
+Quoi qu’il en fût, elle pleura un peu, puis sourit doucement, ne sachant pas au juste ce qu’elle voulait, ne prévoyant pas l’avenir.
+
+345
+00:38:58,310 --> 00:38:59,910
+Oui, c’est le plus probable.
+
+346
+00:38:59,910 --> 00:39:02,160
+Elle ne mentait pas alors.
+
+347
+00:39:02,160 --> 00:39:03,770
+Je l’épousai.
+
+348
+00:39:03,770 --> 00:39:06,230
+Savez-vous ce que la vie devint pour moi ?
+
+349
+00:39:06,230 --> 00:39:14,360
+Un paradis, le paradis d’un fou sans doute, mais qui ne connut ni nuage, ni inquiétude, ni regret tant qu’il dura.
+
+350
+00:39:14,360 --> 00:39:17,710
+Elle m’aimait, elle l’avait dit, elle l’avait prouvé.
+
+351
+00:39:17,710 --> 00:39:20,150
+Ceci me semblait un miracle.
+
+352
+00:39:20,150 --> 00:39:24,410
+Jour et nuit j’en remerciais le ciel, car je croyais au ciel désormais.
+
+353
+00:39:24,410 --> 00:39:29,250
+Qui donc, si ce n’était un Dieu, avait pu créer des perfections semblables ?
+
+354
+00:39:29,250 --> 00:39:45,760
+Quand je contemplais à la première clarté de l’aube son sommeil paisible et que je me répétais que cet être divin, pétri d’or, de lait et de roses, était à moi, rien qu’à moi, je croyais rêver, tant étaient profondes mon extase et l’ivresse de cette possession.
+
+355
+00:39:45,760 --> 00:39:51,940
+Chaque jour je bénissais les hasards sacrés qui avaient guidé mes pas jusqu’à elle dans le mois des lilas.
+
+356
+00:39:51,940 --> 00:40:05,040
+Je ne m’étais point séparé de ma chère branche, toute morte qu’elle fût ; je n’aurais pas été plus surpris de la voir refleurir un matin que je ne l’étais de cette floraison de joie et de beauté qui s’était soudain produite dans ma vie.
+
+357
+00:40:05,040 --> 00:40:09,030
+J’ignore si elle comprit jamais bien à quel point je l’aimais.
+
+358
+00:40:09,030 --> 00:40:16,140
+Les pauvres ne peuvent témoigner leur amour par ces symboles des présents que les femmes apprécient plus facilement que tout le reste.
+
+359
+00:40:16,140 --> 00:40:21,800
+On paraît insensible et froid quand on ne prodigue pas à sa bien-aimée tout ce qu’elle désire.
+
+360
+00:40:21,800 --> 00:40:30,820
+Une jeune femme étourdie doit croire que la volonté plus encore que le pouvoir nous manque lorsque nous ne suspendons pas des diamants à son cou, —
+
+361
+00:40:30,820 --> 00:40:43,510
+et quand non seulement les diamants font défaut, mais que nous ne pouvons approcher de ses lèvres adorées que la nourriture la plus commune, ni offrir à ses membres délicats autre chose qu’une couche rude et grossière,
+
+362
+00:40:43,510 --> 00:40:51,700
+elle doit se dire qu’un véritable amant saurait bien découvrir au péril de son corps ou de son âme un moyen quelconque de lui donner le luxe.
+
+363
+00:40:51,700 --> 00:41:03,160
+Oui, il doit en être ainsi, et j’étais pauvre, je ne pouvais changer mon genre de vie du jour au lendemain ; je faisais ce que je pouvais pour atténuer ses privations, mais c’était encore si peu !
+
+364
+00:41:03,160 --> 00:41:13,490
+Ce qu’un homme riche accomplit tous les jours d’un geste, d’un trait de plume, nous autres nous n’y parvenons que lentement, laborieusement, maladroitement en apparence.
+
+365
+00:41:13,490 --> 00:41:22,920
+L’impossibilité où l’on est d’ajouter le superflu au pain quotidien que l’on gagne à la sueur de son front est taxée de dureté, voire d’avarice.
+
+366
+00:41:22,920 --> 00:41:29,590
+Une femme ne peut croire que nous tenions beaucoup à elle, si nous ne rendons possible l’impossible lui-même.
+
+367
+00:41:29,590 --> 00:41:39,580
+Je pris en horreur les habitudes de bohémien qui longtemps m’avaient été chères ; l’y exposer, elle si jeune, si frêle et si belle, me semblait odieux.
+
+368
+00:41:39,580 --> 00:41:42,520
+Pour la première fois je connus l’envie.
+
+369
+00:41:42,520 --> 00:41:50,340
+J’aspirai à lui donner pour abri une de ces blanches villas, un de ces châteaux imposants que nous rencontrions en route.
+
+370
+00:41:50,340 --> 00:42:00,150
+Autrefois je les avais toujours salués avec plaisir, content en somme qu’il y eût des gens heureux ; maintenant je me disais : — Pourquoi n’a-t-elle pas des jardins comme ceux-ci ?
+
+371
+00:42:00,150 --> 00:42:06,300
+Pourquoi ses enfants naîtront-ils dans la pauvreté quand j’en vois là-bas qui sont nés dans le bien-être ?
+
+372
+00:42:06,300 --> 00:42:13,100
+Peut-être n’aurais-je pas éprouvé cela, si elle eût paru contente de notre médiocrité ; mais elle ne l’était pas.
+
+373
+00:42:13,100 --> 00:42:23,740
+Donnez à une femme un grand amour, elle vous rendra le chagrin en échange, — non que je la blâme : aucun homme ne devrait offrir son cœur sans tenir de l’autre main des idoles d’or et d’argent.
+
+374
+00:42:23,740 --> 00:42:26,150
+Sans or, comment être magicien ?
+
+375
+00:42:26,150 --> 00:42:34,440
+On m’a conté que jadis il y eut des hommes qui usèrent leur vie et perdirent la raison à essayer de transformer de vils métaux en or.
+
+376
+00:42:34,440 --> 00:42:42,590
+Sûrement ils n’y eussent jamais songé, si quelque femme aimée n’eût pleuré devant eux pour avoir un hochet qu’ils ne pouvaient payer.
+
+377
+00:42:42,590 --> 00:42:44,890
+À quoi s’était-elle donc attendue ?
+
+378
+00:42:44,890 --> 00:42:54,140
+Je n’avais jamais essayé de lui dissimuler les difficultés de ma situation ; elle n’en avait voulu voir que l’extérieur, elle comptait sur plus de variété, de plaisir.
+
+379
+00:42:54,140 --> 00:43:00,540
+Le désappointement vint, et rien de ce que je tentais pour la satisfaire n’atteignait le but.
+
+380
+00:43:00,540 --> 00:43:05,990
+Il y eut, il est vrai, un de ses désirs, un seul, auquel je résistai toujours.
+
+381
+00:43:05,990 --> 00:43:20,190
+Elle prétendit monter sur les planches elle-même ; quelques-uns de mes camarades lui avaient dit que c’était pécher que de cacher un visage tel que le sien dans la coulisse, au lieu de l’exposer aux feux de la rampe, à l’enthousiasme du monde.
+
+382
+00:43:20,190 --> 00:43:28,360
+Je lui répondis nettement, violemment même, que j’aimerais mieux la tuer de ma main que de livrer sa beauté à d’impures convoitises.
+
+383
+00:43:28,360 --> 00:43:29,900
+C’était la vérité.
+
+384
+00:43:29,900 --> 00:43:39,270
+Je ne pouvais souffrir seulement que le regard des passants l’effleurât, j’aurais frappé en plein visage mon meilleur ami, s’il eût échangé un propos léger avec elle.
+
+385
+00:43:39,270 --> 00:43:50,050
+— Tu es un imbécile, Piccinino, me dit mon directeur ; le sort t’a donné en la personne de ta femme une lanterne d’Aladin, et au lieu de t’en servir, tu l’enfouis sous le boisseau. —
+
+386
+00:43:50,050 --> 00:43:55,490
+Il ne me répéta pas deux fois ces paroles ; jamais depuis nous ne fûmes amis.
+
+387
+00:43:55,490 --> 00:44:00,170
+La vieille intimité n’existait plus entre mes camarades et moi.
+
+388
+00:44:00,170 --> 00:44:04,110
+J’entendis un jour l’un d’eux qui disait à un autre : — Prends garde !
+
+389
+00:44:04,110 --> 00:44:07,390
+ce chien-là grogne à présent et mord aussi, paraît-il.
+
+390
+00:44:07,390 --> 00:44:12,130
+On le faisait enrager impunément dans le temps, mais aujourd’hui…
+
+391
+00:44:12,130 --> 00:44:26,490
+Ma jalousie n’avait cependant, je crois, rien de barbare ; seulement, quand un homme est aussi laid que moi, quand il regarde sa femme comme un ange descendu d’en haut et trop parfait pour rester longtemps à ses côtés ici-bas,
+
+392
+00:44:26,490 --> 00:44:38,210
+il ne peut que se révolter contre un regard, un mot qui semblerait abaisser ce don de Dieu au rang d’une chose tout simplement précieuse et rare que le premier venu peut désirer ou voler.
+
+393
+00:44:38,210 --> 00:44:41,600
+Il y a des pays où les femmes ne sortent que voilées.
+
+394
+00:44:41,600 --> 00:44:51,660
+Je ne voudrais pas qu’il en fût de même en France, je ne souhaiterais pas qu’on empêchât la beauté que Dieu a donnée aux femmes pour les délices de nos yeux de rayonner sur les objets environnants ;
+
+395
+00:44:51,660 --> 00:45:08,170
+pourtant, s’il est permis à l’homme de contempler les étoiles avec une émotion respectueuse, il doit lui être défendu d’examiner effrontément ou d’aborder avec familiarité un de ces êtres dont les charmes extérieurs ne doivent être que le reflet de la pureté intime.
+
+396
+00:45:08,170 --> 00:45:23,240
+C’était pour cela que je cherchais à la protéger contre des paroles ou des regards qu’elle eût pu ne point remarquer ou comprendre, et parfois, ne sachant pas pourquoi j’agissais ainsi, il lui arrivait de s’impatienter, de bouder comme un enfant gâté auquel on résiste ;
+
+397
+00:45:23,240 --> 00:45:27,110
+mais elle savait si bien redevenir gale, et rire, et chanter !
+
+398
+00:45:27,110 --> 00:45:30,110
+Non, je ne puis croire qu’elle fût malheureuse !
+
+399
+00:45:30,110 --> 00:45:38,810
+Au milieu de l’hiver, un grand événement survint dans ma vie : je l’avais toujours rêvé, sans oser jamais croire que je fusse digne de tant d’honneur.
+
+400
+00:45:38,810 --> 00:45:51,710
+Tandis que nous étions dans une province du centre, vers l’époque de Noël, le directeur d’un théâtre de genre me vit et prit de moi une opinion assez favorable pour me dire après le spectacle : — Vous êtes un vrai comédien.
+
+401
+00:45:51,710 --> 00:45:55,970
+Personne ne vous l’a donc jamais dit, que vous errez de la sorte avec une baraque de foire ?
+
+402
+00:45:55,970 --> 00:45:58,580
+Venez, je vous ferai connaître à Paris.
+
+403
+00:45:58,580 --> 00:46:02,990
+J’acceptai l’offre, cela va sans dire, et je courus avertir ma femme.
+
+404
+00:46:02,990 --> 00:46:19,170
+Elle jeta ses bras avec transport autour de mon cou, et au milieu de mille caresses : — Je vais donc être heureuse, répétait-elle, et voir le monde ! — Puis elle entama une série de jolis projets de plaisir et de parures comme si une grosse fortune me fût tombée des nues.
+
+405
+00:46:19,170 --> 00:46:23,200
+Je ne songeais pas à raisonner avec elle, j’étais triomphant moi-même.
+
+406
+00:46:23,200 --> 00:46:29,660
+Quelle joie, quel orgueil j’éprouvais à cause d’elle, comme j’étais en bons termes avec la création tout entière !
+
+407
+00:46:29,660 --> 00:46:39,980
+Je donnai un souper à mes camarades, j’achetai pour elle des sucreries, une rose de serre et un fil de perles d’ambre, car elle aimait en enfant tous les colifichets.
+
+408
+00:46:39,980 --> 00:46:49,430
+C’était la nuit des Rois, toute la ville était en réjouissance, mais je ne crois pas qu’il y eût sous aucun de ses nombreux toits un groupe plus joyeux que le nôtre :
+
+409
+00:46:49,430 --> 00:46:58,750
+le vin de Bourgogne était bon, elle était délicieuse avec sa rose d’hiver si rouge sur sa poitrine blanche, et je savais que tous les hommes m’enviaient.
+
+410
+00:46:58,750 --> 00:47:04,830
+Ce fut sans l’ombre d’une crainte ni d’un souci que je portai mon toast à l’avenir.
+
+411
+00:47:04,830 --> 00:47:11,130
+La même semaine, nous arrivâmes à Paris, où j’obtins tout d’abord un succès dans mon humble sphère.
+
+412
+00:47:11,130 --> 00:47:22,490
+Le théâtre n’avait pas grande importance, il était surtout fréquenté par des étudiants et des artistes ; n’importe, c’était un théâtre de Paris, un théâtre fixe, bâti de pierre.
+
+413
+00:47:22,490 --> 00:47:32,400
+Pour moi, qui n’avais jamais joué que sous une toile gonflée par les quatre vents du ciel, le progrès était immense ; d’ailleurs je m’élèverais de là… au premier rang peut-être…
+
+414
+00:47:32,400 --> 00:47:41,690
+La grande affaire est d’avoir le pied posé quelque part et de parvenir à se faire entendre au milieu de la foule et des clameurs d’une capitale.
+
+415
+00:47:41,690 --> 00:47:51,690
+Chaque soir, la salle était pleine ; j’avais donc captivé jusqu’à un certain point ce public parisien, difficile, capricieux, insaisissable.
+
+416
+00:47:51,690 --> 00:47:54,760
+Durant une saison, je fis des rêves d’or.
+
+417
+00:47:54,760 --> 00:47:56,620
+Elle était contente aussi.
+
+418
+00:47:56,620 --> 00:48:06,660
+Nous avions une petite chambre blanche et rose, dorée comme une bonbonnière, très haut perchée sous le toit de zinc d’une maison à nombreux étages, tout près du théâtre.
+
+419
+00:48:06,660 --> 00:48:21,270
+Cette chambre coûtait fort cher, et n’était guère plus grande qu’une coquille de noisette ; mais pour elle c’était le paradis, parce que, surmontant la cheminée, il y avait un miroir, et en face, dans la rue, un café qui se remplissait toute la journée,
+
+420
+00:48:21,270 --> 00:48:30,990
+et au-dessous un grand magasin de dentelles et de châles où les marchands lui permettaient d’aller voir et même toucher les plus précieux tissus pour l’amour de ses beaux yeux.
+
+421
+00:48:30,990 --> 00:48:42,000
+Moi, je pensais souvent avec un vague regret à nos mansardes d’autrefois avec leurs murailles nues, et aux vieilles villes de province où le beffroi sonnait dans l’air tranquille.
+
+422
+00:48:42,000 --> 00:48:45,700
+J’avais toujours vécu un peu à la belle étoile, voyez-vous ;
+
+423
+00:48:45,700 --> 00:49:01,090
+les rues populeuses, l’océan du gaz, m’oppressaient ; il me semblait être en prison, et une prison, même aussi belle que l’est Paris, n’était pas mon fait, cependant je ne le lui laissai jamais voir ; c’eût été égoïste ; elle était si contente !
+
+424
+00:49:01,090 --> 00:49:10,110
+Quand je rentrais dans la journée, je la trouvais toujours à la fenêtre, sa tête fine appuyée sur sa main, s’amusant de l’animation du café en face de nous.
+
+425
+00:49:10,110 --> 00:49:19,620
+Il y avait une caserne tout près, de sorte que ce café était sans cesse égayé par les uniformes, par le cliquetis des sabres et des éperons.
+
+426
+00:49:19,620 --> 00:49:23,080
+Les officiers s’attablaient dehors ; c’était un gai spectacle.
+
+427
+00:49:23,080 --> 00:49:30,610
+Je dus lui paraître brutal et fantasque le jour que je l’arrachai de sa place favorite pour baisser brusquement la jalousie.
+
+428
+00:49:30,610 --> 00:49:31,640
+Que voulez-vous ?
+
+429
+00:49:31,640 --> 00:49:36,070
+les regards hardis que ces soldats levaient vers elle m’exaspéraient.
+
+430
+00:49:36,070 --> 00:49:47,890
+Elle se mit à sangloter tout bas en demandant : — Qu’ai-je donc fait ? — Je m’agenouillai à ses pieds, j’implorai son pardon, je m’accusai, je maudis le monde qui n’était pas digne qu’elle y jetât les yeux.
+
+431
+00:49:47,890 --> 00:49:57,810
+Alors elle éclata de rire, appuya sa main sur ma bouche pour me faire taire, puis m’échappa et releva la jalousie, riant toujours de faire si bien sa volonté.
+
+432
+00:49:57,810 --> 00:50:01,050
+Les cuirassiers du café voisin riaient aussi.
+
+433
+00:50:01,050 --> 00:50:08,280
+Un pauvre diable laid et jaloux, jaloux de sa femme, est une chose ridicule entre toutes, bien entendu.
+
+434
+00:50:08,280 --> 00:50:14,750
+Ils me croyaient jaloux et ils s’en moquaient, ces beaux garçons insouciants occupés à boire.
+
+435
+00:50:14,750 --> 00:50:23,660
+Pourtant leur pensée me faisait tort ; ce n’était pas le sentiment qu’ils supposaient et qui implique le soupçon, car ma confiance était absolue.
+
+436
+00:50:23,660 --> 00:50:37,570
+J’aurais voulu qu’on s’inclinât en sa présence avec autant de vénération que devant une image de la Vierge ; mais, s’il m’avait semblé prodigieux naguère qu’elle m’eût donné sa beauté, à moi qui en étais indigne,
+
+437
+00:50:37,570 --> 00:50:45,000
+l’idée que s’étant donnée elle pût me trahir m’eût semblé un outrage dont je ne me rendis jamais coupable envers elle.
+
+438
+00:50:45,000 --> 00:50:50,920
+Et je suis heureux de pouvoir me dire cela maintenant. — Heureux d’avoir été dupe, aveugle et fou ?
+
+439
+00:50:50,920 --> 00:50:52,790
+s’écriera-t-on peut-être.
+
+440
+00:50:52,790 --> 00:50:53,450
+Bon !
+
+441
+00:50:53,450 --> 00:51:02,130
+ce sont ces moments d’aveuglement et de folie qui sont les meilleurs ; nous ne voyons clair que lorsque nous avons atteint les profondeurs de l’affliction.
+
+442
+00:51:02,130 --> 00:51:06,980
+Le temps s’écoulait, confirmant mes succès, et selon ses goûts à elle.
+
+443
+00:51:06,980 --> 00:51:20,020
+Jeune, ignorante de tout comme elle l’était, un petit souper au restaurant, quelques chiffons à la mode, le plaisir seulement de regarder les choses bruire, changer, chatoyer autour d’elle, suffisaient à la distraire.
+
+444
+00:51:20,020 --> 00:51:25,260
+En outre elle avait ce qui est cher à toute personne de son sexe : l’admiration ;
+
+445
+00:51:25,260 --> 00:51:37,760
+elle la rencontrait partout, les uns la lui criaient dans l’argot des rues, les autres la lui eussent manifestée par des bouquets, des bonbons, des bijoux, si je ne me fusse tenu entre elle et leurs œillades.
+
+446
+00:51:37,760 --> 00:51:52,870
+On me raillait, cela va sans dire ; mais je faisais la sourde oreille aux quolibets, et, quelque mépris envieux qu’inspirât sans doute le pauvre comédien possesseur d’un trésor, aucune provocation directe ne vint jamais m’obliger à sortir de ce rôle.
+
+447
+00:51:52,870 --> 00:51:56,420
+Mon seul chagrin était de la laisser si souvent seule.
+
+448
+00:51:56,420 --> 00:52:08,000
+Les répétitions occupaient presque toutes mes journées, le soir je jouais ; du moins j’avais soin de rendre son petit intérieur aussi agréable que possible, et le quartier était si brillant,
+
+449
+00:52:08,000 --> 00:52:23,380
+si tumultueux, qu’elle prétendait avoir suffisamment de plaisir à suivre de sa fenêtre fleurie ce torrent de la vie des rues qui me semble étourdissant et odieux, mais que les femmes, si rarement poètes et plus rarement artistes, voient d’un autre œil que nous autres !
+
+450
+00:52:23,380 --> 00:52:28,830
+Je me fis nombre d’ennemis en la tenant reléguée à l’écart de tous mes camarades de théâtre.
+
+451
+00:52:28,830 --> 00:52:34,220
+Souvent depuis j’ai songé que j’avais été dur et injuste sous ce rapport.
+
+452
+00:52:34,220 --> 00:52:36,900
+Quel droit avais-je de me poser en juge ?
+
+453
+00:52:36,900 --> 00:52:46,260
+Les amours de ma pauvre mère n’avaient été bénies par aucun prêtre ; cependant jamais âme plus douce ni plus tendre ne palpita dans un corps humain.
+
+454
+00:52:46,260 --> 00:52:59,380
+Et parmi les membres même les moins respectables de cette confrérie frivole qui m’avait toujours entouré, n’avais-je pas rencontré à certains moments de la générosité, de l’abnégation, jusqu’à des actes d’héroïsme,
+
+455
+00:52:59,380 --> 00:53:06,720
+depuis les jours de mon enfance où la grande coquette de notre troupe avait vendu son collier de verroterie pour m’acheter du pain ?
+
+456
+00:53:06,720 --> 00:53:18,260
+Ne sont-ce pas des vertus que la patience, le contentement de peu, la bonne humeur, le dévouement à plus malheureux que soi, et faut-il les nier parce qu’il en manque une au nombre ?
+
+457
+00:53:18,260 --> 00:53:35,640
+Oui, ce fut de ma part ingratitude et présomption, je m’en aperçus trop tard, et j’en ai été puni ; il me faut alléguer pour excuse la crainte presque religieuse que j’éprouvais qu’un souffle profane seulement ne troublât l’atmosphère où s’épanouissait mon lis sans tache.
+
+458
+00:53:35,640 --> 00:53:37,350
+Le printemps revint.
+
+459
+00:53:37,350 --> 00:53:51,970
+C’était absurde peut-être, car je n’avais pas d’argent à perdre, nos dépenses augmentant avec mon gain, mais je ne cessais de remplir sa chambre de ces lilas qui me semblaient être le symbole de la félicité la plus complète qu’aucun homme eût jamais connue.
+
+460
+00:53:51,970 --> 00:54:00,200
+Je les chérissais jusqu’à la superstition, et, quand ils étaient flétris, j’éprouvais à les jeter une sorte de répugnance.
+
+461
+00:54:00,200 --> 00:54:07,670
+Jamais, bien que les allées des jardins publics en fussent jonchées, je n’ai pu fouler un de leurs pétales sans regret.
+
+462
+00:54:07,670 --> 00:54:10,720
+Fin
+de la
+Section deux
+
+463
+00:54:16,080 --> 00:54:20,730
+Section trois
+de
+La branche de lilas
+par
+Ouida
+
+464
+00:54:20,730 --> 00:54:25,000
+Cet enregistrement LibriVox fait partie du domaine public.
+
+465
+00:54:25,000 --> 00:54:28,650
+Enregistré par Christiane Jehanne
+
+466
+00:54:28,650 --> 00:54:29,580
+Trois
+
+467
+00:54:29,580 --> 00:54:38,070
+Quand les lilas furent passés, la troupe dont je faisais partie accepta des offres avantageuses qui la conduisirent à Spa pour la saison.
+
+468
+00:54:38,070 --> 00:54:39,260
+Je connaissais le pays.
+
+469
+00:54:39,260 --> 00:54:49,820
+Au temps de ma jeunesse errante, nous l’avions souvent traversé en nous rendant, par la Lorraine et le Luxembourg, aux kermesses des divers bourgs et villages flamands ; il y avait longtemps de cela,
+
+470
+00:54:49,820 --> 00:54:55,930
+et il ne s’agissait plus de dresser humblement sa tente dans quelque quartier retiré à l’intention des gens du peuple ;
+
+471
+00:54:55,930 --> 00:55:05,520
+c’était le monde élégant qui allait venir applaudir un acteur d’une réputation bien établie, sinon très brillante, et qui avait le prestige de Paris autour de son nom.
+
+472
+00:55:05,520 --> 00:55:12,440
+La vue des bois et des champs, l’air des montagnes, me donnèrent une nouvelle verve ; je respirais enfin.
+
+473
+00:55:12,440 --> 00:55:20,190
+La saison commençait à peine lorsque nous arrivâmes ; j’eus donc tout le temps d’explorer avec ma femme les délicieux environs.
+
+474
+00:55:20,190 --> 00:55:25,640
+Quelques artistes, jeunes gens pleins d’entrain et d’espérances, nous accompagnaient parfois,
+
+475
+00:55:25,640 --> 00:55:36,150
+et l’écho des rochers retentissait de nos chants, de nos rires, à la profonde stupéfaction des grands bœufs qui sortaient d’entre les arbres pour nous regarder de leurs yeux graves et doux.
+
+476
+00:55:36,150 --> 00:55:39,790
+Ce fut un instant de plaisirs purs et sans mélange.
+
+477
+00:55:39,790 --> 00:55:43,510
+Je me rappelle pourtant un nuage, si léger qu’il fût.
+
+478
+00:55:43,510 --> 00:55:55,670
+Dans la partie la plus ancienne de la ville demeurait un vieux couple qui gagnait sa vie en peignant des éventails, des écrans, des bonbonnières et autres menus objets, l’industrie de Spa.
+
+479
+00:55:55,670 --> 00:56:08,780
+Ces gens m’avaient obligé autrefois ; j’allai leur rendre visite, et ils eurent grand’peine à croire que le Piccinino qu’ils avaient connu tout petit eût grandi au point d’aborder une scène qui leur paraissait la plus brillante du monde.
+
+480
+00:56:08,780 --> 00:56:14,670
+Ils s’émerveillèrent surtout de la beauté de ma femme, et le bonhomme voulut lui faire un présent.
+
+481
+00:56:14,670 --> 00:56:22,130
+C’était un petit éventail noir où il venait de peindre avec beaucoup de grâce et de vérité une touffe de violettes.
+
+482
+00:56:22,130 --> 00:56:29,990
+La vieille leva les yeux par-dessus ses lunettes et ne fit pas d’objections, mais je l’entendis marmotter ensuite : — Est-ce qu’elle s’en soucie ?
+
+483
+00:56:29,990 --> 00:56:41,920
+Il n’a ni pierreries ni dorures. — Souvent j’ai eu lieu de constater la sûreté, la cruauté de coup d’œil avec laquelle toute femme lit dans le cœur d’une autre.
+
+484
+00:56:41,920 --> 00:56:47,410
+Peu de jours après, ce cadeau fait avec tant de bonté fut réduit en mille pièces.
+
+485
+00:56:47,410 --> 00:56:50,910
+Elle l’avait laissé tomber par mégarde du haut d’un balcon.
+
+486
+00:56:50,910 --> 00:57:00,730
+Je lui fis doucement reproche de sa négligence : — Ne sais-tu pas, lui dis-je, que c’est son travail de plusieurs jours qu’il t’a sacrifié, au risque de bien des privations ?
+
+487
+00:57:00,730 --> 00:57:03,010
+Elle haussa les épaules et répondit : — Bah !
+
+488
+00:57:03,010 --> 00:57:07,720
+cela n’avait pas de valeur. — Je ramassai les débris dans la rue pour les conserver.
+
+489
+00:57:07,720 --> 00:57:23,110
+Ce n’est qu’étourderie, me disais-je, elle est jeune, elle est femme ; mais pour la première fois il me sembla surprendre une dissonance dans le gazouillement des ruisseaux, une ombre sur le soleil, et je humai avec moins de délices les parfums de l’été.
+
+490
+00:57:23,110 --> 00:57:28,010
+Pourquoi se serait-elle souciée de mon amour plus que de ce pauvre éventail brisé ?
+
+491
+00:57:28,010 --> 00:57:32,090
+S’il n’était question que de valeur, valait-il davantage ?
+
+492
+00:57:32,090 --> 00:57:41,550
+Bientôt l’avenue ruissela de cavaliers et d’équipages, les oisifs affluèrent dans ces poétiques campagnes, tout devint mouvement et bruit.
+
+493
+00:57:41,550 --> 00:57:43,630
+J’en fus bien aise pour le théâtre.
+
+494
+00:57:43,630 --> 00:57:58,130
+L’accueil qu’on me fit dépassa mes ambitions ; j’acquis même une notoriété assez grande pour qu’on me désignât avec intérêt quand je passais, à l’heure de la musique, sur la jolie promenade de Sept-Heures. — Regardez cet individu mal bâti, disait celui-ci,
+
+495
+00:57:58,130 --> 00:58:06,360
+c’est Piccinino ; je l’ai vu dans le Chevreuil ; il joue mieux que Ravel. — Oui, répondait celui-là, il a du talent, mais quel monstre !..
+
+496
+00:58:06,360 --> 00:58:10,180
+Et cette jolie créature, on dit que c’est sa femme ! — Et de rire.
+
+497
+00:58:10,180 --> 00:58:25,610
+Alors la musique me paraissait discordante, — non que je fusse blessé des réflexions sur ma laideur : j’y étais habitué, et je savais à quoi m’en tenir là-dessus ; c’était cette façon de parler d’elle, comme si étant laid je n’eusse pas mérité de l’avoir…
+
+498
+00:58:25,610 --> 00:58:32,130
+Au fond, j’étais parfois de leur avis, et je me demandais avec inquiétude ce qu’elle pensait de son côté.
+
+499
+00:58:32,130 --> 00:58:41,740
+Parmi les curieux qui regardaient avec surprise ces époux mal assortis, il y avait un jeune marquis de Carolyié, officier de cavalerie, beau comme une femme.
+
+500
+00:58:41,740 --> 00:58:44,010
+Il fut beau vivant et mort.
+
+501
+00:58:44,010 --> 00:58:47,890
+Je vois ses traits là-bas, là où se trouve la branche de lilas.
+
+502
+00:58:47,890 --> 00:58:49,500
+Vous ne comprenez plus ?..
+
+503
+00:58:49,500 --> 00:58:57,680
+Je suis seul dans ma prison, et l’automne touche à sa fin, et les lilas ont été déchirés par la mitraille,
+
+504
+00:58:57,680 --> 00:59:09,630
+labourés par les boulets sur toute l’étendue de la France ; ils ne fleuriront plus cette année, ni aucune autre, ils sont tous morts, pour jamais, pour jamais… Il vous semble que je délire.
+
+505
+00:59:09,630 --> 00:59:10,320
+Non pas !
+
+506
+00:59:10,320 --> 00:59:16,000
+vous ne pouvez voir la figure du mort, vous ne pouvez respirer les lilas, mais moi je le puis.
+
+507
+00:59:16,000 --> 00:59:21,770
+Non, je ne suis pas fou,… je suis calme au contraire ; je vous dirai comment tout est arrivé.
+
+508
+00:59:21,770 --> 00:59:24,600
+Laissez-moi continuer à ma manière.
+
+509
+00:59:24,600 --> 00:59:39,960
+Je me tenais autant que possible à l’écart de la foule élégante, n’ayant rien de commun avec elle, aucun moyen d’y briller ; je jouais chaque soir, et comme je ne connaissais pas de personne de son sexe à qui je pusse confier ma femme, je l’emmenais avec moi au théâtre.
+
+510
+00:59:39,960 --> 00:59:43,080
+Tandis que j’étais en scène, elle restait dans ma loge.
+
+511
+00:59:43,080 --> 00:59:45,410
+C’était triste pour elle, je le conçois.
+
+512
+00:59:45,410 --> 00:59:57,010
+Elle eût voulu entrer au Kursaal, aller au bal ; mais les honnêtes femmes eussent tourné le des à une femme de comédien, et je ne lui eusse jamais permis d’échanger un mot avec des femmes d’une condition douteuse.
+
+513
+00:59:57,010 --> 01:00:02,980
+Nous n’allions donc nulle part, et cependant nous rencontrions tout le monde à la promenade, à la musique.
+
+514
+01:00:02,980 --> 01:00:05,290
+On se rencontre sans cesse à Spa.
+
+515
+01:00:05,290 --> 01:00:12,260
+C’est ainsi que le hasard ou sa volonté amenait dix fois par jour sur notre chemin le jeune marquis de Carolyié.
+
+516
+01:00:12,260 --> 01:00:16,890
+Il passait et repassait à cheval devant notre chalet de l’avenue du Marteau.
+
+517
+01:00:16,890 --> 01:00:23,700
+Je le remarquai d’abord pour sa figure ; les gens aussi laids que moi ne manquent jamais d’être frappés de la perfection physique.
+
+518
+01:00:23,700 --> 01:00:37,640
+Il courait brillamment les steeple-chases, il gagnait sans relâche au jeu, où il lui eût été si indiffèrent de perdre ; il était adoré par les beautés à la mode, riche, aimable, un de ces hommes en un mot dont tout le monde parle.
+
+519
+01:00:37,640 --> 01:00:50,590
+J’aurais dû dire déjà qu’elle avait eu contre moi sa première colère, du moins la première qu’elle montra, au sujet du jeu. Elle employa toutes ses séductions pour me persuader de faire fortune en une nuit à la roulette.
+
+520
+01:00:50,590 --> 01:00:51,780
+Je refusai.
+
+521
+01:00:51,780 --> 01:01:01,230
+Je n’étais pas plus vertueux qu’un autre, je ne blâmais pas ceux qui jouaient ; mais quant à moi j’eusse trouvé extravagant de risquer le peu que nous avions sur une carte.
+
+522
+01:01:01,230 --> 01:01:04,670
+Ma résolution fut donc ferme et lui sembla cruelle.
+
+523
+01:01:04,670 --> 01:01:17,890
+Elle voulait des robes, des bijoux, comme les grandes dames, elle voulait passer en voiture sur les routes verdoyantes, déployer le soir à la redoute ses traînes de satin, elle voulait en un mot être tout autre que ce qu’elle était.
+
+524
+01:01:17,890 --> 01:01:20,920
+C’est une maladie très commune et toujours mortelle.
+
+525
+01:01:20,920 --> 01:01:30,140
+Que le luxe fût l’élément de cette petite brodeuse de dentelle, je ne m’en étonnais pas, élégante et délicate comme elle l’était naturellement ; mais pouvais-je le lui donner ?
+
+526
+01:01:30,140 --> 01:01:42,100
+Elle le croyait sans doute, elle me reprochait de ne pas vouloir me procurer en une heure autant et plus que je ne gagnais en plusieurs années ; elle ne me pardonna jamais d’agir selon la raison et ma conscience.
+
+527
+01:01:42,100 --> 01:01:48,300
+Je crois que Carolyié attira d’abord son attention parce qu’il passait pour jouer follement et gagner toujours.
+
+528
+01:01:48,300 --> 01:01:54,990
+Il connaissait notre directeur, je ne sais comment ; un soir il vint dans la coulisse me faire les compliments les plus courtois.
+
+529
+01:01:54,990 --> 01:02:02,180
+Sa franchise, son aisance, me plurent ; néanmoins je lui fermai au nez la porte de la loge où je rentrais m’habiller.
+
+530
+01:02:02,180 --> 01:02:08,680
+Ma femme était là faisant de la dentelle pour elle-même désormais ; de grosses larmes coulaient sur son ouvrage.
+
+531
+01:02:08,680 --> 01:02:13,050
+— C’est si ennuyeux, murmurait-elle piteusement, si triste !
+
+532
+01:02:13,050 --> 01:02:14,360
+Vous n’y pensez pas, vous !
+
+533
+01:02:14,360 --> 01:02:16,900
+On vous applaudit, on vous rappelle !
+
+534
+01:02:16,900 --> 01:02:19,460
+mais ici… Je n’y peux plus tenir.
+
+535
+01:02:19,460 --> 01:02:22,450
+J’entends les rires et les bravos, et je suis toute seule !
+
+536
+01:02:22,450 --> 01:02:31,430
+Je ne pus supporter de la voir dans cet état ; je me blâmai de l’abandon où je la laissais, et dès le lendemain je l’amenai dans la salle afin qu’elle s’ennuyât moins.
+
+537
+01:02:31,430 --> 01:02:37,770
+Tout en jouant, j’aperçus à ses côtés Carolyié, qui avait demandé, paraît-il, au directeur de le présenter.
+
+538
+01:02:37,770 --> 01:02:39,820
+Je les rejoignis dans l’entr’acte.
+
+539
+01:02:39,820 --> 01:02:48,700
+Il disait combien il était las des folies quotidiennes où il s’était engagé ; il nous demanda la permission de se joindre à nous pour un de nos déjeuners dans les bois.
+
+540
+01:02:48,700 --> 01:02:54,830
+J’y consentis volontiers ; je me sentais attiré vers ce jeune homme, et j’avais en elle une foi parfaite.
+
+541
+01:02:54,830 --> 01:03:03,580
+Le lendemain, il vint donc, et notre partie se trouva gâtée, car il voulut nous conduire dans sa voiture attelée de quatre chevaux en harnais flamands à clochettes,
+
+542
+01:03:03,580 --> 01:03:09,780
+et mes camarades qui nous rejoignirent à pied sous la poussière, par la chaleur, ne furent pas gais comme de coutume.
+
+543
+01:03:09,780 --> 01:03:19,240
+Une sorte de gêne régnait dans la réunion : ce n’était pas la faute du marquis ; n’eût-il été qu’un bohème comme nous, il n’eût pu se montrer plus simple et plus cordial ;
+
+544
+01:03:19,240 --> 01:03:26,770
+mais les chevaux piétinaient à quelques pas sous leurs clochettes d’argent, notre petit vin léger avait été remplacé par du Champagne,
+
+545
+01:03:26,770 --> 01:03:40,210
+de grands laquais avaient étendu des tapis sur la mousse, et je ne sais quel charme subtil s’était évanoui au moment même où chacun de nous sentait que nous n’étions plus entre égaux. Il dut s’ennuyer tout autant que dans son monde.
+
+546
+01:03:40,210 --> 01:03:47,740
+Néanmoins il persistait à rechercher notre société : mes camarades en étaient flattés ; pour ma part, j’esquivais les invitations.
+
+547
+01:03:47,740 --> 01:03:50,930
+Ce fut encore là une cause de discussion entre nous deux.
+
+548
+01:03:50,930 --> 01:03:59,450
+Elle ne pouvait comprendre que nous ne nous rendissions point aux soupers et aux fêtes de toute sorte que donnait cet homme du monde dont l’opulence l’avait éblouie,
+
+549
+01:03:59,450 --> 01:04:08,450
+et, comme il ne me convenait pas de souffler son oreille en lui répétant les mauvais propos que je prévoyais, elle dut croire que je lui résistais par caprice ou tyrannie.
+
+550
+01:04:08,450 --> 01:04:16,500
+Le dépit lui dicta souvent d’injustes reproches ; elle m’accusait avec des violences d’enfant gâté de ne pas vouloir qu’elle fût heureuse.
+
+551
+01:04:16,500 --> 01:04:29,330
+Puis peu à peu les reproches cessèrent, elle devint douce et soumise, parlant peu, ne tenant plus à sortir et restant volontiers des journées entières à une fenêtre de notre chalet, sa dentelle à la main.
+
+552
+01:04:29,330 --> 01:04:39,290
+Ses longues rêveries souriantes m’étonnaient, et quand après un silence de quelques minutes je lui adressais la parole, il lui arrivait de tressaillir comme si je l’eusse éveillée d’un rêve.
+
+553
+01:04:39,290 --> 01:04:47,500
+Je la crus malade : elle m’affirma qu’elle ne souffrait pas, et en réalité je ne lui avais jamais vu des yeux aussi brillants, un teint aussi animé.
+
+554
+01:04:47,500 --> 01:04:52,450
+L’air des montagnes, pensai-je, était peut-être un peu vif pour elle et la rendait nerveuse.
+
+555
+01:04:52,450 --> 01:04:55,300
+Comment aurais-je évité de la laisser souvent seule ?
+
+556
+01:04:55,300 --> 01:05:09,820
+Il n’y avait pas d’autre troupe théâtrale à Spa ; pour amuser un public qui se renouvelait à d’assez longs intervalles, nous étions donc obligés de varier sans cesse le répertoire, et l’étude de mes rôles me laissait de moins en moins de loisir à mesure qu’avançait la saison.
+
+557
+01:05:09,820 --> 01:05:19,200
+Le soir, ma femme allait s’installer dans la petite loge de baignoire que j’avais obtenue pour elle ; parfois, assez rarement, dans les entr’actes, j’y trouvais Carolyié.
+
+558
+01:05:19,200 --> 01:05:20,570
+Il paraissait m’éviter.
+
+559
+01:05:20,570 --> 01:05:23,850
+Je pensai qu’il m’en voulait d’avoir repoussé ses avances.
+
+560
+01:05:23,850 --> 01:05:34,910
+Un jour aussi qu’il avait envoyé à ma femme un magnifique bouquet de fleurs rares, je l’avais pris à part pour lui dire tout sincèrement : — Votre intention est bonne et gracieuse, mais ne recommencez pas, je vous prie.
+
+561
+01:05:34,910 --> 01:05:46,390
+Songez que ce qui n’est que courtoisie avec vos égaux est pour des gens de notre sorte une dette que nous ne contracterions qu’en perdant le droit de nous respecter nous-mêmes, qui est notre honneur à nous autres.
+
+562
+01:05:46,390 --> 01:05:50,680
+Il parut ému, rougit légèrement et me serra la main.
+
+563
+01:05:50,680 --> 01:05:58,820
+Depuis il n’envoya plus de fleurs ; toutefois je me figurai qu’il m’avait su mauvais gré, en y réfléchissant, de cette petite leçon.
+
+564
+01:05:58,820 --> 01:06:03,900
+J’allais jouer une pièce inédite qui devait être, croyait-on, mon plus brillant succès.
+
+565
+01:06:03,900 --> 01:06:10,750
+Il y avait de grands personnages à Spa en ce moment, et, faute de meilleure distraction, ils venaient au théâtre.
+
+566
+01:06:10,750 --> 01:06:17,660
+La bienveillance qu’ils me témoignèrent avait augmenté la popularité dont je jouissais, et mon mérite aux yeux du directeur.
+
+567
+01:06:17,660 --> 01:06:23,500
+Ce soir-là, elle prétexta un mal de tête qui lui faisait redouter l’atmosphère suffocante du théâtre.
+
+568
+01:06:23,500 --> 01:06:30,080
+Avec son plus beau sourire, elle me dit qu’elle attendrait le récit de mon triomphe dans son fauteuil, près de la fenêtre ouverte.
+
+569
+01:06:30,080 --> 01:06:34,370
+Je trouvai sa résolution raisonnable par l’extrême chaleur qu’il faisait.
+
+570
+01:06:34,370 --> 01:06:41,970
+Je ne la pressai nullement de m’accompagner et partis, lui laissant une énorme gerbe de roses blanches que j’avais rapportée de la ville.
+
+571
+01:06:41,970 --> 01:06:50,000
+Elle la mit dans son vase bleu, déclara que cette fraîche odeur lui avait déjà fait du bien, m’embrassa en murmurant d’une voix tendre : — Au revoir !
+
+572
+01:06:50,000 --> 01:07:03,090
+au revoir ! — Le dernier regard que je fixai sur elle me la montra assise dans le profond encaissement de la fenêtre, ses roses et son métier à dentelle sur la table auprès d’elle, et agitant la main en signe d’adieu.
+
+573
+01:07:03,090 --> 01:07:06,100
+Je n’avais pas l’ombre d’un soupçon, d’un pressentiment.
+
+574
+01:07:06,100 --> 01:07:13,170
+Je me disais au contraire : — Elle a sûrement appris à m’aimer un peu. — Vieille histoire, dites-vous. — Oui, bien vieille.
+
+575
+01:07:13,170 --> 01:07:15,490
+Je me dirigeai vers le théâtre.
+
+576
+01:07:15,490 --> 01:07:23,330
+L’avenue, au coucher du soleil, était inondée d’or et de pourpre, la musique jouait sur la place royale, tout le monde était dehors.
+
+577
+01:07:23,330 --> 01:07:28,860
+Il avait plu, de sorte que la végétation prenait un nouvel essor dans cette humidité chaude.
+
+578
+01:07:28,860 --> 01:07:34,790
+Des nuages de mille formes charmantes effleuraient les vertes collines et semblaient s’y reposer.
+
+579
+01:07:34,790 --> 01:07:38,660
+Je vis la foule entrer dans les salons de jeu et en sortir.
+
+580
+01:07:38,660 --> 01:07:41,760
+Carolyié sortait ; il ne parut pas me voir.
+
+581
+01:07:41,760 --> 01:07:44,770
+Quelqu’un dit auprès de moi : — Une veine extraordinaire !
+
+582
+01:07:44,770 --> 01:07:55,090
+Il gagne tous les jours ; si cela continue de même, une semaine encore, il fera sauter la banque. — Un autre passant ajouta : — Parce qu’il n’a besoin de rien, tout vient à lui.
+
+583
+01:07:55,090 --> 01:08:01,040
+J’entendais ce qu’on disait du marquis, mais je ne l’enviais pas, je n’enviais personne.
+
+584
+01:08:01,040 --> 01:08:04,490
+Je n’eusse pas changé ma place de comédien pour celle d’un roi.
+
+585
+01:08:04,490 --> 01:08:13,210
+Jamais je ne m’étais senti si heureux que ce soir-là en traversant la ville pour passer du parfum des jardins à l’antre obscur où devaient s’exercer mes talents.
+
+586
+01:08:13,210 --> 01:08:19,980
+La pièce nouvelle, le Pot-de-Vin de Thibautin, bien qu’elle n’eût pas le sens commun, était des plus gaies et assez spirituelle.
+
+587
+01:08:19,980 --> 01:08:26,320
+Je ne l’ai jamais jouée depuis ; chaque ligne du rôle est gravée cependant au fer rouge dans mon cerveau.
+
+588
+01:08:26,320 --> 01:08:28,170
+Je fus rappelé cinq fois.
+
+589
+01:08:28,170 --> 01:08:32,380
+Un grand-duc étranger m’offrit sa tabatière d’or en me félicitant.
+
+590
+01:08:32,380 --> 01:08:37,740
+Je compris que j’avais un avenir assuré, une réputation qui grandirait d’année en année.
+
+591
+01:08:37,740 --> 01:08:40,700
+Je sortis du théâtre plus heureux que jamais.
+
+592
+01:08:40,700 --> 01:08:48,000
+La nuit, très chaude encore, était sans étoiles, des nuages épais pesaient dans l’air, qui semblait faire silence.
+
+593
+01:08:48,000 --> 01:08:54,750
+La petite ville n’avait que juste assez de lumières pour rendre plus sombre par le contraste le cercle des montagnes.
+
+594
+01:08:54,750 --> 01:09:00,580
+Les plantes exhalaient des parfums enivrants inconnus dans le jour et étaient chargées de rosée.
+
+595
+01:09:00,580 --> 01:09:15,040
+Rien ne troublait ce grand calme ; chacun était au bal ou au salon de jeu ; en atteignant ma demeure, je vis une faible clarté briller entre les volets autour desquels se découpait en noir une vigne grimpante.
+
+596
+01:09:15,040 --> 01:09:22,370
+Je levai les yeux vers le ciel, et bien que jusque-là j’eusse fort peu pensé à Dieu dans la vie que j’avais menée, je le bénis.
+
+597
+01:09:22,370 --> 01:09:25,880
+Oui, je bénis Dieu cette nuit-là.
+
+598
+01:09:25,880 --> 01:09:29,000
+Ouvrant la porte, je montai l’escalier.
+
+599
+01:09:29,000 --> 01:09:34,850
+J’entrai, je la cherchai à sa place accoutumée, près de la lampe ; elle n’y était point.
+
+600
+01:09:34,850 --> 01:09:40,040
+Inutile de vous en dire davantage,… une si vieille histoire !
+
+601
+01:09:40,040 --> 01:09:46,500
+Pendant les semaines qui suivirent cette nuit, je ne me rendis compte de rien ; j’étais fou, à ce qu’on dit.
+
+602
+01:09:46,500 --> 01:10:01,670
+Je ne me rappelle rien,… rien que cette chambre déserte, cette gerbe de roses blanches, cette lampe avec le petit crucifix au-dessous, et la chaise vide à côté de laquelle le réseau de dentelle était tombé tout emmêlé.
+
+603
+01:10:01,670 --> 01:10:07,830
+Elle était partie sans un mot, sans un signe, et cependant c’était si simple.
+
+604
+01:10:07,830 --> 01:10:10,910
+Chacun l’avait prévu, excepté moi.
+
+605
+01:10:10,910 --> 01:10:13,880
+On n’entendit plus parler de lui ni d’elle.
+
+606
+01:10:13,880 --> 01:10:20,340
+Les gens de la maison prétendirent ne rien savoir ; mais par terre on avait oublié une lettre déchirée.
+
+607
+01:10:20,340 --> 01:10:32,960
+Cette lettre ne renfermait que peu de mots, assez cependant pour me prouver que, lorsqu’elle avait baisé mes lèvres en souriant pour me renvoyer au théâtre, elle savait déjà que la même nuit elle devait me trahir.
+
+608
+01:10:32,960 --> 01:10:35,970
+Ce sont-là, dit-on, des façons de femme.
+
+609
+01:10:35,970 --> 01:10:38,230
+Il se peut que j’aie été fou.
+
+610
+01:10:38,230 --> 01:10:44,420
+L’automne était fort avancé quand j’eus de nouveau conscience de ce que je faisais, de ce que je disais.
+
+611
+01:10:44,420 --> 01:10:51,400
+Le pays était désert, les bois étaient jaunis, la musique éteinte, les fleurs mortes.
+
+612
+01:10:51,400 --> 01:10:55,900
+Je m’éveillai stupide, mais calme, et comprenant ce qui était arrivé.
+
+613
+01:10:55,900 --> 01:10:59,580
+Il me semblait avoir vécu bien des années depuis cette horrible nuit.
+
+614
+01:10:59,580 --> 01:11:09,950
+Mes cheveux étaient devenus gris ; je me sentais faible et vieux, ma vie était finie ; je m’étonnais de n’être pas, comme les autres, tranquille dans ma tombe.
+
+615
+01:11:09,950 --> 01:11:17,510
+Quand on me permit de sortir, je me mis à errer par les rues en proie à une idée fixe : les suivre, les retrouver.
+
+616
+01:11:17,510 --> 01:11:19,970
+Combien de temps j’avais perdu déjà !
+
+617
+01:11:19,970 --> 01:11:27,700
+Ma troupe était partie, bien entendu, le peu d’argent que je possédais avait été pris, on me dit que je devais ma vie à la charité.
+
+618
+01:11:27,700 --> 01:11:28,710
+Ma vie !
+
+619
+01:11:28,710 --> 01:11:31,050
+je leur éclatai de rire au visage.
+
+620
+01:11:31,050 --> 01:11:41,370
+Ils eurent peur, me croyant encore fou ; je ne l’étais plus, je savais ce que je faisais, j’avais un but qui seul me donnait le courage de vivre, ne fût-ce qu’une heure de plus.
+
+621
+01:11:41,370 --> 01:11:55,330
+Elle ne valait rien sans doute, mais je l’aimais… Non que je songeasse à la reprendre… je ne descendis pas si bas ; ma vie avait été droite et sans tache aux yeux des hommes, et j’étais incapable de la marquer d’une telle lâcheté.
+
+622
+01:11:55,330 --> 01:11:57,030
+J’avais d’autres desseins.
+
+623
+01:11:57,030 --> 01:12:00,540
+Dès l’aube, je quittai la ville, je n’avais pas un sou.
+
+624
+01:12:00,540 --> 01:12:08,230
+Mon talent, on l’avait tué ; pour moi, il n’était plus de carrière, ma réputation à son aurore était déjà une chose du passé.
+
+625
+01:12:08,230 --> 01:12:10,160
+Vous voyez qu’elle avait tout détruit.
+
+626
+01:12:10,160 --> 01:12:10,760
+Oh !
+
+627
+01:12:10,760 --> 01:12:11,920
+sans calcul !
+
+628
+01:12:11,920 --> 01:12:14,910
+ils ne pensent pas, ces êtres charmants et doux !
+
+629
+01:12:14,910 --> 01:12:23,620
+Peu importe la façon dont j’ai subsisté entre le jour où je partis de Spa et le jour où une sentence de mort fut prononcée contre moi.
+
+630
+01:12:23,620 --> 01:12:33,680
+Mon ancien métier m’était devenu odieux, impossible ; en vain eussé-je essayé de le reprendre, je n’aurais jamais pu faire un mouvement en scène, ni prononcer un mot.
+
+631
+01:12:33,680 --> 01:12:45,250
+Des hommes, des femmes aussi, ont joué le cœur brisé, saignant, et le monde les a applaudis, mais il m’eût suffi à moi d’entrer dans un théâtre pour que ma raison s’égarât de nouveau.
+
+632
+01:12:45,250 --> 01:12:53,390
+Le dernier soir, songez-y donc, j’avais été si heureux ; ce dernier soir, dans mon ivresse, j’avais prié !
+
+633
+01:12:53,390 --> 01:12:57,140
+Je menai la vie d’un misérable, non pas celle d’un mendiant.
+
+634
+01:12:57,140 --> 01:13:06,660
+Les difficultés que j’avais traversées depuis l’enfance m’avaient accoutumé à me contenter de peu et à imaginer plus d’une manière de gagner le pain quotidien.
+
+635
+01:13:06,660 --> 01:13:20,200
+Tout l’hiver, je m’informai vainement d’elle et de lui ; j’attendis d’abord à Paris, un homme de son rang et de sa fortune ne pouvait manquer d’y revenir ; ensuite j’allai chercher ses traces dans le midi, d’où il était originaire.
+
+636
+01:13:20,200 --> 01:13:29,160
+Je vis son château, un château princier, au milieu de forêts de pins, mais on me dit qu’il n’y était pas venu depuis des années, qu’il devait être en Italie.
+
+637
+01:13:29,160 --> 01:13:35,400
+Je parcourus donc l’Italie : j’arrivais toujours trop tard, il avait toujours quitté chacune des villes où j’entrais.
+
+638
+01:13:35,400 --> 01:13:38,910
+Une fois, à Venise, je ne le manquai que de vingt-quatre heures.
+
+639
+01:13:38,910 --> 01:13:43,080
+Un gondolier me dit qu’il avait une femme avec lui, une vraie rose.
+
+640
+01:13:43,080 --> 01:13:43,630
+Ah !
+
+641
+01:13:43,630 --> 01:13:51,260
+Dieu, c’était au printemps, partout fleurissaient les lilas ; je vécus pour les voir et pour entendre cela.
+
+642
+01:13:51,260 --> 01:13:54,820
+Comment les balles de demain me feraient-elles souffrir ?
+
+643
+01:13:54,820 --> 01:13:56,890
+Laissez-moi terminer vite.
+
+644
+01:13:56,890 --> 01:13:59,500
+Je ne voulus pas mourir sans vengeance.
+
+645
+01:13:59,500 --> 01:14:02,930
+L’été vint, avec l’été la guerre.
+
+646
+01:14:02,930 --> 01:14:05,950
+Quand elle fut déclarée, j’étais à la frontière.
+
+647
+01:14:05,950 --> 01:14:09,960
+Je rentrai dans mon pays le plus vite que je pus, voyageant à pied.
+
+648
+01:14:09,960 --> 01:14:15,730
+J’avais tout perdu, force, intelligence, sous l’empire de ce qu’on appelle une monomanie.
+
+649
+01:14:15,730 --> 01:14:19,430
+Je croyais toujours la voir me regarder au milieu des lilas.
+
+650
+01:14:19,430 --> 01:14:21,840
+Je fuyais mes anciens camarades.
+
+651
+01:14:21,840 --> 01:14:28,230
+Quelques-uns me seraient venus en aide volontiers, leur intention était bonne, mais j’eusse préféré un coup de couteau.
+
+652
+01:14:28,230 --> 01:14:32,090
+J’évitais tout ce qui pouvait me rappeler ce que j’avais été.
+
+653
+01:14:32,090 --> 01:14:38,130
+J’étais morose, peut-être fou en somme ; quand on me parla de la guerre, je me réveillai.
+
+654
+01:14:38,130 --> 01:14:40,950
+La guerre me rappela au nombre des vivants.
+
+655
+01:14:40,950 --> 01:14:47,600
+Je n’étais plus bon à autre chose, cependant je pouvais encore frapper ; puis je savais qu’il était soldat !
+
+656
+01:14:47,600 --> 01:14:50,810
+Comment ne l’aurais-je pas retrouvé quelque part dans la mêlée ?
+
+657
+01:14:50,810 --> 01:15:07,320
+D’ailleurs, tout en ne me connaissant pas de patrie, j’aimais la France ; même dans ma misère, je l’aimais pour ce qu’elle m’avait donné, pour son soleil, pour sa gaîté, pour ses nuits étoilées, ses riants villages, ses treilles hospitalières, pour sa beauté.
+
+658
+01:15:07,320 --> 01:15:16,170
+Elle m’avait prodigué des heures délicieuses, elle avait été ma nourrice, elle m’avait consolé par ses chansons quand j’étais nu et affamé.
+
+659
+01:15:16,170 --> 01:15:18,210
+Je n’étais pas ingrat.
+
+660
+01:15:18,210 --> 01:15:22,240
+Au mois de septembre, je rentrai donc en France.
+
+661
+01:15:22,240 --> 01:15:24,550
+C’était le lendemain de Sedan.
+
+662
+01:15:24,550 --> 01:15:31,870
+J’entendais tout le long des routes courir comme un murmure de révolte et d’angoisse la nouvelle de nos désastres.
+
+663
+01:15:31,870 --> 01:15:38,290
+Ce n’était jamais l’exacte vérité, c’était assez près de la vérité pour être horrible.
+
+664
+01:15:38,290 --> 01:15:49,910
+La soif de sang qui m’avait possédé depuis la nuit maudite où j’avais trouvé sa chaise vide sembla s’exaspérer jusqu’à ce qu’enfin je ne visse plus que du sang dans l’air et dans les eaux.
+
+665
+01:15:49,910 --> 01:16:03,740
+J’avais toujours été d’humeur pacifique, je détestais les querelles, et mes camarades avaient coutume de dire en plaisantant que je serais le premier à protéger contre la justice quiconque m’aurait dévalisé ; mais tout était changé.
+
+666
+01:16:03,740 --> 01:16:11,180
+J’étais devenu une sorte de bête de proie, j’avais besoin de tuer pour apaiser la soif ardente qui me consumait.
+
+667
+01:16:11,180 --> 01:16:12,890
+Vous ne me comprenez pas ?
+
+668
+01:16:12,890 --> 01:16:13,830
+Eh bien !
+
+669
+01:16:13,830 --> 01:16:18,240
+priez Dieu, si vous avez un Dieu, de ne me comprendre jamais !
+
+670
+01:16:18,240 --> 01:16:20,440
+Personne n’en peut répondre.
+
+671
+01:16:20,440 --> 01:16:26,940
+Il arrive qu’un seul jour nous change à tel point que la mère qui nous a portés ne reconnaîtrait pas ses fils.
+
+672
+01:16:26,940 --> 01:16:31,430
+Je me haïssais, et néanmoins je ne pouvais être différent.
+
+673
+01:16:31,430 --> 01:16:36,780
+Si nous devenons responsables de nos transformations dans la suite, ce sera bien injuste.
+
+674
+01:16:36,780 --> 01:16:39,020
+Nous ne pouvons y échapper.
+
+675
+01:16:39,020 --> 01:16:47,140
+Quand j’arrivai dans le centre, il se formait partout de nouveaux corps, des bandes de francs-tireurs ; je m’engageai dans une de ces dernières.
+
+676
+01:16:47,140 --> 01:16:57,930
+J’étais robuste et d’assez grande taille, quoique mal bâti ; je m’engageai avec une seule pensée : frapper pour mon pays et tôt ou tard l’atteindre, lui.
+
+677
+01:16:57,930 --> 01:17:08,070
+Je me battis plusieurs fois, fort bien, m’a-t-on dit… C’est probable, car des fureurs de tigre se déchaînaient en moi, et je n’avais conscience d’aucun péril personnel.
+
+678
+01:17:08,070 --> 01:17:09,830
+Nous vivions dans les bois.
+
+679
+01:17:09,830 --> 01:17:23,760
+Nous nous cachions le jour ; la nuit, nous battions la campagne, nous arrêtions les convois, nous coupions les fils télégraphiques, nous interceptions les dépêches, nous attaquions et souvent nous mettions en déroute la cavalerie ennemie.
+
+680
+01:17:23,760 --> 01:17:34,330
+Nous savions que pris nous serions pendus comme des meurtriers ordinaires, pour le crime de patriotisme, mais je ne crois pas que cette pensée ait jamais fait hésiter personne.
+
+681
+01:17:34,330 --> 01:17:43,330
+Parfois dans les forêts ou le long des routes, nous rencontrions le cadavre d’un des nôtres pendu à un arbre, et ce spectacle ne nous rendait pas plus doux.
+
+682
+01:17:43,330 --> 01:17:49,760
+Notre sang coulait comme de l’eau, et le sang de la vieille noblesse ne manqua pas au sacrifice.
+
+683
+01:17:49,760 --> 01:17:58,190
+Oui, la France eût été sauvée, rien ne m’empêchera de le croire, si quelqu’un avait su nous discipliner et nous conduire.
+
+684
+01:17:58,190 --> 01:18:03,630
+Les guérillas peuvent faire beaucoup ; pour aller jusqu’à la victoire, il faut un chef de génie.
+
+685
+01:18:03,630 --> 01:18:05,430
+Nous n’en avions point.
+
+686
+01:18:05,430 --> 01:18:11,520
+Si le premier Bonaparte eût été là, nous eussions chassé l’ennemi comme Marius les Cimbres.
+
+687
+01:18:11,520 --> 01:18:20,930
+Je crois que les autres nations en conviendront dans l’avenir ; pour le moment, elles sont éblouies, elles ne voient plus clair, elles adorent le soleil levant.
+
+688
+01:18:20,930 --> 01:18:24,500
+Il est rouge de sang et il les aveugle.
+
+689
+01:18:24,500 --> 01:18:32,700
+Avec le temps, le bruit courut que je me battais comme dix hommes, et j’obtins un grade d’officier dans l’armée régulière.
+
+690
+01:18:32,700 --> 01:18:35,320
+Pour moi, cela ne signifiait rien.
+
+691
+01:18:35,320 --> 01:18:38,150
+Nom, rang, renommée, qu’en aurais-je fait ?
+
+692
+01:18:38,150 --> 01:18:41,220
+J’étais mort, mort avec ma vie d’autrefois.
+
+693
+01:18:41,220 --> 01:18:53,070
+Il me semblait que mon corps fût habité par un démon, qui, à force de s’enivrer de sang, prenait une ressemblance avec l’humanité… telle qu’elle est en temps de guerre.
+
+694
+01:18:53,070 --> 01:18:56,820
+Je passai des corps-francs dans l’armée de Bourbaki.
+
+695
+01:18:56,820 --> 01:19:00,610
+À mes côtés, je reconnus souvent d’anciens camarades de théâtre.
+
+696
+01:19:00,610 --> 01:19:04,970
+Les artistes ont accompli, eux aussi, leur devoir envers la patrie.
+
+697
+01:19:04,970 --> 01:19:10,760
+Le royaume bafoué de la bohème a envoyé ses enfants par centaines à l’appel de la mort.
+
+698
+01:19:10,760 --> 01:19:21,020
+Pendant tout ce temps, je ne me trouvai jamais en présence du visage que je cherchais partout dans la mêlée, puis, l’ouragan passé, dans les monceaux de cadavres.
+
+699
+01:19:21,020 --> 01:19:23,500
+— Est-ce un frère que vous voulez retrouver ?
+
+700
+01:19:23,500 --> 01:19:30,240
+me demandait-on souvent en me voyant relever, puis laisser retomber un à un les morts sur le champ de bataille.
+
+701
+01:19:30,240 --> 01:19:36,890
+Et je répondais toujours : — Quelqu’un de plus proche qu’un frère. — N’était-ce pas vrai ?
+
+702
+01:19:36,890 --> 01:19:39,140
+Mais longtemps je cherchai en vain.
+
+703
+01:19:39,140 --> 01:19:48,880
+La France était un océan soulevé par la tempête et sur lequel toutes nos existences ressemblaient à de frêles esquifs ballottés vers la tombe,
+
+704
+01:19:48,880 --> 01:19:57,020
+celles-ci poussées à l’est, d’autres à l’ouest ; elles s’entre-croisaient dans la nuit sans fin, ne se doutant pas que les vents soufflaient si fort.
+
+705
+01:19:57,020 --> 01:20:05,290
+Lors de la lutte suprême, nous avions fait une tentative pour nous frayer un chemin à travers le mur de fer qui entourait Paris.
+
+706
+01:20:05,290 --> 01:20:15,100
+Soudain, dans l’épais linceul de blanche fumée où je m’enfonçais avec la ligne, s’élança superbe, prompte comme l’éclair, une compagnie de cavalerie.
+
+707
+01:20:15,100 --> 01:20:29,170
+Ses rangs étaient bien éclaircis, mais des nuages d’aveuglante poussière dérobaient ces désastres, et, quelque décimés qu’ils fussent, les cuirassiers de Corrèze, un des corps-francs formés par la noblesse du midi, chargeaient encore avec entrain.
+
+708
+01:20:29,170 --> 01:20:37,140
+Tout près de moi, certain cheval gris tomba mortellement frappé ; celui qui le montait disparut une seconde, puis se releva.
+
+709
+01:20:37,140 --> 01:20:38,100
+C’était lui !
+
+710
+01:20:38,100 --> 01:20:44,320
+Je bondis, féroce ; mon épée était sur sa gorge, la fumée nous enveloppait, personne ne l’aurait vu.
+
+711
+01:20:44,320 --> 01:20:47,390
+Il était désarmé, en mon pouvoir. — En avant !
+
+712
+01:20:47,390 --> 01:20:49,890
+crièrent mes hommes, qui se croyaient victorieux.
+
+713
+01:20:49,890 --> 01:20:55,040
+J’entendis, et je me souvins… Lui aussi combattait pour la France.
+
+714
+01:20:55,040 --> 01:20:58,120
+Je n’osai le tuer ; je le lâchai.
+
+715
+01:20:58,120 --> 01:20:59,060
+— Après !
+
+716
+01:20:59,060 --> 01:20:59,620
+après !
+
+717
+01:20:59,620 --> 01:21:02,870
+lui dis-je à l’oreille. — Il savait bien ce que je voulais dire.
+
+718
+01:21:02,870 --> 01:21:10,790
+Arrêtant un cheval qui passait libre au galop, ramassant son sabre, il rejoignit les siens, et moi je chargeai en ligne avec mes hommes.
+
+719
+01:21:10,790 --> 01:21:19,310
+Au milieu du rugissement de la fusillade et des cris d’un triomphe imaginaire, je poussai dans les rangs ennemis, puis je tombai sans connaissance.
+
+720
+01:21:19,310 --> 01:21:24,170
+Quand un chirurgien me trouva le lendemain matin, je n’avais pas la moindre blessure.
+
+721
+01:21:24,170 --> 01:21:31,950
+Quant à la victoire, elle n’avait existé que dans les rêves des soldats vaincus, comme toutes les victoires de la France à cette triste époque.
+
+722
+01:21:31,950 --> 01:21:37,640
+Je m’éveillai au sentiment du passé, du réel, en répétant dans mon cœur : — Après !
+
+723
+01:21:37,640 --> 01:21:38,700
+après !
+
+724
+01:21:38,700 --> 01:21:40,760
+Le moment ne tarda pas à venir.
+
+725
+01:21:40,760 --> 01:21:44,230
+Les cuirassiers de Corrèze étaient passés dans l’est.
+
+726
+01:21:44,230 --> 01:21:46,060
+L’année nouvelle commençait.
+
+727
+01:21:46,060 --> 01:21:54,140
+Bientôt sonna cette heure mortelle où tout ce que nous avions fait et enduré reçut pour récompense la honte de la capitulation.
+
+728
+01:21:54,140 --> 01:21:56,220
+Combien y a-t-il de cela ?
+
+729
+01:21:56,220 --> 01:21:57,450
+Un jour ?
+
+730
+01:21:57,450 --> 01:21:58,150
+une année ?..
+
+731
+01:21:58,150 --> 01:22:02,050
+J’étais parmi ceux qui crièrent au crime et à la trahison.
+
+732
+01:22:02,050 --> 01:22:12,120
+Je n’avais aucune prétention d’être un homme d’état, mais je savais que, si j’eusse été au pouvoir, plutôt que de rendre Paris je l’aurais brûlé comme les Russes brûlèrent Moscou.
+
+733
+01:22:12,120 --> 01:22:17,040
+Bien des gens pensaient de même : on ne les consulta pas, on ne les compta point.
+
+734
+01:22:17,040 --> 01:22:22,200
+Nous n’avions qu’à nous taire et à regarder tranquillement les Allemands entrer à Paris.
+
+735
+01:22:22,200 --> 01:22:27,530
+Quand la lutte et le carnage eurent cessé, j’éprouvai une impression étrange.
+
+736
+01:22:27,530 --> 01:22:35,760
+Je me trouvais comme les gens qui, ayant entendu longtemps le fracas d’une cataracte, rentrent dans un lieu où tout est silence.
+
+737
+01:22:35,760 --> 01:22:38,740
+Le calme les étourdit, les confond.
+
+738
+01:22:38,740 --> 01:22:50,560
+Je me serais figuré que tout avait été une hallucination, un cauchemar, sans ce regard que je me rappelais si bien et qu’il m’avait jeté quand le fer s’était appuyé sur sa gorge.
+
+739
+01:22:50,560 --> 01:22:55,580
+Lorsqu’il m’arrivait de m’endormir, je me redressais tout à coup en murmurant : — Après !
+
+740
+01:22:55,580 --> 01:23:02,920
+après ! — J’étais rentré alors dans la capitale, et j’allais souvent regarder la maison que j’avais habitée avec elle.
+
+741
+01:23:02,920 --> 01:23:14,250
+Un obus avait ouvert la petite chambre rose et blanche sous les toits ; les murailles trouées à jour permettaient de distinguer la dorure du miroir, adhérente encore par places.
+
+742
+01:23:14,250 --> 01:23:21,740
+Un autre obus avait fait du joyeux petit théâtre où j’avais joué à Paris, la première et la dernière fois, une ruine fumante.
+
+743
+01:23:21,740 --> 01:23:23,320
+Et il y avait si peu de temps !
+
+744
+01:23:23,320 --> 01:23:24,280
+… grand Dieu !
+
+745
+01:23:24,280 --> 01:23:27,990
+Dans ces moments-là je me demandais : — Pourquoi l’avoir épargné ?
+
+746
+01:23:27,990 --> 01:23:36,250
+Tous ceux que j’avais connus étaient tués ou morts de besoin ; je ne voulais pas de nouveaux amis, je me tenais à l’écart de tout.
+
+747
+01:23:36,250 --> 01:23:39,630
+Néanmoins un jour vint où j’eus à prendre parti.
+
+748
+01:23:39,630 --> 01:23:43,090
+Tant que l’on est sur terre, on ne peut se montrer poltron.
+
+749
+01:23:43,090 --> 01:23:46,120
+Une autre guerre éclata, la guerre civile.
+
+750
+01:23:46,120 --> 01:23:49,350
+Je choisis le parti populaire ; je restai à Paris.
+
+751
+01:23:49,350 --> 01:23:51,190
+Le peuple avait-il raison ?
+
+752
+01:23:51,190 --> 01:23:52,360
+avait-il tort ?
+
+753
+01:23:52,360 --> 01:23:55,170
+Je n’en sais rien, mais je lui appartenais.
+
+754
+01:23:55,170 --> 01:23:59,700
+Je ne faisais pas de politique, je demandai à peine ce que l’on se proposait.
+
+755
+01:23:59,700 --> 01:24:04,350
+J’aurais trouvé lâche d’abandonner mes frères, mes pareils, voilà tout.
+
+756
+01:24:04,350 --> 01:24:12,340
+Cette horrible saison s’écoula lentement, lentement… C’était hier, dites-vous ; je crois qu’il y a mille ans.
+
+757
+01:24:12,340 --> 01:24:15,370
+Le second siège fut pire que le premier.
+
+758
+01:24:15,370 --> 01:24:21,390
+Je ne doutais pas qu’il ne fût à Versailles, et chaque jour je me disais : — Il sera inutile de l’épargner maintenant.
+
+759
+01:24:21,390 --> 01:24:37,820
+Du haut des bastions où flottait le drapeau rouge, je regardais à travers la fumée de la fusillade les bois de Versailles en songeant : — Si nous pouvions nous rencontrer encore une fois, une seule fois ! — car j’étais libre désormais ; les siens étaient contre les miens.
+
+760
+01:24:37,820 --> 01:24:42,770
+Cette pensée donnait du nerf à mon bras pour la commune.
+
+761
+01:24:42,770 --> 01:24:48,060
+Les rues ruisselaient de vin et de sang, la populace était ivre d’une ivresse sauvage.
+
+762
+01:24:48,060 --> 01:24:51,080
+On pillait les palais, on profanait les églises.
+
+763
+01:24:51,080 --> 01:25:04,200
+Je me battais hors des portes quand c’était possible ; le reste du temps, je m’enfermais afin de ne pas voir ni entendre ; je souffrais pour la France autant que je pouvais souffrir encore !
+
+764
+01:25:04,200 --> 01:25:14,110
+Un jour que je revenais des fortifications, je passai dans une rue qui avait été presque entièrement détruite : les maisons n’étaient plus que des monceaux de décombres calcinés.
+
+765
+01:25:14,110 --> 01:25:18,430
+Peut-être y avait-il dessous les cadavres de leurs malheureux habitants.
+
+766
+01:25:18,430 --> 01:25:21,350
+C’était d’une désolation inexprimable.
+
+767
+01:25:21,350 --> 01:25:25,640
+Cependant sur toutes ces ruines une chose charmante survivait.
+
+768
+01:25:25,640 --> 01:25:33,440
+De ce qui avait été un petit jardin s’élançait un jeune lilas en pleine fleur, seul dans ce naufrage.
+
+769
+01:25:33,440 --> 01:25:43,980
+Pour la première fois depuis qu’elle m’avait quitté, je tombai à genoux, je cachai ma tête dans mes mains, je pleurai comme pleurent les femmes.
+
+770
+01:25:43,980 --> 01:25:47,040
+La fin était proche.
+
+771
+01:25:48,260 --> 01:26:04,410
+On massacra les otages, on mit le feu à Paris, il se passa des choses monstrueuses dont vous vous rendez compte mieux que moi qui étais au milieu de la tourmente, et des flammes, et de l’ignorance, et du carnage, trop près de tout cela pour pouvoir rien juger.
+
+772
+01:26:04,410 --> 01:26:13,580
+Du jour où l’on massacra les prêtres, je ne servis plus la commune ; mais je savais qu’elle périrait, et à cause de cela je ne désertai pas.
+
+773
+01:26:13,580 --> 01:26:21,390
+Bien d’autres ont comme moi abhorré les derniers excès commis par le peuple sans le renier cependant au jour de sa défaite.
+
+774
+01:26:21,390 --> 01:26:27,420
+Je ne me battis ni pour ni contre lui ; je sortis dans la rue et je regardai.
+
+775
+01:26:27,420 --> 01:26:33,400
+C’était l’enfer ; le ciel était noir, tout le reste illuminé par le feu.
+
+776
+01:26:33,400 --> 01:26:44,570
+Les Versaillais se répandirent comme un flot, j’ignore pendant combien d’heures ou de jours ; cela me fit l’effet d’une nuit interminable qu’éclairaient les flammes éternelles.
+
+777
+01:26:44,570 --> 01:26:58,080
+Des enfants couraient, l’incendie à la main ; des femmes noires de poudre, échevelées, la poitrine nue, semblables à autant de furies, vociféraient et maudissaient jusqu’à ce qu’une balle les renversât sur le pavé.
+
+778
+01:26:58,080 --> 01:27:07,300
+Des fenêtres, des toits, le peuple tirait sur les soldats, les soldats répondaient en donnant l’assaut aux maisons et en jetant des cadavres par les fenêtres.
+
+779
+01:27:07,300 --> 01:27:10,930
+Vous savez tout cela ; inutile de vous le raconter.
+
+780
+01:27:10,930 --> 01:27:18,370
+Ce qui vous paraîtra étrange, c’est que je pensais à mon lilas, et que j’allai voir ce qu’il devenait.
+
+781
+01:27:18,370 --> 01:27:34,110
+Les rues voisines brûlaient, une lutte acharnée avait eu lieu dans le jardin, où nombre de morts gisaient baignés de sang ; mais il était toujours debout, ses grappes odorantes et son frais feuillage se balançaient dans l’air infecté.
+
+782
+01:27:34,110 --> 01:27:40,750
+Je m’assis sur un tas de bois de charpente qui avait écrasé l’herbe au pied de l’arbuste, et j’attendis.
+
+783
+01:27:40,750 --> 01:27:42,660
+Je n’avais rien à faire.
+
+784
+01:27:42,660 --> 01:27:54,220
+Tandis que j’étais là, un officier, son sabre nu à la main, descendit rapidement la rue fumante en jetant autour de lui des regards inquiets, comme s’il eût perdu son chemin ou ses hommes.
+
+785
+01:27:54,220 --> 01:27:58,430
+Son uniforme était déchiré, poudreux, couvert de sang.
+
+786
+01:27:58,430 --> 01:28:03,300
+Quand les flammes éclairèrent son visage, je jetai un cri de joie.
+
+787
+01:28:03,300 --> 01:28:05,310
+Dieu me l’avait livré.
+
+788
+01:28:05,310 --> 01:28:09,020
+Nous mettons toujours nos crimes sur le compte de Dieu.
+
+789
+01:28:09,020 --> 01:28:12,620
+Je me dressai et lui barrai le passage : — Enfin !
+
+790
+01:28:12,620 --> 01:28:14,470
+lui dis-je, enfin !
+
+791
+01:28:14,470 --> 01:28:21,710
+Il s’arrêta et me regarda stupéfait ; sans doute j’avais changé, moi, et il ne reconnaissait point mes traits.
+
+792
+01:28:21,710 --> 01:28:24,110
+Je ne lui donnai pas le temps de respirer.
+
+793
+01:28:24,110 --> 01:28:29,980
+Tirant mon épée, je me jetai sur lui : — Défends-toi, lui dis-je avant de le toucher.
+
+794
+01:28:29,980 --> 01:28:36,360
+Nous nous battrions jusqu’à la mort, cela, je le jurais, mais loyalement, homme contre homme.
+
+795
+01:28:36,360 --> 01:28:38,790
+Quand je parlai, il me reconnut.
+
+796
+01:28:38,790 --> 01:28:39,900
+Il était brave.
+
+797
+01:28:39,900 --> 01:28:44,180
+Il n’appela pas ses camarades, il accepta le combat comme je l’offrais.
+
+798
+01:28:44,180 --> 01:28:47,360
+Tombant en garde : — Je suis prêt, dit-il.
+
+799
+01:28:47,360 --> 01:28:53,960
+Le feu nous environnait de tous côtés, les morts étaient nos seuls témoins ; le petit lilas se berçait au vent.
+
+800
+01:28:53,960 --> 01:28:58,540
+Nos épées se croisèrent une dizaine de fois, puis il tomba.
+
+801
+01:28:58,540 --> 01:29:01,740
+Son corps se ploya tel qu’une branche brisée.
+
+802
+01:29:01,740 --> 01:29:03,980
+L’acier avait percé sa poitrine.
+
+803
+01:29:03,980 --> 01:29:05,310
+J’étais vengé.
+
+804
+01:29:05,310 --> 01:29:08,380
+Ce fut un combat loyal d’homme à homme.
+
+805
+01:29:08,380 --> 01:29:23,300
+Il me regarda en s’affaissant sur le pavé, un sourire étrange effleura ses lèvres : — Vous étiez vengé déjà, murmura-t-il lentement, et chaque mot, chaque souffle passait avec effort.
+
+806
+01:29:23,300 --> 01:29:25,040
+Ne le saviez-vous pas ?
+
+807
+01:29:25,040 --> 01:29:35,240
+Elle m’a trahi l’automne dernier… Elle avait un amant parmi les Prussiens, un plus grand personnage que moi. — Un flot de sang l’étouffa.
+
+808
+01:29:35,240 --> 01:29:42,870
+Il demeura silencieux, appuyé sur une de ses mains, le reflet des flammes sinistres se jouant sur son visage.
+
+809
+01:29:42,870 --> 01:29:47,430
+Tout à coup la rue se remplit de soldats, les siens.
+
+810
+01:29:47,430 --> 01:29:56,820
+Ils m’entourèrent pour le venger, mais le dernier geste qu’il fit les écarta : — Ne le touchez pas, dit-il tout haut, c’est moi qui l’ai offensé.
+
+811
+01:29:56,820 --> 01:29:59,000
+Le duel était régulier.
+
+812
+01:29:59,000 --> 01:30:04,670
+Comme il parlait encore, un frisson le secoua de la tête aux pieds et il mourut.
+
+813
+01:30:04,670 --> 01:30:14,490
+Ses cheveux trempaient dans le sang répandu à cette place, une pâleur grise couvrit son visage ; dans cet état même, il était beau.
+
+814
+01:30:14,490 --> 01:30:18,430
+Je ne bougeai pas ; je restai debout, le contemplant.
+
+815
+01:30:18,430 --> 01:30:21,500
+Ma haine s’était éteinte avec cette jeune vie.
+
+816
+01:30:21,500 --> 01:30:23,510
+Je le plaignais passionnément.
+
+817
+01:30:23,510 --> 01:30:26,620
+Périr tous deux pour une cause si vile !
+
+818
+01:30:26,620 --> 01:30:31,620
+Bien entendu, on ne tint pas compte de ses ordres ; on m’arrêta, je ne résistai pas.
+
+819
+01:30:31,620 --> 01:30:34,710
+J’avais brisé mon épée, que je jetai près du cadavre.
+
+820
+01:30:34,710 --> 01:30:37,850
+Elle avait atteint son but, je n’avais plus besoin d’elle.
+
+821
+01:30:37,850 --> 01:30:43,540
+On m’a amené ici, on m’a jugé, paraît-il, et demain on me fusille.
+
+822
+01:30:43,540 --> 01:30:45,980
+Je suis aise que ce soit fini.
+
+823
+01:30:45,980 --> 01:30:57,070
+Si vous demandez une grâce pour moi, ne demandez que celle-ci : que les soldats qui me tueront ne soient pas les mêmes hommes avec qui j’ai si longtemps combattu pour la France.
+
+824
+01:30:57,070 --> 01:31:03,500
+Et quand on me jettera dans la fosse commune, qu’on enterre avec moi cette branche de lilas.
+
+825
+01:31:03,500 --> 01:31:06,420
+Elle ne vaut plus rien,… elle est morte.
+
+826
+01:31:06,420 --> 01:31:08,000
+Ouida.
+
+827
+01:31:08,000 --> 01:31:10,730
+Fin
+de la
+Section trois
+
+828
+01:31:10,730 --> 01:31:15,320
+Fin
+de
+La branche de lilas
+par
+Ouida
+
+829
+01:31:19,400 --> 01:31:20,400
+
+
