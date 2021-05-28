@@ -11,7 +11,7 @@
         }
       ],
       "copyright_year": "1905",
-      "description": "Ali Baba vindt een schat van roovers en neemt een deel van de schat weg. Uiteraard willen de roovers wraak nemen. - Summary by Marcel Coenders",
+      "description": "Ali Baba vindt een schat van rovers en neemt een deel van de schat weg. Uiteraard willen de rovers wraak nemen. - Summary by Marcel Coenders",
       "genres": [
         {
           "id": "37",
@@ -25,7 +25,6 @@
         {
           "file_name": "alibaba_01_anoniem_64kb.mp3",
           "id": "323764",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/alibaba_01_64kb.mp3",
           "playtime": "1545",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "alibaba_02_anoniem_64kb.mp3",
           "id": "323765",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/alibaba_02_64kb.mp3",
           "playtime": "1596",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "alibaba_03_anoniem_64kb.mp3",
           "id": "323766",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/alibaba_03_64kb.mp3",
           "playtime": "1974",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "alibaba_04_anoniem_64kb.mp3",
           "id": "323767",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/carolin/alibaba_04_64kb.mp3",
           "playtime": "1620",
           "readers": [
@@ -83,7 +79,7 @@
           "title": "Deel 4"
         }
       ],
-      "title": "Ali Baba en de veertig roovers",
+      "title": "Ali Baba en de veertig rovers",
       "totaltime": "01:52:15",
       "totaltimesecs": 6735,
       "translators": [
