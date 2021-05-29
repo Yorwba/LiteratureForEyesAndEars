@@ -1,0 +1,219 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "1840",
+          "dod": "1922",
+          "first_name": "Giovanni",
+          "id": "1924",
+          "last_name": "Verga"
+        }
+      ],
+      "copyright_year": "1875",
+      "description": "Un insolito «giallo» gotico, che rivela un Verga diverso e un'opera dissonante dalle sue più note.  A mo’ di giallo si leggono storie “speculari” che, ambientate nel castello in rovina, procedono dal fantastico al tragico fino a lasciare numerosi interrogativi la cui risposta è affidata ai lettori. Ecco appena una sintesi. Matilde, il signor Giordano, suo marito, Luciano e la signora Olani – figura appena accennata - fanno parte di un’allegra brigata di turisti e sono immersi in un’atmosfera di misteriose energie: “il lume della lampada notturna che guizza sulle immense pareti e vi disegna fantasmi e paure”, “il vento che urla come uno spirito maligno nella gola del camino”, il muggito del mare “come un gemito soffocato dall’abisso” e le ombre che sorgono “da tutte le profondità delle rovine e del precipizio”.<br>\r\nÈ Luciano a raccontare l’episodio medievaleggiante, tanto strano, del barone don Garzia d’Arvelo e della sua seconda moglie Isabella: - Summary by FrancescaRoma",
+      "genres": [
+        {
+          "id": "20",
+          "name": "Literary Fiction"
+        }
+      ],
+      "id": "16421",
+      "language": "Italian",
+      "num_sections": "12",
+      "sections": [
+        {
+          "file_name": "lestoriedelcastelloditrezza_01_verga_64kb.mp3",
+          "id": "531898",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_01_verga_128kb_.mp3",
+          "playtime": "534",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "1",
+          "title": "Capitolo I"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_02_verga_64kb.mp3",
+          "id": "531899",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_02_verga_64kb.mp3",
+          "playtime": "1546",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "2",
+          "title": "Capitolo II"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_03_verga_64kb.mp3",
+          "id": "531900",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_03_verga_64kb.mp3",
+          "playtime": "686",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "3",
+          "title": "Capitolo III"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_04_verga_64kb.mp3",
+          "id": "531901",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_04_verga_64kb.mp3",
+          "playtime": "720",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "4",
+          "title": "Capitolo IV"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_05_verga_64kb.mp3",
+          "id": "531902",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_05_verga_64kb.mp3",
+          "playtime": "169",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "5",
+          "title": "Capitolo V"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_06_verga_64kb.mp3",
+          "id": "531903",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_06_verga_64kb.mp3",
+          "playtime": "482",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "6",
+          "title": "Capitolo VI"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_07_verga_64kb.mp3",
+          "id": "531904",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_07_verga_64kb.mp3",
+          "playtime": "711",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "7",
+          "title": "Capitolo VII"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_08_verga_64kb.mp3",
+          "id": "531905",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_08_verga_64kb.mp3",
+          "playtime": "744",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "8",
+          "title": "Capitolo VIII"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_09_verga_64kb.mp3",
+          "id": "531906",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_09_verga_64kb.mp3",
+          "playtime": "310",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "9",
+          "title": "Capitolo IX"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_10_verga_64kb.mp3",
+          "id": "531907",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_10_verga_64kb.mp3",
+          "playtime": "439",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "10",
+          "title": "Capitolo X"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_11_verga_64kb.mp3",
+          "id": "531908",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_11_verga_64kb.mp3",
+          "playtime": "209",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "11",
+          "title": "Capitolo XI"
+        },
+        {
+          "file_name": "lestoriedelcastelloditrezza_12_verga_64kb.mp3",
+          "id": "531909",
+          "language": "English",
+          "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_12_verga_64kb.mp3",
+          "playtime": "174",
+          "readers": [
+            {
+              "display_name": "Francesca Roma",
+              "reader_id": "15738"
+            }
+          ],
+          "section_number": "12",
+          "title": "Capitolo XII"
+        }
+      ],
+      "title": "storie del castello di Trezza",
+      "totaltime": "01:52:04",
+      "totaltimesecs": 6724,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/storie_del_castelloditrezza_2104_librivox",
+      "url_librivox": "https://librivox.org/le-storie-del-castello-di-trezza-by-giovanni-verga/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/16421",
+      "url_text_source": "https://archive.org/details/novelleverga00verguoft/page/160/mode/2up",
+      "url_zip_file": "http://www.archive.org/download//storie_del_castelloditrezza_2104_librivox/storie_del_castelloditrezza_2104_librivox_64kb_mp3.zip"
+    }
+  ]
+}
