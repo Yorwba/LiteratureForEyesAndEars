@@ -25,7 +25,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_01_verga_64kb.mp3",
           "id": "531898",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_01_verga_128kb_.mp3",
           "playtime": "534",
           "readers": [
@@ -40,7 +39,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_02_verga_64kb.mp3",
           "id": "531899",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_02_verga_64kb.mp3",
           "playtime": "1546",
           "readers": [
@@ -55,7 +53,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_03_verga_64kb.mp3",
           "id": "531900",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_03_verga_64kb.mp3",
           "playtime": "686",
           "readers": [
@@ -70,7 +67,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_04_verga_64kb.mp3",
           "id": "531901",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_04_verga_64kb.mp3",
           "playtime": "720",
           "readers": [
@@ -85,7 +81,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_05_verga_64kb.mp3",
           "id": "531902",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_05_verga_64kb.mp3",
           "playtime": "169",
           "readers": [
@@ -100,7 +95,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_06_verga_64kb.mp3",
           "id": "531903",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_06_verga_64kb.mp3",
           "playtime": "482",
           "readers": [
@@ -115,7 +109,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_07_verga_64kb.mp3",
           "id": "531904",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_07_verga_64kb.mp3",
           "playtime": "711",
           "readers": [
@@ -130,7 +123,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_08_verga_64kb.mp3",
           "id": "531905",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_08_verga_64kb.mp3",
           "playtime": "744",
           "readers": [
@@ -145,7 +137,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_09_verga_64kb.mp3",
           "id": "531906",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_09_verga_64kb.mp3",
           "playtime": "310",
           "readers": [
@@ -160,7 +151,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_10_verga_64kb.mp3",
           "id": "531907",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_10_verga_64kb.mp3",
           "playtime": "439",
           "readers": [
@@ -175,7 +165,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_11_verga_64kb.mp3",
           "id": "531908",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_11_verga_64kb.mp3",
           "playtime": "209",
           "readers": [
@@ -190,7 +179,6 @@
         {
           "file_name": "lestoriedelcastelloditrezza_12_verga_64kb.mp3",
           "id": "531909",
-          "language": "English",
           "listen_url": "https://librivox.org/uploads/triciag/lestoriedelcastelloditrezza_12_verga_64kb.mp3",
           "playtime": "174",
           "readers": [
@@ -203,7 +191,7 @@
           "title": "Capitolo XII"
         }
       ],
-      "title": "storie del castello di Trezza",
+      "title": "Le storie del castello di Trezza",
       "totaltime": "01:52:04",
       "totaltimesecs": 6724,
       "translators": [],
@@ -212,7 +200,7 @@
       "url_other": "",
       "url_project": "",
       "url_rss": "https://librivox.org/rss/16421",
-      "url_text_source": "https://archive.org/details/novelleverga00verguoft/page/160/mode/2up",
+      "url_text_source": "https://it.wikisource.org/wiki/Le_storie_del_castello_di_Trezza",
       "url_zip_file": "http://www.archive.org/download//storie_del_castelloditrezza_2104_librivox/storie_del_castelloditrezza_2104_librivox_64kb_mp3.zip"
     }
   ]
