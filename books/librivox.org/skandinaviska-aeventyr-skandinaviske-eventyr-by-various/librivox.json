@@ -23,6 +23,16 @@
       "num_sections": "10",
       "sections": [
         {
+          "authors": [
+            {
+              "dob": "1805",
+              "dod": "1875",
+              "first_name": "Hans Christian",
+              "id": "122",
+              "last_name": "Andersen"
+            }
+          ],
+          "description": "",
           "file_name": "skandinaviskaeventyr_01_various_64kb.mp3",
           "id": "271420",
           "language": "Swedish",
@@ -35,7 +45,8 @@
             }
           ],
           "section_number": "1",
-          "title": "Elddonet"
+          "title": "Elddonet",
+          "url_text_source": "http://runeberg.org/hcasob/1/0003.html"
         },
         {
           "authors": [
