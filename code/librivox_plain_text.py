@@ -233,12 +233,12 @@ def runeberg_plain_text(url):
     split_url = urllib.parse.urlsplit(url)
     if not split_url.netloc.endswith('runeberg.org'):
         raise Exception("Not a Runeberg.org URL: "+url)
-    work = split_url.path.split('/')[1]
+    work = '/'.join(split_url.path.split('/')[:-1]).lstrip('/')
     zip_file = 'http://runeberg.org/download.pl?mode=html&work='+work
     text = try_get(zip_file)
     if '<b>Fel!</b>' in text:
         ocr_file = 'http://runeberg.org/download.pl?mode=ocrtext&work='+work
-        text = try_get(ocr_file)
+        text = html_to_plain_text(try_get(ocr_file))
     return text
 
 
