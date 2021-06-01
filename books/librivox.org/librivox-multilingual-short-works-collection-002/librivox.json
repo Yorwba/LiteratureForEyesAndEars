@@ -1,0 +1,355 @@
+{
+  "books": [
+    {
+      "authors": [
+        {
+          "dob": "",
+          "dod": "",
+          "first_name": "",
+          "id": "18",
+          "last_name": "Various"
+        }
+      ],
+      "copyright_year": "0",
+      "description": "This is a collection of short pieces, poetry or prose, fiction and non-fiction, in several different languages. All chosen and recorded by LibriVox volunteers. <BR><BR>\n\nBrief description of the contributions:<br />\n01 - Bisaya - Ang mga Mahadlokon [1921]: prose, scaredy cats, talawan nga ulitawo, simbang gabi<br />\n02 - Japanese - Trokko [1922]: prose, fiction, young adult<br />\n03 - Spanish - Día de bronca [1912]: poetry, lunfardo, slang, argot, love affair, anger, betrayal, unfaithfulness<BR />\n04 - Japanese - Matsu [1942]: prose, fiction, monologue, I wait, young lady<br />\n05 - Polish - Moja pierwsza bitwa. Opowiadanie sierżanta: prose; short story; proza; opowiadanie; powstanie listopadowe<br />\n06 - Portuguese - A Aia [1902]: prose, fiction, war, death, tragedy<br />\n07 - Tagalog - Pahimakas [1898] (translated from the Spanish by Hermenegildo Cruz): poetry, Mi Ultimo Adios, oil lamp, Huling Paalam<br />\n08 - German - Die berühmte Frau [1788]: poetry<br />\n09 - Japanese - Oka no ie [1921]: prose, fiction , children, hill, house<br />\n10 - Japanese - Sakurano kino shitaniwa [1928]: prose, fiction, monologue, cherry tree<br />\n11 - Japanese - Ichyono mi: prose, fiction, children, ginkgo tree<br />\n12 - German - Wahrhaftig: poetry, spring, nature<br />\n13 - Japanese - Hitofusano budou [1920]: prose, fiction, young adult, school<br />\n14 - Swedish - Önskenatt [1922]: poetry<br />\n15 - Japanese - Sakazuki [1910]: prose, fiction, winecup, spring<br />\n16 - Japanese - Okashino daibutoukai [1923]: prose, fiction, children, sweets<br />\n17 - Polish - Dziad i Baba: short story, fable, moral, devil, greed<br />\n18 - German - Auch ein Gedicht? [1864]: humorous nonsense impromtu poem as outcome of a lost bet<br />\n19 - Japanese - Yabuno naka [1922]: prose, fiction, mystery<br />\n20 - Dutch - Doodgaan [1888]: poetry, death",
+      "genres": [
+        {
+          "id": "25",
+          "name": "Poetry"
+        },
+        {
+          "id": "75",
+          "name": "Anthologies"
+        }
+      ],
+      "id": "6701",
+      "language": "Multilingual",
+      "num_sections": "20",
+      "sections": [
+        {
+          "file_name": null,
+          "id": "97468",
+          "language": "Bisaya/Cebuano",
+          "listen_url": "",
+          "playtime": "198",
+          "readers": [
+            {
+              "display_name": "April Gonzales",
+              "reader_id": "7171"
+            }
+          ],
+          "section_number": "1",
+          "title": "Ang mga Mahadlokon"
+        },
+        {
+          "file_name": null,
+          "id": "97469",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "755",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "2",
+          "title": "Trokko"
+        },
+        {
+          "file_name": null,
+          "id": "97470",
+          "language": "Spanish",
+          "listen_url": "",
+          "playtime": "176",
+          "readers": [
+            {
+              "display_name": "AnabelleC",
+              "reader_id": "7331"
+            }
+          ],
+          "section_number": "3",
+          "title": "Día de bronca"
+        },
+        {
+          "file_name": null,
+          "id": "97471",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "354",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "4",
+          "title": "Matsu"
+        },
+        {
+          "file_name": null,
+          "id": "97472",
+          "language": "Polish",
+          "listen_url": "",
+          "playtime": "1172",
+          "readers": [
+            {
+              "display_name": "Piotr Nater",
+              "reader_id": "6892"
+            }
+          ],
+          "section_number": "5",
+          "title": "Moja pierwsza bitwa. Opowiadanie sierżanta"
+        },
+        {
+          "authors": [
+            {
+              "dob": "1845",
+              "dod": "1900",
+              "first_name": "José Maria de",
+              "id": "3094",
+              "last_name": "Eça de Queirós"
+            }
+          ],
+          "description": "",
+          "file_name": "msw002_06_aaia_queiros_amp_64kb.mp3",
+          "genres": [],
+          "id": "97473",
+          "language": "Portuguese",
+          "listen_url": "",
+          "playtime": "691",
+          "readers": [
+            {
+              "display_name": "Ana Margarida Pinho",
+              "reader_id": "7382"
+            }
+          ],
+          "section_number": "6",
+          "title": "A Aia",
+          "url_text_source": "http://www.gutenberg.org/ebooks/31347"
+        },
+        {
+          "file_name": null,
+          "id": "97474",
+          "language": "Tagalog",
+          "listen_url": "",
+          "playtime": "350",
+          "readers": [
+            {
+              "display_name": "April Gonzales",
+              "reader_id": "7171"
+            }
+          ],
+          "section_number": "7",
+          "title": "Pahimakas"
+        },
+        {
+          "file_name": null,
+          "id": "97475",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "763",
+          "readers": [
+            {
+              "display_name": "redaer",
+              "reader_id": "2422"
+            }
+          ],
+          "section_number": "8",
+          "title": "Die berühmte Frau"
+        },
+        {
+          "file_name": null,
+          "id": "97476",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "441",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "9",
+          "title": "Oka no ie"
+        },
+        {
+          "file_name": null,
+          "id": "97477",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "311",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "10",
+          "title": "Sakurano kino shitaniwa"
+        },
+        {
+          "file_name": null,
+          "id": "97478",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "428",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "11",
+          "title": "Ichyono mi"
+        },
+        {
+          "file_name": null,
+          "id": "97479",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "49",
+          "readers": [
+            {
+              "display_name": "Verity Kendall",
+              "reader_id": "7130"
+            }
+          ],
+          "section_number": "12",
+          "title": "Wahrhaftig"
+        },
+        {
+          "file_name": null,
+          "id": "97480",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "1032",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "13",
+          "title": "Hitofusano budou"
+        },
+        {
+          "file_name": null,
+          "id": "97481",
+          "language": "Swedish",
+          "listen_url": "",
+          "playtime": "58",
+          "readers": [
+            {
+              "display_name": "Petra",
+              "reader_id": "2909"
+            }
+          ],
+          "section_number": "14",
+          "title": "Önskenatt"
+        },
+        {
+          "file_name": null,
+          "id": "97482",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "452",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "15",
+          "title": "Sakazuki"
+        },
+        {
+          "file_name": null,
+          "id": "97483",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "424",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "16",
+          "title": "Okashino daibutoukai"
+        },
+        {
+          "file_name": null,
+          "id": "97484",
+          "language": "Polish",
+          "listen_url": "",
+          "playtime": "1142",
+          "readers": [
+            {
+              "display_name": "Nina Brown",
+              "reader_id": "7014"
+            }
+          ],
+          "section_number": "17",
+          "title": "Dziad i Baba"
+        },
+        {
+          "file_name": null,
+          "id": "97485",
+          "language": "German",
+          "listen_url": "",
+          "playtime": "70",
+          "readers": [
+            {
+              "display_name": "bettine",
+              "reader_id": "7328"
+            }
+          ],
+          "section_number": "18",
+          "title": "Auch ein Gedicht?"
+        },
+        {
+          "file_name": null,
+          "id": "97486",
+          "language": "Japanese",
+          "listen_url": "",
+          "playtime": "1461",
+          "readers": [
+            {
+              "display_name": "ekzemplaro",
+              "reader_id": "7044"
+            }
+          ],
+          "section_number": "19",
+          "title": "Yabuno naka"
+        },
+        {
+          "file_name": null,
+          "id": "97487",
+          "language": "Dutch",
+          "listen_url": "",
+          "playtime": "72",
+          "readers": [
+            {
+              "display_name": "Anna Simon",
+              "reader_id": "1724"
+            }
+          ],
+          "section_number": "20",
+          "title": "Doodgaan"
+        }
+      ],
+      "title": "Librivox Multilingual Short Works Collection 002",
+      "totaltime": "2:53:19",
+      "totaltimesecs": 10399,
+      "translators": [],
+      "url_iarchive": "http://archive.org/details/multilingual_shortworks_002_librivox",
+      "url_librivox": "https://librivox.org/librivox-multilingual-short-works-collection-002/",
+      "url_other": "",
+      "url_project": "",
+      "url_rss": "https://librivox.org/rss/6701",
+      "url_text_source": "",
+      "url_zip_file": "http://www.archive.org/download/multilingual_shortworks_002_librivox/multilingual_shortworks_002_librivox_64kb_mp3.zip"
+    }
+  ]
+}
