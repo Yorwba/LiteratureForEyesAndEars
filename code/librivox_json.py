@@ -43,9 +43,17 @@ def get_books(path):
         if len(slangs) > 1:
             b['language'] = 'Multilingual'
 
-    # find section matching file name
-    if not path.endswith('.json'):
-        filename = path.split('/')[-1].split('.')[0]
+    path_dir, path_file = os.path.split(path)
+    if path_file.endswith('.json'):
+        for b in books:
+            b['lfeae_path'] = os.path.join(path_dir, 'joined')
+            for s in b.get('sections', []):
+                if s['file_name']:
+                    s['lfeae_path'] = os.path.join(path_dir, 'files', os.path.splitext(s['file_name'])[0])
+
+    else:
+        # find section matching file name
+        filename = path_file.split('.')[0]
         if filename:
             sections = []
             for b in books:
@@ -53,6 +61,7 @@ def get_books(path):
                     if filename in (s['file_name'] or ''):
                         s = s.copy()
                         s['sections'] = [s]
+                        s['lfeae_path'] = os.path.join(path_dir, filename)
                         for k, v in b.items():
                             if k not in s:
                                 s[k] = v
