@@ -1,5 +1,20 @@
-.PHONY: books/librivox.org/%.split_paragraphs
+.PHONY: setup books/librivox.org/%.split_paragraphs
 .SECONDARY:
+
+VENV_PY := virtualenv/bin/python
+VENV_PIP := $(VENV_PY) -m pip
+
+$(VENV_PY):
+	python3 -m venv virtualenv
+	$(VENV_PIP) install wheel
+
+setup: $(VENV_PY)
+	$(VENV_PIP) install -r requirements.txt
+
+requirements.lock: requirements.txt $(VENV_PY)
+	echo > "$@" # empty constraints
+	$(VENV_PIP) install --upgrade -r "$<"
+	$(VENV_PIP) freeze > "$@"
 
 assets/background_full_hd.png: assets/CC0_button.png assets/logo.png
 	convert -size 1920x1080 xc:black \
