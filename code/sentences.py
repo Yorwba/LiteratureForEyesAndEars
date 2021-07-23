@@ -259,6 +259,12 @@ class Tokenizer(object):
                 break
             i, j = next
 
+    def tokentree(self, sentence):
+        def tree(token):
+            return (token, tuple(map(tree, self.pair_parts.get(token, ()))))
+        for token in self.tokens(sentence):
+            yield tree(token)
+
 
 def main(argv):
     lang = argv[2]
@@ -288,7 +294,11 @@ def main(argv):
     homogenized_sentences = sorted(set(map(homogenize, sentences)))
     tokenizer = Tokenizer(homogenized_sentences)
     for s in sentences:
-        print(json.dumps({'text': s, 'tokens': list(tokenizer.tokens(homogenize(s)))}))
+        print(json.dumps({
+            'text': s,
+            'tokens': list(tokenizer.tokens(homogenize(s))),
+            'tokentree': list(tokenizer.tokentree(homogenize(s))),
+        }))
 
 
 if __name__ == '__main__':
