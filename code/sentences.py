@@ -2,7 +2,7 @@
 
 import align_json
 import csv
-from collections import Counter
+from collections import defaultdict, Counter
 import json
 import librivox_json
 from pqdict import maxpq
@@ -126,6 +126,8 @@ class Tokenizer(object):
         self.same_prev = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
         self.same_next = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
         self.token_counts = Counter()
+        self.total_tokens = 0
+        self.token_pairs = defaultdict(set)
         self.pair_parts = dict()
         self.pair_counts = Counter()
         self.pair_first = dict()
@@ -134,12 +136,15 @@ class Tokenizer(object):
         prev_i, prev_j = None, None
         for i, s in enumerate(sentences):
             self.token_counts.update(s)
+            self.total_tokens += len(s)
             for j in range(len(s) - 1):
                 if prev_i is not None:
                     self.seq_prev[i][j] = (prev_i, prev_j)
                     self.seq_next[prev_i][prev_j] = (i, j)
                 self.end_at[i][j] = j+2
                 pair = s[j:j+2]
+                for token in pair:
+                    self.token_pairs[token].add(pair)
                 self.pair_parts[pair] = tuple(pair)
                 self.pair_counts[pair] += 1
                 if pair not in self.pair_first:
@@ -152,13 +157,32 @@ class Tokenizer(object):
                     self.pair_last[pair] = (i, j)
                 prev_i, prev_j = (i, j)
 
-        self.pair_counts = maxpq(self.pair_counts)
+        self.touched_tokens = set(self.token_counts)
+        self.pair_scores = maxpq()
 
         while True:
-            common_pair, common_count = self.pair_counts.topitem()
-            if common_count <= 1:
+            touched_pairs = set()
+            for token in self.touched_tokens:
+                touched_pairs.update(self.token_pairs[token])
+            self.touched_tokens = set()
+            for pair in touched_pairs:
+                left, right = self.pair_parts[pair]
+                count = self.pair_counts[pair]
+                left_count = self.token_counts[left]
+                right_count = self.token_counts[right]
+                # Following http://arxiv.org/abs/1406.6312 , score pairs using
+                # the t-statistic for deviation from independent pairing, with
+                # the variance approximated by the observed count. (Valid for
+                # total_tokens >> count)
+                self.pair_scores[pair] = (count - left_count*right_count/self.total_tokens)/(count ** 0.5)
+                # In theory, all scores should be recalculated as total_tokens
+                # decreases, but invalidating only pairs whose token_counts
+                # changed seems reasonable enough.
+
+            best_pair, best_score = self.pair_scores.topitem()
+            if best_score <= 2: # TODO threshold may need adjustment
                 break
-            self.join_pair(common_pair)
+            self.join_pair(best_pair)
 
     def _remove_pair_at(self, i, j):
         end = self.end_at[i][j]
@@ -187,7 +211,13 @@ class Tokenizer(object):
         self.same_next[i][j] = None
         self.pair_counts[text] -= 1
         if self.pair_counts[text] == 0:
+            for token in set(self.pair_parts[text]):
+                self.token_pairs[token].remove(text)
             del self.pair_counts[text]
+            if text in self.pair_scores:
+                # The check is necessary because the pair might've been created
+                # in a merge just now, which means it won't have been scored yet.
+                del self.pair_scores[text]
         if self.pair_first.get(text) == (i, j):
             self.pair_first[text] = same_next
         if self.pair_last.get(text) == (i, j):
@@ -210,8 +240,11 @@ class Tokenizer(object):
         self.end_at[new_i][new_j] = new_end
         sentence = self.sentences[new_i]
         text = sentence[new_j:new_end]
-        self.pair_parts[text] = sentence[new_j:old_end], sentence[old_end:new_end]
-        self.pair_counts[text] = self.pair_counts.get(text, 0) + 1
+        tokens = sentence[new_j:old_end], sentence[old_end:new_end]
+        for token in tokens:
+            self.token_pairs[token].add(text)
+        self.pair_parts[text] = tokens
+        self.pair_counts[text] += 1
         if self.pair_first.get(text) is None:
             self.pair_first[text] = (new_i, new_j)
             self.pair_last[text] = (new_i, new_j)
@@ -244,9 +277,16 @@ class Tokenizer(object):
                 next_i, next_j = next
                 next_end = self.end_at[next_i][next_j]
                 self._replace_pair_at(next_i, next_j, i, j, end, next_end)
-        self.token_counts[left] -= count
-        self.token_counts[right] -= count
+        for token in left, right:
+            self.token_counts[token] -= count
+            if self.token_counts[token] == 0:
+                del self.token_counts[token]
+                del self.token_pairs[token]
+            else:
+                self.touched_tokens.add(token)
         self.token_counts[pair] += count
+        self.touched_tokens.add(pair)
+        self.total_tokens -= count
 
     def tokens(self, sentence):
         i = start_i = self.sentence_id[sentence]
