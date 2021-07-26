@@ -110,8 +110,7 @@ def clean_formatting(sentence, lang):
 
 def homogenize(sentence):
     words = list(w.lower() for w in WORD.findall(sentence))
-    words.append('') # ensure every word is followed by a space
-    return ' '.join(words)
+    return '['+']['.join(words)+']'
 
 
 class Tokenizer(object):
