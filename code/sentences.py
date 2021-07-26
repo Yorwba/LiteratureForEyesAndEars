@@ -125,6 +125,7 @@ class Tokenizer(object):
         self.seq_next = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
         self.same_prev = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
         self.same_next = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
+        self.token_counts = Counter()
         self.pair_parts = dict()
         self.pair_counts = Counter()
         self.pair_first = dict()
@@ -132,6 +133,7 @@ class Tokenizer(object):
 
         prev_i, prev_j = None, None
         for i, s in enumerate(sentences):
+            self.token_counts.update(s)
             for j in range(len(s) - 1):
                 if prev_i is not None:
                     self.seq_prev[i][j] = (prev_i, prev_j)
@@ -220,8 +222,11 @@ class Tokenizer(object):
             self.pair_last[text] = (new_i, new_j)
 
     def join_pair(self, pair):
+        left, right = self.pair_parts[pair]
+        count = 0
         position = self.pair_first.get(pair)
         while position:
+            count += 1
             i, j = position
             end = self.end_at[i][j]
             prev = self.seq_prev[i][j]
@@ -239,6 +244,9 @@ class Tokenizer(object):
                 next_i, next_j = next
                 next_end = self.end_at[next_i][next_j]
                 self._replace_pair_at(next_i, next_j, i, j, end, next_end)
+        self.token_counts[left] -= count
+        self.token_counts[right] -= count
+        self.token_counts[pair] += count
 
     def tokens(self, sentence):
         i = start_i = self.sentence_id[sentence]
