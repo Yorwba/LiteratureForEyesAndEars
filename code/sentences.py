@@ -179,7 +179,7 @@ class Tokenizer(object):
                 # changed seems reasonable enough.
 
             best_pair, best_score = self.pair_scores.topitem()
-            if best_score <= 2: # TODO threshold may need adjustment
+            if best_score <= 1: # TODO threshold may need adjustment
                 break
             self.join_pair(best_pair)
 
