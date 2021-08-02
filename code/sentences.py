@@ -5,7 +5,7 @@ import csv
 from collections import defaultdict, Counter
 import json
 import librivox_json
-from pqdict import maxpq
+from pqdict import maxpq, minpq
 import re
 import sys
 
@@ -313,6 +313,57 @@ class Tokenizer(object):
             yield tree(token)
 
 
+def curriculum(sentences):
+    sentences = list(sentences)
+    vocabulary = set()
+    chosen = []
+    token_count = Counter(t for s in sentences for t in s['tokens'])
+    length_count = Counter(len(s['tokens']) for s in sentences)
+    token_sentences = defaultdict(set)
+    for i, s in enumerate(sentences):
+        for t in s['tokens']:
+            token_sentences[t].add(i)
+
+    def sentence_key(sentence):
+        new_tokens = set(sentence['tokens']) - vocabulary
+        if not new_tokens:
+            return None
+        token_keys = sorted(
+            (token_count[t], hash(t), t) # smallest count first, break ties
+            for t in new_tokens
+        )
+        return (
+            [-c for c, h, t in token_keys], # biggest smallest count first
+            [(h, t) for c, h, t in token_keys], # break ties when number and counts of unknown tokens are the same
+            -length_count[len(sentence['tokens'])], # if unknown tokens are the same, pick something with a more common length
+        )
+
+    learnq = minpq()
+    for i, s in enumerate(sentences):
+        learnq[i] = sentence_key(s)
+
+    while learnq:
+        i, key = learnq.topitem()
+        if key[0][0] >= -1: # stop at the first hapax legomenon
+            break
+        s = sentences[i]
+        chosen.append(s)
+        new_tokens = set(s['tokens']) - vocabulary
+        vocabulary.update(new_tokens)
+        touched_sentences = set(ti for t in new_tokens for ti in token_sentences[t])
+        for ti in touched_sentences:
+            ts = sentences[ti]
+            k = sentence_key(ts)
+            if k is None:
+                for t in set(ts['tokens']):
+                    token_sentences[t].remove(ti)
+                del learnq[ti]
+            else:
+                learnq[ti] = k
+
+    return chosen
+
+
 def main(argv):
     lang = argv[2]
     books = completed_books_in_language(
@@ -340,11 +391,16 @@ def main(argv):
     sentences = sorted(clean_formatting(s, lang) for s in sentences)
     homogenized_sentences = sorted(set(map(homogenize, sentences)))
     tokenizer = Tokenizer(homogenized_sentences)
-    for s in sentences:
-        print(json.dumps({
+    tokenized_sentences = [
+        {
             'text': s,
             'tokens': list(tokenizer.tokens(homogenize(s))),
-        }))
+        }
+        for s in sentences
+    ]
+    chosen_sentences = curriculum(tokenized_sentences)
+    for s in chosen_sentences:
+        print(json.dumps(s))
 
 
 if __name__ == '__main__':
