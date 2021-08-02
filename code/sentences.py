@@ -344,7 +344,6 @@ def main(argv):
         print(json.dumps({
             'text': s,
             'tokens': list(tokenizer.tokens(homogenize(s))),
-            'tokentree': list(tokenizer.tokentree(homogenize(s))),
         }))
 
 
