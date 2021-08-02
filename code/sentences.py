@@ -318,7 +318,12 @@ def curriculum(sentences):
     vocabulary = set()
     chosen = []
     token_count = Counter(t for s in sentences for t in s['tokens'])
-    length_count = Counter(len(s['tokens']) for s in sentences)
+
+    def nonempty_token_len(sentence):
+        return sum(any(c not in '[]' for c in t) for t in sentence['tokens'])
+
+    sentences = [s for s in sentences if nonempty_token_len(s) >= 3] # discard short sentences
+    length_count = Counter(nonempty_token_len(s) for s in sentences)
     token_sentences = defaultdict(set)
     for i, s in enumerate(sentences):
         for t in s['tokens']:
@@ -335,7 +340,7 @@ def curriculum(sentences):
         return (
             [-c for c, h, t in token_keys], # biggest smallest count first
             [(h, t) for c, h, t in token_keys], # break ties when number and counts of unknown tokens are the same
-            -length_count[len(sentence['tokens'])], # if unknown tokens are the same, pick something with a more common length
+            -length_count[nonempty_token_len(sentence)], # if unknown tokens are the same, pick something with a more common length
         )
 
     learnq = minpq()
