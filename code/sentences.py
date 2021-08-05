@@ -37,21 +37,23 @@ def sentences_from_alignment(paragraphs):
         subs = paragraph['subalignments']
         for sub in subs:
             sentence = align_json.span_text(sub)
-            first_word = WORD.search(sentence)
-            if first_word:
-                first_word = first_word.group()
-            if unfinished_sentence or ((not blocked) and first_word and (first_word.title() != first_word)):
+            words = WORD.findall(sentence)
+            if words:
+                first_word = words[0]
+                last_word = words[-1]
+            if unfinished_sentence or ((not blocked) and words and (first_word.title() != first_word)):
                 if not sentences[-1][-1].isspace():
                     sentences[-1] += ' '
                 sentences[-1] += sentence
             else:
                 sentences.append(sentence)
             rstripped = sentence.rstrip('\n ()«»—‘’‚“”‹›')
-            rstripped_bare = rstripped.rstrip('. ')
             unfinished_sentence = (
                 (rstripped[-1] not in '!.?')
-                or (not first_word)
-                or rstripped_bare[-1].isdigit()
+                or (len(words) < 2)
+                or last_word[-1].isdigit()
+                or (len(last_word) < 2)
+                or (not any(vowel in last_word.lower() for vowel in 'aeiouäöü'))
             )
             blocked = False
 
