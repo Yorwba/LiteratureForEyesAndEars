@@ -109,21 +109,23 @@ def clean_formatting(sentence, lang):
 
 
 def homogenize(sentence):
-    words = list(w.lower() for w in WORD.findall(sentence))
-    return '['+']['.join(words)+']'
+    words = [w.lower() for w in WORD.findall(sentence)]
+    return ['['+w+']' for w in words]
 
 
 class Tokenizer(object):
     """Inspired by https://en.wikipedia.org/wiki/Re-Pair """
 
-    def __init__(self, sentences):
-        self.sentences = sorted(set(sentences))
-        self.sentence_id = {s: i for i, s in enumerate(self.sentences)}
-        self.end_at = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
-        self.seq_prev = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
-        self.seq_next = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
-        self.same_prev = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
-        self.same_next = [[None] * (len(s) - 1) for i, s in enumerate(sentences)]
+    def __init__(self, strings):
+        self.string_counts = Counter(strings)
+        self.strings = sorted(self.string_counts)
+        self.string_counts = [self.string_counts[s] for s in self.strings]
+        self.string_id = {s: i for i, s in enumerate(self.strings)}
+        self.end_at = [[None] * (len(s) - 1) for i, s in enumerate(self.strings)]
+        self.seq_prev = [[None] * (len(s) - 1) for i, s in enumerate(self.strings)]
+        self.seq_next = [[None] * (len(s) - 1) for i, s in enumerate(self.strings)]
+        self.same_prev = [[None] * (len(s) - 1) for i, s in enumerate(self.strings)]
+        self.same_next = [[None] * (len(s) - 1) for i, s in enumerate(self.strings)]
         self.token_counts = Counter()
         self.total_tokens = 0
         self.token_pairs = defaultdict(set)
@@ -133,9 +135,11 @@ class Tokenizer(object):
         self.pair_last = dict()
 
         prev_i, prev_j = None, None
-        for i, s in enumerate(sentences):
-            self.token_counts.update(s)
-            self.total_tokens += len(s)
+        for i, s in enumerate(self.strings):
+            count = self.string_counts[i]
+            for c in s:
+                self.token_counts[c] += count
+            self.total_tokens += len(s) * count
             for j in range(len(s) - 1):
                 if prev_i is not None:
                     self.seq_prev[i][j] = (prev_i, prev_j)
@@ -145,7 +149,7 @@ class Tokenizer(object):
                 for token in pair:
                     self.token_pairs[token].add(pair)
                 self.pair_parts[pair] = tuple(pair)
-                self.pair_counts[pair] += 1
+                self.pair_counts[pair] += count
                 if pair not in self.pair_first:
                     self.pair_first[pair] = (i, j)
                     self.pair_last[pair] = (i, j)
@@ -185,7 +189,7 @@ class Tokenizer(object):
 
     def _remove_pair_at(self, i, j):
         end = self.end_at[i][j]
-        text = self.sentences[i][j:end]
+        text = self.strings[i][j:end]
         prev = self.seq_prev[i][j]
         next = self.seq_next[i][j]
         same_prev = self.same_prev[i][j]
@@ -208,7 +212,7 @@ class Tokenizer(object):
         self.seq_next[i][j] = None
         self.same_prev[i][j] = None
         self.same_next[i][j] = None
-        self.pair_counts[text] -= 1
+        self.pair_counts[text] -= self.string_counts[i]
         if self.pair_counts[text] == 0:
             for token in set(self.pair_parts[text]):
                 self.token_pairs[token].remove(text)
@@ -222,44 +226,44 @@ class Tokenizer(object):
         if self.pair_last.get(text) == (i, j):
             self.pair_last[text] = same_prev
 
-    def _replace_pair_at(self, old_i, old_j, new_i, new_j, old_end, new_end):
-        prev = self.seq_prev[old_i][old_j]
-        next = self.seq_next[old_i][old_j]
-        self._remove_pair_at(old_i, old_j)
+    def _replace_pair_at(self, i, old_j, new_j, old_end, new_end):
+        prev = self.seq_prev[i][old_j]
+        next = self.seq_next[i][old_j]
+        self._remove_pair_at(i, old_j)
 
         if prev:
             prev_i, prev_j = prev
-            self.seq_prev[new_i][new_j] = prev
-            self.seq_next[prev_i][prev_j] = (new_i, new_j)
+            self.seq_prev[i][new_j] = prev
+            self.seq_next[prev_i][prev_j] = (i, new_j)
         if next:
             next_i, next_j = next
-            self.seq_prev[next_i][next_j] = (new_i, new_j)
-            self.seq_next[new_i][new_j] = next
+            self.seq_prev[next_i][next_j] = (i, new_j)
+            self.seq_next[i][new_j] = next
 
-        self.end_at[new_i][new_j] = new_end
-        sentence = self.sentences[new_i]
-        text = sentence[new_j:new_end]
-        tokens = sentence[new_j:old_end], sentence[old_end:new_end]
+        self.end_at[i][new_j] = new_end
+        string = self.strings[i]
+        text = string[new_j:new_end]
+        tokens = string[new_j:old_end], string[old_end:new_end]
         for token in tokens:
             self.token_pairs[token].add(text)
         self.pair_parts[text] = tokens
-        self.pair_counts[text] += 1
+        self.pair_counts[text] += self.string_counts[i]
         if self.pair_first.get(text) is None:
-            self.pair_first[text] = (new_i, new_j)
-            self.pair_last[text] = (new_i, new_j)
+            self.pair_first[text] = (i, new_j)
+            self.pair_last[text] = (i, new_j)
         else:
             last_i, last_j = self.pair_last[text]
-            self.same_prev[new_i][new_j] = (last_i, last_j)
-            self.same_next[last_i][last_j] = (new_i, new_j)
-            self.pair_last[text] = (new_i, new_j)
+            self.same_prev[i][new_j] = (last_i, last_j)
+            self.same_next[last_i][last_j] = (i, new_j)
+            self.pair_last[text] = (i, new_j)
 
     def join_pair(self, pair):
         left, right = self.pair_parts[pair]
         count = 0
         position = self.pair_first.get(pair)
         while position:
-            count += 1
             i, j = position
+            count += self.string_counts[i]
             end = self.end_at[i][j]
             prev = self.seq_prev[i][j]
             next = self.seq_next[i][j]
@@ -269,13 +273,13 @@ class Tokenizer(object):
                 position = self.same_next[position[0]][position[1]]
             self._remove_pair_at(i, j)
             if prev and prev[0] == i:
-                prev_i, prev_j = prev
-                prev_end = self.end_at[prev_i][prev_j]
-                self._replace_pair_at(prev_i, prev_j, prev_i, prev_j, j, end)
+                prev_j = prev[1]
+                prev_end = self.end_at[i][prev_j]
+                self._replace_pair_at(i, prev_j, prev_j, j, end)
             if next and next[0] == i:
-                next_i, next_j = next
-                next_end = self.end_at[next_i][next_j]
-                self._replace_pair_at(next_i, next_j, i, j, end, next_end)
+                next_j = next[1]
+                next_end = self.end_at[i][next_j]
+                self._replace_pair_at(i, next_j, j, end, next_end)
         for token in left, right:
             self.token_counts[token] -= count
             if self.token_counts[token] == 0:
@@ -287,16 +291,16 @@ class Tokenizer(object):
         self.touched_tokens.add(pair)
         self.total_tokens -= count
 
-    def tokens(self, sentence):
-        i = start_i = self.sentence_id[sentence]
+    def tokens(self, string):
+        i = start_i = self.string_id[string]
         j = 0
         while i == start_i:
             end = self.end_at[i][j]
             if end is None: # no pair
                 assert j == 0
-                yield sentence
+                yield string
                 return
-            text = sentence[j:end]
+            text = string[j:end]
             first, second = self.pair_parts[text]
             if j == 0:
                 yield first
@@ -306,10 +310,10 @@ class Tokenizer(object):
                 break
             i, j = next
 
-    def tokentree(self, sentence):
+    def tokentree(self, string):
         def tree(token):
             return (token, tuple(map(tree, self.pair_parts.get(token, ()))))
-        for token in self.tokens(sentence):
+        for token in self.tokens(string):
             yield tree(token)
 
 
@@ -394,12 +398,12 @@ def main(argv):
         sentences += sentences_from_alignment(book_align)
 
     sentences = sorted(clean_formatting(s, lang) for s in sentences)
-    homogenized_sentences = sorted(set(map(homogenize, sentences)))
-    tokenizer = Tokenizer(homogenized_sentences)
+    homogenized_words = sorted(w for s in sentences for w in homogenize(s))
+    tokenizer = Tokenizer(homogenized_words)
     tokenized_sentences = [
         {
             'text': s,
-            'tokens': list(tokenizer.tokens(homogenize(s))),
+            'tokens': list(t for w in homogenize(s) for t in tokenizer.tokens(w)),
         }
         for s in sentences
     ]
