@@ -48,16 +48,23 @@ def sentences_from_alignment(paragraphs):
             if words:
                 first_word = words[0]
                 last_word = words[-1]
-            if unfinished_sentence or ((not blocked) and words and (first_word.title() != first_word)):
+            short = len(words) < 2
+            punctuation_to_strip = '\n ()«»—‘’‚“”‹›'
+            rstripped = sentence.rstrip(punctuation_to_strip)
+            lrstripped = rstripped.lstrip(punctuation_to_strip)
+            if (
+                    unfinished_sentence
+                    or ((not blocked) and words and (first_word.title() != first_word))
+                    or (short and lrstripped == rstripped)
+            ):
                 if not sentences[-1][-1].isspace():
                     sentences[-1] += ' '
                 sentences[-1] += sentence
             else:
                 sentences.append(sentence)
-            rstripped = sentence.rstrip('\n ()«»—‘’‚“”‹›')
             unfinished_sentence = (
                 (rstripped[-1] not in '!.?')
-                or (len(words) < 2)
+                or (short and lrstripped != rstripped)
                 or last_word[-1].isdigit()
                 or (len(last_word) < 2)
                 or (not any(vowel in last_word.lower() for vowel in 'aeiouäöü'))
