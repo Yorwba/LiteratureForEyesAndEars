@@ -3,11 +3,18 @@
 import align_json
 import csv
 from collections import defaultdict, Counter
+import hashlib
 import json
 import librivox_json
 from pqdict import maxpq, minpq
 import re
 import sys
+
+
+def stable_hash(string):
+    h = hashlib.md5()
+    h.update(string.encode('utf-8'))
+    return h.digest()
 
 
 WORD = re.compile('\\w+')
@@ -179,12 +186,15 @@ class Tokenizer(object):
                 # the t-statistic for deviation from independent pairing, with
                 # the variance approximated by the observed count. (Valid for
                 # total_tokens >> count)
-                self.pair_scores[pair] = (count - left_count*right_count/self.total_tokens)/(count ** 0.5)
+                self.pair_scores[pair] = (
+                    (count - left_count*right_count/self.total_tokens)/(count ** 0.5),
+                    stable_hash(pair), # tiebreaker
+                )
                 # In theory, all scores should be recalculated as total_tokens
                 # decreases, but invalidating only pairs whose token_counts
                 # changed seems reasonable enough.
 
-            best_pair, best_score = self.pair_scores.topitem()
+            best_pair, (best_score, _pair_hash) = self.pair_scores.topitem()
             if best_score <= 1: # TODO threshold may need adjustment
                 break
             self.join_pair(best_pair)
@@ -340,13 +350,14 @@ def curriculum(sentences):
         if not new_tokens:
             return None
         token_keys = sorted(
-            (token_count[t], hash(t), t) # smallest count first, break ties
+            (token_count[t], stable_hash(t), t) # smallest count first, break ties
             for t in new_tokens
         )
         return (
             [-c for c, h, t in token_keys], # biggest smallest count first
             [(h, t) for c, h, t in token_keys], # break ties when number and counts of unknown tokens are the same
             -length_count[nonempty_token_len(sentence)], # if unknown tokens are the same, pick something with a more common length
+            stable_hash(sentence['text']), # final tiebreaker
         )
 
     learnq = minpq()
