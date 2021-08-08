@@ -132,7 +132,7 @@ def homogenize(sentence):
 class Tokenizer(object):
     """Inspired by https://en.wikipedia.org/wiki/Re-Pair """
 
-    def __init__(self, strings):
+    def __init__(self, strings, confidence):
         self.string_counts = Counter(strings)
         self.strings = sorted(self.string_counts)
         self.string_counts = [self.string_counts[s] for s in self.strings]
@@ -202,7 +202,7 @@ class Tokenizer(object):
                 # changed seems reasonable enough.
 
             best_pair, (best_score, _pair_hash) = self.pair_scores.topitem()
-            if best_score <= 1: # TODO threshold may need adjustment
+            if best_score <= confidence:
                 break
             self.join_pair(best_pair)
 
@@ -419,7 +419,7 @@ def main(argv):
 
     sentences = sorted(clean_formatting(s, lang) for s in sentences)
     homogenized_words = sorted(w for s in sentences for w in homogenize(s))
-    tokenizer = Tokenizer(homogenized_words)
+    tokenizer = Tokenizer(homogenized_words, confidence=2)
     tokenized_sentences = [
         {
             'text': s,
