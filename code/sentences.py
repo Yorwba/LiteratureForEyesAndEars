@@ -57,11 +57,16 @@ def sentences_from_alignment(paragraphs):
                     or ((not blocked) and words and (first_word.title() != first_word))
                     or (short and lrstripped == rstripped)
             ):
-                if not sentences[-1][-1].isspace():
-                    sentences[-1] += ' '
-                sentences[-1] += sentence
+                if not sentences[-1]['text'][-1].isspace():
+                    sentences[-1]['text'] += ' '
+                sentences[-1]['text'] += sentence
+                sentences[-1]['end_time'] = sub['end_time']
             else:
-                sentences.append(sentence)
+                sentences.append({
+                    'text': sentence,
+                    'start_time': sub['start_time'],
+                    'end_time': sub['end_time'],
+                })
             unfinished_sentence = (
                 (rstripped[-1] not in '!.?')
                 or (short and lrstripped != rstripped)
@@ -402,6 +407,7 @@ def main(argv):
 
     sentences = []
     for book in books:
+        book_audio_file = book['lfeae_path']+'.mp3'
         book_text_file = book['lfeae_path']+'.txt'
         book_align_file = book['lfeae_path']+'.align.json'
         with open(book_text_file) as f: book_text = f.read()
@@ -415,19 +421,20 @@ def main(argv):
             print(f"Text of {book['title']} at {book_text_file} appears to have changed since computing alignment.", file=sys.stderr)
             sys.exit(1)
 
-        sentences += sentences_from_alignment(book_align)
+        book_sentences = sentences_from_alignment(book_align)
+        for s in book_sentences:
+            s['audio_path'] = book_audio_file
+        sentences += book_sentences
 
-    sentences = sorted(clean_formatting(s, lang) for s in sentences)
-    homogenized_words = sorted(w for s in sentences for w in homogenize(s))
+    for s in sentences:
+        s['text'] = clean_formatting(s['text'], lang)
+    sentences = sorted(sentences, key=lambda s: s['text'])
+    homogenized_words = sorted(w for s in sentences for w in homogenize(s['text']))
     tokenizer = Tokenizer(homogenized_words, confidence=2)
-    tokenized_sentences = [
-        {
-            'text': s,
-            'tokens': list(t for w in homogenize(s) for t in tokenizer.tokens(w)),
-        }
-        for s in sentences
-    ]
-    chosen_sentences = curriculum(tokenized_sentences)
+
+    for s in sentences:
+        s['tokens'] = list(t for w in homogenize(s['text']) for t in tokenizer.tokens(w))
+    chosen_sentences = curriculum(sentences)
     for s in chosen_sentences:
         print(json.dumps(s))
 
