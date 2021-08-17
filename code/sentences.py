@@ -350,7 +350,13 @@ def curriculum(sentences):
     def nonempty_token_len(sentence):
         return sum(any(c not in '[]' for c in t) for t in sentence['tokens'])
 
-    sentences = [s for s in sentences if nonempty_token_len(s) >= 3] # discard short sentences
+    sentences = [
+        s for s in sentences
+        if (
+                nonempty_token_len(s) >= 3 # discard short sentences
+                and s['end_time'] - s['start_time'] < 10 # ... and long ones
+        )
+    ]
     length_count = Counter(nonempty_token_len(s) for s in sentences)
     token_sentences = defaultdict(set)
     for i, s in enumerate(sentences):
