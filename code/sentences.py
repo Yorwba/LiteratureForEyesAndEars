@@ -319,7 +319,10 @@ class Tokenizer(object):
         i = start_i = self.string_id[string]
         j = 0
         while i == start_i:
-            end = self.end_at[i][j]
+            if self.end_at[i]:
+                end = self.end_at[i][j]
+            else:
+                end = None
             if end is None: # no pair
                 assert j == 0
                 yield string
