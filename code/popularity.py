@@ -25,9 +25,18 @@ def stats_per_language(dicts, keys):
     return stats
 
 
+def stats_per_video_in_language(language, dicts, keys):
+    stats = {k: defaultdict(float) for k in keys}
+    for row in dicts:
+        if lang(row) != language: continue
+        for k in keys:
+            stats[k][row['Video title']] += float(row[k] or 0)
+    return stats
+
+
 def ranking(stats):
     for k, s in stats.items():
-        print('Top languages by '+k)
+        print('Top by '+k)
         for l, t in sorted(s.items(), key=lambda lt: -lt[1]):
             print(l, t)
         print()
@@ -54,7 +63,7 @@ def add_playtime_to_dicts(dicts, playtime):
 
 
 def bottom_line(stats):
-    print('Languages watched by watched ratio, with watch time, available time, number of likes and subscribes:')
+    print('Watched by watched ratio, with watch time, available time, number of likes and subscribes:')
     langs = [l for l, t in stats['Watch time (hours)'].items()]
     for l in sorted(langs, key=lambda l: -stats['Watch ratio'][l]):
         print(l, f"{stats['Watch ratio'][l]:.02}", f"{stats['Watch time (hours)'][l]:.02}", f"{stats['Available time (hours)'][l]:.02}", int(stats['Likes'][l]), int(stats['Subscribers'][l]))
@@ -68,7 +77,10 @@ def main(argv):
         dicts,
         playtime_per_youtube_id(librivox_json.get_all_books(argv[1]))
     )
-    stats = stats_per_language(dicts, ['Watch time (hours)', 'Available time (hours)', 'Likes', 'Subscribers', 'Views', 'Impressions'])
+    if len(argv) > 3:
+        stats = stats_per_video_in_language(argv[3], dicts, ['Watch time (hours)', 'Available time (hours)', 'Likes', 'Subscribers', 'Views', 'Impressions'])
+    else:
+        stats = stats_per_language(dicts, ['Watch time (hours)', 'Available time (hours)', 'Likes', 'Subscribers', 'Views', 'Impressions'])
     stats['Watch ratio'] = {
         l:  stats['Watch time (hours)'][l] / stats['Available time (hours)'][l]
         for l in stats['Watch time (hours)']
