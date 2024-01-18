@@ -59,7 +59,11 @@ def playtime_per_youtube_id(books):
 
 def add_playtime_to_dicts(dicts, playtime):
     for d in dicts:
-        d['Available time (hours)'] = playtime[d['Video'].strip()] / (60. * 60.)
+        if 'Video' in d:
+            video = d['Video']
+        else:
+            video = d['Content']
+        d['Available time (hours)'] = playtime[video.strip()] / (60. * 60.)
 
 
 def bottom_line(stats):
